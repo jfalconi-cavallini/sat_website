@@ -644,7 +644,7 @@ export default function QuestionViewer({
   };
 
   // autoscroll active tile into view
-  const activeRef = React.useRef<HTMLDivElement | null>(null);
+  const activeRef = React.useRef<HTMLButtonElement | null>(null);
   React.useEffect(() => {
     activeRef.current?.scrollIntoView({
       block: "nearest",
