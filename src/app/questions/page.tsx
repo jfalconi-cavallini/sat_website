@@ -3,7 +3,6 @@ import Link from "next/link";
 import { loadEnglishRaw, type Section } from "@/lib/english";
 import { loadMathRaw } from "@/lib/math";
 import StatusFilterClient from "./StatusFilterClient";
-import DifficultyFilterClient from "./DifficultyFilterClient";
 
 type SearchParams = {
   difficulty?: string;
