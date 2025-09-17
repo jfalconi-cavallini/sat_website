@@ -10,12 +10,73 @@ import {
   type QuestionStatus,
 } from "@/lib/progress";
 
+/* =======================================
+   Domain types (can be moved to '@/types')
+======================================= */
+
+type DifficultyCode = "E" | "M" | "H" | (string & {});
+type QuestionType = "mcq" | "spr" | (string & {});
+
+export interface Choice {
+  key?: string;
+  // Possible HTML-ish fields coming from various sources
+  html?: string;
+  choice_html?: string;
+  math?: string;
+  mathml?: string;
+  latex?: string;
+  // Text fallbacks
+  text?: string;
+  label?: string;
+  value?: string;
+  alttext?: string;
+}
+
+export interface MediaItem {
+  tag?: string;
+  svg?: string;
+}
+
+export interface Question {
+  id: string;
+  type: QuestionType;
+  domain_desc?: string;
+  skill_desc?: string;
+
+  // Text/HTML bodies
+  stimulus_html?: string;
+  stem_html?: string;
+  stimulus?: string;
+  stem?: string;
+
+  // Media
+  media?: { stimulus?: MediaItem[] };
+
+  // MCQ / SPR payloads
+  choices?: Choice[];
+  correct_letters?: string | string[];
+  answer?: string;
+
+  difficulty?: DifficultyCode;
+
+  // Explanations
+  rationale_html?: string;
+  rationale?: string;
+}
+
+export interface StoredProgress {
+  status: "unanswered" | "correct" | "incorrect" | "flagged";
+  selectedAnswer?: string;
+}
+
 /* ---------------------------------------
    Helpers for rendering math/choices
 ----------------------------------------*/
 
 /** Pick any HTML/Math-ish field if present */
-function pickHtmlLike(c: any): string | undefined {
+function pickHtmlLike(c: Choice | string): string | undefined {
+  // If someone passed raw string
+  if (typeof c === "string") return c;
   return (
     (typeof c?.html === "string" && c.html) ||
     (typeof c?.choice_html === "string" && c.choice_html) ||
@@ -75,9 +136,10 @@ function formatWordedMath(raw?: string): string {
 }
 
 /** Render a choice that may be HTML/Math or plain worded text */
-function renderChoiceContent(c: any) {
+function renderChoiceContent(c: Choice | string) {
   const htmlish = pickHtmlLike(c);
-  const text = c?.text ?? c?.label ?? c?.value ?? c?.alttext ?? c;
+  const obj = typeof c === "string" ? undefined : c;
+  const text = obj?.text ?? obj?.label ?? obj?.value ?? obj?.alttext ?? (typeof c === "string" ? c : "");
 
   if (htmlish) {
     return (
@@ -94,8 +156,6 @@ function renderChoiceContent(c: any) {
    Shared small utilities
 ----------------------------------------*/
 
-type Row = any;
-
 /** Safely render HTML fragments (stimulus/stem/rationale) — inherits parent color */
 function htmlBlock(html?: string, cls = "question-html") {
   if (!html) return null;
@@ -109,12 +169,10 @@ function htmlBlock(html?: string, cls = "question-html") {
 }
 
 /** If stimulus_html is empty but an SVG is present in media, render it */
-function svgFromMedia(q: any): string | undefined {
+function svgFromMedia(q: Question): string | undefined {
   const list = q?.media?.stimulus;
   if (!Array.isArray(list)) return;
-  const hit = list.find(
-    (m: any) => m?.tag === "svg" && typeof m.svg === "string"
-  );
+  const hit = list.find((m) => m?.tag === "svg" && typeof m.svg === "string");
   return hit?.svg;
 }
 
@@ -133,15 +191,15 @@ function QuestionCard({
   questionProgress,
   onToggleFlag,
 }: {
-  q: Row;
+  q: Question;
   onAnswerSubmit: (answer: string) => void;
   selectedAnswer: string | null;
   onAnswerSelect: (answer: string) => void;
-  questionProgress: any;
+  questionProgress: StoredProgress | undefined;
   onToggleFlag: () => void;
 }) {
   const {
-    type, // "mcq" | "spr"
+    type,
     domain_desc,
     skill_desc,
     stimulus_html,
@@ -149,12 +207,12 @@ function QuestionCard({
     stimulus,
     stem,
     choices,
-    correct_letters, // MCQ
-    answer, // SPR
+    correct_letters,
+    answer,
     difficulty,
     rationale_html,
     rationale,
-  } = q ?? {};
+  } = q;
 
   const isSPR = String(type || "").toLowerCase() === "spr";
   const fallbackSvg = !stimulus_html ? svgFromMedia(q) : undefined;
@@ -172,7 +230,7 @@ function QuestionCard({
   const [showExplanation, setShowExplanation] = React.useState(false);
 
   // Difficulty pill styling (colors are fine on white)
-  const getDifficultyDisplay = (diff: string) => {
+  const getDifficultyDisplay = (diff?: DifficultyCode) => {
     if (diff === "E")
       return {
         text: "Easy",
@@ -189,9 +247,9 @@ function QuestionCard({
         color: "text-red-700 bg-red-100 border-red-200",
       };
     return {
-      text: "Unknown",
-      color: "text-zinc-600 bg-zinc-100 border-zinc-200",
-    };
+        text: "Unknown",
+        color: "text-zinc-600 bg-zinc-100 border-zinc-200",
+      };
   };
   const difficultyInfo = getDifficultyDisplay(difficulty);
 
@@ -338,7 +396,7 @@ function QuestionCard({
       {!isSPR && Array.isArray(choices) && choices.length > 0 && (
         <div className="space-y-4">
           <ul className="space-y-3">
-            {choices.map((c: any, i: number) => {
+            {choices.map((c: Choice, i: number) => {
               const choiceKey = c.key ?? String.fromCharCode(65 + i);
               const isSelected = selectedAnswer === choiceKey;
               const isCorrect = isAnswered && choiceKey === mcqCorrect;
@@ -463,11 +521,11 @@ function shuffle<T>(arr: T[]) {
 }
 
 // Filter questions by status
-function filterQuestionsByStatus(rows: Row[], status?: string): Row[] {
+function filterQuestionsByStatus(rows: Question[], status?: string): Question[] {
   if (!status || status === "All") return rows;
   const progress = getAllProgress();
   return rows.filter((row) => {
-    const qp = progress[row.id];
+    const qp: StoredProgress | undefined = progress[row.id];
     switch (status) {
       case "Unanswered":
         return !qp || qp.status === "unanswered";
@@ -491,7 +549,7 @@ export default function QuestionViewer({
   difficulty,
   status,
 }: {
-  rows: Row[];
+  rows: Question[];
   subject: "english" | "math";
   domain?: string;
   skill?: string;
@@ -509,7 +567,7 @@ export default function QuestionViewer({
   const total = filteredRows.length;
   const iParam = Number(searchParams.get("i") || "1");
   const initialIndex = Math.min(
-    Math.max(isFinite(iParam) ? iParam : 1, 1),
+    Math.max(Number.isFinite(iParam) ? iParam : 1, 1),
     Math.max(total, 1)
   );
 
@@ -518,9 +576,7 @@ export default function QuestionViewer({
   const [order, setOrder] = React.useState<number[]>(
     () => Array.from({ length: total }, (_, i) => i)
   );
-  const [selectedAnswers, setSelectedAnswers] = React.useState<{
-    [key: string]: string;
-  }>({});
+  const [selectedAnswers, setSelectedAnswers] = React.useState<Record<string, string>>({});
   const [progressUpdates, setProgressUpdates] = React.useState(0);
 
   React.useEffect(() => {
@@ -582,8 +638,9 @@ export default function QuestionViewer({
   };
 
   const getQuestionProgressWithUpdates = (questionId: string) => {
-    progressUpdates; // dep to force recompute
-    return getQuestionProgress(questionId);
+    // dependency to force recompute on updates
+    void progressUpdates;
+    return getQuestionProgress(questionId) as StoredProgress | undefined;
   };
 
   // autoscroll active tile into view
@@ -665,9 +722,9 @@ export default function QuestionViewer({
           onAnswerSubmit={(answer) =>
             handleAnswerSubmit(activeRow.id, answer, activeCorrectAnswer)
           }
-          selectedAnswer={selectedAnswers[activeRow?.id] || null}
+          selectedAnswer={selectedAnswers[activeRow.id] || null}
           onAnswerSelect={(answer) => handleAnswerSelect(activeRow.id, answer)}
-          questionProgress={getQuestionProgressWithUpdates(activeRow?.id)}
+          questionProgress={getQuestionProgressWithUpdates(activeRow.id)}
           onToggleFlag={() => handleToggleFlag(activeRow.id)}
         />
 
@@ -695,7 +752,7 @@ export default function QuestionViewer({
                 const n = pos + 1;
                 const isActive = pos === idxInOrder;
                 const question = filteredRows[rowIndex];
-                const progress = getQuestionProgressWithUpdates(question?.id);
+                const progress = getQuestionProgressWithUpdates(question.id);
 
                 return (
                   <button
