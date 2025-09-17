@@ -1,10 +1,10 @@
 import { loadEnglishRaw } from "@/lib/english";
-import QuestionViewer from "@/components/QuestionViewer";
+import QuestionViewer, { type Question } from "@/components/QuestionViewer";
 
-type Search = { 
-  domain?: string; 
-  skill?: string; 
-  difficulty?: string; 
+type Search = {
+  domain?: string;
+  skill?: string;
+  difficulty?: "All" | "Easy" | "Medium" | "Hard" | string;
 };
 
 export default async function Page({
@@ -13,7 +13,9 @@ export default async function Page({
   searchParams: Promise<Search>;
 }) {
   const { domain, skill, difficulty } = await searchParams;
-  const rows = await loadEnglishRaw();
+
+  // Load and strongly type the raw rows
+  const rows = (await loadEnglishRaw()) as unknown as Question[];
 
   const filtered = rows.filter((r) => {
     const d = r.domain_desc?.trim();
@@ -21,15 +23,12 @@ export default async function Page({
     const diff = r.difficulty?.trim();
 
     let difficultyMatch = true;
-    if (difficulty) {
+    if (difficulty && difficulty !== "All") {
       const difficultyCode =
-        difficulty === "Easy"
-          ? "E"
-          : difficulty === "Medium"
-          ? "M"
-          : difficulty === "Hard"
-          ? "H"
-          : difficulty;
+        difficulty === "Easy" ? "E" :
+        difficulty === "Medium" ? "M" :
+        difficulty === "Hard" ? "H" :
+        difficulty; // allow already-coded values
       difficultyMatch = diff === difficultyCode;
     }
 
@@ -41,10 +40,10 @@ export default async function Page({
   });
 
   return (
-    <main className="min-h-screen bg-slate-950 text-white"> {/* ✅ dark background */}
+    <main className="min-h-screen bg-slate-950 text-white">
       <div className="mx-auto max-w-5xl px-4 py-6">
         <QuestionViewer
-          rows={filtered as any[]}
+          rows={filtered}
           subject="english"
           domain={domain}
           skill={skill}
