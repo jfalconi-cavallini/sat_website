@@ -4,11 +4,6 @@ import path from "node:path";
 export type Topic = { name: string; count: number };
 export type Section = { name: string; items: Topic[] };
 
-/** Minimal fields we need from your JSON */
-type EnglishRow = {
-  domain_desc: string;   // e.g. "Information and Ideas"
-  skill_desc: string;    // e.g. "Inferences"
-};
 
 export async function loadEnglishSections(): Promise<Section[]> {
   // Adjust filename if yours differs

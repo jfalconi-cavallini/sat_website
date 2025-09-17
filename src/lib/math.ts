@@ -4,10 +4,6 @@ import path from "node:path";
 export type Topic = { name: string; count: number };
 export type Section = { name: string; items: Topic[] };
 
-type MathRow = {
-  domain_desc: string; // e.g., "Algebra"
-  skill_desc: string;  // e.g., "Linear functions"
-};
 
 export async function loadMathSections(): Promise<Section[]> {
   const file = path.join(process.cwd(), "data", "math_qa_normalized.json");
