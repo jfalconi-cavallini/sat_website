@@ -1,12 +1,20 @@
 // app/questions/page.tsx
 import Link from "next/link";
-import { loadEnglishSections, loadEnglishRaw, type Section } from "@/lib/english";
-import { loadMathSections, loadMathRaw } from "@/lib/math";
+import { loadEnglishRaw, type Section } from "@/lib/english";
+import { loadMathRaw } from "@/lib/math";
 import StatusFilterClient from "./StatusFilterClient";
+import DifficultyFilterClient from "./DifficultyFilterClient";
 
-type SearchParams = { 
+type SearchParams = {
   difficulty?: string;
   status?: string;
+};
+
+/** Minimal shape we actually use from the raw rows */
+type RawRow = {
+  difficulty?: string;
+  domain_desc?: string;
+  skill_desc?: string;
 };
 
 /* ---------- Helper Functions ---------- */
@@ -16,49 +24,49 @@ function getDifficultyCode(difficulty: string): string | null {
 }
 
 async function getFilteredSections(
-  subject: "english" | "math", 
+  subject: "english" | "math",
   difficulty?: string
 ): Promise<Section[]> {
   // Load raw data to do real filtering
-  const rawData = subject === "english" ? await loadEnglishRaw() : await loadMathRaw();
+  const rawData: RawRow[] =
+    subject === "english"
+      ? ((await loadEnglishRaw()) as unknown as RawRow[])
+      : ((await loadMathRaw()) as unknown as RawRow[]);
+
   const difficultyCode = getDifficultyCode(difficulty || "");
-  
+
   // Filter by difficulty if specified
-  const filteredData = difficultyCode 
-    ? rawData.filter((row: any) => row.difficulty?.trim() === difficultyCode)
+  const filteredData: RawRow[] = difficultyCode
+    ? rawData.filter((row) => row.difficulty?.trim() === difficultyCode)
     : rawData;
-  
+
   // Build sections from filtered data
   const byDomain = new Map<string, Map<string, number>>();
-  
-  filteredData.forEach((row: any) => {
+
+  filteredData.forEach((row: RawRow) => {
     const domain = row.domain_desc?.trim();
     const skill = row.skill_desc?.trim();
-    
     if (!domain || !skill) return;
-    
+
     if (!byDomain.has(domain)) {
       byDomain.set(domain, new Map());
     }
     const skillMap = byDomain.get(domain)!;
     skillMap.set(skill, (skillMap.get(skill) || 0) + 1);
   });
-  
+
   // Convert to Section format
   const sections: Section[] = [];
   byDomain.forEach((skillMap, domainName) => {
     const items = Array.from(skillMap.entries()).map(([skillName, count]) => ({
       name: skillName,
-      count
+      count,
     }));
     sections.push({ name: domainName, items });
   });
-  
+
   return sections;
 }
-
-/* ---------- Client Component for Filters ---------- */
-import DifficultyFilterClient from "./DifficultyFilterClient";
 
 /* ---------- UI Card ---------- */
 function SectionCard({
@@ -87,8 +95,10 @@ function SectionCard({
 
   return (
     <section className="group relative rounded-2xl border border-white/10 bg-white/5 p-5 shadow-[0_10px_30px_-15px_rgba(0,0,0,0.6)] backdrop-blur">
-      <div className="pointer-events-none absolute -inset-px rounded-2xl opacity-0 transition-opacity duration-300 group-hover:opacity-100"
-           style={{ background: "radial-gradient(600px 200px at 50% -10%, rgba(99,102,241,0.15), transparent 60%)" }} />
+      <div
+        className="pointer-events-none absolute -inset-px rounded-2xl opacity-0 transition-opacity duration-300 group-hover:opacity-100"
+        style={{ background: "radial-gradient(600px 200px at 50% -10%, rgba(99,102,241,0.15), transparent 60%)" }}
+      />
       <div className="relative">
         <div className="mb-4 flex items-center justify-between">
           <h2 className="text-lg font-semibold text-white/90">{title}</h2>
@@ -106,12 +116,12 @@ function SectionCard({
               <div key={sec.name}>
                 <div className="mb-2 flex items-center justify-between">
                   <Link
-                    href={{ 
-                      pathname: `/questions/${subject}`, 
-                      query: { 
+                    href={{
+                      pathname: `/questions/${subject}`,
+                      query: {
                         domain: sec.name,
-                        ...(currentDifficulty && currentDifficulty !== "All" && { difficulty: currentDifficulty })
-                      } 
+                        ...(currentDifficulty && currentDifficulty !== "All" && { difficulty: currentDifficulty }),
+                      },
                     }}
                     className="text-[11px] font-medium uppercase tracking-wide text-white/50 hover:text-white/80"
                   >
@@ -128,10 +138,10 @@ function SectionCard({
                       <Link
                         href={{
                           pathname: `/questions/${subject}`,
-                          query: { 
-                            domain: sec.name, 
+                          query: {
+                            domain: sec.name,
                             skill: t.name,
-                            ...(currentDifficulty && currentDifficulty !== "All" && { difficulty: currentDifficulty })
+                            ...(currentDifficulty && currentDifficulty !== "All" && { difficulty: currentDifficulty }),
                           },
                         }}
                         className="flex items-center justify-between rounded-lg border border-white/10 bg-white/5 px-3 py-2 text-white/90 transition hover:border-indigo-400/30 hover:bg-indigo-400/10"
@@ -160,11 +170,11 @@ export default async function Page({
   searchParams: Promise<SearchParams>;
 }) {
   const { difficulty, status } = await searchParams;
-  
+
   // Load filtered sections based on difficulty
   const [englishSections, mathSections] = await Promise.all([
     getFilteredSections("english", difficulty),
-    getFilteredSections("math", difficulty)
+    getFilteredSections("math", difficulty),
   ]);
 
   return (
@@ -188,14 +198,14 @@ export default async function Page({
         {/* Filters */}
         <div className="mb-8 rounded-2xl border border-white/10 bg-white/5 p-6 backdrop-blur space-y-6">
           <h2 className="text-lg font-semibold text-white mb-4">Filters</h2>
-          
+
           {/* Difficulty Filter */}
           <div>
             <h3 className="text-sm font-medium text-white/80 mb-3">Difficulty</h3>
             <div className="flex flex-wrap gap-2">
               {["All", "Easy", "Medium", "Hard"].map((option) => {
                 const isSelected = (difficulty || "All") === option;
-                
+
                 // Build query params
                 const query: Record<string, string> = {};
                 if (status && status !== "All") {
@@ -205,9 +215,8 @@ export default async function Page({
                   query.difficulty = option;
                 }
 
-                const href = Object.keys(query).length > 0 
-                  ? `/questions?${new URLSearchParams(query).toString()}`
-                  : "/questions";
+                const href =
+                  Object.keys(query).length > 0 ? `/questions?${new URLSearchParams(query).toString()}` : "/questions";
 
                 return (
                   <Link
@@ -217,7 +226,7 @@ export default async function Page({
                       isSelected
                         ? option === "Easy"
                           ? "bg-green-600 text-white"
-                          : option === "Medium" 
+                          : option === "Medium"
                           ? "bg-yellow-600 text-white"
                           : option === "Hard"
                           ? "bg-red-600 text-white"
@@ -235,12 +244,9 @@ export default async function Page({
           {/* Status Filter */}
           <div>
             <h3 className="text-sm font-medium text-white/80 mb-3">Progress Status</h3>
-            <StatusFilterClient 
-              currentStatus={status}
-              currentDifficulty={difficulty}
-            />
+            <StatusFilterClient currentStatus={status} currentDifficulty={difficulty} />
           </div>
-          
+
           {/* Active Filters */}
           {((difficulty && difficulty !== "All") || (status && status !== "All")) && (
             <div className="flex items-center gap-2 flex-wrap">
@@ -267,16 +273,8 @@ export default async function Page({
 
         {/* Cards */}
         <div className="grid grid-cols-1 gap-6 md:grid-cols-2">
-          <SectionCard 
-            title="English" 
-            sections={englishSections} 
-            currentDifficulty={difficulty}
-          />
-          <SectionCard 
-            title="Math" 
-            sections={mathSections} 
-            currentDifficulty={difficulty}
-          />
+          <SectionCard title="English" sections={englishSections} currentDifficulty={difficulty} />
+          <SectionCard title="Math" sections={mathSections} currentDifficulty={difficulty} />
         </div>
 
         {/* Quick actions */}
