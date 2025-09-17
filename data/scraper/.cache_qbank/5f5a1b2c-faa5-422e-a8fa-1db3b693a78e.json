@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>The prime meridian, the global indicator of zero degrees longitude established in 1884, was originally determined using astronomically derived coordinates. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> as decades passed, new calculations would reveal increasingly precise coordinates, yet the prime meridian remained unchanged; it wasn&rsquo;t until the 1980s that, spurred by improved geodetic data, the prime meridian was officially moved&mdash;roughly one hundred meters east.</p>",
+  "keys": [
+    "16d5d6d9-0224-4b35-9a02-94055da70a93"
+  ],
+  "answerOptions": [
+    {
+      "id": "4a84b53f-b2bf-4ca7-9e67-035a7c4d555b",
+      "content": "<p>Specifically,</p>"
+    },
+    {
+      "id": "e006217a-e157-4937-b7fd-064c9ac19fc4",
+      "content": "<p>To that end,&nbsp; &nbsp;</p>"
+    },
+    {
+      "id": "16d5d6d9-0224-4b35-9a02-94055da70a93",
+      "content": "<p>Again and again,</p>"
+    },
+    {
+      "id": "8a55de9f-a59e-48db-8d41-67f7be193be6",
+      "content": "<p>Granted,</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. \"Again and again\" logically signals that the information in this sentence&mdash;that new calculations revealed increasingly precise coordinates for the location of the prime meridian&mdash;refers to events that occurred multiple times in the decades after the establishment of the prime meridian in 1884 (which is described in the preceding sentence).</p><p>Choice A is incorrect because \"specifically\" illogically signals that the information in this sentence provides specific, precise details elaborating on the description of the prime meridian&rsquo;s establishment in the previous sentence. Instead, the sentence indicates that increasingly precise coordinates were revealed on multiple occasions in the decades following the meridian&rsquo;s establishment. Choice B is incorrect because \"to that end\" illogically signals that the information in this sentence is a means of accomplishing a goal established in the previous sentence about the prime meridian&rsquo;s establishment. Instead, the sentence indicates that increasingly precise coordinates were revealed on multiple occasions in the decades following the meridian&rsquo;s establishment. Choice D is incorrect because \"granted\" illogically signals that the information in this sentence is in opposition to the information about the prime meridian&rsquo;s establishment in the previous sentence. Instead, the sentence indicates that increasingly precise coordinates were revealed on multiple occasions in the decades following the meridian&rsquo;s establishment.</p>",
+  "externalid": "5f5a1b2c-faa5-422e-a8fa-1db3b693a78e",
+  "correct_answer": [
+    "C"
+  ]
+}

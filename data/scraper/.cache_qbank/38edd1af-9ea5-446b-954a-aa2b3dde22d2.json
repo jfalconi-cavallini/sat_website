@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Tortoises can be found in many works of literature. For example, in Tom Stoppard&rsquo;s 1993 play <em>Arcadia</em>, there is a tortoise that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> by two names (Plautus and Lightning) and appears in both of the play&rsquo;s parallel timelines. As a character, the tortoise symbolizes the connection between the past and present.</p>",
+  "type": "mcq",
+  "keys": [
+    "5106bc62-25a8-4772-b485-4c017c66a48d"
+  ],
+  "answerOptions": [
+    {
+      "id": "5106bc62-25a8-4772-b485-4c017c66a48d",
+      "content": "<p>goes</p>"
+    },
+    {
+      "id": "70a17d49-bc12-4674-9b8a-6b0b72a85fe1",
+      "content": "<p>will have gone</p>"
+    },
+    {
+      "id": "1d6ec868-fc67-4305-a727-59ac62756de0",
+      "content": "<p>went</p>"
+    },
+    {
+      "id": "7da23ddc-4095-4a5f-b601-2dc0de046be6",
+      "content": "<p>had gone</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of verbs to express tense in a sentence. In this choice, the present tense verb \"goes\" is consistent with the other present tense verbs (\"appears\" and \"symbolizes\") used to describe the tortoise in Stoppard&rsquo;s play. Furthermore, it&rsquo;s conventional to use the present tense when discussing a literary work.</p><p>Choice B is incorrect because the future perfect tense verb \"will have gone\" isn&rsquo;t consistent with the other present tense verbs used to describe the tortoise in Stoppard&rsquo;s play. Choice C is incorrect because the past tense verb \"went\" isn&rsquo;t consistent with the other present tense verbs used to describe the tortoise in Stoppard&rsquo;s play. Choice D is incorrect because the past perfect tense verb \"had gone\" isn&rsquo;t consistent with the other present tense verbs used to describe the tortoise in Stoppard&rsquo;s play.</p>",
+  "externalid": "38edd1af-9ea5-446b-954a-aa2b3dde22d2",
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>The percentage of US forest land that a 2023 federal report identified as being either mature or old growth exceeds other recent estimates. Given how little <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> there is among scientists regarding the scope of these categories, this discrepancy shouldn&rsquo;t be surprising: forest researchers regularly dispute one another&rsquo;s classifications.&nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "08ae2d9c-7091-44ad-8474-f7954883bfed"
+  ],
+  "answerOptions": [
+    {
+      "id": "f5185f26-7606-4190-b918-829ed68c2278",
+      "content": "<p>deliberation</p>"
+    },
+    {
+      "id": "7b3f5242-fedf-4f8f-9e36-8769ac4f8c9f",
+      "content": "<p>vigilance</p>"
+    },
+    {
+      "id": "dfc6acd7-02fb-4802-8e2c-e4e943a9705d",
+      "content": "<p>interest</p>"
+    },
+    {
+      "id": "08ae2d9c-7091-44ad-8474-f7954883bfed",
+      "content": "<p>consensus</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of US forest land classifications. In this context, \"consensus\" means agreement. The text indicates that a percentage given in a US forest land report differs from other estimates and that this discrepancy isn&rsquo;t surprising, given that forest researchers regularly dispute one another&rsquo;s classifications of parts of US forest land as either mature or old growth. This context conveys that there is little agreement when it comes to these categories.</p><p>Choice A is incorrect because the text states that there is often dispute among forest researchers about classifications of US forest land as either mature or old growth, which directly indicates that when it comes to these categories, there is much \"deliberation,\" or discussion and consideration, not little deliberation. Choice B is incorrect because the text indicates that there is often dispute among forest researchers about classifications of US forest land as either mature or old growth; this doesn&rsquo;t imply that there is little \"vigilance,\" or careful attention, among researchers when it comes to these categories but rather conveys that researchers do pay attention to forest land classifications and question one another&rsquo;s decisions. Choice C is incorrect because the text indicates that there is often dispute among forest researchers about classifications of US forest land as either mature or old growth; this doesn&rsquo;t imply that there is little \"interest,\" or concern, among researchers when it comes to these categories but rather conveys that researchers are concerned with forest land classifications and pay attention to one another&rsquo;s classifications.</p>",
+  "externalid": "a20b2ca0-69db-4750-ae47-4d37bd2c93c7",
+  "correct_answer": [
+    "D"
+  ]
+}

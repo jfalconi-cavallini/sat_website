@@ -1,0 +1,38 @@
+{
+  "vaultid": "e9a60585-fcd9-4fd5-8651-2842fd4cde70",
+  "keys": [
+    "089471ce-9899-4ebe-a255-fc7dc1878fc2"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the use of finite and nonfinite verb forms within a sentence. A main clause requires a finite verb to perform the action of the subject (in this case, &ldquo;some historians&rdquo;), and this choice supplies the finite present tense verb &ldquo;claim&rdquo; to indicate what some historians do.&nbsp;</p><p>Choice A is incorrect because the nonfinite participle &ldquo;claiming&rdquo; doesn&rsquo;t supply the main clause with a finite verb. Choice C is incorrect because the nonfinite participle &ldquo;having claimed&rdquo; doesn&rsquo;t supply the main clause with a finite verb. Choice D is incorrect because the nonfinite to-infinitive &ldquo;to claim&rdquo; doesn&rsquo;t supply the main clause with a finite verb. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "9f44164d-95cd-4ebd-a001-076b040f7945",
+  "stimulus": "<p>In 1637, the price of tulips skyrocketed in Amsterdam, with single bulbs of rare varieties selling for up to the equivalent of $200,000 in today&rsquo;s US dollars. Some historians <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> that this &ldquo;tulip mania&rdquo; was the first historical instance of an asset bubble, which occurs when investors drive prices to highs not supported by actual demand.</p>",
+  "templateclusterid": "8658c732-09d5-4956-a79c-ab2787a9d66d",
+  "parenttemplatename": "OSP-700-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "ba46bbf6-69d8-43f2-8f1b-266e371948f2",
+      "content": "<p>claiming</p>"
+    },
+    {
+      "id": "089471ce-9899-4ebe-a255-fc7dc1878fc2",
+      "content": "<p>claim</p>"
+    },
+    {
+      "id": "bf131a14-6a6f-4c6d-9c93-6463e582dd2a",
+      "content": "<p>having claimed</p>"
+    },
+    {
+      "id": "a4c15225-4940-4177-869d-a1fb0955c607",
+      "content": "<p>to claim</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "5f7a7ea8-82c4-4d13-aea4-8d7c1f814c46",
+  "keys": [
+    "0c2422a8-d1cd-45e8-a1e5-7e79daa7d29e"
+  ],
+  "rationale": "<p>Choice A is the best answer because it presents the quotation that most directly illustrates the claim that Cather portrays Alexandra as having a deep emotional connection to her natural surroundings. This quotation states that the country meant a great deal to Alexandra and then goes on to detail several ways in which her natural surroundings affect her emotionally: the insects sound like &ldquo;the sweetest music,&rdquo; she feels as though &ldquo;her heart were hiding&rdquo; in the grass &ldquo;with the quail and the plover,&rdquo; and near the ridges she feels &ldquo;the future stirring.&rdquo; </p><p>Choice B is incorrect because the quotation doesn&rsquo;t suggest that Alexandra had a deep emotional connection to her natural surroundings but instead describes how she interacts with the people around her to learn more about crops, poultry, and experiments with clover hay. Choice C is incorrect because the quotation doesn&rsquo;t suggest that Alexandra has a deep emotional connection to her natural surroundings but instead describes her nighttime departure in a wagon. The quotation says nothing about Alexandra&rsquo;s emotional state. Choice D is incorrect because the quotation doesn&rsquo;t convey Alexandra&rsquo;s deep emotional connection to her natural surroundings; instead, this quotation describes how well she understands the markets and livestock.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which quotation from <em>O Pioneers!</em> most effectively illustrates the claim?</p>",
+  "externalid": "a362b6b6-1fae-4fcc-a097-241ddb0addd2",
+  "stimulus": "<p><em>O Pioneers!</em> is a 1913 novel by Willa Cather. In the novel, Cather portrays Alexandra Bergson as having a deep emotional connection to her natural surroundings: <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "c627781d-ff39-4779-bab3-9b71fba9a72d",
+  "parenttemplatename": "P89-T037",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "0c2422a8-d1cd-45e8-a1e5-7e79daa7d29e",
+      "content": "<p>&ldquo;She had never known before how much the country meant to her. The chirping of the insects down in the long grass had been like the sweetest music. She had felt as if her heart were hiding down there, somewhere, with the quail and the plover and all the little wild things that crooned or buzzed in the sun. Under the long shaggy ridges, she felt the future stirring.&rdquo;</p>"
+    },
+    {
+      "id": "c5be5497-3a9f-436f-8981-779b1af149b1",
+      "content": "<p>&ldquo;Alexandra talked to the men about their crops and to the women about their poultry. She spent a whole day with one young farmer who had been away at school, and who was experimenting with a new kind of clover hay. She learned a great deal.&rdquo;</p>"
+    },
+    {
+      "id": "89d3f21c-fb2e-4971-a29c-a8d2fdc15d55",
+      "content": "<p>&ldquo;Alexandra drove off alone. The rattle of her wagon was lost in the howling of the wind, but her lantern, held firmly between her feet, made a moving point of light along the highway, going deeper and deeper into the dark country.&rdquo;</p>"
+    },
+    {
+      "id": "d6099f82-92ec-4936-bfb9-c67eb00ef738",
+      "content": "<p>&ldquo;It was Alexandra who read the papers and followed the markets, and who learned by the mistakes of their neighbors. It was Alexandra who could always tell about what it had cost to fatten each steer, and who could guess the weight of a hog before it went on the scales closer than John Bergson [her father] himself.&rdquo;</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

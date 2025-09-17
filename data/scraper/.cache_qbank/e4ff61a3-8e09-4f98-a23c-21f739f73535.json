@@ -1,0 +1,38 @@
+{
+  "vaultid": "9f1293f4-413e-4d82-9b3f-308d85d7933f",
+  "keys": [
+    "268b4a5f-d91f-48c1-9660-145c55ff6e37"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion about handedness in animals. As used in this context, &ldquo;recognizable&rdquo; means apparent or identifiable. The text indicates that handedness is &ldquo;easy to observe in humans,&rdquo; but that animal-behavior researchers use special tasks to determine handedness in other animals. This context and the use of &ldquo;less&rdquo; before the blank indicate that compared with handedness in humans, handedness in other animals is less recognizable. </p><p>Choice B is incorrect because there&rsquo;s nothing in the text to suggest that handedness is less &ldquo;intriguing,&rdquo; or fascinating, in nonhuman animals than it is in humans. The text focuses on how easy it is to observe handedness in humans as compared with other animals; the text doesn&rsquo;t suggest that handedness is more fascinating in humans. &nbsp;Choice C is incorrect because there&rsquo;s nothing in the text to suggest that handedness is less &ldquo;significant,&rdquo; or important or meaningful, in nonhuman animals than it is in humans. The text focuses on how easy it is to observe handedness in humans as compared with other animals; the text doesn&rsquo;t suggest that handedness is more significant in humans. Choice D is incorrect because &ldquo;useful,&rdquo; or functional or helpful, wouldn&rsquo;t make sense in context. The text focuses on the ease with which researchers can determine whether an animal or person is right- or left-handed, not on how useful handedness in nonhuman animals is compared with handedness in humans.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "e4ff61a3-8e09-4f98-a23c-21f739f73535",
+  "stimulus": "<p>Handedness, a preferential use of either the right or left hand, typically is easy to observe in humans. Because this trait is present but less <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in many other animals, animal-behavior researchers often employ tasks specially designed to reveal individual animals&rsquo; preferences for a certain hand or paw.</p>",
+  "templateclusterid": "65ce98d5-60be-45bf-b54e-e1dbf01974c1",
+  "parenttemplatename": "OSP-948-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "268b4a5f-d91f-48c1-9660-145c55ff6e37",
+      "content": "<p>recognizable</p>"
+    },
+    {
+      "id": "fad0d9aa-8c9c-4522-a3e7-5aa582f20ad8",
+      "content": "<p>intriguing</p>"
+    },
+    {
+      "id": "7b53961c-79f8-49b9-8030-b3fa50ecd16e",
+      "content": "<p>significant</p>"
+    },
+    {
+      "id": "9d14a29c-f168-4a03-8600-88d13cef574c",
+      "content": "<p>useful</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best describes the function of the underlined portion in the text as a whole?</p>",
+  "stimulus": "<p>In response to concerns that some recent financial crises were exacerbated by consumers misunderstanding risks associated with credit cards, loans, and other financial products, policymakers in many countries have instituted risk-disclosure requirements on sellers of those products. Enrique Seira <span data-ssml-sub-alias=\"et al\">et al.</span> investigated a variety of risk-disclosure messages sent to thousands of credit card customers and found that the messages had only small and short-lived effects on behavior. Seira <span data-ssml-sub-alias=\"et al\">et al.</span> asserted that such effects may nevertheless be worth pursuing, <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">given the negligible cost of messaging</span>.</p>",
+  "keys": [
+    "b541b29d-b2d0-4868-ad92-2a9720655e01"
+  ],
+  "answerOptions": [
+    {
+      "id": "b541b29d-b2d0-4868-ad92-2a9720655e01",
+      "content": "<p>It notes a factor that led Seira <span data-ssml-sub-alias=\"et al\">et al.</span> to not dismiss risk-disclosure messaging altogether despite their evidence of its limited utility.</p>"
+    },
+    {
+      "id": "19a94c3f-2dd6-44e9-9bd3-7c510e982001",
+      "content": "<p>It acknowledges a type of risk-disclosure messaging that Seira <span data-ssml-sub-alias=\"et al\">et al.</span> may not have fully accounted for in their study.&nbsp;</p>"
+    },
+    {
+      "id": "2d2c048c-1c3f-42d7-9883-12d1e7f85caf",
+      "content": "<p>It describes a consideration that explains why Seira <span data-ssml-sub-alias=\"et al\">et al.</span> recommended risk-disclosure messaging even though its effects may be small relative to its costs.</p>"
+    },
+    {
+      "id": "98ab4622-f4ce-47d7-a291-9ac822ab065f",
+      "content": "<p>It points out a circumstance that Seira <span data-ssml-sub-alias=\"et al\">et al.</span> conceded may make risk-disclosure messaging more effective than their study suggests.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately describes the function of the underlined portion in the text as a whole. The text establishes that many countries have adopted risk-disclosure requirements for financial products due to concerns that consumers don&rsquo;t understand the risks associated with the products. According to the text, Seira et al. found that the effects of such messaging on consumer behavior were small and temporary. The text then adds that the researchers assert that because the cost of the messaging is negligible, the approach may be worth doing even if the effects are limited. Thus, the underlined portion notes a factor&mdash;very low cost&mdash;that led the researchers to not completely dismiss risk-disclosure messaging despite their evidence of its limited utility.</p><p>Choice B is incorrect because the underlined portion doesn&rsquo;t refer to a particular type of risk-disclosure messaging, whether Seira et al. considered it or not; the underlined portion simply indicates that the cost of the messaging (broadly) is very low, which makes the approach worth pursuing even if its effects are limited. Choice C is incorrect. Although the underlined portion does describe a consideration that led the researchers to recommend risk-disclosure messaging despite the messaging&rsquo;s small effects on consumer behavior, it directly states that the cost of such messaging is negligible, or very low&mdash;meaning that both the effects and the costs are small, not that the effects are small only relative to the costs. Choice D is incorrect because there&rsquo;s no indication that Seira et al. suggest that risk-disclosure messaging could be more effective if it had lower costs; rather, the underlined portion indicates that Seira et al. believe the already negligible cost of messaging makes the approach worth pursuing even if its effects are limited.</p>",
+  "externalid": "0fb21e0f-9c50-4188-9584-7dc983430729",
+  "correct_answer": [
+    "A"
+  ]
+}

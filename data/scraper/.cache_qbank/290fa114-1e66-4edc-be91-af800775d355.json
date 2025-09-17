@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Whether Carmen Lomas Garza is creating small paintings and illustrations or large public artworks&mdash;such as <em>Baile</em>, a copper cutout of traditional Mexican dance in the San Francisco International Airport&mdash;she is <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> direct experience, drawing from memories of her childhood in Texas or details of her current surroundings in California.</p>",
+  "type": "mcq",
+  "keys": [
+    "bca98cdb-d4ae-4355-9fc2-1da611e23702"
+  ],
+  "answerOptions": [
+    {
+      "id": "6f79d191-4241-409d-adac-267937af3b68",
+      "content": "<p>complimented by</p>"
+    },
+    {
+      "id": "f4364f2c-a0d9-4796-9fe1-81be5e06e8f9",
+      "content": "<p>uncertain about</p>"
+    },
+    {
+      "id": "c4617481-8e6e-4699-8e75-a190b6ed46e8",
+      "content": "<p>unbothered by</p>"
+    },
+    {
+      "id": "bca98cdb-d4ae-4355-9fc2-1da611e23702",
+      "content": "<p>inspired by</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of Carmen Lomas Garza&rsquo;s artistic process. In this context, \"inspired by\" means influenced by or motivated by. The text refers to how, regardless of the scale of the work, Garza uses her memories of Texas and details from California to create her art. If Garza is basing her work on her direct experiences, then they play a part in her artistic process. This context thus suggests that Garza&rsquo;s art is inspired by the experiences of her childhood in Texas and her current life in California.</p><p>Choice A is incorrect because it wouldn&rsquo;t make logical sense to indicate that Garza is \"complimented by\"&mdash;or praised by&mdash;something inanimate such as direct experience. Choice B is incorrect because describing Garza as \"uncertain about\"&mdash;or unsure or doubtful of&mdash;direct experience would suggest that she had misgivings about it. If Garza were unsure of her experiences, that would suggest that she couldn&rsquo;t recall them, and Garza wouldn&rsquo;t be able to represent direct experience in her art if she were uncertain of the memories or details. Choice C is incorrect because describing Garza as \"unbothered by\"&mdash;or uninterested in&mdash;her experience would imply the opposite of what the text suggests about Garza&rsquo;s artistic process. The text indicates that Garza&rsquo;s art comes from memories of her childhood in Texas and details of her surroundings in California.</p>",
+  "externalid": "290fa114-1e66-4edc-be91-af800775d355",
+  "correct_answer": [
+    "D"
+  ]
+}

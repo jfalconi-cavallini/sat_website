@@ -1,0 +1,38 @@
+{
+  "vaultid": "f8d66f9c-e54a-4963-b234-eeacdab21b81",
+  "keys": [
+    "3d2b0be2-2d40-4684-8a01-b019f4ef55f2"
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents the conclusion that most logically completes the text&rsquo;s discussion of Sumerian civilization and crop growth. The text mentions the hot, sunny weather in the area where the Sumerians lived, which made crops grow quickly but also made it difficult to keep them alive. The Sumerians solved this problem by using river water for their farming&mdash;as a result, they often harvested more crops than were needed in a season. It follows that the Sumerians must have needed to find something to do with the surplus crops&mdash;that is, they stored the extra crops for later use. </p><p>Choice A is incorrect because it doesn&rsquo;t logically follow that a surplus in crops would lead the Sumerians to choose only certain days of the season to harvest. Nor is there any indication in the text that the Sumerians improved their farming methods with the goal of reducing the time spent farming. Choice B is incorrect because the text doesn&rsquo;t suggest that the Sumerians tried to shield their crops from the sun: in fact, the text indicates that the sunny weather helped crops grow very quickly and that the Sumerians used river water to allow crops to be exposed to the sun without dying. Choice C is incorrect. Having a surplus of crops wouldn&rsquo;t have caused the Sumerians to begin farming until long after 4000 BCE: in fact, since the text indicates that the Sumerian civilization formed around 4000 BCE and farming was a part of that civilization, the statement that Sumerians only began farming long after 4000 BCE isn&rsquo;t supported by the text. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "7321ec71-5cd9-4eb9-93f9-7e268cefccba",
+  "stimulus": "<p>The ancient Sumerian civilization formed around 4000 BCE between two large rivers in an area that is now Iraq and Syria. The extremely hot and sunny weather in that area helped crops grow very quickly, but it also made it hard to keep the crops from drying up and dying. So, the Sumerians used water from the rivers in their farming. That method worked so well that they often could harvest even more crops than they needed in a season. As a result, the Sumerians <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "3af72bf5-ebb6-4d81-8146-00e69a1a3735",
+  "parenttemplatename": "OSP-030-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "6acb4530-7faa-4ea9-9d00-063b8834471a",
+      "content": "<p>harvested crops only on the hottest days of each season.</p>"
+    },
+    {
+      "id": "9589d3f7-3141-42a1-8cb5-27549374656d",
+      "content": "<p>found ways to shield their crops from the sun.</p>"
+    },
+    {
+      "id": "2d99e3c9-2f55-4585-9464-406276798e0f",
+      "content": "<p>did not begin farming until long after 4000 BCE.</p>"
+    },
+    {
+      "id": "3d2b0be2-2d40-4684-8a01-b019f4ef55f2",
+      "content": "<p>were able to store extra crops for later use.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

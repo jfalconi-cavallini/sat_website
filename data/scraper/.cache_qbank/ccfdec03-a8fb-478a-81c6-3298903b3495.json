@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>The ghazal, a poetic form originating in seventh-century Arabic poetry, has an intricate structure. The twentieth-century Kashmiri American poet Agha Shahid Ali explains that each one of a ghazal&rsquo;s couplets, while adhering to the patterns of rhyme (<span lang=\"ar\"><em>qafia</em></span>) and refrain (<span lang=\"ar\"><em>radif</em></span>) established in the poem&rsquo;s opening lines (<span lang=\"ar\"><em>matla</em></span>), <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> thematically and logically autonomous, resulting in a poem with &ldquo;a stringently formal disunity.&rdquo;</p>",
+  "keys": [
+    "fb26d9f2-c758-457d-9ecd-ca47a6dddfdb"
+  ],
+  "answerOptions": [
+    {
+      "id": "fb26d9f2-c758-457d-9ecd-ca47a6dddfdb",
+      "content": "<p>is</p>"
+    },
+    {
+      "id": "e1e39d5e-69f7-44eb-ba52-3b25adc63c72",
+      "content": "<p>were</p>"
+    },
+    {
+      "id": "6771b7e7-b9d9-4eb8-9667-a11bf6477340",
+      "content": "<p>have been</p>"
+    },
+    {
+      "id": "0c00d06e-31e5-4318-a5ae-a85c6c2d3500",
+      "content": "<p>are</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of verb forms within a sentence. The singular verb \"is\" agrees in number with the singular subject \"each one of a ghazal&rsquo;s couplets.\" While the prepositional phrase \"of a ghazal&rsquo;s couplets\" within the subject contains a plural noun, the head of the subject (\"each one\") is singular, indicating that each individual couplet (not the couplets as a group) is \"thematically and logically autonomous,\" or self-standing.</p><p>Choice B is incorrect because the plural verb \"were\" doesn&rsquo;t agree in number with the singular subject \"each one of a ghazal&rsquo;s couplets.\" Choice C is incorrect because the plural verb \"have been\" doesn&rsquo;t agree in number with the singular subject \"each one of a ghazal&rsquo;s couplets.\" Choice D is incorrect because the plural verb \"are\" doesn&rsquo;t agree in number with the singular subject \"each one of a ghazal&rsquo;s couplets.\"</p>",
+  "externalid": "ccfdec03-a8fb-478a-81c6-3298903b3495",
+  "correct_answer": [
+    "A"
+  ]
+}

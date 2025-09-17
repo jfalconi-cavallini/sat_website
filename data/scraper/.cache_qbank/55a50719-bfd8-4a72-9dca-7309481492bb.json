@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Interest in mechanotransduction, the mechanism by which cells sense and convert mechanical stimuli into biochemical signals, is expanding because of innovative work by biomedical scientists&mdash;many of whom, like neuroscience and biophysics expert Elba Serrano, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> this mechanism to better understand how the body&rsquo;s neurological and biomechanical systems interact.</p>",
+  "keys": [
+    "a79563b4-7c6e-484c-ba8b-a9fdf0396060"
+  ],
+  "answerOptions": [
+    {
+      "id": "2405f8f3-de3d-45db-8467-1e640afb1e01",
+      "content": "<p>is studying</p>"
+    },
+    {
+      "id": "567e42d1-db69-48c4-a07e-c9932977687f",
+      "content": "<p>has studied</p>"
+    },
+    {
+      "id": "a79563b4-7c6e-484c-ba8b-a9fdf0396060",
+      "content": "<p>study</p>"
+    },
+    {
+      "id": "39eb0ed0-abbd-4fb4-86d7-78e2914ce4bb",
+      "content": "<p>studies</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of verb forms within a sentence. The plural verb \"study\" agrees in number with the plural subject \"many.\"</p><p>Choice A is incorrect because the singular verb \"is studying\" doesn&rsquo;t agree in number with the plural subject \"many.\" Choice B is incorrect because the singular verb \"has studied\" doesn&rsquo;t agree in number with the plural subject \"many.\" Choice D is incorrect because the singular verb \"studies\" doesn&rsquo;t agree in number with the plural subject \"many.\"</p>",
+  "externalid": "55a50719-bfd8-4a72-9dca-7309481492bb",
+  "correct_answer": [
+    "C"
+  ]
+}

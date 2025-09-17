@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>People sometimes dismiss a claim if it comes from a source they regard as self-interested, but from a strictly logical perspective, the source of a claim is <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>: it has no direct bearing on whether the claim is true. &nbsp;</p>",
+  "keys": [
+    "51fe316c-d025-4bba-a828-5f007cbb7886"
+  ],
+  "answerOptions": [
+    {
+      "id": "aa476a0b-41cf-47d7-ab46-1d51070dc98b",
+      "content": "<p>indistinct</p>"
+    },
+    {
+      "id": "51fe316c-d025-4bba-a828-5f007cbb7886",
+      "content": "<p>irrelevant</p>"
+    },
+    {
+      "id": "23adc400-9285-4383-8c28-0d61adb91539",
+      "content": "<p>indisputable</p>"
+    },
+    {
+      "id": "6adce41b-70c3-4938-a1ff-679d775742b3",
+      "content": "<p>implicit</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion about people&rsquo;s tendency to dismiss claims from sources perceived as self-interested, or acting for their own advantage. In this context, \"irrelevant\" means not applicable to the matter at hand. The text explains that as a matter of logical reasoning, the source of a claim has nothing to do with the claim&rsquo;s truthfulness&mdash;a claim is either true or false in actuality, regardless of where it originates. This context suggests that even though people may distrust a claim based on its source, the source of the claim is actually irrelevant.</p><p>Choice A is incorrect because in this context, \"indistinct\" would mean uncertain or not clearly recognizable. Instead of suggesting that the source of a claim can&rsquo;t be determined with certainty, the text suggests that recognizing a source and having an opinion of it simply doesn&rsquo;t matter because as a matter of logic, a claim is true or false in actuality, regardless of where it originates. Choice C is incorrect because in this context, \"indisputable\" would mean impossible to question or deny. Although the text suggests that it isn&rsquo;t logical to assume a claim is false just because its source appears to be self-interested, it doesn&rsquo;t go so far as to suggest that the source of a claim can&rsquo;t be questioned&mdash;the text instead makes the point that from a logical standpoint, the source of a claim doesn&rsquo;t matter because the claim is either true or false in and of itself. Choice D is incorrect because in this context, \"implicit\" would mean suggested or understood without being directly expressed. Nothing in the text suggests that logically, the source of a claim is only suggested; instead of addressing whether sources can be directly identified, the text focuses on the idea that sources don&rsquo;t matter because a claim is true or false in actuality, regardless of where it originates.</p>",
+  "externalid": "a70f7ce0-6502-4275-9474-263708c54dce",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>It can take time for proposed amendments to the US Constitution to become law. For example, the Twenty-Second Amendment, which limits the number of <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> can serve, was first proposed in 1947 but wasn&rsquo;t approved by the required three-fourths majority of state legislatures until 1951.</p>",
+  "type": "mcq",
+  "keys": [
+    "573fb562-8c13-4828-9d21-3ee382143ed9"
+  ],
+  "answerOptions": [
+    {
+      "id": "573fb562-8c13-4828-9d21-3ee382143ed9",
+      "content": "<p>terms presidents</p>"
+    },
+    {
+      "id": "038dcdfe-838e-4648-b4f4-2dcd6b7fd86f",
+      "content": "<p>term&rsquo;s presidents</p>"
+    },
+    {
+      "id": "49552583-5386-493a-8b93-eb024f97e620",
+      "content": "<p>term&rsquo;s president&rsquo;s</p>"
+    },
+    {
+      "id": "dab55233-3c9e-47db-aeba-bdf184d526fe",
+      "content": "<p>terms president&rsquo;s</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of plural nouns. The plural nouns \"terms\" and \"presidents\" correctly indicate that the amendment involves multiple terms and applies to presidents in general.</p><p>Choice B is incorrect because the context requires the plural noun \"terms,\" not the singular possessive noun \"term&rsquo;s.\" Choice C is incorrect because the context requires the plural nouns \"terms\" and \"presidents,\" not the singular possessive nouns \"term&rsquo;s\" and \"president&rsquo;s.\" Choice D is incorrect because the context requires the plural noun \"presidents,\" not the singular possessive noun \"president&rsquo;s.\"</p>",
+  "externalid": "ad45b060-13f3-4798-9b29-1165f8c5861f",
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "05015490-c8d3-4998-90fb-7cb172705c99",
+  "keys": [
+    "864dba93-55cf-470a-be4c-c0b10f1f4795"
+  ],
+  "rationale": "<p>Choice A is the best answer because it presents a finding that, if true, would support the scholar&rsquo;s claim about Toni Morrison&rsquo;s likely goal of strengthening the presence of Black writers on Random House&rsquo;s list of published authors. The text explains that Morrison was the first Black woman to be an editor for Random House and that she was an editor there from 1967 to 1983. If it were true that Random House published a higher percentage of works by Black authors throughout the 1970s&mdash;during most of Morrison&rsquo;s time working there&mdash;than it had previously published, that would suggest that Morrison may have made a deliberate effort to strengthen the presence of Black authors on the list of Random House&rsquo;s published authors, thus supporting the scholar&rsquo;s claim. </p><p>Choice B is incorrect because the scholar&rsquo;s claim is about Morrison&rsquo;s work as an editor at a publishing company and her likely effort to strengthen the presence of Black writers on that company&rsquo;s list of published authors. It might be true that Black authors interviewed in the 1980s and 1990s often cited Morrison&rsquo;s novels as an influence on their work, but that finding would simply suggest something about how those authors approached their work; it wouldn&rsquo;t show that Morrison intended to increase the number of Black writers among the published authors specifically at Random House. Choice C is incorrect because the scholar&rsquo;s claim is about Morrison&rsquo;s work as an editor at a publishing company, not about her work as a novelist. Therefore, a finding that Morrison&rsquo;s novels published after 1983 sold more copies and were more widely acclaimed than her earlier novels would have no bearing on the claim that as an editor Morrison made an effort to ensure that more Black writers were present on Random House&rsquo;s list of published authors. Choice D is incorrect. Although the text discusses Morrison&rsquo;s work as an editor at Random House, the scholar&rsquo;s claim focuses on Morrison&rsquo;s likely effort in that role to increase the number of Black writers present on Random House&rsquo;s list of published authors, not on the influence she may have had on the content of the works she edited. Without knowing whether Morrison&rsquo;s stylistic influence led to more publications or if Morrison applied her influence specifically to works by Black writers, the finding that works edited by Morrison could be identified by stylistic characteristics would have no bearing on the claim that Morrison intended to strengthen the presence of Black writers among the published authors at Random House. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which finding, if true, would most strongly support the scholar&rsquo;s claim?</p>",
+  "externalid": "35ba1503-3ca4-4444-aa35-a1bfdee283cf",
+  "stimulus": "<p>The novelist Toni Morrison was the first Black woman to work as an editor at the publishing company Random House, from 1967 to 1983. A scholar asserts that one of Morrison&rsquo;s likely aims during her time as an editor was to strengthen the presence of Black writers on the list of Random House&rsquo;s published authors.</p>",
+  "templateclusterid": "381adcbe-d7f9-4229-b83f-e74a945aef5f",
+  "parenttemplatename": "OSP-305-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "864dba93-55cf-470a-be4c-c0b10f1f4795",
+      "content": "<p>The percentage of authors published by Random House who were Black rose in the early 1970s and stabilized throughout the decade.</p>"
+    },
+    {
+      "id": "ab5cebbc-646d-45b0-9631-315922fe0182",
+      "content": "<p>Black authors who were interviewed in the 1980s and 1990s were highly likely to cite Toni Morrison&rsquo;s novels as a principal influence on their work.</p>"
+    },
+    {
+      "id": "d436dcdb-be45-4e7d-8b05-c2a5c1a86b92",
+      "content": "<p>The novels written by Toni Morrison that were published after 1983 sold significantly more copies and received wider critical acclaim than the novels she wrote that were published before 1983.</p>"
+    },
+    {
+      "id": "fa51c530-b09f-4cbf-84d6-a1e987ae6bc8",
+      "content": "<p>Works that were edited by Toni Morrison during her time at Random House displayed stylistic characteristics that distinguished them from works that were not edited by Morrison.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

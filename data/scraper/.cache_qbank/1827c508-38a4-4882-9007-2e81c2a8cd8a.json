@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>One of the few African American global explorers during the turn of the 20th century, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "d5be6ef7-2168-49fd-839f-0978e10c46dc"
+  ],
+  "answerOptions": [
+    {
+      "id": "d5be6ef7-2168-49fd-839f-0978e10c46dc",
+      "content": "<p>Matthew Henson made several treks across Greenland between 1891 and 1909.</p>"
+    },
+    {
+      "id": "c364b71a-3d61-47c7-a1b9-9df1815205a0",
+      "content": "<p>1891 and 1909 were the years between which Matthew Henson made several treks across Greenland.</p>"
+    },
+    {
+      "id": "4dbc8200-81fc-4ec3-92b4-abc8e5d4a58a",
+      "content": "<p>Greenland was where Matthew Henson made several treks between 1891 and 1909.</p>"
+    },
+    {
+      "id": "2aa0825a-0f7e-4d79-8b74-38cbb6a3d555",
+      "content": "<p>several treks across Greenland were made by Matthew Henson between 1891 and 1909.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is subject-modifier placement. This choice makes the proper noun \"Matthew Henson\" the subject of the sentence and places it immediately after the modifying phrase \"one&hellip;century.\" In doing so, this choice clearly establishes that Matthew Henson&mdash;and not another noun in the sentence&mdash;is being described as one of the few African American global explorers during the turn of the 20th century.</p><p>Choice B is incorrect because it results in a dangling modifier. The placement of the noun phrase \"1891 and 1909\" immediately after the modifying phrase illogically suggests that those years were one of the few African American global explorers during the turn of the 20th century. Choice C is incorrect because it results in a dangling modifier. The placement of the proper noun \"Greenland\" immediately after the modifying phrase illogically suggests that Greenland was one of the few African American global explorers during the turn of the 20th century. Choice D is incorrect because it results in a dangling modifier. The placement of the noun phrase \"several treks across Greenland\" immediately after the modifying phrase illogically suggests that the treks were one of the few African American global explorers during the turn of the 20th century.</p>",
+  "externalid": "1827c508-38a4-4882-9007-2e81c2a8cd8a",
+  "correct_answer": [
+    "A"
+  ]
+}

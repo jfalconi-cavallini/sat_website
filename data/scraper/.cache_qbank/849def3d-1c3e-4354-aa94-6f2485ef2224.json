@@ -1,0 +1,38 @@
+{
+  "vaultid": "2f18c998-088e-4824-85a2-bd70d1df6b2e",
+  "keys": [
+    "8c954e86-ac38-45e1-9906-b4496079375d"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the use of non-finite (untensed) verb forms in a sentence. The modal &ldquo;would,&rdquo; which indicates the future from a perspective in the past, should be accompanied by a non-finite plain form verb. In this choice, the non-finite plain form verb &ldquo;create&rdquo; is used correctly in conjunction with the non-finite plain form verb &ldquo;increase&rdquo; to describe what the lock would do.\n&nbsp;</p><p>Choice A is incorrect because&nbsp;the finite present tense verb &ldquo;creates&rdquo; can&rsquo;t be used in this way with the modal &ldquo;would&rdquo; to describe what the lock would do. Choice C is incorrect because&nbsp;the present participle &ldquo;creating&rdquo; can&rsquo;t be used in this way with the modal &ldquo;would&rdquo; to describe what the lock would do. Choice D is incorrect because the finite past tense verb &ldquo;created&rdquo; can&rsquo;t be used in this way with the modal &ldquo;would&rdquo; to describe what the lock would do. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "849def3d-1c3e-4354-aa94-6f2485ef2224",
+  "stimulus": "<p>In order to prevent nonnative fish species from moving freely between the Mediterranean and Red Seas, marine biologist Bella Galil has proposed that a saline lock system be installed along the Suez Canal in Egypt&rsquo;s Great Bitter Lakes. The lock would increase the salinity of the lakes and <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> a natural barrier of water most marine creatures would be unable to cross.</p>",
+  "templateclusterid": "8f0a93f6-4fc4-426f-8729-4600c7175d85",
+  "parenttemplatename": "OSP-627-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "cdda7b6d-accd-4ed4-a178-b6167b49f2ea",
+      "content": "<p>creates</p>"
+    },
+    {
+      "id": "8c954e86-ac38-45e1-9906-b4496079375d",
+      "content": "<p>create</p>"
+    },
+    {
+      "id": "8fcfeffa-85bd-4a51-a3e0-1b459df04ded",
+      "content": "<p>creating</p>"
+    },
+    {
+      "id": "a55be6e5-416f-4cbe-9165-87edc427a709",
+      "content": "<p>created</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>Pigments give paints and dyes their color. Ocher is a mineral-based pigment used to make several colors, including red. Red ocher gets its color from iron oxide. Pigments can also be plant-based; plant-based pigments contain a high level of carbon. In a 2023 study, archaeologists tested the red pigment on decorated beads made by members of the Natufian culture approximately 15,000 years ago. The test showed that the pigment found on several beads contained no iron but had a high level of carbon. This finding led the researchers to conclude that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "70549482-33b9-40b6-8370-f4295e790e29"
+  ],
+  "answerOptions": [
+    {
+      "id": "b7328252-17d8-467a-8ad2-5d63b4a42c58",
+      "content": "<p>the Natufian beads examined in the study are the oldest surviving examples of the use of plant-based pigments for decorating beads.&nbsp;</p>"
+    },
+    {
+      "id": "70549482-33b9-40b6-8370-f4295e790e29",
+      "content": "<p>the Natufian beadmakers used plant-based pigments rather than ocher to decorate some of the beads examined in the study.&nbsp;</p>"
+    },
+    {
+      "id": "edcfcbc9-1fa8-4a1b-b738-212816db08e0",
+      "content": "<p>the Natufian beadmakers preferred to use plant-based pigments because they are much brighter than mineral-based pigments are.</p>"
+    },
+    {
+      "id": "8d07c428-fb8a-4814-bac5-56fb9d84471b",
+      "content": "<p>the pigments used by the Natufian beadmakers likely came from plants because ocher was difficult to find.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it presents the conclusion that most logically follows from the text&rsquo;s discussion of the chemical content of pigments. The text begins by differentiating between two kinds of pigments: mineral-based pigments such as red ocher, which get their color from iron oxide, and plant-based pigments, which have a high level of carbon. The text then goes on to describe an analysis by archaeologists of the pigment of decorated beads made by members of the Natufian culture around 15,000 years ago. The archaeologists found that the red pigment on some of the beads contained no iron but had a high level of carbon. Since red ocher gets its color from iron oxide, while plant-based pigments have a high level of carbon, the researchers concluded that the Natufian beadmakers used plant-based pigments to decorate some of the beads examined in the study.</p><p>Choice A is incorrect because the text does not indicate that the Natufians were the first to use plant-based pigments, so it cannot be concluded that the beads in the study were the oldest surviving examples of the use of plant-based pigments for decorating beads. Choice C is incorrect because the text does not compare the brightness of plant-based and mineral-based pigments. Choice D is incorrect. While it can be concluded that the Natufian beadmakers used plant-based pigments because the pigment found on several beads had a high level of carbon, the text offers no evidence that ocher was difficult to find.</p>",
+  "externalid": "e97fe815-65ae-46b5-acf8-c3e18a6bc5b1",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "3069e93d-4da5-443f-8e39-1a73230a1ed9",
+  "keys": [
+    "a2ec49d7-ef12-4453-b1a5-9c832cf50693"
+  ],
+  "rationale": "<p>Choice B is the best answer because it presents a statement about Dorian that is directly supported by the text. The narrator of the text says that when Dorian sees his portrait, &ldquo;his cheeks flushed for a moment with pleasure&rdquo; and &ldquo;a look of joy came into his eyes.&rdquo; The narrator goes on to say that Dorian looked at the portrait &ldquo;in wonder&rdquo; and presents him as being so entranced by the portrait that he doesn&rsquo;t notice what Hallward is saying to him. All these details support the description of Dorian as being delighted by what he sees in the portrait. </p><p>Choice A is incorrect because Dorian isn&rsquo;t depicted as interested in Hallward&rsquo;s opinion of the portrait but rather as so enraptured by the painting that he&rsquo;s hardly even aware of Hallward.&nbsp;Choice C is incorrect because the portrait of Dorian is the only painting that is mentioned in the text, so there&rsquo;s no evidence that Dorian prefers portraits to other types of paintings. Although Dorian is depicted as delighted with this particular portrait, there&rsquo;s no way of knowing from the text whether he likes portraits better than other kinds of paintings. Choice D is incorrect because nothing in the text suggests that Dorian is uncertain about Hallward&rsquo;s talent. Instead, the text is focused on Dorian&rsquo;s delight with the portrait.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>According to the text, what is true about Dorian?</p>",
+  "externalid": "03508ded-7e44-467a-b16b-93608113408c",
+  "stimulus": "<p>The following text is adapted from Oscar Wilde&rsquo;s 1891 novel <em>The Picture of Dorian Gray</em>. Dorian Gray is taking his first look at a portrait that Hallward has painted of him.</p>\n<p style=\"padding-left:1em\">Dorian passed listlessly in front of his picture and turned towards it. When he saw it he drew back, and his cheeks flushed for a moment with pleasure. A look of joy came into his eyes, as if he had recognized himself for the first time. He stood there motionless and in wonder, dimly conscious that Hallward was speaking to him, but not catching the meaning of his words. The sense of his own beauty came on him like a revelation. He had never felt it before. </p>",
+  "templateclusterid": "e1e6db55-0f78-41eb-a8d0-3e1c7cc008c1",
+  "parenttemplatename": "OSP-011-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "192250c8-6e7b-4592-a49c-5c10e7766687",
+      "content": "<p>He wants to know Hallward&rsquo;s opinion of the portrait.</p>"
+    },
+    {
+      "id": "a2ec49d7-ef12-4453-b1a5-9c832cf50693",
+      "content": "<p>He is delighted by what he sees in the portrait.</p>"
+    },
+    {
+      "id": "9a0bedbd-8930-463c-9501-135f501ca95d",
+      "content": "<p>He prefers portraits to other types of paintings.</p>"
+    },
+    {
+      "id": "74035146-0534-4e08-b3ee-85547f3fc72f",
+      "content": "<p>He is uncertain of Hallward&rsquo;s talent as an artist.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "2262f05e-2c21-4fb2-a3fe-7f3e6518451e",
+  "keys": [
+    "1c21c96a-41f2-4fb9-a168-1c3c28febf50"
+  ],
+  "rationale": "<p>Choice C is the best answer because it presents a quotation that illustrates the claim that Mrs. Spring Fragrance demonstrates concern for what&rsquo;s happening at home while she&rsquo;s in California. By giving reminders to &ldquo;care for the cat, the birds, and the flowers,&rdquo; &ldquo;not eat too quickly,&rdquo; and avoid engaging in strenuous activity in the heat, Mrs. Spring Fragrance shows that she&rsquo;s thinking about what&rsquo;s happening at home and wants to ensure everything is taken care of. </p><p>Choice A is incorrect because the quotation, while it does suggest that Mrs. Spring Fragrance has made fudge at home before, is focused on preparations for an upcoming festival, not on concerns for anything happening at home while Mrs. Spring Fragrance is away. Choice B is incorrect because the quotation has to do with an upcoming event during Mrs. Spring Fragrance&rsquo;s trip&mdash;visiting San Jos&eacute; and meeting someone new&mdash;rather than her concern for what&rsquo;s happening at home. Choice D is incorrect because the quotation is focused on how Mrs. Spring Fragrance feels about her trip and the friends she&rsquo;s seeing, not on her concern for what&rsquo;s happening at home. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which quotation from Mrs. Spring Fragrance&rsquo;s letters most effectively illustrates the claim?</p>",
+  "externalid": "6b3e8eca-0f31-4ddc-ad58-4525b647b622",
+  "stimulus": "<p>&ldquo;Mrs. Spring Fragrance&rdquo; is a 1912 short story by Sui Sin Far. In the story, Mrs. Spring Fragrance, a Chinese immigrant living in Seattle, is traveling in California. In letters to her husband and friend, she demonstrates her concern for what&rsquo;s happening at her home in Seattle while she is away: <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "8ad1433a-bcaf-4a28-892d-19fad9dc2394",
+  "parenttemplatename": "OSP-403-LIT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "14b23054-5105-4816-927d-efb5b3bfd11f",
+      "content": "<p>&ldquo;My honorable cousin is preparing for the Fifth Moon Festival, and wishes me to compound for the occasion some American &lsquo;fudge,&rsquo; for which delectable sweet, made by my clumsy hands, you have sometimes shown a slight prejudice.&rdquo;</p>"
+    },
+    {
+      "id": "e00f554a-6162-4641-a189-24c5932f866d",
+      "content": "<p>&ldquo;Next week I accompany Ah Oi to the beauteous town of San Jos&eacute;. There will we be met by the son of the Illustrious Teacher.&rdquo;</p>"
+    },
+    {
+      "id": "1c21c96a-41f2-4fb9-a168-1c3c28febf50",
+      "content": "<p>&ldquo;Forget not to care for the cat, the birds, and the flowers. Do not eat too quickly nor fan too vigorously now that the weather is warming.&rdquo;</p>"
+    },
+    {
+      "id": "78d297bd-2a66-4b80-aaee-d79612a5070d",
+      "content": "<p>&ldquo;I am enjoying a most agreeable visit, and American friends, as also our own, strive benevolently for the accomplishment of my pleasure.&rdquo;</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

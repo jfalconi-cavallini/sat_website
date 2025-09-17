@@ -1,0 +1,38 @@
+{
+  "vaultid": "f5616238-ff3b-4ffe-bb42-57a538dfe257",
+  "keys": [
+    "dfaaa2e8-c043-4e8c-ab27-9a1091859961"
+  ],
+  "rationale": "<p>Choice B is the best answer. &ldquo;Previously&rdquo; logically signals that the event described in this sentence&mdash;Bigelow being named best director&mdash;occurred before Zhao&rsquo;s win. The fact that only one other woman had won the award before puts Zhao&rsquo;s win in perspective. </p><p>Choice A is incorrect because &ldquo;as a result&rdquo; illogically signals that the event described in this sentence occurred as a result or consequence of Zhao&rsquo;s win. Instead, it occurred before Zhao was named best director and puts Zhao&rsquo;s win in perspective. Choice C is incorrect because &ldquo;however&rdquo; illogically signals that the event described in this sentence occurred in spite of or in contrast to Zhao&rsquo;s win. Instead, it occurred before Zhao was named best director and puts Zhao&rsquo;s win in perspective. Choice D is incorrect because &ldquo;likewise&rdquo; illogically signals that this sentence merely adds a second, similar piece of information to the information about Zhao&rsquo;s win. Instead, the fact that only one other woman had won the award before puts Zhao&rsquo;s win in perspective. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "95c4ec98-4d3b-4f64-89bd-c7458d4215e4",
+  "stimulus": "<p>When Chinese director Chlo&eacute; Zhao accepted the Oscar in 2021 for her film <em>Nomadland</em>, she made Academy Award history. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> only one other woman, Kathryn Bigelow of the United States, had been named best director at the Oscars, making Zhao the second woman and the first Asian woman to win the award.</p>",
+  "templateclusterid": "1bc9e637-f7a2-4932-9a4e-01ab43eafd9d",
+  "parenttemplatename": "OSP-210-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "4bc215d7-5ab8-4a71-9f81-fe053756ba81",
+      "content": "<p>As a result,</p>"
+    },
+    {
+      "id": "dfaaa2e8-c043-4e8c-ab27-9a1091859961",
+      "content": "<p>Previously,</p>"
+    },
+    {
+      "id": "dd840f01-355a-4cc2-9234-8f5791668252",
+      "content": "<p>However,</p>"
+    },
+    {
+      "id": "d07b52b8-1c6b-43e9-a7a9-9ef8086ddda3",
+      "content": "<p>Likewise,</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

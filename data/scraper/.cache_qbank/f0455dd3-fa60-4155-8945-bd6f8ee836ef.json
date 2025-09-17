@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which finding, if true, would most directly support the researcher&rsquo;s claim?</p>",
+  "stimulus": "<p>In countries with right-hand traffic, drivers who want to make a left turn at a traffic intersection with stoplights have to wait for either a gap in oncoming traffic or a designated left-turn signal to turn green. At busy intersections, this often causes a backup of vehicles waiting to turn left or being prevented from proceeding by left-turning vehicles in front of them. Transportation researcher Vikash V. Gayah claims that in urban areas eliminating the option to turn left at busy intersections&mdash;both with and without dedicated left-turn signals&mdash;would improve traffic flow and, as a result, reduce overall travel times even if such a restriction would require drivers to sometimes travel a slightly longer distance.</p>",
+  "type": "mcq",
+  "keys": [
+    "7217e41d-8bad-4ff6-8eed-9de9a6989938"
+  ],
+  "answerOptions": [
+    {
+      "id": "7b2f2db6-72b8-43e7-9caf-4909f362e4b0",
+      "content": "<p>In a town that installed left-turn signals at all busy intersections, seven out of ten survey respondents agreed with the statement &ldquo;the streets in my community are easier to navigate by motor vehicle than before.&rdquo;</p>"
+    },
+    {
+      "id": "dcb621e0-8a89-4712-b86e-c667f9ae6d76",
+      "content": "<p>A traffic study of intersections in a large city shows that on average drivers wait longer to make a left turn at intersections without left-turn signals than at intersections with such signals.</p>"
+    },
+    {
+      "id": "7217e41d-8bad-4ff6-8eed-9de9a6989938",
+      "content": "<p>After a city eliminated left turns at busy intersections, a package-delivery company reports that its drivers have been able to reach more addresses in the city daily, on average, and therefore deliver more packages there annually.</p>"
+    },
+    {
+      "id": "9cb0b6e7-3cc5-47de-bf58-fe200d76b460",
+      "content": "<p>Statistics reveal that school buses in a city that eliminated left turns at most intersections took on average two minutes longer to complete their routes after the restriction took effect than they did before.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it presents a finding that, if true, would most directly support Vikash V. Gayah&rsquo;s claim that eliminating the option to turn left at busy intersections would improve traffic flow and reduce overall travel times. The text begins by describing a problem encountered by drivers in countries with right-hand traffic&mdash;namely that drivers wanting to make a left turn must wait for either gaps in oncoming traffic or for designated left-turn signals before proceeding. The resulting backup of vehicles causes increased traffic congestion at busy intersections that slows overall travel times. According to Gayah, eliminating left turns from busy intersections in urban areas would ease the congestion caused by vehicles waiting to turn left. If vehicles spend less time waiting at intersections for left turns, faster overall travel times would result even if some drivers would have to drive slightly longer distances to make the desired left turn. Drivers for package-delivery companies, who presumably spend most of the day driving to destinations across the city in which they are based, would likely provide a good indication of overall traffic patterns across the city. A finding that after a city had eliminated left turns at busy intersections, package-delivery companies were able to complete more daily deliveries on average&mdash;which implies faster travel times between package destinations&mdash;would therefore support the claim that overall travel times would decrease if left turns were eliminated at busy intersections.</p><p>Choice A is incorrect because a finding that a majority of survey respondents agreed with the statement that implementing left-turn signals at all busy intersections made navigating streets in their communities easier wouldn&rsquo;t support the claim that eliminating the option to turn left altogether at some busy intersections&mdash;both with and without dedicated left-turn signals&mdash;would improve the flow of traffic and overall traffic times. In fact, the text emphasizes that designated left-turn signals contribute to increased congestion because they require drivers to wait to turn left, which results in a backup of vehicles. Installing such signals at all busy intersections would thus potentially compound the problem of congestion, not improve it. Moreover, although making streets easier for drivers to navigate might indicate that left-turn signals are beneficial to drivers, it doesn&rsquo;t indicate that overall travel times would necessarily be reduced. Choice B is incorrect because a study concluding that drivers wait longer to make left turns at intersections without dedicated left-turn signals than at intersections with such signals wouldn&rsquo;t support the claim that eliminating the option to turn left altogether would reduce overall travel times. In fact, the finding would merely support the idea that installing left-turn signals would likely reduce the time drivers spend waiting at busy intersections that didn&rsquo;t previously have left-turn signals, not that overall travel times would be reduced. Choice D is incorrect because the finding that after a restriction eliminating left turns at most intersections took effect, school buses took longer to complete their routes than they did before the restriction was implemented would contradict rather than support the researcher&rsquo;s claim that eliminating left turns would reduce overall travel times.</p>",
+  "externalid": "f0455dd3-fa60-4155-8945-bd6f8ee836ef",
+  "correct_answer": [
+    "C"
+  ]
+}

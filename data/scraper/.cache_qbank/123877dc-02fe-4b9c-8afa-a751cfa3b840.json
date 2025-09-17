@@ -1,0 +1,38 @@
+{
+  "vaultid": "87c312d8-42fa-461c-b590-c215eeceb2fd",
+  "keys": [
+    "1b13404c-f6ed-4eef-9679-5a72acd726d2"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most accurately describes the overall structure of the text. Throughout the text, the speaker characterizes nighttime as if it were a person who wears clothing (&ldquo;a garment&rdquo; that is &ldquo;velvet soft&rdquo; and &ldquo;violet blue&rdquo;) and a veil &ldquo;over her face&rdquo; and who moves her hands &ldquo;slowly with their gem-starred light&rdquo; through her dark hair. Thus, the text is structured as an extended comparison of night to a human being. </p><p>Choice A is incorrect because the text never mentions any particular location; instead, it focuses on presenting a single description of night as a person with certain clothing and features. Choice B is incorrect because the text doesn&rsquo;t make any reference to the sun or sunrise; instead, it focuses on presenting a single image of night as a person with certain clothing and features. Choice D is incorrect. Rather than describing how nighttime changes seasonally (or in any other way), the text presents a single image of night as a person with certain clothing and features. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes the overall structure of the text?</p>",
+  "externalid": "123877dc-02fe-4b9c-8afa-a751cfa3b840",
+  "stimulus": "<p>The following text is adapted from Gwendolyn Bennett&rsquo;s 1926 poem &ldquo;Street Lamps in Early Spring.&rdquo; </p>\n<p style=\"padding-left:1em;\">Night wears a garment<br>All velvet soft, all violet blue...&nbsp;<br>And over her face she draws a veil<br>As shimmering fine as floating dew...&nbsp;<br>And here and there<br>In the black of her hair<br>The subtle hands of Night<br>Move slowly with their gem-starred light.</p>",
+  "templateclusterid": "f158e3c6-a9cf-4ca2-ba3f-876a150c546b",
+  "parenttemplatename": "OSP-035-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "63053b72-8b77-448c-a416-d6f89a816290",
+      "content": "<p>It presents alternating descriptions of night in a rural area and in a city.</p>"
+    },
+    {
+      "id": "65dca31b-cb00-4066-955e-bb007b3fea33",
+      "content": "<p>It sketches an image of nightfall, then an image of sunrise.</p>"
+    },
+    {
+      "id": "1b13404c-f6ed-4eef-9679-5a72acd726d2",
+      "content": "<p>It makes an extended comparison of night to a human being.</p>"
+    },
+    {
+      "id": "e8f807cb-3e05-4662-bb9d-984c6e9eb1bb",
+      "content": "<p>It portrays how night changes from one season of the year to the next.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

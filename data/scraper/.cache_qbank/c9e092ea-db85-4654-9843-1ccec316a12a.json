@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Based on the texts, how would the author of Text 1 most likely respond to the study findings mentioned in Text 2?</p>",
+  "stimulus": "<p><span class=\"paired_passage\" role=\"heading\" aria-level=\"2\"><strong>Text 1</strong></span></p>\n<p>Mycoprotein is a fungal biomass that can be eaten as an alternative to meat. Studies of the environmental impact of its manufacture generally agree it is lower than that of beef and closer to that of chicken or pork. But the expense of producing mycoprotein restricts its availability to a few countries with postindustrial economies. Knowing that cost reductions would expand access to mycoprotein, biochemists are exploring solutions, such as a cheaper substrate to feed the mycoprotein as it grows.</p>\n<p>&nbsp;</p>\n<p><span class=\"paired_passage\" role=\"heading\" aria-level=\"2\"><strong>Text 2</strong></span></p>\n<p>Cattle farming is a principal cause of global deforestation, and a study by Florian Humpen&ouml;der and his colleagues found that replacing 20% of beef consumption worldwide with consumption of mycoprotein would cut deforestation by half if accomplished over the next thirty years. However, this would likely involve only a small change in agricultural water consumption, since water once dedicated to raising cattle would be diverted to raising crops instead.</p>",
+  "type": "mcq",
+  "keys": [
+    "3acbc7d3-9021-41df-a8c3-15ae3ebbbf21"
+  ],
+  "answerOptions": [
+    {
+      "id": "c1f4fed1-3633-443c-80ed-e347120c8d65",
+      "content": "<p>By emphasizing that since agricultural water consumption would remain static in the event of replacing beef consumption with mycoprotein consumption, an effort must be made to substitute mycoprotein for chicken and pork in diets as well</p>"
+    },
+    {
+      "id": "3acbc7d3-9021-41df-a8c3-15ae3ebbbf21",
+      "content": "<p>By asserting that the development of a more inexpensive substrate for mycoprotein production would contribute to the goal of decreasing worldwide deforestation over time</p>"
+    },
+    {
+      "id": "8474a384-aa0a-4617-9571-23c93d39e2ef",
+      "content": "<p>By noting that most people would be more likely to use mycoprotein as a substitute for chicken or pork in their diets than as a substitute for beef</p>"
+    },
+    {
+      "id": "1e3c8e29-c9f6-48b7-9343-5b2c0addb8a3",
+      "content": "<p>By pointing out that some countries are responsible for greater deforestation than others and thus, to have any significant effect on the environment, will have to replace more than 20% of their beef consumption with mycoprotein</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it reflects how the author of Text 1 would most likely respond to the study findings described in Text 2. The author of Text 2 discusses a study by Florian Humpen&ouml;der and his colleagues that found that deforestation would be reduced by half over the next thirty years if 20% of the beef consumed worldwide were replaced with mycoprotein. The author of Text 1 points out that mycoprotein is not widely available because of its high production cost, but goes on to note that this problem could be addressed by the creation of a cheaper substrate to feed mycoprotein. This suggests that the author of Text 1 would assert that the development of a less expensive mycoprotein substrate would contribute to the reduction in deforestation described in the study findings discussed in Text 2: if reducing the cost of mycoprotein increases people&rsquo;s access to it, then mycoprotein may be able to replace beef in more people&rsquo;s diets, thereby reducing the deforestation associated with beef production.</p><p>Choice A is incorrect because the author of Text 1 indicates that the environmental impact of mycoprotein production is close to that of chicken or pork production, so there is no reason to think that the author would assert that replacing chicken or pork with mycoprotein would be environmentally beneficial: such a replacement would not lessen the total environmental impact of food manufacture. Additionally, the specific issue of agricultural water consumption is never mentioned in Text 1, so there is no evidence indicating what the author of Text 1 would say about that issue. Choice C is incorrect. Although Text 1 does compare the environmental effects of producing mycoprotein to those of producing chicken or pork, nothing in Text 1 suggests that the author believes that people are more likely to replace chicken or pork with mycoprotein than they are to replace beef with mycoprotein. Choice D is incorrect because Text 1 makes no mention of countries&rsquo; varying contributions to deforestation, so there is no evidence that the author of Text 1 would respond to the finding described in Text 2 by saying that some countries will have to replace more than 20% of their beef consumption with mycoprotein.</p>",
+  "externalid": "c9e092ea-db85-4654-9843-1ccec316a12a",
+  "correct_answer": [
+    "B"
+  ]
+}

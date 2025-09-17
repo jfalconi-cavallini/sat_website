@@ -1,0 +1,38 @@
+{
+  "vaultid": "244e792c-9717-46d5-a6f4-2483c5031470",
+  "keys": [
+    "fe06a8f3-2e74-4ccc-8e30-534b1eeb9e45"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of Cole&rsquo;s book <em>Blind Spot</em>. In this context, &ldquo;enthusiasm for&rdquo; means excitement about. The text explains that <em>Blind Spot </em>consists of original photographs as well as poetic prose&mdash;two elements that correspond to Cole&rsquo;s passions, identified in the text, for photography and the written word. This context suggests that Cole&rsquo;s excitement about photography and writing led him to create a book that successfully combines the two mediums. </p><p>Choice A is incorrect because describing Cole as feeling &ldquo;indifference to&rdquo; his two passions wouldn&rsquo;t make sense in context. If Cole is indifferent to his passions, that would mean he doesn&rsquo;t care about photography or writing&mdash;in which case they wouldn&rsquo;t be his passions at all. Choice C is incorrect because there&rsquo;s nothing in the text to suggest that Cole feels &ldquo;concern about,&rdquo; or uneasiness about, his passions. The text&rsquo;s use of the word &ldquo;culminates&rdquo; indicates that <em>Blind Spot </em>represents a triumphant climax of Cole&rsquo;s passions, not a work that results from his sense of discomfort with photography and writing. Choice D is incorrect because there&rsquo;s nothing in the text to suggest that Cole feels &ldquo;surprise at,&rdquo; or astonished by, his passions. The text indicates that Cole&rsquo;s feeling about his passions &ldquo;culminates&rdquo; in a book that &ldquo;evocatively&rdquo; combines photographs and writing, suggesting that Cole has a long-standing and skillful relationship to his passions, not that he is startled by them. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "19475bfc-adb9-49a8-8605-07a5378bf15b",
+  "stimulus": "<p>Nigerian American author Teju Cole&rsquo;s <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> his two passions&mdash;photography and the written word&mdash;culminates in his 2017 book, <em>Blind Spot</em>, which evocatively combines his original photographs from his travels with his poetic prose.</p>",
+  "templateclusterid": "3c01aaa6-689e-42d4-b6d2-04fb2a3c6d7a",
+  "parenttemplatename": "OSP-979-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "fc12a858-25d2-47d6-8898-b135e98b2927",
+      "content": "<p>indifference to</p>"
+    },
+    {
+      "id": "fe06a8f3-2e74-4ccc-8e30-534b1eeb9e45",
+      "content": "<p>enthusiasm for</p>"
+    },
+    {
+      "id": "e60c1c42-96e4-4982-8e8d-5a8c67c9412a",
+      "content": "<p>concern about</p>"
+    },
+    {
+      "id": "629d032e-00be-429c-b895-e9b21fda8501",
+      "content": "<p>surprise at</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

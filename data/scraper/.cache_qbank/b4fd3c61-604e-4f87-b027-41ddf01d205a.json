@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which quotation from a researcher would best support the student&rsquo;s assertion?</p>",
+  "stimulus": "<p>Fish whose DNA has been modified to include genetic material from other species are known as transgenic. Some transgenic fish have genes from jellyfish that result in fluorescence (that is, they glow in the dark). Although these fish were initially engineered for research purposes in the 1990s, they were sold as pets in the 2000s and can now be found in the wild in creeks in Brazil. A student in a biology seminar who is writing a paper on these fish asserts that their escape from Brazilian fish farms into the wild may have significant negative long-term ecological effects.</p>",
+  "type": "mcq",
+  "keys": [
+    "a5a98bb9-4cb1-41c8-93cf-05a919862ca8"
+  ],
+  "answerOptions": [
+    {
+      "id": "94691976-fdcd-44b2-8537-b0cfb45c63e3",
+      "content": "<p>&ldquo;In one site in the wild where transgenic fish were observed, females outnumbered males, while in another the numbers of females and males were equivalent.&rdquo;</p>"
+    },
+    {
+      "id": "18e21b06-8d44-4cfb-94aa-85df1f289189",
+      "content": "<p>&ldquo;Though some presence of transgenic fish in the wild has been recorded, there are insufficient studies of the impact of those fish on the ecosystems into which they are introduced.&rdquo;</p>"
+    },
+    {
+      "id": "1aa21099-0170-494c-8d9c-6da4ab21b6e8",
+      "content": "<p>&ldquo;The ecosystems into which transgenic fish are known to have been introduced may represent a subset of the ecosystems into which the fish have actually been introduced.&rdquo;</p>"
+    },
+    {
+      "id": "a5a98bb9-4cb1-41c8-93cf-05a919862ca8",
+      "content": "<p>&ldquo;Through interbreeding, transgenic fish might introduce the trait of fluorescence into wild fish populations, making those populations more vulnerable to predators.&rdquo;</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because this quotation would best support the student&rsquo;s assertion that the escape of transgenic fish from Brazilian fish farms into the wild may have significant negative long-term ecological effects. The text explains that transgenic fish have DNA that includes genetic material from other species, that some transgenic fish have genes from jellyfish that make them glow in the dark, and that glow-in-the-dark transgenic fish can now be found in the wild in Brazilian creeks. The quotation indicates why the escape of these fish may have negative long-term ecological effects: glow-in-the-dark transgenic fish might introduce fluorescence into wild fish populations by breeding with wild fish, causing wild fish to glow in the dark and thereby allowing predators to prey on them much more easily.</p><p>Choice A is incorrect because this quotation doesn&rsquo;t mention any negative effects of the introduction of fluorescent transgenic fish into the wild. The quotation merely compares the ratio of females to males at two sites in the wild where transgenic fish have been observed. Choice B is incorrect because this quotation doesn&rsquo;t support the idea that the escape of fluorescent transgenic fish from Brazilian fish farms may have significant negative long-term ecological effects. Rather, the quotation suggests that more research is needed to understand the effects. Choice C is incorrect because this quotation supports the idea that transgenic fish may be present in more ecosystems than has been observed; it doesn&rsquo;t address whether the presence of fluorescent transgenic fish affects these ecosystems.</p>",
+  "externalid": "b4fd3c61-604e-4f87-b027-41ddf01d205a",
+  "correct_answer": [
+    "D"
+  ]
+}

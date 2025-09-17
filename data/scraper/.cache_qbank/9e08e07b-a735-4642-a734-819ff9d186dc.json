@@ -1,0 +1,38 @@
+{
+  "vaultid": "50345b7c-aab4-4ff4-8b15-6df211c23e1b",
+  "keys": [
+    "84f24d95-b852-4b70-9dfe-b5fc7a60bb4c"
+  ],
+  "rationale": "<p>Choice B is the best answer. &ldquo;In contrast&rdquo; logically signals that the information in this sentence&mdash;that ABA triggers accelerated growth in the mustard plant <em>Schrenkiella parvula</em>&mdash;contrasts with the previous information about ABA triggering a slowdown in most plants&rsquo; biological processes. </p><p>Choice A is incorrect because &ldquo;moreover&rdquo; illogically signals that the information in this sentence about the mustard plant merely adds to the previous information about the effects of ABA. Instead, it contrasts with that information.&nbsp;Choice C is incorrect because &ldquo;for example&rdquo; illogically signals that the information in this sentence about the mustard plant provides an example consistent with the previous information about the effects of ABA. Instead, it contrasts with that information. &nbsp;Choice D is incorrect because &ldquo;thus&rdquo; illogically signals that the information in this sentence about the mustard plant is a consequence, or result, of the previous information about the effects of ABA. Instead, it contrasts with that information.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "9e08e07b-a735-4642-a734-819ff9d186dc",
+  "stimulus": "<p>In response to adverse environmental conditions, many plants produce abscisic acid (ABA), a stress hormone. ABA triggers a slowdown in the biological processes of most plants. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> when the mustard plant <em>Schrenkiella parvula</em> produces ABA in response to an environmental stressor, the hormone triggers accelerated growth. &nbsp;</p>",
+  "templateclusterid": "041c07ce-f1a2-4c44-a284-c5d475e9c6fb",
+  "parenttemplatename": "OSP-273-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "c0fca6da-f3c7-4cee-bcc9-24c4528b767c",
+      "content": "<p>Moreover,</p>"
+    },
+    {
+      "id": "84f24d95-b852-4b70-9dfe-b5fc7a60bb4c",
+      "content": "<p>In contrast,</p>"
+    },
+    {
+      "id": "73908843-6f24-4d65-b5ed-bfdf779dd007",
+      "content": "<p>For example,</p>"
+    },
+    {
+      "id": "8df5b835-0163-4c96-9a0c-1946f7fa2920",
+      "content": "<p>Thus,</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

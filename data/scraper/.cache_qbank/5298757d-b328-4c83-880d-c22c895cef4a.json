@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Jetties&mdash;long, narrow structures that extend from a landmass into the water&mdash;are often constructed to protect coastlines from erosion. Jetties can sometimes have the opposite <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> obstructing the natural flow of sand along the shore can lead to increased erosion in some areas.</p>",
+  "keys": [
+    "be4d9433-1729-40ac-a66a-164c17c21c44"
+  ],
+  "answerOptions": [
+    {
+      "id": "be4d9433-1729-40ac-a66a-164c17c21c44",
+      "content": "<p>effect<span data-ssml-say-as=\"characters\">,</span> though<span data-ssml-say-as=\"characters\">;</span></p>"
+    },
+    {
+      "id": "bf4bdb53-fe0b-451c-8d19-abf4cd77c58e",
+      "content": "<p>effect<span data-ssml-say-as=\"characters\">,</span> though</p>"
+    },
+    {
+      "id": "fd0722c1-cc42-4e4c-9a06-ce0d5942e0cc",
+      "content": "<p>effect<span data-ssml-say-as=\"characters\">;</span> though</p>"
+    },
+    {
+      "id": "5ddce973-ad1e-4777-a5b4-79a00c33b218",
+      "content": "<p>effect<span data-ssml-say-as=\"characters\">,</span> though<span data-ssml-say-as=\"characters\">,</span></p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of punctuation within a sentence. This choice correctly uses a comma to separate the supplementary adverb \"though\" from the preceding main clause (\"Jetties can sometimes have the opposite effect\") and uses a semicolon to join the next main clause (\"obstructing&hellip;areas\") to the rest of the sentence. Further, placing the semicolon after \"though\" logically indicates that the information earlier in this sentence (that jetties can sometimes cause erosion) is contrary to what might be assumed from the information in the previous sentence (that jetties are often constructed for the purpose of protecting coastlines from erosion).</p><p>Choice B is incorrect because it fails to mark the boundary between the two main clauses with appropriate punctuation. With \"though&hellip;areas\" functioning as a subordinate clause following the comma, this choice illogically indicates that the following information (that obstructing the natural flow of sand along the shore can sometimes lead to erosion) is contrary to the information earlier in the sentence (that jetties can sometimes cause erosion). Instead, the information following \"though\" supports the previous claim about the erosive effects of jetties. Choice C is incorrect because it&rsquo;s not conventional to use a semicolon in this way to separate a main clause from a dependent clause. Further, it illogically indicates that the following information (that obstructing the natural flow of sand along the shore can sometimes lead to erosion) is contrary to the information earlier in the sentence (that jetties can sometimes cause erosion). Instead, the information following \"though\" supports the previous claim about the erosive effects of jetties. Choice D is incorrect because it results in a comma splice. Commas can&rsquo;t be used in this way to set off a supplementary word or phrase between two main clauses.</p>",
+  "externalid": "5298757d-b328-4c83-880d-c22c895cef4a",
+  "correct_answer": [
+    "A"
+  ]
+}

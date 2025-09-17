@@ -1,0 +1,38 @@
+{
+  "vaultid": "03efd007-df90-4849-b0f8-06d6647477ce",
+  "keys": [
+    "f8fc5ca0-1bb1-4acd-a94e-a2e96f71d719"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most directly illustrates the text&rsquo;s claim about Whitman&rsquo;s poem, &ldquo;To You.&rdquo; The text says that in this poem, Whitman suggests that he deeply understands the poem&rsquo;s reader. This quotation says that the reader&rsquo;s &ldquo;true soul and body appear before&rdquo; Whitman, thereby asserting that he can see the reader as the reader truly is, suggesting that he deeply understands the reader. </p><p>Choice B is incorrect because this quotation describes Whitman making the reader the subject of the poem (&ldquo;you be my poem&rdquo;), not Whitman deeply understanding the reader.&nbsp;Choice C is incorrect because instead of suggesting that Whitman deeply understands the reader, it emphasizes Whitman&rsquo;s regret at not having addressed the reader sooner.&nbsp;Choice D is incorrect. Although this quotation shows Whitman directly addressing the reader and expressing concern about the reader, it doesn&rsquo;t illustrate the idea that Whitman suggests that he deeply understands the reader. The quotation is simply expressing concern about the reader, which doesn&rsquo;t necessarily imply deep understanding of the reader.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which quotation from &ldquo;To You&rdquo; most effectively illustrates the claim?</p>",
+  "externalid": "eee3d6e7-d7b3-4071-b69b-99c74c898d45",
+  "stimulus": "<p>&ldquo;To You&rdquo; is an 1856 poem by Walt Whitman. In the poem, Whitman suggests that he deeply understands the reader, whom he addresses directly, writing, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "bfa6259d-a12b-4b83-a58d-3e31c1ed8365",
+  "parenttemplatename": "P89-T036",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "f8fc5ca0-1bb1-4acd-a94e-a2e96f71d719",
+      "content": "<p>&ldquo;Your true soul and body appear before me.&rdquo;</p>"
+    },
+    {
+      "id": "e1728e69-ab66-4480-a74d-c8dea5ae0669",
+      "content": "<p>&ldquo;Whoever you are, now I place my hand upon you, that you be my poem.&rdquo;</p>"
+    },
+    {
+      "id": "1671c062-9714-49c4-875b-db02bb32405a",
+      "content": "<p>&ldquo;I should have made my way straight to you long ago.&rdquo;</p>"
+    },
+    {
+      "id": "8df3ace6-8649-4315-8853-548da8c83df2",
+      "content": "<p>&ldquo;Whoever you are, I fear you are walking the walks of dreams.&rdquo;</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

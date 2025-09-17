@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Along with carbon dioxide concentration and temperature, light intensity affects the chemical reaction rate of <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> as light intensity increases, so does the rate at which the reactants (water and carbon dioxide) are converted into their products (glucose and oxygen).</p>",
+  "keys": [
+    "89baf0e5-ba2e-4349-a716-0125c11b6000"
+  ],
+  "answerOptions": [
+    {
+      "id": "77f1de6b-82fe-45b0-8b0c-8c2d326e35fb",
+      "content": "<p>photosynthesis and</p>"
+    },
+    {
+      "id": "491ba38a-b25b-488d-b013-83a7e3ff2243",
+      "content": "<p>photosynthesis<span data-ssml-say-as=\"characters\">,</span></p>"
+    },
+    {
+      "id": "89baf0e5-ba2e-4349-a716-0125c11b6000",
+      "content": "<p>photosynthesis<span data-ssml-say-as=\"characters\">:</span></p>"
+    },
+    {
+      "id": "6a2c2b0d-8d42-428b-9d75-7b94dfe4df4d",
+      "content": "<p>photosynthesis</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of punctuation in a sentence. In this choice, a colon is correctly used to mark the boundary between one main clause (\"Along with...photosynthesis\") and another main clause (\"as light...oxygen\") and to introduce the following explanation of how light intensity affects photosynthesis.</p><p>Choice A is incorrect because when coordinating two longer main clauses such as these, it&rsquo;s conventional to use a comma before the coordinating conjunction (\"and\"). Choice B is incorrect because it results in a comma splice. Without a coordinating conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses (\"Along with...photosynthesis\" and \"as light...oxygen\"). Choice D is incorrect because it results in a run-on sentence. The two main clauses (\"Along with...photosynthesis\" and \"as light...oxygen\") are fused without punctuation and/or a conjunction.</p>",
+  "externalid": "749a7ffa-6183-458d-8c83-89e35fa7ac25",
+  "correct_answer": [
+    "C"
+  ]
+}

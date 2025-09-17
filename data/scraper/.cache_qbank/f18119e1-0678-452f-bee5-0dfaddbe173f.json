@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most effectively uses data from the table to complete the example?</p>",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Annual Spending by International Tourists in Four Countries (in billions of US dollars)</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Country</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">2016</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">2017</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">2018</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">South Korea</th><td style=\"text-align: center;\">$21.0</td><td style=\"text-align: center;\">$17.2</td><td style=\"text-align: center;\">$23.1</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Japan</th><td style=\"text-align: center;\">$33.5</td><td style=\"text-align: center;\">$37.0</td><td style=\"text-align: center;\">$45.3</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Thailand</th><td style=\"text-align: center;\">$48.5</td><td style=\"text-align: center;\">$57.1</td><td style=\"text-align: center;\">$61.4</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Malaysia</th><td style=\"text-align: center;\">$19.7</td><td style=\"text-align: center;\">$20.3</td><td style=\"text-align: center;\">$21.8</td></tr></tbody></table></figure></p>\n<p>One measure of international tourism is how much money visitors from abroad spend in a country. A student writing a report about tourism in several Asian countries notes that among the countries in the table, most had annual increases in international tourism revenue in 2017 and 2018, but that trend wasn&rsquo;t universal. For example, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "c6ac3c40-3632-445f-8e49-7692dee9d76e"
+  ],
+  "answerOptions": [
+    {
+      "id": "acd21bdb-9750-4a16-94b4-ed99b3785cd3",
+      "content": "<p>in each year shown, the revenue from tourism by residents of those countries was greater than the revenue from international tourism.</p>"
+    },
+    {
+      "id": "1a40b58c-0e42-4df7-8d97-b73a547a6bdf",
+      "content": "<p>Japan&rsquo;s international tourism revenue was higher in 2016 than it was in 2018.</p>"
+    },
+    {
+      "id": "c6ac3c40-3632-445f-8e49-7692dee9d76e",
+      "content": "<p>South Korea&rsquo;s annual international tourism revenue decreased from 2016 to 2017.</p>"
+    },
+    {
+      "id": "aab527d6-b50c-499c-b206-877172ca4085",
+      "content": "<p>in each year shown, Thailand had higher international tourism income than any of the other countries.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most effectively uses data from the table to complete the text, providing an example that illustrates that the annual increases in international tourism revenue in 2017 and 2018 weren&rsquo;t universal. The table shows the annual spending by international tourists (which indicates annual international tourism revenue) in 2016&ndash;2018 in four Asian countries. According to the table, annual spending by international tourists in South Korea was $21.0 billion in 2016 and then decreased to $17.2 billion in 2017. This decrease shows that not all of the countries included in the table saw increases in annual international tourism revenue in 2017.</p><p>Choice A is incorrect because the table doesn&rsquo;t provide any data regarding revenue from tourism by residents of those countries. Even if that data were provided, it wouldn&rsquo;t be relevant to the claim that the trend of annual increases in international tourism revenue in 2017 and 2018 was not universal. Choice B is incorrect because the data in the table do not support the statement that Japan&rsquo;s international tourism revenue was higher in 2016 than it was in 2018: the table indicates that Japan&rsquo;s annual international tourism revenue was $33.5 billion in 2016, which is less than Japan&rsquo;s annual international tourism revenue of $45.3 billion in 2018. Choice D is incorrect. Although the table does indicate that Thailand&rsquo;s revenue from international tourism was higher than that of the other three Asian countries in 2016, 2017, and 2018, this information has no direct bearing on the text&rsquo;s claim that not all the Asian countries represented in the table saw an increase in revenue from international tourism.</p>",
+  "externalid": "f18119e1-0678-452f-bee5-0dfaddbe173f",
+  "correct_answer": [
+    "C"
+  ]
+}

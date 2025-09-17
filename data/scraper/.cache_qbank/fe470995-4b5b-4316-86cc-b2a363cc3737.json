@@ -1,0 +1,38 @@
+{
+  "vaultid": "d518bd3d-783f-44d5-83ee-e190fd6ad64b",
+  "keys": [
+    "17e8988c-8858-4186-9bc7-b4a526a6c3c9"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the punctuation of items in a complex series (a series including internal punctuation). In this choice, the semicolon after &ldquo;Lagos&rdquo; is conventionally used to separate the first item (&ldquo;<em>The Joys</em>&hellip;Lagos&rdquo;) and the second item (&ldquo;<em>A Kind</em>&hellip;Nigeria&rdquo;) in the series. Further, the comma after &ldquo;<em>Marriage</em>&rdquo; correctly separates the title &ldquo;<em>A Kind of Marriage</em>&rdquo; from the supplementary phrase (&ldquo;a television&hellip;Nigeria&rdquo;) that describes it. </p><p>Choice A is incorrect because the comma after &ldquo;Lagos&rdquo; doesn&rsquo;t match the semicolon used later in the series to separate the second item (&ldquo;<em>A Kind</em>&hellip;Nigeria&rdquo;) from the third item (&ldquo;and&hellip;autobiography&rdquo;). Choice C is incorrect because the comma after &ldquo;Lagos&rdquo; doesn&rsquo;t match the semicolon used later in the series to separate the second item (&ldquo;<em>A Kind</em>&hellip;Nigeria&rdquo;) from the third item (&ldquo;and&hellip;autobiography&rdquo;). Additionally, a colon can&rsquo;t be used in this way to separate the title &ldquo;<em>A Kind of Marriage</em>&rdquo; from the supplementary phrase (&ldquo;a television&hellip;Nigeria&rdquo;) that describes it. Choice D is incorrect because it fails to use appropriate punctuation to separate the title &ldquo;<em>A Kind of Marriage</em>&rdquo; from the supplementary phrase (&ldquo;a television&hellip;Nigeria&rdquo;) that describes it. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "fe470995-4b5b-4316-86cc-b2a363cc3737",
+  "stimulus": "<p>Nigerian author Buchi Emecheta&rsquo;s celebrated literary oeuvre includes <em>The Joys of Motherhood</em>, a novel about the changing roles of women in 1950s <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> a television play about the private struggles of a newlywed couple in Nigeria; and <em>Head Above Water</em>, her autobiography.</p>",
+  "templateclusterid": "7f5ef976-a520-425e-ab5c-f943c32284b2",
+  "parenttemplatename": "OSP-692-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "0922562f-1507-4db3-91ee-b265e0ac323f",
+      "content": "<p>Lagos, <em>A Kind of Marriage</em>,</p>"
+    },
+    {
+      "id": "17e8988c-8858-4186-9bc7-b4a526a6c3c9",
+      "content": "<p>Lagos; <em>A Kind of Marriage</em>,</p>"
+    },
+    {
+      "id": "2b80f389-5395-4977-8490-b05c9b768bfc",
+      "content": "<p>Lagos, <em>A Kind of Marriage</em>:</p>"
+    },
+    {
+      "id": "e709a8a6-46cc-4258-96c7-ca4976677944",
+      "content": "<p>Lagos; <em>A Kind of Marriage</em></p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

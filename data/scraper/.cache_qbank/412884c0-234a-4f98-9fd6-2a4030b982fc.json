@@ -1,0 +1,38 @@
+{
+  "vaultid": "36694562-ac27-4d3c-90b3-6ee1bccd024f",
+  "keys": [
+    "7e4da43f-ae00-4a59-9a48-af4b1a40a1cf"
+  ],
+  "rationale": "<p>Choice A is the best answer because as used in the text, &ldquo;suggestion&rdquo; most nearly means trace. The text portrays the narrator standing on the deck of a boat, admiring the view of nature afforded by this position: &ldquo;My soul had left its body to lose itself in the wild unrestrained beauty around me,&rdquo; says the narrator, &ldquo;and only left a trembling suggestion of its existence within me.&rdquo; This intense response to beauty is such that the narrator&rsquo;s soul seems to disengage from its body, leaving behind only a barely detectible indication of its presence there. In other words, the narrator senses only a trace of soul left in the body. </p><p>Choice B is incorrect. Although in some contexts &ldquo;suggestion&rdquo; can refer to an implied or indirectly expressed opinion, the text doesn&rsquo;t portray the narrator expressing an opinion; instead, the narrator is explaining an experience of intense emotion. Choice C is incorrect. While &ldquo;suggestion&rdquo; might be used in some contexts to refer to the tactful expression of a differing viewpoint, it doesn&rsquo;t refer to the dispute or difference of opinion itself. Moreover, the text doesn&rsquo;t portray a dispute between characters with differing viewpoints. Choice D is incorrect. Although in some contexts, &ldquo;suggestion&rdquo; might be used to refer to a politely worded command, the text doesn&rsquo;t portray a scenario in which someone receives such a command. </p>",
+  "origin": "proteus",
+  "stem": "<p>As used in the text, what does the word &ldquo;suggestion&rdquo; most nearly mean?&nbsp;</p>",
+  "externalid": "412884c0-234a-4f98-9fd6-2a4030b982fc",
+  "stimulus": "<p>The following text is adapted from Sadakichi Hartmann&rsquo;s 1894 short story &ldquo;Magnolia Blossoms.&rdquo; The narrator is standing on the deck of a boat.</p>\n<blockquote>\n<p>What a night it was! My soul had left its body to lose itself in the wild unrestrained beauty around me&mdash;from where it came&mdash;and only left a trembling <span role=\"region\" aria-label=\"Referenced Content\"><u>suggestion</u></span> of its existence within me. The other passengers moved around me like shadows, and again and again my eyes drank in all the glory and wealth of that night.</p>\n</blockquote>",
+  "templateclusterid": "c813d2a8-4237-4f56-acf7-9663a1bb09c3",
+  "parenttemplatename": "OSP-036-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "7e4da43f-ae00-4a59-9a48-af4b1a40a1cf",
+      "content": "<p>Trace</p>"
+    },
+    {
+      "id": "0fe465b0-3089-4586-99ae-e7412a1cac74",
+      "content": "<p>Opinion</p>"
+    },
+    {
+      "id": "b215b9b6-ff97-46d7-ba4f-f3e407eeb77a",
+      "content": "<p>Dispute</p>"
+    },
+    {
+      "id": "027bed12-1b43-4e2a-820a-9829059db1dc",
+      "content": "<p>Command</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most effectively uses data from the table to complete the statement?</p>",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Number of Museum Visits (in Millions) from 2016 to 2019</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Museum</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">2016</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">2017</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">2018</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">2019</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">National Museum of the American Indian</th><td style=\"text-align: center;\">1.1</td><td style=\"text-align: center;\">1.2</td><td style=\"text-align: center;\">1.1</td><td style=\"text-align: center;\">0.96</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">National Museum of African American History and Culture</th><td style=\"text-align: center;\">0.73</td><td style=\"text-align: center;\">2.4</td><td style=\"text-align: center;\">1.9</td><td style=\"text-align: center;\">2.0</td></tr></tbody></table></figure></p>\n<p>A student is researching the number of visits each year to two museums, the National Museum of the American Indian and the National Museum of African American History and Culture. Of the four years included in the table, the year when both museums had the highest number of visits was <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "dc5e3df3-af26-41cd-9301-0e23b923181d"
+  ],
+  "answerOptions": [
+    {
+      "id": "57bc07d4-efdc-4ffc-8c8f-0aa715256289",
+      "content": "<p>2016.</p>"
+    },
+    {
+      "id": "9ecfc300-47c1-467c-8e07-7264449d66fb",
+      "content": "<p>2018.</p>"
+    },
+    {
+      "id": "227aff62-7634-4ffb-a0e2-5167d0608c61",
+      "content": "<p>2019.</p>"
+    },
+    {
+      "id": "dc5e3df3-af26-41cd-9301-0e23b923181d",
+      "content": "<p>2017.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most effectively uses data from the table to complete the statement about the year when both museums had the highest number of visits. The table shows the number of visits (in millions) from 2016 to 2019 to two museums: the National Museum of the American Indian and the National Museum of African American History and Culture. It indicates that the highest number of visits to the National Museum of the American Indian was 1.2 million in 2017 and that the highest number of visits to the National Museum of African American History and Culture was 2.4 million, also in 2017.</p><p>Choice A is incorrect because the table shows that in 2016, the National Museum of the American Indian had 1.1 million visits and that the National Museum of African American History and Culture had 0.73 million visits, both of which are lower than the number of visits these museums had in 2017. Choice B is incorrect because the table shows that in 2018, the National Museum of the American Indian had 1.1 million visits and that the National Museum of African American History and Culture had 1.9 million visits, both of which are lower than the number of visits these museums had in 2017. Choice C is incorrect because the table shows that in 2019, the National Museum of the American Indian had 0.96 million visits and that the National Museum of African American History and Culture had 2.0 million visits, both of which are lower than the number of visits these museums had in 2017.</p>",
+  "externalid": "6096b294-0cc7-4495-a3a6-0e0db167e92c",
+  "correct_answer": [
+    "D"
+  ]
+}

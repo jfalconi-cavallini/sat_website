@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>The student wants to emphasize the order in which Alaska and Hawaii became US states. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:&nbsp;</p>\n<ul>\n<li>On January 3, 1959, Alaska became the 49th state to join the US.&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</li>\n<li>On August 21, 1959, Hawaii became the 50th state to join the US.&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</li>\n<li>A new 50-star US flag was unveiled the same day.</li>\n</ul>",
+  "keys": [
+    "8d489b26-a15b-4d67-a24c-db541fa2adc3"
+  ],
+  "answerOptions": [
+    {
+      "id": "8d489b26-a15b-4d67-a24c-db541fa2adc3",
+      "content": "<p>Alaska, the 49th US state, became a state several months before Hawaii, the 50th state, did.</p>"
+    },
+    {
+      "id": "e8eb8bf5-bf3f-453f-a2e0-ad102788e9bd",
+      "content": "<p>On August 21, 1959, a new 50-star US flag was unveiled.</p>"
+    },
+    {
+      "id": "517d65c3-937f-4efd-9399-d3de047e2e12",
+      "content": "<p>The 49th and 50th states to join the US did so in the same year.</p>"
+    },
+    {
+      "id": "e2cd6952-a7dc-4a99-a3f6-c5c8fcab98e6",
+      "content": "<p>The same day that Hawaii became a US state&mdash;August 21, 1959&mdash;a new US flag was unveiled.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The sentence emphasizes the order in which Alaska and Hawaii became US states, noting that Alaska became a US state several months before Hawaii did.</p><p>Choice B is incorrect. The sentence specifies when the 50-star US flag was unveiled; it doesn&rsquo;t emphasize the order in which Alaska and Hawaii became US states. Choice C is incorrect. While the sentence indicates that the 49th and 50th states became US states in the same year, it doesn&rsquo;t identify which state was the 49th and which was the 50th; as a result, it doesn&rsquo;t emphasize the order in which Alaska and Hawaii became states. Choice D is incorrect. The sentence indicates that a new US flag was unveiled when Hawaii became a US state; it doesn&rsquo;t emphasize the order in which Alaska and Hawaii became states.</p>",
+  "externalid": "4b7d0253-1216-4e18-92df-dc50b1c6d4c6",
+  "correct_answer": [
+    "A"
+  ]
+}

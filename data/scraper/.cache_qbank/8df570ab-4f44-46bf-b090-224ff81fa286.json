@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>According to Duverger&rsquo;s law, countries with single-ballot majoritarian elections for single-member districts tend to polarize into two-party systems, wherein dueling political parties consistently dominate the political system. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> countries with proportional-representation electoral systems tend to support multi-partyism, under which power gets distributed among many political parties.</p>",
+  "type": "mcq",
+  "keys": [
+    "ab1951a3-3325-41fd-9dc3-7b4a3c3b5b4d"
+  ],
+  "answerOptions": [
+    {
+      "id": "ea1b340f-a192-4ddd-9352-78ba2f479306",
+      "content": "<p>Subsequently,</p>"
+    },
+    {
+      "id": "ab1951a3-3325-41fd-9dc3-7b4a3c3b5b4d",
+      "content": "<p>Conversely,</p>"
+    },
+    {
+      "id": "804c27af-2b39-4fd6-89d2-a9096882ad7c",
+      "content": "<p>For instance,</p>"
+    },
+    {
+      "id": "19e7244f-3e63-44f7-8765-e1162735f60c",
+      "content": "<p>In other words,</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. \"Conversely\" logically signals that the information in this sentence&mdash;that countries with proportional-representation electoral systems tend toward multi-partyism&mdash;contrasts with the previous information about countries with single-ballot majoritarian elections, which tend to have two-party systems.</p><p>Choice A is incorrect because \"subsequently\" illogically signals that the information in this sentence about countries with proportional-representation electoral systems occurs later in a chronological sequence of events than the information in the previous sentence. Instead, it contrasts with the previous information. Choice C is incorrect because \"for instance\" illogically signals that the information in this sentence about countries with proportional-representation electoral systems is an example supporting the previous statement about countries with single-ballot majoritarian elections. Instead, it contrasts with the previous statement. Choice D is incorrect because \"in other words\" illogically signals that the information in this sentence about countries with proportional-representation electoral systems is a paraphrase or restatement of the previous information about countries with single-ballot majoritarian elections. Instead, it contrasts with the previous information.</p>",
+  "externalid": "8df570ab-4f44-46bf-b090-224ff81fa286",
+  "correct_answer": [
+    "B"
+  ]
+}

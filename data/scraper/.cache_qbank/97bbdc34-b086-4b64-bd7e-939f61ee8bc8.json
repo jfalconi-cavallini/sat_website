@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Stomata, tiny pore structures in a leaf that absorb gases needed for plant growth, open when guard cells surrounding each pore swell with water. In a pivotal 2007 article, plant cell <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> showed that lipid molecules called phosphatidylinositol phosphates are responsible for signaling guard cells to open stomata.&nbsp;</p>",
+  "keys": [
+    "0f0e142f-08f6-48a5-b238-8432ab7f0557"
+  ],
+  "answerOptions": [
+    {
+      "id": "84aeb6be-1fb9-4a57-a01f-14df47112b3f",
+      "content": "<p>biologist<span data-ssml-say-as=\"characters\">,</span> Yuree Lee</p>"
+    },
+    {
+      "id": "e9c8f20e-a5b3-4185-beaa-e7e0bb9b8830",
+      "content": "<p>biologist Yuree Lee<span data-ssml-say-as=\"characters\">,</span></p>"
+    },
+    {
+      "id": "0f0e142f-08f6-48a5-b238-8432ab7f0557",
+      "content": "<p>biologist Yuree Lee</p>"
+    },
+    {
+      "id": "301556a0-65b0-4816-8bd5-787be9ec1281",
+      "content": "<p>biologist<span data-ssml-say-as=\"characters\">,</span> Yuree Lee<span data-ssml-say-as=\"characters\">,</span></p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of punctuation between titles and proper nouns. No punctuation is needed to offset the proper noun \"Yuree Lee\" from the title \"plant cell biologist\" that describes Lee.</p><p>Choice A is incorrect because no punctuation is needed. Choice B is incorrect because no punctuation is needed. Choice D is incorrect because no punctuation is needed around the proper noun \"Yuree Lee.\" Setting the phrase off with punctuation suggests that it could be removed without affecting the coherence of the sentence, which isn&rsquo;t the case.</p>",
+  "externalid": "97bbdc34-b086-4b64-bd7e-939f61ee8bc8",
+  "correct_answer": [
+    "C"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which quotation from &ldquo;Lines Written in Early Spring&rdquo; most effectively illustrates the claim?</p>",
+  "stimulus": "<p>&ldquo;Lines Written in Early Spring&rdquo; is a 1798 poem by William Wordsworth. In the poem, the speaker describes having contradictory feelings while experiencing the sights and sounds of a spring day: <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "5ac559be-8f31-4b24-8d5c-654876283edd"
+  ],
+  "answerOptions": [
+    {
+      "id": "ee2ea2b7-8f70-46ed-a560-1e9bc7a3878c",
+      "content": "<p>&ldquo;Through primrose-tufts, in that sweet bower, / The periwinkle trail&rsquo;d its wreathes; / And &rsquo;tis my faith that every flower / Enjoys the air it breathes.&rdquo;</p>"
+    },
+    {
+      "id": "0ccbf86d-2ddf-48d8-a2ce-91dd97f05147",
+      "content": "<p>&ldquo;The budding twigs spread out their fan, / To catch the breezy air; / And I must think, do all I can, / That there was pleasure there.&rdquo;</p>"
+    },
+    {
+      "id": "8f888d64-7cc4-41fb-8fbd-d739ca6f657c",
+      "content": "<p>&ldquo;The birds around me hopp&rsquo;d and play&rsquo;d: / Their thoughts I cannot measure, / But the least motion which they made, / It seem&rsquo;d a thrill of pleasure.&rdquo;</p>"
+    },
+    {
+      "id": "5ac559be-8f31-4b24-8d5c-654876283edd",
+      "content": "<p>&ldquo;I heard a thousand blended notes, / While in a grove I [sat] reclined, / In that sweet mood when pleasant thoughts / Bring sad thoughts to the mind.&rdquo;</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most effectively illustrates the claim that the speaker has contradictory feelings while experiencing the sights and sounds of spring. This quotation indicates that the speaker is reclined in a grove listening to a thousand sounds. Even though the speaker is in a \"sweet mood\" and thinking \"pleasant thoughts,\" those pleasant thoughts also bring to mind \"sad thoughts.\" In other words, these lines illustrate the claim that the speaker is having contradictory thoughts while immersed in the sights and sounds of spring.</p><p>Choice A is incorrect. Although this quotation refers to several flowers (primroses and periwinkles) and indicates that the speaker is in a \"bower,\" or shady spot among the trees&mdash;details which suggest that the speaker is experiencing the sights of spring&mdash;it doesn&rsquo;t suggest that the speaker is having contradictory feelings, only that the speaker believes that the flowers are experiencing enjoyment. Choice B is incorrect. Although this quotation focuses on the sights of spring&mdash;namely, new leaves on nearby trees appear to be opening up (\"The budding twigs spread out their fan\") to feel the breeze&mdash;the quotation doesn&rsquo;t suggest that the speaker feels conflicted about this: the statement \"And I must think, do all I can\" suggests the speaker&rsquo;s determination to attribute feelings of pleasure to the trees, not that the speaker is experiencing contradictory feelings. Choice C is incorrect. Although this quotation indicates that the speaker isn&rsquo;t certain what the birds are thinking (\"Their thoughts I cannot measure\"), there&rsquo;s nothing to suggest that the speaker is experiencing contradictory feelings. Rather, the quotation suggests that although the speaker is uncertain about the birds&rsquo; feelings, the speaker believes that the birds&rsquo; movements likely suggest their pleasure.</p>",
+  "externalid": "ed118154-f369-47fe-850a-70e12f3794d8",
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>In 2016, Gabriela Gonz&aacute;lez and team announced that a chirping sound captured by Laser Interferometer Gravitational-Wave Observatory antennas was direct evidence of gravitational waves, which skeptics had argued would be too faint for detection. Detailed statistical analysis helped preclude claims of the event&rsquo;s <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>, confirming the signal at a confidence level of over 99%.</p>",
+  "keys": [
+    "7dc5852b-784e-4c83-a3cd-f6e9b8c0491e"
+  ],
+  "answerOptions": [
+    {
+      "id": "abbbaebf-8a95-44b4-bd4f-61bc6d4a250a",
+      "content": "<p>inconspicuousness</p>"
+    },
+    {
+      "id": "023ac1eb-39ba-404c-8a45-a68e6e20c397",
+      "content": "<p>discretion</p>"
+    },
+    {
+      "id": "7dc5852b-784e-4c83-a3cd-f6e9b8c0491e",
+      "content": "<p>ambiguity</p>"
+    },
+    {
+      "id": "dae5bdd7-c45f-4951-874a-89bbcc7a4326",
+      "content": "<p>probability</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of Gabriela Gonz&aacute;lez and team&rsquo;s detection of gravitational waves. In this context, \"ambiguity\" means uncertainty or doubtfulness. The text explains that although skeptics had thought that direct evidence of gravitational waves would be too faint to be detected, researchers led by Gonz&aacute;lez claimed that a chirping sound captured by Laser Interferometer Gravitational-Wave Observatory antennas nevertheless provided such evidence. The text goes on to say that detailed statistical analysis confirmed the observation of gravitational waves with a high degree of confidence&mdash;that is, with near certainty&mdash;a finding that helped to preclude, or rule out, any claims that the signal&rsquo;s attribution to gravitational waves might be ambiguous or doubtful.</p><p>Choice A is incorrect. In this context, \"inconspicuousness\" would mean the quality of being unnoticeable or difficult to detect. Although the text indicates that skeptics had doubted whether gravitational waves could be observed directly because of their presumed faintness (which suggests that gravitational waves were expected to be difficult to detect), the blank portion of the text isn&rsquo;t referring to the possibility that gravitational waves are unnoticeable or undetectable. Instead, the focus of the last sentence is Gonz&aacute;lez&rsquo;s team&rsquo;s observation of a chirping sound that they attributed to gravitational waves, and it wouldn&rsquo;t make sense to say that through statistical analysis, they ruled out the possibility that the sound they observed was undetectable. Rather, the skeptical view presented in the text suggests that there could be some ambiguity about the source of the chirping, but statistical analysis virtually eliminated this uncertainty. Choice B is incorrect because in this context, \"discretion\" would mean good judgment, and it wouldn&rsquo;t make sense to say that an event, such as the detection of gravitational waves, would show judgment, much less that the event&rsquo;s capacity to exercise good judgment would be precluded by statistical analysis confirming its attribution. Choice D is incorrect because in this context, \"probability\" would mean likelihood, and the text states that statistical analysis, which confirmed the signal with a high degree of confidence, suggests the likelihood that the chirping sound was produced by gravitational waves, not that the analysis helped to preclude this likelihood.</p>",
+  "externalid": "7649fd6d-86c7-4093-a334-634230e72c1d",
+  "correct_answer": [
+    "C"
+  ]
+}

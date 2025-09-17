@@ -1,0 +1,38 @@
+{
+  "vaultid": "cedea86b-360d-4aea-9c3a-8d68d001d5fb",
+  "keys": [
+    "6f15907b-948d-46ec-9543-2d37022e1b00"
+  ],
+  "rationale": "<p>Choice C is the best answer. &ldquo;Similarly&rdquo; logically signals that the information in this sentence about a labor monopsony is similar to the information in the previous sentence about a product monopsony. In both types of markets, one party (an employer or a buyer) has the power to force another party (a worker or seller) to accept less money (for labor or products). &nbsp;</p><p>Choice A is incorrect because &ldquo;earlier&rdquo; illogically signals that the information in this sentence about a labor monopsony occurs earlier (in a chronological sequence) than the information about a product monopsony. Instead, it is similar to the information about a product monopsony.&nbsp;Choice B is incorrect because &ldquo;instead&rdquo; illogically signals that the information in this sentence about a labor monopsony is an alternative to the previous information about a product monopsony. Instead, it is similar to the information about a product monopsony. &nbsp;Choice D is incorrect because &ldquo;in particular&rdquo; illogically signals that the information in this sentence about a labor monopsony provides specific details elaborating on the previous information about a product monopsony. Instead, it is similar to the information about a product monopsony. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "effb864f-3000-48f7-9ccc-b05ed09a2529",
+  "stimulus": "<p>Originally coined by economist Joan Robinson to refer to markets with multiple sellers of a product but only one buyer, the term &ldquo;monopsony&rdquo; can also refer to markets where demand for labor is limited. In a product monopsony, the single buyer can force sellers to lower their prices. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in a labor monopsony, employers can force workers to accept lower wages.</p>",
+  "templateclusterid": "29cf0db0-d789-4b46-a714-b96c07e4feba",
+  "parenttemplatename": "OSP-274-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "412215af-358d-4029-b1f2-2ea83759e9b7",
+      "content": "<p>Earlier,</p>"
+    },
+    {
+      "id": "22eea191-02fa-4ff3-b96e-39818ce51ac4",
+      "content": "<p>Instead,</p>"
+    },
+    {
+      "id": "6f15907b-948d-46ec-9543-2d37022e1b00",
+      "content": "<p>Similarly,</p>"
+    },
+    {
+      "id": "c99930c3-bdf0-4afc-93cb-0a2afab70781",
+      "content": "<p>In particular,</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

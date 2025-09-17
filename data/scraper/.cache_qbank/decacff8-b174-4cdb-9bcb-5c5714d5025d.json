@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>One challenge of generating electricity from ocean waves is that wave power isn&rsquo;t <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>: it varies in unpredictable ways that pose technological and planning problems for electricity generation.&nbsp;</p>",
+  "keys": [
+    "fb3bb610-e53d-4298-88c4-dc9c4ef34b2f"
+  ],
+  "answerOptions": [
+    {
+      "id": "93e22736-7094-46f9-8427-3b12e48aa308",
+      "content": "<p>accidental</p>"
+    },
+    {
+      "id": "c212cf57-ddd0-4175-997f-f4701660972a",
+      "content": "<p>confident</p>"
+    },
+    {
+      "id": "f0ef4f9e-b45c-4700-a2c6-d9e989c1e57f",
+      "content": "<p>expensive</p>"
+    },
+    {
+      "id": "fb3bb610-e53d-4298-88c4-dc9c4ef34b2f",
+      "content": "<p>consistent</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the challenge of generating electricity from ocean waves. In this context, \"consistent\" means steady or unchanging over time. The text introduces a challenge and then explains that wave power varies, or changes, unpredictably in ways that cause problems for electricity generation. This context conveys that the challenge being described is a lack of consistency.</p><p>Choice A is incorrect because the text introduces a challenge and then elaborates on it by emphasizing that the unpredictable nature of variations in ocean waves causes problems, which doesn&rsquo;t indicate that wave power isn&rsquo;t \"accidental,\" or isn&rsquo;t happening unintentionally. It wouldn&rsquo;t make sense to describe waves&mdash;a natural occurrence&mdash;as happening intentionally. Choice B is incorrect because \"confident\" means having a feeling of self-assurance, and it wouldn&rsquo;t make sense to describe wave power itself in terms of either having or lacking a sense of confidence. Choice C is incorrect because the text introduces a challenge and then elaborates on it by emphasizing that the unpredictable nature of variations in ocean waves causes problems, which doesn&rsquo;t indicate that wave power isn&rsquo;t \"expensive,\" or isn&rsquo;t costly. If anything, technological and planning problems might actually increase the expense of generating electricity from waves.</p>",
+  "externalid": "decacff8-b174-4cdb-9bcb-5c5714d5025d",
+  "correct_answer": [
+    "D"
+  ]
+}

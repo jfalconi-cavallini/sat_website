@@ -1,0 +1,38 @@
+{
+  "vaultid": "62f32914-e014-4d2e-b5fa-e0eff2dd490a",
+  "keys": [
+    "277e4424-bcf9-4931-82e0-c9164cff7c5e"
+  ],
+  "rationale": "<p>Choice A is the best answer. &ldquo;Later&rdquo; logically signals that the letter-writing discussed in this sentence occurred later in a chronological sequence of events than did the antidiscrimination case discussed in the previous sentence. </p><p>Choice B is incorrect because &ldquo;for instance&rdquo; illogically signals that the letter-writing discussed in this sentence is an example of the antidiscrimination case discussed in the previous sentence. Instead, the letter-writing is an event that occurred after the court case. Choice C is incorrect because &ldquo;in other words&rdquo; illogically signals that the letter-writing discussed in this sentence is a paraphrase or restatement of the antidiscrimination case discussed in the previous sentence. Instead, the letter-writing is an event that occurred after the court case. Choice D is incorrect because &ldquo;rather&rdquo; illogically signals that the letter-writing discussed in this sentence is an alternative to the antidiscrimination case discussed in the previous sentence. Instead, the letter-writing is an event that occurred after the court case. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "75904fc7-284b-4151-b762-3d901c50d7f8",
+  "stimulus": "<p>In 1885, Chinese-born California resident Mary Tape became a hero of the Asian American civil rights movement. In January of that year, she won an antidiscrimination case in the California Supreme Court. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in April, she wrote an open letter criticizing her local board of education for discrimination. Both actions are remembered today as historic stands against racism.</p>",
+  "templateclusterid": "49cdf444-e900-4fba-950d-6bd24009e55a",
+  "parenttemplatename": "OSP-260-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "277e4424-bcf9-4931-82e0-c9164cff7c5e",
+      "content": "<p>Later,</p>"
+    },
+    {
+      "id": "431a2bb1-2d85-4c42-9b1c-f704cd31fbcd",
+      "content": "<p>For instance,</p>"
+    },
+    {
+      "id": "43ebdc55-565c-4031-9d83-cc025de5ac53",
+      "content": "<p>In other words,</p>"
+    },
+    {
+      "id": "b15b469a-60ba-423a-875a-a8e93cee5a4e",
+      "content": "<p>Rather,</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "eff482f7-c758-42d8-9917-829c9da9b005",
+  "keys": [
+    "7d6148a7-2dac-408c-8e14-faf98ecfe09f"
+  ],
+  "rationale": "<p>Choice B is the best answer because it presents the conclusion that most logically follows from the text&rsquo;s discussion of the study by Versace and colleagues. The text indicates that newborn animals of some species are attracted to faces and to stimuli that resemble faces. These species, the text says, share two characteristics: they&rsquo;re social and they practice parental care, meaning that parents care for their young. The text goes on to describe Versace and colleagues&rsquo; experiment, which showed that <em>Testudo</em> tortoises, which aren&rsquo;t social and don&rsquo;t practice parental care, were attracted to a stimulus that resembles a face. Since Versace and colleagues have shown that a species that isn&rsquo;t social and doesn&rsquo;t practice parental care nevertheless has the innate characteristic of being attracted to face-like stimuli, it follows that this characteristic shouldn&rsquo;t be assumed to be an adaptation related to social interaction or parental care. </p><p>Choice A is incorrect because the text indicates that the tortoise hatchlings, which are solitary and don&rsquo;t practice parental care, were attracted to the face-like stimuli, not that they perceived the stimuli as threatening. Choice C is incorrect because the phenomenon discussed in the text is an attraction to faces and face-like stimuli on the part of newborn animals, which can&rsquo;t show any learned characteristics since they were just born. Additionally, the text tells us that the tortoises Versace and colleagues studied aren&rsquo;t social and don&rsquo;t practice parental care, so any findings about those tortoises wouldn&rsquo;t be relevant to the question of whether an attraction to faces in social species that practice parental care is innate or learned.&nbsp;Choice D is incorrect because the text gives no indication that adult tortoises were tested on face-like stimuli and, if adults were in fact tested, no information about how they responded is provided. Since no information about adult tortoises&rsquo; responses is provided, no conclusion comparing those responses to the responses of newly hatched tortoises can be supported. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "1830f378-1723-46f1-b0c3-3f7fd3b742f3",
+  "stimulus": "<p>Among social animals that care for their young, such as chickens, macaque monkeys, and humans, newborns appear to show an innate attraction to faces and face-like stimuli. Elisabetta Versace and her colleagues used an image of three black dots arranged in the shape of eyes and a nose or mouth to test whether this trait also occurs in <em>Testudo</em> tortoises, which live alone and do not engage in parental care. They found that tortoise hatchlings showed a significant preference for the image, suggesting that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "5af87a70-0757-48e7-89df-ed1206652dfb",
+  "parenttemplatename": "OSP-010-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "a3d70ab9-55c8-45a0-b449-faf85e46e246",
+      "content": "<p>face-like stimuli are likely perceived as harmless by newborns of social species that practice parental care but as threatening by newborns of solitary species without parental care.</p>"
+    },
+    {
+      "id": "7d6148a7-2dac-408c-8e14-faf98ecfe09f",
+      "content": "<p>researchers should not assume that an innate attraction to face-like stimuli is necessarily an adaptation related to social interaction or parental care.</p>"
+    },
+    {
+      "id": "12bb1709-583a-4015-a629-607ae5cb329b",
+      "content": "<p>researchers can assume that the attraction to face-like stimuli that is seen in social species that practice parental care is learned rather than innate.</p>"
+    },
+    {
+      "id": "7e4ce1a3-bf8c-481a-8559-3c5423ccda85",
+      "content": "<p>newly hatched <em>Testudo&nbsp;</em>tortoises show a stronger preference for face-like stimuli than adult <em>Testudo&nbsp;</em>tortoises do.&nbsp;</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

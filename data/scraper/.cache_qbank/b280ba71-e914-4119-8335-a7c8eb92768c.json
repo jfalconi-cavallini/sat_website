@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Based on the text, which choice best describes the two previously unknown penguin species?</p>",
+  "stimulus": "<p>Paleontologist Alan Tennyson and colleagues studied fossil bones found in New Zealand that are more than 55 million years old. The researchers determined that the fossil bones belonged to two previously unknown species of prehistoric penguins. Moreover, they estimated that one of the two penguin species was more than three times the size of the emperor penguin, which is the largest penguin species that exists today.</p>",
+  "type": "mcq",
+  "keys": [
+    "60955149-b05a-4189-b49d-f34898e81b40"
+  ],
+  "answerOptions": [
+    {
+      "id": "88d2c5db-2b00-4d2f-aa09-23614ac95b78",
+      "content": "<p>They are frequently studied by paleontologists.</p>"
+    },
+    {
+      "id": "60955149-b05a-4189-b49d-f34898e81b40",
+      "content": "<p>They are no longer living species.</p>"
+    },
+    {
+      "id": "bc1c79db-1fbf-46eb-ac86-43f3203b4be0",
+      "content": "<p>They were smaller than penguin species that exist today.</p>"
+    },
+    {
+      "id": "b484b101-0f9a-4e83-835f-e366143cca15",
+      "content": "<p>They spent little of their lives in water.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it presents a statement about the two previously unknown penguin species that is supported by the text. According to the text, Alan Tennyson and colleagues studied fossil bones belonging to two previously unknown penguin species that are described as prehistoric, or ancient. The text goes on to say that one of the two species was considerably larger than the emperor penguin, which is currently the largest penguin in existence. Thus, the text indicates that the other species aren&rsquo;t in existence today, or that the two previously unknown penguin species are no longer living species.</p><p>Choice A is incorrect. Although the text states that Alan Tennyson is a paleontologist who studied the fossils of two previously unknown penguin species, it doesn&rsquo;t say whether these penguins are frequently studied by paleontologists. Choice C is incorrect because the text says that one of the two previously unknown penguin species was three times larger than the emperor penguin (a penguin alive today), not that they were both smaller than penguin species that exist today. Choice D is incorrect because the text doesn&rsquo;t discuss whether the two previously unknown penguin species spent any time in water.</p>",
+  "externalid": "b280ba71-e914-4119-8335-a7c8eb92768c",
+  "correct_answer": [
+    "B"
+  ]
+}

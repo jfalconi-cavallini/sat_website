@@ -1,0 +1,38 @@
+{
+  "vaultid": "dc9b137d-8971-45ee-a8a3-eaf2becd4fcd",
+  "keys": [
+    "59a6abce-3b9f-44e7-b4f2-3d286d345969"
+  ],
+  "rationale": "<p>Choice D is the best answer. The sentence specifies the location of Ctesiphon, noting that it was located near present-day Baghdad, Iraq. </p><p>Choice A is incorrect because the sentence explains when the Sasanian Empire began and ended; it doesn&rsquo;t specify the location of Ctesiphon. Choice B is incorrect because the sentence emphasizes that Ctesiphon was the capital of the Sasanian Empire; it doesn&rsquo;t specify Ctesiphon&rsquo;s location. Choice C is incorrect because it emphasizes the size of the Sasanian Empire; it doesn&rsquo;t specify the location of Ctesiphon. </p>",
+  "origin": "proteus",
+  "stem": "<p>The student wants to specify the location of Ctesiphon. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "externalid": "26c336bf-d732-4c21-a3f8-2979fdaf1d34",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:&nbsp;</p>\n<ul>\n<li>The Sasanian Empire lasted about 400 years (AD 224 to AD 651).</li>\n<li>The Sasanians controlled an area spanning 1.4 million square miles.</li>\n<li>This area included present-day Iran and Iraq.</li>\n<li>The empire&rsquo;s capital was the ancient city of Ctesiphon.</li>\n<li>Ctesiphon was located near present-day Baghdad, Iraq.</li>\n</ul>",
+  "templateclusterid": "740a182c-2476-42c0-b66e-3997b40a2dc3",
+  "parenttemplatename": "OSP-014-SYN",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "08b7cbb6-9ed8-4fc4-b0e4-34f26cd852f8",
+      "content": "<p>The Sasanian Empire began in AD 224 and ended in AD 651.</p>"
+    },
+    {
+      "id": "bfd33f5a-261e-442c-9e38-578d430ff3af",
+      "content": "<p>The capital of the Sasanian Empire, which spanned 1.4 million square miles, was Ctesiphon.</p>"
+    },
+    {
+      "id": "47744551-f990-47a6-8f76-2fb9515786ef",
+      "content": "<p>The Sasanians controlled an area of 1.4 million square miles, including present-day Iran and Iraq.</p>"
+    },
+    {
+      "id": "59a6abce-3b9f-44e7-b4f2-3d286d345969",
+      "content": "<p>Ctesiphon, the capital of the Sasanian Empire, was located near present-day Baghdad, Iraq.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

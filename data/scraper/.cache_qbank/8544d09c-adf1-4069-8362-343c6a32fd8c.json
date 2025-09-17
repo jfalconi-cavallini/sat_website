@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Based on the text, Huang, Seager, and colleagues would most likely agree with which statement about atmospheric NH<sub>3</sub>?</p>",
+  "stimulus": "<p>Some astronomers searching for extraterrestrial life have proposed that atmospheric NH<sub>3</sub> (ammonia) can serve as a biosignature gas&mdash;an indication that a planet harbors life. Jingcheng Huang, Sara Seager, and colleagues evaluated this possibility, finding that on rocky planets, atmospheric NH<sub>3</sub> likely couldn&rsquo;t reach detectably high levels in the absence of biological activity. But the team also found that on so-called mini-Neptunes&mdash;gas planets smaller than Neptune but with atmospheres similar to Neptune&rsquo;s&mdash;atmospheric pressure and temperature can be high enough to produce atmospheric NH<sub>3.</sub></p>",
+  "type": "mcq",
+  "keys": [
+    "0340b919-ccce-49f2-9896-5ba79bd3868e"
+  ],
+  "answerOptions": [
+    {
+      "id": "a27e462c-f75d-4776-814b-1ebe6ffc32c9",
+      "content": "<p>Its presence is more likely to indicate that a planet is a mini-Neptune than that the planet is a rocky planet that could support life.&nbsp;</p>"
+    },
+    {
+      "id": "f2f05554-716e-40a9-902d-e25de19a0260",
+      "content": "<p>Its absence from a planet that&rsquo;s not a mini-Neptune indicates that the planet probably doesn&rsquo;t have life.&nbsp;</p>"
+    },
+    {
+      "id": "0340b919-ccce-49f2-9896-5ba79bd3868e",
+      "content": "<p>It should be treated as a biosignature gas if detected in the atmosphere of a rocky planet but not if detected in the atmosphere of a mini-Neptune.</p>"
+    },
+    {
+      "id": "8b6bf379-b625-4527-a25c-5621f0193b30",
+      "content": "<p>It doesn&rsquo;t reliably reach high enough concentrations in the atmospheres of rocky planets or mini-Neptunes to be treated as a biosignature gas.&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it states a conclusion the researchers likely agree with, given the details in the text. The text explains that a biosignature gas is a gas that can be used as an indicator that a planet harbors some form of life and some astronomers have proposed that NH<sub>3</sub> could serve as a biosignature gas. The researchers evaluating this claim found that the atmosphere of rocky planets would be unlikely to reach \"detectably high levels\" of NH<sub>3</sub> without biological activity, which would support the proposal of NH<sub>3</sub> serving as a biosignature gas. However, the text also states that mini-Neptune planets can produce NH<sub>3</sub> in the absence of biological activity. Thus, the text is structured to lead to the conclusion that detectable levels of NH<sub>3</sub> in the atmospheres of rocky planets could constitute a biosignature, but that is not the case for detectable levels of the gas in the atmospheres of mini-Neptune planets.</p><p>Choice A is incorrect because the text indicates that biological activity likely accounts for detectable levels of NH<sub>3</sub> in the atmospheres of rocky planets but mini-Neptune planets can have detectable levels of NH<sub>3</sub> in their atmospheres in the absence of biological activity. Therefore, both rocky planets and mini-Neptune planets can have detectable levels of atmospheric NH<sub>3</sub>. Choice B is incorrect because the text states that for NH<sub>3</sub> to reach detectable levels in the atmospheres of rocky planets likely means they harbor biological activity, meaning that rocky planets with detectable NH<sub>3</sub> usually harbor biological activity. However, that does not entail that every rocky planet with biological activity will have detectable levels of NH<sub>3</sub> in their atmospheres. Choice D is incorrect because the text claims only that some astronomers have proposed using NH<sub>3</sub> as a biosignature gas without mentioning a minimum concentration of atmospheric NH<sub>3</sub> that must be met for it to function as a biosignature gas.</p>",
+  "externalid": "8544d09c-adf1-4069-8362-343c6a32fd8c",
+  "correct_answer": [
+    "C"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "5128f1a9-f584-4047-9a20-1326a0b98426",
+  "keys": [
+    "34422f07-83c5-40f7-b8fd-23612b7a2105"
+  ],
+  "rationale": "<p>Choice C is the best answer. &ldquo;Finally&rdquo; logically signals that the bill passing&mdash;following many attempts between 1968 and 1983&mdash;is the final, concluding event in the sequence described in the previous sentences.&nbsp;</p><p>Choice A is incorrect because &ldquo;instead&rdquo; illogically signals that the bill passing is an alternative to one of the events described in the previous sentences. Instead, it is the final event in the sequence. Choice B is incorrect because &ldquo;likewise&rdquo; illogically signals that the bill passing is similar to one of the events described in the previous sentences. Instead, it is the final event in the sequence. Choice D is incorrect because &ldquo;additionally&rdquo; illogically signals that the bill passing is merely another event described along with the events of the previous sentences. Instead, it is the final, concluding event in the sequence. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "19d4a5b2-8ace-4094-99d6-23e73b86e4d9",
+  "stimulus": "<p>In 1968, US Congressman John Conyers introduced a bill to establish a national holiday in honor of Dr. Martin Luther King Jr. The bill didn&rsquo;t make it to a vote, but Conyers was determined. He teamed up with Shirley Chisholm, the first Black woman to be elected to Congress, and they resubmitted the bill every session for the next fifteen years. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in 1983, the bill passed.</p>",
+  "templateclusterid": "b9be0543-9cbf-407e-b7cd-99bd7764505d",
+  "parenttemplatename": "OSP-229-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "fbed0719-8898-4442-81f6-5aa78a5f0796",
+      "content": "<p>Instead,</p>"
+    },
+    {
+      "id": "14e0737c-7ff9-4ee3-a2cf-043d3f276682",
+      "content": "<p>Likewise,</p>"
+    },
+    {
+      "id": "34422f07-83c5-40f7-b8fd-23612b7a2105",
+      "content": "<p>Finally,</p>"
+    },
+    {
+      "id": "3143e5c3-3b28-412e-bf65-d45a2888c979",
+      "content": "<p>Additionally,</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

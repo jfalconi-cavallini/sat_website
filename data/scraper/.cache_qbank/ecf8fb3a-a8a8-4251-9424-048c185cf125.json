@@ -1,0 +1,38 @@
+{
+  "vaultid": "833c1aa3-d9a7-4220-8a43-a36f6f988f27",
+  "keys": [
+    "803eebed-f638-43d8-a5b2-f017e3477879"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most effectively uses a quotation from <em>King Lear</em> to illustrate the claim that King Lear expresses regret for his actions. In the quotation, Lear describes striking himself on the head&mdash;the same act he&rsquo;s engaged in as he speaks, and one that suggests he&rsquo;s deeply upset with himself. Referring to himself in the second person (with &ldquo;thy&rdquo;), the character exclaims &ldquo;Beat at this gate that let thy folly in / And thy dear judgement out!&rdquo; Lear refers metaphorically to his own mind as a gate that has allowed folly, or poor judgement, to enter and good judgement to escape. This suggests that Lear regrets his attempts to test his three daughters&rsquo; devotion to him, regarding those attempts as examples of the folly that has entered the gate of his mind. </p><p>Choice A is incorrect because this quotation doesn&rsquo;t express King Lear&rsquo;s sense of regret over his own actions; instead, it expresses his belief that the harm that others have done to him (or the extent to which they have &ldquo;sinned against&rdquo; him) outweighs whatever harm he himself has caused by &ldquo;sinning.&rdquo; Choice B is incorrect because this quotation doesn&rsquo;t express King Lear&rsquo;s sense of regret over his own actions; instead, it expresses his thoughts about an approaching storm (&ldquo;this tempest&rdquo;), which he believes &ldquo;will not give [him] leave to ponder,&rdquo; or time to consider, the harm that he will continue to experience (&ldquo;things&rdquo; that &ldquo;would hurt [him] more&rdquo;). Choice D is incorrect because this quotation expresses King Lear&rsquo;s vow to commit terrible actions (or &ldquo;things&rdquo; that &ldquo;shall be / The terrors of the earth&rdquo;) in the future, not his regret over actions that he&rsquo;s already taken. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most effectively uses a quotation from <em>King Lear </em>to illustrate the claim?</p>",
+  "externalid": "ecf8fb3a-a8a8-4251-9424-048c185cf125",
+  "stimulus": "<p><em>King Lear</em> is a circa 1606 play by William Shakespeare. In the play, the character of King Lear attempts to test his three daughters&rsquo; devotion to him. He later expresses regret for his actions, as is evident when he <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "bf296b72-1323-4dae-ab5f-3246692b4839",
+  "parenttemplatename": "OSP-400-LIT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "124dc025-3c73-4db3-9019-93cd095e344c",
+      "content": "<p>says of himself, &ldquo;I am a man / more sinned against than sinning.&rdquo;</p>"
+    },
+    {
+      "id": "a6dfe277-1be8-41ee-94b1-784d36a9c117",
+      "content": "<p>says during a growing storm, &ldquo;This tempest will not give me leave to ponder / On things would hurt me more.&rdquo;</p>"
+    },
+    {
+      "id": "803eebed-f638-43d8-a5b2-f017e3477879",
+      "content": "<p>says to himself while striking his head, &ldquo;Beat at this gate that let thy folly in / And thy dear judgement out!&rdquo;</p>"
+    },
+    {
+      "id": "a3713d75-aaec-44f8-90b1-f7b9bf95f7e7",
+      "content": "<p>says of himself, &ldquo;I will do such things&mdash; / What they are yet, I know not; but they shall be / The terrors of the earth!&rdquo;</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

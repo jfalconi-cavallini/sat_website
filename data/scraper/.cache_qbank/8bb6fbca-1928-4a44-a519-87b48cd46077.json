@@ -1,0 +1,38 @@
+{
+  "vaultid": "29ceccdb-ee49-4ea4-97a6-64dc667c2f8c",
+  "keys": [
+    "a20e9f37-c043-40b1-93f4-9e63e6ebc6a5"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is subject-verb agreement. The singular verb &ldquo;outlines&rdquo; agrees in number with the singular subject &ldquo;document.&rdquo; </p><p>Choice A is incorrect because the plural verb &ldquo;have outlined&rdquo; doesn&rsquo;t agree in number with the singular subject &ldquo;document.&rdquo; Choice B is incorrect because the plural verb &ldquo;were outlining&rdquo; doesn&rsquo;t agree in number with the singular subject &ldquo;document.&rdquo; Choice D is incorrect because the plural verb &ldquo;outline&rdquo; doesn&rsquo;t agree in number with the singular subject &ldquo;document.&rdquo;&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "8bb6fbca-1928-4a44-a519-87b48cd46077",
+  "stimulus": "<p>Former First Lady of the United States Eleanor Roosevelt and Indian activist and educator Hansa Mehta were instrumental in drafting the United Nations&rsquo; Universal Declaration of Human Rights, a document that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the basic freedoms to which all people are entitled.</p>",
+  "templateclusterid": "9e2de822-0a60-4f25-ad96-db6ba155c996",
+  "parenttemplatename": "OSP-689-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "dfd0c12b-3abc-440e-9432-cd364ae20cd8",
+      "content": "<p>have outlined</p>"
+    },
+    {
+      "id": "6a5101d5-9008-424c-8490-32ab5d2efc5b",
+      "content": "<p>were outlining</p>"
+    },
+    {
+      "id": "a20e9f37-c043-40b1-93f4-9e63e6ebc6a5",
+      "content": "<p>outlines</p>"
+    },
+    {
+      "id": "5d50de1d-258e-46ce-a306-df0523bd6753",
+      "content": "<p>outline</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "000149fd-a7ec-480c-a6ed-e64933e89142",
+  "keys": [
+    "86dbc199-3160-4f1e-adbf-28538034812b"
+  ],
+  "rationale": "<p>Choice D is the best answer. &ldquo;Nevertheless&rdquo; logically signals that the claim in this sentence&mdash;that the telegenic Kennedy was ultimately considered the winner of the debate&mdash;is true despite the previous information about the poll of radio listeners. </p><p>Choice A is incorrect because &ldquo;in other words&rdquo; illogically signals that the claim in this sentence is a paraphrase of the previous information about the poll of radio listeners. Instead, Kennedy was ultimately considered the winner despite what that poll suggested about his performance. Choice B is incorrect because &ldquo;therefore&rdquo; illogically signals that the claim in this sentence is a result of the previous information about the poll of radio listeners. Instead, Kennedy was ultimately considered the winner despite what that poll suggested about his performance. Choice C is incorrect because &ldquo;likewise&rdquo; illogically signals that the claim in this sentence is similar to the previous information about the poll of radio listeners. Instead, Kennedy was ultimately considered the winner despite what that poll suggested about his performance. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "f52f87d7-f595-4af1-a549-5988359a6a38",
+  "stimulus": "<p>One poll taken after the first 1960 presidential debate suggested that John Kennedy lost badly: only 21 percent of those who listened on the radio rated him the winner. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the debate was ultimately considered a victory for the telegenic young senator, who rated higher than his opponent, Vice President Richard Nixon, among those watching on the new medium of television. &nbsp;</p>",
+  "templateclusterid": "9b672211-121f-40d7-9f8b-d4403c5c6ecf",
+  "parenttemplatename": "OSP-207-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d2796a83-74fa-4ab6-a2e0-e2d6b04d4eee",
+      "content": "<p>In other words,</p>"
+    },
+    {
+      "id": "1e04c794-c6b1-465a-ab97-96a755bcbc8f",
+      "content": "<p>Therefore,</p>"
+    },
+    {
+      "id": "38545a1e-5de2-48e3-b267-8c76d58aa725",
+      "content": "<p>Likewise,</p>"
+    },
+    {
+      "id": "86dbc199-3160-4f1e-adbf-28538034812b",
+      "content": "<p>Nevertheless,</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "df52eb59-63f0-4704-ab81-499eea8bbc5d",
+  "keys": [
+    "f62b0f21-b627-47e2-92d3-0a92725e3fc5"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is subject-modifier placement. This choice makes the noun phrase &ldquo;Julian&rsquo;s 1935 synthesis&rdquo; the subject of the sentence and places it immediately after the modifying phrase &ldquo;named&hellip;years.&rdquo; In doing so, this choice clearly establishes that Julian&rsquo;s 1935 synthesis of the alkaloid physostigmine&mdash;and not another noun in the sentence&mdash;was named in 1999 as one of the greatest achievements by a US chemist in the past hundred years. &nbsp;</p><p>Choice A is incorrect because it results in a dangling modifier. The placement of the noun &ldquo;Julian&rdquo; immediately after the modifying phrase illogically suggests that Julian himself was named as one of the greatest achievements by a US chemist in the past hundred years. Choice B is incorrect because it results in a dangling modifier. The placement of the prepositional phrase &ldquo;in 1935&rdquo; immediately after the modifying phrase illogically and confusingly suggests that &ldquo;in 1935&rdquo; was named as one of the greatest achievements by a US chemist in the past hundred years. Choice D is incorrect because it results in a dangling modifier. The placement of the noun phrase &ldquo;the alkaloid physostigmine&rdquo; immediately after the modifying phrase illogically and confusingly suggests that the alkaloid physostigmine itself (not the synthesis of it) was named as one of the greatest achievements by a US chemist in the past hundred years. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "75e2f271-deb9-48a5-8790-d06ec8eb3379",
+  "stimulus": "<p>African American Percy Julian was a scientist and entrepreneur whose work helped people around the world to see. Named in 1999 as one of the greatest achievements by a US chemist in the past hundred years, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> led to the first mass-produced treatment for glaucoma.</p>",
+  "templateclusterid": "56e8e920-fd8e-46b7-b252-6237fdc2b701",
+  "parenttemplatename": "OSP-685-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d31a3c83-001f-47f5-a97a-830ba18dee07",
+      "content": "<p>Julian synthesized the alkaloid physostigmine in 1935; it&nbsp;</p>"
+    },
+    {
+      "id": "91293f81-7387-43e6-9d47-401966458b5f",
+      "content": "<p>in 1935 Julian synthesized the alkaloid physostigmine, which</p>"
+    },
+    {
+      "id": "f62b0f21-b627-47e2-92d3-0a92725e3fc5",
+      "content": "<p>Julian&rsquo;s 1935 synthesis of the alkaloid physostigmine</p>"
+    },
+    {
+      "id": "a4a735a0-cb61-4182-9d95-52aef10906da",
+      "content": "<p>the alkaloid physostigmine was synthesized by Julian in 1935 and</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

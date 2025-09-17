@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Ugandan American professor Peter Nazareth believed that Elvis Presley&rsquo;s music is best understood not as a homogeneous collection but as an anthology (because Elvis showcased the contributions of a wide range of gospel, blues, and rock artists). <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Nazareth entitled his college course on Elvis and his music, which focused on Elvis&rsquo;s many musical influences, &ldquo;Elvis as Anthology.&rdquo;</p>",
+  "type": "mcq",
+  "keys": [
+    "0a644bf2-ad3a-447f-b363-d8278bcde6e2"
+  ],
+  "answerOptions": [
+    {
+      "id": "0a644bf2-ad3a-447f-b363-d8278bcde6e2",
+      "content": "<p>To that end,</p>"
+    },
+    {
+      "id": "68a74a2a-56ba-4290-8374-cb59ccf28e17",
+      "content": "<p>In sum,</p>"
+    },
+    {
+      "id": "af100b68-1681-497f-8152-0abfaf8d4e99",
+      "content": "<p>That is,</p>"
+    },
+    {
+      "id": "773c06b4-43cd-46fe-8ae5-e0b82528a766",
+      "content": "<p>In addition,</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. \"To that end\" logically signals that the activity described in this sentence&mdash;Nazareth titling his course \"Elvis as Anthology\"&mdash;is meant to further Nazareth&rsquo;s goal of helping others understand Presley&rsquo;s music as an anthology with a wide range of influences.</p><p>Choice B is incorrect. \"In sum\" illogically signals that the activity described in this sentence summarizes Nazareth&rsquo;s view of Presley&rsquo;s music as an anthology. Instead, titling his course \"Elvis as Anthology\" is a way for him to promote this view. Choice C is incorrect. \"That is\" illogically signals that the activity described in this sentence is a clarification or interpretation of Nazareth&rsquo;s view of Presley&rsquo;s music as an anthology. Instead, titling his course \"Elvis as Anthology\" is a way for him to promote this view. Choice D is incorrect. \"In addition\" illogically signals that the activity described in this sentence is merely an additional fact about Nazareth. Instead, titling his course \"Elvis as Anthology\" is a way for him to promote his view of Presley&rsquo;s music as an anthology.</p>",
+  "externalid": "9467e8c0-5715-4578-949a-d66ad4e1aa78",
+  "correct_answer": [
+    "A"
+  ]
+}

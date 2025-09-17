@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>K.D. Leka and colleagues found that the Sun&rsquo;s corona provides an advance indication of solar flares&mdash;intense eruptions of electromagnetic radiation that emanate from active regions in the Sun&rsquo;s photosphere and can interfere with telecommunications on Earth. Preceding a flare, the corona temporarily exhibits increased brightness above the region where the flare is <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>.</p>",
+  "type": "mcq",
+  "keys": [
+    "018f8a7e-dbb0-4746-96f9-3584f53664bb"
+  ],
+  "answerOptions": [
+    {
+      "id": "ac7931a5-aac6-4a46-89ed-ddf1c40ab854",
+      "content": "<p>antecedent</p>"
+    },
+    {
+      "id": "018f8a7e-dbb0-4746-96f9-3584f53664bb",
+      "content": "<p>impending</p>"
+    },
+    {
+      "id": "21bd34f8-5372-4d4c-ae2b-aaef7994ba00",
+      "content": "<p>innocuous</p>"
+    },
+    {
+      "id": "2594b791-5d30-4a3c-bb1c-538c2a4e9c5e",
+      "content": "<p>perpetual</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of advance indications of solar flares. In this context the word \"impending\" means imminent or approaching. The text mentions a study by Leka and colleagues that found that the Sun&rsquo;s corona provides an advance indication of solar flares. The text then points out why such an advance indication would be useful&mdash;solar flares can interfere with communications on Earth&mdash;and concludes by describing the characteristic of the corona that gives warning of a solar flare. The text indicates that this characteristic&mdash;increased brightness in a particular region of the corona&mdash;comes before the appearance of the flare. Therefore, in context, the best answer would indicate that the flare is approaching, or impending.</p><p>Choice A is incorrect. The best answer would be one that indicates that the increased brightness of the Sun&rsquo;s corona precedes the appearance of the flare. But if the flare were \"antecedent,\" or previous, then the flare would instead precede the appearance of the increased brightness of the corona, a statement that is logically inconsistent. Choice C is incorrect. The word \"innocuous,\" or harmless, does not logically complete the text; since solar flares can interfere with communications on Earth, they cannot reasonably be described as innocuous. Choice D is incorrect. If the solar flares have an advance indication of their appearance, then there must therefore be a time before the appearance of the flares when they do not exist. But the word \"perpetual,\" or never-ending, would in context indicate that the flare exists at the same time as the advance indication provided by the Sun&rsquo;s corona, which would not make logical sense.</p>",
+  "externalid": "f118bde5-9bc4-487f-868c-d6d9f2e1af8e",
+  "correct_answer": [
+    "B"
+  ]
+}

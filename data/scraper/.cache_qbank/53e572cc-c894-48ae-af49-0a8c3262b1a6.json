@@ -1,0 +1,38 @@
+{
+  "vaultid": "fec5cc87-2cf7-42a7-948c-7e9ed59c9f4c",
+  "keys": [
+    "92d785a3-497d-4243-a3df-4d5dab226c37"
+  ],
+  "rationale": "<p>Choice D is the best answer. &ldquo;Increasingly&rdquo; logically signals that the claim in this sentence&mdash;that mathematicians are collaborating with their peers&mdash;marks a change relative to what was traditionally done. As the previous sentence explains, while mathematicians may have traditionally worked alone, evidence points to a shift in the opposite direction. The claim describes the shift: a rise in collaboration. </p><p>Choice A is incorrect because &ldquo;similarly&rdquo; illogically signals that the claim in this sentence is similar to, but separate from, the previous claim about the shift away from mathematicians working alone. Instead, the claim about the rise in collaboration elaborates on the previous claim, describing the shift. Choice B is incorrect because &ldquo;for this reason&rdquo; illogically signals that the claim in this sentence is caused by the previous claim about the shift away from mathematicians working alone. Instead, the claim about the rise in collaboration elaborates on the previous claim, describing the shift. Choice C is incorrect because &ldquo;furthermore&rdquo; illogically signals that the claim in this sentence is in addition to the previous claim about the shift away from mathematicians working alone. Instead, the claim about the rise in collaboration elaborates on the previous claim, describing the shift. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "53e572cc-c894-48ae-af49-0a8c3262b1a6",
+  "stimulus": "<p>Researchers Helena Mihaljević-Brandt, Luc&iacute;a Santamar&iacute;a, and Marco Tullney report that while mathematicians may have traditionally worked alone, evidence points to a shift in the opposite direction. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> mathematicians are choosing to collaborate with their peers&mdash;a trend illustrated by a rise in the number of mathematics publications credited to multiple authors.</p>",
+  "templateclusterid": "8b2aa550-682c-4b28-a4f2-abcc881150a0",
+  "parenttemplatename": "OSP-211-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "97e95d67-c992-4c40-ab5f-6bbc95847a5c",
+      "content": "<p>Similarly,</p>"
+    },
+    {
+      "id": "6b14100e-971f-46a8-a7ec-9d08cb0a2fbc",
+      "content": "<p>For this reason,</p>"
+    },
+    {
+      "id": "3c2a2b03-8736-4944-80c0-c221e0f8895b",
+      "content": "<p>Furthermore,</p>"
+    },
+    {
+      "id": "92d785a3-497d-4243-a3df-4d5dab226c37",
+      "content": "<p>Increasingly,</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

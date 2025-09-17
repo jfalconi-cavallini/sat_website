@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Based on the text, how did Zerviah Holme most likely feel when the letter was delivered?</p>",
+  "stimulus": "<p>The following text is from Beatrice Harraden&rsquo;s 1894 novel <em>Ships that Pass in the Night</em>.</p>\n<blockquote>\n<p>In an old second-hand bookshop in London, an old man sat reading Gibbon&rsquo;s <em>History of Rome</em>. He did not put down his book when the postman brought him a letter. He just glanced indifferently at the letter, and impatiently at the postman. Zerviah Holme did not like to be interrupted when he was reading Gibbon; and as he was always reading Gibbon, an interruption was always regarded by him as an insult.</p>\n</blockquote>",
+  "type": "mcq",
+  "keys": [
+    "6c8908c6-44c0-47fb-b6fb-9232d811bbe6"
+  ],
+  "answerOptions": [
+    {
+      "id": "21f6eb65-3b47-4441-a538-4c238de4cc94",
+      "content": "<p>He felt relieved because he had been expecting an important letter.&nbsp;</p>"
+    },
+    {
+      "id": "85fe368b-3132-47ca-92b8-83d2038a6c1f",
+      "content": "<p>He felt excited because the letter was from a good friend.</p>"
+    },
+    {
+      "id": "33580415-0c42-40fa-83d1-f7c37fc38e6b",
+      "content": "<p>He felt sad because the postman did not stop to talk with him before leaving.&nbsp;</p>"
+    },
+    {
+      "id": "6c8908c6-44c0-47fb-b6fb-9232d811bbe6",
+      "content": "<p>He felt annoyed because he was interrupted while reading his favorite author.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents a description of how Zerviah Holme felt that is directly supported by the text. The text states that Holme \"did not like to be interrupted\" while reading Gibbon and that he considered interruptions to be \"an insult.\" Furthermore, the text suggests that Gibbon is Holme&rsquo;s favorite author because, as the text states, \"he was always reading Gibbon.\" Thus, Holme would have felt annoyed at having been interrupted when the letter was delivered.</p><p>Choice A is incorrect because the text doesn&rsquo;t suggest that Holme is relieved to receive the letter. Instead, the text states that Holme \"just glanced indifferently at the letter,\" suggesting that the letter wasn&rsquo;t important to him. Choice B is incorrect because the text doesn&rsquo;t suggest that Holme is excited to receive the letter. Instead, the text states that Holme didn&rsquo;t put down his book to receive the letter and that he looked at the letter \"indifferently\" and at the postman \"impatiently.\" This suggests that Holme isn&rsquo;t excited. Also, there is no mention that Holme knows who sent the letter. Choice C is incorrect because the text doesn&rsquo;t indicate that Holme is sad or that he wants to speak with the postman. Instead, the text describes Holme as looking \"impatiently at the postman,\" which suggests that he wants the postman to leave.</p>",
+  "externalid": "f5da42be-3aec-4b8c-8203-d3effdb98683",
+  "correct_answer": [
+    "D"
+  ]
+}

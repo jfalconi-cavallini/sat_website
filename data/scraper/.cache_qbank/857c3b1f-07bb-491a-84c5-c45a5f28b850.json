@@ -1,0 +1,38 @@
+{
+  "vaultid": "1dcda6d0-3c08-4e0c-9056-7c5b233e6bac",
+  "keys": [
+    "d843c6aa-1dff-4066-bae9-4188ee3b9b41"
+  ],
+  "rationale": "<p>Choice A is the best answer because it presents data from the table that most effectively complete the statement about the rates at which employment shifted in France and the United States. The text states that over the last two hundred years employment in the agricultural sector has declined while employment in the service sector has risen in both France and the US, and the data from the table reflect these trends. The text asserts, however, that the transition from agriculture to services &ldquo;happened at very different rates in the two countries.&rdquo; This assertion is best supported by a comparison of data from 1900 and 1950: the table shows that in those years, employment in agriculture went from 43% to 32% in France (a decline of 11 percentage points) and from 41% to 14% in the US (a decline of 27 percentage points), and that employment in services went from 28% to 35% in France (an increase of 7 percentage points) and from 31% to 53% in the US (an increase of 22 percentage points). In other words, the rate of change was greater in the US than in France for both sectors. </p><p>Choice B is incorrect because comparing the data for 1800 and 2012 would suggest a similar rate of change in the two countries, not very different rates: employment in agriculture went from 64% in 1800 to 3% in 2012 in France, which is close to the change from 68% in 1800 to 2% in 2012 in the US, while employment in services went from 14% in 1800 to 76% in 2012 in France, which is close to the change from 13% in 1800 to 80% in 2012 in the US. Choice C is incorrect because comparing the data for 1900 and 2012 would suggest a similar rate of change in the two countries rather than very different rates: employment in agriculture went from 43% in 1900 to 3% in 2012 in France, which is close to the change from 41% in 1900 to 2% in 2012 in the US, while employment in services went from 28% in 1900 to 76% in 2012 in France, which is close to the change from 31% in 1900 to 80% in 2012 in the US. Choice D is incorrect because comparing the data for 1800 and 1900 would suggest a similar rate of change in the two countries, not very different rates: employment in agriculture went from 64% in 1800 to 43% in 1900 in France, which is fairly close to the change from 68% in 1800 to 41% in 1900 in the US, while employment in services went from 14% in 1800 to 28% in 1900 in France, which is close to the change from 13% in 1800 to 31% in 1900 in the US. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most effectively uses data from the table to complete the statement?</p>",
+  "externalid": "857c3b1f-07bb-491a-84c5-c45a5f28b850",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Employment by Sector in France and the United States, 1800&ndash;2012 (% of total employment)</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Year</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Agriculture in France</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Manufacturing in France</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Services in France</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Agriculture in US</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Manufacturing in US</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Services in US</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: center;\">1800</th><td style=\"text-align: center;\">64</td><td style=\"text-align: center;\">22</td><td style=\"text-align: center;\">14</td><td style=\"text-align: center;\">68</td><td style=\"text-align: center;\">18</td><td style=\"text-align: center;\">13</td></tr><tr><th scope=\"row\" style=\"text-align: center;\">1900</th><td style=\"text-align: center;\">43</td><td style=\"text-align: center;\">29</td><td style=\"text-align: center;\">28</td><td style=\"text-align: center;\">41</td><td style=\"text-align: center;\">28</td><td style=\"text-align: center;\">31</td></tr><tr><th scope=\"row\" style=\"text-align: center;\">1950</th><td style=\"text-align: center;\">32</td><td style=\"text-align: center;\">33</td><td style=\"text-align: center;\">35</td><td style=\"text-align: center;\">14</td><td style=\"text-align: center;\">33</td><td style=\"text-align: center;\">53</td></tr><tr><th scope=\"row\" style=\"text-align: center;\">2012</th><td style=\"text-align: center;\">3</td><td style=\"text-align: center;\">21</td><td style=\"text-align: center;\">76</td><td style=\"text-align: center;\">2</td><td style=\"text-align: center;\">18</td><td style=\"text-align: center;\">80</td></tr></tbody></table></figure></p>\n<p>Rows in table may not add up to 100 due to rounding.</p>\n<p>Over the past two hundred years, the percentage of the population employed in the agricultural sector has declined in both France and the United States, while employment in the service sector (which includes jobs in retail, consulting, real estate, etc.) has risen. However, this transition happened at very different rates in the two countries. This can be seen most clearly by comparing the employment by sector in both countries in <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "bbe0afd7-0fb6-4eec-a4f5-185e11b8108a",
+  "parenttemplatename": "OSP-513-QUA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d843c6aa-1dff-4066-bae9-4188ee3b9b41",
+      "content": "<p>1900 with the employment by sector in 1950.</p>"
+    },
+    {
+      "id": "1e9e66ef-dfe8-4c95-849a-f4c271c1f058",
+      "content": "<p>1800 with the employment by sector in 2012.</p>"
+    },
+    {
+      "id": "0c2ac6f4-6857-4eaf-b93e-c4f099931cf0",
+      "content": "<p>1900 with the employment by sector in 2012.</p>"
+    },
+    {
+      "id": "22e510ea-a3ce-42dd-ab8a-360bf1d0ca27",
+      "content": "<p>1800 with the employment by sector in 1900.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

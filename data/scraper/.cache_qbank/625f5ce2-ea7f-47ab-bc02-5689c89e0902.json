@@ -1,0 +1,38 @@
+{
+  "vaultid": "5345d912-40f4-480d-a4de-cd8c15f6de2f",
+  "keys": [
+    "6e65b5cc-17c2-4a42-80e7-abf49c22dd0f"
+  ],
+  "rationale": "<p>Choice A is the best answer because as used in the text, &ldquo;drew&rdquo; most nearly means pulled. In the text, the speaker stands at a window, looking out on a landscape at night. The speaker then &ldquo;drew the shades far down, crept into bed.&rdquo; That is, the speaker pulled down, or lowered, the shades until they were completely shut before going to sleep.&nbsp;</p><p>Choice B is incorrect. Although in some contexts, &ldquo;drew&rdquo; can refer to draining or removing liquid, especially water, as when someone draws water from a well, in this context it refers to the speaker pulling down window shades for the night. Choice C is incorrect. In some contexts, &ldquo;drew&rdquo; can be used to describe how a person or thing inspires, or elicits, a response from someone, as when a performer draws applause from an audience. But in this context it refers to the speaker pulling down window shades for the night.&nbsp;Choice D is incorrect. Although &ldquo;drew&rdquo; has several meanings, including sketched, or illustrated with a pen or pencil, in this context it refers to the speaker pulling down window shades for the night. </p>",
+  "origin": "proteus",
+  "stem": "<p>As used in the text, what does the word &ldquo;drew&rdquo; most nearly mean?</p>",
+  "externalid": "625f5ce2-ea7f-47ab-bc02-5689c89e0902",
+  "stimulus": "<p>The following text is from Claude McKay&rsquo;s 1922 poem &ldquo;Morning Joy.&rdquo; The speaker is looking out a window and observing a wold, or large area of land.</p>\n<p>&nbsp;</p>\n<blockquote class=\"dap_poemexcerpt\">\n<p>At night the wide and level stretch of wold,</p>\n<p>Which at high noon had basked in quiet gold,</p>\n<p>Far as the eye could see was ghostly white;</p>\n<p>Dark was the night save for the snow&rsquo;s weird light.</p>\n<p>&nbsp;</p>\n<p>I <span role=\"region\" aria-label=\"Referenced Content\"><u>drew</u></span> the shades far down, crept into bed;</p>\n<p>Hearing the cold wind moaning overhead</p>\n<p>Through the sad pines, my soul, catching its pain,</p>\n<p>Went sorrowing with it across the plain.</p>\n</blockquote>",
+  "templateclusterid": "572fb30a-de4c-4766-865e-a0a138644b1e",
+  "parenttemplatename": "OSP-039-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "6e65b5cc-17c2-4a42-80e7-abf49c22dd0f",
+      "content": "<p>Pulled</p>"
+    },
+    {
+      "id": "d36ffbb2-b51c-4d50-a4bf-873e6f7b7d8e",
+      "content": "<p>Drained</p>"
+    },
+    {
+      "id": "cf7bc2d4-de4a-4bd7-a2d3-3b132e05b037",
+      "content": "<p>Inspired</p>"
+    },
+    {
+      "id": "fa6924db-2411-449f-a8f7-f9ef73683834",
+      "content": "<p>Sketched</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

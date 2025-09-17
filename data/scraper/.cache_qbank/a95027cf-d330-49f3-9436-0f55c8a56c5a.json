@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Eli Eisenberg, a genetics expert at Tel Aviv University in Israel, recently discovered that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> have a special genetic ability called RNA editing that confers evolutionary advantages.</p>",
+  "keys": [
+    "8cc3b312-47ec-46d7-b5cf-d8eadfe46d22"
+  ],
+  "answerOptions": [
+    {
+      "id": "fc233cfa-2cb9-4377-bac1-62bec4adff88",
+      "content": "<p>cephalopods<span data-ssml-say-as=\"characters\">,</span> ocean dwellers that include the squid<span data-ssml-say-as=\"characters\">,</span> the octopus<span data-ssml-say-as=\"characters\">,</span> and the cuttlefish</p>"
+    },
+    {
+      "id": "7bf21ba8-45b0-4d57-a34c-ae48537c0c24",
+      "content": "<p>cephalopods<span data-ssml-say-as=\"characters\">&mdash;</span>ocean dwellers<span data-ssml-say-as=\"characters\">&mdash;</span>that include the squid<span data-ssml-say-as=\"characters\">,</span> the octopus<span data-ssml-say-as=\"characters\">,</span> and the cuttlefish<span data-ssml-say-as=\"characters\">,</span></p>"
+    },
+    {
+      "id": "b62ad747-6d50-4927-8abb-75c4dc4c6c4c",
+      "content": "<p>cephalopods<span data-ssml-say-as=\"characters\">,</span> ocean dwellers that include<span data-ssml-say-as=\"characters\">:</span> the squid<span data-ssml-say-as=\"characters\">,</span> the octopus<span data-ssml-say-as=\"characters\">,</span> and the cuttlefish<span data-ssml-say-as=\"characters\">,</span></p>"
+    },
+    {
+      "id": "8cc3b312-47ec-46d7-b5cf-d8eadfe46d22",
+      "content": "<p>cephalopods<span data-ssml-say-as=\"characters\">&mdash;</span>ocean dwellers that include the squid<span data-ssml-say-as=\"characters\">,</span> the octopus<span data-ssml-say-as=\"characters\">,</span> and the cuttlefish<span data-ssml-say-as=\"characters\">&mdash;</span></p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the punctuation of a supplementary element within a sentence. In this choice, the dash after \"cephalopods\" pairs with the dash after \"cuttlefish\" to clearly separate the supplementary element \"ocean dwellers that include the squid, the octopus, and the cuttlefish\" from the rest of the sentence. This supplementary element functions to explain what cephalopods are, and the pair of dashes indicates that this element could be removed without affecting the grammatical coherence of the sentence.</p><p>Choice A is incorrect because it fails to use appropriate punctuation to separate the supplementary element that explains what cephalopods are from the rest of the sentence. Choice B is incorrect because it fails to use appropriate punctuation to separate the supplementary element that explains what cephalopods are from the rest of the sentence. Choice C is incorrect because it fails to use appropriate punctuation to separate the supplementary element that explains what cephalopods are from the rest of the sentence.</p>",
+  "externalid": "a95027cf-d330-49f3-9436-0f55c8a56c5a",
+  "correct_answer": [
+    "D"
+  ]
+}

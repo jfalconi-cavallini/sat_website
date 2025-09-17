@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>The student wants to use a quotation to challenge Thucydides&rsquo;s explanation of the conflict between Athens and Sparta. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Political scientist Graham Allison is known for his Thucydides trap theory.</li>\n<li>Allison&rsquo;s theory states that whenever &ldquo;a rising power is threatening to displace a ruling power,&rdquo; conflict is likely.</li>\n<li>The theory is based on Thucydides&rsquo;s explanation of the conflict between Athens and Sparta.</li>\n<li>Thucydides wrote that &ldquo;the rise of Athens and the fear this instilled in Sparta&rdquo; made conflict &ldquo;inevitable.&rdquo;</li>\n<li>History professor Edmund Stewart recently challenged the historical basis of the theory.</li>\n<li>Stewart claimed that Athens was not a rising power and that the rivals experienced a &ldquo;clash of cultures&rdquo; instead.</li>\n</ul>",
+  "keys": [
+    "3e3c4f27-c1a4-4a79-ac5a-876af6d55a6c"
+  ],
+  "answerOptions": [
+    {
+      "id": "c1154794-1106-44bb-871d-6565cb698afc",
+      "content": "<p>According to Allison&rsquo;s Thucydides trap theory, whenever &ldquo;a rising power is threatening to displace a ruling power,&rdquo; conflict is likely.&nbsp;</p>"
+    },
+    {
+      "id": "7c92f05f-ab22-4e85-a613-65952d081391",
+      "content": "<p>Thucydides wrote that conflict between the two powers was &ldquo;inevitable,&rdquo; although Stewart later challenged the historical basis of this claim.&nbsp;</p>"
+    },
+    {
+      "id": "3e3c4f27-c1a4-4a79-ac5a-876af6d55a6c",
+      "content": "<p>According to Stewart, a &ldquo;clash of cultures&rdquo; between Athens and Sparta caused the conflict, not Athens&rsquo;s rise.</p>"
+    },
+    {
+      "id": "e1dcce25-1dd1-4a42-9e79-87c5797827da",
+      "content": "<p>Thucydides explained that conflict was caused by &ldquo;the rise of Athens and the fear this instilled in Sparta,&rdquo; but Allison disagreed, seeing the conflict as an example of the Thucydides trap.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. Using a quotation from Stewart, the sentence challenges Thucydides&rsquo;s explanation that the rise of Athens caused the conflict, suggesting that it was instead caused by a \"clash of cultures.\"</p><p>Choice A is incorrect. While the sentence uses a quotation, the quotation doesn&rsquo;t challenge Thucydides&rsquo;s explanation of the conflict. Choice B is incorrect. While the sentence mentions that Stewart challenged Thucydides&rsquo;s explanation of the conflict, it doesn&rsquo;t use a quotation to challenge Thucydides&rsquo;s explanation: the quoted word \"inevitable\" is from Thucydides. Choice D is incorrect. While the sentence appears to refute Thucydides&rsquo;s explanation, it does so in a way that misrepresents the information in the notes; Allison&rsquo;s Thucydides trap theory is based on Thucydides&rsquo;s explanation of the conflict. Thus, Allison&rsquo;s theory affirms, rather than challenges, Thucydides&rsquo;s explanation.</p>",
+  "externalid": "944d6e30-8dda-4769-bf70-e1b924a62c8c",
+  "correct_answer": [
+    "C"
+  ]
+}

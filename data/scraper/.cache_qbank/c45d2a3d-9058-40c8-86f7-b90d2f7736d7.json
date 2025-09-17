@@ -1,0 +1,38 @@
+{
+  "vaultid": "416e3de7-7ee0-473a-8672-d2b7fe7e4453",
+  "keys": [
+    "53864b8b-8a8f-4fc9-93f0-d5e58e3c5c3c"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of the art installation <em>Anthem</em>. In this context, &ldquo;inventive&rdquo; means characterized by invention and creativity. The text explains that critics&rsquo; responses to the installation involved praise for Tsang&rsquo;s creative transformation of a space into a dynamic exhibit with huge images and lots of sound. This context conveys that the critics found the piece particularly creative. </p><p>Choice A is incorrect because the text indicates that critics praised the installation for being dynamic and including huge images and lots of sound, and it wouldn&rsquo;t make sense to describe such an exhibit as &ldquo;restrained,&rdquo; or limited and not extravagant or showy. Choice C is incorrect because it wouldn&rsquo;t make sense to say that critics found the installation &ldquo;inexplicable,&rdquo; or incapable of being explained or interpreted, since the critics were able to explain their praise for the installation&rsquo;s transformation of a space with huge images and lots of sound. Choice D is incorrect because the text focuses on the idea that critics praised Tsang for creatively transforming a space into a dynamic exhibit, not that they found the installation &ldquo;mystifying,&rdquo; or bewildering and hard to understand. Nothing in the text suggests that the critics couldn&rsquo;t understand the piece. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "c45d2a3d-9058-40c8-86f7-b90d2f7736d7",
+  "stimulus": "<p>For her 2021 art installation <em>Anthem</em>, Wu Tsang joined forces with singer and composer Beverly Glenn-Copeland to produce a piece that critics found truly <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>: they praised Tsang for creatively transforming a museum rotunda into a dynamic exhibit by projecting filmed images of Glenn-Copeland onto a massive 84-foot curtain and filling the space with the sounds of his and other voices singing.</p>",
+  "templateclusterid": "0dbe98ed-f9ec-4111-b3da-0ce456ff4294",
+  "parenttemplatename": "OSP-937-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "a8a6d32d-1549-4f99-bb48-93996278a207",
+      "content": "<p>restrained</p>"
+    },
+    {
+      "id": "53864b8b-8a8f-4fc9-93f0-d5e58e3c5c3c",
+      "content": "<p>inventive</p>"
+    },
+    {
+      "id": "59bb7edf-c08d-43ab-b634-f5eb29bab93d",
+      "content": "<p>inexplicable</p>"
+    },
+    {
+      "id": "4151c5f0-88af-4c14-818e-5fd70c7d1b26",
+      "content": "<p>mystifying</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

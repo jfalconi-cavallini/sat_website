@@ -1,0 +1,38 @@
+{
+  "vaultid": "56028e3f-b6cc-4c37-979b-3cb61fb32bd6",
+  "keys": [
+    "fe51a1cf-1698-4e96-af04-d27db3f0831a"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most accurately describes how the underlined portion functions in the text as a whole. The text presents the speaker&rsquo;s experience of viewing the sea. In the underlined portion, the speaker focuses on the idea that the waves hitting rocks on the shore are a relentless and enduring force: they are constantly pushed back (&ldquo;ever repulsed&rdquo;) but always return (&ldquo;ever rushing on&rdquo;), as though they have an energy that can&rsquo;t be overcome (&ldquo;a life that will not know defeat&rdquo;). </p><p>Choice A is incorrect. Although the underlined portion characterizes the waves as a relentless force (always &ldquo;repulsed&rdquo; but still &ldquo;rushing on&rdquo; and never being defeated), the speaker doesn&rsquo;t suggest that the surroundings are intimidating. Instead, the speaker presents the scene in a positive way, describing the &ldquo;deep delight&rdquo; of the &ldquo;gladsome,&rdquo; or cheerful, waves and feeling &ldquo;the heart / Leap joyous&rdquo; while viewing the sea. Choice C is incorrect because the underlined portion doesn&rsquo;t suggest that the speaker is ambivalent, or has mixed feelings about, the natural world. Instead, it presents a single view of one part of the immediate surroundings: the speaker characterizes the sea&rsquo;s waves as an unstoppable force, since they are constantly pushed back but always return (&ldquo;ever repulsed, yet ever rushing on&rdquo;).&nbsp;Choice D is incorrect. Although the text later suggests the speaker&rsquo;s view of her own thoughts by referring to a &ldquo;clouded brain&rdquo; and a heart that leaps joyously, this reference neither occurs within the underlined portion nor establishes a clear contrast with the relentless determination of the waves. The underlined portion addresses only the speaker&rsquo;s view of the waves and doesn&rsquo;t suggest what her own thoughts might be. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes the function of the underlined portion in the text as a whole?</p>",
+  "externalid": "511211a7-f7ba-49f7-af08-8c075158a19c",
+  "stimulus": "<p>The following text is from Charlotte Forten Grimk&eacute;&rsquo;s 1888 poem &ldquo;At Newport.&rdquo;</p>\n<p style='padding-left: 1em;'>Oh, deep delight to watch the gladsome waves<br>Exultant leap upon the rugged rocks;<br><span role=\"region\" aria-label=\"Referenced Content\"><u>Ever repulsed, yet ever rushing on&mdash;</u></span><br><span role=\"region\" aria-label=\"Referenced Content\"><u>Filled with a life that will not know defeat;</u></span><br>To see the glorious hues of sky and sea.<br>The distant snowy sails, glide spirit like,<br>Into an unknown world, to feel the sweet<br>Enchantment of the sea thrill all the soul,<br>Clearing the clouded brain, making the heart<br>Leap joyous as it own bright, singing waves!</p>",
+  "templateclusterid": "1f020530-86d8-4c98-861a-a72f67e08736",
+  "parenttemplatename": "OSP-019-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "602eeee8-e207-4373-9e2f-87cb1ddeaee0",
+      "content": "<p>It portrays the surroundings as an imposing and intimidating scene.</p>"
+    },
+    {
+      "id": "fe51a1cf-1698-4e96-af04-d27db3f0831a",
+      "content": "<p>It characterizes the sea&rsquo;s waves as a relentless and enduring force.</p>"
+    },
+    {
+      "id": "038c9403-513c-4fc0-8dd7-e37af6ccd30c",
+      "content": "<p>It conveys the speaker&rsquo;s ambivalence about the natural world.</p>"
+    },
+    {
+      "id": "4533aa8d-9fa2-4144-a1af-81440507b60f",
+      "content": "<p>It draws a contrast between the sea&rsquo;s waves and the speaker&rsquo;s thoughts.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

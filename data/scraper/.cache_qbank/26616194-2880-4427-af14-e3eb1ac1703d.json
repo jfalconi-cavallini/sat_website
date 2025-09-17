@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Novelist Jane Austen greatly admired the work of Fanny Burney, a popular English author. In fact, scholars believe that a passage from the last chapter of <em>Cecilia</em>, a 1782 novel by Burney, likely inspired the title of one of <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> <em>Pride and Prejudice</em>.</p>",
+  "type": "mcq",
+  "keys": [
+    "bc2d9859-927c-49d1-a80b-0edc72651821"
+  ],
+  "answerOptions": [
+    {
+      "id": "bc2d9859-927c-49d1-a80b-0edc72651821",
+      "content": "<p>Austen&rsquo;s most famous novels,</p>"
+    },
+    {
+      "id": "167e328a-359e-4487-8bea-4e22210b324b",
+      "content": "<p>Austens&rsquo; most famous novels&rsquo;,</p>"
+    },
+    {
+      "id": "9e8c6e1a-dfaa-41b4-8432-6e760e643ab3",
+      "content": "<p>Austens most famous novels,</p>"
+    },
+    {
+      "id": "e428924b-9f02-4701-ad82-5218af4411bf",
+      "content": "<p>Austen&rsquo;s most famous novel&rsquo;s,</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of plural and possessive nouns. The singular possessive proper noun \"Austen&rsquo;s\" and the plural noun \"novels\" correctly indicates that Austen wrote multiple novels that were famous.</p><p>Choice B is incorrect because the context requires the singular possessive proper noun \"Austen&rsquo;s\" and the plural noun \"novels,\" not the plural possessive nouns \"Austens&rsquo;\" and \"novels&rsquo;.\" Choice C is incorrect because the context requires the singular possessive proper noun \"Austen&rsquo;s,\" not the plural proper noun \"Austens.\" Choice D is incorrect because the context requires the plural noun \"novels,\" not the singular possessive noun \"novel&rsquo;s.\"</p>",
+  "externalid": "26616194-2880-4427-af14-e3eb1ac1703d",
+  "correct_answer": [
+    "A"
+  ]
+}

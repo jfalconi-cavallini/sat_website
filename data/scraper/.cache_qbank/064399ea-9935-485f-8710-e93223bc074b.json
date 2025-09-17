@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>In 1953, a fellow performer tripped on legendary jazz musician Dizzy Gillespie&rsquo;s trumpet, bending its bell upward. When Gillespie tested the damaged instrument, he realized that he <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> sound of a bent bell over that of a straight one.&nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "68ae6b5b-679a-4ec8-aa92-a26565e023b9"
+  ],
+  "answerOptions": [
+    {
+      "id": "28b2d666-4cbc-40b5-ad06-f403d7f27f50",
+      "content": "<p>preferred; the</p>"
+    },
+    {
+      "id": "68ae6b5b-679a-4ec8-aa92-a26565e023b9",
+      "content": "<p>preferred the</p>"
+    },
+    {
+      "id": "9364e0ab-fc16-4932-b5dc-0dba544f13f6",
+      "content": "<p>preferred, the</p>"
+    },
+    {
+      "id": "26c4d355-fb3e-4e80-97dc-461d4cea6ee1",
+      "content": "<p>preferred. The</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is punctuation use between a verb and its object. No punctuation is needed between the verb \"preferred\" and its object \"the sound of a bent bell over that of a straight one.\" The object helps complete the idea of the verb&mdash;in this case, it explains what type of sound Gillespie preferred&mdash;and any punctuation between the two results in an ungrammatical sentence.</p><p>Choice A is incorrect because no punctuation is needed between the verb and its object. Choice C is incorrect because no punctuation is needed between the verb and its object. Choice D is incorrect because no punctuation is needed between the verb and its object.</p>",
+  "externalid": "064399ea-9935-485f-8710-e93223bc074b",
+  "correct_answer": [
+    "B"
+  ]
+}

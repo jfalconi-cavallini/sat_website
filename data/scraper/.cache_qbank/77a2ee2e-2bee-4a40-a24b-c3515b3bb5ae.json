@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>According to the text, what did Gloria Richardson lead?</p>",
+  "stimulus": "<p>In the 1960s, Gloria Richardson led a movement to promote racial equality. Her involvement in this effort was inspired by her daughter, Donna Richardson. In 1961, Donna joined protests organized by the Student Nonviolent Coordinating Committee in Cambridge, Maryland. Following her daughter, Gloria joined these protests too. Gloria soon became the cochair of the Cambridge Nonviolent Action Committee. She was also the leader of what became known as the Cambridge movement.&nbsp;</p>",
+  "keys": [
+    "14f5995a-d653-449c-b4eb-394f93903705"
+  ],
+  "answerOptions": [
+    {
+      "id": "14f5995a-d653-449c-b4eb-394f93903705",
+      "content": "<p>The Cambridge movement</p>"
+    },
+    {
+      "id": "1ad3db09-ee7a-46aa-9804-7f50bc2908e3",
+      "content": "<p>Her daughter Donna&rsquo;s high school</p>"
+    },
+    {
+      "id": "8b0eaf75-af8c-400d-8793-d37a4fecf5d6",
+      "content": "<p>Protests to support environmental protections</p>"
+    },
+    {
+      "id": "659150a6-2dae-4735-8307-2582f6f41193",
+      "content": "<p>A new business in Cambridge, Maryland</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it presents information about Gloria Richardson that is supported by the text. The text provides a number of details about Gloria&rsquo;s involvement in efforts to promote racial equality, including that she was the leader of what became known as the Cambridge movement.</p><p>Choice B is incorrect because the text never indicates that Gloria Richardson led her daughter Donna&rsquo;s high school. The text says only that Gloria was inspired by her daughter to become involved in efforts to promote racial equality. Choice C is incorrect because the text doesn&rsquo;t mention protests related to environmental protections. Rather, the text discusses Gloria Richardson&rsquo;s involvement in efforts to promote racial equality. Choice D is incorrect because the text doesn&rsquo;t indicate that Gloria Richardson led a new business in Cambridge, Maryland. Rather, the text states that she led what became known as the Cambridge movement.</p>",
+  "externalid": "77a2ee2e-2bee-4a40-a24b-c3515b3bb5ae",
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "df0e1dba-ef5f-4022-a8a8-6ee07f280dc4",
+  "keys": [
+    "dfb6fc5d-2307-4bd1-b41e-258b3316636b"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most accurately states the main idea of the text. According to the text, conceptual artists Gins and Arakawa have designed an apartment building that is disorienting because of several unconventional elements, such as uneven kitchen counters and &ldquo;a door to nowhere.&rdquo; The text goes on to suggest that there may be benefits to this kind of design because filmmaker Yamaoka lived in the apartment building for four years and reported health benefits. Thus, although the design is impractical, it may improve the well-being of the apartment building&rsquo;s residents.&nbsp;</p><p>Choice A is incorrect. Although the text mentions that Yamaoka lived in the apartment for four years, it doesn&rsquo;t address how long someone can beneficially live in a home surrounded by fanciful features or whether doing so can be sustained.&nbsp;Choice B is incorrect. Although the text mentions the potential benefits of living in a home with disorienting design features, it doesn&rsquo;t suggest that this is the most effective method to create a physically stimulating environment.&nbsp;Choice C is incorrect because the text refers to Yamaoka to support the claim that Gins and Arakawa&rsquo;s apartment building design may be beneficial, but the text doesn&rsquo;t indicate that Yamaoka supports the designs of other conceptual artists.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "externalid": "30511484-9757-45d7-958f-cf06ed690b94",
+  "stimulus": "<p>Believing that living in an impractical space can heighten awareness and even improve health, conceptual artists Madeline Gins and Shusaku Arakawa designed an apartment building in Japan to be more fanciful than functional. A kitchen counter is chest-high on one side and knee-high on the other; a ceiling has a door to nowhere. The effect is disorienting but invigorating: after four years there, filmmaker Nobu Yamaoka reported significant health benefits.</p>",
+  "templateclusterid": "1ba01fe0-c968-4edd-83a4-4fd2271f7c97",
+  "parenttemplatename": "OSP-019-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "1b615e60-4689-495f-b2d2-285094a33693",
+      "content": "<p>Although inhabiting a home surrounded by fanciful features such as those designed by Gins and Arakawa can be rejuvenating, it is unsustainable.</p>"
+    },
+    {
+      "id": "8c1d462c-85a1-497e-8c1e-e43de91b25d0",
+      "content": "<p>Designing disorienting spaces like those in the Gins and Arakawa building is the most effective way to create a physically stimulating environment.&nbsp;</p>"
+    },
+    {
+      "id": "8246a81a-1de0-4a7a-a516-df0e7664d153",
+      "content": "<p>As a filmmaker, Yamaoka has long supported the designs of conceptual artists such as Gins and Arakawa.</p>"
+    },
+    {
+      "id": "dfb6fc5d-2307-4bd1-b41e-258b3316636b",
+      "content": "<p>Although impractical, the design of the apartment building by Gins and Arakawa may improve the well-being of the building&rsquo;s residents.&nbsp;</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

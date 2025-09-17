@@ -1,0 +1,38 @@
+{
+  "vaultid": "1e4d32df-cc76-4615-954e-509fbc8397a3",
+  "keys": [
+    "5bd13f6d-ce50-48bd-906c-07eb6ff0e9b6"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of late nineteenth- and early twentieth-century household food purchases. In this context, &ldquo;surmised&rdquo; means formed an idea or assumption with little evidence. The text explains that certain economic historians &ldquo;assumed&rdquo; that large and small households spent different amounts on food per person, but that another economist found this supposition to be false based on evidence from available data. This context suggests that the economic historians made an incorrect assumption without enough consideration of evidence. </p><p>Choice B is incorrect. In this context, &ldquo;contrived&rdquo; would mean brought about or created through trickery. Nothing in the text suggests that the economic historians were deliberately trying to trick people with a claim about food purchasing behaviors in late nineteenth- and early twentieth-century households; the text simply suggests that they made an assumption about those behaviors that another historian believes isn&rsquo;t supported by the available data.&nbsp;Choice C is incorrect because the text indicates that it&rsquo;s Logan and not the economic historians who &ldquo;questioned,&rdquo; or doubted, the assumption that large and small households in the late nineteenth and early twentieth centuries spent different amounts on food per person; the economic historians are the ones who made that assumption to begin with. Choice D is incorrect because nothing in the text suggests that some economic historians &ldquo;regretted,&rdquo; or felt sad or remorseful about, the food purchasing behaviors of late nineteenth- and early twentieth-century households. The text focuses on the idea that the economic historians made an assumption about those behaviors that may not be supported by available data, not on the historians&rsquo; emotional response to what households did in the past. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "bc429b96-1413-4cd8-89c4-e3801bcd22b4",
+  "stimulus": "<p>Some economic historians <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> that late nineteenth- and early twentieth-century households in the United States experienced an economy of scale when it came to food purchases&mdash;they assumed that large households spent less on food per person than did small households. Economist Trevon Logan showed, however, that a close look at the available data disproves this supposition.</p>",
+  "templateclusterid": "1769ea23-fa02-4562-a175-55e4fb40aa55",
+  "parenttemplatename": "OSP-912-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "5bd13f6d-ce50-48bd-906c-07eb6ff0e9b6",
+      "content": "<p>surmised</p>"
+    },
+    {
+      "id": "34ebb595-8996-42f7-b929-0a0b020eee7f",
+      "content": "<p>contrived</p>"
+    },
+    {
+      "id": "62337d77-3a60-4cb7-88a1-ff37a24fd06c",
+      "content": "<p>questioned</p>"
+    },
+    {
+      "id": "8676f2a0-8f3f-4dea-bdca-0ee8658b9357",
+      "content": "<p>regretted</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

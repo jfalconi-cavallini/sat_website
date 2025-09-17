@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>An online content creator who uses copyrighted songs without permission risks being demonetized (prohibited from including paid advertisements in content). The best way to avoid demonetization is to choose music from the public domain. Using one of these noncopyrighted songs <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> a creator won&rsquo;t lose advertising revenue.</p>",
+  "type": "mcq",
+  "keys": [
+    "42bd7260-5adc-4a6c-8ea5-6230554ea2d7"
+  ],
+  "answerOptions": [
+    {
+      "id": "dd719403-66a5-47ce-8e48-1a3bc8db715c",
+      "content": "<p>are ensuring</p>"
+    },
+    {
+      "id": "b5c571c4-d118-4ac0-b008-92bba7ab5abf",
+      "content": "<p>have ensured</p>"
+    },
+    {
+      "id": "90e39724-1b35-455f-9119-12459b868228",
+      "content": "<p>ensure</p>"
+    },
+    {
+      "id": "42bd7260-5adc-4a6c-8ea5-6230554ea2d7",
+      "content": "<p>ensures</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is subject-verb agreement. The singular verb \"ensures\" agrees in number with the singular subject \"using.\"</p><p>Choice A is incorrect because the plural verb \"are ensuring\" doesn&rsquo;t agree in number with the singular subject \"using.\" Choice B is incorrect because the plural verb \"have ensured\" doesn&rsquo;t agree in number with the singular subject \"using.\" Choice C is incorrect because the plural verb \"ensure\" doesn&rsquo;t agree in number with the singular subject \"using.\"</p>",
+  "externalid": "dbd12d8c-8c80-4050-90a8-fe2e239abf44",
+  "correct_answer": [
+    "D"
+  ]
+}

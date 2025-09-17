@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>According to linguist Martin Joos, speakers of the English language <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> five main registers&mdash;frozen, formal, consultative, casual, and intimate&mdash;which they rotate between depending on the situation.</p>",
+  "type": "mcq",
+  "keys": [
+    "46a2306d-2f6a-4e86-a6a2-14c0753e371a"
+  ],
+  "answerOptions": [
+    {
+      "id": "46a2306d-2f6a-4e86-a6a2-14c0753e371a",
+      "content": "<p>use</p>"
+    },
+    {
+      "id": "7354e105-a80b-4c31-845d-0db1a32fe246",
+      "content": "<p>is using</p>"
+    },
+    {
+      "id": "0ee9fe19-4e84-4dae-92a1-66ee2746e5b1",
+      "content": "<p>uses</p>"
+    },
+    {
+      "id": "d68df954-d386-4e52-aac4-1193d37f03f2",
+      "content": "<p>has used</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is subject-verb agreement. The plural verb \"use\" agrees in number with the plural subject \"speakers.\"</p><p>Choice B is incorrect because the singular verb \"is using\" doesn&rsquo;t agree in number with the plural subject \"speakers.\" Choice C is incorrect because the singular verb \"uses\" doesn&rsquo;t agree in number with the plural subject \"speakers.\" Choice D is incorrect because the singular verb \"has used\" doesn&rsquo;t agree in number with the plural subject \"speakers.\"</p>",
+  "externalid": "c93d96b4-b4f6-4fbb-ac6f-e2d30b6c9ef6",
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "23a0b771-704a-46de-93fb-b1aeba271513",
+  "keys": [
+    "ed33112e-b7f1-4613-8e01-b87fe3c53d5a"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the punctuation of items in a series. The comma after &ldquo;themselves&rdquo; is used conventionally to separate the first item (&ldquo;they can clone themselves&rdquo;) and the second item (&ldquo;enter a dormant state in times of drought&rdquo;) in the series of things mosses can do.&nbsp;</p><p>Choice A is incorrect because a semicolon can&rsquo;t be used in this way to separate items in a simple series such as this. Choice C is incorrect because it results in a rhetorically unacceptable sentence fragment beginning with &ldquo;And enter.&rdquo; Choice D is incorrect because it fails to use appropriate punctuation to separate the first and second items in the series. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "12a5beb4-702a-42ed-b6ee-f189a7ea04e6",
+  "stimulus": "<p>Robin Wall Kimmerer of the Citizen Potawatomi Nation is a bryologist, a plant scientist who specializes in mosses. To Kimmerer, mosses are Earth&rsquo;s most adaptable plants: they can clone <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> enter a dormant state in times of drought, and grow in areas that don&rsquo;t have soil.</p>",
+  "templateclusterid": "afc3559d-3a7f-41c0-9a6e-51ad94e8ec3b",
+  "parenttemplatename": "OSP-777-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "7f68e597-88ee-4ba9-9a7a-63cc647137d4",
+      "content": "<p>themselves;</p>"
+    },
+    {
+      "id": "ed33112e-b7f1-4613-8e01-b87fe3c53d5a",
+      "content": "<p>themselves,</p>"
+    },
+    {
+      "id": "eb3104e0-11bd-4461-9f96-90e9eea8eb02",
+      "content": "<p>themselves. And</p>"
+    },
+    {
+      "id": "ca8d8393-7cdf-4be5-af87-7fdb0e770198",
+      "content": "<p>themselves</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

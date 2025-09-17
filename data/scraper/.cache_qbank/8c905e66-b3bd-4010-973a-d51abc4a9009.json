@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which finding from the experiment, if true, would most directly support Garza and Robles&rsquo;s hypothesis?</p>",
+  "stimulus": "<p>Ochre sea stars live in tidal pools along the shoreline of the Pacific Ocean. At night, they move to higher shore levels in search of prey. But scientists Corey Garza and Carlos Robles noticed that ochre sea stars stayed at lower levels at night after heavy rains. Garza and Robles hypothesized that a layer of fresh water formed by rainfall was a barrier to the sea stars. To test their hypothesis, the scientists did an experiment. They placed some sea stars in a climbable tank of seawater and other sea stars in a similar tank of seawater with a layer of fresh water on top. Then, the scientists watched the sea stars&rsquo; behavior at night.&nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "f56672a0-3571-4699-9889-147409c9d455"
+  ],
+  "answerOptions": [
+    {
+      "id": "d437f8ba-d1d6-46c6-ac3c-aa1a302fbabb",
+      "content": "<p>None of the sea stars climbed to the tops of the tanks, but sea stars in the tank with only seawater moved around the bottom of the tank more than sea stars in the other tank did.</p>"
+    },
+    {
+      "id": "f56672a0-3571-4699-9889-147409c9d455",
+      "content": "<p>Sea stars in the tank with only seawater climbed to the top of the tank, but sea stars in the other tank stopped climbing just below the layer of fresh water.</p>"
+    },
+    {
+      "id": "7a0eedc0-23ac-4eac-940c-6278bb5970ba",
+      "content": "<p>Both groups of sea stars climbed to the tops of the tanks, but sea stars in the tank with only seawater climbed more slowly than sea stars in the other tank did.</p>"
+    },
+    {
+      "id": "e45a218d-0f74-4b76-956e-a30b6c68e0e9",
+      "content": "<p>Sea stars in the tank with only seawater mostly stayed near the bottom of the tank, but sea stars in the other tank climbed into the layer of fresh water.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it presents a finding that, if true, would support Garza and Robles&rsquo;s hypothesis that a layer of fresh water forms a barrier to ochre sea stars. The text explains that the sea stars tend to move to higher shore levels at night in search of prey, but after a heavy rain, the sea stars stay at lower shore levels. Garza and Robles hypothesize that rainfall results in a layer of fresh water that the sea stars don&rsquo;t cross. To determine whether fresh water forms a barrier to sea stars, Garza and Robles observed how sea stars behaved in a tank of only seawater and in a tank of seawater with a layer of fresh water on top. If the sea stars climbed to the top of the tank with only seawater but stopped climbing just below the layer of fresh water in the other tank, that would suggest that fresh water does indeed serve as a barrier to the sea stars, thereby supporting Garza and Robles&rsquo;s hypothesis.</p><p>Choice A is incorrect because finding that sea stars in the tank with only seawater moved around the bottom of the tank more than sea stars in the other tank did but that none of the stars in either tank climbed to the top would be irrelevant to Garza and Robles&rsquo;s hypothesis. Such a finding would reveal nothing about whether fresh water serves as a barrier to sea stars. Choice C is incorrect because finding that sea stars climbed to the top of both tanks would weaken, not support, Garza and Robles&rsquo;s hypothesis, since it would indicate that the layer of fresh water wasn&rsquo;t a barrier to the sea stars. Choice D is incorrect because finding that sea stars in the tank with only seawater mostly stayed near the bottom of the tank but sea stars in the other tank climbed into the layer of fresh water wouldn&rsquo;t support Garza and Robles&rsquo;s hypothesis. Instead, such a finding would suggest that the layer of fresh water wasn&rsquo;t a barrier to the sea stars, thereby weakening Garza and Robles&rsquo;s hypothesis.</p>",
+  "externalid": "8c905e66-b3bd-4010-973a-d51abc4a9009",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>A government body officially known as the Althing, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "17bb4829-36fe-4cb7-888a-5fdd3188c9ee"
+  ],
+  "answerOptions": [
+    {
+      "id": "2b2aa67b-4aa1-4c81-b3a3-4557ecef6e8d",
+      "content": "<p>the world&rsquo;s oldest parliaments include one which first met in 930 CE, Iceland&rsquo;s.</p>"
+    },
+    {
+      "id": "17bb4829-36fe-4cb7-888a-5fdd3188c9ee",
+      "content": "<p>Iceland&rsquo;s parliament is one of the oldest in the world, first meeting in 930 CE.</p>"
+    },
+    {
+      "id": "3fca11f9-d0d7-4165-a46a-8d93b03b2404",
+      "content": "<p>the first meeting of one of the oldest parliaments in the world, Iceland&rsquo;s, was in 930 CE.</p>"
+    },
+    {
+      "id": "2a556503-ef0e-4a4c-acf0-b76ffb4328c6",
+      "content": "<p>930 CE was the year when Iceland&rsquo;s parliament, one of the oldest parliaments in the world, first met.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is subject-modifier placement. This choice makes the noun phrase \"Iceland&rsquo;s parliament\" the subject of the sentence and places it immediately after the modifying phrase \"a government body officially known as the Althing.\" In doing so, this choice clearly establishes that Iceland&rsquo;s parliament&mdash;and not another noun in the sentence&mdash;is the government body known as the Althing.</p><p>Choice A is incorrect because it results in a dangling modifier. The placement of the noun phrase \"the world&rsquo;s oldest parliaments\" immediately after the modifying phrase illogically suggests that the world&rsquo;s oldest parliaments are a government body known as the Althing. Choice C is incorrect because it results in a dangling modifier. The placement of the noun phrase \"the first meeting\" immediately after the modifying phrase illogically suggests that the first meeting of Iceland&rsquo;s parliament was a government body known as the Althing. Choice D is incorrect because it results in a dangling modifier. The placement of the noun phrase \"930 CE\" immediately after the modifying phrase illogically suggests that the year 930 CE is a government body known as the Althing.</p>",
+  "externalid": "1fc029ba-12f8-4fdc-8bbd-5de72b176e89",
+  "correct_answer": [
+    "B"
+  ]
+}

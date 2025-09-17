@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>The student wants to present the conclusion of Zhen Wang and colleagues&rsquo; 2016 study. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Tibetan mastiffs are large dogs native to the Himalayas.</li>\n<li>A mutation in their EPAS1 gene prevents excess hemoglobin production.</li>\n<li>A mutation in their HBB gene boosts hemoglobin&rsquo;s oxygen-carrying ability.</li>\n<li>These mutations enable the dogs to withstand hypoxic (low-oxygen) conditions at high altitudes.</li>\n<li>In a 2016 study, Zhen Wang and colleagues noted that Tibetan wolves&rsquo; DNA has the same EPAS1 and HBB mutations. &nbsp;</li>\n<li>Wang and colleagues determined that the dogs first acquired these mutations by interbreeding with Tibetan wolves around 24,000 years ago.</li>\n</ul>",
+  "keys": [
+    "5b2e7841-8882-44e7-896d-0634c97af859"
+  ],
+  "answerOptions": [
+    {
+      "id": "c9c4ddff-2b14-43bb-802f-bb8036d3561b",
+      "content": "<p>Like Tibetan mastiffs, Tibetan wolves can withstand hypoxic conditions at high altitudes.&nbsp;</p>"
+    },
+    {
+      "id": "12f3172b-2443-4108-81e7-b58927c431f4",
+      "content": "<p>Both Tibetan mastiffs and Tibetan wolves have mutations in their EPAS1 and HBB genes, which prevent excess hemoglobin production and boost hemoglobin&rsquo;s oxygen-carrying ability, respectively.</p>"
+    },
+    {
+      "id": "86b00e0e-4bde-4f07-8e53-1dc773797bea",
+      "content": "<p>In addition to preventing excess hemoglobin production, a mutation in Tibetan mastiffs&rsquo; HBB gene boosts hemoglobin&rsquo;s oxygen-carrying ability.&nbsp;</p>"
+    },
+    {
+      "id": "5b2e7841-8882-44e7-896d-0634c97af859",
+      "content": "<p>By interbreeding with Tibetan wolves around 24,000 years ago, Tibetan mastiffs acquired the genetic mutations that enable them to withstand hypoxic conditions.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The sentence presents the conclusion of Zhen Wang and colleagues&rsquo; 2016 study: Tibetan mastiffs are able to withstand hypoxic conditions due to their interbreeding with Tibetan wolves 24,000 years ago (which allowed the mastiffs to acquire the necessary genetic mutations).</p><p>Choice A is incorrect. The sentence emphasizes a similarity between Tibetan mastiffs and Tibetan wolves; it doesn&rsquo;t present the conclusions of the 2016 study. Choice B is incorrect. The sentence emphasizes a similarity between the genes of Tibetan mastiffs and Tibetan wolves; it doesn&rsquo;t present the conclusions of the 2016 study. Choice C is incorrect. The sentence misrepresents information from the notes by indicating that a mutation in mastiffs&rsquo; HBB gene prevents excess hemoglobin production; moreover, it doesn&rsquo;t present the conclusions of the 2016 study.</p>",
+  "externalid": "1ee45bc4-2b6f-486e-aef5-02fd321f778a",
+  "correct_answer": [
+    "D"
+  ]
+}

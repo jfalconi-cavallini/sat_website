@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>A team of paleontologists has found a rich fossil deposit near Gulgong, Australia. The fossils are so well preserved that the team has been able to <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> detailed information about the life forms that left them behind, such as color patterns and how they interacted with other species.&nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "d64bd3d1-ccb9-46c3-8cdd-831245b7c7ba"
+  ],
+  "answerOptions": [
+    {
+      "id": "0e39fb11-60e2-4bd0-bf81-4a7687e7aa62",
+      "content": "<p>occupy</p>"
+    },
+    {
+      "id": "73c2ccce-ad0f-4426-ab78-2f87c02c4b5a",
+      "content": "<p>hoard</p>"
+    },
+    {
+      "id": "7034b769-f9a9-4546-89f3-cc4471082ce6",
+      "content": "<p>reserve</p>"
+    },
+    {
+      "id": "d64bd3d1-ccb9-46c3-8cdd-831245b7c7ba",
+      "content": "<p>obtain</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the fossil deposit. In this context, \"obtain\" means gain or acquire. According to the text, a team of paleontologists has found fossils that are very well preserved. For this reason, the text suggests, the paleontologists have been able to gain detailed information from the fossils, such as the color patterns of the life forms that left them behind.</p><p>Choice A is incorrect because \"occupy\" means engage or inhabit, neither of which would make sense in context. It&rsquo;s unclear what it would mean for detailed information revealed by fossils to be engaged or inhabited. Choice B is incorrect because the text gives no indication that the paleontologists wanted to \"hoard,\" or collect and hide, the detailed information revealed by the well-preserved fossils. Choice C is incorrect because the text gives no indication that the paleontologists wanted to \"reserve,\" or withhold, the detailed information revealed by the well-preserved fossils.</p>",
+  "externalid": "40a6e0a3-6546-4f86-94a3-674e8b7539c4",
+  "correct_answer": [
+    "D"
+  ]
+}

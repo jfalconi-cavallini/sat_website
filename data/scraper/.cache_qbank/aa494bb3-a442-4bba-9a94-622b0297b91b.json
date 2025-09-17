@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Increasing the heat on an uncovered boiling pot of water does not increase the temperature of the water. What increases is the rate at which the water turns to <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> a pressure cooker pot, though, an airtight seal traps the vapor in the pot, creating pressure that allows the temperature of the water to increase past its boiling point.&nbsp;</p>",
+  "keys": [
+    "9a837a5b-6cbe-41d6-bd68-dcfd92e856fa"
+  ],
+  "answerOptions": [
+    {
+      "id": "9a837a5b-6cbe-41d6-bd68-dcfd92e856fa",
+      "content": "<p>vapor<span data-ssml-say-as=\"characters\">.</span> With</p>"
+    },
+    {
+      "id": "7a92e804-cd56-4c5f-bc33-8f2da10559fd",
+      "content": "<p>vapor with</p>"
+    },
+    {
+      "id": "3e08e814-6b16-4b00-9043-41e69b703b5a",
+      "content": "<p>vapor<span data-ssml-say-as=\"characters\">,</span> with</p>"
+    },
+    {
+      "id": "5a72c30f-5394-4a65-85c7-8080968a5013",
+      "content": "<p>vapor and with</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between one sentence (\"What&hellip;vapor\") and another (\"With&hellip;point\").</p><p>Choice B is incorrect because it results in a run-on sentence. The sentences (\"What&hellip;vapor\" and \"with&hellip;point\") are fused without punctuation and/or a conjunction. Choice C is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to mark the boundary between sentences. Choice D is incorrect. Without a comma preceding it, the conjunction \"and\" can&rsquo;t be used in this way to join sentences.</p>",
+  "externalid": "aa494bb3-a442-4bba-9a94-622b0297b91b",
+  "correct_answer": [
+    "A"
+  ]
+}

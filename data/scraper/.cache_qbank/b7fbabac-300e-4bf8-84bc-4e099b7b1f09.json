@@ -1,0 +1,31 @@
+{
+  "stem": "<p>The student wants to identify the real author of <em>Adam Bede</em>. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>In 1859, the novel <em>Adam Bede </em>was published in England.</li>\n<li>According to the novel&rsquo;s title page, the author&rsquo;s name was George Eliot.</li>\n<li>George Eliot was widely assumed to be a pseudonym.</li>\n<li>A pseudonym is a fake name used to conceal an author&rsquo;s identity.</li>\n<li>A woman named Mary Ann Evans later revealed herself as the novel&rsquo;s real author.</li>\n</ul>",
+  "type": "mcq",
+  "keys": [
+    "92571fa5-b51e-4498-b3b6-583618fc021f"
+  ],
+  "answerOptions": [
+    {
+      "id": "92571fa5-b51e-4498-b3b6-583618fc021f",
+      "content": "<p>The real author of <em>Adam Bede </em>was Mary Ann Evans<em>, </em>who published the novel using the pseudonym<em>&nbsp;</em>George Eliot.</p>"
+    },
+    {
+      "id": "a7a0f49c-0079-439f-8177-e9d4de96f169",
+      "content": "<p>George Eliot, which <em>Adam Bede</em>&rsquo;s<em> </em>title page indicated was the name of the novel&rsquo;s author, was widely assumed to be a pseudonym.</p>"
+    },
+    {
+      "id": "b9705af3-280d-43c7-b05e-deca5ffe8dfe",
+      "content": "<p>The title page of the novel <em>Adam Bede</em> indicated that the author&rsquo;s name was George Eliot.</p>"
+    },
+    {
+      "id": "a0dff8dd-cbfd-41e5-8069-9aef2a5395b0",
+      "content": "<p>A woman who had used a pseudonym to conceal her identity later revealed herself as the real author of <em>Adam Bede.</em></p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The sentence identifies the novel&rsquo;s real author, explaining that Mary Ann Evans published the novel under the pseudonym of George Eliot.</p><p>Choice B is incorrect. The sentence explains that George Eliot was assumed to be a pseudonym; it doesn&rsquo;t identify the novel&rsquo;s real author. Choice C is incorrect. The sentence specifies the pseudonym used on the novel&rsquo;s title page; it doesn&rsquo;t identify the novel&rsquo;s real author. Choice D is incorrect. While the sentence indicates that the novel&rsquo;s real author used a pseudonym, it doesn&rsquo;t identify that author as Mary Ann Evans.</p>",
+  "externalid": "b7fbabac-300e-4bf8-84bc-4e099b7b1f09",
+  "correct_answer": [
+    "A"
+  ]
+}

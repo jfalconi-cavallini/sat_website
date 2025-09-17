@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Walt Whitman&rsquo;s <em>Leaves of Grass</em> first appeared in <span data-ssml-say-as=\"date\">1855</span> as a slim collection of twelve poems, but Whitman would revise and expand it substantially over the next four decades. These extensive <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the addition of hundreds of new poems, the removal of some existing ones, and the insertion of prefatory material, reflected the poet&rsquo;s evolving literary perspective and experience of the US Civil War.</p>",
+  "keys": [
+    "7478be2d-486d-4ba7-b47c-6349520135b2"
+  ],
+  "answerOptions": [
+    {
+      "id": "7478be2d-486d-4ba7-b47c-6349520135b2",
+      "content": "<p>changes<span data-ssml-say-as=\"characters\">,</span> including</p>"
+    },
+    {
+      "id": "8f4d5146-874e-4901-81f2-feebd692f32f",
+      "content": "<p>changes would include</p>"
+    },
+    {
+      "id": "c8a58429-c58f-4ed5-9007-241fa4bec5d7",
+      "content": "<p>changes included</p>"
+    },
+    {
+      "id": "2141b878-d47c-48a8-94e8-b2dd16e1d88b",
+      "content": "<p>changes<span data-ssml-say-as=\"characters\">,</span> include</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of verb forms within a sentence. The nonfinite present participle \"including\" is correctly used to form a supplementary element that interrupts the main clause \"These extensive changes&hellip;reflected the poet&rsquo;s evolving literary perspective and experience of the US Civil War.\" This supplementary element, offset by commas after \"changes\" and \"material,\" provides examples of the changes Whitman made to <em>Leaves of Grass</em>.</p><p>Choice B is incorrect because it results in an ungrammatical sentence. The finite modal verb \"would include\" can&rsquo;t be used in this way to form a supplementary element within the main clause. Choice C is incorrect because it results in an ungrammatical sentence. The finite past tense verb \"included\" can&rsquo;t be used in this way to form a supplementary element within the main clause. Choice D is incorrect because it results in an ungrammatical sentence. The finite present tense verb \"include\" can&rsquo;t be used in this way to form a supplementary element within the main clause.</p>",
+  "externalid": "58d56d87-b826-4444-a46e-ca0aa7fd474e",
+  "correct_answer": [
+    "A"
+  ]
+}

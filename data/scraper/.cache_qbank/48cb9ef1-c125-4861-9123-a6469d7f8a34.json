@@ -1,0 +1,38 @@
+{
+  "vaultid": "5356e23e-93c9-4438-b8ac-59db8072d042",
+  "keys": [
+    "b7026cf8-043c-48da-a917-a946dadd080d"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of Lemay, Zyats, and Bezur&rsquo;s 2021 analysis of the Vinland Map. The text indicates that while some scholars have believed that the map was drawn in the mid-1400s, the 2021 analysis showed the presence of the compound titanium dioxide in the ink used to draw the map. The text goes on to say that titanium dioxide wasn&rsquo;t used to manufacture ink until the early 1900s, which means that ink containing this compound couldn&rsquo;t have been available to mapmakers in the 1400s. Since mapmakers in the mid-1400s couldn&rsquo;t have used ink with titanium dioxide, it follows that the Vinland Map couldn&rsquo;t have been drawn by mid-1400s mapmakers. </p><p>Choice A is incorrect because the 2021 finding that the ink used to draw the Vinland Map wasn&rsquo;t available until the early 1900s doesn&rsquo;t imply that Europeans in the mid-1400s couldn&rsquo;t have known about the eastern coast of North America. While this finding suggests that the map couldn&rsquo;t have been created in the mid-1400s, it doesn&rsquo;t preclude the possibility that Europeans nevertheless had knowledge&mdash;and perhaps even drew other maps that are no longer in existence or are yet to be discovered by researchers&mdash;of the eastern coast of present-day North America as early as the mid-1400s.&nbsp;Choice C is incorrect because there&rsquo;s nothing in the text that suggests that the 2021 discovery of the presence of titanium dioxide in the ink used to draw the Vinland Map caused Lemay, Zyats, and Bezur to question or reach a new conclusion about when mapmakers began using ink containing titanium compounds. Instead, the text indicates that titanium dioxide wasn&rsquo;t used in ink before the early 1900s. This knowledge led the team to conclude that the map, which was drawn with ink containing titanium dioxide, couldn&rsquo;t have been created in the mid-1400s. Choice D is incorrect because although the text doesn&rsquo;t indicate that Lemay, Zyats, and Bezur established an exact date for the creation of the ink that was used to draw the Vinland Map, the text does say that titanium dioxide was introduced in ink manufacturing in the early 1900s. This fact provides enough information to determine that the ink that was used to draw the map was created no earlier than the early 1900s. This finding, in turn, led the team to conclude that the Vinland Map couldn&rsquo;t have been drawn in the mid-1400s. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "48cb9ef1-c125-4861-9123-a6469d7f8a34",
+  "stimulus": "<p>When the Vinland Map, a map of the world purported to date to the mid-1400s, surfaced in 1957, some scholars believed it demonstrated that European knowledge of the eastern coast of present-day North America predated Christopher Columbus&rsquo;s 1492 arrival. In 2021, a team including conservators Marie-France Lemay and Paula Zyats and materials scientist Anik&oacute; Bezur performed an extensive analysis of the map and the ink used. They found that the ink contains titanium dioxide, a compound that was first introduced in ink manufacturing in the early 1900s. Therefore, the team concluded that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "8a28007c-cf3f-46a0-897e-6dc7c322146e",
+  "parenttemplatename": "OSP-035-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "5291c29a-c30d-42d5-9d3a-eeca24656be0",
+      "content": "<p>mid-1400s Europeans could not have known about the eastern coast of present-day North America.</p>"
+    },
+    {
+      "id": "b7026cf8-043c-48da-a917-a946dadd080d",
+      "content": "<p>the Vinland Map could not have been drawn by mid-1400s mapmakers.&nbsp;</p>"
+    },
+    {
+      "id": "afa890bf-bdd2-4a17-96ea-214c7485a059",
+      "content": "<p>mapmakers must have used titanium compounds in their ink in the 1400s.</p>"
+    },
+    {
+      "id": "65f7200c-3438-4fe1-b847-32903f50bec5",
+      "content": "<p>there isn&rsquo;t enough information to determine when the ink was created.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

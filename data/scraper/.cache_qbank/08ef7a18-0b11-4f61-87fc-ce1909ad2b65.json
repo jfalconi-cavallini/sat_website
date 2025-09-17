@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the main topic of the text?</p>",
+  "stimulus": "<p>Archaeologists have discovered a runestone in Norway that may contain the earliest example of written words in Scandinavia. Carbon dating at the discovery site revealed that the stone was likely carved between 1 and 250 CE. Runologist Kristel Zilmer believes the stone will be helpful in learning more about the use of runic alphabets in early Iron Age Scandinavia.</p>",
+  "type": "mcq",
+  "keys": [
+    "0bdecfc8-c42f-437f-a253-65b3fdca62be"
+  ],
+  "answerOptions": [
+    {
+      "id": "c59760f7-75b4-4ba0-948d-2839e2c9a8e1",
+      "content": "<p>Battles of the Iron Age</p>"
+    },
+    {
+      "id": "0bdecfc8-c42f-437f-a253-65b3fdca62be",
+      "content": "<p>A runestone found in Norway</p>"
+    },
+    {
+      "id": "2983a378-b1d3-4f8d-8c6d-56420eee60a5",
+      "content": "<p>A new method for dating rock samples</p>"
+    },
+    {
+      "id": "38653d95-71a1-4833-b0da-b2f8898e926e",
+      "content": "<p>The research interests of Kristel Zilmer</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most accurately states the main topic of the text. The text begins by stating that archaeologists in Norway have discovered what may be the oldest known runestone (a stone with an inscription in the runic alphabets used in the region in ancient times). According to the text, the object was created between 1 and 250 CE. The text then mentions a researcher who comments on the runestone&rsquo;s significance to the study of runic alphabets. Thus, the main focus throughout the text is a runestone found in Norway.</p><p>Choice A is incorrect because the text mentions the Iron Age only to indicate the era when the runestone was created and when runic alphabets were in use; there&rsquo;s no discussion of battles during this era. Choice C is incorrect because the text mentions the carbon dating method just once and does so only to indicate the age of the runestone; moreover, the text doesn&rsquo;t suggest that this method is new. Choice D is incorrect. Although the text indicates that Zilmer is a runologist, or a scholar of runestones, it does so in a single sentence, so Zilmer&rsquo;s scholarly interests are therefore not a primary focus of the text.</p>",
+  "externalid": "08ef7a18-0b11-4f61-87fc-ce1909ad2b65",
+  "correct_answer": [
+    "B"
+  ]
+}

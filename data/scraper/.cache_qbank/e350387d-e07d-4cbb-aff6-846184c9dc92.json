@@ -1,0 +1,38 @@
+{
+  "vaultid": "6993fa5b-03ce-42a9-b064-51132e09d661",
+  "keys": [
+    "2528d221-6657-4215-917e-1f8f4d47985e"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of Samuel R. Delany&rsquo;s character Rydra Wong. As used in this context, &ldquo;atypical&rdquo; would mean unrepresentative or not common. The text indicates that Wong is one of &ldquo;nearly a dozen&rdquo; characters in Delany&rsquo;s novels who are poets or writers. This context conveys that being a poet isn&rsquo;t an atypical occupation for a character in one of Delany&rsquo;s works. &nbsp;</p><p>Choice A is incorrect because &ldquo;infallible&rdquo; means to be accurate or without fault, which wouldn&rsquo;t make sense in context. The text focuses on the fact that Delany has written many characters who are poets and writers. This context suggests that the occupation isn&rsquo;t atypical for Delany, not that the occupation isn&rsquo;t infallible, or problematic.&nbsp;Choice C is incorrect because &ldquo;lucrative&rdquo; means to be profitable, which wouldn&rsquo;t make sense in context. If writing poet characters weren&rsquo;t profitable, it wouldn&rsquo;t be logical to explain this by citing that Delany gave many of his characters the same occupation.&nbsp;Choice D is incorrect because &ldquo;tedious&rdquo; means to be boring, which wouldn&rsquo;t make sense in context. The text focuses on the fact that Delany has written many characters who are poets and writers. This context suggests that the occupation isn&rsquo;t atypical for Delany, not that the occupation isn&rsquo;t tedious. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "e350387d-e07d-4cbb-aff6-846184c9dc92",
+  "stimulus": "<p>Rydra Wong, the protagonist of Samuel R. Delany&rsquo;s 1966 novel <em>Babel-17</em>, is a poet, an occupation which, in Delany&rsquo;s work, is not <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>: nearly a dozen of the characters that populate his novels are poets or writers.</p>",
+  "templateclusterid": "0cb0d687-a000-4373-a615-7872ebfba65d",
+  "parenttemplatename": "OSP-925-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "03850d8d-13ee-4e47-9d72-b4154b012a21",
+      "content": "<p>infallible</p>"
+    },
+    {
+      "id": "2528d221-6657-4215-917e-1f8f4d47985e",
+      "content": "<p>atypical</p>"
+    },
+    {
+      "id": "6f070f1a-f5e6-4ff5-89a4-a0b7e992ac77",
+      "content": "<p>lucrative</p>"
+    },
+    {
+      "id": "a52780da-0937-47a3-92b0-bf1a1ae19234",
+      "content": "<p>tedious</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

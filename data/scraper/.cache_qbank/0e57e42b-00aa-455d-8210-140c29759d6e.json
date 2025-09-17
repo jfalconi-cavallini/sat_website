@@ -1,0 +1,38 @@
+{
+  "vaultid": "899660e0-ee21-4503-93a1-6fce4962bd70",
+  "keys": [
+    "34b2776c-895c-47f3-b64a-c400dfb4cf82"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested here is punctuation between a verb and object. No punctuation is needed between the verb (\"appreciate\") and its object (\"the multiple references...\"). The object helps complete the idea of the verb&mdash;in this case, it explains what fans of science fiction will appreciate&mdash;and any punctuation between the two results in an ungrammatical sentence.</p><p>Choice B is incorrect because no punctuation is needed between the verb and its object. Choice C is incorrect because no punctuation is needed between the verb and its object. Choice D is incorrect because no punctuation is needed between the verb and its object.</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "0e57e42b-00aa-455d-8210-140c29759d6e",
+  "stimulus": "<p>Fans of science fiction will <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> multiple references to classic sci-fi stories in Janelle Mon&aacute;e&rsquo;s song lyrics, including her recurring nods to the plot of the 1927 sci-fi film <em>Metropolis</em>.</p>",
+  "templateclusterid": "599fcf4d-2e56-4728-8f38-6ba924b930d4",
+  "parenttemplatename": "OSP-719-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "34b2776c-895c-47f3-b64a-c400dfb4cf82",
+      "content": "<p>appreciate the</p>"
+    },
+    {
+      "id": "45ce0934-541f-4220-9bab-32a7c7b3eb9f",
+      "content": "<p>appreciate. The</p>"
+    },
+    {
+      "id": "f40b39f9-1530-4576-91ed-91e5190c5ba7",
+      "content": "<p>appreciate, the</p>"
+    },
+    {
+      "id": "0797b545-52b3-4cb5-be9d-077907916f19",
+      "content": "<p>appreciate: the</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

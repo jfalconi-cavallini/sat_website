@@ -1,0 +1,38 @@
+{
+  "vaultid": "9e0a2c3c-53a3-4938-902c-36ee1f2940a4",
+  "keys": [
+    "4b888cb4-9800-4546-85b8-72fd2414a686"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most accurately describes the function of the underlined sentence in the text as a whole. The text&rsquo;s subject is Beverly Glenn-Copeland&rsquo;s 1986 album <em>Keyboard Fantasies</em>, notable for its innovative, experimental arrangements. According to the text, the album was not initially admired, but in recent years it has become popular among younger musicians. The underlined portion of the text mentions two of those musicians, Blood Orange and Moses Sumney, who &ldquo;cite the album as an influence.&rdquo; Therefore, the underlined portion of the text offers examples of younger musicians whose work has been impacted by <em>Keyboard Fantasies</em>. </p><p>Choice A is incorrect because even though the underlined sentence states that Blood Orange and Moses Sumney were influenced by <em>Keyboard Fantasies</em>, it doesn&rsquo;t say that all other musicians should also embrace the album&rsquo;s experimental style. Choice B is incorrect. Although the text states that <em>Keyboard Fantasies</em> was not admired on its first release, the text doesn&rsquo;t present any criticism of the album by younger musicians: it only presents two younger musicians who cite it as an influence. Choice D is incorrect because the underlined sentence doesn&rsquo;t mention any differences between <em>Keyboard Fantasies</em> and the work of Blood Orange and Moses Sumney. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes the function of the underlined sentence in the text as a whole?</p>",
+  "externalid": "0e72b9ee-4ae3-4961-9f29-27da9fd2c52e",
+  "stimulus": "<p>For his 1986 album <em>Keyboard Fantasies</em>, Beverly Glenn-Copeland wrote songs grounded in traditional soul and folk music, then accompanied them with futuristic synthesizer arrangements featuring ambient sounds and complex rhythms. The result was so strange, so unprecedented, that the album attracted little attention when first released. In recent years, however, a younger generation of musicians has embraced the stylistic experimentation of <em>Keyboard Fantasies</em>. <span role=\"region\" aria-label=\"Referenced Content\"><u>Alternative R&amp;B musicians Blood Orange and Moses Sumney, among other contemporary recording artists, cite the album as an influence.</u></span></p>",
+  "templateclusterid": "a223495f-7b9c-4d19-96ec-2095b0ecea1c",
+  "parenttemplatename": "OSP-048-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "e959b373-d124-430a-8ca5-4116f3170083",
+      "content": "<p>It urges contemporary musicians to adopt the unique sound of <em>Keyboard Fantasies.</em></p>"
+    },
+    {
+      "id": "1080f186-05c7-4275-ac56-dc5ff5bf0a8e",
+      "content": "<p>It responds to criticism of <em>Keyboard Fantasies</em> by some younger musicians.</p>"
+    },
+    {
+      "id": "4b888cb4-9800-4546-85b8-72fd2414a686",
+      "content": "<p>It offers examples of younger musicians whose work has been impacted by <em>Keyboard Fantasies.</em></p>"
+    },
+    {
+      "id": "1b1f526a-d42d-4b63-afa8-2ec8639d3201",
+      "content": "<p>It contrasts <em>Keyboard Fantasies </em>with the recordings of two younger musicians.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

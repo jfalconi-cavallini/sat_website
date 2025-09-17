@@ -1,0 +1,38 @@
+{
+  "vaultid": "ca167810-2c70-4dad-94ec-d92996f0ddfe",
+  "keys": [
+    "dce58823-f71e-4437-82c6-16ebfc1a4760"
+  ],
+  "rationale": "<p>Choice C is the best answer because it presents a description of how the human mind is like a flower that is directly supported by the text. The text compares the needs of a &ldquo;fragile and lovely flower&rdquo; to those of the speaker&rsquo;s &ldquo;tender mind&rdquo;: both need to be fed if they&rsquo;re going to survive. Without such feeding, they&rsquo;ll &ldquo;beginneth straightway to languish,&rdquo; or weaken. Thus, the text suggests that the human mind is like a flower in that they both need proper nourishment in order to thrive. </p><p>Choice A is incorrect because the text doesn&rsquo;t address the passage of time or describe either the human mind or a flower as becoming increasingly vigorous.&nbsp;Choice B is incorrect because the text doesn&rsquo;t suggest that human minds or flowers draw strength from changes in weather. The references to rain in the text pertain to a flower&rsquo;s need for water rather than the general effects of changing weather.&nbsp;Choice D is incorrect because&nbsp;the text doesn&rsquo;t suggest that the human mind or a flower will persist regardless of challenging circumstances. In fact, the text indicates that they&rsquo;ll both languish right away if not given what they need. </p>",
+  "origin": "proteus",
+  "stem": "<p>Based on the text, in what way is the human mind like a flower?</p>",
+  "externalid": "c9b72f46-37cb-4778-ad91-d73d3d263723",
+  "stimulus": "<p>The following text is from Ezra Pound&rsquo;s 1909 poem &ldquo;Hymn III,&rdquo; based on the work of Marcantonio Flaminio.</p>\n<p style=\"padding-left:1em;\">As a fragile and lovely flower unfolds its gleaming<br>&ensp;foliage on the breast of the fostering earth, if<br>&ensp;the dew and the rain draw it forth;<br>So doth my tender mind flourish, if it be fed with the<br>&ensp;sweet dew of the fostering spirit,<br>Lacking this, it beginneth straightway to languish,<br>&ensp;even as a floweret born upon dry earth, if the<br>&ensp;dew and the rain tend it not.</p>",
+  "templateclusterid": "471b2447-297f-4558-9ac0-e4124594d908",
+  "parenttemplatename": "OSP-021-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "a5115760-9fac-465e-bfed-5e7394f066e9",
+      "content": "<p>It becomes increasingly vigorous with the passage of time.</p>"
+    },
+    {
+      "id": "5e681e4e-e96a-4b9e-9e29-c5de0e4730f4",
+      "content": "<p>It draws strength from changes in the weather.</p>"
+    },
+    {
+      "id": "dce58823-f71e-4437-82c6-16ebfc1a4760",
+      "content": "<p>&nbsp;It requires proper nourishment in order to thrive.</p>"
+    },
+    {
+      "id": "020a1180-64ef-4080-a527-e3ddb26aa97c",
+      "content": "<p>It perseveres despite challenging circumstances.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Eighteenth-century historian Edward Gibbon thought the only character defect of the Roman emperor Marcus Aurelius was his mild temperament&mdash;though the emperor was widely considered virtuous, his overly permissive nature led him to <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the vices of those who surrounded him.</p>",
+  "type": "mcq",
+  "keys": [
+    "3ac28d95-e96e-4dd4-9776-9abdd150a3bd"
+  ],
+  "answerOptions": [
+    {
+      "id": "3ac28d95-e96e-4dd4-9776-9abdd150a3bd",
+      "content": "<p>indulge</p>"
+    },
+    {
+      "id": "d5a4f734-1868-4919-85e4-f88850b1bc0b",
+      "content": "<p>despise</p>"
+    },
+    {
+      "id": "c6feda29-19b7-4755-8223-93d2e322f8c0",
+      "content": "<p>moderate</p>"
+    },
+    {
+      "id": "cceed417-0eaf-4993-9ee0-72bc0b68abe2",
+      "content": "<p>criticize</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of the Roman emperor Marcus Aurelius. In this context, \"indulge\" means treat with excessive leniency. The text states that according to historian Edward Gibbon, Marcus Aurelius, who was widely considered virtuous, had only a single character flaw: his mild temperament. The text suggests that because of this flaw, Marcus Aurelius had an overly permissive nature. This context, in turn, supports the idea that Marcus Aurelius treated the vices, or evils, of those around him with excessive leniency, indulging rather than punishing those vices.</p><p>Choice B is incorrect. While the text does state that Marcus Aurelius was widely considered virtuous, it gives no indication that he was inclined to \"despise,\" or hate, others&rsquo; vices. Rather, the text suggests that he showed undue tolerance for these vices because of his overly permissive nature&mdash;that is, his inclination to allow others to do as they wished. Choice C is incorrect because the text&rsquo;s description of Marcus Aurelius as overly permissive suggests that he showed undue tolerance for others&rsquo; vices, not that he tried to \"moderate\" those vices, or lessen their intensity. Choice D is incorrect because the text&rsquo;s description of Marcus Aurelius as overly permissive suggests that he showed undue tolerance for others&rsquo; vices, not that he attempted to \"criticize,\" or speak disapprovingly of, those vices.</p>",
+  "externalid": "11ddc0d9-49ae-4f5e-a32c-7c8aaabe8ddd",
+  "correct_answer": [
+    "A"
+  ]
+}

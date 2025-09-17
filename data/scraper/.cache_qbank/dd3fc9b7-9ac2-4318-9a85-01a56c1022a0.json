@@ -1,0 +1,38 @@
+{
+  "vaultid": "a5f36665-eab8-4cfb-8216-6f71895348fb",
+  "keys": [
+    "9152a62c-fd08-46a3-851d-9cb64e9965fe"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of John Ashbery&rsquo;s poems. As used in this context, &ldquo;interpret&rdquo; would mean decipher the meaning of. The text indicates that Ashbery&rsquo;s poems have many unusual features, that it&rsquo;s difficult to tell what exactly the poems&rsquo; subject matter is, and that scholars strongly disagree about the poems. This context conveys the idea that it&rsquo;s difficult to interpret Ashbery&rsquo;s poems.&nbsp;</p><p>Choice A is incorrect because &ldquo;delegate&rdquo; means to assign someone as a representative of another person or to entrust something to someone else, neither of which would make sense in context. The text is focused only on the difficulty that readers have interpreting Ashbery&rsquo;s poems due to their many unusual features; it doesn&rsquo;t suggest anything about the poems being difficult to delegate. Choice B is incorrect because describing Ashbery&rsquo;s poems as difficult to &ldquo;compose,&rdquo; or put together or produce, would make sense only if the text were about Ashbery&rsquo;s experience of writing the poems. It could be true that it was difficult for Ashbery to compose his poems, but the text doesn&rsquo;t address this; it instead discusses how readers interpret and engage with the poems. Choice D is incorrect because describing Ashbery&rsquo;s poems as being difficult to &ldquo;renounce,&rdquo; or give up or refuse, wouldn&rsquo;t make sense in context. The text focuses on the idea that features of Ashbery&rsquo;s poems are odd or unclear and have caused heated scholarly debate. This context suggests that the poems are difficult to interpret, not that the poems are difficult to renounce. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "dd3fc9b7-9ac2-4318-9a85-01a56c1022a0",
+  "stimulus": "<p>Due to their often strange images, highly experimental syntax, and opaque subject matter, many of John Ashbery&rsquo;s poems can be quite difficult to <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> and thus are the object of heated debate among scholars.</p>",
+  "templateclusterid": "2c2c5025-4d71-49a0-ba2d-7ab842ce683a",
+  "parenttemplatename": "OSP-924-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "fc8cfaf2-66fd-46e6-b25e-0eb93e16520d",
+      "content": "<p>delegate</p>"
+    },
+    {
+      "id": "17ff07f0-c715-4e72-a3d6-4c75266b5593",
+      "content": "<p>compose</p>"
+    },
+    {
+      "id": "9152a62c-fd08-46a3-851d-9cb64e9965fe",
+      "content": "<p>interpret</p>"
+    },
+    {
+      "id": "46c250c9-e433-4911-8c30-d469535e8794",
+      "content": "<p>renounce</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

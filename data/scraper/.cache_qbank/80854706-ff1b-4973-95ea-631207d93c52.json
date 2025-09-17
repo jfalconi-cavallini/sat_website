@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>As used in the text, what does the word &ldquo;arranged&rdquo; most nearly mean?</p>",
+  "stimulus": "<p>The following text is adapted from Ida <span data-ssml-sub-alias=\"B\">B.</span> Wells&rsquo;s 1970 autobiography <em>A Crusade for Justice.</em> Mr. Watts is a reference to George Frederic Watts, an English painter.</p>\n<blockquote>\n<p>[Manchester&rsquo;s] art galleries are so&nbsp;<span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">arranged</span>&nbsp;that the name of every picture is plainly seen and one has no need of a catalogue to pick out the name and the artist. This is a convenience to the general public, which other art galleries, which shall be nameless, might copy to advantage. To her treasure of art Manchester has added Mr. Watts&rsquo; latest picture, the Good Samaritan.</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;1970 by the University of Chicago Press</span></p>",
+  "keys": [
+    "11bcb8cf-30af-4ba5-aeb5-45522332ee48"
+  ],
+  "answerOptions": [
+    {
+      "id": "11bcb8cf-30af-4ba5-aeb5-45522332ee48",
+      "content": "<p>Organized</p>"
+    },
+    {
+      "id": "68e0743a-b703-473e-8254-5a39e61f8924",
+      "content": "<p>Ranked</p>"
+    },
+    {
+      "id": "7fb3729a-f0c1-4b52-a2ba-fa887fbae3e3",
+      "content": "<p>Scheduled</p>"
+    },
+    {
+      "id": "ebf9becf-9c11-49d8-9dc5-81f7dc6607f6",
+      "content": "<p>Discussed</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because as used in the text, \"arranged\" most nearly means \"organized.\" The text states that a welcome feature of Manchester&rsquo;s art galleries (as opposed to others) is that the titles of the paintings are easy to see and that a catalogue is therefore unneeded while visitors browse the art galleries. This suggests that the paintings are displayed in a systematic, or organized, way.</p><p>Choice B is incorrect. \"Ranked\" might mean either classified or placed in orderly rows. Neither of these meanings would necessarily imply that the names of the paintings are easy to see (even if the paintings are placed in rows, their labels might be obscured). Choice C is incorrect because it would not make sense in context to describe the paintings as \"scheduled,\" or planned to take place at a certain time. Choice D is incorrect because if the paintings were \"discussed,\" or talked about, this would have no bearing on whether the names of the paintings could be easily seen.</p>",
+  "externalid": "80854706-ff1b-4973-95ea-631207d93c52",
+  "correct_answer": [
+    "A"
+  ]
+}

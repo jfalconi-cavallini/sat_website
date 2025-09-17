@@ -1,0 +1,38 @@
+{
+  "vaultid": "cd6b4a0f-0a13-4c13-b2af-ab000e5e5777",
+  "keys": [
+    "8497c915-57e8-4664-9f9b-da7577eb5ead"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is pronoun&ndash;antecedent agreement. The plural pronoun &ldquo;they&rdquo; agrees in number with the plural antecedent &ldquo;woodcuts&rdquo; and clearly identifies what was exhibited at the Smithsonian American Art Museum. </p><p>Choice A is incorrect because the singular pronoun &ldquo;it&rdquo; doesn&rsquo;t agree in number with the plural antecedent &ldquo;woodcuts.&rdquo; Choice C is incorrect because the singular pronoun &ldquo;this&rdquo; doesn&rsquo;t agree in number with the plural antecedent &ldquo;woodcuts.&rdquo; Choice D is incorrect because the plural pronoun &ldquo;some&rdquo; is illogical in this context (referring to &ldquo;some&rdquo; of two woodcuts). </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "bf69cb89-2c0b-45b8-b5bc-df6d238c3f33",
+  "stimulus": "<p>In 1930, Japanese American artist Chiura Obata depicted the natural beauty of Yosemite National Park in two memorable woodcuts: <em>Evening at Carl Inn </em>and <em>Lake Basin in the High Sierra</em>. In 2019, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> exhibited alongside 150 of Obata&rsquo;s other works in a single-artist show at the Smithsonian American Art Museum.</p>",
+  "templateclusterid": "93d853aa-332b-4110-a0ca-75c0f589df3f",
+  "parenttemplatename": "OSP-637-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "59070ee6-c2cc-4f25-aafb-7ccbcf1b2c89",
+      "content": "<p>it was</p>"
+    },
+    {
+      "id": "8497c915-57e8-4664-9f9b-da7577eb5ead",
+      "content": "<p>they were</p>"
+    },
+    {
+      "id": "bd0073d9-1e43-4575-90ee-a2e03945a0f9",
+      "content": "<p>this was</p>"
+    },
+    {
+      "id": "05de797b-5951-4445-835d-b92ac1d8ff23",
+      "content": "<p>some were</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

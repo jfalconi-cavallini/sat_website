@@ -1,0 +1,38 @@
+{
+  "vaultid": "a3ca1e95-c5d9-4e43-bbd6-c08b8ea94fd1",
+  "keys": [
+    "04e76167-a5f6-41bb-994f-574211ed792c"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the discussion of Octavia Butler&rsquo;s career. In this context, &ldquo;impenetrable&rdquo; means impossible to enter. The text indicates that the field of science fiction was dominated by white males when Butler, a Black woman, started writing, but she published several science fiction short stories and a novel and later won a prestigious award; that is, Butler pursued science fiction writing and had success. This context suggests that Butler didn&rsquo;t view the genre as impossible to enter. </p><p>Choice A is incorrect. In this context, &ldquo;legitimate&rdquo; would mean genuinely good or valid. Nothing in the text suggests that Butler didn&rsquo;t think the science fiction genre was good or valid; in fact, it indicates that she pursued and made a successful career of publishing work in that field. Choice C is incorrect. In this context, &ldquo;compelling&rdquo; would mean attracting or demanding attention. The text indicates that Butler chose to write science fiction, so it wouldn&rsquo;t make sense to say that she didn&rsquo;t see the field as drawing her attention. Choice D is incorrect. To say that Butler didn&rsquo;t consider science fiction &ldquo;indecipherable,&rdquo; or impossible to understand, would suggest that Butler did understand it. However, the text doesn&rsquo;t address Butler&rsquo;s ability to interpret works in the genre; rather, it focuses on Butler&rsquo;s successful pursuit of writing science fiction. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "515f70fd-1a8a-4b59-9fc4-a493d3ed0618",
+  "stimulus": "<p>Although science fiction was dominated mostly by white male authors when Octavia Butler, a Black woman, began writing, she did not view the genre as <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>: Butler broke into the field with the publication of several short stories and her 1976 novel <em>Patternmaster</em>, and she later became the first science fiction writer to win a prestigious MacArthur Fellowship.</p>",
+  "templateclusterid": "1695eb4d-7bab-4c02-a0f3-cc357b7b9ee6",
+  "parenttemplatename": "OSP-904-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "8fca3ae3-dbea-4583-a5dc-c615ea219c18",
+      "content": "<p>legitimate</p>"
+    },
+    {
+      "id": "04e76167-a5f6-41bb-994f-574211ed792c",
+      "content": "<p>impenetrable</p>"
+    },
+    {
+      "id": "5affa566-e30c-4206-9ac9-4868ffa87710",
+      "content": "<p>compelling</p>"
+    },
+    {
+      "id": "6923eeef-4f14-4257-ac0a-6b62ccb3eaa4",
+      "content": "<p>indecipherable</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

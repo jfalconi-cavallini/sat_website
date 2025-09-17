@@ -1,0 +1,38 @@
+{
+  "vaultid": "2ce19175-a319-4883-9b68-2b59d4bd4661",
+  "keys": [
+    "a20e5af4-726a-45f6-8796-ba0063537c15"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of verbs to express tense in a sentence. In this choice, the present perfect tense verb &ldquo;have contributed,&rdquo; used in conjunction with the phrase &ldquo;since it began in 2012,&rdquo; correctly indicates that map editors have contributed in the past and continue to do so in the present. </p><p>Choice A is incorrect because the present tense verb &ldquo;contribute&rdquo; is inconsistent with the phrase &ldquo;since it began in 2012,&rdquo; which suggests that the contributions occurred in the past and continue into the present. Choice B is incorrect because the future tense verb &ldquo;will contribute&rdquo; is inconsistent with the phrase &ldquo;since it began in 2012,&rdquo; which suggests that the contributions occurred in the past and continue into the present. Choice D is incorrect because the future tense verb &ldquo;will be contributing&rdquo; is inconsistent with the phrase &ldquo;since it began in 2012,&rdquo; which suggests that the contributions occurred in the past and continue into the present. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "b8794e86-cc8f-479a-8a91-f54d81a14747",
+  "stimulus": "<p>The US Geological Survey wants to map every human-made structure in the United States, and it is asking volunteers to help. Cassie Tammy Wang and Ashish D&rsquo;Souza are just two of the many volunteer map editors who <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> to the project since it began in 2012.</p>",
+  "templateclusterid": "5f7c7ced-018f-431c-88ca-0b30433626f1",
+  "parenttemplatename": "OSP-755-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "ef812a42-1a00-452e-a3e2-3c1f9f878148",
+      "content": "<p>contribute</p>"
+    },
+    {
+      "id": "29be742e-25e4-4250-95ce-b89caf3e86dd",
+      "content": "<p>will contribute</p>"
+    },
+    {
+      "id": "a20e5af4-726a-45f6-8796-ba0063537c15",
+      "content": "<p>have contributed</p>"
+    },
+    {
+      "id": "d415385b-1c93-424c-9a2f-83baf61ddf38",
+      "content": "<p>will be contributing</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

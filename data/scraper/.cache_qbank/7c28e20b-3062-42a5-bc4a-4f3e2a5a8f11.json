@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Though not closely related, the hedgehog tenrecs of Madagascar share basic <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> true hedgehogs, including protective spines, pointed snouts, and small body size&mdash;traits the two groups of mammals independently developed in response to equivalent roles in their respective habitats.</p>",
+  "type": "mcq",
+  "keys": [
+    "a804526e-8851-45b3-b1b2-00312db07e4a"
+  ],
+  "answerOptions": [
+    {
+      "id": "48983744-1cb8-4adc-ba6e-55c6e78cfae6",
+      "content": "<p>examples of</p>"
+    },
+    {
+      "id": "c7d356f6-1ee6-4005-94d3-ddfca4062107",
+      "content": "<p>concerns about</p>"
+    },
+    {
+      "id": "7dd5bea8-c9a3-47a1-8e12-cea38bc78140",
+      "content": "<p>indications of</p>"
+    },
+    {
+      "id": "a804526e-8851-45b3-b1b2-00312db07e4a",
+      "content": "<p>similarities with</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because in context, sharing \"similarities with\" means having some resemblance to. The text establishes a comparison between two groups of mammals, stating that although they aren&rsquo;t closely related, hedgehog tenrecs and true hedgehogs play similar roles in their habitats, a circumstance that has resulted in the independent development of some of the same physical traits. This context supports the idea that hedgehog tenrecs resemble, or share basic similarities with, true hedgehogs in some respects.</p><p>Choice A is incorrect because the text doesn&rsquo;t suggest that hedgehog tenrecs are \"examples of,\" or representative of, true hedgehogs. The text states that despite some shared physical traits, the two groups of mammals aren&rsquo;t closely related; therefore, hedgehog tenrecs can&rsquo;t be examples of true hedgehogs. Choice B is incorrect because in this context, \"concerns about\" would mean worries about or interests in. The text focuses on the various physical traits that hedgehog tenrecs and true hedgehogs share. There&rsquo;s nothing in the text to suggest why hedgehog tenrecs would be worried about true hedgehogs, or why they would be interested in them. Choice C is incorrect because in this context, \"indications of\" would mean evidence of. By listing a set of traits that hedgehog tenrecs share with true hedgehogs, the text establishes a comparison between the two groups of mammals, and saying that the traits shared within one group of mammals provide evidence of another group of mammals wouldn&rsquo;t be an effective way to establish the similarities between the two groups.</p>",
+  "externalid": "7c28e20b-3062-42a5-bc4a-4f3e2a5a8f11",
+  "correct_answer": [
+    "D"
+  ]
+}

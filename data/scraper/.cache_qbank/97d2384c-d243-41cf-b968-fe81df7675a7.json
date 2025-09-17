@@ -1,0 +1,38 @@
+{
+  "vaultid": "58d45286-944f-4263-ba25-7caa9150103f",
+  "keys": [
+    "75130a79-3462-424b-9395-6047b475b7ec"
+  ],
+  "rationale": "<p>Choice C is the best answer. &ldquo;Similarly&rdquo; logically signals that the activity described in this sentence (Nancy Tuttle Craig distributing Votes for Women Tea in her Los Angeles grocery stores) is like the activity described in the previous sentence (the Woman&rsquo;s Suffrage Party selling Equality Tea at fairs in San Francisco). Together, the two examples support the preceding claim that &ldquo;activists across the state sold tea to promote the cause of suffrage.&rdquo; </p><p>Choice A is incorrect because &ldquo;for example&rdquo; illogically signals that the activity described in this sentence exemplifies the activity described in the previous sentence. Instead, the two activities are similar, and both support the preceding claim about selling tea to promote women&rsquo;s right to vote. Choice B is incorrect because &ldquo;to conclude&rdquo; illogically signals that the activity described in this sentence concludes or summarizes the information in the previous sentences. Instead, the activity is similar to the one described in the previous sentence, and both support the preceding claim about selling tea to promote women&rsquo;s right to vote. Choice D is incorrect because &ldquo;in other words&rdquo; illogically signals that the activity described in this sentence paraphrases the activity described in the previous sentence. Instead, the two activities are similar, and both support the preceding claim about selling tea to promote women&rsquo;s right to vote. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "97d2384c-d243-41cf-b968-fe81df7675a7",
+  "stimulus": "<p>Before California&rsquo;s 1911 election to approve a proposition granting women the right to vote, activists across the state sold tea to promote the cause of suffrage. In San Francisco, the Woman&rsquo;s Suffrage Party sold Equality Tea at local fairs. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in Los Angeles, activist Nancy Tuttle Craig, who ran one of California&rsquo;s largest grocery store firms, distributed Votes for Women Tea.</p>",
+  "templateclusterid": "b01d7e12-1be9-4cd0-b0d9-a8f8d660108b",
+  "parenttemplatename": "OSP-220-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "ff68a0f5-3a22-48af-a1b5-16d4667d02a9",
+      "content": "<p>For example,</p>"
+    },
+    {
+      "id": "b2722964-54a5-4471-8a66-14354a1d5c70",
+      "content": "<p>To conclude,</p>"
+    },
+    {
+      "id": "75130a79-3462-424b-9395-6047b475b7ec",
+      "content": "<p>Similarly,</p>"
+    },
+    {
+      "id": "98f225b7-7037-4ee8-a0e1-9eae322612f5",
+      "content": "<p>In other words,</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

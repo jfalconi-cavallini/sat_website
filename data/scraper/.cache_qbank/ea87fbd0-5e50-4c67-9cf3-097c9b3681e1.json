@@ -1,0 +1,38 @@
+{
+  "vaultid": "6134073a-5c7d-4816-bc66-4787cb585a1a",
+  "keys": [
+    "282af0c3-0d45-4072-86c4-11b5938f2362"
+  ],
+  "rationale": "<p>Choice A is the best answer because it accurately describes the organization of the elements within the text. The text begins with the claim that Joni Mitchell&rsquo;s album covers use images she creates in order to emphasize ideas embedded in her albums. It then goes on to provide an example of how Mitchell&rsquo;s self-portrait on the cover of <em>Turbulent Indigo&nbsp;</em>resembles a painting by Van Gogh, which the text indicates helps emphasize the strong connection Mitchell feels toward Van Gogh, a connection that is also expressed in the album&rsquo;s title song. </p><p>Choice B is incorrect because there are no references in the text to artists other than Joni Mitchell and Van Gogh. Choice C is incorrect because there is nothing in the text that calls attention to any similarities or differences between Joni Mitchell and Van Gogh. Instead, it mentions that Mitchell feels a strong &ldquo;artistic connection&rdquo; to Van Gogh. Choice D is incorrect because the text discusses the cover before referring to any songs, and it only references one song from the album not all the songs. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes the overall structure of the text?</p>",
+  "externalid": "ea87fbd0-5e50-4c67-9cf3-097c9b3681e1",
+  "stimulus": "<p>Musician Joni Mitchell, who is also a painter, uses images she creates for her album covers to emphasize ideas expressed in her music. For the cover of her album <em>Turbulent Indigo</em> (1994), Mitchell painted a striking self-portrait that closely resembles Vincent van Gogh&rsquo;s <em>Self-Portrait with Bandaged Ear</em> (1889). The image calls attention to the album&rsquo;s title song, in which Mitchell sings about the legacy of the postimpressionist painter. In that song, Mitchell also hints that she feels a strong artistic connection to Van Gogh&mdash;an idea that is reinforced by her imagery on the cover.</p>",
+  "templateclusterid": "2623edd5-e379-4314-a9f8-a5d414855e14",
+  "parenttemplatename": "OSP-013-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "282af0c3-0d45-4072-86c4-11b5938f2362",
+      "content": "<p>It presents a claim about Mitchell, then gives an example supporting that claim.</p>"
+    },
+    {
+      "id": "33c50c0e-f2ce-496c-9ee8-b0edf6ea85a2",
+      "content": "<p>It discusses Van Gogh&rsquo;s influence on Mitchell, then considers Mitchell&rsquo;s influence on other artists.</p>"
+    },
+    {
+      "id": "961dc903-0eff-4de5-a8fa-4f147ed592aa",
+      "content": "<p>It describes a similarity between two artists, then notes a difference between them.</p>"
+    },
+    {
+      "id": "14ec1c1a-8457-4949-a611-cb73932f0f17",
+      "content": "<p>It describes the songs on <em>Turbulent Indigo</em>, then explains how they relate to the album&rsquo;s cover.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

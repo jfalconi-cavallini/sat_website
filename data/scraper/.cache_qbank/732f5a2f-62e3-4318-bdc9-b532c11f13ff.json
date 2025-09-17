@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>Some ethicists hold that the moral goodness of an individual&rsquo;s actions depends solely on whether the actions themselves are good, irrespective of the context in which they are carried out. Philosopher L. Sebastian Purcell has shown that surviving works of Aztec (Nahua) philosophy express a very different view. Purcell reveals that these works posit an ethical system in which an individual&rsquo;s actions are judged in light of how well they accord with the individual&rsquo;s role in society and how well they contribute to the community. To the extent that these works are representative of Aztec thought, Purcell&rsquo;s analysis suggests that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "a0205ed7-c28e-432e-82c2-19a4371c3795"
+  ],
+  "answerOptions": [
+    {
+      "id": "a0205ed7-c28e-432e-82c2-19a4371c3795",
+      "content": "<p>the Aztecs would have disputed the idea that the morality of an individual&rsquo;s actions can be assessed by appealing to standards of behavior that are independent of the individual&rsquo;s social circumstances.&nbsp;</p>"
+    },
+    {
+      "id": "20979e5d-4882-4cfb-a855-35e34bdd4a94",
+      "content": "<p>the Aztecs would not have accepted the notion that the morality of an individual&rsquo;s actions can be fairly evaluated by people who do not live in the same society as that individual.&nbsp;&nbsp;</p>"
+    },
+    {
+      "id": "4d1b5414-f819-4995-ac7b-bc29aef92185",
+      "content": "<p>actions by members of Aztec society who contributed a great deal to their community could be judged as morally good even if those actions were inconsistent with behaviors the Aztecs regarded as good in all contexts.</p>"
+    },
+    {
+      "id": "7a0fe142-7419-45cf-81e4-864272af0f45",
+      "content": "<p>similar actions performed by people in different social roles in Aztec society would have been regarded as morally equivalent unless those actions led to different outcomes for the community.&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion about Aztec (Nahua) ethics. The text indicates that, according to Purcell&rsquo;s interpretation of available Aztec philosophical works, the Aztec ethical system views an individual&rsquo;s actions in relation to that individual&rsquo;s societal role and how the actions affect the community. The text contrasts this view with another held by some ethicists, namely that actions are morally good or bad regardless of the context in which they occur. Thus, Purcell&rsquo;s analysis suggests that the Aztecs would have asserted that the morality of an individual&rsquo;s actions are rooted in that person&rsquo;s position in the community and the actions&rsquo; effects and therefore cannot be determined in the absence of that context.</p><p>Choice B is incorrect. Although the text indicates that morally judging an action according to Aztec ethics requires an understanding of the action&rsquo;s effects and the individual&rsquo;s social circumstances, it does not specify that only members of that society can acquire this information. Choice C is incorrect because it implies that the Aztecs considered some actions good or bad regardless of the surrounding context, which contradicts the text&rsquo;s claim that the Aztecs believed that the morality of an individual&rsquo;s action is dependent on the action&rsquo;s effects on the community and the person&rsquo;s specific circumstances. Choice D is incorrect. Although the text indicates that in Aztec ethics the morality of an action depends in part on how it affects the community, this is only one of the two factors&mdash;the other being the person&rsquo;s societal role&mdash;that need to be considered. Therefore, it is possible that two actions with the same effect on the community could be considered morally distinct if they are performed by individuals in different social roles.</p>",
+  "externalid": "732f5a2f-62e3-4318-bdc9-b532c11f13ff",
+  "correct_answer": [
+    "A"
+  ]
+}

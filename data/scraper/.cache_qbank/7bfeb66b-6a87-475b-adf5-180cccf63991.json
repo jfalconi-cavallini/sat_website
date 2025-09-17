@@ -1,0 +1,38 @@
+{
+  "vaultid": "1bf6f778-7169-488c-b5e3-eee5e90c80f7",
+  "keys": [
+    "bfa96f80-1f8c-48b6-b08e-42410f0cf7de"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of possessive determiners. The plural possessive determiner &ldquo;their&rdquo; agrees in number with the plural conjoined noun phrase &ldquo;Watson and Crick&rdquo; and thus indicates that the findings were those of Watson and Crick. </p><p>Choice A is incorrect because &ldquo;they&rsquo;re&rdquo; is the contraction for &ldquo;they are,&rdquo; not a possessive determiner. Choice B is incorrect because &ldquo;it&rsquo;s&rdquo; is the contraction for &ldquo;it is&rdquo; or &ldquo;it has,&rdquo; not a possessive determiner. Choice D is incorrect because&nbsp;the singular possessive determiner &ldquo;its&rdquo; doesn&rsquo;t agree in number with the plural conjoined noun phrase &ldquo;Watson and Crick.&rdquo; </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "7bfeb66b-6a87-475b-adf5-180cccf63991",
+  "stimulus": "<p>British scientists James Watson and Francis Crick won the Nobel Prize in part for their 1953 paper announcing the double helix structure of DNA, but it is misleading to say that Watson and Crick discovered the double helix. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> findings were based on a famous X-ray image of DNA fibers, &ldquo;Photo 51,&rdquo; developed by X-ray crystallographer Rosalind Franklin and her graduate student Raymond Gosling.</p>",
+  "templateclusterid": "c8cfb123-dcef-4262-85a3-f6bf1763e4f9",
+  "parenttemplatename": "OSP-635-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "63689ecf-33cb-4bc8-a80d-4e8bd816bdb9",
+      "content": "<p>They&rsquo;re</p>"
+    },
+    {
+      "id": "f5ad814d-966c-4db1-8e99-de01b202a619",
+      "content": "<p>It&rsquo;s</p>"
+    },
+    {
+      "id": "bfa96f80-1f8c-48b6-b08e-42410f0cf7de",
+      "content": "<p>Their</p>"
+    },
+    {
+      "id": "67747f12-cdb5-41bd-825e-b6428ee2de89",
+      "content": "<p>Its</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

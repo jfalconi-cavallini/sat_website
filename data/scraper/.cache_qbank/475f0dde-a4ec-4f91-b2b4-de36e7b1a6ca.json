@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>In hindsight, given the ideas about the natural world circulating among British scientists in the 1800s, the theory of natural selection was an obvious next step. It may not have been a coincidence, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> that Charles Darwin and Alfred Wallace arrived at the concept independently. Indeed, contrary to the popular myth of the lone genius, theirs is not the first paradigm-shifting theory to have emerged from multiple scholars working in parallel.&nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "8a170ec2-1a89-4848-b325-cb531038e4ce"
+  ],
+  "answerOptions": [
+    {
+      "id": "125507ea-2aaa-46bf-9a16-d0f0a95debd0",
+      "content": "<p>however,</p>"
+    },
+    {
+      "id": "8a170ec2-1a89-4848-b325-cb531038e4ce",
+      "content": "<p>then,</p>"
+    },
+    {
+      "id": "34184b1e-95cd-45c2-82fe-4050e2a0c521",
+      "content": "<p>moreover,</p>"
+    },
+    {
+      "id": "fae5e2f9-d60c-479e-8800-ebf89ae51ec7",
+      "content": "<p>for example,</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. \"Then\" signals that this sentence&rsquo;s claim about Darwin and Wallace follows logically from the previous information. In other words, both scientists independently arriving at the theory of natural selection was, arguably, an expected outcome of the circumstances mentioned in the previous sentence.</p><p>Choice A is incorrect because \"however\" illogically signals that the claim in this sentence contrasts with the previous information about the ideas circulating among British scientists in the 1800s. Instead, this claim follows logically from that information. Choice C is incorrect because \"moreover\" illogically signals that the claim in this sentence merely adds to the previous information about the ideas circulating among British scientists in the 1800s. Instead, this claim follows logically from that information. Choice D is incorrect because \"for example\" illogically signals that this sentence provides an example supporting the previous information about the ideas circulating among British scientists in the 1800s. Instead, it presents a claim that follows logically from that information.</p>",
+  "externalid": "475f0dde-a4ec-4f91-b2b4-de36e7b1a6ca",
+  "correct_answer": [
+    "B"
+  ]
+}

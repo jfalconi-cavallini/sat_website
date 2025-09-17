@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Based on the texts, how would the ecologist in Text 2 most likely respond to the author&rsquo;s conclusion in Text 1?</p>",
+  "stimulus": "<p><span class=\"paired_passage\" role=\"heading\" aria-level=\"2\"><strong>Text 1</strong></span></p>\n<p>Flamingos are known for their vibrant pink coloring, but they&rsquo;re actually born with gray feathers. Their pink color comes from eating brine shrimp, but brine shrimp aren&rsquo;t naturally pink either. Animals can&rsquo;t produce carotenoids, the pigments that provide the pink hue. The algae that brine shrimp feed on, however, can produce these pigments. Thus, the pinker the flamingo, the more shrimp it has eaten.</p>\n<p>&nbsp;</p>\n<p><span class=\"paired_passage\" role=\"heading\" aria-level=\"2\"><strong>Text 2</strong></span></p>\n<p>Ecologist Juan Amat has found that flamingos apply a kind of makeup to make themselves appear pinker. A gland near their tail contains pigments that come from the food they eat. When the flamingos groom themselves using the pigments, their feathers become pinker. Flamingos may do this to improve their success during mating season, when they would benefit from looking pinker.</p>",
+  "type": "mcq",
+  "keys": [
+    "3bd58c0d-eff9-4c33-8e4a-8d9792c13f62"
+  ],
+  "answerOptions": [
+    {
+      "id": "4ea52f0f-a85e-47bc-a717-23362c3d06be",
+      "content": "<p>By emphasizing that flamingos&rsquo; tail feathers are pinker than their other feathers are</p>"
+    },
+    {
+      "id": "9818b117-ccbc-4bc6-8284-b8dadc70bbf5",
+      "content": "<p>By claiming that the coloring of flamingos&rsquo; feathers doesn&rsquo;t change significantly enough for most observers to notice</p>"
+    },
+    {
+      "id": "3bd58c0d-eff9-4c33-8e4a-8d9792c13f62",
+      "content": "<p>By pointing out that the amount of shrimp eaten isn&rsquo;t the only thing that influences flamingos&rsquo; coloring</p>"
+    },
+    {
+      "id": "f90ecd59-8105-4779-ab90-a2b891a23349",
+      "content": "<p>By arguing that flamingos&rsquo; diet doesn&rsquo;t include much shrimp except during mating season</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it describes how the ecologist in Text 2 would most likely respond to the author&rsquo;s conclusion in Text 1 based on the information provided. The author of Text 1 states that the pink color of flamingo feathers comes from pigments carried by the brine shrimp flamingos consume. The author of Text 1 concludes that this means that a flamingo that is pinker than another flamingo must have eaten more shrimp. However, according to Text 2, ecologist Juan Amat has found that flamingos can also affect how pink they look through grooming, when they move ingested pigments from a gland near the tail to their feathers. This indicates that not all the pigments available from the shrimp a flamingo has eaten automatically end up coloring the flamingo&rsquo;s feathers; some may or may not be applied later. Since grooming is also a factor, the ecologist (Amat) in Text 2 would most likely respond to the conclusion in Text 1 that pinker flamingos have eaten more shrimp by pointing out that the amount of shrimp eaten isn&rsquo;t the only thing that influences flamingos&rsquo; coloring.</p><p>Choice A is incorrect. Although Text 2 states that the ecologist has found that flamingos can move pigments to their feathers from a gland near their tail, there is no indication that their tail feathers are pinker than their other feathers. Moreover, the point that tail feathers are pinker than other feathers wouldn&rsquo;t logically address the idea that the quantity of shrimp eaten is what determines a flamingo&rsquo;s coloring. Choice B is incorrect because Text 2 indicates that the ecologist has found that flamingos&rsquo; feathers do sometimes look pinker and gives no indication that this change in color is particularly subtle. Moreover, the point that most observers wouldn&rsquo;t notice a change wouldn&rsquo;t logically address the idea that the quantity of shrimp eaten is what determines a flamingo&rsquo;s coloring. Choice D is incorrect because nothing in Text 2 suggests that the ecologist would argue about flamingos&rsquo; shrimp consumption. Although Text 2 indicates that the ecologist has found that flamingos may make themselves look pinker during mating season, this is addressed in terms of grooming habits; apart from referring to food as a source of pigments, Text 2 doesn&rsquo;t discuss the diet of flamingos at all.</p>",
+  "externalid": "528036fb-b773-45a9-a0e1-9d0a9ac30ee2",
+  "correct_answer": [
+    "C"
+  ]
+}

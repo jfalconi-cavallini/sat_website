@@ -1,0 +1,38 @@
+{
+  "vaultid": "98c6e490-b89e-419c-b1a2-e6dfcb34a85f",
+  "keys": [
+    "807cfc5f-06cb-4a88-a24d-905b5bed3e8c"
+  ],
+  "rationale": "<p>Choice B is the best answer because it provides the most direct support from the table for the claim that two languages can convey similar amounts of information even if they&rsquo;re spoken at different rates. The table shows the approximate rates at which five languages are spoken and the rates at which those five languages convey information. Vietnamese is spoken at around 5.3 syllables per second, whereas Spanish is spoken at around 7.7 syllables per second, but the two languages convey information at very similar rates: Vietnamese at a rate of around 42.5 bits per second and Spanish at a rate of around 42.0 bits per second. Thus, the description of Vietnamese conveying information at around the same rate that Spanish does despite being spoken more slowly supports the claim in the text that languages can convey the same amount of information even if spoken at different rates.&nbsp;</p><p>Choice A is incorrect because it isn&rsquo;t true that Thai and Hungarian have the lowest rates of speech of the five languages shown. According to the table, Hungarian is spoken at around 5.9 syllables per second, which is faster than Vietnamese (5.3 syllables per second). Additionally, even if this statement were true, the assertion that two languages are spoken the slowest and convey information the slowest wouldn&rsquo;t support the claim that languages can convey the same amount of information even if they&rsquo;re spoken at different rates.&nbsp;Choice C is incorrect because it isn&rsquo;t true that the fastest-spoken language (Spanish, at 7.7 syllables per second) also conveys information the fastest: Spanish conveys information at 42.0 bits per second, which is slower than the 42.5 bits-per-second rate at which Vietnamese conveys information. Additionally, even if this statement were true, the assertion that the language spoken the fastest also conveys information the fastest has no bearing on the claim that languages can convey the same amount of information even if they&rsquo;re spoken at different rates.&nbsp;Choice D is incorrect because it isn&rsquo;t true that Serbian conveys information faster than Spanish does. According to the table, Serbian conveys information at a rate of around 39.1 bits per second, which is slower than the 42.0 bits-per-second rate at which Spanish conveys information.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes data from the table that support the researchers&rsquo; claim?</p>",
+  "externalid": "9557f652-fc18-4b47-a8e1-638716b0eec7",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Approximate Rates of Speech and Information Conveyed for Five Languages</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Language</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Rate of speech (syllables per second)</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Rate of information conveyed (bits per second)</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">Serbian</th><td style=\"text-align: center;\">7.2</td><td style=\"text-align: center;\">39.1</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Spanish</th><td style=\"text-align: center;\">7.7</td><td style=\"text-align: center;\">42.0</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Vietnamese</th><td style=\"text-align: center;\">5.3</td><td style=\"text-align: center;\">42.5</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Thai</th><td style=\"text-align: center;\">4.7</td><td style=\"text-align: center;\">33.8</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Hungarian</th><td style=\"text-align: center;\">5.9</td><td style=\"text-align: center;\">34.6</td></tr></tbody></table></figure></p>\n<p>A group of researchers working in Europe, Asia, and Oceania conducted a study to determine how quickly different Eurasian languages are typically spoken (in syllables per second) and how much information they can effectively convey (in bits per second). They found that, although languages vary widely in the speed at which they are spoken, the amount of information languages can effectively convey tends to vary much less. Thus, they claim that two languages with very different spoken rates can nonetheless convey the same amount of information in a given amount of time.&nbsp;</p>",
+  "templateclusterid": "d0294017-e1d8-4998-a51c-e891580b5046",
+  "parenttemplatename": "OSP-508-QUA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "5772d6a7-49a4-43fc-9b16-d9ab2087aebe",
+      "content": "<p>Among the five languages in the table, Thai and Hungarian have the lowest rates of speech and the lowest rates of information conveyed.</p>"
+    },
+    {
+      "id": "807cfc5f-06cb-4a88-a24d-905b5bed3e8c",
+      "content": "<p>Vietnamese conveys information at approximately the same rate as Spanish despite being spoken at a slower rate.</p>"
+    },
+    {
+      "id": "ccd12705-b14b-4992-ba02-9a53a87ac806",
+      "content": "<p>Among the five languages in the table, the language that is spoken the fastest is also the language that conveys information the fastest.</p>"
+    },
+    {
+      "id": "91d39d53-0bde-4885-9d82-9cf51bc77241",
+      "content": "<p>Serbian and Spanish are spoken at approximately the same rate, but Serbian conveys information faster than Spanish does.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "2e2724f5-d95b-487b-9f09-6b5531f39542",
+  "keys": [
+    "7b65c0f8-b042-4898-bc46-fbdfc9dd534c"
+  ],
+  "rationale": "<p>Choice D is the best answer because it accurately states the text&rsquo;s main purpose. The poem begins with the speaker urging a child to &ldquo;go forth&rdquo; with her encouragement (&ldquo;my heart&rsquo;s desire&rdquo;). The speaker goes on to suggest that new experiences (&ldquo;Great reaches, yet unknown&rdquo;) lie ahead for the son that &ldquo;life is calling&rdquo; him to seek out. Thus, the main purpose is to encourage a child to embrace the experiences available to him in his life. </p><p>Choice A is incorrect because the speaker encourages the child to pursue new experiences (&ldquo;Great reaches&rdquo;) without knowing exactly what those experiences will be (&ldquo;yet unknown&rdquo;) or suggesting that they should match the speaker&rsquo;s own accomplishments. Choice B is incorrect because the speaker focuses on positive possibilities for her son (&ldquo;Great reaches, yet unknown&rdquo;) and her enthusiastic encouragement to embrace those possibilities (&ldquo;life is calling you!&rdquo;), while there is no mention of raising a child or associated struggles. Choice C is incorrect because the speaker frames the possibilities for her son in a positive light when she says that &ldquo;great reaches, yet unknown&rdquo; are waiting for him, and this positive outlook for the son is consistent throughout the text. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main purpose of the text? </p>",
+  "externalid": "926776f3-b17f-41a4-a3d2-ec4626de0ab5",
+  "stimulus": "<p>The following text is from Georgia Douglas Johnson&rsquo;s 1922 poem &ldquo;Benediction.&rdquo;</p>\n<p style=\"padding-left:1em;\">Go forth, my son,<br>Winged by my heart&rsquo;s desire!<br>Great reaches, yet unknown,<br>Await<br>For your possession.<br>I may not, if I would,<br>Retrace the way with you,<br>My pilgrimage is through,<br>But life is calling you!</p>",
+  "templateclusterid": "da68c905-3997-478f-995e-b5cb45d759e6",
+  "parenttemplatename": "OSP-020-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "a4557f17-dc85-4515-8d03-d75ae883ff0c",
+      "content": "<p>To express hope that a child will have the same accomplishments as his parent did</p>"
+    },
+    {
+      "id": "6a488771-3b35-414f-bb91-bba8077aa27c",
+      "content": "<p>To suggest that raising a child involves many struggles</p>"
+    },
+    {
+      "id": "5385d1fe-4210-4b8e-9aa7-53864f0299cc",
+      "content": "<p>To warn a child that he will face many challenges throughout his life</p>"
+    },
+    {
+      "id": "7b65c0f8-b042-4898-bc46-fbdfc9dd534c",
+      "content": "<p>To encourage a child to embrace the experiences life will offer</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

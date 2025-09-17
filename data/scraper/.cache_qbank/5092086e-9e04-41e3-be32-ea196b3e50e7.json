@@ -1,0 +1,38 @@
+{
+  "vaultid": "6afa030d-1ebb-4598-b782-765acd882f09",
+  "keys": [
+    "63bcb6c2-61ce-4e1f-993d-0d03cdbf5cf6"
+  ],
+  "rationale": "<p>Choice C is the best answer. \"Indeed\" logically signals that the information in this sentence&mdash;that Laleh Mehran&rsquo;s installation resembled both a typical movie theater and a coal mine&mdash;supports the previous sentence&rsquo;s claim that the space Mehran created felt both \"familiar and distant.\"</p><p>Choice A is incorrect because \"next\" illogically signals that the description of Laleh Mehran&rsquo;s installation in this sentence is the next step in a process. Rather, it supports the previous sentence&rsquo;s claim about Mehran&rsquo;s installation. Choice B is incorrect because \"nevertheless\" illogically signals that the information in this sentence is true despite the claim about Laleh Mehran&rsquo;s installation in the previous sentence. Rather, it supports that claim. Choice D is incorrect because \"instead\" illogically signals that this sentence presents an alternative to the previous sentence&rsquo;s claim about Laleh Mehran&rsquo;s installation. Rather, it supports that claim.</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "5092086e-9e04-41e3-be32-ea196b3e50e7",
+  "stimulus": "<p>With her room-sized installation <em>The Interstitium</em>, Iranian American artist Laleh Mehran succeeded in creating a space that felt, as intended, both &ldquo;familiar and distant.&rdquo; <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> with a video screen placed at the far end of the coal slag-encrusted room, her installation was reminiscent of a typical movie theater&mdash;albeit one found in a subterranean coal mine.</p>",
+  "templateclusterid": "091dde4b-492a-4571-bfd9-e5c4cf8868d0",
+  "parenttemplatename": "OSP-271-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "5ef80259-fe5b-4ca4-8d71-80de67781843",
+      "content": "<p>Next,</p>"
+    },
+    {
+      "id": "322a8c62-abdb-4f12-8343-4ab724838ef9",
+      "content": "<p>Nevertheless,</p>"
+    },
+    {
+      "id": "63bcb6c2-61ce-4e1f-993d-0d03cdbf5cf6",
+      "content": "<p>Indeed,</p>"
+    },
+    {
+      "id": "21e354b0-fc2d-4de4-a3cd-f8fdd0c0aa26",
+      "content": "<p>Instead,</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

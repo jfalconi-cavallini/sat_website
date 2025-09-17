@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Increased gender diversity is revitalizing the field of economics, according to Harvard&rsquo;s Claudia Goldin. The trailblazing accomplishments of Goldin, winner of the 2023 Nobel Prize in Economics for her work on women in the labor force, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> to the value of scholars of diverse backgrounds in spurring research into previously unexplored, but vitally important, topics.</p>",
+  "keys": [
+    "f5d5c44e-67c9-40c2-9ba7-4a8fe89cd275"
+  ],
+  "answerOptions": [
+    {
+      "id": "011dc8ec-e59a-4edc-a949-db3fb085aaec",
+      "content": "<p>attests</p>"
+    },
+    {
+      "id": "d1db1ed8-7b7f-4d14-bbeb-ad24925758f7",
+      "content": "<p>has attested</p>"
+    },
+    {
+      "id": "9bd4a26b-a56b-4a3f-a38d-fbf4255f9489",
+      "content": "<p>is attesting</p>"
+    },
+    {
+      "id": "f5d5c44e-67c9-40c2-9ba7-4a8fe89cd275",
+      "content": "<p>attest</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is subject-verb agreement. The plural verb \"attest\" agrees in number with the plural subject \"trailblazing accomplishments.\"</p><p>Choice A is incorrect because the singular verb \"attests\" doesn&rsquo;t agree in number with the plural subject \"trailblazing accomplishments.\" Choice B is incorrect because the singular verb \"has attested\" doesn&rsquo;t agree in number with the plural subject \"trailblazing accomplishments.\" Choice C is incorrect because the singular verb \"is attesting\" doesn&rsquo;t agree in number with the plural subject \"trailblazing accomplishments.\"</p>",
+  "externalid": "06a10eeb-f1d8-451b-a59e-6fa8b92f8fab",
+  "correct_answer": [
+    "D"
+  ]
+}

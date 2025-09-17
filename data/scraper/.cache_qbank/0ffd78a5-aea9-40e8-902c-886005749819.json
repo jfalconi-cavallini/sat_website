@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best describes the function of the underlined portion?</p>",
+  "stimulus": "<p>The people of medieval Europe have traditionally been seen as uninterested in cleanliness and hygiene, but modern research has shown that this is largely a myth. According to historian Eleanor Janega, most medieval towns in Europe had at least one public bathhouse, which often offered both full-immersion baths and&mdash;more affordably&mdash;steam baths. <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">While such amenities were available mainly to town dwellers</span>, regular bathing in rivers and streams or daily sponge baths at home were common practices throughout medieval Europe.</p>",
+  "type": "mcq",
+  "keys": [
+    "7896d409-7283-4d37-ac2e-6b10a9afa734"
+  ],
+  "answerOptions": [
+    {
+      "id": "741601b8-6583-4dbc-a425-401ef76aeaa6",
+      "content": "<p>It asserts that in medieval Europe steam baths were more popular in rural areas than in urban ones.</p>"
+    },
+    {
+      "id": "9964df0c-56ce-4e40-8750-3a068227235f",
+      "content": "<p>It describes a limitation of earlier historians&rsquo; studies of medieval European bathing habits.</p>"
+    },
+    {
+      "id": "7896d409-7283-4d37-ac2e-6b10a9afa734",
+      "content": "<p>It concedes that not all people in medieval Europe had access to public bathhouses.</p>"
+    },
+    {
+      "id": "19939942-88bb-48af-a4c7-ae2c0dd21701",
+      "content": "<p>It explains why Janega decided to study the popularity of public bathhouses in medieval Europe.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most effectively describes the function of the underlined portion. The text discusses the long-standing misconception that people in medieval Europe were uninterested in cleanliness and hygiene. As evidence that this idea is false, the text cites historian Eleanor Janega&rsquo;s assertion that in medieval Europe, towns usually had at least one bathhouse, where people could take immersion baths or steam baths for a fee. The underlined portion then notes that mainly town dwellers had access to these bathhouses. The remainder of the text explains that those who lacked such access were nonetheless able to bathe in outdoor waterways or take sponge baths at home. Therefore, the underlined portion concedes that some people in medieval Europe lacked access to public bathhouses.</p><p>Choice A is incorrect. The underlined portion establishes that amenities such as steam baths were mainly available to town dwellers, which suggests in turn that steam baths were largely unavailable to people in rural areas. Thus, the distinction made by the underlined portion is not between the popularity of steam baths in towns versus their lack of popularity in rural areas but instead between their presence in towns and absence in rural areas. Choice B is incorrect. Although the text does explain that recent historians have disproved the idea that medieval Europeans rarely bathed, it doesn&rsquo;t attribute that misconception to earlier historians of medieval Europe or suggest that their research was subject to limitations. Moreover, the underlined portion addresses a limitation of life in medieval Europe, not of historical research. Choice D is incorrect because the underlined portion doesn&rsquo;t address why historian Eleanor Janega decided to study the popularity of public bathhouses in medieval Europe&mdash;nor does any portion of the text. The text mentions Janega in passing, but it doesn&rsquo;t go into detail about why she decided to study the popularity of public bathhouses in medieval Europe.</p>",
+  "externalid": "0ffd78a5-aea9-40e8-902c-886005749819",
+  "correct_answer": [
+    "C"
+  ]
+}

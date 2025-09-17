@@ -1,0 +1,38 @@
+{
+  "vaultid": "cb02357d-ded1-442c-938b-5b0b08674b74",
+  "keys": [
+    "2752dad7-693a-4888-9d7c-147b9638042e"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of delivering biomolecules to plant cells. In this context, &ldquo;overcome&rdquo; means to succeed in dealing with an obstacle. The text suggests that although it&rsquo;s difficult to move biomolecules through plant cell walls, Landry and her colleagues have shown that carbon nanotubes may be useful, since they can cross cell walls. This context conveys that Landry and her colleagues think it&rsquo;s possible, using carbon nanotubes, to succeed in dealing with the obstacle of transmitting biomolecules to plant cells. </p><p>Choice A is incorrect because it wouldn&rsquo;t make sense in context to say that Landry and her colleagues have shown that it may be possible to &ldquo;conceptualize,&rdquo; or form an idea of, the difficulty of transmitting biomolecules through the walls of plant cells. The text presents this difficulty as a known problem that Landry and her colleagues think they may have solved, not as a mysterious occurrence that they have yet to form ideas about. Choice B is incorrect because the text suggests that Landry and her colleagues think it may be possible to successfully deal with the problem of transmitting biomolecules through the walls of plant cells, not that Landry and her colleagues think it may be possible to &ldquo;neglect,&rdquo; or simply to disregard and ignore the problem. Choice C is incorrect because it wouldn&rsquo;t make sense in context to say that Landry and her colleagues have shown that it may be possible to &ldquo;illustrate,&rdquo; or demonstrate, the difficulty of transmitting biomolecules through the walls of plant cells by using carbon nanotubes. According to the text, carbon nanotubes allow molecules to be transmitted to plant cells&mdash;something that is otherwise difficult to do. The text therefore presents carbon nanotubes as a way of possibly solving a problem, not as a means of demonstrating the problem. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "cea065bc-7b0e-462f-becd-f5577217fd37",
+  "stimulus": "<p>Artificially delivering biomolecules to plant cells is an important component of protecting plants from pathogens, but it is difficult to transmit biomolecules through the layers of the plant cell wall. Markita del Carpio Landry and her colleagues have shown that it may be possible to <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> this problem by transmitting molecules through carbon nanotubes, which can cross cell walls.</p>",
+  "templateclusterid": "7c1bdfa0-0b2f-455c-b1b6-ec41aab5d589",
+  "parenttemplatename": "OSP-922-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "17331b1d-30df-43c7-a8ee-5c4134c318f6",
+      "content": "<p>conceptualize</p>"
+    },
+    {
+      "id": "12cb0ca3-f62b-4bbf-9f4e-a4fbfb26f62b",
+      "content": "<p>neglect</p>"
+    },
+    {
+      "id": "5f620aad-6044-4e12-8d6a-68853cab2029",
+      "content": "<p>illustrate</p>"
+    },
+    {
+      "id": "2752dad7-693a-4888-9d7c-147b9638042e",
+      "content": "<p>overcome</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

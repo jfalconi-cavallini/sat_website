@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Multiple newspapers <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the Spanish-speaking population of Washington, DC, including <em>El Tiempo Latino</em> and <em>Washington Hispanic</em>.</p>",
+  "type": "mcq",
+  "keys": [
+    "4b6a71bb-7d5f-42be-9c1c-f4155adb07ee"
+  ],
+  "answerOptions": [
+    {
+      "id": "4b6a71bb-7d5f-42be-9c1c-f4155adb07ee",
+      "content": "<p>serve</p>"
+    },
+    {
+      "id": "2ba5e278-837d-4b0a-88bb-759c9934c14a",
+      "content": "<p>having served</p>"
+    },
+    {
+      "id": "f7bf698b-7218-4bb7-99ac-6e7dc106c8a5",
+      "content": "<p>to serve</p>"
+    },
+    {
+      "id": "69513e5e-f4d7-4340-bc66-040f0261b5af",
+      "content": "<p>serving</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of verb forms within a sentence. A main clause requires a finite (tensed) verb to perform the action of the subject (in this case, \"multiple newspapers\"), and this choice supplies the finite present tense verb \"serve\" to indicate that there are multiple newspapers serving the Spanish-speaking population of Washington, DC.</p><p>Choice B is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"having served\" doesn&rsquo;t supply the main clause with a finite verb. Choice C is incorrect because it results in an ungrammatical sentence. The nonfinite to-infinitive \"to serve\" doesn&rsquo;t supply the main clause with a finite verb. Choice D is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"serving\" doesn&rsquo;t supply the main clause with a finite verb.</p>",
+  "externalid": "51e3afc5-5b0e-44ac-ba31-71b85c36fa37",
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>The Younger Dryas was a period of extreme cooling from 11,700 to 12,900 years ago in the Northern Hemisphere. Some scientists argue that a comet fragment hitting Earth brought about the cooling. Others disagree, partly because there is no known crater from such an impact that dates to the beginning of the period. In 2015, a team led by Kurt Kj&aelig;r detected a 19-mile-wide crater beneath a glacier in Greenland. The scientists who believe an impact caused the Younger Dryas claim that this discovery supports their view. However, Kj&aelig;r&rsquo;s team hasn&rsquo;t yet been able to determine the age of the crater. Therefore, the team suggests that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "285ab51d-b2d8-45c0-a4d1-328b8e29b197"
+  ],
+  "answerOptions": [
+    {
+      "id": "285ab51d-b2d8-45c0-a4d1-328b8e29b197",
+      "content": "<p>it can&rsquo;t be concluded that the impact that made the crater was connected to the beginning of the Younger Dryas.</p>"
+    },
+    {
+      "id": "578f1141-64a8-4a63-bcb1-2ee7a8d220a5",
+      "content": "<p>it can&rsquo;t be determined whether a comet fragment could make a crater as large as 19 miles wide.</p>"
+    },
+    {
+      "id": "0e37a9b3-3353-4221-a4a4-5c142dea635e",
+      "content": "<p>scientists have ignored the possibility that something other than a comet fragment could have made the crater.</p>"
+    },
+    {
+      "id": "e7282342-0fb7-4c5c-be26-5d4497484adf",
+      "content": "<p>the scientists who believe an impact caused the Younger Dryas have made incorrect assumptions about when the period began.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of a crater&rsquo;s connection to the start of the Younger Dryas. According to the text, some scientists believe that a comet fragment hitting Earth caused the cooling of the Younger Dryas period to come about. The text then indicates that a team of scientists found a crater in Greenland, which some believe supports the theory of a comet fragment hitting Earth to initiate the Younger Dryas. However, the text also notes that the team was unable to determine the age of the crater. If the age of the crater can&rsquo;t be determined, then its connection to the Younger Dryas period of time can&rsquo;t be confirmed either. Thus, it can&rsquo;t be concluded that the impact that made the crater was connected to the beginning of the Younger Dryas.</p><p>Choice B is incorrect because though the text suggests that the age of the comet crater found by a team of scientists is uncertain, it doesn&rsquo;t address whether a comet fragment can make a crater as large as 19 miles wide. The text doesn&rsquo;t consider the size of comet fragments and how they relate to the size of craters they might make. Choice C is incorrect because the debate in the text centers on the age of the crater found, not the cause of the crater. The text doesn&rsquo;t indicate uncertainty about what caused the discovered crater. Choice D is incorrect because the text suggests that the age of the crater found by the team of scientists is uncertain, not that the dates of the Younger Dryas are uncertain or incorrect. The text states that \"the Younger Dryas was a period of extreme cooling from 11,700 to 12,900 years ago\" but doesn&rsquo;t indicate any debate about the timing of the period.</p>",
+  "externalid": "1ed4ac27-d126-4d76-bede-761cd94cd8c9",
+  "correct_answer": [
+    "A"
+  ]
+}

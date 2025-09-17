@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which finding, if true, would most strongly support the underlined explanation?</p>",
+  "stimulus": "<p>Gorgets, or necklaces with large pendants, have been part of the ceremonial attire of tribes from the US Southeast for centuries. One of the oldest examples, the Fairfield Gorget, was found in Fairfield, Missouri, in 1958. Its overall design resembles that of other art from the region during the Mississippian period (900&ndash;1600 CE). Yet the image on the gorget is of a jaguar&mdash;a species whose range doesn&rsquo;t extend to Missouri. Jaguar images are common in ancient Mexican art, and Mexico lies squarely in the species&rsquo; range. Therefore, some scholars argue that <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">long-distance trade in Mexican art objects brought the imagery to Missouri, where a local artist could have adopted it and incorporated it into the Fairfield Gorget.</span></p>",
+  "type": "mcq",
+  "keys": [
+    "351372a4-4693-46b1-92d9-8aeb17aafc5a"
+  ],
+  "answerOptions": [
+    {
+      "id": "442634c4-5cd8-4b72-9f67-1379d8b80186",
+      "content": "<p>The Fairfield Gorget is dated not to the Mississippian period but instead to the earlier Woodland period, which ended around 900 CE.</p>"
+    },
+    {
+      "id": "ac663867-e386-4708-803a-e2d4262fceda",
+      "content": "<p>The range of the jaguar is shown to have expanded dramatically after the Mississippian period came to a close around 1600 CE.</p>"
+    },
+    {
+      "id": "351372a4-4693-46b1-92d9-8aeb17aafc5a",
+      "content": "<p>An ancient Mexican art object is found at a site that dates to the Mississippian period and is close to where the Fairfield Gorget was found.</p>"
+    },
+    {
+      "id": "0a95f49a-6e1f-485b-9746-e82fa7f7d626",
+      "content": "<p>Certain works by present-day artists from Southeastern tribes reflect outside cultural influences, including contemporary Mexican art.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it presents a finding that, if true, would most strongly support the underlined explanation that the jaguar imagery on the Fairfield Gorget could have been inspired by art objects brought to Missouri from Mexico. The text describes the Fairfield Gorget as one of the oldest examples of these necklaces, noting that it&rsquo;s similar to other art from the Mississippian period except for its image of a jaguar. The text goes on to explain that this is unusual because the jaguar&rsquo;s range didn&rsquo;t include Missouri. The Fairfield Gorget&rsquo;s artist likely wouldn&rsquo;t have encountered a live jaguar, but since such jaguar images were common in ancient Mexican art (and the jaguar&rsquo;s range did include Mexico), perhaps some of that art inspired the gorget&rsquo;s artist. Therefore, evidence that an ancient Mexican art object had been found at a site that was close to the Fairfield Gorget in both location and time period would strongly support the explanation that long-distance trade from Mexico took place during the Mississippian period and that jaguar imagery could have reached Missouri by those means.</p><p>Choice A is incorrect. The underlined explanation indicates that Mexican artistic influence preceded the creation of the Fairfield Gorget. An artifact from Mexico that appeared in Missouri only after the gorget was created cannot support such a claim. Choice B is incorrect. The underlined explanation pertains to whether the jaguar image on the Fairfield Gorget was suggested to the Mississippian artist who made it by encounters with depictions of jaguars in Mexican art. The appearance of jaguars in Missouri after the Mississippian period cannot provide evidence for such a claim. Choice D is incorrect. The underlined explanation pertains to influence that Mexican art might have had on Mississippian art, restricted to the period from 900 CE to 1600 CE. The actions of contemporary artists cannot provide evidence for centuries-old networks of artistic influence and exchange.</p>",
+  "externalid": "17089083-33c6-4d4c-9f5d-eb517d0a9341",
+  "correct_answer": [
+    "C"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "24932f8f-e771-4d0f-b4dd-8075b3cee877",
+  "keys": [
+    "7cf33e36-b866-4f2a-adef-e35a564b6b84"
+  ],
+  "rationale": "<p>Choice B is the best answer. &ldquo;Additionally&rdquo; logically signals that the claim in this sentence&mdash;that some Supreme Court justices worry that viewers (of televised court arguments) would watch only short, misleading clips&mdash;adds to the information in the previous sentence. Specifically, the previous sentence indicates one concern raised by those opposed to televising the court&rsquo;s oral arguments, and the claim that follows indicates a second, additional concern. </p><p>Choice A is incorrect because &ldquo;however&rdquo; illogically signals that the claim in this sentence contrasts with the information in the previous sentence. Instead, the claim adds to the information, indicating a second, additional concern that some Supreme Court justices have about televising the court&rsquo;s arguments. Choice C is incorrect because &ldquo;in comparison&rdquo; illogically signals that the claim in this sentence is being compared to the information in the previous sentence. Instead, the claim adds to the information, indicating a second, additional concern that some Supreme Court justices have about televising the court&rsquo;s arguments. Choice D is incorrect because &ldquo;for example&rdquo; illogically signals that the claim in this sentence exemplifies the information in the previous sentence. Instead, the claim adds to the information, indicating a second, additional concern that some Supreme Court justices have about televising the court&rsquo;s arguments. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "cc59c3a6-c63d-42cd-bc64-889005894301",
+  "stimulus": "<p>Some members of the US Supreme Court have resisted calls to televise the court&rsquo;s oral arguments, concerned that the participants would be tempted to perform for the cameras (and thus lower the quality of the discourse). <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the justices worry that most viewers would not even watch the full deliberations, only short clips that could be misinterpreted and mischaracterized.</p>",
+  "templateclusterid": "3caa7127-181b-4e11-a26a-635e937f1b5a",
+  "parenttemplatename": "OSP-213-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "7d1d6bc4-9c6a-4f64-a34b-771ca32f98cb",
+      "content": "<p>However,</p>"
+    },
+    {
+      "id": "7cf33e36-b866-4f2a-adef-e35a564b6b84",
+      "content": "<p>Additionally,</p>"
+    },
+    {
+      "id": "828c46e4-6397-487d-8568-9766bf337adf",
+      "content": "<p>In comparison,</p>"
+    },
+    {
+      "id": "a06756e8-8938-47f3-81a9-4b3a6cdadc6a",
+      "content": "<p>For example,</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

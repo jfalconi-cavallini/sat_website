@@ -1,0 +1,38 @@
+{
+  "vaultid": "ef0948e5-0c17-47ed-b5fb-7b5439a01072",
+  "keys": [
+    "fef1a796-0186-4242-8abb-ddac8a808858"
+  ],
+  "rationale": "<p>Choice D is the best answer. &ldquo;Thus&rdquo; logically signals that the claim in this sentence&mdash;that animals performing only basic actions should allocate relatively few resources to their brain tissue&mdash;is a consequence of the previous sentence&rsquo;s claim about the energy demands of animal brains (namely, that the more diverse an animal&rsquo;s behaviors, the more energy its brain needs).&nbsp;</p><p>Choice A is incorrect because &ldquo;subsequently&rdquo; illogically signals that the claim in this sentence occurs later in a chronological sequence of events than the previous sentence&rsquo;s claim about the energy demands of animal brains. Instead, the second claim is a consequence of the first. Choice B is incorrect because &ldquo;besides&rdquo; illogically signals that the claim in this sentence provides a separate point in addition to, or apart from, the previous sentence&rsquo;s claim about the energy demands of animal brains. Instead, the second claim is a consequence of the first. Choice C is incorrect because &ldquo;nevertheless&rdquo; illogically signals that the claim in this sentence is true in spite of the previous sentence&rsquo;s claim about the energy demands of animal brains. Instead, the second claim is a consequence of the first. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "488f2a13-c361-4378-acf9-b34bbb6267c4",
+  "stimulus": "<p>The more diverse and wide ranging an animal&rsquo;s behaviors, the larger and more energy demanding the animal&rsquo;s brain tends to be.  <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> from an evolutionary perspective, animals that perform only basic actions should allocate fewer resources to growing and maintaining brain tissue. The specialized subtypes of ants within colonies provide an opportunity to explore this hypothesis.&nbsp;</p>",
+  "templateclusterid": "14fd89fa-20b1-4858-ad7a-d3bd8428871f",
+  "parenttemplatename": "OSP-215-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "268c4179-bc36-4e68-80c5-c8ab98d3796b",
+      "content": "<p>Subsequently,</p>"
+    },
+    {
+      "id": "9d002791-01b6-4eb5-9a0c-8f4bf57659ca",
+      "content": "<p>Besides,</p>"
+    },
+    {
+      "id": "c1bb0d66-90d6-48c2-930e-fb93bfcea7a4",
+      "content": "<p>Nevertheless,</p>"
+    },
+    {
+      "id": "fef1a796-0186-4242-8abb-ddac8a808858",
+      "content": "<p>Thus,</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

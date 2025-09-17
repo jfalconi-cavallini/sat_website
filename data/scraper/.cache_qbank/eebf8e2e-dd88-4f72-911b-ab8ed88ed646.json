@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Each night in Gij&oacute;n, Spain, a section of the city&rsquo;s marina is bathed in a soft green glow. The source of the glow is the &Aacute;rbol de la Sidra, a large sculpture made up of 3,200 recycled glass bottles. A lamp inside the tree-shaped structure <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the green glass.</p>",
+  "type": "mcq",
+  "keys": [
+    "67b60ba9-5b89-42df-a046-86f8faac09be"
+  ],
+  "answerOptions": [
+    {
+      "id": "6182342d-833f-4b1f-ac8e-4d945ef6f8c2",
+      "content": "<p>will be illuminating</p>"
+    },
+    {
+      "id": "67b60ba9-5b89-42df-a046-86f8faac09be",
+      "content": "<p>illuminates</p>"
+    },
+    {
+      "id": "8d9381aa-d8f0-437d-82e3-e8ac2562d188",
+      "content": "<p>would illuminate</p>"
+    },
+    {
+      "id": "b3f72a57-1d5f-43e3-be5a-1afeb4b48228",
+      "content": "<p>illuminated</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the use of verbs to express tense. In this choice, the present tense verb \"illuminates\" is consistent with the other present tense verb (\"is\") used to describe the sculpture, correctly indicating that the sculpture habitually glows (\"each night\") and that the lamp inside is the source of its illumination.</p><p>Choice A is incorrect because the future progressive tense verb \"will be illuminating\" isn&rsquo;t consistent with the other present tense verb used to describe the sculpture and the source of its glow. Choice C is incorrect because the modal  \"would,\" which is used to indicate a typical behavior in the past, isn&rsquo;t consistent with the other present tense verb used to describe the sculpture and the source of its glow. Choice D is incorrect because the past tense verb \"illuminated\" isn&rsquo;t consistent with the other present tense verb used to describe the sculpture and the source of its glow.</p>",
+  "externalid": "eebf8e2e-dd88-4f72-911b-ab8ed88ed646",
+  "correct_answer": [
+    "B"
+  ]
+}

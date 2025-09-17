@@ -1,0 +1,38 @@
+{
+  "vaultid": "9ca87d98-beaf-4c4f-abc8-00581341a3a8",
+  "keys": [
+    "5833d375-9d18-443a-91ea-043c5e3e5954"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between one sentence (&ldquo;Defying&hellip;fast&rdquo;) and another sentence that begins with a supplementary phrase (&ldquo;During&hellip;Olympics&rdquo;). </p><p>Choice A is incorrect. When a dash is present in a sentence (&ldquo;ran&mdash;fast&rdquo;), it&rsquo;s not conventional to use another dash (&ldquo;fast&mdash;during&rdquo;) to mark the boundary between sentences because it creates a potentially confusing sentence. In this context, a period, semicolon, or colon would be clear and more conventional. Choice B is incorrect because it results in a run-on sentence. The sentences (&ldquo;Defying&hellip;fast&rdquo;) and (&ldquo;during&hellip;Olympics&rdquo;) are fused without punctuation and/or a conjunction. Choice C is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to mark the boundary between sentences. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "78f6a3d3-014c-4f0b-b669-c873155cf2c3",
+  "stimulus": "<p>After a spate of illnesses as a child, Wilma Rudolph was told she might never walk again. Defying all odds, Rudolph didn&rsquo;t just walk, she <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the 1960 Summer Olympics in Rome, she won both the 100- and 200-meter dashes and clinched first place for her team in the 4x100-meter relay, becoming the first US woman to win three gold medals in a single Olympics. </p>",
+  "templateclusterid": "bec437e0-e640-4c34-ae5c-8b70f2e54f45",
+  "parenttemplatename": "OSP-641-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "b6f4071a-be0a-4cef-99c1-e17f1dca1cf7",
+      "content": "<p>ran&mdash;fast&mdash;during</p>"
+    },
+    {
+      "id": "ddd90ce0-b593-437b-a242-7346795e76da",
+      "content": "<p>ran&mdash;fast during</p>"
+    },
+    {
+      "id": "6388f221-0ee1-4841-8ace-f89160c297e2",
+      "content": "<p>ran&mdash;fast, during</p>"
+    },
+    {
+      "id": "5833d375-9d18-443a-91ea-043c5e3e5954",
+      "content": "<p>ran&mdash;fast. During</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

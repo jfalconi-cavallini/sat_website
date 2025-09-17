@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best describes the function of the underlined sentence in the text as a whole?</p>",
+  "stimulus": "<p>Were penguins always flightless? <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">Theresa Cole and her team argue that penguins could fly at some point, but that they lost that ability more than 60 million years ago as they adapted to marine life.</span> After examining various penguin fossils and genetic information, the researchers concluded that over time penguins developed underwater vision, blood oxygenation, and bone density better suited for swimming than flying. Thus, environmental conditions might have driven penguins to change from flyers to swimmers.</p>",
+  "type": "mcq",
+  "keys": [
+    "ee75dfc1-6957-408e-9a18-571e21bcf3e2"
+  ],
+  "answerOptions": [
+    {
+      "id": "23649a17-0abb-415d-b2d4-3eb2dad18f71",
+      "content": "<p>It defines a scientific term used in the sentence that follows.</p>"
+    },
+    {
+      "id": "4bf1059f-49b3-4c4c-b4e7-a5b628c4d8b4",
+      "content": "<p>It contradicts a description in the sentence that follows.</p>"
+    },
+    {
+      "id": "ee75dfc1-6957-408e-9a18-571e21bcf3e2",
+      "content": "<p>It provides an answer to the question in the previous sentence.</p>"
+    },
+    {
+      "id": "c3f13135-9731-4b7c-9703-83f490b3a8d8",
+      "content": "<p>It notes that the question in the previous sentence has not been researched.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it best describes how the underlined sentence functions in the text as a whole. The text begins with a question: have penguins always been unable to fly? The underlined sentence then presents an answer that has been offered by researchers, indicating that Theresa Cole and her team believe that penguins were once able to fly but lost that ability long ago as they began living in the sea. The text then describes the research that led to that answer. Thus, the function of the underlined sentence is to provide an answer to the question in the previous sentence.</p><p>Choice A is incorrect because none of the terms used in the sentence that follows are defined in the underlined sentence; no definitions are given at all. Instead, the sentence presents Theresa Cole and her team&rsquo;s answer to the earlier question about penguins&rsquo; ability to fly. Choice B is incorrect because there is no contradiction between the underlined sentence and the sentence that follows since both convey that at some point penguins underwent adaptations that limited their ability to fly and helped them swim and live in the sea. Instead of contradicting later information, the underlined sentence presents an answer to the earlier question about penguins&rsquo; ability to fly. Choice D is incorrect because the question in the previous sentence is about penguins&rsquo; ability to fly and the underlined sentence presents Theresa Cole and her team&rsquo;s answer to that question based on their research into penguin flight, which is described in the rest of the text.</p>",
+  "externalid": "16fda5ff-ff75-400f-aa99-6cbb9497d1be",
+  "correct_answer": [
+    "C"
+  ]
+}

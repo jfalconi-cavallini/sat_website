@@ -1,0 +1,38 @@
+{
+  "vaultid": "3398ffaf-f635-4df2-8d30-0a44799277a5",
+  "keys": [
+    "ff3ac0cb-e607-47a5-86ad-b43f96244b1e"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of the mechanisms underlying associative memory. The text explains that fan cells&mdash;a type of brain cell&mdash;are necessary for the acquisition of new associative memories, and that activity among these cells requires a chemical known as dopamine, which the brain produces in response to rewards. Since the brain cells that enable the formation of associative memories require dopamine in order to function, and since the brain produces dopamine in response to rewards, it can be inferred that receiving a reward should likely help to increase an individual&rsquo;s capacity to form associative memories. </p><p>Choice A is incorrect because the relationship between rewards and dopamine sketched by the text is that rewards result in the production of dopamine, not that they cause an individual&rsquo;s capacity to utilize dopamine to decrease. Choice B is incorrect. The text suggests that receiving a reward would produce dopamine and thereby assist with associative memory formation. However, the text never suggests that associative memory involves the capacity to recognize differences between unrelated things, indicating only that associative memory involves remembering what connects those things. Choice D is incorrect because the text never discusses how fan cells are initially created and therefore provides no evidence for a conclusion about how receiving a reward would affect their creation.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "03bfc4d5-8347-47d5-b316-718229d88af8",
+  "stimulus": "<p>In a study of the mechanisms underlying associative memory&mdash;or the ability to learn and remember connections between inherently unrelated things&mdash;neuroscientists Kei Igarashi, Jasmine Chavez, and others presented mice with memory tests. The team discovered that fan cells, a type of cell found in the medial temporal lobe of the brain, are necessary for the acquisition of new associative memories. They also found that fan cell activity requires dopamine, a chemical the brain produces in response to pleasure and rewards. Consequently, receiving a reward should likely help to <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "114fa07a-8f2a-4bd0-b7cc-65bc65243c9a",
+  "parenttemplatename": "OSP-022-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "2b40a659-cac5-4f0b-ab7f-4ce8bf5910e7",
+      "content": "<p>decrease an individual&rsquo;s capacity to utilize dopamine.</p>"
+    },
+    {
+      "id": "0ed2c810-d394-4632-9f4b-3313940a3cd9",
+      "content": "<p>increase an individual&rsquo;s capacity to recognize differences between unrelated things.</p>"
+    },
+    {
+      "id": "ff3ac0cb-e607-47a5-86ad-b43f96244b1e",
+      "content": "<p>increase an individual&rsquo;s capacity to form associative memories.</p>"
+    },
+    {
+      "id": "7af1fd04-4f44-4973-a4f8-cf937dc7bda2",
+      "content": "<p>decrease an individual&rsquo;s capacity to create fan cells.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "ee2d3a93-6fed-403b-a38c-d13e970865aa",
+  "keys": [
+    "6950cfeb-371d-4216-963b-bd3013845208"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most effectively uses a quotation from &ldquo;Odalie&rdquo; to illustrate the claim that Odalie is eager to escape the monotony, or tedious lack of variety, of her everyday life. In the quotation, Odalie describes feeling &ldquo;shut up&rdquo; and complains that she has &ldquo;no companions&rdquo; except for her &ldquo;sleepy tante.&rdquo; Odalie goes on to say that, as a result, her life is &ldquo;dull&rdquo; and she is &ldquo;ready for any new sensation,&rdquo; meaning she wants a change. This suggests that Odalie wishes to get away from her monotonous everyday life. </p><p>Choice A is incorrect. Although this quotation includes the word &ldquo;tiresome,&rdquo; which means dull, it does so to suggest Odalie&rsquo;s negative feelings about Mardi Gras, which is a once-a-year celebration, not her feelings about her everyday life. This quotation therefore doesn&rsquo;t express that Odalie&rsquo;s everyday life is monotonous or that she wishes to escape. Choice B is incorrect. Although this quotation ends by saying that Odalie lives in seclusion, or isolation, it doesn&rsquo;t express that Odalie&rsquo;s everyday life is monotonous or that she wishes to escape. Instead, it describes the pleasant qualities of the house Odalie lives in, saying that it has &ldquo;quaint windows&rdquo; and a &ldquo;green and cool&rdquo; courtyard that is &ldquo;made musical&rdquo; by the sounds of a fountain and pet birds. Choice D is incorrect because this quotation describes the lively sounds of a Mardi Gras celebration that Odalie hears through her window, not the monotony of Odalie&rsquo;s everyday life or her wish to escape. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which quotation from &ldquo;Odalie&rdquo; most effectively illustrates the claim?</p>",
+  "externalid": "dbd13420-a4fe-4004-886a-8f3338082300",
+  "stimulus": "<p>&ldquo;Odalie&rdquo; is an 1899 short story by Alice Dunbar-Nelson. In the story, a young woman named Odalie attends the annual Mardi Gras carnival in New Orleans, where she lives with her guardian Tante Louise. Dunbar-Nelson portrays Odalie as eager to escape the monotony of her everyday life: <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "35feafbe-2b55-4d67-b297-13c36b3db0f0",
+  "parenttemplatename": "OSP-413-LIT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "6040b115-b9cc-41a5-9b94-7c6044750f50",
+      "content": "<p>&ldquo;Mardi Gras was a tiresome day, after all, she sighed, and Tante Louise agreed with her for once.&rdquo;</p>"
+    },
+    {
+      "id": "9f6410da-ca3f-42e7-af5c-12cbc4d75fcd",
+      "content": "<p>&ldquo;In the old French house on Royal Street, with its quaint windows and Spanish courtyard green and cool, and made musical by the plashing of the fountain and the trill of caged birds, lived Odalie in convent-like seclusion.&rdquo;</p>"
+    },
+    {
+      "id": "6950cfeb-371d-4216-963b-bd3013845208",
+      "content": "<p>&ldquo;When one is shut up in a great French house with a grim sleepy tante and no companions of one&rsquo;s own age, life becomes a dull thing, and one is ready for any new sensation.&rdquo;</p>"
+    },
+    {
+      "id": "932d9459-f0ff-4487-b63c-349590f178f9",
+      "content": "<p>&ldquo;It was Mardi Gras day at last, and early through her window Odalie could hear the jingle of folly bells on the [participants&rsquo;] costumes, the tinkle of music, and the echoing strains of songs.&rdquo;</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

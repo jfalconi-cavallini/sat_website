@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>On November 2, 1772, amid rising tensions with Great Britain, Boston colonists formed the Boston Committee of Correspondence. By 1774, what had started as a local means of mobilizing support for the Patriot cause had grown into something far more <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> network of such committees that, facilitating communication among the colonies, helped lay the groundwork for the Continental Congress. &nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "a57d7686-92df-46d2-9f6c-a69b4da14c70"
+  ],
+  "answerOptions": [
+    {
+      "id": "a57d7686-92df-46d2-9f6c-a69b4da14c70",
+      "content": "<p>extensive: a&nbsp;</p>"
+    },
+    {
+      "id": "d73f6575-64ca-49ef-938d-0233b96c79e9",
+      "content": "<p>extensive; a</p>"
+    },
+    {
+      "id": "22dbf2e5-6e7d-4e54-9a9e-a237bb07b861",
+      "content": "<p>extensive, it was a &nbsp;</p>"
+    },
+    {
+      "id": "a8cdb39e-97da-4db2-9afd-fb459d19599b",
+      "content": "<p>extensive. A&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of a colon within a sentence. In this choice, the colon is correctly used to introduce the following explanation of what the Patriot cause had grown into by 1774.</p><p>Choice B is incorrect because a semicolon can&rsquo;t be used in this way to join the main clause (\"what&hellip;extensive\") and the supplementary element  (\"a network&hellip;Congress\"). A semicolon is conventionally used to join two main clauses, whereas a colon is conventionally used to introduce an element that explains or amplifies the information in the preceding clause, making the colon the better choice in this context. Choice C is incorrect because it results in a comma splice. The addition of the pronoun and verb \"it was\" forms the start of a new main clause in the sentence, and a comma can&rsquo;t be used in this way to mark the boundary between two main clauses. Choice D is incorrect because it results in a rhetorically unacceptable sentence fragment beginning with \"a network.\"</p>",
+  "externalid": "ce93882d-e9b3-4571-9397-90d1592b6836",
+  "correct_answer": [
+    "A"
+  ]
+}

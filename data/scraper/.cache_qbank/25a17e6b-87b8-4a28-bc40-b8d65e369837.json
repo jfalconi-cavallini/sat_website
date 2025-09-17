@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Horsepower is a unit of measurement used to determine how much power a vehicle produces. The measurement is based on how much and how quickly weight can be <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> one unit of mechanical horsepower is equivalent to the amount of power it takes to lift 550 pounds one foot off the ground in one second.</p>",
+  "type": "mcq",
+  "keys": [
+    "ccd5e490-94d7-4926-91a4-24390e2898a3"
+  ],
+  "answerOptions": [
+    {
+      "id": "dfd8d5ef-48e6-4673-a6ae-063ca709c566",
+      "content": "<p>moved, for example,</p>"
+    },
+    {
+      "id": "ec63a4a0-d9fa-44c1-85a7-5fe38795ff2d",
+      "content": "<p>moved,</p>"
+    },
+    {
+      "id": "ccd5e490-94d7-4926-91a4-24390e2898a3",
+      "content": "<p>moved; for example,</p>"
+    },
+    {
+      "id": "c0650b9c-3f5e-47dd-868a-2f87b3b6fd98",
+      "content": "<p>moved</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of punctuation within a sentence. This choice uses a semicolon in a conventional way to join the first main clause (\"The measurement...moved\") and the second main clause (\"for example...second\").</p><p>Choice A is incorrect because it results in a comma splice. Without a coordinating conjunction, a comma can&rsquo;t be used in this way to join the two main clauses (\"The measurement&hellip;moved\" and \"for example&hellip;second\"). Choice B is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join the two main clauses (\"The measurement&hellip;moved\" and \"one unit&hellip;second\"). Choice D is incorrect because it results in a run-on sentence. The two main clauses (\"The measurement&hellip;moved\" and \"one unit&hellip;second\") are fused without punctuation and/or a conjunction.</p>",
+  "externalid": "25a17e6b-87b8-4a28-bc40-b8d65e369837",
+  "correct_answer": [
+    "C"
+  ]
+}

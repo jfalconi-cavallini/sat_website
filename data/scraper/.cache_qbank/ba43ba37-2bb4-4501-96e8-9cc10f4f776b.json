@@ -1,0 +1,38 @@
+{
+  "vaultid": "3aeb980d-bc12-41b4-bbf4-8204b3720896",
+  "keys": [
+    "50175419-76ba-4786-b35d-09c1938f2c0f"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested here is pronoun-antecedent agreement. The singular pronoun \"it\" agrees in number with the singular antecedent \"object.\"</p><p>Choice A is incorrect. The singular pronoun \"this\" is used to refer to a specific thing, but here there is no specific object being referred to. Instead, the sentence is referring back to a hypothetical object that Cave might use in a Soundsuit. Choice B is incorrect. The singular pronoun \"that\" is used to refer to a specific thing, but here there is no specific object being referred to. Instead, the sentence is referring back to a hypothetical object that Cave might use in a Soundsuit. Choice C is incorrect because the plural pronoun \"these\" doesn&rsquo;t agree in number with the singular antecedent \"object.\"</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "ba43ba37-2bb4-4501-96e8-9cc10f4f776b",
+  "stimulus": "<p>If you try on one of artist Nick Cave&rsquo;s signature Soundsuits, you can expect to swish, rustle, or clang every time you move. Cave makes his suits out of found objects, everything from ceramic birds to broken record players. He carefully considers the sound an object makes before using <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in a suit.</p>",
+  "templateclusterid": "fdc10fc4-4538-4018-b962-9170bc7bad8f",
+  "parenttemplatename": "OSP-722-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "2fcdd5bc-2c2c-40b0-94f3-33c52e06f683",
+      "content": "<p>this</p>"
+    },
+    {
+      "id": "824d2a9a-cca8-451e-93e6-9520934a722f",
+      "content": "<p>that</p>"
+    },
+    {
+      "id": "c9fa75bf-5fff-4d07-aff2-d7d31510ebf4",
+      "content": "<p>these</p>"
+    },
+    {
+      "id": "50175419-76ba-4786-b35d-09c1938f2c0f",
+      "content": "<p>it</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

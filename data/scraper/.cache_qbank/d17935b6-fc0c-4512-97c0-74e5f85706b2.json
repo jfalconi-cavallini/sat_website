@@ -1,0 +1,38 @@
+{
+  "vaultid": "cbb65aea-a70c-4a8c-9c3d-a81bebafe9a9",
+  "keys": [
+    "80796094-ec4e-4816-824a-ac49d98fad77"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of finite and nonfinite verb forms within a sentence. The nonfinite to-infinitive &ldquo;to forge&rdquo; is correctly used to form a nonfinite (infinitive) clause that explains why the chemists re-created and reprogrammed the DNA-cleaving bacteria. </p><p>Choice B is incorrect. Without a comma separating the main clause (&ldquo;chemists...bacteria&rdquo;) from the participle &ldquo;forging,&rdquo; this choice illogically suggests that the bacteria are forging a tool, which doesn&rsquo;t make sense. Choice C is incorrect. Without a coordinating conjunction such as &ldquo;and&rdquo; placed before it, the finite past tense verb &ldquo;forged&rdquo; can&rsquo;t be used in this way to describe the chemists&rsquo; actions. Choice D is incorrect. If read as a finite verb, the present progressive verb &ldquo;forging&rdquo; isn&rsquo;t consistent with the past tense verbs used in this sentence to describe the actions of the chemists. If read as a nonfinite verb, the participle &ldquo;forging&rdquo; can&rsquo;t be used in this way because there is no following main clause for it to modify.&nbsp;&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "d17935b6-fc0c-4512-97c0-74e5f85706b2",
+  "stimulus": "<p>Working from an earlier discovery of Charpentier&rsquo;s, chemists Emmanuelle Charpentier and Jennifer Doudna&mdash;winners of the 2020 Nobel Prize in Chemistry&mdash;re-created and then reprogrammed the so-called &ldquo;genetic scissors&rdquo; of a species of DNA-cleaving bacteria <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> a tool that is revolutionizing the field of gene technology.</p>",
+  "templateclusterid": "0ef772fc-ca93-4c5d-98b9-11cdd7b9717c",
+  "parenttemplatename": "OSP-707-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "80796094-ec4e-4816-824a-ac49d98fad77",
+      "content": "<p>to forge</p>"
+    },
+    {
+      "id": "41707ed0-1b35-47fa-8138-74f173a2a26b",
+      "content": "<p>forging</p>"
+    },
+    {
+      "id": "3e7fb366-9834-4958-afe3-2f516fde55f3",
+      "content": "<p>forged</p>"
+    },
+    {
+      "id": "b8252c14-cc15-4c96-b312-722d103273b6",
+      "content": "<p>and forging</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

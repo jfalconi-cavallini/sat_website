@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>During their larval phase, numerous species of coral reef fish are drawn toward areas where light is present. To better understand how artificial light at night (ALAN) might affect some coral reef fish, researchers explored the effect of exposure to low levels of ALAN on the reproductive success of the common clownfish (<em>Amphiprion ocellaris</em>). While exposure to low levels of ALAN had no significant effect on spawning frequency and egg fertilization in <em>A. ocellaris</em>, incubation in the presence of ALAN completely inhibited hatching. These findings suggest that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "e97a518e-a6e4-485e-8dd8-efbe7c10da07"
+  ],
+  "answerOptions": [
+    {
+      "id": "bfeca7c4-8f3b-4575-992d-0e14b5e84530",
+      "content": "<p><em>A. ocellaris</em> that settle in areas with low levels of ALAN have significantly higher rates of successful egg fertilization than <em>A. ocellaris</em> that settle in areas without ALAN do.</p>"
+    },
+    {
+      "id": "e97a518e-a6e4-485e-8dd8-efbe7c10da07",
+      "content": "<p>the reproductive success of <em>A. ocellaris </em>would be at risk if they were to selectively settle in regions that are regularly exposed to low levels of ALAN.</p>"
+    },
+    {
+      "id": "17149ba5-bb34-476e-9a17-f369746ab3c5",
+      "content": "<p>the reproductive success of <em>A. ocellaris&nbsp;</em>is more greatly affected by the presence of low levels of ALAN during incubation than the reproductive success of other species of coral reef fish is.</p>"
+    },
+    {
+      "id": "31add54e-32d3-4055-9db1-749b650297f6",
+      "content": "<p>the spawning frequency of <em>A. ocellaris</em> was more strongly affected by the presence of low levels of ALAN than egg fertilization was, though both were less affected than incubation.&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of artificial light at night (ALAN) and the common clownfish (<em>A.</em> <em>ocellaris</em>). The text indicates that researchers found that when <em>A. ocellaris</em> is exposed to low levels of ALAN, spawning frequency and egg fertilization aren&rsquo;t significantly affected but hatching is completely inhibited&mdash;that is, the eggs never hatch. Therefore, if <em>A. ocellaris</em> were to settle only in regions where the fish would be regularly exposed to low levels of ALAN, their eggs would stop hatching and their reproductive success would be at risk.</p><p>Choice A is incorrect because the text indicates that exposure to low levels of ALAN had no significant effect on egg fertilization for <em>A. ocellaris</em>, so there&rsquo;s no reason to expect there would be any significant difference in rates of successful egg fertilization between areas with low levels of ALAN and areas without ALAN. Choice C is incorrect because the text doesn&rsquo;t discuss the particular effects of low levels of ALAN on any species of coral reef fish besides <em>A. ocellaris</em>. For this reason, there&rsquo;s no support in the text for the idea that the reproductive success of <em>A. ocellaris</em> is more greatly affected by the presence of low levels of ALAN than the reproductive success of other species of coral reef fish is. Choice D is incorrect. The text does indicate that <em>A. ocellaris </em>incubation was most strongly affected by low levels of ALAN, but it doesn&rsquo;t indicate that there was a greater effect on spawning frequency than on egg fertilization; in fact, the text states that there was no significant effect on either.</p>",
+  "externalid": "65129061-621e-4cd0-b0c9-ee562e623511",
+  "correct_answer": [
+    "B"
+  ]
+}

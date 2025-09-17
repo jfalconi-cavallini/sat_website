@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Paintings by the renowned twentieth-century US <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> were featured in <em>Artist to Artist</em>, an exhibition at the Smithsonian Art Museum that paired the works of artists whose career trajectories intersected in meaningful ways.</p>",
+  "keys": [
+    "310ea7d3-e54c-44f2-b7bc-2035d3af2524"
+  ],
+  "answerOptions": [
+    {
+      "id": "c597bb73-c1ba-4c61-9ef0-57518d9f1713",
+      "content": "<p>artists<span data-ssml-say-as=\"characters\">:</span> Thomas Hart Benton and Jackson Pollock<span data-ssml-say-as=\"characters\">,</span></p>"
+    },
+    {
+      "id": "310ea7d3-e54c-44f2-b7bc-2035d3af2524",
+      "content": "<p>artists Thomas Hart Benton and Jackson Pollock</p>"
+    },
+    {
+      "id": "241fbf3e-f953-45cc-99c8-3289644c6ef3",
+      "content": "<p>artists Thomas Hart Benton<span data-ssml-say-as=\"characters\">,</span> and Jackson Pollock<span data-ssml-say-as=\"characters\">,</span></p>"
+    },
+    {
+      "id": "7e864876-2e67-4704-a0f0-774a57aa3ede",
+      "content": "<p>artists<span data-ssml-say-as=\"characters\">,</span> Thomas Hart Benton and Jackson Pollock</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the use of punctuation around noun phrases. No punctuation is needed because the coordinated noun phrase \"Thomas Hart Benton and Jackson Pollock\" is a restrictive appositive, meaning that it provides essential identifying information about the noun phrase before it, \"the renowned twentieth-century US artists.\"</p><p>Choice A is incorrect because no punctuation is needed between the noun phrase \"the renowned twentieth-century US artists\" and the restrictive appositive \"Thomas Hart Benton and Jackson Pollock.\" Additionally, no punctuation is needed between the sentence&rsquo;s subject (\"paintings by the renowned twentieth-century US artists Thomas Hart Benton and Jackson Pollock\") and the main verb (\"were featured\"). Choice C is incorrect because no punctuation is needed between the coordinated elements \"Thomas Hart Benton\" and \"Jackson Pollock.\" Additionally, no punctuation is needed between the sentence&rsquo;s subject (\"paintings by the renowned twentieth-century US artists Thomas Hart Benton and Jackson Pollock\") and the main verb (\"were featured\"). Choice D is incorrect because no punctuation is needed between the noun phrase \"the renowned twentieth-century US artists\" and the restrictive appositive \"Thomas Hart Benton and Jackson Pollock.\"</p>",
+  "externalid": "9d7efeb8-a63e-4a31-ae50-bb9901cf58fe",
+  "correct_answer": [
+    "B"
+  ]
+}

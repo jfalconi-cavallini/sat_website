@@ -1,0 +1,38 @@
+{
+  "vaultid": "72dbfc0b-40c3-43d4-8c3d-47d9b6167930",
+  "keys": [
+    "280eb0cb-b74f-4339-a33f-32f04d5f819a"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of single-celled organism behavior. As used in this context, &ldquo;rudimentary&rdquo; means basic or unsophisticated. According to the text, a study of the single-celled protozoan <em>Stentor roeseli</em> showed that the organisms can switch strategies for escaping certain stimuli, &ldquo;sophisticatedly &lsquo;changing their minds&rsquo;&rdquo; and using new strategies should other strategies fail. This context suggests that single-celled organisms may not be limited to behaviors that are basic or rudimentary, since the study showed that single-celled protozoans can respond complexly to irritating stimuli. </p><p>Choice A is incorrect because the text doesn&rsquo;t suggest that single-celled organisms may not be limited to behavior that is &ldquo;aggressive,&rdquo; or threatening. Rather, the text suggests that single-celled organisms may not be limited to behaviors that are basic, since the study of <em>Stentor roeseli</em> showed that single-celled protozoans can respond complexly to irritating stimuli. Choice C is incorrect because the text doesn&rsquo;t suggest that single-celled organisms may not be limited to behavior that is &ldquo;evolving,&rdquo; or advancing. Rather, the text suggests that single-celled organisms may not be limited to behaviors that are basic, since the study of <em>Stentor roeseli</em> showed that single-celled protozoans can respond complexly to irritating stimuli. Choice D is incorrect because the text doesn&rsquo;t suggest that single-celled organisms may not be limited to behavior that is &ldquo;advantageous,&rdquo; or helpful. Rather, the text suggests that single-celled organisms may not be limited to behaviors that are basic, since the study of <em>Stentor roeseli</em> showed that single-celled protozoans can respond complexly to irritating stimuli. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "ad5acd03-7c25-483b-bad4-5d848fddf21d",
+  "stimulus": "<p>In a 2019 study, Jeremy Gunawardena and colleagues found that the single-celled protozoan <em>Stentor roeseli</em> not only uses strategies to escape irritating stimuli but also switches strategies when one fails. This evidence of protozoans sophisticatedly &ldquo;changing their minds&rdquo; demonstrates that single-celled organisms may not be limited to <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> behaviors.</p>",
+  "templateclusterid": "dc3d6de1-cc77-403f-a678-9e5efed9e12e",
+  "parenttemplatename": "OSP-960-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "48d1d60d-9d97-4811-9458-0b4f9f484517",
+      "content": "<p>aggressive</p>"
+    },
+    {
+      "id": "280eb0cb-b74f-4339-a33f-32f04d5f819a",
+      "content": "<p>rudimentary</p>"
+    },
+    {
+      "id": "5cf8910a-bbca-430b-90e2-8bb41b0e66a9",
+      "content": "<p>evolving</p>"
+    },
+    {
+      "id": "dc8addb9-6060-4a2d-b5ec-dbb7829d87a2",
+      "content": "<p>advantageous</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

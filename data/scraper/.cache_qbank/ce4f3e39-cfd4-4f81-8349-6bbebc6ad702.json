@@ -1,0 +1,38 @@
+{
+  "vaultid": "9fb27e2e-8f0e-4aeb-94db-9928f282da99",
+  "keys": [
+    "f8fb82b2-9876-4ce2-9b05-1db14dbfe21f"
+  ],
+  "rationale": "<p>Choice B is the best answer because the quotation from <em>The Souls of Black Folk</em> illustrates the claim that Du Bois felt a sense of cultural recognition when he heard Black folk songs. In the quotation, Du Bois explains that for his entire life, Black folk songs &ldquo;stirred [him] strangely.&rdquo; Even though they originated in the South, a region he wasn&rsquo;t familiar with, he knew the songs &ldquo;as of me and of mine.&rdquo; That is, he identified strongly with them and associated them with his community. Therefore, Du Bois felt an intuitive sense of cultural recognition when he heard Black folk songs.&nbsp;</p><p>Choice A is incorrect. Although the quotation considers the cultural and spiritual value of Black folk music, it doesn&rsquo;t establish that this music inspired in Du Bois a sense of cultural recognition.&nbsp;Choice C is incorrect because this quotation addresses the cultural survival of Black folk songs despite attempts to caricature, or parody, them, not Du Bois&rsquo;s sense of cultural connection to them. Choice D is incorrect&nbsp;because the quotation indicates that the Black folk songs and music are old, &ldquo;the siftings of centuries,&rdquo; instead of addressing how Du Bois felt when he heard the songs. </p>",
+  "origin": "proteus",
+  "stem": "\n<p>Which quotation from <em>The Souls of Black Folk</em> most effectively illustrates the claim?</p>",
+  "externalid": "ce4f3e39-cfd4-4f81-8349-6bbebc6ad702",
+  "stimulus": "<p><em>The Souls of Black Folk</em> is a 1903 book by W.E.B. Du Bois. In the book, Du Bois suggests that upon hearing Black folk songs, he felt an intuitive and sometimes unexpected sense of cultural recognition: <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>\n",
+  "templateclusterid": "9141fac4-999b-490a-b6db-7d2e13f2c16d",
+  "parenttemplatename": "T6000",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "314603d6-a793-4a45-b8f2-97bca2ea2ce4",
+      "content": "<p>&ldquo;[Black folk music] still remains as the singular spiritual heritage of the nation and the greatest gift of the Negro people.&rdquo;</p>"
+    },
+    {
+      "id": "f8fb82b2-9876-4ce2-9b05-1db14dbfe21f",
+      "content": "<p>&ldquo;Ever since I was a child these songs have stirred me strangely. They came out of the South unknown to me, one by one, and yet at once I knew them as of me and of mine.&rdquo;</p>"
+    },
+    {
+      "id": "75a36eba-48c8-4d21-a9f6-3f0c50bb3035",
+      "content": "<p>&ldquo;Caricature has sought again to spoil the quaint beauty of the music, and has filled the air with many debased melodies which vulgar ears scarce know from the real. But the true Negro folk-song still lives in the hearts of those who have heard them truly sung and in the hearts of the Negro people.&rdquo;</p>"
+    },
+    {
+      "id": "c9d7fd6d-a197-4797-81f0-de469a8c8af4",
+      "content": "<p>&ldquo;The songs are indeed the siftings of centuries; the music is far more ancient than the words, and in it we can trace here and there signs of development.&rdquo;</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

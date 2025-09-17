@@ -1,0 +1,38 @@
+{
+  "vaultid": "4f6b5053-a794-43a7-971d-cddec817eef2",
+  "keys": [
+    "370b2259-7d24-42a6-a60a-e87999622bae"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of Francis Cecil Sumner. As used in this context, &ldquo;proponent of&rdquo; means supporter of. The text says that Sumner helped to found the psychology department at historically Black Howard University in 1930. This is evidence that Sumner supported increasing the opportunity for Black students to study psychology. </p><p>Choice B is incorrect because the phrase &ldquo;supplement to,&rdquo; or addition to, wouldn&rsquo;t make sense in context. The text discusses Sumner&rsquo;s efforts to increase the number of Black psychology students, but it doesn&rsquo;t make sense to describe him as an addition to his efforts. Choice C is incorrect because Sumner was already an accomplished psychologist himself when he helped to found the Howard University psychology department. While Black students were the beneficiaries of his efforts&mdash;that is, they received help because of his efforts&mdash;it wouldn&rsquo;t make sense in this context to describe Sumner as a &ldquo;beneficiary of&rdquo; opportunities, because he was the one doing the helping. Choice D is incorrect because founding a psychology department at Howard University wouldn&rsquo;t be a &ldquo;distraction for&rdquo; Sumner&rsquo;s aim to increase the opportunity for Black students to study psychology&mdash;that is, it wouldn&rsquo;t be something that draws Sumner&rsquo;s attention away from that goal, but rather the opposite. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "6e37a2f1-4f0d-4d0f-ac83-abf1598b8a21",
+  "stimulus": "<p>In addition to being an accomplished psychologist himself, Francis Cecil Sumner was a <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> increasing the opportunity for Black students to study psychology, helping to found the psychology department at Howard University, a historically Black university, in 1930.</p>",
+  "templateclusterid": "86e7ad36-036e-46dd-8f89-e403058e51ec",
+  "parenttemplatename": "OSP-913-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "370b2259-7d24-42a6-a60a-e87999622bae",
+      "content": "<p>proponent of</p>"
+    },
+    {
+      "id": "b331047c-a994-491d-8d24-e64e47145b19",
+      "content": "<p>supplement to</p>"
+    },
+    {
+      "id": "dcb2953d-b72e-4f22-9d3e-2548f7f879e0",
+      "content": "<p>beneficiary of</p>"
+    },
+    {
+      "id": "0aea7d8a-9ad9-481d-a805-831a9332bd1c",
+      "content": "<p>distraction for</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

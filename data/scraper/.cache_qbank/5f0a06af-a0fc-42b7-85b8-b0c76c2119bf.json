@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>The short story &ldquo;Rogue Enchantments&rdquo; by Isabel Ibañez appears in <em>Reclaim the</em> <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> anthology of fantasy and science fiction written by authors of Latin American descent.</p>",
+  "type": "mcq",
+  "keys": [
+    "2834d7cf-fdc0-4530-8f4f-aae0ece188bc"
+  ],
+  "answerOptions": [
+    {
+      "id": "9e67e0a3-6ef4-4401-9892-49dfd3e246a3",
+      "content": "<p><em>Stars</em>. An</p>"
+    },
+    {
+      "id": "28df64d4-fbf1-44b6-a0eb-07f1adc979f0",
+      "content": "<p><em>Stars</em>, while an</p>"
+    },
+    {
+      "id": "3b44b05f-5955-4629-ac4d-7b5a0e04bb7a",
+      "content": "<p><em>Stars</em> an</p>"
+    },
+    {
+      "id": "2834d7cf-fdc0-4530-8f4f-aae0ece188bc",
+      "content": "<p><em>Stars</em>, an</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the use of punctuation within a sentence. This choice correctly uses a comma to mark the boundary between the main clause (\"The short...<em>Stars</em>\") and the supplementary element (\"an anthology...descent\") that provides additional information about what <em>Reclaim the Stars</em> is.</p><p>Choice A is incorrect because it results in a rhetorically unacceptable sentence fragment beginning with \"an anthology.\" Choice B is incorrect. Joining the main clause and the following supplementary element with the conjunction \"while\" results in a confusing and ungrammatical sentence. Choice C is incorrect because it fails to mark the boundary between the main clause and the supplementary element with appropriate punctuation.</p>",
+  "externalid": "5f0a06af-a0fc-42b7-85b8-b0c76c2119bf",
+  "correct_answer": [
+    "D"
+  ]
+}

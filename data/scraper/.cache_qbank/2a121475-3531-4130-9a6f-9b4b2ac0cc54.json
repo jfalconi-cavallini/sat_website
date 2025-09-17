@@ -1,0 +1,38 @@
+{
+  "vaultid": "b75282c1-91be-4a1e-8b40-8f1af9805a8e",
+  "keys": [
+    "ba968417-37c6-4b49-9e93-dcfb4b18972c"
+  ],
+  "rationale": "<p>Choice A is the best answer. The sentence effectively introduces Cathryn Halverson&rsquo;s book to an audience already familiar with the <em>Atlantic Monthly</em>, noting the title of Halverson&rsquo;s book and describing its content without providing background information about the <em>Atlantic Monthly</em>. </p><p>Choice B is incorrect. The sentence introduces the <em>Atlantic Monthly</em> and mentions that it&rsquo;s referred to in Cathryn Halverson&rsquo;s book title; it doesn&rsquo;t effectively introduce Halverson&rsquo;s book. Choice C is incorrect. The sentence assumes that the audience is unfamiliar with the <em>Atlantic Monthly</em>, providing background information about the magazine; it doesn&rsquo;t effectively introduce Halverson&rsquo;s book to an audience already familiar with the <em>Atlantic Monthly</em>. Choice D is incorrect. While the sentence assumes that the audience is familiar with the <em>Atlantic Monthly</em>, it doesn&rsquo;t effectively introduce Cathryn Halverson&rsquo;s book. </p>",
+  "origin": "proteus",
+  "stem": "<p>The student wants to introduce Cathryn Halverson&rsquo;s book to an audience already familiar with the <em>Atlantic Monthly</em>. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "externalid": "2a121475-3531-4130-9a6f-9b4b2ac0cc54",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>The <em>Atlantic Monthly</em> magazine was first published in 1857.</li>\n<li>The magazine focused on politics, art, and literature.</li>\n<li>In 2019, historian Cathryn Halverson published the book <em>Faraway Women and the &ldquo;Atlantic Monthly.&rdquo;</em></li>\n<li>Its subject is female authors whose autobiographies appeared in the magazine in the early 1900s.</li>\n<li>One of the authors discussed is Juanita Harrison.</li>\n</ul>",
+  "templateclusterid": "be723af8-c945-464e-b8b7-90353f02eaa6",
+  "parenttemplatename": "OSP-766-SYN",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "ba968417-37c6-4b49-9e93-dcfb4b18972c",
+      "content": "<p>Cathryn Halverson&rsquo;s <em>Faraway Women and the &ldquo;Atlantic</em> <em>Monthly&rdquo;</em>&nbsp; discusses female authors whose autobiographies appeared in the magazine<em> </em>in the early 1900s.</p>"
+    },
+    {
+      "id": "c11cabbc-c0bb-4fdd-9bda-42b278e8efca",
+      "content": "<p>A magazine called the <em>Atlantic Monthly</em>, referred to in Cathryn Halverson&rsquo;s book title, was first published in 1857.</p>"
+    },
+    {
+      "id": "a6695452-9a79-426d-9970-35d811e3b1c3",
+      "content": "<p><em>Faraway Women and the &ldquo;Atlantic Monthly&rdquo;</em>&nbsp; features contributors to the <em>Atlantic Monthly</em>, first published in 1857 as a magazine focusing on politics, art, and literature.&nbsp;</p>"
+    },
+    {
+      "id": "5e0a6916-2bf4-4b1c-8509-a93b6f458569",
+      "content": "<p>An author discussed by Cathryn Halverson is Juanita Harrison, whose autobiography appeared in the <em>Atlantic Monthly</em> in the early 1900s.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

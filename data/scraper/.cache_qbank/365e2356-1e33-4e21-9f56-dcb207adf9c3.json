@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which quotation from <em>Treasure Island</em> most effectively illustrates the claim?</p>",
+  "stimulus": "<p><em>Treasure Island</em> is an <span data-ssml-say-as=\"date\">1883</span> novel by Robert Louis Stevenson. When the narrator was a child, his father ran a hotel. A mysterious sailor came to stay at the hotel. The narrator was frightened of the sailor, as can be seen when the narrator says, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "f69585ff-d5db-41a1-a262-48f76691acb6"
+  ],
+  "answerOptions": [
+    {
+      "id": "c5198656-012b-4a68-ad60-d1689459fe49",
+      "content": "<p>&ldquo;I remember [the sailor] as if it were yesterday, as he came plodding to the inn door, his sea-chest following behind him in a hand-barrow.&rdquo;</p>"
+    },
+    {
+      "id": "4b401f18-2070-40b3-b95d-e5ea4fa653af",
+      "content": "<p>&ldquo;[The sailor] was a very silent man by custom. All day he hung round the cove or upon the cliffs with a brass telescope.&rdquo;</p>"
+    },
+    {
+      "id": "a2574324-f716-4e62-b6c3-4346108182e8",
+      "content": "<p>&ldquo;All the time he lived with us [the sailor] made no change whatever in his dress but to buy some stockings from a hawker. One of the [corners] of his hat having fallen down, he let it hang from that day forth, though it was a great annoyance when it blew.&rdquo;</p>"
+    },
+    {
+      "id": "f69585ff-d5db-41a1-a262-48f76691acb6",
+      "content": "<p>&ldquo;How [the sailor] haunted my dreams, I need scarcely tell you. On stormy nights, when the wind shook the four corners of the house and the surf roared along the cove and up the cliffs, I would see him in a thousand forms, and with a thousand diabolical expressions.&rdquo;</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most effectively illustrates the claim that the narrator was frightened of the sailor. The quotation describes the sailor haunting the narrator&rsquo;s dreams, appearing in \"a thousand forms\" with \"a thousand diabolical expressions.\" This vivid imagery conveys the intense psychological fear the narrator experienced when thinking about the sailor. Furthermore, the quotation evokes the narrator&rsquo;s terror and dread by describing a stormy night setting with wind shaking the house and a roaring surf.</p><p>Choice A is incorrect because this quotation does not provide any details to suggest that the narrator was afraid of the sailor. It simply describes the narrator&rsquo;s memory of the sailor arriving at the inn with his sea chest. Choice B is incorrect because this quotation does not effectively illustrate the claim that the narrator was frightened of the sailor. The quotation provides several details about the sailor, including that it was his custom to remain silent. However, the quotation does not relate these details to the narrator&rsquo;s experience of being frightened of the sailor. Choice C is incorrect because this quotation focuses on aspects of the sailor&rsquo;s appearance and dress. There is no connection made in the quotation between these physical details and the narrator&rsquo;s sense of being frightened of the sailor.</p>",
+  "externalid": "365e2356-1e33-4e21-9f56-dcb207adf9c3",
+  "correct_answer": [
+    "D"
+  ]
+}

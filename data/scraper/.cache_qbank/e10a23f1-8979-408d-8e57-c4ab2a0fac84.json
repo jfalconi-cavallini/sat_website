@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Botanist Al Kovaleski has pointed out that maple trees already thrive in a wide variety of climates and thus may <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> changes in climate better than some other tree species do. The alterations maples may undergo in response to a changing climate are likely to be relatively small and easily achieved.&nbsp;</p>",
+  "keys": [
+    "59b48a0b-75d6-4e54-9fff-d0eaabaed110"
+  ],
+  "answerOptions": [
+    {
+      "id": "20ef6cf9-8829-46b6-b364-533b5cd8a2cf",
+      "content": "<p>relocate from</p>"
+    },
+    {
+      "id": "c8e75764-dffe-4272-9aa3-a59f9c4e4ce9",
+      "content": "<p>refer to</p>"
+    },
+    {
+      "id": "fa0e47ed-efef-4c64-aad2-36ffb87f62a1",
+      "content": "<p>originate from</p>"
+    },
+    {
+      "id": "59b48a0b-75d6-4e54-9fff-d0eaabaed110",
+      "content": "<p>adapt to</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of how maple trees may respond to changes in climate. As used in this context, \"adapt to\" means to adjust to new conditions. The text first notes that maple trees already thrive in a wide variety of climates and then goes on to say that alterations maples may undergo are likely to be relatively small and easily achieved. This context supports the idea that maple trees will more easily adjust or adapt to a changing climate.</p><p>Choice A is incorrect. Although the text discusses how maple trees adjust to change, the trees do not \"relocate from,\" or physically move from one place to another. Choice B is incorrect because \"refer to\" means to mention or allude to something, and the trees are not doing either of these actions. Choice C is incorrect because the text is discussing how maple trees may respond to changes in climate, not where they \"originate from,\" or came from originally.</p>",
+  "externalid": "e10a23f1-8979-408d-8e57-c4ab2a0fac84",
+  "correct_answer": [
+    "D"
+  ]
+}

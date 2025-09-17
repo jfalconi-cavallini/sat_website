@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>In forecasting weather events, meteorologists sometimes discuss the role of atmospheric rivers. What are atmospheric rivers, and how <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Part of the water cycle, atmospheric rivers are narrow channels of moisture moving through the atmosphere. In certain conditions, these &ldquo;rivers&rdquo; can release some of their moisture as precipitation.&nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "5cbaffab-f8fb-47c8-a3d9-1891a2e82355"
+  ],
+  "answerOptions": [
+    {
+      "id": "7c8df3a6-f489-451e-a9bb-849a268b8f79",
+      "content": "<p>do they affect our weather.</p>"
+    },
+    {
+      "id": "11d937e6-c64a-48eb-8c64-273c78798857",
+      "content": "<p>they do affect our weather.</p>"
+    },
+    {
+      "id": "5cbaffab-f8fb-47c8-a3d9-1891a2e82355",
+      "content": "<p>do they affect our weather?</p>"
+    },
+    {
+      "id": "b6d36417-a428-4b97-b2be-d485dd158f7a",
+      "content": "<p>they do affect our weather?</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is end-of-sentence punctuation. This choice correctly uses a question mark to punctuate the coordinated interrogative clauses \"What are atmospheric rivers\" and \"how do they affect our weather,\" both of which ask direct questions.</p><p>Choice A is incorrect because a period can&rsquo;t be used in this way to punctuate an interrogative clause, such as \"how do they affect our weather,\" at the end of a sentence. Choice B is incorrect because the structure requires an interrogative clause and a question mark at the end of the sentence. Choice D is incorrect because the structure requires an interrogative clause at the end of the sentence.</p>",
+  "externalid": "cae5bb9d-a3a6-4aa6-8a22-4abcde006444",
+  "correct_answer": [
+    "C"
+  ]
+}

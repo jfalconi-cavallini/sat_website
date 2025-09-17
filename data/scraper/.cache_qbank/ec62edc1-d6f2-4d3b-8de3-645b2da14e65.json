@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>The student wants to indicate the year <em>Yosemite Falls</em> was completed.&nbsp; Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Chiura Obata was a Japanese American artist who lived in California.</li>\n<li><em>Yosemite Falls</em> is a notable painting by Obata. &nbsp;</li>\n<li>It uses a Japanese method of black ink painting called sumi-e.</li>\n<li>This painting was completed in 1930.</li>\n</ul>",
+  "keys": [
+    "563ddf3a-def4-4671-9bce-aa73961adfbe"
+  ],
+  "answerOptions": [
+    {
+      "id": "67506613-0daf-401c-a613-5572531ea710",
+      "content": "<p>While living in California, Obata created black ink paintings.&nbsp;</p>"
+    },
+    {
+      "id": "022cfdb5-8f8c-4ae3-a4c4-88db7ae93436",
+      "content": "<p>Obata, a Japanese American artist, created a notable painting.</p>"
+    },
+    {
+      "id": "563ddf3a-def4-4671-9bce-aa73961adfbe",
+      "content": "<p><em>Yosemite Falls</em> was completed in 1930.</p>"
+    },
+    {
+      "id": "263bb419-7fc9-4e5f-85b1-b48fc72f6a35",
+      "content": "<p>Obata used a Japanese painting method called sumi-e.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The sentence indicates the year <em>Yosemite Falls</em> was completed, stating that it was completed in 1930.</p><p>Choice A is incorrect. The sentence indicates where Obata created black ink paintings; it doesn&rsquo;t indicate when the painting was completed. Choice B is incorrect. While the sentence identifies Obata as an artist who created a notable painting, it doesn&rsquo;t indicate when that painting was completed. Choice D is incorrect. The sentence identifies the method Obata used; it doesn&rsquo;t indicate when the painting was completed.</p>",
+  "externalid": "ec62edc1-d6f2-4d3b-8de3-645b2da14e65",
+  "correct_answer": [
+    "C"
+  ]
+}

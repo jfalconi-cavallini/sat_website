@@ -1,0 +1,38 @@
+{
+  "vaultid": "f033d3b9-4eec-41b6-a84c-f6e3a0300471",
+  "keys": [
+    "36ca7b9f-c1db-4335-aeae-f779138756a3"
+  ],
+  "rationale": "<p>Choice D is the best answer. &ldquo;In addition&rdquo; logically signals that the information in this sentence&mdash;that the Twentieth Amendment requires newly elected US senators and representatives to be sworn in on January 3&mdash;is separate from and additional to the amendment&rsquo;s mandate concerning presidential inaugurations. </p><p>Choice A is incorrect because &ldquo;instead&rdquo; illogically signals that the information in the sentence presents an alternative to or substitute for the Twentieth Amendment&rsquo;s mandate concerning presidential inaugurations. Rather, the sentence presents a separate requirement in addition to that one. Choice B is incorrect because &ldquo;for instance&rdquo; illogically signals that the information in the sentence exemplifies the Twentieth Amendment&rsquo;s mandate concerning presidential inaugurations. Instead, the sentence presents a separate requirement in addition to that one. Choice C is incorrect because &ldquo;specifically&rdquo; illogically signals that the sentence provides specific, precise details elaborating on the Twentieth Amendment&rsquo;s mandate concerning presidential inaugurations. Instead, the sentence presents a separate requirement in addition to that one. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "eb908c22-f0e5-4e8e-a74a-9e02f9aaf2e1",
+  "stimulus": "<p>In 1933, the Twentieth Amendment to the US Constitution was ratified. The amendment mandates that presidential inaugurations be held on January 20, approximately ten weeks after the November election. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> this amendment requires newly elected US senators and representatives to be sworn into their respective offices on January 3.</p>",
+  "templateclusterid": "f1928790-de07-4915-82a2-8298c8f99960",
+  "parenttemplatename": "OSP-227-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "5ec3dfc0-ea3b-481a-9dad-37422d9825c9",
+      "content": "<p>Instead,</p>"
+    },
+    {
+      "id": "68d184aa-26cc-4748-9509-ee64dd69f83e",
+      "content": "<p>For instance,</p>"
+    },
+    {
+      "id": "5950e511-8571-4a6f-b5b7-bf90c8183935",
+      "content": "<p>Specifically,</p>"
+    },
+    {
+      "id": "36ca7b9f-c1db-4335-aeae-f779138756a3",
+      "content": "<p>In addition,</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best describes the overall structure of the text?</p>",
+  "stimulus": "<p>The following text is from the 1895 poem &ldquo;Marshlands&rdquo; by Emily Pauline Johnson, a Kanienkahagen (Mohawk) writer also known as Tekahionwake.&nbsp;</p>\n<blockquote class=\"dap_poemexcerpt\">\n<p>Among the wild rice in the still lagoon,</p>\n<p>In monotone the lizard shrills his tune.</p>\n<p>The wild goose, homing, seeks a sheltering,</p>\n<p>Where rushes grow, and oozing lichens cling.</p>\n<p>Late cranes with heavy wing, and lazy flight,</p>\n<p>Sail up the silence with the nearing night.</p>\n<p>And like a spirit, swathed in some soft veil,</p>\n<p>Steals twilight and its shadows o&rsquo;er the swale.</p>\n<p>Hushed lie the sedges, and the vapours creep,</p>\n<p>Thick, grey and humid, while the marshes sleep.</p>\n</blockquote>",
+  "type": "mcq",
+  "keys": [
+    "15ed0ef8-b11c-4e59-bde9-02a0b172e36a"
+  ],
+  "answerOptions": [
+    {
+      "id": "0df6be8a-3be7-4bbf-930c-37283c015530",
+      "content": "<p>It names animal species found in a place, then names plant species there.</p>"
+    },
+    {
+      "id": "15ed0ef8-b11c-4e59-bde9-02a0b172e36a",
+      "content": "<p>It sketches a setting by presenting a series of images of nature.</p>"
+    },
+    {
+      "id": "97af30fa-b26a-4ea3-9632-500a25c4860e",
+      "content": "<p>It makes an extended comparison of nature to human emotions.</p>"
+    },
+    {
+      "id": "f903e343-b898-4861-ab58-96d97419fda4",
+      "content": "<p>It identifies a location, then refers to a person living there.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it best describes the overall structure of the text. The text first establishes the setting, a \"still lagoon,\" and then goes on to provide more details about the lagoon by presenting several descriptive images of nature, including a lizard that \"shrills his tune,\" \"oozing lichens,\" and \"thick, grey and humid\" vapors.</p><p>Choice A is incorrect. Instead of simply naming species, the text presents descriptive images of nature; further, instead of naming animals and then moving on to name plants, the text refers first to a plant (\"the wild rice\"), then to two animals (\"the lizard,\" \"the wild goose\"), then to another plant (\"rushes\"), and so on. Choice C is incorrect because the text does not draw any comparison between nature and human emotions; it does not refer to human emotions at all. Choice D is incorrect. While the text does begin by identifying a specific location, a \"still lagoon,\" it makes no mention of a person living there.</p>",
+  "externalid": "cbc70f4e-6db0-4909-b289-cba0c0a74c2b",
+  "correct_answer": [
+    "B"
+  ]
+}

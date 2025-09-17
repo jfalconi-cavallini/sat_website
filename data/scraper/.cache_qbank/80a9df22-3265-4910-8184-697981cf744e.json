@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best describes the function of the underlined portion in the text as a whole?</p>",
+  "stimulus": "<p>Historians have argued that a crucial component of the Civil Rights Movement&rsquo;s success in the 1960s was the Southern Christian Leadership Conference&rsquo;s Citizen Education Program (CEP), which invited promising activists from across the South to its one-week training sessions in Dorchester, Georgia. Led by experienced organizers such as Dorothy Cotton and Septima Clark, CEP attendees<span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">&mdash;more than 7,000 in all&mdash;</span>participated in workshops on topics ranging from public speaking to legal doctrine before returning home and using their newly acquired knowledge to spearhead local civil rights initiatives.</p>",
+  "type": "mcq",
+  "keys": [
+    "4945acf4-5b1e-4754-abf1-7074dcc206f5"
+  ],
+  "answerOptions": [
+    {
+      "id": "4945acf4-5b1e-4754-abf1-7074dcc206f5",
+      "content": "<p>It underscores the extent of the CEP&rsquo;s impact on the Civil Rights Movement of the 1960s.</p>"
+    },
+    {
+      "id": "2ac0d540-a3f7-4d32-89ab-aac70a6a5a41",
+      "content": "<p>It illustrates the CEP organizers&rsquo; efforts to educate participants on a wide variety of topics.</p>"
+    },
+    {
+      "id": "210a6861-fad2-41fd-8a68-c1ae2a56664f",
+      "content": "<p>It suggests that CEP attendees held a diverse array of opinions about the Southern Christian Leadership Conference&rsquo;s political philosophy.&nbsp;</p>"
+    },
+    {
+      "id": "1b02c5ad-8967-4f02-8e0f-ba18c49f61fc",
+      "content": "<p>It establishes that criticism of the CEP was limited to a few individuals in the Southern Christian Leadership Conference.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately describes how the underlined portion functions in the text as a whole. The first sentence of the text states that the CEP had a positive impact on the Civil Rights Movement in the 1960s. The next sentence explains that the CEP organized workshops for attendees, who later used the knowledge they gained to lead civil rights initiatives. And the underlined portion indicates the number of activists&mdash;more than 7,000&mdash;who participated in the workshops. Thus, the underlined portion provides a number that underscores the extent of the CEP&rsquo;s impact on the Civil Rights Movement in the 1960s.</p><p>Choice B is incorrect. Although the sentence that contains the underlined portion mentions some CEP workshop topics, the underlined portion itself addresses the number of participants in the CEP workshops, not the number of topics covered. Choice C is incorrect. Although the underlined portion refers to attendees of the CEP workshops, nothing in the underlined portion or the text as a whole addresses the Southern Christian Leadership Conference&rsquo;s philosophy or the attendees&rsquo; opinions thereof. Choice D is incorrect because neither the underlined portion nor the text as a whole mentions any criticism of the CEP by members of the Southern Christian Leadership Conference.</p>",
+  "externalid": "80a9df22-3265-4910-8184-697981cf744e",
+  "correct_answer": [
+    "A"
+  ]
+}

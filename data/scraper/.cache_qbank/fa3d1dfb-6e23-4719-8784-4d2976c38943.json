@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best describes the function of the underlined phrase in the text as a whole?</p>",
+  "stimulus": "<p>In the early days of television in the 1940s, many people thought that US television programs would rely on the financial support of ad agencies and commercial sponsors, much like radio did. But advertisers hesitated to jump into a new space, <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">particularly at a time when the manufacturing of new television sets was stalled due to the US&rsquo;s involvement in World War II.</span> Broadcasters, like the National Broadcasting Company (NBC), needed to persuade advertisers to support their programming despite not knowing whether there would be a robust television audience to begin with.</p>",
+  "keys": [
+    "2f3ede60-40c6-40b7-a21f-7aac5d6e289b"
+  ],
+  "answerOptions": [
+    {
+      "id": "21cc8975-cf91-4f2e-b9eb-d9433944ac76",
+      "content": "<p>It compares the beginnings of radio programming with the beginnings of television programming in the United States.&nbsp;</p>"
+    },
+    {
+      "id": "2f3ede60-40c6-40b7-a21f-7aac5d6e289b",
+      "content": "<p>It identifies a specific reason behind some advertisers&rsquo; hesitance to support television.</p>"
+    },
+    {
+      "id": "08a614c2-cc17-44f7-9b01-af50d1e5457d",
+      "content": "<p>It describes how broadcasters attempted to convince advertisers to support television.</p>"
+    },
+    {
+      "id": "f1c4cf7c-902f-4da5-b547-2edee9280fbb",
+      "content": "<p>It explains why a type of television programming was popular at the time.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it accurately describes the function of the underlined phrase in the text as a whole. According to the text, advertisers were reluctant to support television in its early days. The underlined phrase then indicates that this reluctance was partly due to the US&rsquo;s involvement in World War II, which hindered television production. Thus, the underlined phrase identifies a specific reason behind some advertisers&rsquo; hesitance to support television.</p><p>Choice A is incorrect. The text merely mentions that television was expected to be financed through advertising, as radio was at the time. Nothing in the text compares the origins of radio and television. Choice C is incorrect. The underlined phrase focuses on a reason advertisers were reluctant to support television, not measures taken to convince advertisers to support television. Choice D is incorrect. The underlined phrase focuses on a reason advertisers were reluctant to support television, not what types of television programming were popular.</p>",
+  "externalid": "fa3d1dfb-6e23-4719-8784-4d2976c38943",
+  "correct_answer": [
+    "B"
+  ]
+}

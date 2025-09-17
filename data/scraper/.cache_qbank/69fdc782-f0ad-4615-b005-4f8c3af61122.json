@@ -1,0 +1,38 @@
+{
+  "vaultid": "b424a5bc-e85f-404e-a4b6-7b70a19237de",
+  "keys": [
+    "cfa2fcb6-d52d-436a-aeb0-7a25fbd7e96f"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of Arturo A. Schomburg&rsquo;s collection. In this context, the phrase &ldquo;depended on&rdquo; means relied on. The text explains that Schomburg, wanting to preserve &ldquo;books, art, and other materials&rdquo; created by peoples of African descent from around the world, built a large collection of these objects. The text also states that in order to obtain these items, Schomburg asked friends and colleagues who were traveling internationally to bring them back for him. This implies that he wouldn&rsquo;t have been able to create his collection without help. Thus, the context supports the idea that Schomburg relied on, or depended on, friends and colleagues to build his collection. </p><p>Choice A is incorrect because &ldquo;admired&rdquo; means respected and approved of. Although it&rsquo;s reasonable to expect that Schomburg respected his friends and colleagues, the text doesn&rsquo;t discuss any such aspect of their relationships. The text focuses instead on what Schomburg asked his friends and colleagues to do to help build his collection.&nbsp;Choice B is incorrect because &ldquo;disagreed with&rdquo; means held an opposing belief, and nothing in the text suggests that Schomburg and his friends or colleagues held opposing views on any subject. In fact, the text strongly implies that Schomburg&rsquo;s friends and colleagues supported him in his goal of preserving objects of importance for Black history and culture by bringing him such objects from around the world. Choice C is incorrect because &ldquo;warned&rdquo; means informed someone in advance about something dangerous, which wouldn&rsquo;t make sense in this context. Nothing in the text suggests that Schomburg thought his friends and colleagues were in any danger, let alone that he warned them of danger. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "69fdc782-f0ad-4615-b005-4f8c3af61122",
+  "stimulus": "<p>Arturo A. Schomburg was dedicated to preserving books, art, and other materials from peoples of African descent around the world. To get these items, Schomburg <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> friends and colleagues, whom he asked to bring back rare and valuable objects from their international travels. Now, Schomburg&rsquo;s collection is a valuable resource for scholars of Black history and culture.</p>",
+  "templateclusterid": "a86be851-2f7d-4636-a089-ba9f4333fd6d",
+  "parenttemplatename": "OSP-048-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "f08f5500-23ba-4560-944a-3956846b8bc9",
+      "content": "<p>admired</p>"
+    },
+    {
+      "id": "74655f6e-aa2d-41c6-aa41-e78fb072b0bb",
+      "content": "<p>disagreed with</p>"
+    },
+    {
+      "id": "e6ea9c1a-4d89-43f2-868d-3475bcf6c807",
+      "content": "<p>warned</p>"
+    },
+    {
+      "id": "cfa2fcb6-d52d-436a-aeb0-7a25fbd7e96f",
+      "content": "<p>depended on</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

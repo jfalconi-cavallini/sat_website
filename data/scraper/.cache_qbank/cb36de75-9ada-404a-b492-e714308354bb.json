@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which quotation from &ldquo;Poetry&rdquo; most effectively illustrates the claim?</p>",
+  "stimulus": "<p>&ldquo;Poetry&rdquo; is a 1919 poem by Marianne Moore. The poem highlights an ambivalence toward poetry as the speaker acknowledges its merits while also expressing a sense of displeasure, writing <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "dcb77356-b569-4468-8a0c-e233f4cbb491"
+  ],
+  "answerOptions": [
+    {
+      "id": "99a78d73-227e-4d79-9387-019ee92b2932",
+      "content": "<p>&ldquo;nor is it valid / to discriminate against &lsquo;business documents and / school-books&rsquo;; all these phenomena are important.&rdquo;</p>"
+    },
+    {
+      "id": "a852cf8c-14a6-4582-a9ad-e2577a319457",
+      "content": "<p>&ldquo;One must make a distinction / however: when dragged into prominence by half poets, the result is not / poetry&rdquo;</p>"
+    },
+    {
+      "id": "8cb15725-7ebb-473d-b857-d9b1b599c11b",
+      "content": "<p>&ldquo;when [poems] become so derivative as to become unintelligible, the / same thing may be said for all of us&mdash;that we / do not admire what / we cannot understand.&rdquo;</p>"
+    },
+    {
+      "id": "dcb77356-b569-4468-8a0c-e233f4cbb491",
+      "content": "<p>&ldquo;Reading [poetry], however, with a perfect contempt for it, one discovers that there is in / it after all, a place for the genuine.&rdquo;</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most effectively uses a quotation from \"Poetry\" to illustrate the claim that the poem highlights an ambivalence, or a conflicted attitude, toward poetry. In the quotation, the speaker suggests that one might read poetry with \"contempt,\" or disdain, for it, but even with this negative attitude one will find \"a place for the genuine.\" Because the quotation expresses conflicting attitudes toward poetry, it effectively illustrates the speaker&rsquo;s ambivalence in discussing the merits and displeasure of reading poetry.</p><p>Choice A is incorrect because it doesn&rsquo;t mention poetry or show ambivalence. Choice B is incorrect. Although the idea of \"half poets\" may seem to relate to ambivalence, the speaker mentions only negative attitudes toward certain works and the quotation therefore lacks a contrasting positive or neutral attitude that would be needed to indicate ambivalence. Choice C is incorrect because the speaker mentions only negative attitudes toward certain works and the quotation therefore lacks a contrasting positive or neutral attitude that would be needed to indicate ambivalence.</p>",
+  "externalid": "cb36de75-9ada-404a-b492-e714308354bb",
+  "correct_answer": [
+    "D"
+  ]
+}

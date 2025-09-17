@@ -1,0 +1,38 @@
+{
+  "vaultid": "4fb0fb45-98bd-4a16-8045-aca619cb1f46",
+  "keys": [
+    "d8447fe7-35c8-4cb9-9f49-8d508c8f9552"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is finite verb use in a main clause. A main clause requires a finite verb to perform the action of the subject (in this case, Ashford&rsquo;s &ldquo;gestures&rdquo; and &ldquo;habit&rdquo;), and this choice supplies the finite past tense verb &ldquo;helped&rdquo; to indicate what Ashford&rsquo;s gestures and habit helped accomplish. </p><p>Choice B is incorrect because the non-finite participle &ldquo;helping&rdquo; doesn&rsquo;t supply the main clause with a finite verb. Choice C is incorrect because the relative clause &ldquo;that helped&rdquo; doesn&rsquo;t supply the main clause with a finite verb. Choice D is incorrect because the non-finite to-infinitive &ldquo;to help&rdquo; doesn&rsquo;t supply the main clause with a finite verb. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "96889af3-0842-483d-ae93-cd1be0cf6ade",
+  "stimulus": "<p>In 1966, Emmett Ashford became the first African American to umpire a Major League Baseball game. His energetic gestures announcing when a player had struck out and his habit of barreling after a hit ball to see if it would land out of <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> transform the traditionally solemn umpire role into a dynamic one.</p>",
+  "templateclusterid": "8e5a15a1-3a30-442a-872a-48484c932cbf",
+  "parenttemplatename": "OSP-630-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d8447fe7-35c8-4cb9-9f49-8d508c8f9552",
+      "content": "<p>bounds helped</p>"
+    },
+    {
+      "id": "9fdc9885-44f0-475f-8ffc-ca3696206659",
+      "content": "<p>bounds, helping</p>"
+    },
+    {
+      "id": "c39af0a0-5cd4-4d3d-a101-d670fb0c78c9",
+      "content": "<p>bounds that helped</p>"
+    },
+    {
+      "id": "bca9ea66-86b9-4e20-b311-e725ee60bffc",
+      "content": "<p>bounds to help</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

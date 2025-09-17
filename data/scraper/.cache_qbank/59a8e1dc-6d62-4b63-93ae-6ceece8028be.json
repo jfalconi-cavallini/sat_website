@@ -1,0 +1,38 @@
+{
+  "vaultid": "c427aecb-574c-4ce0-a572-fdf8a05cff43",
+  "keys": [
+    "2f119aac-e9e0-4d4d-9fc0-333af6ce5bd8"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of verbs to express tense. In this choice, the simple past tense verb &ldquo;suggested&rdquo; properly indicates that Zufall offered her suggestion for the product&rsquo;s name in the past. This verb tense is consistent with the previous sentence&rsquo;s use of a simple past tense verb (&ldquo;advised&rdquo;) to describe Zufall&rsquo;s advice to McVicker in the 1950s. </p><p>Choice B is incorrect because the present tense verb &ldquo;suggests&rdquo; doesn&rsquo;t indicate that Zufall offered her suggestion in the past.&nbsp;Choice C is incorrect because the past perfect verb &ldquo;had suggested&rdquo; isn&rsquo;t consistent with the previous sentence&rsquo;s use of the simple past tense verb &ldquo;advised&rdquo; to describe Zufall&rsquo;s advice to McVicker. Choice D is incorrect because the past progressive verb &ldquo;was suggesting&rdquo; isn&rsquo;t consistent with the previous sentence&rsquo;s use of the simple past tense verb &ldquo;advised&rdquo; to describe Zufall&rsquo;s advice to McVicker.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "59a8e1dc-6d62-4b63-93ae-6ceece8028be",
+  "stimulus": "<p>In the 1950s, a man named Joseph McVicker was struggling to keep his business afloat when his sister-in-law Kay Zufall advised him to repurpose the company&rsquo;s product, a nontoxic, clay-like substance for removing soot from wallpaper, as a modeling putty for kids. In addition, Zufall <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> selling the product under a child-friendly name: Play-Doh.</p>",
+  "templateclusterid": "d28cd6df-1876-41de-9f90-510102cb756a",
+  "parenttemplatename": "OSP-676-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "2f119aac-e9e0-4d4d-9fc0-333af6ce5bd8",
+      "content": "<p>suggested</p>"
+    },
+    {
+      "id": "fda82deb-ff43-4ca4-b3cf-c6765e08d112",
+      "content": "<p>suggests</p>"
+    },
+    {
+      "id": "984ba4a9-5e1e-49cc-9ad8-8dd159d55352",
+      "content": "<p>had suggested</p>"
+    },
+    {
+      "id": "d6a6bd7f-76d6-4321-a8f6-92fd44af491b",
+      "content": "<p>was suggesting</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "55199aca-f4c1-471d-b65c-4b03527dc50e",
+  "keys": [
+    "1f161710-e224-423f-8fd8-1f7baea2d620"
+  ],
+  "rationale": "<p>Choice B is the best answer. &ldquo;For example&rdquo; logically signals that the information in this sentence&mdash;that tadpole shrimp embryos can pause development during extended periods of drought&mdash;exemplifies the previous sentence&rsquo;s claim that organisms have evolved surprising adaptations to survive in adverse conditions. &nbsp;</p><p>Choice A is incorrect because &ldquo;in contrast&rdquo; illogically signals that the information in this sentence contrasts with the claim about organisms in the previous sentence. Instead, it exemplifies this claim. Choice C is incorrect because &ldquo;meanwhile&rdquo; illogically signals that the information in this sentence is separate from (while occurring simultaneously with) the claim about organisms in the previous sentence. Instead, it exemplifies this claim. Choice D is incorrect because &ldquo;consequently&rdquo; illogically signals that the information in this sentence is a consequence, or result, of the claim about organisms in the previous sentence. Instead, it exemplifies this claim.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "e1d2bcfb-c4a8-43ee-aa27-c33539f9bc29",
+  "stimulus": "<p>Organisms have evolved a number of surprising adaptations to ensure their survival in adverse conditions. Tadpole shrimp (<em>Triops longicaudatus</em>) embryos, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> can pause development for over ten years during extended periods of drought.  </p>",
+  "templateclusterid": "3900bbff-5ebf-44a4-b807-b7ac0ed5b482",
+  "parenttemplatename": "OSP-224-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "1b38ba63-2a3e-4635-b9d3-23b557c19ded",
+      "content": "<p>in contrast,</p>"
+    },
+    {
+      "id": "1f161710-e224-423f-8fd8-1f7baea2d620",
+      "content": "<p>for example,</p>"
+    },
+    {
+      "id": "67dd2147-2cba-4451-86bc-9f5b5a4ae40b",
+      "content": "<p>meanwhile,</p>"
+    },
+    {
+      "id": "ab186120-534b-4713-8bf1-9f14bc7a000a",
+      "content": "<p>consequently,</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

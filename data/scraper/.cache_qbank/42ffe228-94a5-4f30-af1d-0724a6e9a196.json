@@ -1,0 +1,38 @@
+{
+  "vaultid": "8361ec0f-08ea-425f-8892-51164207b462",
+  "keys": [
+    "67bddd83-612b-4c3f-8bf6-42c71354912e"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of Nuttall&rsquo;s 1886 research paper. In this context, &ldquo;acknowledged&rdquo; means recognized as having a certain status. The text indicates that other researchers recognized Nuttall&rsquo;s work as groundbreaking because of its &ldquo;convincing demonstration&rdquo; related to the age of the ancient sculptures. In other words, the researchers recognized the groundbreaking status of Nuttall&rsquo;s work. </p><p>Choice B is incorrect because in this context, &ldquo;ensured&rdquo; would mean to have guaranteed or made sure something was the case. The text states that other researchers gave Nuttall&rsquo;s work recognition after it was published, but there&rsquo;s no indication that they contributed to the work or had any involvement that would have allowed them to make sure the work would be groundbreaking. Choice C is incorrect because the text doesn&rsquo;t suggest that other researchers &ldquo;denied,&rdquo; or refused to admit or accept, that Nuttall&rsquo;s work was groundbreaking; on the contrary, it indicates that researchers praised the work, recognizing it as groundbreaking due to its &ldquo;convincing demonstration&rdquo; related to the age of the ancient sculptures. Choice D is incorrect because the text doesn&rsquo;t suggest that other researchers &ldquo;underestimated,&rdquo; or undervalued, Nuttall&rsquo;s work; on the contrary, it indicates that researchers praised the work, recognizing it as groundbreaking due to its &ldquo;convincing demonstration&rdquo; related to the age of the ancient sculptures. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "42ffe228-94a5-4f30-af1d-0724a6e9a196",
+  "stimulus": "<p>When Mexican-American archaeologist Zelia Maria Magdalena Nuttall published her 1886 research paper on sculptures found at the ancient Indigenous city of Teotihuacan in present-day Mexico, other researchers readily <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> her work as groundbreaking; this recognition stemmed from her convincing demonstration that the sculptures were much older than had previously been thought.</p>",
+  "templateclusterid": "2fb05156-e348-4aa3-bf6c-8c240a41cf8a",
+  "parenttemplatename": "OSP-971-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "67bddd83-612b-4c3f-8bf6-42c71354912e",
+      "content": "<p>acknowledged</p>"
+    },
+    {
+      "id": "a416edd7-917a-44cc-a40b-6e12b21db7c5",
+      "content": "<p>ensured</p>"
+    },
+    {
+      "id": "a5abec21-d662-41e9-a013-b8132e7b5afd",
+      "content": "<p>denied</p>"
+    },
+    {
+      "id": "db4d82de-ab59-4da6-bbaa-2a5f49778947",
+      "content": "<p>underestimated</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>When sculptor Fr&eacute;d&eacute;ric Auguste Bartholdi was designing the Statue of Liberty, he sought the advice of engineer Gustave Eiffel. Eiffel suggested that he make the statue&rsquo;s arm thick and position it straight above the figure&rsquo;s head. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Bartholdi decided to slim the arm and tilt it out at an angle.</p>",
+  "type": "mcq",
+  "keys": [
+    "a6dc8af3-79f4-4090-8c4b-4ad2353f642c"
+  ],
+  "answerOptions": [
+    {
+      "id": "937b0963-010e-4b95-b786-ae21ce216a26",
+      "content": "<p>Additionally,</p>"
+    },
+    {
+      "id": "a6dc8af3-79f4-4090-8c4b-4ad2353f642c",
+      "content": "<p>Instead,</p>"
+    },
+    {
+      "id": "34ee6015-5b78-466b-80cb-06e780247bd3",
+      "content": "<p>Thus,</p>"
+    },
+    {
+      "id": "6bf3dbfc-e63a-4918-b9b9-cc2330c920ae",
+      "content": "<p>For example,</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. \"Instead\" logically signals that the information in this sentence&mdash;that Bartholdi decided to slim and tilt out the arm of the Statue of Liberty&mdash;contrasts with Eiffel&rsquo;s design suggestions for the statue.</p><p>Choice A is incorrect because \"additionally\" illogically suggests that the information in this sentence is merely an additional fact related to Eiffel&rsquo;s design suggestions in the previous sentence. Instead, it contrasts with those suggestions. Choice C is incorrect because \"thus\" illogically signals that the information that follows is a result of Eiffel&rsquo;s design suggestions in the previous sentence. Instead, it contrasts with those suggestions. Choice D is incorrect because \"for example\" illogically signals that the information about Bartholdi&rsquo;s design decisions in this sentence exemplifies Eiffel&rsquo;s design suggestions in the previous sentence. Instead, it contrasts with those suggestions.</p>",
+  "externalid": "33820d28-1cc6-4c43-8e4f-7fc2bc817315",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>To guarantee the validity of experimental results, scientists rely on precise, unchanging standards of measurement. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> metrologists (scientists who study measurement) developed the SI, or International System of Units. The SI&rsquo;s units of measurement are based on unchanging values in nature, such as the mass of an electron or the speed of light.</p>",
+  "type": "mcq",
+  "keys": [
+    "455bd43b-1700-4867-8381-3c7a90d08e40"
+  ],
+  "answerOptions": [
+    {
+      "id": "4e2db86f-d537-4bb2-a68b-3a345ed16a91",
+      "content": "<p>In contrast,</p>"
+    },
+    {
+      "id": "3a1647bb-853a-4391-a5b2-93c0b430b896",
+      "content": "<p>Regardless,</p>"
+    },
+    {
+      "id": "f02dc900-4263-4d8c-8d82-6c9ad3d4dbcf",
+      "content": "<p>In addition,</p>"
+    },
+    {
+      "id": "455bd43b-1700-4867-8381-3c7a90d08e40",
+      "content": "<p>For this reason,</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. \"For this reason\" logically signals that the information that follows&mdash;that metrologists developed the SI based on unchanging values in nature&mdash;is a result of the previous claim that scientists rely on precise, unchanging standards of measurement to guarantee the validity of experimental results.</p><p>Choice A is incorrect because \"in contrast\" illogically signals that the information that follows contrasts with the previous claim that scientists rely on precise, unchanging standards of measurement. Instead, the information that metrologists developed the SI based on unchanging values in nature is a result of that claim. Choice B is incorrect because \"regardless\" illogically signals that the information that follows is true despite the previous claim that scientists rely on precise, unchanging standards of measure. Instead, the information that metrologists developed the SI based on unchanging values in nature is a result of that claim. Choice C is incorrect because \"in addition\" illogically signals that the information that follows is merely an additional fact related to the previous claim that scientists rely on precise, unchanging standards of measurement. Instead, the information that metrologists developed the SI based on unchanging values in nature is a result of that claim.</p>",
+  "externalid": "02e0c152-44d7-473c-801f-33c3b32c565c",
+  "correct_answer": [
+    "D"
+  ]
+}

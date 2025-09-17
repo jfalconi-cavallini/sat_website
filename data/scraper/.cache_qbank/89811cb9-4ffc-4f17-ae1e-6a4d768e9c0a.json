@@ -1,0 +1,38 @@
+{
+  "vaultid": "57c6eca3-8646-4e4b-8ae4-e0b635748733",
+  "keys": [
+    "9c1b8459-91ce-4a20-913d-df98c3ba3343"
+  ],
+  "rationale": "<p>Choice D is the best answer. &ldquo;However&rdquo; logically signals that this sentence, which indicates that the Pūhāhonu volcano may be larger than the Mauna Loa volcano, offers a contrast to or refutation of the previous assumption that Mauna Loa is the largest shield volcano. </p><p>Choice A is incorrect because &ldquo;secondly&rdquo; illogically signals that this sentence merely offers an additional or secondary point concerning the previous assumption that Mauna Loa is the largest shield volcano. Instead, the sentence offers a contrast to or refutation of that assumption. Choice B is incorrect because &ldquo;consequently&rdquo; illogically signals that this sentence offers a result or consequence of the previous assumption that Mauna Loa is the largest shield volcano. Instead, the sentence offers a contrast to or refutation of that assumption. Choice C is incorrect because &ldquo;moreover&rdquo; illogically signals that this sentence merely adds to the previous assumption that Mauna Loa is the largest shield volcano. Instead, the sentence offers a contrast to or refutation of that assumption. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "89811cb9-4ffc-4f17-ae1e-6a4d768e9c0a",
+  "stimulus": "<p>Geoscientists have long considered Hawaii&rsquo;s Mauna Loa volcano to be Earth&rsquo;s largest shield volcano by volume, measuring approximately 74,000 cubic kilometers. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> according to a 2020 study by local geoscientist Michael Garcia, Hawaii&rsquo;s Pūhāhonu shield volcano is significantly larger, boasting a volume of about 148,000 cubic kilometers.</p>",
+  "templateclusterid": "8bb3ba7d-3a9c-44b4-9c4b-3ac40365dbd7",
+  "parenttemplatename": "OSP-216-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "9494d4db-656f-4cac-9dbf-173907b14b47",
+      "content": "<p>Secondly,</p>"
+    },
+    {
+      "id": "ab8439ef-7eeb-411d-819b-e5d8fc67bac3",
+      "content": "<p>Consequently,</p>"
+    },
+    {
+      "id": "5db3ca92-fd04-4c90-ae8e-b4b2d11e8411",
+      "content": "<p>Moreover,</p>"
+    },
+    {
+      "id": "9c1b8459-91ce-4a20-913d-df98c3ba3343",
+      "content": "<p>However,</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

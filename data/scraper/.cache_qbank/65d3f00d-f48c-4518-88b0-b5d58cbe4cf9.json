@@ -1,0 +1,38 @@
+{
+  "vaultid": "06bfffc0-30ed-47b8-942f-c0ad0f483bc0",
+  "keys": [
+    "18ebb0f3-d5b0-40b0-b69d-6be94efb6577"
+  ],
+  "rationale": "<p>Choice C is the best answer because it presents the finding that, if true, would most strongly support Tannen&rsquo;s hypothesis. According to the text, Tannen&rsquo;s hypothesis is that multiple perspectives presented in a noncompetitive format is more informative than a debate between opposing viewpoints is. If participants who saw a panel of three commentators with various views about an issue answered more questions about the issue correctly than did participants who saw a debate, that would support Tannen&rsquo;s hypothesis since it would show that participants who heard multiple varied perspectives were better informed than were participants who heard a debate between opposing viewpoints.</p><p>Choice A is incorrect because finding that participants perceived commentators in the debate as more knowledgeable than commentators in the panel is irrelevant to Tannen&rsquo;s hypothesis, which is that presenting multiple perspectives on an issue is more informative to the audience than presenting opposing views of the issue is. Participants&rsquo; perception of how knowledgeable panelists are has no bearing on how much participants learn from the panelists. Choice B is incorrect because finding that participants perceived commentators in the panel as more knowledgeable than a single commentator is irrelevant to Tannen&rsquo;s hypothesis, which is that presenting multiple perspectives on an issue is more informative to the audience than presenting opposing views of the issue is. Participants&rsquo; perception of how knowledgeable panelists are has no bearing on how much participants learn from the panelists, and Tannen&rsquo;s hypothesis says nothing about how informative single commentators are. Choice D is incorrect because finding that participants who watched a single commentator answered more questions correctly than participants who watched the debate did wouldn&rsquo;t be relevant to Tannen&rsquo;s hypothesis, which is that hearing multiple varying perspectives is more informative than hearing a debate. Tannen&rsquo;s hypothesis says nothing about how informative single commentators are.</p>",
+  "origin": "proteus",
+  "stem": "<p>Which finding from the students&rsquo; study, if true, would most strongly support Tannen&rsquo;s hypothesis?</p>",
+  "externalid": "65d3f00d-f48c-4518-88b0-b5d58cbe4cf9",
+  "stimulus": "<p>Linguist Deborah Tannen has cautioned against framing contentious issues in terms of two highly competitive perspectives, such as pro versus con. According to Tannen, this debate-driven approach can strip issues of their complexity and, when used in front of an audience, can be less informative than the presentation of multiple perspectives in a noncompetitive format. To test Tannen&rsquo;s hypothesis, students conducted a study in which they showed participants one of three different versions of local news commentary about the same issue. Each version featured a debate between two commentators with opposing views, a panel of three commentators with various views, or a single commentator.</p>",
+  "templateclusterid": "1be32db7-d7a5-4003-85e8-97a481bf7c56",
+  "parenttemplatename": "OSP-322-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "f8a49dc9-fe02-4fd7-9a39-acbcd4f13906",
+      "content": "<p>On average, participants perceived commentators in the debate as more knowledgeable about the issue than commentators in the panel.</p>"
+    },
+    {
+      "id": "49072328-d1de-40f3-88ba-09be3f56c560",
+      "content": "<p>On average, participants perceived commentators in the panel as more knowledgeable about the issue than the single commentator.</p>"
+    },
+    {
+      "id": "18ebb0f3-d5b0-40b0-b69d-6be94efb6577",
+      "content": "<p>On average, participants who watched the panel correctly answered more questions about the issue than those who watched the debate or the single commentator did.</p>"
+    },
+    {
+      "id": "08a9d356-ec5a-4ce0-a608-a199c0ae6ccc",
+      "content": "<p>On average, participants who watched the single commentator correctly answered more questions about the issue than those who watched the debate did.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

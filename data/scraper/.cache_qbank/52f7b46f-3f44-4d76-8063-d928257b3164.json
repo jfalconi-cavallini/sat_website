@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Between 322 and 184 BCE, the Maurya Empire established a complex economic system that, through trade and centralized <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> funded major infrastructure projects throughout the Indian subcontinent. This included the building of many roads, canals, and hospitals. &nbsp;&nbsp;</p>",
+  "keys": [
+    "ad57b6d5-b5d9-4eb4-b981-471c7d4eecd4"
+  ],
+  "answerOptions": [
+    {
+      "id": "1e340727-0a4b-430e-9aff-9f0efcc4c7ee",
+      "content": "<p>taxation<span data-ssml-say-as=\"characters\">:</span></p>"
+    },
+    {
+      "id": "ad57b6d5-b5d9-4eb4-b981-471c7d4eecd4",
+      "content": "<p>taxation<span data-ssml-say-as=\"characters\">,</span></p>"
+    },
+    {
+      "id": "a3cba6d9-8ab5-4f8a-9d23-5331fffd8057",
+      "content": "<p>taxation<span data-ssml-say-as=\"characters\">&mdash;</span></p>"
+    },
+    {
+      "id": "429ada61-8ed8-40e1-9959-a6cc22fe6b37",
+      "content": "<p>taxation</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the use of punctuation within a sentence. The comma after \"taxation\" pairs with the comma after \"that\" to separate the supplementary element \"through trade and centralized taxation\" from the rest of the sentence. This supplementary element functions to identify the funding source of the Mauryan economy, and the pair of commas indicates that this element could be removed without affecting the grammatical coherence of the sentence.</p><p>Choice A is incorrect because a colon can&rsquo;t be paired with a comma in this way to separate the supplementary element from the rest of the sentence. Choice C is incorrect because a dash can&rsquo;t be paired with a comma in this way to separate the supplementary element from the rest of the sentence. Choice D is incorrect because it fails to use appropriate punctuation to separate the supplementary element from the rest of the sentence.</p>",
+  "externalid": "52f7b46f-3f44-4d76-8063-d928257b3164",
+  "correct_answer": [
+    "B"
+  ]
+}

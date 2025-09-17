@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Celebrated Tewa potter Maria Martinez (1887&ndash;1980) made her signature all-black ceramic vessels using a heating technique called reduction firing. This technique involves smothering the flame surrounding the clay vessel. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the vessel takes on a shiny, black hue. &nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "58846327-bb37-4422-bd03-6e8f2c724fd1"
+  ],
+  "answerOptions": [
+    {
+      "id": "75bc3e92-9508-4eb0-b56b-35b022da1a7e",
+      "content": "<p>On the contrary,</p>"
+    },
+    {
+      "id": "0279df48-d124-4988-b0ae-61ce95e3446b",
+      "content": "<p>For example,</p>"
+    },
+    {
+      "id": "75b9acd4-2ac4-4cac-96d5-b5d8093844c6",
+      "content": "<p>Previously,</p>"
+    },
+    {
+      "id": "58846327-bb37-4422-bd03-6e8f2c724fd1",
+      "content": "<p>As a result, &nbsp;&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. \"As a result\" logically signals that the information in this sentence&mdash;the vessel turning black&mdash;is a result of the heating technique discussed in the previous sentence.</p><p>Choice A is incorrect because \"on the contrary\" illogically signals that the information in this sentence directly opposes the heating technique in the previous sentence. Instead, the vessel turns black as a result of that technique. Choice B is incorrect because \"for example\" illogically signals that the information in this sentence is an example of the heating technique in the previous sentence. Instead, the vessel turns black as a result of that technique. Choice C is incorrect because \"previously\" illogically signals that the information in this sentence occurs earlier in a chronological series of events than does the heating technique discussed in the first two sentences. Instead, the vessel turns black as a result of that technique.</p>",
+  "externalid": "c6ba56a9-8d3b-489d-b21a-df9f68e41920",
+  "correct_answer": [
+    "D"
+  ]
+}

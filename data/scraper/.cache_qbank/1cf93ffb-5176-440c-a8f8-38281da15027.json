@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best describes the function of the underlined sentence in the text as a whole?</p>",
+  "stimulus": "<p>Chile&rsquo;s Atacama Desert is one of the driest places on Earth. <span role=\"region\" aria-label=\"Referenced Content\"><u>Mary Beth Wilhelm and other astrobiologists search for life, or its remains, in this harsh place because the desert closely mirrors the extreme environment on Mars.</u></span> The algae and bacteria found in Atacama&rsquo;s driest regions may offer clues about Martian life. By studying how these and other microorganisms survive such extreme conditions on Earth, Wilhelm&rsquo;s team hopes to determine whether similar life might have existed on Mars and to develop the best tools to look for evidence of it.</p>",
+  "type": "mcq",
+  "keys": [
+    "d06b69f5-b81d-48f4-8d7e-9a50ac6c7a79"
+  ],
+  "answerOptions": [
+    {
+      "id": "1ebb0030-0077-41b1-9aa9-cad430c8cbae",
+      "content": "<p>To contrast the conditions in the Atacama Desert with those on Mars</p>"
+    },
+    {
+      "id": "9af54795-a6ef-44ee-87f9-d47da2f8e38f",
+      "content": "<p>To explain why many life-forms cannot survive in the Atacama Desert</p>"
+    },
+    {
+      "id": "d06b69f5-b81d-48f4-8d7e-9a50ac6c7a79",
+      "content": "<p>To indicate why astrobiologists choose to conduct research in the Atacama Desert</p>"
+    },
+    {
+      "id": "ec41acce-8640-40a4-9335-8f25abc26462",
+      "content": "<p>To describe certain limitations to conducting scientific study in the Atacama Desert</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most accurately describes how the underlined sentence functions in the text as a whole. The first sentence describes a unique location on Earth, the Atacama Desert. The next sentence, which is the underlined sentence, states that the reason why astrobiologists study life, or its remains, in this unique location is that Atacama is a harsh environment that closely resembles the extreme environment of Mars. The remainder of the text explains that the researchers hope their work in Atacama will support inquiry into life on Mars. Thus, the underlined portion functions mainly to indicate why astrobiologists choose to conduct research in the Atacama Desert.</p><p>Choice A is incorrect because to contrast two things means to show the differences between them, and the phrase \"closely mirrors\" in the underlined sentence indicates that the extreme environment in the Atacama Desert is similar to, not different from, that on Mars. This similarity is why, according to the underlined sentence, astrobiologists conduct research in Atacama. Choice B is incorrect because the underlined sentence doesn&rsquo;t address forms of life that are unable to survive the harsh environment of the Atacama Desert. Instead, the underlined sentence explains why astrobiologists study life, or its remains, in this environment. Choice D is incorrect because the underlined sentence doesn&rsquo;t suggest that the scientific research in the Atacama Desert is limited in any way; instead, the sentence explains that the similarity between the environments of Atacama and Mars is the reason why astrobiologists search for life, or its remains, in Atacama.</p>",
+  "externalid": "1cf93ffb-5176-440c-a8f8-38281da15027",
+  "correct_answer": [
+    "C"
+  ]
+}

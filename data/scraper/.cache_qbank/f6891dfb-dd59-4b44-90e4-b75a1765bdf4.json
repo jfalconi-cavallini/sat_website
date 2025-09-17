@@ -1,0 +1,38 @@
+{
+  "vaultid": "199b3b26-77c2-4c54-87f0-9023cb74cc6c",
+  "keys": [
+    "04e20dbc-4b68-4638-a3a1-c7542ac9f60b"
+  ],
+  "rationale": "<p>Choice C is the best answer. \"In addition\" logically signals that Naff&rsquo;s artifact collecting was separate from, and in addition to, her interviewing.</p><p>Choice A is incorrect because \"in other words\" illogically signals that the information about Naff&rsquo;s artifact collecting restates the previous information about her interviewing. Instead, Naff collected artifacts in addition to conducting interviews. Choice B is incorrect because \"on the contrary\" illogically signals that Naff&rsquo;s artifact collecting was contrary to her interviewing. Instead, Naff collected artifacts in addition to conducting interviews. Choice D is incorrect because \"today\" illogically signals that Naff&rsquo;s artifact collecting is occurring in the present day. Instead, this activity occurred in the past, as indicated by the past tense verb \"collected.\"</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "f6891dfb-dd59-4b44-90e4-b75a1765bdf4",
+  "stimulus": "<p>As a young historian in the 1950s, Alixa Naff began interviewing fellow Arab American immigrants about their experiences straddling two cultures. Over the next few decades, Naff conducted more than 450 such interviews, also known as oral histories. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> she collected photographs and other artifacts that represented her subjects&rsquo; experiences.</p>",
+  "templateclusterid": "029f4f9d-bb2d-48bb-a766-765194a2e8bb",
+  "parenttemplatename": "OSP-247-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "63e78bc3-3755-4ab9-bc77-556ad65f28a6",
+      "content": "<p>In other words,</p>"
+    },
+    {
+      "id": "5d454f81-c580-48ca-8029-b0f2161a72b8",
+      "content": "<p>On the contrary,</p>"
+    },
+    {
+      "id": "04e20dbc-4b68-4638-a3a1-c7542ac9f60b",
+      "content": "<p>In addition,</p>"
+    },
+    {
+      "id": "aee91192-3caa-46fb-a2ce-ae9f29eca635",
+      "content": "<p>Today,</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

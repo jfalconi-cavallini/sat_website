@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best describes the overall structure of the text?</p>",
+  "stimulus": "<p>The north celestial pole (NCP)&mdash;the fixed point around which stars in the Northern Hemisphere (including the Sun) appear to rotate&mdash;is discernible only at night. Inspired by the navigational strategies of some insects and birds, researchers devised a method for locating the NCP in daytime using skylight polarization, which occurs as atmospheric particles scatter sunlight. A polarimetric camera captures images of polarization patterns, which rotate as the Sun&rsquo;s position in the sky changes; temporal variances across images can then be used to determine an observer&rsquo;s latitude and bearing relative to the NCP.</p>",
+  "keys": [
+    "f2523f37-62d3-4d91-8a6b-923c122f006f"
+  ],
+  "answerOptions": [
+    {
+      "id": "9a7bf483-0d44-4c80-acc8-bc6f26941e09",
+      "content": "<p>It illustrates how most navigational tools utilize the NCP, recounts how researchers discovered that certain animals are able to navigate without using the NCP, and then proposes that this discovery could be used to avoid problems in navigation associated with reliance on the NCP.</p>"
+    },
+    {
+      "id": "e7f7c0aa-524e-48d8-9fab-f631b648fdbd",
+      "content": "<p>It presents a celestial-based method of navigation, enumerates the comparative benefits of an alternative method used by certain animals that is based on an unrelated natural occurrence, and then indicates how researchers assessed the relative accuracy of the two methods.</p>"
+    },
+    {
+      "id": "8d31e2fd-6f66-402c-8d67-90a9c7f63271",
+      "content": "<p>It explains how the NCP is typically located, emphasizes a key difference between how humans and certain animals use the NCP for navigation, and then suggests an alternative way of using the NCP to improve existing navigational instruments.</p>"
+    },
+    {
+      "id": "f2523f37-62d3-4d91-8a6b-923c122f006f",
+      "content": "<p>It notes an obstacle to observing an astronomical phenomenon, mentions a navigational ability of certain animals that inspired a solution to that obstacle, and then explains how researchers used an optical device to mimic that ability.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it accurately describes the overall structure of the text. The text begins by pointing out an obstacle to observing the astronomical phenomenon of the NCP: the NCP is visible only at night. The text then indicates that, inspired by the ability of some insects and birds to navigate using visualizations of polarized sunlight, researchers devised a way to locate the NCP during daylight. The text then indicates that the researchers mimicked the insects&rsquo; and birds&rsquo; polarized-light visualization capabilities using a polarimetric camera. Thus, the text notes an obstacle to observing an astronomical phenomenon, mentions a navigational ability of certain animals that inspired a solution to that obstacle, and then explains how researchers used an optical device to mimic that ability.</p><p>Choice A is incorrect. Although it&rsquo;s reasonable to conjecture that humans have used the NCP for navigation, the text doesn&rsquo;t indicate this is the case, let alone that the NCP is relevant to a majority of navigational tools. Furthermore, the text doesn&rsquo;t state that researchers discovered that insects and birds navigate without the NCP; rather, it indicates that it&rsquo;s known that some animals navigate by using skylight polarization to locate the NCP during the day and that this knowledge inspired the method the researchers devised. Choice B is incorrect. Although it&rsquo;s reasonable to conjecture that humans have used the NCP for navigation, the text doesn&rsquo;t state that this is the case. Furthermore, the text discusses how some animals&rsquo; use of navigational strategies based on the same celestial occurrence served as the inspiration for the researchers&rsquo; polarized-light approach, not as the basis for a comparison of the relative effectiveness of animal and human methods of navigation. Choice C is incorrect. Although the text implies that humans have typically been able to locate the NCP visually at night and indicates that some animals use the NCP to navigate, the text doesn&rsquo;t state that humans use the NCP for navigation. The text therefore doesn&rsquo;t emphasize a difference between how humans and animals use the NCP for this purpose. Furthermore, the text doesn&rsquo;t suggest that existing navigational instruments will be augmented with polarimetric technologies.</p>",
+  "externalid": "1f888d4d-cf99-4016-a73b-088ef836dc5a",
+  "correct_answer": [
+    "D"
+  ]
+}

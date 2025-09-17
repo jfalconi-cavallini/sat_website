@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>The Alaska Native Language Archive (ANLA) is known for its impressive audio collection. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the ANLA has more than 5,000 audio recordings of Native Alaskan languages dating as far back as 1943.</p>",
+  "keys": [
+    "c01738ef-b17c-4ffb-9bca-f30a4b3a972d"
+  ],
+  "answerOptions": [
+    {
+      "id": "c01738ef-b17c-4ffb-9bca-f30a4b3a972d",
+      "content": "<p>In fact,</p>"
+    },
+    {
+      "id": "1f081d74-6004-4bbf-b8cf-2f0c62c20b07",
+      "content": "<p>After,</p>"
+    },
+    {
+      "id": "2addc819-e4bb-4270-b4cd-2aab8f99bb60",
+      "content": "<p>Regardless,&nbsp;</p>"
+    },
+    {
+      "id": "b624d8d5-fbe6-4b39-a92e-2e88cf48290b",
+      "content": "<p>Instead,</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. \"In fact\" logically signals that the information in this sentence about the large number of recordings in ANLA&rsquo;s collection emphasizes and supports the previous claim that ANLA is known for its impressive audio collection.</p><p>Choice B is incorrect because \"after\" illogically signals that the information in this sentence occurs later in a sequence of events than the previous claim about ANLA&rsquo;s impressive audio collection. Instead, the information about the large number of recordings emphasizes and supports that claim. Choice C is incorrect because \"regardless\" illogically signals that the information in this sentence is true despite the previous claim about ANLA&rsquo;s impressive audio collection. Instead, the information about the large number of recordings emphasizes and supports that claim. Choice D is incorrect because \"instead\" illogically signals that the information in this sentence presents an alternative to the previous claim about ANLA&rsquo;s impressive audio collection. Rather, the information about the large number of recordings emphasizes and supports that claim.</p>",
+  "externalid": "149f980e-e490-45de-816b-5d998b8dcad0",
+  "correct_answer": [
+    "A"
+  ]
+}

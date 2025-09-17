@@ -1,0 +1,38 @@
+{
+  "vaultid": "608a5f20-f8e0-4b99-b5da-b07495b14104",
+  "keys": [
+    "81b46448-8cdb-4db7-9e4b-03081abf9afe"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is pronoun-antecedent agreement. The plural pronoun \"they\" agrees in number with the plural antecedent \"animals,\" which refers to tardigrades.</p><p>Choice A is incorrect because the singular pronoun \"that\" doesn&rsquo;t agree in number with the plural antecedent \"animals.\" Choice B is incorrect because the singular pronoun \"it\" doesn&rsquo;t agree in number with the plural antecedent \"animals.\" Choice D is incorrect because the singular pronoun \"he\" doesn&rsquo;t agree in number with the plural antecedent \"animals.\"</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "1302875a-5271-4e0a-8ec6-526e0b4929e6",
+  "stimulus": "<p>Smaller than poppy seeds, tardigrades are tiny, but they are tough. These minuscule animals can survive for thirty years without food or water, and <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> can withstand extreme temperatures as low as minus 328 degrees and as high as 304 degrees Fahrenheit.</p>",
+  "templateclusterid": "3f248945-5ecc-494d-8cc6-2ab7a65227c4",
+  "parenttemplatename": "OSP-757-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "70576821-befc-4141-87da-9017d75292c7",
+      "content": "<p>that</p>"
+    },
+    {
+      "id": "8498e371-007f-4221-9c7d-b14a044c08d5",
+      "content": "<p>it</p>"
+    },
+    {
+      "id": "81b46448-8cdb-4db7-9e4b-03081abf9afe",
+      "content": "<p>they</p>"
+    },
+    {
+      "id": "855bf2d9-df9d-475d-9f03-fdfb57d26bfd",
+      "content": "<p>he</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

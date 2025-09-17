@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>The way in which individual elements are balanced within a photographic image tends to affect how viewers perceive it: symmetry tends to give the elements equal importance, asymmetry emphasizes differences, and radial balance (organizing the elements around a central point) emphasizes the center over the periphery. What a photograph conveys is therefore largely <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> how it is balanced.</p>",
+  "type": "mcq",
+  "keys": [
+    "a964d7af-8427-4532-82fa-76707bf205d1"
+  ],
+  "answerOptions": [
+    {
+      "id": "9ba79d44-79e0-446c-bc84-2d42de2faddf",
+      "content": "<p>inhibited by</p>"
+    },
+    {
+      "id": "a964d7af-8427-4532-82fa-76707bf205d1",
+      "content": "<p>contingent on</p>"
+    },
+    {
+      "id": "0c177d74-fe1e-40c9-b85a-9603c5d07df6",
+      "content": "<p>obligated to</p>"
+    },
+    {
+      "id": "d26cadea-2002-4b2b-9130-09568fd8d7f7",
+      "content": "<p>reserved for</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of visual balance in photography. In this context, \"contingent on\" means conditional upon, or determined by. The text indicates that different ways of balancing elements in a photograph convey different ideas to viewers (for example, symmetrical composition tends to emphasize similarity among elements, whereas asymmetry tends to emphasize difference). Thus, there is a strong connection between what a photograph conveys and how its elements are balanced. Therefore, what a photo conveys is contingent on how it is balanced.</p><p>Choice A is incorrect. In this context, \"inhibited by\" most nearly means hindered or undermined by. The text indicates that different ways of balancing elements in a photograph convey different ideas to viewers, thereby indicating a relationship between image balance and what is conveyed. Although this explanation is consistent with a photographer choosing asymmetrical balance even while intending to convey similarity (associated with symmetrical balance), there is nothing to indicate that messages generally are inhibited by balance. Rather the implication is that balance is a tool photographers can use to craft their messages. Choice C is incorrect. In this context, \"obligated to\" means duty bound toward or answerable to. In context, it would not make sense to assert that a photograph&rsquo;s message is obligated to how that photograph is balanced. Choice D is incorrect. In this context, \"reserved for\" most nearly means solely available to someone or held aside for some purpose. The text as a whole does not support the claim that a photograph&rsquo;s message is reserved for how that photograph is balanced.</p>",
+  "externalid": "f6091079-bc99-40fa-9c7d-aac6bb0c1952",
+  "correct_answer": [
+    "B"
+  ]
+}

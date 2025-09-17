@@ -1,0 +1,38 @@
+{
+  "vaultid": "e43b0cc9-d061-42d2-aaa7-bbe5c101ee8c",
+  "keys": [
+    "c6b19e23-2c3f-46cf-9348-11ede4807e43"
+  ],
+  "rationale": "<p>Choice A is the best answer. &ldquo;For instance&rdquo; logically signals that the information in this sentence&mdash;that larch trees lose their needles every fall&mdash;is an example supporting the claim in the previous sentence (that not all conifer species keep their leaves or needles year-round).&nbsp;</p><p>Choice B is incorrect because &ldquo;nevertheless&rdquo; illogically signals that the information in this sentence is true in spite of the claim about conifer species in the previous sentence. Instead, it&rsquo;s an example supporting that claim. Choice C is incorrect because &ldquo;meanwhile&rdquo; illogically signals that the information in this sentence is separate from (while occurring simultaneously with) the claim about conifer species in the previous sentence. Instead, it&rsquo;s an example supporting that claim. Choice D is incorrect because &ldquo;in addition&rdquo; illogically signals that the information in this sentence is merely an additional fact related to the claim about conifer species in the previous sentence. Instead, it&rsquo;s an example supporting that claim. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "022a092a-5b1f-44de-a3fd-af3b8f11340b",
+  "stimulus": "<p>Most conifers (trees belonging to the phylum Coniferophyta)<em> </em>are evergreen. That is, they keep their green leaves or needles year-round. However, not all conifer species are evergreen. Larch trees, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> lose their needles every fall.</p>",
+  "templateclusterid": "0b9f3b23-7a6a-4046-9974-245908ea6006",
+  "parenttemplatename": "OSP-233-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "c6b19e23-2c3f-46cf-9348-11ede4807e43",
+      "content": "<p>for instance,</p>"
+    },
+    {
+      "id": "8ec5c6eb-f53d-4c99-87a9-a9f1b946c801",
+      "content": "<p>nevertheless,</p>"
+    },
+    {
+      "id": "d0f93925-8437-4376-a03e-325108a1c7f9",
+      "content": "<p>meanwhile,</p>"
+    },
+    {
+      "id": "fb2014e6-5fb3-494e-9b5c-369d19bde22f",
+      "content": "<p>in addition,</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

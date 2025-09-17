@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice most effectively uses data from the table to complete the student&rsquo;s claim?&nbsp;</p>",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Percentage of Bus Shelters with Shade in a County by Areas’ Highest Average Summer Surface Temperature</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Highest average surface temperature (Fahrenheit)</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Percentage of bus stops with shaded shelter</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: center;\">90.2&deg;</th><td style=\"text-align: center;\">15%</td></tr><tr><th scope=\"row\" style=\"text-align: center;\">97.7&deg;</th><td style=\"text-align: center;\">22%</td></tr><tr><th scope=\"row\" style=\"text-align: center;\">102.7&deg;</th><td style=\"text-align: center;\">24%</td></tr><tr><th scope=\"row\" style=\"text-align: center;\">111.2&deg;</th><td style=\"text-align: center;\">28%</td></tr><tr><th scope=\"row\" style=\"text-align: center;\">125.6&deg;</th><td style=\"text-align: center;\">29%</td></tr></tbody></table></figure></p>\n<p>A student is researching a bus system in a large county where surface temperatures vary by area and are hot in the summer. The student claims that all areas of the county should have more bus stops with shaded shelter, noting that the highest percentage of bus stops with shaded shelter for any area is only <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "6eeb7ce1-1d6d-4b65-b26a-7b4ddc862fa8"
+  ],
+  "answerOptions": [
+    {
+      "id": "ca1b45c5-23b0-458b-88d6-9c5a9d9f727c",
+      "content": "<p>50%.</p>"
+    },
+    {
+      "id": "36957aa9-7668-4340-82b4-987b3c0d5c8a",
+      "content": "<p>15%.</p>"
+    },
+    {
+      "id": "1a179b61-23f3-48ce-9d97-817f51b5d4ad",
+      "content": "<p>90%.</p>"
+    },
+    {
+      "id": "6eeb7ce1-1d6d-4b65-b26a-7b4ddc862fa8",
+      "content": "<p>29%.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it effectively uses data from the table to complete the student&rsquo;s claim about the highest percentage of bus stops with shaded shelter in the areas represented. The table shows the highest average surface temperature of five areas and the percentage of bus stops with shaded shelter in each area, and 29% is the highest percentage listed.</p><p>Choice A is incorrect because the list of percentages of bus stops with shaded shelter does not include 50%; the highest percentage in the table is 29%. Choice B is incorrect because 15% is the lowest value in the listed percentages of bus stops with shaded shelter, not the highest value. Choice C is incorrect because the list of percentages of bus stops with shaded shelter does not include 90%; the highest percentage in the table is 29%.</p>",
+  "externalid": "738bb8cf-0cb8-43fe-8790-a8d9e93bfa3a",
+  "correct_answer": [
+    "D"
+  ]
+}

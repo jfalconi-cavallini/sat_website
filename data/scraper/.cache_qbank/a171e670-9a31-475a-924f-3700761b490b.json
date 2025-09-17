@@ -1,0 +1,38 @@
+{
+  "vaultid": "fa787dd8-3411-4f82-b783-7df12ce9fede",
+  "keys": [
+    "575810b3-1070-4346-a0c0-0cbb328d40ba"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between one sentence (\"The poem&hellip;exclamation\") and another sentence that begins with a supplementary element (\"Translated&hellip;poem\"). The supplementary element \"translated as &lsquo;hark!&rsquo; or &lsquo;listen!&rsquo; in some versions\" modifies the subject of the second sentence, \"the word\" (referring to <span lang=\"oe\">hw&aelig;t</span>).</p><p>Choice A is incorrect because it results in a comma splice after \"exclamation.\" A comma can&rsquo;t be used in this way to mark the boundary between sentences. Choice B is incorrect. Without a comma preceding it, the conjunction \"and\" can&rsquo;t be used in this way to join sentences. Choice C is incorrect because it results in a comma splice after \"versions.\" A comma can&rsquo;t be used in this way to mark the boundary between sentences.</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "a171e670-9a31-475a-924f-3700761b490b",
+  "stimulus": "<p>The poem <em>Beowulf</em> begins with the word &ldquo;<span lang=\"ang\">hw&aelig;t</span>,&rdquo; which is an Old English <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> as &ldquo;hark!&rdquo; or &ldquo;listen!&rdquo; in some versions, the word was playfully rendered as &ldquo;bro!&rdquo; by Maria Dahvana Headley in her 2020 translation of the poem.</p>",
+  "templateclusterid": "4909a63b-f83c-4465-acad-21ed50383ae8",
+  "parenttemplatename": "OSP-752-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "b2e65232-8811-4ddd-a117-8a35d80a3cad",
+      "content": "<p>exclamation, translated</p>"
+    },
+    {
+      "id": "8305eadc-383f-4da8-a276-b1b98ae8a0e9",
+      "content": "<p>exclamation and translated</p>"
+    },
+    {
+      "id": "565ad7d2-eaa7-4545-8890-93b359e2fe24",
+      "content": "<p>exclamation translated</p>"
+    },
+    {
+      "id": "575810b3-1070-4346-a0c0-0cbb328d40ba",
+      "content": "<p>exclamation. Translated</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

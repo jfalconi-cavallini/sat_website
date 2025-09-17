@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>The Globe Theatre in London is a reconstruction of the famed venue where many of Shakespeare&rsquo;s plays were first performed. In 1613, a prop cannon <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> during a performance and ignited the Globe&rsquo;s thatched roof. No one was hurt, but in two hours the original Globe was gone.</p>",
+  "keys": [
+    "79d5b6a8-4da6-413a-b89a-0402f09f9a50"
+  ],
+  "answerOptions": [
+    {
+      "id": "80ee4af8-f0a6-4a31-bc92-ab6da7d95019",
+      "content": "<p>malfunctions</p>"
+    },
+    {
+      "id": "79501080-dbd0-4480-abcc-67e81d44151f",
+      "content": "<p>will malfunction</p>"
+    },
+    {
+      "id": "9b5228cf-f58a-45e8-bf9b-27c77a4bb333",
+      "content": "<p>has malfunctioned</p>"
+    },
+    {
+      "id": "79d5b6a8-4da6-413a-b89a-0402f09f9a50",
+      "content": "<p>malfunctioned</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the use of verbs to express tense. In this choice, the past tense verb \"malfunctioned\" is consistent with the other past tense verbs (\"ignited\" and \"was\") used to describe the destruction of the original Globe Theatre.</p><p>Choice A is incorrect because the present tense verb \"malfunctions\" isn&rsquo;t consistent with the other past tense verbs used to describe the destruction of the original Globe Theatre. Choice B is incorrect because the future tense verb \"will malfunction\" isn&rsquo;t consistent with the other past tense verbs used to describe the destruction of the original Globe Theatre. Choice C is incorrect because the present perfect tense verb \"has malfunctioned\" isn&rsquo;t consistent with the other past tense verbs used to describe the destruction of the original Globe Theatre.</p>",
+  "externalid": "8fd2d194-8701-43a6-b098-7393b886f656",
+  "correct_answer": [
+    "D"
+  ]
+}

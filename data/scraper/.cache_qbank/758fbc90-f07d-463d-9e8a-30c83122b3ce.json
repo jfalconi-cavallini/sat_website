@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>On March 23, 2021, a gust of wind wreaked havoc on global trade. <em>Ever Given</em>, an international shipping container vessel, became lodged in Egypt&rsquo;s Suez Canal, a major shipping route between Europe and Asia. The vessel took six days to <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> it&rsquo;s as heavy as two thousand blue whales when fully loaded.</p>",
+  "type": "mcq",
+  "keys": [
+    "9a3fb71d-d02e-41fa-a996-687070c6e6e8"
+  ],
+  "answerOptions": [
+    {
+      "id": "b4da1149-fa45-4439-b69a-7a7289152089",
+      "content": "<p>dislodge in part due to its sheer size,</p>"
+    },
+    {
+      "id": "9a3fb71d-d02e-41fa-a996-687070c6e6e8",
+      "content": "<p>dislodge, in part due to its sheer size:</p>"
+    },
+    {
+      "id": "dbcd47f7-633f-48ca-8f13-166db0f5f4c7",
+      "content": "<p>dislodge, in part due to its sheer size,</p>"
+    },
+    {
+      "id": "101354ea-f922-4425-b517-1c2282a73581",
+      "content": "<p>dislodge, in part, due to its sheer size</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is punctuation between main clauses and a supplementary element. This choice correctly uses a comma to mark the boundary between the main clause (\"The vessel took six days to dislodge\") and the supplementary element (\"in part due to its sheer size\") that provides additional information on why the vessel was difficult to dislodge. Additionally, this choice correctly uses a colon to introduce another main clause that describes the vessel&rsquo;s size (\"it&rsquo;s as heavy as two thousand blue whales when fully loaded\").</p><p>Choice A is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to mark the boundary between two main clauses (\"The vessel&hellip;size\" and \"it&rsquo;s&hellip;loaded\"). Additionally, it fails to mark the boundary between the main clause (\"The vessel took six days to dislodge\") and the supplementary element (\"in part due to its sheer size\"). Choice C is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to mark the boundary between two main clauses (\"The vessel&hellip;size\" and \"it&rsquo;s&hellip;loaded\"). Choice D is incorrect because it results in a run-on sentence. The two main clauses (\"The vessel&hellip;size\" and \"it&rsquo;s&hellip;loaded\") are fused without punctuation and/or a conjunction.</p>",
+  "externalid": "758fbc90-f07d-463d-9e8a-30c83122b3ce",
+  "correct_answer": [
+    "B"
+  ]
+}

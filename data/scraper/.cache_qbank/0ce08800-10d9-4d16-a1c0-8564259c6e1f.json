@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which statement, if true, would most strongly support the claim made by Bergner and colleagues about the cause of &lsquo;Oumuamua&rsquo;s acceleration?</p>",
+  "stimulus": "<p>Initially observed in 2017, the interstellar object &lsquo;Oumuamua is the first object of its kind to be seen in our solar system. Researchers have been puzzled because its acceleration cannot be entirely explained by the gravitational pull of nearby bodies: there must be a nongravitational influence on its velocity and trajectory. Some previously suggested explanations for this nongravitational acceleration involve mechanisms that are unlikely or unrealistic, such as geometric effects from &lsquo;Oumuamua being potentially composed of several spatially separated bodies. Now, Jennifer Bergner and colleagues propose that the nongravitational acceleration is due to the gaseous expulsion of entrapped hydrogen from &lsquo;Oumuamua&rsquo;s water-rich icy body.</p>",
+  "type": "mcq",
+  "keys": [
+    "15bf365a-31d4-4640-86a1-22be89a553f2"
+  ],
+  "answerOptions": [
+    {
+      "id": "df851bc2-5f62-48d5-ae5c-c30494a048c5",
+      "content": "<p>Existing proposed models of outgassing from &lsquo;Oumuamua include the direct conversion of nitrogen or carbon monoxide from a solid to a gaseous state without becoming liquid, but these models have theoretical or observational inconsistencies.</p>"
+    },
+    {
+      "id": "7996def5-056e-46b3-9e9d-74bf9ee7bae5",
+      "content": "<p>&lsquo;Oumuamua&rsquo;s trajectory is inconsistent with a nongravitational acceleration that would be caused by the release of hydrogen gas resulting from the processing of water ice (H<sub>2</sub>O), but the interstellar object&rsquo;s observable properties can be explained if it has a significant component of molecular hydrogen ice (H<sub>2</sub>).</p>"
+    },
+    {
+      "id": "7e663aa6-beae-4ab9-90ff-31a42d50e729",
+      "content": "<p>Since nongravitational accelerations of interstellar objects are several orders of magnitude weaker than gravitational accelerations, deviation from behavior that could be fully attributed to gravitational pull has been detected on a limited number of objects similar to &lsquo;Oumuamua.</p>"
+    },
+    {
+      "id": "15bf365a-31d4-4640-86a1-22be89a553f2",
+      "content": "<p>Exposure to interstellar cosmic radiation can result in the formation of embedded pockets of hydrogen gas in water ice; moreover, when traveling through the solar system, &lsquo;Oumuamua experienced warming sufficient to alter its icy structure and allow for outgassing.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents findings that, if true, would support the claim made by Bergner and colleagues that the nongravitational acceleration of &lsquo;Oumuamua is due to the expulsion of entrapped hydrogen. The text first introduces the observation of a unique interstellar object named &lsquo;Oumuamua and goes on to explain that the object exhibited nongravitational acceleration that could not be fully attributed to the expected cause: gravitational pull of nearby celestial bodies. The text concludes by stating that Bergner and colleagues claim that the nongravitational acceleration is caused by expulsion of hydrogen gas from &lsquo;Oumuamua&rsquo;s water-rich icy body. To support this claim requires evidence that hydrogen gas could be present within &lsquo;Oumuamua at all, which this answer choice presents: cosmic radiation can result in embedded pockets of hydrogen gas in water ice. Additionally, evidence that this gas can be released from such a body is required to fully support the claim, which this answer choice goes on to provide: &lsquo;Oumuamua experienced sufficient warming as it traveled through the solar system to alter its icy structure and release the hydrogen gas. Thus, this answer choice provides the best evidence to support Bergner and colleagues&rsquo; claim.</p><p>Choice A is incorrect because this answer choice concerns faults with previous models of outgassing from &lsquo;Oumuamua of carbon monoxide and nitrogen, which would not support a claim regarding hydrogen outgassing. Furthermore, inconsistencies in other models would not provide evidence in support of a different model or explanation. Choice B is incorrect. The evidence presented in this answer choice would weaken the claim proposed by Bergner and colleagues that the nongravitational acceleration of &lsquo;Oumuamua is caused by the expulsion of hydrogen gas because this answer choice suggests that there is evidence that refutes this claim: &lsquo;Oumuamua&rsquo;s trajectory is inconsistent with a nongravitational acceleration caused by the release of hydrogen gas. Furthermore, the remaining portion of this answer choice is unrelated to the claim. Choice C is incorrect because the claim being made by Bergner and colleagues concerns the expulsion of entrapped hydrogen gas, but this answer choice is concerned solely with the differences in magnitude of gravitational and nongravitational acceleration, which would not support Bergner&rsquo;s claim. Furthermore, this answer choice discusses interstellar objects similar to &lsquo;Oumuamua, but the text states that &lsquo;Oumuamua is the first observed object of its kind in our solar system, so evidence from other, similar bodies would not be available.</p>",
+  "externalid": "0ce08800-10d9-4d16-a1c0-8564259c6e1f",
+  "correct_answer": [
+    "D"
+  ]
+}

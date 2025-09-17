@@ -1,0 +1,38 @@
+{
+  "vaultid": "c421de6b-15cf-4362-ab43-592ab62ea74d",
+  "keys": [
+    "722c1cc3-234e-4c80-90cd-37752ce698f1"
+  ],
+  "rationale": "<p>Choice A is the best answer. &ldquo;Alternatively&rdquo; logically signals that the soil decontamination method described in this sentence&mdash;removing toxic metals from the soil via phytoremediation&mdash;offers an alternative to the previously described method (removing the contaminated soil from the ground). </p><p>Choice B is incorrect because &ldquo;specifically&rdquo; illogically signals that the soil decontamination method described in this sentence specifies or elaborates on an aspect of the previously described method (removing the contaminated soil from the ground). Instead, phytoremediation is an alternative to that method. Choice C is incorrect because &ldquo;for example&rdquo; illogically signals that the soil decontamination method described in this sentence is an example of the previously described method (removing the contaminated soil from the ground). Instead, phytoremediation is an alternative to that method. Choice D is incorrect because &ldquo;as a result&rdquo; illogically signals that the soil decontamination method described in this sentence is a result or consequence of the previously described method (removing the contaminated soil from the ground). Instead, phytoremediation is an alternative to that method. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "95351918-250d-4833-a66c-453eebf233c6",
+  "stimulus": "<p>When soil becomes contaminated by toxic metals, it can be removed from the ground and disposed of in a landfill. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> contaminated soil can be detoxified via phytoremediation: plants that can withstand high concentrations of metals absorb the pollutants and store them in their shoots, which are then cut off and safely disposed of, preserving the health of the plants.</p>",
+  "templateclusterid": "9b024c9b-0c2e-47fd-afd1-fe8f96138004",
+  "parenttemplatename": "OSP-217-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "722c1cc3-234e-4c80-90cd-37752ce698f1",
+      "content": "<p>Alternatively,</p>"
+    },
+    {
+      "id": "0d9405cb-3ecd-4ff3-ae7f-a6ef2e4cc668",
+      "content": "<p>Specifically,</p>"
+    },
+    {
+      "id": "db23497f-6c04-4951-be24-00afec972c4c",
+      "content": "<p>For example,</p>"
+    },
+    {
+      "id": "9987f318-0279-459a-805f-d35ec59a44b3",
+      "content": "<p>As a result,</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

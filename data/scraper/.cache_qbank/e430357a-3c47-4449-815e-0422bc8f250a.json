@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "stimulus": "<p>Eighteenth-century economist Adam Smith is famed for his metaphor of the invisible hand, which he putatively used to illustrate a robust model of how individuals produce aggregate benefits by pursuing their own economic interests. Note &ldquo;putatively&rdquo;: as Gavin Kennedy has shown, Smith deploys this metaphor only once in his economic writings&mdash;to make a narrow point about the then-dominant economic theory of mercantilism&mdash;and it was largely ignored until some twentieth-century economists eager to secure an intellectual pedigree for their views elevated it to a fully-fledged paradigm.&nbsp;</p>",
+  "keys": [
+    "c0d29d8b-bcf9-4fce-b868-db4ca7035fdc"
+  ],
+  "answerOptions": [
+    {
+      "id": "74f6703a-4c6a-4734-a04d-41812a50482f",
+      "content": "<p>Although Smith is famed for his metaphor of the invisible hand, the metaphor was largely ignored until economists in the twentieth century came to realize that the metaphor was a robust model that anticipated their own views. &nbsp;</p>"
+    },
+    {
+      "id": "60d8fecc-df5a-4367-8e3c-e24f76bc8929",
+      "content": "<p>Some twentieth-century economists gave Smith&rsquo;s metaphor of the invisible hand a significance it does not have in Smith&rsquo;s work, but it is nevertheless a useful model of how individuals produce aggregate benefits by pursuing their own economic interests.</p>"
+    },
+    {
+      "id": "d45a7408-0b18-446f-bd72-d53956a42aa1",
+      "content": "<p>Smith&rsquo;s metaphor of the invisible hand has been interpreted as a model of how individuals acting in their own interest produce aggregate benefits, but it was intended as a subtle critique of the economic theory of mercantilism.&nbsp;</p>"
+    },
+    {
+      "id": "c0d29d8b-bcf9-4fce-b868-db4ca7035fdc",
+      "content": "<p>The reputation of Smith&rsquo;s metaphor of the invisible hand is not due to the importance of the metaphor in Smith&rsquo;s work but rather to the promotion of the metaphor by some later economists for their own ends.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most accurately states the main idea of the text. The text explains that economist Adam Smith&rsquo;s famous metaphor of the invisible hand was putatively (that is, widely assumed but not proven) intended to illustrate a robust model (a consistently accurate generalization) of how individuals pursuing their own economic interests can create broader benefits for the population. The text then emphasizes the lack of affirmative evidence for this idea by calling out the term \"putatively,\" and explaining that, according to Gavin Kennedy, Smith used the metaphor only once in his works, in reference to specific circumstances related to the now-outdated economic view known as mercantilism, and that the metaphor didn&rsquo;t garner much attention until economists in the twentieth century held it up as a paradigm (a theoretical framework in the field) and thereby implied that Smith shared some of their views on economics. By emphasizing \"putatively,\" the text implies that there is no independent reason to believe that Smith would agree with the metaphor&rsquo;s use outside of the specific context for which he wrote it and that, therefore, the twentieth-century economists who used it did so to support their own views without regard for the metaphor&rsquo;s importance to Smith&rsquo;s work.</p><p>Choice A is incorrect. Although the text indicates that Smith&rsquo;s metaphor was largely ignored until some twentieth-century economists revived it and bolstered its status, the text suggests that the later economists used Smith&rsquo;s metaphor to self-servingly boost their own work while ignoring the original context in which Smith wrote it. Moreover, the statement in this choice fails to reflect the text&rsquo;s emphasis on Smith&rsquo;s limited use of the metaphor in his work. Choice B is incorrect. Although the text indicates that some twentieth-century economists altered the significance of Smith&rsquo;s metaphor, the text doesn&rsquo;t suggest that the metaphor is a \"useful model\" of how aggregate benefits arise from individuals&rsquo; selfish actions, let alone that this usefulness is unaffected by taking the metaphor out of its original context. Choice C is incorrect. Although the text indicates that Smith&rsquo;s metaphor was intended as a model of how individuals acting in their own interest produce aggregate benefits and it was written within the context of the now-outdated economic theory of mercantilism, these points are subordinate to the primary idea in the text, which is that Smith&rsquo;s use of the metaphor was tightly constrained but twentieth-century economists ignored the original context so that they could use the metaphor to suggest, without support, that Smith would agree with their economic views.</p>",
+  "externalid": "e430357a-3c47-4449-815e-0422bc8f250a",
+  "correct_answer": [
+    "D"
+  ]
+}

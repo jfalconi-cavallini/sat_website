@@ -1,0 +1,38 @@
+{
+  "vaultid": "f70cfde3-c39f-4b2b-9e3b-c955802c6d53",
+  "keys": [
+    "e2c8b035-8e01-4e08-a3f7-b8161efa13be"
+  ],
+  "rationale": "<p>Choice A is the best answer because it presents a finding that, if true, would most strongly support the team&rsquo;s conclusion that cattle were likely raised closer to human settlements than sheep and goats were. The text explains that Vaiglova, Liu, and their colleagues analyzed the chemical composition of sheep, goat, and cattle bones from the Bronze Age in China in order to investigate the animals&rsquo; domestication, or their adaptation from a wild state to a state in which they existed in close connection with humans. According to the text, the team&rsquo;s analysis showed that sheep and goats of the era fed largely on wild plants, whereas cattle fed on millet&mdash;importantly, a crop cultivated by humans. If analysis of the animal bones shows that the cattle&rsquo;s diet also consisted of wheat, another crop cultivated by humans in China during the Bronze Age, the finding would support the team&rsquo;s conclusion by offering additional evidence that cattle during this era fed on human-grown crops&mdash;and, by extension, that humans raised cattle relatively close to the settlements where they grew these crops, leaving goats and sheep to roam farther away in areas with wild vegetation, uncultivated by humans. </p><p>Choice B is incorrect because if it were true that sheep&rsquo;s and goats&rsquo; diets consisted of small portions of millet, which the text states was a crop cultivated by humans, the finding would suggest that sheep and goats were raised relatively close to human settlements, weakening the team&rsquo;s conclusion that cattle were likely raised closer to those settlements than sheep and goats were. Choice C is incorrect because the finding that cattle generally require more food and nutrients than do sheep and goats wouldn&rsquo;t support the team&rsquo;s conclusion that cattle were likely raised closer to human settlements than sheep and goats were. Nothing in the text suggests that cattle were incapable of obtaining sufficient food and nutrients without access to human-grown crops. Hence, even if cattle&rsquo;s diets are found to have different requirements than the diets of sheep and goats, the cattle could have met those requirements from food located far from human settlements.&nbsp;Choice D is incorrect because if it were true that the diets of sheep, goats, and cattle varied based on what the farmers in each Bronze Age settlement could grow, the finding would weaken the team&rsquo;s conclusion that cattle were likely raised closer to human settlements than sheep and goats were, suggesting instead that all three types of animals were raised close enough to human settlements to feed on those settlements&rsquo; crops. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which finding, if true, would most strongly support the team&rsquo;s conclusion?</p>",
+  "externalid": "6a2a163b-95a8-46e0-80b5-f33eeff84503",
+  "stimulus": "<p>Archaeologist Petra Vaiglova, anthropologist Xinyi Liu, and their colleagues investigated the domestication of farm animals in China during the Bronze Age (approximately 2000 to 1000 BCE). By analyzing the chemical composition of the bones of sheep, goats, and cattle from this era, the team determined that wild plants made up the bulk of sheep&rsquo;s and goats&rsquo; diets, while the cattle&rsquo;s diet consisted largely of millet, a crop cultivated by humans. The team concluded that cattle were likely raised closer to human settlements, whereas sheep and goats were allowed to roam farther away.</p>",
+  "templateclusterid": "31d5d24f-2cc1-4d75-8fc4-e78c9fa90bb4",
+  "parenttemplatename": "OSP-323-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "e2c8b035-8e01-4e08-a3f7-b8161efa13be",
+      "content": "<p>Analysis of the animal bones showed that the cattle&rsquo;s diet also consisted of wheat, which humans widely cultivated in China during the Bronze Age.</p>"
+    },
+    {
+      "id": "51ca25d2-8d26-4439-8479-da691a52a331",
+      "content": "<p>Further investigation of sheep and goat bones revealed that their diets consisted of small portions of millet as well.</p>"
+    },
+    {
+      "id": "2918296f-eb8b-43f7-848f-38aa5baec63f",
+      "content": "<p>Cattle&rsquo;s diets generally require larger amounts of food and a greater variety of nutrients than do sheep&rsquo;s and goats&rsquo; diets.</p>"
+    },
+    {
+      "id": "3c480da4-8c1f-422c-a306-e70c7dabd58b",
+      "content": "<p>The diets of sheep, goats, and cattle were found to vary based on what the farmers in each Bronze Age settlement could grow.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

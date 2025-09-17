@@ -1,0 +1,38 @@
+{
+  "vaultid": "cb32e2a5-cd47-4b1b-b309-645ef1af86dc",
+  "keys": [
+    "814dbfa6-cd50-4b6a-8025-7cc22f1db80b"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the coordination of independent clauses within a sentence. An independent clause is a phrase containing a subject and a verb that can stand on its own as a sentence. This choice uses a comma and the coordinating conjunction &ldquo;but&rdquo; to join the first independent clause (&ldquo;underlines&hellip;lower a book&rsquo;s value&rdquo;) and the second independent clause (&ldquo;such markings&hellip;can be a gold mine to scholars&rdquo;) to create a compound sentence. </p><p>Choice B is incorrect because&nbsp;it results in a run-on sentence. The two independent clauses are fused without punctuation and/or a conjunction. Choice C is incorrect because it results in a comma splice.&nbsp;A comma can&rsquo;t be used in this way to mark the boundary between two independent clauses. Choice D is incorrect because&nbsp;a comma is needed to mark the boundary between two coordinated independent clauses. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "86945868-34a5-4eb0-b377-c4a626dd62d0",
+  "stimulus": "<p>Typically, underlines, scribbles, and notes left in the margins by a former owner lower a book&rsquo;s <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> when the former owner is a famous poet like Walt Whitman, such markings, known as marginalia, can be a gold mine to literary scholars.</p>",
+  "templateclusterid": "46c4ff27-170f-475e-9253-641e892fdaaa",
+  "parenttemplatename": "OSP-659-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "814dbfa6-cd50-4b6a-8025-7cc22f1db80b",
+      "content": "<p>value, but</p>"
+    },
+    {
+      "id": "34af54bf-9c82-48ef-8394-17ee2a414d94",
+      "content": "<p>value</p>"
+    },
+    {
+      "id": "37b1a9c9-40f8-4219-b8c4-deb0ac34d73f",
+      "content": "<p>value,&nbsp;</p>"
+    },
+    {
+      "id": "17c1c0b2-5ec4-4237-82a3-92b9363e4cc6",
+      "content": "<p>value but</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

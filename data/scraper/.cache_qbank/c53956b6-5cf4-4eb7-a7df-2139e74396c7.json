@@ -1,0 +1,38 @@
+{
+  "vaultid": "3ebcb0d3-b91f-4443-af39-8dbcc199b486",
+  "keys": [
+    "325e26f1-0279-4ddb-b353-5bfde297b357"
+  ],
+  "rationale": "<p>Choice B is the best answer because it presents the conclusion that most logically follows from the text&rsquo;s discussion of <em>A. mexicanus</em>. According to the text, <em>A. mexicanus</em>, a river-dwelling fish species, has colonized caves. The fish that live in rivers and those that live in caves show no significant genetic differences and are all capable of making the same sounds. The text indicates, however, that Hyacinthe and colleagues found that sounds that the river fish use in a particular context and for a particular purpose are used in a different context and for a different purpose by the cave fish. Additionally, the sounds made by cave fish show some differences depending on the specific cave the fish inhabit. The text goes on to state that Hyacinthe and colleagues have noted that differences in how the fish use sound to communicate could eventually become so great that they prevent fish from different locations from interbreeding. In other words, the river fish might eventually only breed with other river fish (with whom they share characteristics regarding sonic communication that they do not share with cave fish), while the cave fish might only breed with other cave fish for a similar reason. In context, this observation suggests that even though the fish are a single species right now, they could be in the process of splitting into distinct populations with different characteristics.&nbsp;</p><p>Choice A is incorrect because there is no information in the text suggesting that the river fish are less reliant on sonic communication than the cave fish are. Although the text does indicate that the river fish and cave fish are genetically similar, the text describes both groups as using sonic communication and says nothing to indicate that one group depends on that communication more than the other group does. Choice C is incorrect. The text states that all members of the species can emit the same sounds but that the function and context of sounds differ depending on whether the fish live in rivers or caves, but it does not indicate that river fish produce sounds that cave fish do not or vice versa.&nbsp;Choice D is incorrect because it contradicts the text. The text says that there is little genetic difference between the river fish and the cave fish, not that the river fish and cave fish are so genetically distinct that they can be considered separate species. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "c53956b6-5cf4-4eb7-a7df-2139e74396c7",
+  "stimulus": "<p>Some <em>Astyanax mexicanus</em>, a river-dwelling fish found in northeast Mexico, have colonized caves in the region. Although there is little genetic difference between river and cave&nbsp;<em>A. mexicanus</em> and all members of the species can emit the same sounds, biologist Carole Hyacinthe and colleagues found that the context and significance of those sounds vary by location&mdash;e.g., the click that river-dwelling <em>A. mexicanus</em> use to signal aggression is used by cave dwellers when foraging&mdash;and the acoustic properties of cave fish sounds show some cave-specific variations as well. Hyacinthe and colleagues note that differences in sonic communication could accumulate to the point of inhibiting interbreeding among fish from different locations, suggesting that&nbsp;<span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "6ea710a1-f500-4285-8d47-6ca582ed02da",
+  "parenttemplatename": "OSP-063-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "a7880e4d-d708-4901-9c28-35f2eb26b88f",
+      "content": "<p>although <em>A. mexicanus</em> living in rivers are genetically similar to those living in caves, river fish rely on sonic communication less than cave fish do.</p>"
+    },
+    {
+      "id": "325e26f1-0279-4ddb-b353-5bfde297b357",
+      "content": "<p>although <em>A. mexicanus</em> is a single species at present, it could be in the process of splitting into distinct populations with different characteristics.</p>"
+    },
+    {
+      "id": "fc2c43fc-f628-4786-86fc-3f178bfe8c83",
+      "content": "<p>although all <em>A. mexicanus</em> emit sounds, the fish living in rivers produce some sounds that the fish living in caves do not, and vice versa.</p>"
+    },
+    {
+      "id": "e1cb5ee1-b418-4bae-a968-8c3784289e99",
+      "content": "<p>although <em>A. mexicanus</em> from different locations can interbreed currently, river fish and cave fish are sufficiently genetically distinct that they can be considered separate species.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

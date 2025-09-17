@@ -1,0 +1,38 @@
+{
+  "vaultid": "fd4675b3-6c3f-43c3-9016-a4dedb5fa3d0",
+  "keys": [
+    "6f4b881c-655c-47cb-b13e-016bb367947b"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most accurately states the main idea of the text. The text begins by mentioning NASA&rsquo;s Aspera mission, which will investigate the low-density gas that makes up the circumgalactic medium (CGM). According to the text, this mission will focus on a portion of the CGM&rsquo;s gas that exists in a &ldquo;warm-hot&rdquo; phase; this &ldquo;warm-hot&rdquo; gas has not been previously observed, but it is thought to make up most of the mass of galaxies and play a part in star formation. Finally, the text mentions a telescope capable of examining this previously unobservable &ldquo;warm-hot&rdquo; gas: the Aspera mission will use this telescope in the hope of answering questions about galaxy formation and change. Therefore, the main idea of the text is that the Aspera mission is likely to produce the first direct observations of CGM gas in the &ldquo;warm-hot&rdquo; phase, which likely has an important role in the evolution of galaxies. </p><p>Choice A is incorrect. Although this choice mentions the Aspera mission, names its leader, and generally states the mission&rsquo;s purpose, it does not reference the &ldquo;warm-hot&rdquo; gas or fully convey the reason why the Aspera mission is significant. Choice B is incorrect. Although this choice mentions the &ldquo;warm-hot&rdquo; gas that makes up a portion of the CGM, it does not reference the Aspera mission or describe its importance. The text also does not mention that galaxies surrounded by the CGM have been studied. Choice C is incorrect. Although this choice describes a problem related to the CGM that researchers have been attempting to solve and presents the speculation of those researchers, it does not mention the Aspera mission or describe its purpose. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "externalid": "70a3b3f6-b02a-4d56-93e8-aec50bc76eca",
+  "stimulus": "<p>NASA&rsquo;s Aspera mission, led by Carlos Vargas, will investigate the circumgalactic medium (CGM), the huge swaths of low-density gas that fill and surround galaxies. Specifically, the team will focus on portions of the gas that exist in a &ldquo;warm-hot&rdquo; phase: these portions haven&rsquo;t previously been observable but are thought to fuel new star formation and hold most of the mass that makes up a galaxy. Using a telescope capable of revealing these parts of the CGM, the Aspera mission should help answer long-standing questions about how galaxies emerge, change, and even interact.</p>",
+  "templateclusterid": "9c11766f-cefe-4eae-b94a-777f06b09562",
+  "parenttemplatename": "OSP-037-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "c292bff8-d758-41dc-b95f-714e4fa3deb5",
+      "content": "<p>As the leader of NASA&rsquo;s Aspera mission, Vargas will be the first person to investigate the makeup of the CGM.</p>"
+    },
+    {
+      "id": "80ed03ec-bec2-4d25-bb8f-4db5dfce2d96",
+      "content": "<p>Although galaxies that are surrounded by the CGM have been studied, researchers have been unable to directly observe low-density gas in the CGM in the &ldquo;warm-hot&rdquo; phase.</p>"
+    },
+    {
+      "id": "2819abef-530c-43f8-944a-eaeb6fbc5fc6",
+      "content": "<p>Researchers don&rsquo;t yet have a complete understanding of the process of galaxy evolution but have raised the possibility that galaxies interact with each other at times.</p>"
+    },
+    {
+      "id": "6f4b881c-655c-47cb-b13e-016bb367947b",
+      "content": "<p>The Aspera mission is expected to produce the first direct observations of CGM gas in the &ldquo;warm-hot&rdquo; phase, which likely has an important role in the evolution of galaxies.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

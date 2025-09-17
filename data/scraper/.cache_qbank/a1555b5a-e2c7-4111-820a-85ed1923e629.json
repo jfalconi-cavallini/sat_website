@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>In a 2023 study, researchers documented a fascinating behavior in the aquatic plant <em>Elodea densa</em>. When exposed to low levels of light, the plant&rsquo;s <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the cellular organs that generate energy from light&mdash;reshuffled to form a tightly packed, glass-like surface ideal for collecting more light.</p>",
+  "type": "mcq",
+  "keys": [
+    "e1110fed-2920-4228-8e6b-66ac1895b270"
+  ],
+  "answerOptions": [
+    {
+      "id": "02e49181-b91c-4478-91a8-07dc90e5f725",
+      "content": "<p>chloroplasts</p>"
+    },
+    {
+      "id": "dc7c4c9c-b9ca-44b2-989a-444468ef6269",
+      "content": "<p>chloroplasts;</p>"
+    },
+    {
+      "id": "8fc494a0-d581-4e35-8c28-4e24f7230818",
+      "content": "<p>chloroplasts,</p>"
+    },
+    {
+      "id": "e1110fed-2920-4228-8e6b-66ac1895b270",
+      "content": "<p>chloroplasts&mdash;</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the punctuation of a supplementary element within a sentence. The dash after \"chloroplasts\" pairs with the dash after \"from light\" to separate the supplementary element \"the cellular organs that generate energy from light\" from the rest of the sentence. This supplementary element functions to define the term \"chloroplasts,\" and the pair of dashes indicates that this element could be removed without affecting the grammatical coherence of the sentence.</p><p>Choice A is incorrect because it fails to use appropriate punctuation to separate the supplementary element from the rest of the sentence. Choice B is incorrect because a semicolon can&rsquo;t be paired with a dash in this way to separate the supplementary element from the rest of the sentence. Choice C is incorrect because a comma can&rsquo;t be paired with a dash in this way to separate the supplementary element from the rest of the sentence.</p>",
+  "externalid": "a1555b5a-e2c7-4111-820a-85ed1923e629",
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "stimulus": "<p>At over a thousand pages across two volumes, <em>The Fifty-Year Mission</em>, compiled by Edward Gross and Mark <span data-ssml-sub-alias=\"A\">A.</span> Altman, is presented as the &ldquo;complete, uncensored, unauthorized oral history&rdquo; as told by the people behind the media franchise <em>Star Trek</em>. The work aspires to be comprehensive by, for example, including accounts from cast and crew members of every <em>Star Trek</em> television series and film to date. But while <em>The Fifty-Year Mission</em> is clearly a unique and valuable resource, it has a shortcoming common among oral histories: it lacks a clear authorial point of view that could otherwise unite the various accounts into a cohesive whole.</p>",
+  "keys": [
+    "27155352-b8dc-48d2-bf4c-b9d904530496"
+  ],
+  "answerOptions": [
+    {
+      "id": "66788564-f1e2-4b65-9215-b58138b8cc1d",
+      "content": "<p>The compilers of <em>The Fifty-Year Mission</em> had lofty goals for their oral history of the <em>Star Trek</em> franchise, but the published work lacks information about many key events in the franchise&rsquo;s history.</p>"
+    },
+    {
+      "id": "67b9386a-644f-42ec-bea4-4308222f6629",
+      "content": "<p><em>The Fifty-Year Mission</em> includes more accounts from people involved with <em>Star Trek</em> television shows than it does from people involved with <em>Star Trek</em> films.&nbsp;</p>"
+    },
+    {
+      "id": "59701816-8b41-498b-ac39-1e1ff928b59e",
+      "content": "<p>The large amount of material compiled into <em>The Fifty-Year Mission</em> is surprising given that many of the people involved in the <em>Star Trek</em> franchise did not participate in the oral history project.</p>"
+    },
+    {
+      "id": "27155352-b8dc-48d2-bf4c-b9d904530496",
+      "content": "<p><em>The Fifty-Year Mission</em> represents a worthwhile attempt to thoroughly recount the history of the <em>Star Trek</em> franchise, but its approach has an important limitation.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most accurately states the main idea of the text. According to the text, Gross and Altman&rsquo;s book is a \"valuable resource\"  because it&rsquo;s a \"complete, uncensored, unauthorized oral history\" that features accounts from people involved with \"every <em>Star Trek</em> television series and film\" made. However, the text also points out an inherent shortcoming of the oral history approach used by the book&rsquo;s creators: the lack of an authorial voice that could unify the many accounts into a coherent narrative. Thus, the text&rsquo;s main idea is that while the book&rsquo;s attempt at presenting a comprehensive oral history of the <em>Star Trek</em> franchise is a worthwhile one, the approach the creators selected has an important limitation.</p><p>Choice A is incorrect. While the goal of the book&rsquo;s creators (providing a comprehensive history of the <em>Star Trek</em> franchise) could be described as lofty, the text&rsquo;s criticism of the book is focused on the shortcomings of the oral history form, not on events in the <em>Star Trek</em> franchise that were not reflected in the book. Choice B is incorrect because the text doesn&rsquo;t suggest that the book includes more accounts from people involved with television shows than with films. In fact, the text explicitly states that the book includes accounts from people involved with \"every <em>Star Trek</em> television series and film\" ever made. Choice C is incorrect because the text doesn&rsquo;t indicate that many people involved with the<em> Star Trek</em> franchise failed to participate in the book&rsquo;s oral history project. The only mention of the scope of participation states that the book includes accounts \"from cast and crew members of every <em>Star Trek</em> television series and film to date.\" This information implies a high level of participation from relevant individuals, not a lack of participation.</p>",
+  "externalid": "21ab62c2-23da-4135-9ac5-3dbef25ef6fb",
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "8717315b-9b76-417c-ac3a-17928f70e53c",
+  "keys": [
+    "616192fa-f5c0-44ae-89f5-48809b81ad12"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice correctly uses a comma and the coordinating conjunction &ldquo;but&rdquo; to join the first main clause (&ldquo;the Alvarez&hellip;out&rdquo;) and the second main clause (&ldquo;it left&hellip;extinctions&rdquo;). </p><p>Choice A is incorrect because when coordinating two longer main clauses such as these, it&rsquo;s conventional to use a comma before the coordinating conjunction. Choice C is incorrect because it results in a run-on sentence. The two main clauses are fused without punctuation and/or a conjunction. Choice D is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "c9e6835c-2255-4929-b4da-6fc380ba028c",
+  "stimulus": "<p>The Alvarez theory, developed in 1980 by physicist Luis Walter Alvarez and his geologist son Walter Alvarez, maintained that the secondary effects of an asteroid impact caused many dinosaurs and other animals to die <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> it left unexplored the question of whether unrelated volcanic activity might have also contributed to the mass extinctions.</p>",
+  "templateclusterid": "e6f74b0a-7ef0-472c-838f-f2f76af2f24a",
+  "parenttemplatename": "OSP-604-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "7a59f43b-8e8e-4744-acac-c6ebf3003546",
+      "content": "<p>out but</p>"
+    },
+    {
+      "id": "616192fa-f5c0-44ae-89f5-48809b81ad12",
+      "content": "<p>out, but</p>"
+    },
+    {
+      "id": "08e23328-e067-4926-bf3e-2a452b0ac58d",
+      "content": "<p>out</p>"
+    },
+    {
+      "id": "64e9ba66-cefd-4d2c-88f8-b54a521a7273",
+      "content": "<p>out,&nbsp;</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

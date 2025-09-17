@@ -1,0 +1,38 @@
+{
+  "vaultid": "3ef089c8-048d-41a0-83e8-0c7010cca4be",
+  "keys": [
+    "bb2657c7-b5a3-41a4-a2af-d5224f3e8363"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion about Kouchaki and colleagues&rsquo; research into how workload affects productivity. In context, &ldquo;efficient&rdquo; means effective or well organized. The text indicates that, according to Kouchaki and colleagues&rsquo; research, people who worked on hard tasks first were &ldquo;more skilled and productive&rdquo; than those who did easy tasks first. This context conveys the idea that despite their sense of accomplishment, the people who chose to do the easy tasks first were less efficient or productive than those who tackled hard tasks first.&nbsp;</p><p>Choice A is incorrect because there&rsquo;s nothing in the text to suggest that workers who do easy tasks first are less &ldquo;secretive,&rdquo; or uncommunicative or silent, than those who do hard tasks first. Rather, the text suggests that people are less skillful or efficient if they tackle easy tasks before the hard ones. Choice C is incorrect because &ldquo;outgoing&rdquo; means openly friendly, which wouldn&rsquo;t make sense in this context. The text focuses on Kouchaki and colleagues&rsquo; research in which people who worked on hard tasks first were &ldquo;more skilled and productive&rdquo; than those who did easy tasks first and were therefore less efficient. Choice D is incorrect because there&rsquo;s nothing in the text to suggest that workers who do easy tasks first are less &ldquo;unsympathetic,&rdquo; or insensitive or unkind, than those who do hard tasks first. Rather, the text suggests that people are less skillful or efficient if they tackle easy tasks before the hard ones. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "ca27472a-726d-4bae-a5fe-07cdc73bae6e",
+  "stimulus": "<p>Studying how workload affects productivity, Maryam Kouchaki and colleagues found that people who chose to do relatively easy tasks first were less <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> compared to those who did hard tasks first. Finishing easy tasks gave participants a sense of accomplishment, but those who tackled hard tasks first actually became more skilled and productive workers over time.</p>",
+  "templateclusterid": "c83517b4-cf98-4644-adfa-56b460a93b51",
+  "parenttemplatename": "OSP-051-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "50cba255-5c51-455c-b8ff-7078e4bd88e5",
+      "content": "<p>secretive</p>"
+    },
+    {
+      "id": "bb2657c7-b5a3-41a4-a2af-d5224f3e8363",
+      "content": "<p>efficient</p>"
+    },
+    {
+      "id": "a6aba998-0ed8-429c-872c-ec6cb48812d9",
+      "content": "<p>outgoing</p>"
+    },
+    {
+      "id": "b629c617-a686-4935-ba68-0871ba4057ac",
+      "content": "<p>unsympathetic</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

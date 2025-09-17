@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>Silicon-based photovoltaic cells account for 95% of the cells used in solar panels worldwide despite converting an average of only 18&ndash;22% of the sunlight that reaches them. In a study addressing this relative inefficiency, a team led by Laura Miranda-P&eacute;rez demonstrated that the addition of a thin layer of the mineral perovskite&mdash;which captures the blue range of light in the solar spectrum, whereas silicon captures the red range&mdash;allows the cells to convert 29.5% or more of the Sun&rsquo;s energy into usable electricity. Cells made with only perovskite, however, are no more efficient than silicon-based ones. It&rsquo;s reasonable to conclude, then, that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "6a633a25-d834-44d0-9de3-da2e795d6c68"
+  ],
+  "answerOptions": [
+    {
+      "id": "6a633a25-d834-44d0-9de3-da2e795d6c68",
+      "content": "<p>photovoltaic cells with both silicon and perovskite are more efficient because they make use of more of the solar spectrum.&nbsp;</p>"
+    },
+    {
+      "id": "8f9fc9bd-9d50-4ab0-8af5-34b43c440a8b",
+      "content": "<p>photovoltaic cells with only perovskite and no silicon would likely convert more than 29.5% of the Sun&rsquo;s energy.</p>"
+    },
+    {
+      "id": "865cfec5-c900-480f-8069-bc217884b57e",
+      "content": "<p>solar power will remain elusive until photovoltaic cells are replaced with a more practical technology.&nbsp;</p>"
+    },
+    {
+      "id": "db5db7b4-6bcd-4ede-9c87-45f07cdc65f5",
+      "content": "<p>researchers need to evaluate whether other minerals like perovskite are as effective as perovskite seems to be.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it presents the conclusion that most logically completes the text&rsquo;s discussion of the efficiency of various photovoltaic cells. The text indicates that Miranda-P&eacute;rez and her team found that adding a layer of perovskite to silicon-based cells increased the percentage of sunlight converted to usable electricity relative to the percentage converted to electricity by silicon-based cells. Using cells with only perovskite and no silicon, however, resulted in no improvement in efficiency over silicon-based cells. The text also states that perovskite captures light in the blue range of the solar spectrum and silicon captures light in the red range of the spectrum. If perovskite and silicon capture different parts of the solar spectrum and the combination of perovskite and silicon results in greater efficiency than the use of either perovskite or silicon alone does, then it is reasonable to infer that the improved efficiency of perovskite-silicon cells could be attributable to their making use of more of the solar spectrum than perovskite-based or silicon-based cells do.</p><p>Choice B is incorrect because it is directly contradicted by the text, which says that silicon-based cells convert 18%&ndash;22% of the sunlight that reaches them to electricity and that cells with only perovskite are no more efficient than silicon-based cells are. Perovskite-only cells thus must convert 22% or less&mdash;not more than 29.5%&mdash;of the sunlight that reaches them to electricity. Choice C is incorrect because the text focuses on a possible improvement to photovoltaic cells and makes no mention of any alternatives to those cells, so there is no reason to conclude that photovoltaic cells must be replaced with some other technology. Additionally, the text presents solar power as something that currently exists, so it wouldn&rsquo;t make sense to conclude that solar power will remain elusive. Choice D is incorrect because nothing in the text suggests that there is a need to evaluate the effectiveness of other minerals than perovskite. In fact, the text gives no indication that it is even possible to use other minerals than silicon and perovskite in photovoltaic cells. Instead, the text is focused on the effect of combining perovskite and silicon and the different parts of the solar spectrum that perovskite and silicon capture.</p>",
+  "externalid": "e8b6d085-9a68-4f77-b022-fb65b1b3810c",
+  "correct_answer": [
+    "A"
+  ]
+}

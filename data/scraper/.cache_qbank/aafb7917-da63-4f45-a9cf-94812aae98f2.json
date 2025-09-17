@@ -1,0 +1,38 @@
+{
+  "vaultid": "beed77f4-031e-4e52-ba37-bb92d32bcd59",
+  "keys": [
+    "aca4b7d8-f68a-49f8-a39c-81c3fc63b501"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is punctuation between a subject and a verb. When, as in this case, a subject (&ldquo;Calida Garcia Rawles&rdquo;) is immediately followed by a verb (&ldquo;was&rdquo;), no punctuation is needed. </p><p>Choice A is incorrect because no punctuation is needed between the subject and the verb. Choice B is incorrect because no punctuation is needed between the subject and the verb. Choice C is incorrect because no punctuation is needed between the subject and the verb. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "aafb7917-da63-4f45-a9cf-94812aae98f2",
+  "stimulus": "<p>Known for her massive photorealistic paintings of African American figures floating or swimming in pools, Calida Garcia <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> was the logical choice to design the book cover for Ta-Nehisi Coates&rsquo;s <em>The Water Dancer,</em> a novel about an African American man who can travel great distances through water.</p>",
+  "templateclusterid": "76a497dc-e94c-4d86-af6b-a16097777466",
+  "parenttemplatename": "OSP-617-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d3c3f7fe-4c0e-48f7-b277-64ecb1a390a3",
+      "content": "<p>Rawles&mdash;</p>"
+    },
+    {
+      "id": "2cb6d580-7eba-4263-8120-3a1e39c93d03",
+      "content": "<p>Rawles:</p>"
+    },
+    {
+      "id": "8794758c-b035-4eae-9c93-2313f8b7d665",
+      "content": "<p>Rawles,</p>"
+    },
+    {
+      "id": "aca4b7d8-f68a-49f8-a39c-81c3fc63b501",
+      "content": "<p>Rawles</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

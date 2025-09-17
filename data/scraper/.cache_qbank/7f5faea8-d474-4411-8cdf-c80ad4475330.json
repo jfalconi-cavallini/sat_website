@@ -1,0 +1,38 @@
+{
+  "vaultid": "69ad93e0-1261-42e3-9bba-114cbeae6816",
+  "keys": [
+    "1aadbd97-9dbf-41e8-9fa9-f17974e9440c"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the Indigenous method of harvesting <em>Hierochloe odorata.</em> As used in this context, &ldquo;replenishes&rdquo; means helps increase the population or helps it recover. The text explains that although snapping off a wild plant at the root might seem detrimental to the wild population, it actually helps <em>Hierochloe odorata</em>, increasing both their &ldquo;number and vigor.&rdquo; This context conveys the idea that even though it seems counterintuitive, the Indigenous method of harvesting <em>Hierochloe odorata</em> actually replenishes the wild population. </p><p>Choice A is incorrect. Although a harvesting method could be used to select for certain traits in plants, it&rsquo;s not clear what it would mean for a harvesting method to select &ldquo;wild populations&rdquo; of plants. Choice B is incorrect because as used in this context, &ldquo;originates&rdquo; means creates. The text doesn&rsquo;t address the origin of <em>Hierochloe odorata</em>, but rather how the Indigenous harvesting method affects it. Choice C is incorrect because in this context, &ldquo;conditions&rdquo; means to influence someone or something to behave in a certain way, and the text doesn&rsquo;t suggest the new plants that replace the harvested ones differ in any meaningful way, or in any way that could be the result of conditioning. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "7f5faea8-d474-4411-8cdf-c80ad4475330",
+  "stimulus": "<p>According to Potawatomi ecologist Robin Wall Kimmerer, the Indigenous method of harvesting <em>Hierochloe odorata</em>, or sweetgrass, by snapping the plant off at the root actually <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> wild populations: it may seem counterintuitive, she says, but this method of removal allows new sweetgrass plants to repopulate the space, with an overall increase in number and vigor.</p>",
+  "templateclusterid": "54b872b6-ea63-4c56-a60f-73d6ae7fa603",
+  "parenttemplatename": "OSP-954-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "14154ced-9e6c-4b6f-adb3-cb9db45c585d",
+      "content": "<p>selects</p>"
+    },
+    {
+      "id": "feade69e-c192-49f8-a350-e5b534d3624c",
+      "content": "<p>originates</p>"
+    },
+    {
+      "id": "13200fdf-5e6d-4ca7-ba77-ba9c5dd5d714",
+      "content": "<p>conditions</p>"
+    },
+    {
+      "id": "1aadbd97-9dbf-41e8-9fa9-f17974e9440c",
+      "content": "<p>replenishes</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

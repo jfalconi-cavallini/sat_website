@@ -1,0 +1,38 @@
+{
+  "vaultid": "ffde5c5a-fd52-48ce-8336-7d43397425cf",
+  "keys": [
+    "a264486c-14b3-47f1-a20b-583983e14fc1"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of the contributions of the Sumerian civilization. In this context, &ldquo;introduced&rdquo; means brought into practice or use. The text states that the first reference to a seven-day week appears in the Sumerian <em>Epic of Gilgamesh</em>. The text presents this information about the seven-day week as an example of a concept introduced by the Sumerian civilization that persists into present-day civilizations.&nbsp;</p><p>Choice A is incorrect because nothing in the text suggests that the Sumerian civilization &ldquo;transformed,&rdquo; or changed the nature of, concepts that persist into present-day civilizations. Instead, the text&rsquo;s presentation of a Sumerian literary work that contains the first description of the seven-day week is an example of the phenomenon described in the first half of the sentence, suggesting that the Sumerians invented many concepts that still persist.&nbsp;Choice C is incorrect because the information that a Sumerian literary work includes the first description of the seven-day week suggests that Sumerian civilization may have originated the seven-day week and other concepts that persist into present-day civilizations, not that it &ldquo;inherited&rdquo; the concepts, or received them from an ancestral figure or culture. Choice D is incorrect because the information that Sumerian civilization produced the first description of the seven-day week is presented as an example of the phenomenon described in the first half of the sentence, suggesting that Sumerian civilization originated this and other concepts that still persist, not that the Sumerians &ldquo;overlooked,&rdquo; or failed to notice or consider, such concepts. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "3df1c9a3-2e5a-429a-b8dc-f8bafc6c9918",
+  "stimulus": "<p>Sumerian civilization (which lasted from around 3300 to 2000 BCE) <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> many concepts that persist into present-day civilizations: for example, the first description of the seven-day week appears in the Sumerian <em>Epic of Gilgamesh</em>.</p>",
+  "templateclusterid": "88e42901-9536-45b9-9372-a748c80b1a5c",
+  "parenttemplatename": "OSP-059-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "7c8c1780-d12b-4b89-9d13-5e8a48e0ea54",
+      "content": "<p>transformed</p>"
+    },
+    {
+      "id": "a264486c-14b3-47f1-a20b-583983e14fc1",
+      "content": "<p>introduced</p>"
+    },
+    {
+      "id": "c01a83b8-9143-404b-9b15-0a60e92de320",
+      "content": "<p>inherited</p>"
+    },
+    {
+      "id": "aa46103b-75c9-4d40-a393-2a3d78d96443",
+      "content": "<p>overlooked</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

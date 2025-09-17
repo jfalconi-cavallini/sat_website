@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most effectively uses data from the table to complete the statement?</p>",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Total Electoral College Votes and Popular Votes in the 15th US Presidential Election</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Candidate</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Total electoral college votes</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Total popular votes</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">James K. Polk</th><td style=\"text-align: center;\">170</td><td style=\"text-align: center;\">1,339,494</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Henry Clay</th><td style=\"text-align: center;\">105</td><td style=\"text-align: center;\">1,300,004</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">James Gillespie Birney</th><td style=\"text-align: center;\">0</td><td style=\"text-align: center;\">62,103</td></tr></tbody></table></figure></p>\n<p>A student is writing a paper on the history of the 15th presidential election in the United States, which was held in 1844. The student needs to determine how many electoral college votes were cast for the winning candidate, James K. Polk. According to the table, James K. Polk received <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>&nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "fa2cbf70-5a3f-47ae-9b70-13d8ae4af2a5"
+  ],
+  "answerOptions": [
+    {
+      "id": "fa2cbf70-5a3f-47ae-9b70-13d8ae4af2a5",
+      "content": "<p>170 electoral college votes.</p>"
+    },
+    {
+      "id": "3d8ed871-59e5-410a-88bb-cb0164778354",
+      "content": "<p>103 electoral college votes.</p>"
+    },
+    {
+      "id": "0e86dc22-66a6-4a23-8d2d-5657776d33cd",
+      "content": "<p>62 electoral college votes.</p>"
+    },
+    {
+      "id": "1c3d4a9b-945e-42ae-a004-78746bd861ea",
+      "content": "<p>44 electoral college votes.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most effectively uses data from the table to complete the statement about the 15th US presidential election. The table shows the total number of electoral college votes and the total number of popular votes received by each of three candidates. The table shows that Polk received 170 electoral college votes.</p><p>Choice B is incorrect because the table shows that Polk received 170 electoral college votes, not 103. According to the table, none of the candidates received a total of 103 votes of either type (electoral college or popular). Choice C is incorrect because the table shows that Polk received 170 electoral college votes, not 62. According to the table, none of the candidates received a total of 62 votes of either type (electoral college or popular). Choice D is incorrect because the table shows that Polk received 170 electoral college votes, not 44. According to the table, none of the candidates received a total of 44 votes of either type (electoral college or popular).</p>",
+  "externalid": "f74ea265-3bf1-46e7-bf80-ba2fc5b139ed",
+  "correct_answer": [
+    "A"
+  ]
+}

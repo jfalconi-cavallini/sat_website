@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "stimulus": "<p>The following text is from Paul Laurence Dunbar&rsquo;s 1913 poem &ldquo;The Poet and His Song.&rdquo;</p>\n<blockquote class=\"dap_poemexcerpt\">\n<p>A song is but a little thing,</p>\n<p>And yet what joy it is to sing!</p>\n<p>In hours of toil it gives me zest,</p>\n<p>And when at eve I long for rest;</p>\n<p>When cows come home along the bars,</p>\n<p style=\"padding-left: 1em;\">And in the fold I hear the bell,</p>\n<p>As Night, the shepherd, herds his stars,</p>\n<p style=\"padding-left: 1em;\">I sing my song, and all is well.</p>\n</blockquote>",
+  "type": "mcq",
+  "keys": [
+    "068a2b89-263f-419b-bf38-5ecd78bbe4f1"
+  ],
+  "answerOptions": [
+    {
+      "id": "068a2b89-263f-419b-bf38-5ecd78bbe4f1",
+      "content": "<p>To convey how engaging in song makes the speaker feel</p>"
+    },
+    {
+      "id": "54dac90f-b27b-43c5-82d2-34bc50d144a7",
+      "content": "<p>To compare the speaker to a singing shepherd</p>"
+    },
+    {
+      "id": "cd5f6d40-6f43-46c8-a8fc-fe14f990a5fd",
+      "content": "<p>To portray the speaker&rsquo;s excitement about farming</p>"
+    },
+    {
+      "id": "0e3fb0d9-f380-4bb8-b19e-514f1849ff32",
+      "content": "<p>To describe the pieces of music the speaker enjoys hearing</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because is accurately states the main purpose of the text. The text begins by declaring that although a song is \"but a little thing,\" or seemingly insignificant, singing it brings joy and gives the speaker of the text \"zest,\" or excitement, in \"hours of toil.\" The remainder of the text explores the idea that as night is falling, singing allows the speaker to feel that \"all is well.\" Thus, the main purpose of the text is to convey how engaging in song makes the speaker feel.</p><p>Choice B is incorrect. Although the text mentions a shepherd, it neither indicates that the shepherd is singing nor does it compare the shepherd to the speaker. Choice C is incorrect. The text indicates that the speaker works hard, engaging in \"hours of toil,\" and it can be inferred that the speaker likely lives in a rural area, since cows and a cowbell can be heard nearby. However, the text does not suggest that the speaker is a farmer or feels excited about farming. Moreover, the shepherd in the text is not a literal reference to someone who herds sheep but instead a figurative description of the moon as the shepherd of the stars. Choice D is incorrect because in the text, the speaker is singing a song, not listening to others sing one. Moreover, the text describes the feelings that the speaker has when singing a song, not the song itself.</p>",
+  "externalid": "e662866f-b53a-4050-9564-07e4a17b9e5a",
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "8513564e-08ed-4f50-95c3-79e76aaccf6e",
+  "keys": [
+    "5f0dbc87-0874-4f6f-9237-92d985db4ae0"
+  ],
+  "rationale": "<p>Choice B is the best answer. The sentence effectively emphasizes a difference between the MexiCali Biennial and traditional biennials, stating that the MexiCali Biennial is unlike traditional biennials because it hosts exhibitions in different venues on an uneven schedule. </p><p>Choice A is incorrect. The sentence indicates who founded the MexiCali Biennial and the years this biennial has taken place; it doesn&rsquo;t emphasize a difference between the MexiCali Biennial and traditional biennials. Choice C is incorrect. While the sentence clarifies the traditional meaning of biennial with language that could apply to the MexiCali Biennial, it doesn&rsquo;t mention the MexiCali Biennial by name. Therefore, the sentence doesn&rsquo;t effectively emphasize a difference between the MexiCali Biennial and traditional biennials. Choice D is incorrect. The sentence notes locations where various biennial exhibitions have been held; it doesn&rsquo;t emphasize a difference between the MexiCali Biennial and traditional biennials. </p>",
+  "origin": "proteus",
+  "stem": "<p>The student wants to emphasize a difference between the MexiCali Biennial and traditional biennials.&nbsp;Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "externalid": "ce15dc57-2b8e-4b3c-b7b4-11d18f0ae2e0",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>In the art world, the term biennial traditionally refers to an art exhibition that takes place every two years in a single location.</li>\n<li>Such biennials are held in New York, Berlin, and Venice.</li>\n<li>In 2006, artists Ed Gomez and Luis Hernandez founded the unconventional MexiCali Biennial.</li>\n<li>The MexiCali Biennial hosts exhibitions in different venues on both sides of the US-Mexico border.</li>\n<li>The MexiCali Biennial has taken place on an uneven schedule, with exhibitions in 2006, 2009&ndash;10, 2013, and 2018&ndash;20.</li>\n</ul>",
+  "templateclusterid": "5989a578-d9e2-4c83-9f99-b2e279dbfa44",
+  "parenttemplatename": "OSP-789-SYN",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "9f6fc752-fb78-4263-842e-fdf5eec18e4f",
+      "content": "<p>In 2006, artists Ed Gomez and Luis Hernandez founded the MexiCali Biennial, which has taken place in 2006, 2009&ndash;10, 2013, and 2018&ndash;20.</p>"
+    },
+    {
+      "id": "5f0dbc87-0874-4f6f-9237-92d985db4ae0",
+      "content": "<p>Unlike traditional biennials, the MexiCali Biennial hosts exhibitions in different venues on an uneven schedule.</p>"
+    },
+    {
+      "id": "7b117f21-358f-4f99-a3a0-d74a067db3df",
+      "content": "<p>The term biennial traditionally refers to an art exhibition that takes place every two years in a single location, not to exhibitions hosted at a variety of times and venues.</p>"
+    },
+    {
+      "id": "6642dfc3-53a4-44b4-b6bb-3ac8e229835d",
+      "content": "<p>Biennial exhibitions have been held in New York, Berlin, and Venice but also on both sides of the US-Mexico border.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

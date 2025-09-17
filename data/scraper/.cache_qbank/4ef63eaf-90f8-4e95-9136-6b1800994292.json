@@ -1,0 +1,31 @@
+{
+  "stem": "<p>As used in the text, what does the word &ldquo;trace&rdquo; most nearly mean?</p>",
+  "stimulus": "<p>The following text is from the 1913 story &ldquo;The King&rsquo;s Coin&rdquo; by Emily Pauline Johnson, a Kanienkahagen (Mohawk) writer also known as Tekahionwake. Fox-Foot, a young Ojibwe man, is guiding a group of fur traders who are traveling by canoe and suspects that they are being followed.&nbsp;</p>\n<blockquote>\n<p>At supper time, Fox-Foot would allow no fire to be built, no landing to be made, no <span role=\"region\" aria-label=\"Referenced Content\"><u>trace</u></span> of their passing to be left. They ate canned meat and marmalade, drank again of the stream and pushed on, until just at dusk they reached the edge of a long, still lake, with shores of granite and dense fir forest.</p>\n</blockquote>",
+  "type": "mcq",
+  "keys": [
+    "77df2fa1-6a47-497c-ad11-03080ef53888"
+  ],
+  "answerOptions": [
+    {
+      "id": "77df2fa1-6a47-497c-ad11-03080ef53888",
+      "content": "<p>Evidence</p>"
+    },
+    {
+      "id": "2f7fdbdf-942f-495b-b3f0-9a1f258e8d50",
+      "content": "<p>Blemish</p>"
+    },
+    {
+      "id": "964ba3c1-4375-4bad-8b14-2286f91463b8",
+      "content": "<p>Amount</p>"
+    },
+    {
+      "id": "201fb143-2777-4570-81fa-a3d2c915ffeb",
+      "content": "<p>Sketch</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because the text indicates that Fox-Foot doesn&rsquo;t let the group build a fire or create a canoe landing when it&rsquo;s time for supper. This context suggests that he doesn&rsquo;t want anyone who might be following the group to see any sign of them or their activities. In other words, Fox-Foot doesn&rsquo;t want there to be any trace, or evidence, of the group&rsquo;s movements (\"their passing\") through the area.</p><p>Choice B is incorrect because the text conveys that Fox-Foot doesn&rsquo;t want the group to be detected, not that he doesn&rsquo;t want their presence to create a blemish, or a spoiling flaw, in the area; human activity could disturb a natural environment, but the context emphasizes that Fox-Foot is instead focused on avoiding giving any sign of the group&rsquo;s movements through a place (\"their passing\") to anyone who might be following them. Choice C is incorrect because the text focuses on Fox-Foot&rsquo;s desire to avoid detection by those who might be following the group. This context conveys that Fox-Foot doesn&rsquo;t want to create any signs or evidence of the group moving through a place (\"their passing\"), not that he doesn&rsquo;t want to leave behind some quantity of their presence; indeed, it isn&rsquo;t clear what an amount of a group&rsquo;s movement would be. Choice D is incorrect because nothing in the text suggests that the group has a sketch, or rough drawing, of their movements through that area (\"their passing\") that might be left behind. Rather, the context emphasizes that Fox-Foot is focused on ensuring that the group doesn&rsquo;t give any kind of\nindication of their presence, as he wants to avoid detection by anyone who might be following the group.</p>",
+  "externalid": "4ef63eaf-90f8-4e95-9136-6b1800994292",
+  "correct_answer": [
+    "A"
+  ]
+}

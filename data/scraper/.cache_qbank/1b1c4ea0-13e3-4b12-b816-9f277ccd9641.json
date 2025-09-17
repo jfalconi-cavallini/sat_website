@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>The Menominee and Anishinaabe peoples have been growing wild rice&mdash;known as <span lang=\"oj\"><em>manoomin</em></span> in the Ojibwe language&mdash;in the Great Lakes region of North America for centuries, but climatic changes are causing lakes to get deeper, thereby threatening wild rice. These plants are extremely <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> to water depth during the &ldquo;floating leaf&rdquo; stage of development, and if the water is too deep, the buoyancy of the young wild-rice plants can literally uproot them from the lake bottom, destroying them.</p>",
+  "type": "mcq",
+  "keys": [
+    "f2521ed3-2a39-44b9-9194-88f51af22fc8"
+  ],
+  "answerOptions": [
+    {
+      "id": "b7c794ce-4aa3-41d0-aa5c-fff38406feb4",
+      "content": "<p>immune</p>"
+    },
+    {
+      "id": "f2521ed3-2a39-44b9-9194-88f51af22fc8",
+      "content": "<p>sensitive</p>"
+    },
+    {
+      "id": "9a612058-2ce5-422f-a6d9-2770f3aca2db",
+      "content": "<p>limited</p>"
+    },
+    {
+      "id": "538802a9-80d7-48d9-8de2-c0fea059adb9",
+      "content": "<p>receptive</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of wild rice. As used in this context, \"sensitive\" means vulnerable or easily affected. The text indicates that climate change is causing the lakes to get deeper, which consequently threatens the wild rice that grows in the area. The text goes on to state that deep water can cause young wild-rice plants to uproot from the bottom of the lake. This context supports the idea that the plants are sensitive to water depth during early stages of development.</p><p>Choice A is incorrect because \"immune\" means protected or shielded, which wouldn&rsquo;t make sense in this context. The text explains that deep water can cause young wild-rice plants to become uprooted and destroyed, indicating that these plants are harmed by deep water, not protected from it. Choice C is incorrect because \"limited\" means confined or restrained, which wouldn&rsquo;t make sense in this context. The text explains that water depth can negatively affect young wild-rice plants but doesn&rsquo;t suggest that water depth limits or restrains the plants. Choice D is incorrect because \"receptive\" means open or tolerant, which wouldn&rsquo;t make sense in this context. The text doesn&rsquo;t indicate that the wild-rice plants are open to or tolerant of an increase in water depth but rather the opposite: an increase in water depth can harm young wild-rice plants.</p>",
+  "externalid": "1b1c4ea0-13e3-4b12-b816-9f277ccd9641",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Eighteen letters written by Louisa May Alcott, author of the popular novel <em>Little Women</em> (<span data-ssml-say-as=\"date\">1868</span>), can be found at the New York Historical Society. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> letters demonstrate Alcott&rsquo;s keen business sense in her interactions with publishers.</p>",
+  "keys": [
+    "b1e15749-cd45-4fbd-8be2-6b3183850605"
+  ],
+  "answerOptions": [
+    {
+      "id": "552f512c-3a61-4fd1-b395-a83f7c92df30",
+      "content": "<p>One</p>"
+    },
+    {
+      "id": "985e9a2c-fa76-4000-baef-ac6a76b6f689",
+      "content": "<p>That</p>"
+    },
+    {
+      "id": "da6c8379-f583-44fb-8081-bd07abccf9b7",
+      "content": "<p>This</p>"
+    },
+    {
+      "id": "b1e15749-cd45-4fbd-8be2-6b3183850605",
+      "content": "<p>These</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the use of determiners in a sentence. The plural determiner \"these\" agrees in number with the plural noun \"letters\" that it modifies. This choice clearly indicates that the letters demonstrate Alcott&rsquo;s business sense.</p><p>Choice A is incorrect because the singular determiner \"one\" doesn&rsquo;t agree in number with the plural noun \"letters.\" Choice B is incorrect because the singular determiner \"that\" doesn&rsquo;t agree in number with the plural noun \"letters.\" Choice C is incorrect because the singular determiner \"this\" doesn&rsquo;t agree in number with the plural noun \"letters.\"</p>",
+  "externalid": "8762455f-8d5b-4463-a813-95381510eaea",
+  "correct_answer": [
+    "D"
+  ]
+}

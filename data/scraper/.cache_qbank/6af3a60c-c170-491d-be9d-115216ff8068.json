@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Famous for its four-degree tilt, the leaning Garisenda Tower is a popular attraction in Bologna&rsquo;s city center. However, measurements taken in 2023 showed that the tower was rotating in a concerning way. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> city officials closed the area around the tower so experts could explore solutions to stabilize the historical twelfth-century structure.</p>",
+  "keys": [
+    "4ca2af0f-9d08-4a4f-ae1e-ff8b481c5441"
+  ],
+  "answerOptions": [
+    {
+      "id": "7ed15e58-b1ad-4fd3-be44-3f4f304b2c4b",
+      "content": "<p>Similarly,</p>"
+    },
+    {
+      "id": "4ca2af0f-9d08-4a4f-ae1e-ff8b481c5441",
+      "content": "<p>As a result,</p>"
+    },
+    {
+      "id": "9ed39215-c711-4ffe-87dc-a9ab16a78532",
+      "content": "<p>For example,</p>"
+    },
+    {
+      "id": "c63d7e40-6cbf-4457-929e-74c5e11ca154",
+      "content": "<p>In comparison,</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. \"As a result\" logically signals that the action described in this sentence&mdash;closing the area around Garisenda Tower to explore stabilization solutions&mdash;occurred as a consequence or result of measurements revealing the tower&rsquo;s concerning rotation.</p><p>Choice A is incorrect because \"similarly\" illogically signals that the action of closing the tower area is similar to the discovery of concerning rotation described in the previous sentence. Instead, closing the area around the tower to explore solutions occurred as a result of the measurements revealing the rotation. Choice C is incorrect because \"for example\" illogically signals that the action of closing the tower area serves as an example of the tower&rsquo;s concerning rotation described in the previous sentence. Instead, closing the area around the tower to explore solutions occurred as a result of the measurements revealing the rotation. Choice D is incorrect because \"in comparison\" illogically signals that the action of closing the tower area is being compared to the discovery of concerning rotation described in the previous sentence. Instead, closing the area around the tower to explore solutions occurred as a result of the measurements revealing the rotation.</p>",
+  "externalid": "6af3a60c-c170-491d-be9d-115216ff8068",
+  "correct_answer": [
+    "B"
+  ]
+}

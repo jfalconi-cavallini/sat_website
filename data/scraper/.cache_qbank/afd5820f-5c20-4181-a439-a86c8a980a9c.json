@@ -1,0 +1,38 @@
+{
+  "vaultid": "82062bae-c2b0-4e56-9d4d-13658ab0d434",
+  "keys": [
+    "c098f111-6216-40c9-8b1b-eca89b910249"
+  ],
+  "rationale": "<p>Choice D is the best answer because it reflects how the author of Text 2 would most likely respond to the researchers&rsquo; perspective in Text 1 on the behavior of the magpies without trackers. According to Text 1, Dominique Potvin and colleagues observed magpies without trackers pecking at a tracker on another magpie until the device fell off. The researchers suggested that the birds might have been attempting to help the other bird, with no benefit to themselves. Text 2 generally discusses scenarios in which animals have been observed removing trackers from each other. The text cautions that it shouldn&rsquo;t be assumed that these animals are helping one another deliberately, since they might simply be pecking at trackers out of curiosity, causing them to fall off eventually. Therefore, the author of Text 2 would most likely respond to Potvin and colleagues&rsquo; perspective in Text 1 by saying that the behavior of the magpies without trackers could be adequately explained without suggesting that they were attempting to assist the other magpie.</p><p>Choice A is incorrect because Text 2 never discusses the novelty, or the newness and unusual quality, of the captive settings in which animals have been observed to remove trackers from other animals, nor does it suggest that such novelty might account for this behavior. Instead, the text suggests that it&rsquo;s the novelty of the tracking equipment itself that might cause the behavior: interested in the trackers because they&rsquo;re unusual, animals might paw or peck at them until they fall off. Choice B is incorrect because Text 2 never suggests that when animals remove trackers from other animals, they do so because they wish to obtain the trackers for themselves. Instead, Text 2 argues that animals paw or peck at trackers because they are merely curious about them. Choice C is incorrect because Text 2 doesn&rsquo;t argue that when captured animals are observed removing trackers from each other, their behavior should be regarded as selfless only if all of them participate in it. Instead, the text argues that the behavior may not be selfless at all and may instead be attributed to animals&rsquo; curiosity about the new and unusual trackers.</p>",
+  "origin": "proteus",
+  "stem": "<p>Based on the texts, how would the author of Text 2 most likely respond to the researchers&rsquo; perspective in Text 1 on the behavior of the magpies without trackers?</p>",
+  "externalid": "afd5820f-5c20-4181-a439-a86c8a980a9c",
+  "stimulus": "<p><span role=\"heading\" aria-level=\"2\"><strong>Text 1</strong></span></p>\n<p>Dominique Potvin and colleagues captured five Australian magpies (<em>Gymnorhina tibicen</em>) to test a new design for attaching tracking devices to birds. As the researchers fitted each magpie with a tracker attached by a small harness, they noticed some magpies without trackers pecking at another magpie&rsquo;s tracker until it broke off. The researchers suggest that this behavior could be evidence of magpies attempting to help another magpie without benefiting themselves.</p>\n<p>&nbsp;</p>\n<p><span role=\"heading\" aria-level=\"2\"><strong>Text 2</strong></span></p>\n<p>It can be tempting to think that animals are deliberately providing help when we see them removing trackers and other equipment from one another, especially when a species is known to exhibit other cooperative behaviors. At the same time, it can be difficult to exclude the possibility that individuals are simply interested in the equipment because of its novelty, curiously pawing or pecking at it until it detaches.</p>",
+  "templateclusterid": "14b5ce6f-db24-487a-bbbd-b44470324126",
+  "parenttemplatename": "OSP-015-CTC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "89bef27e-2ff7-411f-ac72-38d235ee90cd",
+      "content": "<p>That behavior might have been due to the novelty of the magpies&rsquo; captive setting rather than to the novelty of the tracker.</p>"
+    },
+    {
+      "id": "45bf9ff2-e441-48d2-b998-ce499c509dd3",
+      "content": "<p>That behavior likely indicates that the magpies were deliberately attempting to benefit themselves by obtaining the tracker.</p>"
+    },
+    {
+      "id": "253b4461-8065-4605-837b-96d3c9fba2f0",
+      "content": "<p>That behavior may not be evidence of selflessness in <em>Gymnorhina tibicen</em> because not all the captured magpies demonstrated it.</p>"
+    },
+    {
+      "id": "c098f111-6216-40c9-8b1b-eca89b910249",
+      "content": "<p>That behavior might be adequately explained without suggesting that the magpies were attempting to assist the other magpie.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

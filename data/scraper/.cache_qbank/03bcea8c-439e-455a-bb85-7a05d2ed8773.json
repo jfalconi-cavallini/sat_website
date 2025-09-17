@@ -1,0 +1,38 @@
+{
+  "vaultid": "e17c438b-4059-4704-92e0-c6c55efb9f78",
+  "keys": [
+    "e7047fe3-ed70-43f1-8239-b2e6be822b92"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most effectively uses data from the table to complete the statement. The text explains that mycorrhizal hosts are plants that benefit from the presence of mycorrhizal fungi in the soil and that some such plants produce more mass when grown in the presence of these fungi, while for nonmycorrhizal species the fungi either have no effect or may be harmful. The experiment included two mycorrhizal hosts (corn and marigold) and one nonmycorrhizal species (broccoli). Given the claim in the text that nonmycorrhizal species will see either no difference or a decrease in mass when exposed to mycorrhizal fungi, the student would likely have been surprised by the higher average mass for broccoli grown in the presence of the fungi than the broccoli grown in the soil treated to kill fungi. </p><p>Choice B is incorrect. Although this choice accurately describes the corn data from the table, the fact that the mycorrhizal host corn is more massive in the presence of the fungi likely fits with what the student expected and would therefore not be surprising.&nbsp;Choice C is incorrect. Although this choice accurately describes the marigold data from the table, the fact that the mycorrhizal host marigold is more massive in the presence of the fungi is likely what the student expected and thus would not be surprising.&nbsp;Choice D is incorrect because it does not accurately represent the data in the table&mdash;when grown in soil treated to kill fungi, corn had an average mass of 3.8 g while broccoli had an average mass of 7g&mdash;and because making comparisons among the plants in the no-fungi condition, by itself, does not provide a basis to compare the average mass of mycorrhizal hosts and nonmycorrhizal species grown in the presence of the fungi with those grown in the soil treated to kill fungi. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most effectively uses data from the table to complete the statement?</p>",
+  "externalid": "03bcea8c-439e-455a-bb85-7a05d2ed8773",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Effects of Mycorrhizal Fungi on 3 Plant Species</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Plant species</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Mycorrhizal host</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Average mass of plants grown in soil containing mycorrhizal fungi (in grams)</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Average mass of plants grown in soil treated to kill fungi (in grams)</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">Corn</th><td>yes</td><td style=\"text-align: center;\">15.1</td><td style=\"text-align: center;\">3.8</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Marigold</th><td>yes</td><td style=\"text-align: center;\">10.2</td><td style=\"text-align: center;\">2.4</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Broccoli</th><td>no</td><td style=\"text-align: center;\">7.5</td><td style=\"text-align: center;\">7</td></tr></tbody></table></figure></p>\n<p>Mycorrhizal fungi in soil benefits many plants, substantially increasing the mass of some. A student conducted an experiment to illustrate this effect. The student chose three plant species for the experiment, including two that are mycorrhizal hosts (species known to benefit from mycorrhizal fungi) and one nonmycorrhizal species (a species that doesn&rsquo;t benefit from and may even be harmed by mycorrhizal fungi). The student then grew several plants from each species both in soil containing mycorrhizal fungi and in soil that had been treated to kill mycorrhizal and other fungi. After several weeks, the student measured the plants&rsquo; average mass and was surprised to discover that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "c0224b2b-94eb-421a-9716-f5abdbf0ff75",
+  "parenttemplatename": "OSP-524-QUA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "e7047fe3-ed70-43f1-8239-b2e6be822b92",
+      "content": "<p>broccoli grown in soil containing mycorrhizal fungi had a slightly higher average mass than broccoli grown in soil that had been treated to kill fungi.</p>"
+    },
+    {
+      "id": "0bd807ac-453a-4d37-b110-e3a35f1f2cf6",
+      "content": "<p>corn grown in soil containing mycorrhizal fungi had a higher average mass than broccoli grown in soil containing mycorrhizal fungi.</p>"
+    },
+    {
+      "id": "4cf91b39-40f3-4de9-b120-32464367d7e3",
+      "content": "<p>marigolds grown in soil containing mycorrhizal fungi had a much higher average mass than marigolds grown in soil that had been treated to kill fungi.</p>"
+    },
+    {
+      "id": "ab58cd9d-5b26-4792-bf3d-b79cdbe6d608",
+      "content": "<p>corn had the highest average mass of all three species grown in soil that had been treated to kill fungi, while marigolds had the lowest.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

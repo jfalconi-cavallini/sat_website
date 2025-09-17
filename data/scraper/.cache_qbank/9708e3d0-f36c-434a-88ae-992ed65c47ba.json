@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>To address the susceptibility of materials used in components of high-performance machinery, such as aircraft engines, to creep (deformation that is induced by persistent mechanical stress and that often occurs at elevated temperatures), materials researchers have developed silicon carbide (SiC) fibers for producing aerospace composites. Testing the thermomechanical properties of several commercially available SiC fibers, Ramakrishna <span data-ssml-sub-alias=\"T\">T.</span> Bhatt <span data-ssml-sub-alias=\"et al\">et al.</span> found that in comparison with two polymer-derived SiC fibers, a nitrogen-treated SiC fiber exhibited a lower minimum creep rate, a measure of the rate at which a stress-exposed material deforms at a constant temperature and uniaxial load. The finding suggests that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "c49684e9-29ed-47d7-bfa0-f5918fd29223"
+  ],
+  "answerOptions": [
+    {
+      "id": "59f6131a-a949-48f4-8542-d843ecaadaf3",
+      "content": "<p>unlike the two polymer-derived SiC fibers, the nitrogen-treated SiC fiber can substantially inhibit creep, provided that temperatures and loads are consistent.</p>"
+    },
+    {
+      "id": "39836813-cd43-4000-8d54-0d1045969997",
+      "content": "<p>the two polymer-derived SiC fibers likely hold similar potential for reducing the creep resistance of materials exposed to stress and elevated temperatures, thus prolonging the life span of aerospace machinery.&nbsp;</p>"
+    },
+    {
+      "id": "65767c28-75b6-4ab3-a570-e39f6fb76d36",
+      "content": "<p>composites based on the two polymer-derived SiC fibers have chemical properties that may improve the mechanical and thermal stability of aerospace equipment to a greater extent than do composites based on the nitrogen-treated SiC fiber.</p>"
+    },
+    {
+      "id": "c49684e9-29ed-47d7-bfa0-f5918fd29223",
+      "content": "<p>aerospace composites containing the nitrogen-treated SiC fiber may have the ability to withstand mechanical stress for a longer period of time than can aerospace composites containing either of the two polymer-derived SiC fibers.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of silicon carbide (SiC) fibers and creep, or deformation related to ongoing mechanical stress and elevated temperatures. The text states that Bhatt et al. found that a nitrogen-treated SiC fiber had a lower minimum creep rate than two polymer-derived SiC fibers did. Because having a lower creep rate means that the material is slower to deform with exposure to stress, as the text explains, this finding suggests that aerospace composites made with the nitrogen-treated SiC fiber may be able to withstand mechanical stress for a longer period than those made with the other two polymer-derived SiC fibers can.</p><p>Choice A is incorrect because it overstates the implications of the study&rsquo;s findings, which have to do with the rate of a material&rsquo;s deformation under stress, not the absolute degree of deformation. The text states that Bhatt et al. observed that a nitrogen-treated SiC fiber had a lower minimum creep rate than two polymer-derived SiC fibers did, meaning only that it deformed more slowly over time under constant stress, not that it underwent less deformation overall. Choice B is incorrect because the text doesn&rsquo;t establish any similarity between the two polymer-derived SiC fibers other than that both had a higher creep rate than the nitrogen-treated SiC fiber did in Bhatt et al.&rsquo;s study. Moreover, reducing a material&rsquo;s resistance to creep would mean that the material becomes <em>more</em> susceptible to deformation with exposure to stress and elevated temperatures, which would be expected to shorten rather than prolong the lifespan of machinery made with that material. Choice C is incorrect because the text suggests that the stability of aerospace equipment may be better improved by composites containing nitrogen-treated SiC fiber than by composites containing the two polymer-derived SiC fibers, not the other way around. The text indicates that Bhatt et al. observed that the nitrogen-treated SiC fiber had a lower minimum creep rate than the other two fibers did, meaning that it was slower to degrade under exposure to mechanical stress and elevated temperatures&mdash;suggesting that it may remain stable for longer periods.</p>",
+  "externalid": "9708e3d0-f36c-434a-88ae-992ed65c47ba",
+  "correct_answer": [
+    "D"
+  ]
+}

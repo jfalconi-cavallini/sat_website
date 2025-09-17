@@ -1,0 +1,38 @@
+{
+  "vaultid": "51ba5a10-12f9-498a-b333-269b3dadf673",
+  "keys": [
+    "d393b431-20e8-4478-b88a-1806501b57fc"
+  ],
+  "rationale": "<p>Choice D is the best answer because as used in the text, &ldquo;receiving&rdquo; most nearly means hearing, or perceiving sound. The text describes Mr. Spring Fragrance as he reads a newspaper, focusing on his eyes and ears. While his eyes look at the newspaper, he is unwillingly distracted by words coming through a nearby open window (that is, &ldquo;his ears could not help receiving the words&rdquo;). The words are being perceived specifically by his ears and not his eyes, and ears are the organs of sense with which one hears, so therefore Mr. Spring Fragrance is hearing the words through the open window. </p><p>Choice A is incorrect because there is no indication in the text that Mr. Spring Fragrance is denying, or refusing the truth of, the words coming to him through the window. He is merely distracted by them. Choice B is incorrect because it wouldn&rsquo;t make sense to say that Mr. Spring Fragrance&rsquo;s ears couldn&rsquo;t help entering, or coming into, the words coming to him through the window. Instead, the text indicates that the opposite occurs: that is, when Mr. Spring Fragrance hears the words, they enter his ears, but his ears don&rsquo;t enter the words. Choice C is incorrect because it doesn&rsquo;t make sense in this context to think of Mr. Spring Fragrance as carrying the words coming to him through the window, even though the word &ldquo;carry&rdquo; can have a number of different meanings depending on context: for example, he is not lifting them, he is not supporting them, and he is not accepting blame for them (as one &ldquo;carries the blame&rdquo; for a mistake). </p>",
+  "origin": "proteus",
+  "stem": "<p>As used in the text, what does the word &ldquo;receiving&rdquo; most nearly mean?</p>",
+  "externalid": "cb6b6b1b-7743-4c58-a006-f4432bbd11f8",
+  "stimulus": "<p>The following text is adapted from Sui Sin Far&rsquo;s 1912 short story &ldquo;Mrs. Spring Fragrance.&rdquo; Mr. and Mrs. Spring Fragrance immigrated to the United States from China.</p>\n<blockquote>\n<p>Mrs. Spring Fragrance was unaware that Mr. Spring Fragrance, tired with the day&rsquo;s business, had thrown himself down on the bamboo settee on the veranda, and that although his eyes were engaged in scanning the pages of the&nbsp;<em>Chinese World</em>, his ears could not help <span role=\"region\" aria-label=\"Referenced Content\"><u>receiving</u></span> the words which were borne to him through the open window.</p>\n</blockquote>",
+  "templateclusterid": "a8f8031b-e43f-4d09-9be0-b1af60c3b51a",
+  "parenttemplatename": "OSP-037-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "10ac40e9-9467-45d3-9f2d-4156041f2b42",
+      "content": "<p>Denying</p>"
+    },
+    {
+      "id": "c103f96d-ca12-4f9a-93cf-05619fcc3d21",
+      "content": "<p>Entering</p>"
+    },
+    {
+      "id": "a12cea14-6b90-4538-87b3-1c4448b088be",
+      "content": "<p>Carrying</p>"
+    },
+    {
+      "id": "d393b431-20e8-4478-b88a-1806501b57fc",
+      "content": "<p>Hearing</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

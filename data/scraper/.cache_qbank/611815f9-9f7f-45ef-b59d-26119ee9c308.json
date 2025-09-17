@@ -1,0 +1,38 @@
+{
+  "vaultid": "386f156f-f1ff-4ec8-ba6d-18fe41f3761f",
+  "keys": [
+    "3c01bee7-fa80-4c88-9f24-b9c2dcffe3ed"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of Ana Castillo&rsquo;s 1986 novel <em>The Mixquiahuala Letters</em>. The text states that the novel consists entirely of letters from the narrator to her friend&mdash;a format that some students reading the novel in a class found intimidating. According to the text, those students also found the novel&rsquo;s treatment of gender to be old-fashioned. In response to the students&rsquo; concerns, their professor emphasized the novel&rsquo;s relevance: it&rsquo;s written in modern-sounding language and addresses issues that still matter. This, in turn, suggests that <em>The Mixquiahuala Letters</em> is more relevant to contemporary audiences than it may initially seem. </p><p>Choice A is incorrect because the professor&rsquo;s response to the students only mentions <em>The Mixquiahuala Letters</em>: it doesn&rsquo;t compare the novel to others from the same period. Choice C is incorrect because nothing in the professor&rsquo;s response to the students compares <em>The Mixquiahuala Letters</em> to contemporary novels about friendship. Choice D is incorrect because the professor&rsquo;s response to the students doesn&rsquo;t address the idea of reading the novel&rsquo;s letters multiple times and in different orders. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "611815f9-9f7f-45ef-b59d-26119ee9c308",
+  "stimulus": "<p>Ana Castillo&rsquo;s 1986 novel <em>The Mixquiahuala Letters</em> is a story told entirely through expressive letters from the narrator to her friend&mdash;letters that Castillo suggests could be read in several different orders. As they began reading it in class, some students remarked that they found the novel&rsquo;s letter format daunting and its treatment of gender relations old-fashioned. The professor, however, pointed out that the novel is written in modern-sounding language and addresses issues that still matter today, suggesting that <em>The Mixquiahuala Letters</em> <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> </p>",
+  "templateclusterid": "4e041ea4-f16b-4cae-b339-d3c653390068",
+  "parenttemplatename": "OSP-039-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "8293cdf1-ee62-41b2-85a4-ec34ac592ad7",
+      "content": "<p>has more to say about gender relations than other novels from the same period.</p>"
+    },
+    {
+      "id": "3c01bee7-fa80-4c88-9f24-b9c2dcffe3ed",
+      "content": "<p>is more relevant to contemporary audiences than it may seem at first.</p>"
+    },
+    {
+      "id": "e270722b-7f57-47e4-acbf-cc32e0a819a5",
+      "content": "<p>is easier to read than many contemporary novels that focus on friendship.</p>"
+    },
+    {
+      "id": "f9e0b557-d34f-4bab-954e-59277274fe89",
+      "content": "<p>is best understood after multiple readings in different orders.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

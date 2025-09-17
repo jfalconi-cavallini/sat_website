@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>Overgrazing by purple sea urchins has caused many kelp forests along North America&rsquo;s west coast to be replaced by urchin barrens&mdash;areas stripped of vegetation and covered in purple sea urchins. Urchins in barrens persist in a state of starvation that lessens their nutritional value&mdash;and thus their appeal&mdash;to many predators. Sarah Gravem and colleagues placed sunflower sea stars, a once-abundant predator species suffering massive population declines in recent years, in aquariums that each contained a nutritionally poor and a nutritionally rich purple sea urchin. The researchers found that the sea stars selected the nutritionally rich urchin in 42.7% of trials and the nutritionally poor urchin in 37.5% of trials, suggesting that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "0f22de45-1e70-44f6-b842-50caa14e1620"
+  ],
+  "answerOptions": [
+    {
+      "id": "54abcc3d-a33f-4839-b242-38cc7e78876c",
+      "content": "<p>sunflower sea stars are willing to hunt sea urchins, but if given a choice, they will prey on other more nutritious marine animals instead.</p>"
+    },
+    {
+      "id": "4a520129-6970-4d9b-bce6-23acc193fb2e",
+      "content": "<p>sunflower sea stars are reluctant to feed on both nutritionally poor and nutritionally rich sea urchins and are therefore unlikely to thrive in kelp forests.</p>"
+    },
+    {
+      "id": "7996b442-50ff-4b70-b60e-75c93006baad",
+      "content": "<p>sunflower sea stars are less likely to consume sea urchins in barrens than other species of sea stars are, putting sunflower sea stars at a high risk of extinction.</p>"
+    },
+    {
+      "id": "0f22de45-1e70-44f6-b842-50caa14e1620",
+      "content": "<p>sunflower sea stars do not always avoid foraging on nutritionally poor sea urchins, making sunflower sea star population recovery a potentially important tool for controlling urchin barrens.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents the conclusion that most logically follows from the text&rsquo;s discussion of the researchers&rsquo; findings about purple sea urchins and sunflower sea stars. The text explains that urchin barrens are areas that used to be kelp forests but are now covered by purple sea urchins. The text suggests that because there is no more vegetation to be consumed in those areas, the urchins exist in a state of starvation that makes them less nutritional for many predators. The text goes on to explain that in a study with a choice between two purple sea urchins, sunflower sea stars (a predator species that has been substantially declining) consumed a nutritionally rich urchin 42.7% of the time and a nutritionally poor urchin 37.5% of the time. Because the sunflower sea stars didn&rsquo;t always avoid consuming nutritionally poor urchins, even when nutritionally rich ones were available, it follows that helping sunflower sea star populations to grow could help control urchin barrens by increasing the number of sea stars that may consume and thus remove nutritionally poor purple sea urchins from barrens.</p><p>Choice A is incorrect because the text indicates only that when presented with purple sea urchins, the sunflower sea stars in the study consumed both nutritionally rich and nutritionally poor ones. It doesn&rsquo;t suggest that sunflower sea stars generally prefer other marine animals that are more nutritious; there&rsquo;s no mention of other marine animals. Choice B is incorrect because the text doesn&rsquo;t suggest that sunflower sea stars are generally reluctant to feed on sea urchins. In fact, the text indicates that the sunflower sea stars in the study did consume sea urchins, feeding on both nutritionally poor and nutritionally rich ones. Choice C is incorrect because the text addresses only the willingness of sunflower sea stars to consume the type of sea urchins found in barrens (nutritionally poor sea urchins), not how likely other species of sea stars are to consume them.</p>",
+  "externalid": "da253a06-73ff-4f6c-afc6-03afe5ecdc04",
+  "correct_answer": [
+    "D"
+  ]
+}

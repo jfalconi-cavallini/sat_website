@@ -1,0 +1,38 @@
+{
+  "vaultid": "55ed21e1-f4fb-488b-977e-7b4cb13ed892",
+  "keys": [
+    "819d6078-7380-485e-ae00-ceacf772bf4a"
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents a finding that, if true, would weaken the scientists&rsquo; hypothesis about icebergs that appear to be green. The text indicates that most icebergs are either mostly white or blue in color but that some icebergs in Antarctica appear to be green. The text goes on to say that the scientists hypothesized that this green color occurs when yellow-tinted dissolved organic carbon in ocean waters mixes with blue ice. A finding that both blue icebergs and green icebergs contain similarly small traces of dissolved organic carbon would suggest that something other than yellow-tinted organic carbon causes some icebergs&rsquo; green color, since the blue icebergs that contain yellow-tinted organic carbon remained blue instead of turning green. </p><p>Choice A is incorrect because, according to the text, the scientists&rsquo; hypothesis was that blue icebergs, not white ones, change color when their ice mixes with yellow-tinted dissolved organic carbon. A finding that white ice,&nbsp;because of its air bubbles, doesn&rsquo;t change color when it&rsquo;s mixed with dissolved organic carbon would therefore have no bearing on the scientists&rsquo; hypothesis. Choice B is incorrect because the text focuses only on Antarctic icebergs that appear to be green. It doesn&rsquo;t indicate that icebergs in locations other than Antarctica have been found to have a green hue. A finding that dissolved organic carbon has a stronger yellow color in Antarctic waters than in other places would therefore have no bearing on the scientists&rsquo; hypothesis that green color in icebergs in Antarctica is caused by yellow-tinted dissolved organic carbon mixing with blue ice. Choice C is incorrect because, according to the text, the scientists&rsquo; hypothesis was that blue icebergs turn green when their ice mixes with yellow-tinted dissolved organic carbon in the sea around them. If that&rsquo;s correct, one would expect blue icebergs and green icebergs to be located at a distance from each other since all blue icebergs in an area where the waters contain yellow-tinted dissolved organic carbon would take on a green hue. A finding that blue icebergs and green icebergs are rarely found near each other would therefore strengthen, not weaken, the researchers&rsquo; hypothesis. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which finding, if true, would most directly weaken the team&rsquo;s hypothesis?</p>",
+  "externalid": "54eed2e9-47bc-4ec4-a3ea-81d4a8cf0a81",
+  "stimulus": "<p>Icebergs generally appear to be mostly white or blue, depending on how the ice reflects sunlight. Ice with air bubbles trapped in it looks white because much of the light reflects off the bubbles. Ice without air bubbles usually looks blue because the light travels deep into the ice and only a little of it is reflected. However, some icebergs in the sea around Antarctica appear to be green. One team of scientists hypothesized that this phenomenon is the result of yellow-tinted dissolved organic carbon in Antarctic waters mixing with blue ice to produce the color green.</p>",
+  "templateclusterid": "92a06b12-644b-4ff9-aea8-8b35605db89b",
+  "parenttemplatename": "OSP-327-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "df60e40f-7c78-4ae9-b198-957403ae18ef",
+      "content": "<p>White ice doesn&rsquo;t change color when mixed with dissolved organic carbon due to the air bubbles in the ice.</p>"
+    },
+    {
+      "id": "092b7655-ec89-40c2-83df-cdb49e852db8",
+      "content": "<p>Dissolved organic carbon has a stronger yellow color in Antarctic waters than it does in other places.</p>"
+    },
+    {
+      "id": "a3c5224b-36ed-4904-b046-cc790b5ff3f9",
+      "content": "<p>Blue icebergs and green icebergs are rarely found near each other.</p>"
+    },
+    {
+      "id": "819d6078-7380-485e-ae00-ceacf772bf4a",
+      "content": "<p>Blue icebergs and green icebergs contain similarly small traces of dissolved organic carbon.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

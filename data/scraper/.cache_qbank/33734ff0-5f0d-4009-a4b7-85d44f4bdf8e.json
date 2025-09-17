@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most effectively uses data from the table to complete the statement?</p>",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Mean Ratings for Patients after 21 Days</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Measure</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Mean rating for participants aware of taking a placebo</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Mean rating for participants in the control group</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">Global improvement</th><td style=\"text-align: center;\">5.0</td><td style=\"text-align: center;\">3.9</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Symptom severity reduction</th><td style=\"text-align: center;\">92.00</td><td style=\"text-align: center;\">46.00</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Quality of life improvement</th><td style=\"text-align: center;\">11.4</td><td style=\"text-align: center;\">5.4</td></tr></tbody></table></figure></p>\n<p>To test whether a medication is effective, scientists compare outcomes for patients taking it and patients taking a placebo (a medically inactive substance). Patients normally aren&rsquo;t told they&rsquo;re receiving a placebo, but a research team conducted a study to see if there might be a medical benefit to telling them. The team used various measures to evaluate participants, with higher ratings indicating greater well-being in each measure. Compared to the mean ratings after 21 days for participants in the control group, the mean ratings for participants who were aware of taking a placebo <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "20194632-dcb9-4dad-99a4-26447ab0617b"
+  ],
+  "answerOptions": [
+    {
+      "id": "20cfa894-3a8e-433c-8c67-d7ff4c1a0efa",
+      "content": "<p>ranged from 5.0 to 92.00, indicating that well-being varied widely from participant to participant.</p>"
+    },
+    {
+      "id": "6b450efb-bcbb-4d3f-905a-2a324a24b2ba",
+      "content": "<p>were lower for two measures, with the rating for only one measure indicating greater well-being for these participants.</p>"
+    },
+    {
+      "id": "1dda48af-86a4-4c7e-9ed9-20e01c606136",
+      "content": "<p>ranged from 3.9 to 46.00, with no rating indicating greater well-being in any measure for these participants.</p>"
+    },
+    {
+      "id": "20194632-dcb9-4dad-99a4-26447ab0617b",
+      "content": "<p>were higher for all three measures, indicating greater overall well-being for these participants.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most effectively uses data from the table to complete the statement comparing the mean ratings for two different groups of participants in a study. The text explains that a research team evaluated the study&rsquo;s participants using various measures in order to learn whether there might be a medical benefit to telling patients they&rsquo;re receiving a placebo. The table shows the team&rsquo;s mean ratings for participants after 21 days for three of the measures: global improvement, symptom severity reduction, and quality of life improvement. According to the table, the mean ratings were higher for all three measures for participants aware of taking a placebo than for participants in the control group. Given that higher ratings indicate greater well-being, as the text states, the mean ratings in the table indicate greater overall well-being for participants aware of taking a placebo than for participants in the control group.</p><p>Choice A is incorrect because the table doesn&rsquo;t include data about individual participants; rather, it presents means, or mathematical averages, of ratings. For this reason, no conclusions can be drawn from data in the table about the extent to which well-being may have varied from participant to participant. Choice B is incorrect because according to the table, the mean ratings for participants aware of taking a placebo were higher for all three measures than for participants in the control group, not lower for two of the measures. Choice C is incorrect because it cites data from the table related to participants in the control group, not to participants aware of taking a placebo. Additionally, the mean ratings in the table for participants aware of taking a placebo are higher for all three measures than for participants in the control group. Given that higher ratings indicate greater well-being, as the text states, the ratings in the table for participants aware of taking a placebo indicate greater well-being for these participants in all three measures.</p>",
+  "externalid": "33734ff0-5f0d-4009-a4b7-85d44f4bdf8e",
+  "correct_answer": [
+    "D"
+  ]
+}

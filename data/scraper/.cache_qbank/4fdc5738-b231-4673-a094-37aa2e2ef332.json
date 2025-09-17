@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>Archaeologist Christiana Kohler and her team excavated the Egyptian tomb of Queen Merneith, the wife of a First Dynasty pharaoh. Some scholars claim that she also ruled Egypt on her own and was actually the first female pharaoh. The team found a tablet in Merneith&rsquo;s tomb with writing suggesting that she was in charge of the country&rsquo;s treasury and other central offices. Whether Merneith was a pharaoh or not, this discovery supports the idea that Merneith likely <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "269e266c-8a1c-46ad-999a-01a9e349d3dd"
+  ],
+  "answerOptions": [
+    {
+      "id": "269e266c-8a1c-46ad-999a-01a9e349d3dd",
+      "content": "<p>had an important role in Egypt&rsquo;s government.</p>"
+    },
+    {
+      "id": "9a5a7cef-df40-441c-b2f0-c526636018f5",
+      "content": "<p>lived after rather than before the First Dynasty of Egypt.</p>"
+    },
+    {
+      "id": "57de9963-6290-4256-9be5-0fe2810a0abd",
+      "content": "<p>traveled beyond Egypt&rsquo;s borders often.</p>"
+    },
+    {
+      "id": "eab7311f-0c31-4ff5-a856-5a0853229b8d",
+      "content": "<p>created a new form of writing in Egypt.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of the evidence found in Queen Merneith&rsquo;s tomb. The text begins by mentioning archaeologists&rsquo; efforts to excavate the tomb of Queen Merneith, the wife of a pharaoh who some scholars think was actually the first female pharaoh. The text states that a tablet discovered in her tomb suggests she \"was in charge of the country&rsquo;s treasury and other central offices,\" which supports the idea that she had an important role in Egypt&rsquo;s government.</p><p>Choice B is incorrect because since the text explicitly states that Merneith&rsquo;s husband was a First Dynasty pharaoh, it can be inferred that she lived during the First Dynasty, not after it. Choice C is incorrect because the text does not provide any evidence that Merneith traveled beyond Egypt&rsquo;s borders often. The text is focused on the archaeological discovery in her tomb and the implications about her potential role as a ruler in Egypt but does not mention anything about her traveling habits. Choice D is incorrect because the text does not mention anything about Merneith creating a new form of writing in Egypt. The text discusses the discovery of a tablet with writing suggesting her governmental role but does not imply that this writing represented a new form created by Merneith.</p>",
+  "externalid": "4fdc5738-b231-4673-a094-37aa2e2ef332",
+  "correct_answer": [
+    "A"
+  ]
+}

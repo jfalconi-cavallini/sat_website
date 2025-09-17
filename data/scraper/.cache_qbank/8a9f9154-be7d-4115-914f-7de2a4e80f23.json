@@ -1,0 +1,38 @@
+{
+  "vaultid": "8d7715a8-4318-4ba1-a6a3-154861902dc8",
+  "keys": [
+    "c3584611-0f71-47e9-bb56-83baf9dc1e1a"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is punctuation between a subject and a verb. When, as in this case, a subject (&ldquo;her 2019 novel <em>Gingerbread</em>&rdquo;) is immediately followed by a verb (&ldquo;offers&rdquo;), no punctuation is needed. </p><p>Choice A is incorrect because no punctuation is needed between the subject and the verb. Choice B is incorrect because no punctuation is needed between the subject and the verb. Choice D is incorrect because no punctuation is needed between the subject and the verb. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "8a9f9154-be7d-4115-914f-7de2a4e80f23",
+  "stimulus": "<p>In crafting her fantasy fiction, Nigerian-born British author Helen Oyeyemi has drawn inspiration from the classic nineteenth-century fairy tales of the Brothers Grimm. Her 2014 novel <em>Boy, Snow, Bird</em>, for instance, is a complex retelling of the story of Snow White, while her 2019 novel <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> offers a delicious twist on the classic tale of Hansel and Gretel. </p>",
+  "templateclusterid": "bca03ab4-ae7b-4761-8619-8c1251f33024",
+  "parenttemplatename": "OSP-619-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d7062477-5050-4d3f-919e-70cb656748d2",
+      "content": "<p><em>&shy;&shy;Gingerbread</em>&mdash;</p>"
+    },
+    {
+      "id": "f177eb84-cf70-4f13-8618-bd7d419a7ac9",
+      "content": "<p><em>&shy;&shy;Gingerbread,</em></p>"
+    },
+    {
+      "id": "c3584611-0f71-47e9-bb56-83baf9dc1e1a",
+      "content": "<p><em>Gingerbread</em></p>"
+    },
+    {
+      "id": "6098756a-3204-40b0-80b4-ab8927613b2b",
+      "content": "<p><em>&shy;&shy;Gingerbread:</em></p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

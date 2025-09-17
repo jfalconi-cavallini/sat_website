@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>One popular theory of the origin of the Moon, the &ldquo;big whack,&rdquo; posits that a protoplanet called Theia collided with Earth, flinging debris into orbit that eventually coalesced into the Moon. Until recently, Theia was <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>, but researcher Qian Yuan and colleagues now claim to have identified pieces of the protoplanet in the lowermost section of Earth&rsquo;s mantle.</p>",
+  "keys": [
+    "d71b13e1-740f-4ca6-8a49-b46d48f926d4"
+  ],
+  "answerOptions": [
+    {
+      "id": "0e582491-0fd5-4a23-ae66-db1743fb4e97",
+      "content": "<p>desultory</p>"
+    },
+    {
+      "id": "6400689b-6d01-4b8f-8c66-81f90d99feb5",
+      "content": "<p>spurious</p>"
+    },
+    {
+      "id": "6cd88e68-fde3-4daa-a976-c91b5fdbe11d",
+      "content": "<p>veritable</p>"
+    },
+    {
+      "id": "d71b13e1-740f-4ca6-8a49-b46d48f926d4",
+      "content": "<p>notional</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of Theia and the origin of the Moon. In this context, \"notional\" means theoretical or only an idea. The text indicates that although something was once true of Theia, the protoplanet one theory holds collided with Earth and created debris that became the Moon, researchers now claim to have identified pieces of it deep in Earth&rsquo;s mantle. In other words, having direct evidence of Theia is a new development. This context suggests that before evidence was found, Theia was only theoretical&mdash;that is, that it was notional.</p><p>Choice A is incorrect because the text doesn&rsquo;t suggest that Theia, a protoplanet, was \"desultory,\" which in this context would mean moving away from the matter at hand; indeed, the text focuses on the \"big whack\" theory of the origin of the Moon and indicates that Theia is a central part of that theory. Choice B is incorrect because the text makes the point that something was true of Theia until recently and suggests that this has changed now that researchers believe they have found pieces of the protoplanet deep in Earth&rsquo;s mantle. It wouldn&rsquo;t make sense to say that Theia was actually \"spurious,\" or false, until researchers found direct evidence of the protoplanet. (Although Theia&rsquo;s existence might not have been certain, it would not have been false simply because there was no evidence of it.) Choice C is incorrect because the text makes the point that something was true of Theia until recently and suggests that this has changed now that researchers believe they have found pieces of the protoplanet deep in Earth&rsquo;s mantle. It wouldn&rsquo;t make sense to say that Theia was \"veritable,\" or real, before researchers found direct evidence of its existence: the evidence would instead confirm that Theia was real.</p>",
+  "externalid": "ee427475-700a-4123-96a2-c2ab10dc89a9",
+  "correct_answer": [
+    "D"
+  ]
+}

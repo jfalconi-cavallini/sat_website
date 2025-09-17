@@ -1,0 +1,38 @@
+{
+  "vaultid": "a1e55c6a-40f7-4e1c-ae77-9fc06009adee",
+  "keys": [
+    "80aafb2f-cc7a-4661-9db1-369f91ceba80"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period after &ldquo;percent&rdquo; is used correctly to mark the boundary between one sentence (&ldquo;After&hellip;percent&rdquo;) and another (&ldquo;Such&hellip;up&rdquo;). </p><p>Choice A is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to mark the boundary between sentences.&nbsp;Choice B is incorrect. Without a comma preceding it, the conjunction &ldquo;and&rdquo; can&rsquo;t be used in this way to join sentences.&nbsp;Choice D is incorrect because it results in a run-on sentence. The sentences (&ldquo;After&hellip;percent&rdquo; and &ldquo;Such&hellip;up&rdquo;) are fused without punctuation and/or a conjunction. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "930d8bba-a206-4152-ac1c-d542102caced",
+  "stimulus": "<p>After the United Kingdom began rolling out taxes equivalent to a few cents on single-use plastic grocery bags in 2011, plastic-bag consumption decreased by up to ninety <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> taxes are subject to what economists call the &ldquo;rebound effect&rdquo;: as the change became normalized, plastic-bag use started to creep back up.</p>",
+  "templateclusterid": "da9477a2-f1d3-4960-b998-3e5ca08ede34",
+  "parenttemplatename": "OSP-669-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d2c3f51f-66d2-42ef-82fc-68de4eae115e",
+      "content": "<p>percent, such</p>"
+    },
+    {
+      "id": "20f74816-625a-4c90-aec7-08b4ff481737",
+      "content": "<p>percent and such</p>"
+    },
+    {
+      "id": "80aafb2f-cc7a-4661-9db1-369f91ceba80",
+      "content": "<p>percent. Such</p>"
+    },
+    {
+      "id": "bef85b34-0588-4aba-8bdd-b2c8bb762517",
+      "content": "<p>percent such</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

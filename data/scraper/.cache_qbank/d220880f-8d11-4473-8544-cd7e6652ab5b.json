@@ -1,0 +1,38 @@
+{
+  "vaultid": "3c1d63c4-eb79-4eda-9757-b6324da7ee59",
+  "keys": [
+    "eda5116a-22c0-4dbd-857a-9d9a238b7990"
+  ],
+  "rationale": "<p>Choice D is the best answer because it accurately describes data from the table that support Rodriguez and colleagues&rsquo; assertion about the classifications of the five new gas exoplanets. The text describes two categories of gas planets: hot Jupiters, which have a mass of at least 0.25 Jupiters and an orbital period of less than 10 days, and warm Jupiters, which have the same mass characteristic but have orbital periods of more than 10 days. According to the table, four of the gas exoplanets discovered by Rodriguez and colleagues have a mass of at least 0.25 Jupiters and an orbital period of less than 10 days, while one of the planets has a mass of at least 0.25 Jupiters and an orbital period of more than 10 days. These data therefore support Rodriguez and colleagues&rsquo; assertion that four of the new exoplanets are hot Jupiters and one is a warm Jupiter. </p><p>Choice A is incorrect because it doesn&rsquo;t accurately describe the data from the table. Although the table shows that TOI-628 b has a mass equivalent to 6.33 Jupiters, the table also shows that one of the planets&mdash;TOI-1478 b&mdash;does indeed have an orbital period of more than 10 days. Choice B is incorrect because it doesn&rsquo;t accurately describe the data from the table. Although the table does show that the masses of the five planets range from 0.85 to 6.33 Jupiters, the table also shows that TOI-1478 b has an orbital period of 10.180 days, not 153 days. Choice C is incorrect. According to the table, TOI-1333 b has an orbital period of only 4.720 days, not more than 10 days. Additionally, although the table does show that all the planets have a radius between 1.060 and 1.771 Jupiters, the text indicates that a planet may be classified as a hot Jupiter or a warm Jupiter based on its mass and orbital period, not on its radius, making the information about the range of the five planets&rsquo; radius values irrelevant. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes data from the table that support Rodriguez and colleagues&rsquo; assertion?</p>",
+  "externalid": "d220880f-8d11-4473-8544-cd7e6652ab5b",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Characteristics of Five Recently Discovered Gas Exoplanets</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Exoplanet designation</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Mass (Jupiters)</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Radius (Jupiters)</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Orbital period (days)</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Distance from the Sun (parsecs)</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">TOI-640 b</th><td style=\"text-align: center;\">0.88</td><td style=\"text-align: center;\">1.771</td><td style=\"text-align: center;\">5.003</td><td style=\"text-align: center;\">340</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">TOI-1601 b</th><td style=\"text-align: center;\">0.99</td><td style=\"text-align: center;\">1.239</td><td style=\"text-align: center;\">5.331</td><td style=\"text-align: center;\">336</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">TOI-628 b</th><td style=\"text-align: center;\">6.33</td><td style=\"text-align: center;\">1.060</td><td style=\"text-align: center;\">3.409</td><td style=\"text-align: center;\">178</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">TOI-1478 b</th><td style=\"text-align: center;\">0.85</td><td style=\"text-align: center;\">1.060</td><td style=\"text-align: center;\">10.180</td><td style=\"text-align: center;\">153</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">TOI-1333 b</th><td style=\"text-align: center;\">2.37</td><td style=\"text-align: center;\">1.396</td><td style=\"text-align: center;\">4.720</td><td style=\"text-align: center;\">200</td></tr></tbody></table></figure></p>\n<p>&ldquo;Hot Jupiters&rdquo; are gas planets that have a mass of at least 0.25 Jupiters (meaning that their mass is at least 25% of that of Jupiter) and an orbital period of less than 10 days (meaning that they complete one orbit around their star in less than 10 days), while &ldquo;warm Jupiters&rdquo; are gas planets that meet the same mass criterion but have orbital periods of more than 10 days. In 2021, Michigan State University astronomer Joseph Rodriguez and colleagues announced the discovery of five new gas exoplanets and asserted that four are hot Jupiters and one is a warm Jupiter. </p>",
+  "templateclusterid": "7708b919-206b-48b1-9413-daf751240cd5",
+  "parenttemplatename": "OSP-511-QUA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "31291a12-0890-49b2-a8c0-189128ad9160",
+      "content": "<p>None of the planets have an orbital period of more than 10 days, and TOI-628 b has a mass of 6.33 Jupiters.&nbsp;</p>"
+    },
+    {
+      "id": "1c7404ff-518f-40ff-a7ca-0f678adbbdd1",
+      "content": "<p>TOI-1478 b has an orbital period of 153 days, and the masses of all the planets range from 0.85 to 6.33 Jupiters.&nbsp;</p>"
+    },
+    {
+      "id": "897cf0f1-8dc5-40a5-907d-13745d2f47db",
+      "content": "<p>All the planets have a radius between 1.060 and 1.771 Jupiters, and only TOI-1333 b has an orbital period of more than 10 days.&nbsp;</p>"
+    },
+    {
+      "id": "eda5116a-22c0-4dbd-857a-9d9a238b7990",
+      "content": "<p>Each of the planets has a mass greater than 0.25 Jupiters, and all except for TOI-1478 b have an orbital period of less than 10 days.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

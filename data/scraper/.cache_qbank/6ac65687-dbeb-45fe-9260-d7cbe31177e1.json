@@ -1,0 +1,38 @@
+{
+  "vaultid": "5f133cad-84e5-47ea-b320-742f50d6f6a5",
+  "keys": [
+    "b9ae48ea-673b-413a-9a43-606f4900f6ed"
+  ],
+  "rationale": "<p>Choice C is the best answer. &ldquo;For this reason&rdquo; logically signals that the behavior described in this sentence is a consequence of the information about seals in the previous sentence. That is, a seal moves its flippers as little as possible during a deep dive because it needs to keep its heart rate low enough that it does not run out of oxygen.&nbsp;</p><p>Choice A is incorrect because &ldquo;in the first place&rdquo; illogically signals that this sentence is the first point in a discussion. Instead, the sentence describes a behavior that is a consequence of the previous information about seals. &nbsp;Choice B is incorrect because &ldquo;on the other hand&rdquo; illogically signals that the behavior described in this sentence contrasts with the previous information about seals. Instead, it is a consequence of that information. Choice D is incorrect because &ldquo;in comparison&rdquo; illogically signals that the behavior described in this sentence is being compared to the previous information about seals. Instead, it is a consequence of that information.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "6ac65687-dbeb-45fe-9260-d7cbe31177e1",
+  "stimulus": "<p>As biologist Terrie Williams has documented, deep dives present a challenge for seals and other marine mammals. A seal must exert enough energy to propel itself hundreds of meters downward, while keeping its heart rate low enough that it doesn&rsquo;t run out of oxygen while underwater. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> a seal moves its flippers as little as possible on a deep dive, gliding to conserve energy.</p>",
+  "templateclusterid": "4cb7065e-e5f6-4e8a-8a92-80e818980b15",
+  "parenttemplatename": "OSP-255-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "4b16b08d-614c-46c2-b303-577da3159c8b",
+      "content": "<p>In the first place,</p>"
+    },
+    {
+      "id": "d0056231-c0fa-4710-8136-5da82dd7a876",
+      "content": "<p>On the other hand,</p>"
+    },
+    {
+      "id": "b9ae48ea-673b-413a-9a43-606f4900f6ed",
+      "content": "<p>For this reason,</p>"
+    },
+    {
+      "id": "a82cee71-be79-4ea4-a3b5-0be38cbf3c21",
+      "content": "<p>In comparison,</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

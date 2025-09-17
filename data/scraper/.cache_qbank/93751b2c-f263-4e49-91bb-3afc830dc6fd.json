@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Jeffrey Gibson&rsquo;s sculptural object <em>KNOW YOUR MAGIC, BABY,</em> an Everlast-brand exercise bag embroidered with multicolored beads and a fringe associated with the dances of the Ojibwe people, stitches together&mdash;literally and figuratively&mdash;recognizable symbols from both Native and non-Native cultures. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Gibson&rsquo;s piece also blurs the distinction between contemporary art and traditional crafts.</p>",
+  "type": "mcq",
+  "keys": [
+    "86b883c7-3453-4a59-a3cf-adf0cad6692a"
+  ],
+  "answerOptions": [
+    {
+      "id": "4b726ab1-af11-49e7-a260-420e06281e6c",
+      "content": "<p>Conversely,</p>"
+    },
+    {
+      "id": "86b883c7-3453-4a59-a3cf-adf0cad6692a",
+      "content": "<p>In so doing,</p>"
+    },
+    {
+      "id": "c0eb1a18-5cb7-4b69-bb70-acc807dedd99",
+      "content": "<p>For instance,</p>"
+    },
+    {
+      "id": "697d019d-0f21-45a6-8235-987194076ccc",
+      "content": "<p>In particular,</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. \"In so doing\" logically signals that the information in this sentence about Gibson&rsquo;s piece&mdash;that it blurs the distinction between contemporary art and traditional crafts&mdash;is a result or consequence of the piece&rsquo;s blending of particular Native and non-Native cultural symbols.</p><p>Choice A is incorrect. \"Conversely\" illogically signals that the information in this sentence contrasts with the previous information about the blending of particular cultural symbols in Gibson&rsquo;s piece. Instead, it presents a result or consequence of that information. Choice C is incorrect. \"For instance\" illogically signals that this sentence provides an example supporting the previous information about the blending of particular cultural symbols in Gibson&rsquo;s piece. Instead, it presents a result or consequence of that information. Choice D is incorrect. \"In particular\" illogically signals that this sentence provides specific details elaborating on the previous information about the blending of particular cultural symbols in Gibson&rsquo;s piece. Instead, it presents a result or consequence of that information.</p>",
+  "externalid": "93751b2c-f263-4e49-91bb-3afc830dc6fd",
+  "correct_answer": [
+    "B"
+  ]
+}

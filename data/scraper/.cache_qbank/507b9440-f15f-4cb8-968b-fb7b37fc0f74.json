@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Birds sing to communicate over potentially great distances. For this reason, many researchers believe that birds in densely vegetated habitats generally sing at lower frequencies than birds living in comparatively sparse habitats, since dense vegetation tends to <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the distance that high-frequency sounds can travel.</p>",
+  "type": "mcq",
+  "keys": [
+    "71a1d93f-89d9-4ee2-82ad-2f3696dfd82a"
+  ],
+  "answerOptions": [
+    {
+      "id": "db7ff216-c990-4257-92df-c847baa1eb49",
+      "content": "<p>exceed</p>"
+    },
+    {
+      "id": "71a1d93f-89d9-4ee2-82ad-2f3696dfd82a",
+      "content": "<p>diminish</p>"
+    },
+    {
+      "id": "47e48d16-b1d4-48c2-89db-f0c2822d81e9",
+      "content": "<p>encompass</p>"
+    },
+    {
+      "id": "f3a0c1fb-654a-4ab3-848d-9ad95c2a5784",
+      "content": "<p>conceal</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of birdsong. In this context, \"diminish\" means reduce or lessen. The text establishes that birds sing to communicate over potentially large distances and that researchers believe that birds that live in densely vegetated habitats sing at lower frequencies than birds that live in comparatively sparsely vegetated habitats. The text then explains that researchers hold this belief due to some effect of dense vegetation on the distance that high-frequency sounds can travel. If birds sing to communicate over long distances, it would be logical to conclude that researchers believe that birds in densely vegetated habitats sing at lower frequencies than birds in relatively sparse habitats do because dense vegetation diminishes the distance that high-frequency sounds can travel.</p><p>Choice A is incorrect because nothing in the text suggests that dense vegetation can \"exceed,\" or surpass or go beyond, the distance that high-frequency sounds can travel. The text suggests that dense vegetation reduces the distance that high-frequency sounds can travel, not that dense vegetation goes farther than that distance. Choice C is incorrect because it would not be sensible to say that dense vegetation can \"encompass,\" or enclose or encircle, the distance that high-frequency sounds can travel. The distance that sounds can travel is not an object that can be enclosed or encircled by vegetation. Choice D is incorrect because there is no information in the text indicating that dense vegetation can \"conceal,\" or hide or keep from being observed, the distance that high-frequency sounds travel. Instead, the text suggests that dense vegetation reduces the distance that high-frequency sounds can travel.</p>",
+  "externalid": "507b9440-f15f-4cb8-968b-fb7b37fc0f74",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>The Inca of South America used intricately knotted string devices called quipus to record countable information, like population data and payments. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> they may have used quipus to record more complex information, like stories and myths, according to researchers.</p>",
+  "keys": [
+    "5c43f81e-be8a-4e9d-afd5-739702da62f7"
+  ],
+  "answerOptions": [
+    {
+      "id": "3a587f0c-a576-4aa2-b6f8-849f39523b86",
+      "content": "<p>As a result,</p>"
+    },
+    {
+      "id": "f56c7ee8-8691-4388-9b94-e49280b1050f",
+      "content": "<p>In other words,</p>"
+    },
+    {
+      "id": "5c43f81e-be8a-4e9d-afd5-739702da62f7",
+      "content": "<p>In addition,</p>"
+    },
+    {
+      "id": "78564186-bae1-429a-a71c-c23beda8355f",
+      "content": "<p>For example,</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. \"In addition\" logically signals that the claim in this sentence&mdash;that the Inca of South America may have used quipus to record more complex information&mdash;is an additional point related to the previous statement about the Inca using quipus to record countable information.</p><p>Choice A is incorrect because \"as a result\" illogically signals that the claim in the sentence is a consequence or result of the previous statement about the Inca using quipus to record countable information. Instead, the possibility that the Inca used quipus to record more complex information is an additional point about how the quipus were used. Choice B is incorrect because \"in other words\" illogically signals that the claim in the sentence is merely a paraphrase or restatement of the previous statement about the Inca using quipus to record countable information. Instead, the possibility that the Inca used quipus to record more complex information is an additional point about how the quipus were used. Choice D is incorrect because \"for example\" illogically signals that the claim in the sentence exemplifies the previous statement about the Inca using quipus to record countable information. Instead, the possibility that the Inca used quipus to record more complex information is an additional point about how the quipus were used.</p>",
+  "externalid": "a0d52b5d-8503-42b3-a30f-685beeea0d92",
+  "correct_answer": [
+    "C"
+  ]
+}

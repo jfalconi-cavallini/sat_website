@@ -1,0 +1,38 @@
+{
+  "vaultid": "4ff6180c-31ad-42d1-9945-8fdc43dcb3ca",
+  "keys": [
+    "00c6f113-d30c-43c6-b9df-03955c985bdf"
+  ],
+  "rationale": "<p>Choice A is&nbsp;the best answer because it most accurately describes the overall structure of the text. The narrator begins by explaining how Charlot carefully delivers Atlante&rsquo;s letter to Rinaldo, and then relates that Rinaldo feels &ldquo;transported with joy&rdquo; after reading the letter. Therefore, the overall structure of the text is best described as a description of the delivery of a letter followed by the portrayal of a character&rsquo;s happiness after reading the letter. </p><p>Choice B is incorrect because the text indicates that the letter has been written; there&rsquo;s no explanation why another character hasn&rsquo;t written one. In addition, the text&rsquo;s description of Rinaldo &ldquo;in a melancholy posture&rdquo; suggests that he&rsquo;s sad and thoughtful, not that he&rsquo;s desperate to receive the letter. Choice C is incorrect. Although the text states that Charlot won&rsquo;t toss the letter to Rinaldo because she doesn&rsquo;t want it to fall, the text doesn&rsquo;t refer to the contents of the letter. Instead, the text describes how happy Rinaldo feels after reading it.&nbsp;Choice D is incorrect. Although the text does describe Rinaldo&rsquo;s reaction to the letter, the text doesn&rsquo;t begin by discussing Atlante&rsquo;s inspiration for writing the letter. Instead, the text begins by discussing the delivery of the letter.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes the overall structure of the text?</p>",
+  "externalid": "2c3579f5-5a54-410e-8872-288a52fb95e3",
+  "stimulus": "<p>The following text is adapted from Aphra Behn&rsquo;s 1689 novel <em>The Lucky Mistake</em>. Atlante and Rinaldo are neighbors who have been secretly exchanging letters through Charlot, Atlante&rsquo;s sister.</p>\n<p style='padding-left: 1em;'>[Atlante] gave this letter to Charlot; who immediately ran into the balcony with it, where she still found Rinaldo in a melancholy posture, leaning his head on his hand: She showed him the letter, but was afraid to toss it to him, for fear it might fall to the ground; so he ran and fetched a long cane, which he cleft at one end, and held it while she put the letter into the cleft, and stayed not to hear what he said to it. But never was man so transported with joy, as he was at the reading of this letter; it gives him new wounds; for to the generous, nothing obliges love so much as love.</p>",
+  "templateclusterid": "abff8dde-04a2-4929-8f5a-9ecffb38b50b",
+  "parenttemplatename": "OSP-031-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "00c6f113-d30c-43c6-b9df-03955c985bdf",
+      "content": "<p>It describes the delivery of a letter, and then portrays a character&rsquo;s happiness at reading that letter.</p>"
+    },
+    {
+      "id": "5293a71c-965b-48e4-a892-c10a40c754c3",
+      "content": "<p>It establishes that a character is desperate to receive a letter, and then explains why another character has not yet written that letter.</p>"
+    },
+    {
+      "id": "009b4d72-9675-47b8-a5d3-06cd94c9bb15",
+      "content": "<p>It presents a character&rsquo;s concerns about delivering a letter, and then details the contents of that letter.</p>"
+    },
+    {
+      "id": "f668701b-4a64-4c43-aeba-1517f0e579ad",
+      "content": "<p>It reveals the inspiration behind a character&rsquo;s letter, and then emphasizes the excitement that another character feels upon receiving that letter.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

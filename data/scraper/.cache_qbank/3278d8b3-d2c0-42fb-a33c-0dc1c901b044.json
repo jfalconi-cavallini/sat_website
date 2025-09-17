@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Digital artist Jung (Lulu) Chen primarily uses a suite of software tools to create illustrations for children&rsquo;s books. To manifest the warm and welcoming atmospheres that are a signature of her <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> she occasionally relies on more traditional art techniques, such as painting with watercolors.</p>",
+  "keys": [
+    "e4d39361-a516-4528-9006-c518cdd0254c"
+  ],
+  "answerOptions": [
+    {
+      "id": "e4d39361-a516-4528-9006-c518cdd0254c",
+      "content": "<p>work<span data-ssml-say-as=\"characters\">,</span> though<span data-ssml-say-as=\"characters\">,</span></p>"
+    },
+    {
+      "id": "0ada847d-466f-4570-aba8-009e5e70a253",
+      "content": "<p>work<span data-ssml-say-as=\"characters\">,</span> though</p>"
+    },
+    {
+      "id": "61e23fac-2fda-4aa1-b3d7-c691fe15422f",
+      "content": "<p>work<span data-ssml-say-as=\"characters\">;</span> though<span data-ssml-say-as=\"characters\">,</span></p>"
+    },
+    {
+      "id": "42dfed41-6a9b-4aa6-b1f4-63868111cee0",
+      "content": "<p>work<span data-ssml-say-as=\"characters\">,</span> though<span data-ssml-say-as=\"characters\">;</span></p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of punctuation within a sentence. The comma after \"work\" pairs with the comma after \"though\" to separate the supplementary element \"though\" from the rest of the sentence. This supplementary element signals that what follows is an exception to Chen using software tools to create illustrations, and the pair of commas indicates that this element could be removed without affecting the grammatical coherence of the sentence.</p><p>Choice B is incorrect because the comma after \"work\" must be paired with a comma after \"though\" to separate the supplementary element from the rest of the sentence. Choice C is incorrect because a semicolon can&rsquo;t be paired with a comma in this way to separate the supplementary element from the rest of the sentence. Choice D is incorrect because a semicolon can&rsquo;t be paired with a comma in this way to separate the supplementary element from the rest of the sentence.</p>",
+  "externalid": "3278d8b3-d2c0-42fb-a33c-0dc1c901b044",
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best describes the function of the underlined sentence in the text as a whole?</p>",
+  "stimulus": "<p>Oral histories&mdash;whether they consist of interviews or recordings of songs and stories&mdash;can offer researchers a rich view of people&rsquo;s everyday experiences. For her book about coal mining communities in Kentucky during the twentieth century, Karida Brown therefore relied in part on interviews with coal miners and their families. <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">By doing so, she gained valuable insights into her subjects&rsquo; day-to-day lives.</span></p>",
+  "keys": [
+    "622f7067-eba7-465e-8f49-9ea33d54e7ba"
+  ],
+  "answerOptions": [
+    {
+      "id": "3497adb6-42ef-45bf-a2fd-ffddfdb70367",
+      "content": "<p>It provides a little-known geographical fact about Kentucky.</p>"
+    },
+    {
+      "id": "e4c3f183-76f6-4ce0-81b2-5d07b5278426",
+      "content": "<p>It argues that Karida Brown is an expert on United States politics.</p>"
+    },
+    {
+      "id": "b5729008-f93f-49a3-97d1-def8fb566c23",
+      "content": "<p>It presents a major historical event that took place in the twentieth century.</p>"
+    },
+    {
+      "id": "622f7067-eba7-465e-8f49-9ea33d54e7ba",
+      "content": "<p>It describes how Karida Brown benefited from incorporating oral history in her book.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most accurately describes how the underlined sentence functions in the text as a whole. The text begins by pointing out one of the advantages of oral histories: that they allow researchers to document the daily experiences of people. The text then goes on to describe how Karida Brown utilized interviews with coal miners and their families for her book about twentieth-century coal mining in Kentucky. The underlined sentence affirms that the general advantages of oral histories mentioned earlier in the text were also benefits in Brown&rsquo;s particular case. Thus, the underlined sentence describes how Karida Brown benefited from incorporating oral history in her book.</p><p>Choice A is incorrect because though the text mentions coal miners who live in Kentucky, the underlined sentence does not offer a geographical fact about Kentucky. Choice B is incorrect because the underlined sentence does not mention United States politics or that Brown is an expert in this particular area. Choice C is incorrect. Although the text mentions that Brown&rsquo;s book revolved around coal miners during the twentieth century, the underlined sentence does not focus on a major historical event during this time.</p>",
+  "externalid": "3b857205-9399-406c-9581-60229257194e",
+  "correct_answer": [
+    "D"
+  ]
+}

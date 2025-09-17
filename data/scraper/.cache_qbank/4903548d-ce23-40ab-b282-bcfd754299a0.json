@@ -1,0 +1,38 @@
+{
+  "vaultid": "95db0723-1b60-4fde-bb86-9ed43ba27691",
+  "keys": [
+    "e5a276d0-690d-46ff-8e36-0f4520b1eda3"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of Anita Allen&rsquo;s argument about judges citing philosophers in their judicial opinions. The text indicates that judges sometimes cite philosophers when writing their judicial opinions and that, according to Allen, judges tend to cite philosophers whose views are in agreement with those of the judges themselves. Allen claims, however, that the best judicial opinions consider potential objections and rebut them, which suggests that judges may be able to strengthen their opinions by including discussions of philosophers with views contrary to their own.&nbsp;&nbsp;</p><p>Choice A is incorrect because Allen&rsquo;s claim is that judges could improve their judicial opinions by citing philosophers who disagree with the views expressed in the opinions, which would necessarily require judges to consult philosophical works.&nbsp;Choice C is incorrect because there&rsquo;s no discussion in the text about making judicial opinions more easily understood by any particular group of readers. The focus of the text is on Allen&rsquo;s claim that judicial opinions could be strengthened by the inclusion of discussions of philosophers whose views disagree with those of the judges authoring the opinions.&nbsp;Choice D is incorrect because the text presents Allen&rsquo;s argument that discussing philosophers whose views judges disagree with could strengthen judicial opinions, not that doing so could bring those opinions into line with views that are popular among philosophers.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "4903548d-ce23-40ab-b282-bcfd754299a0",
+  "stimulus": "<p>In documents called judicial opinions, judges explain the reasoning behind their legal rulings, and in those explanations they sometimes cite and discuss historical and contemporary philosophers. Legal scholar and philosopher Anita L. Allen argues that while judges are naturally inclined to mention philosophers whose views align with their own positions, the strongest judicial opinions consider and rebut potential objections; discussing philosophers whose views conflict with judges&rsquo; views could therefore <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "c684a3e6-1d0c-4915-ab63-9ef3a41260e5",
+  "parenttemplatename": "OSP-013-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "c22c46a1-c080-4223-9a42-5e6821a2f0bd",
+      "content": "<p>allow judges to craft judicial opinions without needing to consult philosophical works.</p>"
+    },
+    {
+      "id": "e5a276d0-690d-46ff-8e36-0f4520b1eda3",
+      "content": "<p>help judges improve the arguments they put forward in their judicial opinions.</p>"
+    },
+    {
+      "id": "7d153ac8-e2cf-4ec6-a487-bfa58665dba8",
+      "content": "<p>make judicial opinions more comprehensible to readers without legal or philosophical training.</p>"
+    },
+    {
+      "id": "5de042b4-a376-4fee-8add-d8393caa2ba0",
+      "content": "<p>bring judicial opinions in line with views that are broadly held among philosophers.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

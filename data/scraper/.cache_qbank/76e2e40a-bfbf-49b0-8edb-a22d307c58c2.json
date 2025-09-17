@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>The mineral mtorolite is most commonly found in Zimbabwe. Mtorolite is cryptocrystalline, meaning that its crystalline structure is so fine that the individual crystals cannot be distinguished by the naked eye or even under a microscope. The crystals in microcrystalline minerals are also not visible to the naked eye; <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> they can usually be seen under a microscope.</p>",
+  "type": "mcq",
+  "keys": [
+    "8a85deb5-7205-43ac-ac14-274e263f331d"
+  ],
+  "answerOptions": [
+    {
+      "id": "1c9440ac-7da5-45b1-b991-ba582e41ce21",
+      "content": "<p>thus,</p>"
+    },
+    {
+      "id": "a20ede72-3b93-410e-80a5-6e1ba595db32",
+      "content": "<p>for example,</p>"
+    },
+    {
+      "id": "8a85deb5-7205-43ac-ac14-274e263f331d",
+      "content": "<p>that said,</p>"
+    },
+    {
+      "id": "d2c61585-f4b5-4269-96fc-012bf46f358d",
+      "content": "<p>similarly,</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because \"that said\" logically signals that the information that follows&mdash;that the crystals of microcrystalline minerals can be seen with a microscope&mdash;is an exception to the previous information about the crystalline structure of minerals not being visible under a microscope.</p><p>Choice A is incorrect because \"thus\" illogically signals that the information that follows is a direct result or consequence of the fact that the crystals of microcrystalline minerals aren&rsquo;t visible to the naked eye. Instead, the fact that they can be seen under a microscope is an exception to the previous information about crystalline minerals. Choice B is incorrect because \"for example\" illogically signals that the information that follows exemplifies the fact that the crystals of microcrystalline minerals aren&rsquo;t visible to the naked eye. Instead, the fact that they can be seen under a microscope is an exception to the previous information about crystalline minerals. Choice D is incorrect because \"similarly\" illogically signals that the information that follows is similar or comparable to the fact that the crystals of microcrystalline minerals aren&rsquo;t visible to the naked eye. Instead, the fact that they can be seen under a microscope is an exception to the previous information about crystalline minerals.</p>",
+  "externalid": "76e2e40a-bfbf-49b0-8edb-a22d307c58c2",
+  "correct_answer": [
+    "C"
+  ]
+}

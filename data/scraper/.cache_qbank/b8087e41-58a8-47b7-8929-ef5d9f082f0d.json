@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Before it unveiled a massive new gallery in 2009, the Art Institute of Chicago was only able to display about 5% of its art collection. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the museum is able to display close to 30% of its collection.</p>",
+  "type": "mcq",
+  "keys": [
+    "1aae503a-f2bb-4508-93c5-3c834b0cfb82"
+  ],
+  "answerOptions": [
+    {
+      "id": "6eb0eec2-67c8-487a-90ed-013357c650ce",
+      "content": "<p>Additionally,</p>"
+    },
+    {
+      "id": "8b7c440c-4a9e-4287-97ab-abec7d6a7e2a",
+      "content": "<p>For example,</p>"
+    },
+    {
+      "id": "c16658c0-9c95-4a37-ab82-5a488dcb5363",
+      "content": "<p>Nevertheless,</p>"
+    },
+    {
+      "id": "1aae503a-f2bb-4508-93c5-3c834b0cfb82",
+      "content": "<p>Today,</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. \"Today\" logically signals that the information in the sentence&mdash;that the museum is able to display close to 30% of its collection&mdash;is true of the Art Institute of Chicago as it exists in the present day after the previously mentioned unveiling of the massive new gallery in 2009.</p><p>Choice A is incorrect because \"additionally\" illogically signals that the information in the sentence is merely an additional fact related to the information about the museum before the new gallery opened. Instead, the sentence is about the museum in the present day after the new gallery opened. Choice B is incorrect because \"for example\" illogically signals that the information in the sentence exemplifies the previous information about the museum before the new gallery opened. Instead, the sentence is about the museum in the present day after the new gallery opened. Choice C is incorrect because \"nevertheless\" illogically signals that the information in the sentence is true despite the previous information about the museum before the new gallery opened. Instead, the sentence is about the museum in the present day after the new gallery opened.</p>",
+  "externalid": "b8087e41-58a8-47b7-8929-ef5d9f082f0d",
+  "correct_answer": [
+    "D"
+  ]
+}

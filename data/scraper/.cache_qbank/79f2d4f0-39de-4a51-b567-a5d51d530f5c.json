@@ -1,0 +1,38 @@
+{
+  "vaultid": "9599b030-9876-449d-b8e7-ec7b2f7934ce",
+  "keys": [
+    "b5dc29f4-e386-41b6-a562-f3479f891297"
+  ],
+  "rationale": "<p>Choice D is the best answer because it states why Wang and his team&rsquo;s discovery of the <em>Terropterus xiushanensis</em> fossil was significant. The text explains that up until Wang and his team&rsquo;s discovery, the only fossil evidence of mixopterids came from the paleocontinent of Laurussia. Wang and his team, however, identified fossil remains of a mixopterid species from the paleocontinent Gondwana. Therefore, the team&rsquo;s discovery was significant because the fossil remains of a mixopterid species were outside of the paleocontinent Laurussia. </p><p>Choice A is incorrect. Although the text states that Wang and his team identified fossilized remains of a mixopterid species that lived more than 400 million years ago, it doesn&rsquo;t indicate that mixopterid fossils previously found by scientists dated to a more recent period than that. Choice B is incorrect. Although the text states that mixopterids are related to modern arachnids and horseshoe crabs, it doesn&rsquo;t suggest that the fossil discovered by Wang and his team confirmed that this relationship is closer than scientists had previously thought.&nbsp;Choice C is incorrect because the team&rsquo;s fossil established the presence of mixopterids on Gondwana, not on Laurussia. Moreover, the text only discusses the fossil in relation to the geographical distribution of mixopterids, not in relation to their evolution. </p>",
+  "origin": "proteus",
+  "stem": "<p>According to the text, why was Wang and his team&rsquo;s discovery of the <em>Terropterus xiushanensis</em> fossil significant?</p>",
+  "externalid": "79f2d4f0-39de-4a51-b567-a5d51d530f5c",
+  "stimulus": "<p>For many years, the only existing fossil evidence of mixopterid eurypterids&mdash;an extinct family of large aquatic arthropods known as sea scorpions and related to modern arachnids and horseshoe crabs&mdash;came from four species living on the paleocontinent of Laurussia. In a discovery that expands our understanding of the geographical distribution of mixopterids, paleontologist Bo Wang and others have identified fossilized remains of a new mixopterid species, <em>Terropterus xiushanensis</em>, that lived over 400 million years ago on the paleocontinent of Gondwana.</p>",
+  "templateclusterid": "1880e063-133f-4ce5-9edf-dc7244b154ab",
+  "parenttemplatename": "OSP-005-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "b417c978-c5c9-4963-bd87-072f9984a532",
+      "content": "<p>The fossil constitutes the first evidence found by scientists that mixopterids lived more than 400 million years ago.</p>"
+    },
+    {
+      "id": "293f2f91-2019-4671-894e-0be160eb812e",
+      "content": "<p>The fossil helps establish that mixopterids are more closely related to modern arachnids and horseshoe crabs than previously thought.</p>"
+    },
+    {
+      "id": "f246ed9c-ba26-415c-abf8-61a0670dc33a",
+      "content": "<p>The fossil helps establish a more accurate timeline of the evolution of mixopterids on the paleocontinents of Laurussia and Gondwana.</p>"
+    },
+    {
+      "id": "b5dc29f4-e386-41b6-a562-f3479f891297",
+      "content": "<p>The fossil constitutes the first evidence found by scientists that mixopterids existed outside the paleocontinent of Laurussia.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

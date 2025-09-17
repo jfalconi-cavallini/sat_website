@@ -1,0 +1,38 @@
+{
+  "vaultid": "1a4212ef-51c1-4d88-bc10-07033b990ce8",
+  "keys": [
+    "11c70311-3137-4ee9-b225-4cee97525d95"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of the Moon&rsquo;s surface. In this context, &ldquo;reflect&rdquo; means show or make apparent. The text states that because the surface of the Moon was softer when the Moon was still forming than it is now, early asteroid and meteoroid impacts &ldquo;would have left less of an impression&rdquo; and, as a result, evidence of them may no longer exist. This context supports the idea that the surface of the Moon may not accurately show signs of early impact events. </p><p>Choice B is incorrect because it wouldn&rsquo;t make sense to say that the surface of the Moon may not accurately &ldquo;receive,&rdquo; or acquire or experience, early impacts from asteroids or meteoroids. The text indicates that the impacts have already occurred, and it isn&rsquo;t clear how the Moon&rsquo;s surface could be accurate or inaccurate in experiencing them. Choice C is incorrect because it wouldn&rsquo;t make sense to say that the surface of the Moon may not accurately &ldquo;evaluate,&rdquo; or determine the significance or condition of, early impacts from asteroids or meteoroids, since that would suggest that it&rsquo;s possible for the Moon&rsquo;s surface to make a decision of any kind.&nbsp;Choice D is incorrect. In this context, &ldquo;mimic&rdquo; would mean to deliberately simulate or closely imitate something. It wouldn&rsquo;t make sense to say that the surface of the Moon may not accurately mimic early asteroid and meteoroid impacts, since that would suggest that it&rsquo;s possible for the Moon to deliberately imitate something.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "148dfa4e-795c-4cdf-a773-08cd072b8dd0",
+  "stimulus": "<p>Research conducted by planetary scientist Katarina Miljkovic suggests that the Moon&rsquo;s surface may not accurately <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> early impact events. When the Moon was still forming, its surface was softer, and asteroid or meteoroid impacts would have left less of an impression; thus, evidence of early impacts may no longer be present.</p>",
+  "templateclusterid": "acb111e6-e1ec-4687-b140-012db500958e",
+  "parenttemplatename": "OSP-963-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "11c70311-3137-4ee9-b225-4cee97525d95",
+      "content": "<p>reflect</p>"
+    },
+    {
+      "id": "44ddfa03-94a5-4c93-88e7-5735b720d92a",
+      "content": "<p>receive</p>"
+    },
+    {
+      "id": "f07a6d82-1534-4d49-81db-dbfbb6b39a70",
+      "content": "<p>evaluate</p>"
+    },
+    {
+      "id": "65bddcc5-73d2-4e2b-895a-b60b788fc8f0",
+      "content": "<p>mimic</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

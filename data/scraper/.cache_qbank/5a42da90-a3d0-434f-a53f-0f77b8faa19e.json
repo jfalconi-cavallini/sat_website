@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best describes the function of the underlined portion in the text as a whole?</p>",
+  "stimulus": "<p>The following text is from <span data-ssml-sub-alias=\"H D&rsquo;s\">H.D.&rsquo;s</span> 1916 poem &ldquo;Mid-Day.&rdquo; In the poem, the speaker is on a path in an outdoor setting.</p>\n<blockquote class=\"dap_poemexcerpt\">\n<p><span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">A slight wind shakes the seed-pods</span>&mdash;</p>\n<p>my thoughts are spent</p>\n<p>as the black seeds.</p>\n<p>My thoughts tear me,</p>\n<p>I dread their fever.</p>\n<p>I am scattered in its whirl.</p>\n<p>I am scattered like</p>\n<p>the hot shrivelled seeds.</p>\n</blockquote>",
+  "keys": [
+    "d0467004-155a-41c6-a69b-201f54805c48"
+  ],
+  "answerOptions": [
+    {
+      "id": "a43da980-3141-482e-b52a-bedbd63abf55",
+      "content": "<p>It illustrates a change in the natural environment that the speaker implies is responsible for the growing misgivings described in the text.</p>"
+    },
+    {
+      "id": "b43b488d-3f58-4fb4-9704-45bce55e0cfb",
+      "content": "<p>It establishes an example of consistency in the natural landscape that the speaker then contrasts with the unpredictability of human emotions.</p>"
+    },
+    {
+      "id": "d0467004-155a-41c6-a69b-201f54805c48",
+      "content": "<p>It presents an observation of an occurrence in the natural world that the speaker then expands on to convey a sense of a turbulent interior state.</p>"
+    },
+    {
+      "id": "fb0bb58c-cea0-4d2b-ba6b-e95ad23aa73a",
+      "content": "<p>It evokes the ordinariness of an event in nature to suggest that the critical self-evaluation the speaker engages in is a common pursuit.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it best describes the function of the underlined portion in the text as a whole. In the text, the speaker mentions the occurrence in nature of seedpods being shaken by a slight wind. The speaker then goes on to compare the black seeds to thoughts, using language that indicates that the speaker&rsquo;s state of mind is unsettled (e.g., \"my thoughts are spent\"; \"My thoughts tear me, I dread their fever\"). The text concludes with a comparison between the speaker&rsquo;s \"scattered\" state of mind and the \"hot shrivelled seeds.\" Thus, the underlined portion of the text presents an observation of an occurrence in the natural world that the speaker then expands on to convey a sense of a turbulent interior state.</p><p>Choice A is incorrect because the text does not indicate that the seedpods are the cause of the speaker&rsquo;s state of mind; thus, they could not be responsible for any misgivings the speaker has. Choice B is incorrect because the text does not contrast the natural landscape with the speaker&rsquo;s state of mind or describe the wind shaking the seedpods as consistent; rather, the text suggests that the state of the natural world and the speaker&rsquo;s state of mind are similar in that both are unsettled. Choice D is incorrect because there is no indication in the text that the speaker regularly engages in critical self-evaluation, only that in this particular instance the speaker&rsquo;s state of mind is turbulent.</p>",
+  "externalid": "5a42da90-a3d0-434f-a53f-0f77b8faa19e",
+  "correct_answer": [
+    "C"
+  ]
+}

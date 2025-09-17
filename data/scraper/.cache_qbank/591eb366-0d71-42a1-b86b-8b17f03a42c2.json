@@ -1,0 +1,38 @@
+{
+  "vaultid": "9245b365-09d2-4dba-b095-36e5aa415580",
+  "keys": [
+    "bc8b90d3-0f86-466f-934e-24ee2896efa1"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of Shultz&rsquo;s finding about male tanagers. The text explains that because carotenoids both contribute to deeply saturated feathers and offer health benefits, having deeply saturated feathers is usually &ldquo;an honest signal&rdquo; (a true indication) that a bird is generally fit. However, Shultz and others have found that certain male tanagers can appear to have deeply saturated feathers even if they haven&rsquo;t consumed a diet rich in carotenoids, thanks to microstructures in their feathers that manipulate light. If those birds aren&rsquo;t necessarily eating carotenoid-rich diets, they may actually be less fit than other birds that appear to have similarly saturated feathers; this suggests that a male tanager&rsquo;s appearance may function as a dishonest signal, or a false indication, of the bird&rsquo;s overall fitness.&nbsp;</p><p>Choice A is incorrect because Shultz&rsquo;s finding suggests that some tanagers can signal fitness without consuming the carotenoids that contribute to fitness, thereby making those signals dishonest, not that tanagers can give honest signals of their fitness without consuming carotenoids.&nbsp;Choice B is incorrect because Shultz&rsquo;s finding suggests that the microstructures in certain tanagers&rsquo; feathers can give a dishonest signal of fitness, not that the microstructures are less effective than actual pigmentation for signaling fitness. Whether the signal of fitness is honest or dishonest has no bearing on how effective the signal is: a signal is effective if potential mates behave as though it&rsquo;s true, regardless of whether it&rsquo;s actually true. Since there&rsquo;s no information in the text about how potential mates respond to the dishonest signals of some tanagers, there&rsquo;s no support for the idea that the dishonest signals are less effective than the honest signals.&nbsp;Choice C is incorrect because Shultz&rsquo;s finding suggests that certain male tanagers may appear to be fitter than they actually are, not that scientists haven&rsquo;t determined why tanagers prefer mates with colorful appearances.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "591eb366-0d71-42a1-b86b-8b17f03a42c2",
+  "stimulus": "<p>Birds of many species ingest foods containing carotenoids, pigmented molecules that are converted into feather coloration. Coloration tends to be especially saturated in male birds&rsquo; feathers, and because carotenoids also confer health benefits, the deeply saturated colors generally serve to communicate what is known as an honest signal of a bird&rsquo;s overall fitness to potential mates. However, ornithologist Allison J. Shultz and others have found that males in several species of the tanager genus <em>Ramphocelus</em> use microstructures in their feathers to manipulate light, creating the appearance of deeper saturation without the birds necessarily having to maintain a carotenoid-rich diet. These findings suggest that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "ae799a7b-47fa-4b0d-ab5a-9289e2e27224",
+  "parenttemplatename": "OSP-020-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "20ca5293-d545-45f9-80e6-c5b41a6b5dfb",
+      "content": "<p>individual male tanagers can engage in honest signaling without relying on carotenoid consumption.</p>"
+    },
+    {
+      "id": "98fab16b-1e41-4374-b614-2f492e3309b3",
+      "content": "<p>feather microstructures may be less effective than deeply saturated feathers for signaling overall fitness.</p>"
+    },
+    {
+      "id": "2eb9adbc-0804-4aed-9e93-58a42346a361",
+      "content": "<p>scientists have yet to determine why tanagers have a preference for mates with colorful appearances.</p>"
+    },
+    {
+      "id": "bc8b90d3-0f86-466f-934e-24ee2896efa1",
+      "content": "<p>a male tanager&rsquo;s appearance may function as a dishonest signal of the individual&rsquo;s overall fitness.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

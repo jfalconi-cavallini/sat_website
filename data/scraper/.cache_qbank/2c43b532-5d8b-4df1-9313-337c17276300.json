@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>In 2014, Nestor Gomez won his first-ever storytelling competition, relating a tale about his life as a Guatemalan immigrant living in Chicago. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in 2017, Gomez created the show <em>80 Minutes Around the World</em> as a platform for others to share stories about their immigration experiences.</p>",
+  "type": "mcq",
+  "keys": [
+    "47db25d1-8daa-4453-bbd8-ad8ca4c648b8"
+  ],
+  "answerOptions": [
+    {
+      "id": "18d37849-6e40-49d6-9728-5cd1e2ef59c5",
+      "content": "<p>Instead,</p>"
+    },
+    {
+      "id": "587ae280-bccc-4ebd-807e-10536a4e059d",
+      "content": "<p>For example,</p>"
+    },
+    {
+      "id": "47db25d1-8daa-4453-bbd8-ad8ca4c648b8",
+      "content": "<p>Later,</p>"
+    },
+    {
+      "id": "a7c6a071-278c-4556-bba6-cde394237c28",
+      "content": "<p>In other words,</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. \"Later\" logically signals that the information in the sentence&mdash;that in 2017 Gomez created a platform for others to share stories about their immigration experiences&mdash;occurs later in a chronological series of events than the previous information about Gomez winning his first storytelling competition in 2014.</p><p>Choice A is incorrect because \"instead\" illogically signals that Gomez created a platform for others to share stories about their immigration experiences as an alternative to winning his first storytelling competition. Rather, Gomez created the platform later&mdash;in a chronological series of events&mdash;than when he won the competition. Choice B is incorrect because \"for example\" illogically signals that the information about Gomez creating a platform for others to share stories exemplifies his winning his first storytelling competition. Rather, Gomez created the platform later&mdash;in a chronological series of events&mdash;than when he won the competition. Choice D is incorrect because \"in other words\" illogically signals that the information about Gomez creating a platform for others to share stories is merely a paraphrase or restatement of the previous information about Gomez winning his first storytelling competition. Rather, Gomez created the platform later&mdash;in a chronological series of events&mdash;than when he won the competition.</p>",
+  "externalid": "2c43b532-5d8b-4df1-9313-337c17276300",
+  "correct_answer": [
+    "C"
+  ]
+}

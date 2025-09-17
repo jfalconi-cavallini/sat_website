@@ -1,0 +1,38 @@
+{
+  "vaultid": "314e25d4-06ab-44a9-9425-52131a693e21",
+  "keys": [
+    "41da5280-2f7e-4e66-b2fa-b4e2bccc54c4"
+  ],
+  "rationale": "<p>Choice D is the best answer. The sentence emphasizes a difference between surface-dwelling and cave-dwelling tetras, noting that while surface-dwelling tetras can see, cave-dwelling tetras can&rsquo;t. </p><p>Choice A is incorrect. While the sentence notes that surface-dwelling and cave-dwelling tetras are different, it doesn&rsquo;t emphasize any difference between the two populations of tetras. Choice B is incorrect because the sentence explains that cave-dwelling tetras use sensory receptors on their skulls to navigate; it doesn&rsquo;t emphasize a difference between surface-dwelling and cave-dwelling tetras. Choice C is incorrect. While the sentence notes that there are two different populations of Mexican tetras, it doesn&rsquo;t emphasize any difference between the two populations. </p>",
+  "origin": "proteus",
+  "stem": "<p>The student wants to emphasize a difference between surface-dwelling and cave-dwelling tetras. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "externalid": "e29c0a06-1d44-4568-9459-7f708ecebbca",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Mexican tetras are a fish species with two distinct populations.</li>\n<li>Surface-dwelling tetras live on the surface and are able to see.</li>\n<li>Cave-dwelling tetras live in total darkness and have lost the ability to see.</li>\n<li>Cave-dwelling tetras have asymmetrical skulls with more sensory receptors on one side than the other.</li>\n<li>These receptors help cave-dwelling tetras navigate in darkness.</li>\n</ul>",
+  "templateclusterid": "92274c90-1231-4e7f-9cf9-1a7c83006242",
+  "parenttemplatename": "OSP-726-SYN",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "21e31d95-130a-4d24-ac45-f9b81ceb2b89",
+      "content": "<p>Surface-dwelling and cave-dwelling tetras may belong to the same species, but they are quite different.</p>"
+    },
+    {
+      "id": "7193d850-3d95-4ede-a06e-eadf8b682971",
+      "content": "<p>Cave-dwelling tetras can no longer see but use sensory receptors on their skulls to navigate.</p>"
+    },
+    {
+      "id": "c95d2b24-ca5e-4571-b5aa-2ab146e072de",
+      "content": "<p>Mexican tetras are a fish species with two distinct populations: surface-dwelling tetras and cave-dwelling tetras.</p>"
+    },
+    {
+      "id": "41da5280-2f7e-4e66-b2fa-b4e2bccc54c4",
+      "content": "<p>Surface-dwelling tetras can see, whereas cave-dwelling tetras cannot.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

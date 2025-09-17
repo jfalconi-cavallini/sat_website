@@ -1,0 +1,38 @@
+{
+  "vaultid": "c8910f83-325d-44ad-9732-44d2c6c2428f",
+  "keys": [
+    "eecaa835-0353-4922-bda8-1898e9351568"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of Ochoa&rsquo;s prediction that humans will one day need to live in places other than Earth. As used in this context, &ldquo;speculates&rdquo; would mean puts forward an idea without firm evidence. The text states that Ochoa &ldquo;doesn&rsquo;t have a definite idea&rdquo; about when humans might need to live in other environments and characterizes Ochoa&rsquo;s prediction as a &ldquo;conjecture,&rdquo; or a conclusion presented without convincing evidence. This context indicates that Ochoa speculates when she makes this prediction.&nbsp;</p><p>Choice A is incorrect because saying that Ochoa &ldquo;demands,&rdquo; or insists or requires, that humans will one day need to live in other environments than Earth&rsquo;s would not make sense in context. The text indicates that she&rsquo;s unsure about the timing but hypothesizes that it will someday happen. Choice C is incorrect because &nbsp;saying that Ochoa &ldquo;doubts,&rdquo; or questions or disbelieves, that humans will one day need to live in other environments than Earth&rsquo;s would not make sense in context. The text indicates that although Ochoa is unsure about the timing, she hypothesizes that humans will need to live in places other than Earth and encourages research into future travel to the moon. Choice D is incorrect because &nbsp;saying that Ochoa &ldquo;establishes,&rdquo; or proves, that humans will one day need to live in other environments than Earth&rsquo;s would not make sense in context. Rather than stating that Ochoa discusses her idea with certainty and supports it with evidence, the text indicates that Ochoa is unsure about when humans might need to live in other environments. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "e86701d5-1e07-4cfd-bac3-cb42173eff9d",
+  "stimulus": "<p>Former astronaut Ellen Ochoa says that although she doesn&rsquo;t have a definite idea of when it might happen, she <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> that humans will someday need to be able to live in other environments than those found on Earth. This conjecture informs her interest in future research missions to the moon.</p>",
+  "templateclusterid": "c248a221-e817-48b2-8596-993ee8385ed2",
+  "parenttemplatename": "OSP-906-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "67120e9f-9512-4cfd-beb0-583410b42c92",
+      "content": "<p>demands</p>"
+    },
+    {
+      "id": "eecaa835-0353-4922-bda8-1898e9351568",
+      "content": "<p>speculates</p>"
+    },
+    {
+      "id": "c69502ea-f897-42bb-ac97-5930b7cd5d1c",
+      "content": "<p>doubts</p>"
+    },
+    {
+      "id": "12a88f84-46a2-4e5d-b210-ec3a1407c8c5",
+      "content": "<p>establishes</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

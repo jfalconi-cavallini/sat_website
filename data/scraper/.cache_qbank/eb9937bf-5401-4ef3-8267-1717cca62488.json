@@ -1,0 +1,38 @@
+{
+  "vaultid": "79cac8bd-2400-46f0-be62-e2e16f207bab",
+  "keys": [
+    "a7a84a1b-5fb9-49eb-b5ca-ef9ab71dd46f"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately describes the main purpose of the text, which is to discuss how Derksen&rsquo;s compositions incorporate elements from both Indigenous and classical music. After introducing Derksen, the text describes how the songs Derksen composed for her album <em>Orchestral Powwow</em> feature aspects of the two musical traditions. Specifically, the text notes that Derksen wrote songs in the style of traditional powwow music but accompanied them with classical arrangements played by an orchestra that followed the beat of a powwow drum rather than the directions of a conductor. In this way, Derksen&rsquo;s compositions blend different cultures. </p><p>Choice B is incorrect because although the text suggests that Derksen&rsquo;s songs contain innovative elements since they blend styles from two different musical traditions, it doesn&rsquo;t discuss whether her compositions constitute a new style of music, let alone whether Derksen should be recognized for creating a new style of music.&nbsp;Choice C is incorrect because the text doesn&rsquo;t mention any difficulties Derksen encountered when producing her album. Rather, the text describes how the songs on the album exemplify how Derksen combines music from two different cultures.\n&nbsp;Choice D is incorrect because although the text mentions Derksen&rsquo;s Cree heritage and suggests that she relies on knowledge of both Indigenous and classical music when she composes her songs, it doesn&rsquo;t discuss her musical training. Additionally, the text is primarily focused on how Derksen combines different cultural traditions, not on contrasting Derksen&rsquo;s training with her heritage. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "externalid": "eb9937bf-5401-4ef3-8267-1717cca62488",
+  "stimulus": "<p>By combining Indigenous and classical music, Cree composer and cellist Cris Derksen creates works that reflect the diverse cultural landscape of Canada. For her album <em>Orchestral Powwow</em>, Derksen composed new songs in the style of traditional powwow music that were accompanied by classical arrangements played by an orchestra. But where an orchestra would normally follow the directions of a conductor, the musicians on <em>Orchestral Powwow</em> are led by the beat of a powwow drum.</p>",
+  "templateclusterid": "8f24d52e-9050-4df0-bf89-a7555cdd63e1",
+  "parenttemplatename": "OSP-012-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "a7a84a1b-5fb9-49eb-b5ca-ef9ab71dd46f",
+      "content": "<p>To examine how Derksen&rsquo;s musical compositions blend cultures</p>"
+    },
+    {
+      "id": "74ceb2c2-7136-4bbe-9bc1-d1ee8b0edfcc",
+      "content": "<p>To argue that Derksen should be recognized for creating a new style of music</p>"
+    },
+    {
+      "id": "6b0235ed-d824-4935-8254-517eab10c05b",
+      "content": "<p>To describe the difficulties Derksen encountered when producing her album</p>"
+    },
+    {
+      "id": "7d06a8aa-8a88-4da7-bc43-3ae801241e32",
+      "content": "<p>To establish a contrast between Derksen&rsquo;s classical training and her Cree heritage&nbsp;</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

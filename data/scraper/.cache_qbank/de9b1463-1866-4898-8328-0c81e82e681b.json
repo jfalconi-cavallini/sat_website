@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which statement about the difrasismo <span lang=\"nah\"><em>in cuauhtli in ocelotl </em></span>is most strongly supported by the text?&nbsp;</p>",
+  "stimulus": "<p>Poetry in Classical Nahuatl, the language of the Aztec Empire, relies on <em>difrasismo</em>, or a parallel noun construction that conventionally operates as a single metaphor. For example, the common difrasismo <span lang=\"nah\"><em>in cuauhtli in ocelotl</em></span> (literally, &ldquo;the eagle, the jaguar&rdquo;) signifies &ldquo;warrior.&rdquo; The device&rsquo;s function is both formal&mdash;providing structure to lines of verse&mdash;and ritual: semantic relations among the two nouns and the concept they signify can be tenuous, as in the previous example, such that difrasismos are often only intelligible according to the conceptual associations observed in Aztec ceremonial culture.</p>",
+  "keys": [
+    "fc854f19-9121-4414-9ae8-55afd0061265"
+  ],
+  "answerOptions": [
+    {
+      "id": "01d478d8-3a55-4e97-8215-a32724bd8b0c",
+      "content": "<p>Its metaphorical significance derives from the semantic equivalence of the two nouns constituting the difrasismo.</p>"
+    },
+    {
+      "id": "5c74be79-fede-4394-90fd-2bc87246feed",
+      "content": "<p>Its unintelligibility may cause its formal function within a line of verse to go unnoticed by present-day readers.</p>"
+    },
+    {
+      "id": "fc854f19-9121-4414-9ae8-55afd0061265",
+      "content": "<p>Its apparent obscurity can be resolved when considered in the proper cultural context.</p>"
+    },
+    {
+      "id": "b552ec88-ac4a-4b47-8ead-3d23603484fb",
+      "content": "<p>Its frequency in Classical Nahuatl poetry confirms its intelligibility to the Aztec audience.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it presents a statement about the difrasismo <span lang=\"nah\"><em>in cuauhtli in ocelotl</em></span> that is directly supported by the text. The text begins by describing difrasismo, a device used in Classical Nahuatl poetry. The text then mentions the device&rsquo;s two functions: a formal one (giving structure to lines of verse) and a ritualistic one. The text indicates that the relation between the words in a difrasismo may appear tenuous without the additional information supplied by Aztec ceremonial culture but that the meaning becomes intelligible in the context of that information. Therefore, the difrasismo&rsquo;s apparent obscurity can be resolved when considered in the proper cultural context.</p><p>Choice A is incorrect because the text doesn&rsquo;t indicate that the two nouns used in a difrasismo are semantically equivalent; instead, the text indicates that the two nouns used in a difrasismo make up a single metaphor whose meaning is often intelligible only in the context of information supplied by Aztec ceremonial culture. Choice B is incorrect because the text doesn&rsquo;t indicate that there&rsquo;s a relationship between the formal function of the difrasismo and the difrasismo&rsquo;s intelligibility. Additionally, the text suggests that present-day readers who are familiar with Aztec ceremonial culture wouldn&rsquo;t find the difrasismo to be unintelligible. Choice D is incorrect because the text doesn&rsquo;t indicate that the frequency of difrasismo&rsquo;s use in Classical Nahuatl is a necessary feature of intelligibility: the text indicates that an infrequently used difrasismo would presumably also be intelligible to members of an Aztec audience who are sufficiently familiar with Aztec ceremonial culture.</p>",
+  "externalid": "de9b1463-1866-4898-8328-0c81e82e681b",
+  "correct_answer": [
+    "C"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "1d01e485-f8eb-4160-97d6-eafe5af55ac0",
+  "keys": [
+    "f223026d-e334-47d2-9386-9f408581f0bf"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between one sentence (&ldquo;In 2017...<em>Nutcracker</em>&rdquo;) and another (&ldquo;According...culture&rdquo;). The supplementary element &ldquo;according to reviewers&rdquo; modifies the main clause of the second sentence (&ldquo;the Toledos&rsquo;...culture&rdquo;). </p><p>Choice A is incorrect because it results in a run-on sentence. The sentences are fused without punctuation and/or a conjunction. Furthermore, no punctuation is needed within the supplementary element &ldquo;according to reviewers.&rdquo; Choice B is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to mark the boundary between sentences. Choice C is incorrect because it results in a run-on sentence. The sentences are fused without punctuation and/or a conjunction. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "f1589ef0-65e7-4de9-a032-239112bc70fc",
+  "stimulus": "<p>In 2017, artists Isabel and Ruben Toledo redesigned the costumes and sets for The Miami City Ballet&rsquo;s production of <em>The</em> <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> to reviewers, the Toledos&rsquo; designs helped infuse the production with elements of Miami&rsquo;s Latin American culture.</p>",
+  "templateclusterid": "b00656cb-8c83-495a-ac2d-0b926acf69da",
+  "parenttemplatename": "OSP-720-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "7507b53c-d2d8-4115-9d41-862cda6ff511",
+      "content": "<p><em>Nutcracker</em> according,&nbsp;</p>"
+    },
+    {
+      "id": "669cb4b4-0ec1-4c67-b6ff-53349b80d15a",
+      "content": "<p><em>Nutcracker</em>, according&nbsp;</p>"
+    },
+    {
+      "id": "eb425102-549a-455a-8abc-dfa7a99e7a8e",
+      "content": "<p><em>Nutcracker</em> according&nbsp;</p>"
+    },
+    {
+      "id": "f223026d-e334-47d2-9386-9f408581f0bf",
+      "content": "<p><em>Nutcracker</em>. According&nbsp;</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

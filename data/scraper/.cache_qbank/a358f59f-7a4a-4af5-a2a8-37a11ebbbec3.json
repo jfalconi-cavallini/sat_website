@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which quotation from &ldquo;Looking Back on Girlhood&rdquo; most effectively illustrates this claim?</p>",
+  "stimulus": "<p>&ldquo;Looking Back on Girlhood&rdquo; is an 1892 short story by Sarah Orne Jewett. In the story, the narrator explains that she prefers her hometown to other places she has visited: <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "fb04c19b-2f4e-49d6-a00a-2c0409774b5f"
+  ],
+  "answerOptions": [
+    {
+      "id": "ca91439d-cfa9-4fbf-810e-2461e8f61f93",
+      "content": "<p>&ldquo;There is always something fresh, something to be traced or discovered, something particularly to be remembered.&rdquo;&nbsp;</p>"
+    },
+    {
+      "id": "57a1cedc-25a5-4d86-a8d9-8080a78c91eb",
+      "content": "<p>&ldquo;Two large rivers join just below the village at the head of tide-water, and these, with the great inflow from the sea, make a magnificent stream, bordered by lovely green fields that slope gently to long lines of willows at the water&rsquo;s edge.&rdquo;</p>"
+    },
+    {
+      "id": "fb04c19b-2f4e-49d6-a00a-2c0409774b5f",
+      "content": "<p>&ldquo;I have had a good deal of journeying in my life, and taken great delight in it, but I have never taken greater delight than in my rides and drives and tramps and voyages within the borders of my native town.&rdquo;</p>"
+    },
+    {
+      "id": "7de709b3-9ee3-49ed-8b57-29ef1f9d31f5",
+      "content": "<p>&ldquo;There is never-ending pleasure in making one&rsquo;s self familiar with such a region.&rdquo;</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most effectively illustrates the claim that the narrator prefers her hometown to other places she has visited. In the quotation, the narrator compares how she feels about places she has traveled to how she feels about the town she&rsquo;s from. The narrator states that although the many journeys she has made in her lifetime have brought her much pleasure, she has gained the most enjoyment from her experiences inside the borders of her hometown.</p><p>Choice A is incorrect because it doesn&rsquo;t express that the narrator likes her hometown better than other places she has visited; instead, the quotation describes something unspecified in positive terms, saying it continues to offer new things to explore and remember. Choice B is incorrect. Although the quotation praises a landscape surrounding a village, it doesn&rsquo;t specify that this village is the narrator&rsquo;s hometown, nor does it express a preference for this village over other places the narrator has visited. Choice D is incorrect. Although the quotation describes enjoyment from getting to know a region, it doesn&rsquo;t compare the narrator&rsquo;s feelings for this region with her feelings for her hometown.</p>",
+  "externalid": "a358f59f-7a4a-4af5-a2a8-37a11ebbbec3",
+  "correct_answer": [
+    "C"
+  ]
+}

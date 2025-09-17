@@ -1,0 +1,38 @@
+{
+  "vaultid": "5f5b4634-69d0-4d8e-a363-229fd36f6aa6",
+  "keys": [
+    "fefecd91-fd50-4c54-a057-9450591e6220"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the use of verb forms within a sentence. The nonfinite to-infinitive verb &ldquo;to study&rdquo; is correctly used to form a subordinate clause that indicates what Dr. Caballero-Gill uses chemistry and fossil evidence for (to study oceans as they were in the past). </p><p>Choice A is incorrect because it results in an ungrammatical sentence. The finite verb &ldquo;has studied&rdquo; can&rsquo;t be used in this way to form a subordinate clause that indicates what Dr. Caballero-Gill uses the evidence for. Choice C is incorrect because it results in an ungrammatical sentence. The finite verb &ldquo;studied&rdquo; can&rsquo;t be used in this way to form a subordinate clause that indicates what Dr. Caballero-Gill uses the evidence for. Choice D is incorrect because it results in an ungrammatical sentence. The finite verb &ldquo;studies&rdquo; can&rsquo;t be used in this way to form a subordinate clause that indicates what Dr. Caballero-Gill uses the evidence for. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "10ef5b9a-13eb-4311-bb29-32c9736b5614",
+  "stimulus": "<p>Dr. Roc&iacute;o Paola Caballero-Gill is a paleoceanographer. This means that Dr. Caballero-Gill doesn&rsquo;t just study oceans as they are today. She uses chemistry and fossil evidence <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> oceans as they were in the past.&nbsp;</p>",
+  "templateclusterid": "a032c93b-b8c0-4f7e-b24b-bc9767d4bce8",
+  "parenttemplatename": "OSP-737-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "e3f33840-07e6-4aa7-855c-65c2f18ab6cd",
+      "content": "<p>has studied</p>"
+    },
+    {
+      "id": "fefecd91-fd50-4c54-a057-9450591e6220",
+      "content": "<p>to study</p>"
+    },
+    {
+      "id": "220d1379-7bc3-45d7-a881-ce9f199b0077",
+      "content": "<p>studied</p>"
+    },
+    {
+      "id": "da7af1e1-5e9c-4956-a367-843f750dbb70",
+      "content": "<p>studies</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

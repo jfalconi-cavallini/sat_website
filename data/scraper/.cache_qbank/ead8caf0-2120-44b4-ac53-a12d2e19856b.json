@@ -1,0 +1,31 @@
+{
+  "stem": "<p>As used in the text, what does the word &ldquo;sheltering&rdquo; most nearly mean?&nbsp;</p>",
+  "stimulus": "<p>The following text is adapted from Jos&eacute; Mart&iacute;&rsquo;s 1891 poem &ldquo;At the Salon&rdquo; (translated by Cecil Charles in 1898). The speaker describes a painting featuring a female figure.</p>\n<blockquote class=\"dap_poemexcerpt\">\n<p>From the sterile soil no ray</p>\n<p>&ensp;&ensp;&ensp;Of hope in a blade of green,</p>\n<p>Nor <span role=\"region\" aria-label=\"Referenced Content\"><u>sheltering</u></span> roof is seen&mdash;</p>\n<p>&ensp;&ensp;&ensp;Though the skies are heavy and gray.</p>\n<p>&nbsp;</p>\n<p>Ah, this is the woman fair</p>\n<p>&ensp;&ensp;&ensp;Who stole away my heart</p>\n<p>In the splendid halls of art</p>\n<p>&ensp;&ensp;&ensp;Yester-e&rsquo;en as I wandered there!</p>\n</blockquote>",
+  "type": "mcq",
+  "keys": [
+    "acd52f0b-52a1-4255-8ed8-77feab970087"
+  ],
+  "answerOptions": [
+    {
+      "id": "acd52f0b-52a1-4255-8ed8-77feab970087",
+      "content": "<p>Protective</p>"
+    },
+    {
+      "id": "cd052242-b60c-40e5-bc6b-d4b65fb7f96e",
+      "content": "<p>Restrictive</p>"
+    },
+    {
+      "id": "56e80f79-0a46-4234-bf9c-43128e870638",
+      "content": "<p>Affectionate</p>"
+    },
+    {
+      "id": "c2297b3d-9cea-47ab-aea5-bf89ffce5f6a",
+      "content": "<p>Suspicious</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because as used in the text, \"sheltering\" most nearly means protective. In the text, the speaker describes a painting featuring a female figure. The speaker ultimately confesses to falling in love with the woman in the painting, who has \"stole[n] away\" the speaker&rsquo;s heart, but first the speaker describes elements of the painting&rsquo;s setting. These include sterile soil, barren fields with \"no ray / Of hope in a blade of green\"&mdash;a description that conveys a mood of melancholy and forlornness, possibly reflecting the speaker&rsquo;s own sadness at falling in love with an image that can&rsquo;t return the speaker&rsquo;s love. The text continues by stating that there&rsquo;s no \"sheltering roof\" in the painting, even though the \"skies are heavy and gray,\" showing signs of an impending storm. Generally, a roof&rsquo;s intended purpose is to provide protection from the elements, and in this context, a roof would offer shelter and protection from the gathering storm.</p><p>Choice B is incorrect because nothing in the text suggests that a roof would be restrictive&mdash;that is, that it would limit or restrain something in some way. Although a roof would provide some cover from stormy winds and rain, it wouldn&rsquo;t limit the wind and rain, only deflect them. Choice C is incorrect because there&rsquo;s nothing in the text to suggest that if a \"sheltering roof\" were present in the painting, it would be affectionate, or loving and tender. In the text, the immediate context in which the word \"sheltering\" appears refers to the absence of a roof that would provide protection from the oncoming storm depicted in the painting, not to the idea that such a shelter would be loving and tender if it were present. Choice D is incorrect because in this context, suspicious would mean questionable or dubious, and there&rsquo;s nothing in the text to suggest that if any roofs were present in the painting, they would be questionable or cause any suspicion.</p>",
+  "externalid": "ead8caf0-2120-44b4-ac53-a12d2e19856b",
+  "correct_answer": [
+    "A"
+  ]
+}

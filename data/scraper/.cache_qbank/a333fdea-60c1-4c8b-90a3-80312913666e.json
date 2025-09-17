@@ -1,0 +1,38 @@
+{
+  "vaultid": "284b1fbc-67a9-49b6-b8f5-aa79378a357a",
+  "keys": [
+    "ae896360-fd87-4ad2-9d98-b8e3bec24bd7"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is finite and nonfinite verb forms within a sentence. Relative clauses, such as the one beginning with &ldquo;that,&rdquo; require a finite verb, a verb that can function as the main verb of a clause. This choice correctly supplies the clause with the finite future tense verb &ldquo;will be.&rdquo;&nbsp;</p><p>Choice A is incorrect because the nonfinite participle &ldquo;being&rdquo; doesn&rsquo;t supply the clause with a finite verb. Choice B is incorrect because the nonfinite to-infinitive &ldquo;to be&rdquo; doesn&rsquo;t supply the clause with a finite verb. Choice C is incorrect because the nonfinite to-infinitive &ldquo;to have been&rdquo; doesn&rsquo;t supply the clause with a finite verb. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "a333fdea-60c1-4c8b-90a3-80312913666e",
+  "stimulus": "<p>A model created by biologist Luis Valente predicts that the rate of speciation&mdash;the rate at which new species form&mdash;on an isolated island located approximately 5,000 kilometers from the nearest mainland <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> triple the rate of speciation on an island only 500 kilometers from the mainland.</p>",
+  "templateclusterid": "3706dca8-f7db-44be-bcb5-108737a73026",
+  "parenttemplatename": "OSP-668-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "65e5f89a-a68b-4c8d-b363-c6786e3bb871",
+      "content": "<p>being</p>"
+    },
+    {
+      "id": "795ae47e-8caf-47c3-bb62-ee7165b1bcb5",
+      "content": "<p>to be</p>"
+    },
+    {
+      "id": "c82fb42b-9942-4736-bd12-bef2f3f50fa7",
+      "content": "<p>to have been</p>"
+    },
+    {
+      "id": "ae896360-fd87-4ad2-9d98-b8e3bec24bd7",
+      "content": "<p>will be</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>The musical <em>Hadestown </em>was produced off-Broadway in New York in 2016. A revised version of the musical premiered on Broadway in 2019, in a larger production. In a review of the Broadway production, theater critic Jesse Green enthusiastically praised the musical&rsquo;s storytelling. However, Green also explained that he had seen the earlier version of <em>Hadestown </em>in 2016 and had found the storytelling to be very confusing. This suggests that in Green&rsquo;s view, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "45bb22a3-0aec-40a6-8768-bea26cb3f5a5"
+  ],
+  "answerOptions": [
+    {
+      "id": "1517c66e-b412-424a-9438-8982ab4ddaa5",
+      "content": "<p>the 2016 version of <em>Hadestown </em>had fewer storytelling problems than the 2019 version did.</p>"
+    },
+    {
+      "id": "d9b0675e-2499-4ffb-be5e-33b00bdf67c6",
+      "content": "<p><em>Hadestown </em>should have had a larger production in 2019 than it actually did.</p>"
+    },
+    {
+      "id": "3b714340-062d-4b80-a195-3db2e2d0eea9",
+      "content": "<p>the 2019 version of <em>Hadestown </em>was less enjoyable than the 2016 version.</p>"
+    },
+    {
+      "id": "45bb22a3-0aec-40a6-8768-bea26cb3f5a5",
+      "content": "<p><em>Hadestown </em>improved greatly between 2016 and its premiere on Broadway.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of critic Jesse Green&rsquo;s review of the 2016 and 2019 productions of <em>Hadestown</em>. The text states that Green found the storytelling in the 2016 off-Broadway version to be \"very confusing\" but that he \"enthusiastically praised\" the storytelling in the revised 2019 Broadway version. This stark contrast in Green&rsquo;s opinions suggests that he believed the musical had significantly improved between 2016 and its 2019 Broadway premiere.</p><p>Choice A is incorrect because it contradicts the information in the text. The text indicates that Green found the storytelling in the 2016 version to be \"very confusing,\" while he \"enthusiastically praised\" the storytelling in the 2019 version. This suggests that the 2019 version had fewer, not more, storytelling problems. Choice B is incorrect because the text doesn&rsquo;t provide any information about Green&rsquo;s opinion on the size of the 2019 Broadway production. While it mentions that the 2019 production was larger than the 2016 production, there&rsquo;s no indication in the text that Green thought the 2019 production should have been even larger than it was. Choice C is incorrect because it contradicts the information in the text. The text&rsquo;s description of Green&rsquo;s enthusiastic praise for the 2019 production suggests that he found this version more enjoyable, not less enjoyable, than the 2016 version, which he described as \"very confusing.\"</p>",
+  "externalid": "52b060ac-688b-4d30-a9ab-f6591633cb77",
+  "correct_answer": [
+    "D"
+  ]
+}

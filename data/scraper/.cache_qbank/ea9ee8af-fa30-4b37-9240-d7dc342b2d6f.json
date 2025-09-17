@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Political blogs with conspicuous ideological alignments became an integral component of US media in the early 2000s. While some commentators lauded this development, asserting that such blogs had a welcome transparency missing from traditional news, less <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> observers countered that such blogs tended to ideological extremes that exacerbated political polarization to problematic levels.</p>",
+  "keys": [
+    "dd393ce1-4b51-467f-9dad-4396d2fd6272"
+  ],
+  "answerOptions": [
+    {
+      "id": "dd393ce1-4b51-467f-9dad-4396d2fd6272",
+      "content": "<p>sanguine</p>"
+    },
+    {
+      "id": "28ee91a5-2566-4806-a6de-5debdc85d3d8",
+      "content": "<p>recalcitrant</p>"
+    },
+    {
+      "id": "d76fb1e7-585a-4308-8f93-352c9c81297a",
+      "content": "<p>misanthropic</p>"
+    },
+    {
+      "id": "4979e197-385a-4781-8e00-3c50747bd466",
+      "content": "<p>earnest</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of political blogs. In this context, \"sanguine\" means optimistic. The text begins by noting the rise of political blogs with readily identifiable ideological alignments in the early 2000s. The text then indicates that some commentators saw this as a positive development, citing a reason why (their difference from traditional news). Finally, the text goes on to contrast those commentators with others who have a negative opinion of the rise of political blogs (because they increase political polarization among their readers). This context supports the idea that the second group of commentators is less positive than the first: thus, the second group of commentators is less optimistic, or sanguine.</p><p>Choice B is incorrect because it would not make sense in this context to describe those commentators who have a negative opinion of political blogs as less \"recalcitrant,\" or obstinately uncooperative, than those commentators who supported political blogs. Choice C is incorrect because the text gives no indication that those commentators who have a negative opinion of political blogs are less \"misanthropic,\" or less contemptuous of humankind, than those commentators who have a positive opinion of political blogs&mdash;there is no indication in the text that those commentators who like political blogs would be contemptuous of humankind at all. Choice D is incorrect because there is no evidence that those commentators who have a negative opinion of political blogs are less \"earnest,\" or sincere, than those who have a positive opinion of such blogs&mdash;presumably, both groups of commentators hold their beliefs with equal conviction.</p>",
+  "externalid": "ea9ee8af-fa30-4b37-9240-d7dc342b2d6f",
+  "correct_answer": [
+    "A"
+  ]
+}

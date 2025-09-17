@@ -1,0 +1,31 @@
+{
+  "stem": "<p>The student wants to provide an example of an air mass. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>In meteorology, an air mass is a large body of air with generally uniform humidity and temperature.</li>\n<li>Air masses are commonly classified by two-letter names.</li>\n<li>The first letter indicates the humidity of the air mass, while the second letter indicates the temperature.</li>\n<li>cA (continental arctic) means dry and cold, for example.</li>\n<li>mT (maritime tropical) means moist and warm.</li>\n<li>This classification system is based on the work of a Swedish meteorologist named Tor Bergeron (1891&ndash;1977).</li>\n</ul>",
+  "type": "mcq",
+  "keys": [
+    "5e1a385d-b325-4f5e-ae92-67e77dc6d6ee"
+  ],
+  "answerOptions": [
+    {
+      "id": "13e818de-787b-4c5f-9788-d172df03db89",
+      "content": "<p>Air masses are large bodies of air with generally uniform humidity and temperature.</p>"
+    },
+    {
+      "id": "df039e50-efa2-4f8d-b9eb-3840502f5ffe",
+      "content": "<p>The air mass classification system uses two-letter names and is based on the work of Tor Bergeron, a Swedish meteorologist.</p>"
+    },
+    {
+      "id": "96ffce18-9855-4284-b7cc-b1472d7d1da5",
+      "content": "<p>Air masses are commonly classified by a two-letter name that indicates humidity and temperature.</p>"
+    },
+    {
+      "id": "5e1a385d-b325-4f5e-ae92-67e77dc6d6ee",
+      "content": "<p>One type of air mass is known as a cA, or continental arctic, air mass because it is dry and cold.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The sentence provides an example of an air mass: the cA, or continental arctic, air mass.</p><p>Choice A is incorrect. The sentence provides a general definition of air masses; it doesn&rsquo;t provide an example of a specific air mass. Choice B is incorrect. The sentence describes the system used to classify air masses; it doesn&rsquo;t provide an example of a specific air mass. Choice C is incorrect. The sentence explains how air masses are classified; it doesn&rsquo;t provide an example of a specific air mass.</p>",
+  "externalid": "30b9dac9-36d2-488e-a95f-ae0404e84c5f",
+  "correct_answer": [
+    "D"
+  ]
+}

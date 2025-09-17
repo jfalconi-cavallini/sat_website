@@ -1,0 +1,38 @@
+{
+  "vaultid": "651acf09-1d52-46c5-a6e7-435032ca7f71",
+  "keys": [
+    "f73c3728-c659-43db-875e-e02cbec1af60"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of punctuation to mark boundaries between supplements and clauses. The comma after &ldquo;equations&rdquo; is used to separate the independent clause (&ldquo;Hopper&rsquo;s&hellip;equation&rdquo;) from the supplementary adverb phrase &ldquo;though.&rdquo; The colon after &ldquo;though&rdquo; is used to mark the boundary between the clause ending with &ldquo;though&rdquo; and the following clause (&ldquo;as&hellip;age&rdquo;). A colon used in this way introduces information that illustrates or explains information that has come before it. In this case, the colon after &ldquo;though&rdquo; introduces the following explanation of how Hopper&rsquo;s subsequent career would involve more than just solving equations: she would become a pioneering computer programmer. </p><p>Choice B is incorrect because&nbsp;it results in a comma splice. A comma can&rsquo;t be used in this way to join two independent clauses (&ldquo;Hopper&rsquo;s&hellip;though&rdquo; and &ldquo;as&hellip;age&rdquo;) such as these. Choice C is incorrect because&nbsp;it results in an illogical sequence of sentences. Placing the period after &ldquo;equations&rdquo; and beginning the next sentence with &ldquo;Though&rdquo; illogically suggests that the following information (that Hopper would help usher in the digital age) is contrary to the information in the previous sentence (Hopper&rsquo;s subsequent career would involve more than just solving equations). Instead, the information that follows supports the information from the previous sentence by explaining how her work and influence extended beyond solely solving equations. Choice D is incorrect because it results in a run-on sentence. The two independent clauses (&ldquo;Hopper&rsquo;s&hellip;though&rdquo; and &ldquo;as&hellip;age&rdquo;) are fused without punctuation. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "47afaaa9-8c03-407e-a86f-61898f5eb0be",
+  "stimulus": "<p>In 1943, in the midst of World War II, mathematics professor Grace Hopper was recruited by the US military to help the war effort by solving complex equations. Hopper&rsquo;s subsequent career would involve more than just <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> as a pioneering computer programmer, Hopper would help usher in the digital age.</p>",
+  "templateclusterid": "5333f837-44c9-4e59-88dd-583b85461eb5",
+  "parenttemplatename": "OSP-682-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "f73c3728-c659-43db-875e-e02cbec1af60",
+      "content": "<p>equations, though:</p>"
+    },
+    {
+      "id": "0d2c8e5e-c5ca-428b-98eb-056764ba0dfe",
+      "content": "<p>equations, though,</p>"
+    },
+    {
+      "id": "b51a1a28-c732-466e-96a9-05ea217bb44f",
+      "content": "<p>equations. Though,</p>"
+    },
+    {
+      "id": "ef150ccb-863c-46d2-b430-24e20dc5eefd",
+      "content": "<p>equations though</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

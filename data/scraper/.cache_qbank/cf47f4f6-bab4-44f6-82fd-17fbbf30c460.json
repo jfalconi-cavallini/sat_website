@@ -1,0 +1,38 @@
+{
+  "vaultid": "278686bb-da86-4d96-b5cd-d97a66564e44",
+  "keys": [
+    "58866cd0-8463-4be8-b8ab-1f8f19b2f853"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is punctuation use between a main clause and a supplementary phrase. In this choice, a colon is correctly used to mark the boundary between the main clause (&ldquo;A study&hellip;continents&rdquo;) and the supplementary phrase (&ldquo;geological&hellip;above&rdquo;) and to introduce the following explanation of the origin of Earth&rsquo;s continents. </p><p>Choice A is incorrect because it fails to mark the boundary between the main clause (&ldquo;A study&hellip;continents&rdquo;) and the supplementary phrase (&ldquo;geological&hellip;above&rdquo;) with appropriate punctuation. Choice C is incorrect because a semicolon can&rsquo;t be used in this way to join the main clause (&ldquo;A study&hellip;continents&rdquo;) and the supplementary phrase (&ldquo;geological&hellip;above&rdquo;). A semicolon is conventionally used to join two main clauses, whereas a colon is conventionally used to introduce an element that explains or amplifies the information in the preceding clause, making it the better choice in this context. Choice D is incorrect because it results in a rhetorically unacceptable sentence fragment beginning with &ldquo;geological.&rdquo; </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "cf47f4f6-bab4-44f6-82fd-17fbbf30c460",
+  "stimulus": "<p>A study published by Rice University geoscientist Ming Tang in 2019 offers a new explanation for the origin of Earth&rsquo;s <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> structures called arcs, towering ridges that form when a dense oceanic plate subducts under a less dense continental plate, melts in the mantle below, and then rises and bursts through the continental crust above.</p>",
+  "templateclusterid": "67b410ea-e9cf-43cf-83f7-32818788292f",
+  "parenttemplatename": "OSP-639-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "7ea42efa-78bc-42a1-866b-bbb3f8acafad",
+      "content": "<p>continents geological</p>"
+    },
+    {
+      "id": "58866cd0-8463-4be8-b8ab-1f8f19b2f853",
+      "content": "<p>continents: geological</p>"
+    },
+    {
+      "id": "7f40b5a6-eaee-4cba-b67b-a767d07128a9",
+      "content": "<p>continents; geological</p>"
+    },
+    {
+      "id": "63ef0f17-9ce9-46c2-b676-a40ccbc90f64",
+      "content": "<p>continents. Geological</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

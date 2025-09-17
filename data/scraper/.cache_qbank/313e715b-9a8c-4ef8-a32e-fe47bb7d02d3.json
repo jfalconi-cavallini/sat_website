@@ -1,0 +1,38 @@
+{
+  "vaultid": "4ab608dd-a248-476b-b1f2-7090964ef65a",
+  "keys": [
+    "a6e5243d-ae07-4d0a-b8fc-05aa095c45de"
+  ],
+  "rationale": "<p>Choice B is the best answer. &ldquo;As a result&rdquo; logically signals that the information in this sentence about Amaya leaving Spain to perform abroad is a result of the previous information about the Spanish Civil War. </p><p>Choice A is incorrect because &ldquo;in comparison&rdquo; illogically signals that the information in this sentence is being compared to the previous information about the Spanish Civil War. Instead, Amaya leaving Spain is a result of that war. Choice C is incorrect because &ldquo;first of all&rdquo; illogically signals that the information in this sentence is the beginning of a sequence of events. Instead, Amaya leaving Spain is a result of the event (the outbreak of war) described in the previous sentence. Choice D is incorrect because &ldquo;for example&rdquo; illogically signals that the information in this sentence is an example supporting the previous statement about the Spanish Civil War. Instead, Amaya leaving Spain is a result of that war. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "313e715b-9a8c-4ef8-a32e-fe47bb7d02d3",
+  "stimulus": "<p>By 1936, Spanish Romani dancer Carmen Amaya was known all over Spain for her powerful style of flamenco dancing. However, in July of that year, the outbreak of the Spanish Civil War made it difficult for her to perform in her home country. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Amaya left Spain to perform abroad, dancing for audiences across North and South America.</p>",
+  "templateclusterid": "95165274-41ad-4651-8106-1425ab4bd1e1",
+  "parenttemplatename": "OSP-259-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "11963a56-229d-4c09-b845-e011489a7755",
+      "content": "<p>In comparison,</p>"
+    },
+    {
+      "id": "a6e5243d-ae07-4d0a-b8fc-05aa095c45de",
+      "content": "<p>As a result,</p>"
+    },
+    {
+      "id": "5eca2895-0f1e-4c13-abb4-ea062e18bc44",
+      "content": "<p>First of all,</p>"
+    },
+    {
+      "id": "9fa1b5d9-4d29-4e26-9bd9-918324eb0ba6",
+      "content": "<p>For example,</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

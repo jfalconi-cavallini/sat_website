@@ -1,0 +1,38 @@
+{
+  "vaultid": "f43b58ab-f894-47cb-af1a-787fab52430a",
+  "keys": [
+    "b5189b5a-fee5-41ba-917a-acbe270e5cc7"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is subject-verb agreement. The singular verb &ldquo;has been&rdquo; agrees in number with the singular subject &ldquo;writing.&rdquo; </p><p>Choice A is incorrect because the plural verb &ldquo;were&rdquo; doesn&rsquo;t agree in number with the singular subject &ldquo;writing.&rdquo; Choice B is incorrect because the plural verb &ldquo;have been&rdquo; doesn&rsquo;t agree in number with the singular subject &ldquo;writing.&rdquo; Choice D is incorrect because the plural verb &ldquo;are&rdquo; doesn&rsquo;t agree in number with the singular subject &ldquo;writing.&rdquo; </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "6fe97f65-ef51-4779-b1bb-b8a10f5f6764",
+  "stimulus": "<p>When writing <em>The Other Black Girl </em>(2021), novelist Zakiya Dalila Harris drew on her own experiences working at a publishing office. The award-winning book is Harris&rsquo;s first novel, but her writing <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> honored before. At the age of twelve, she entered a contest to have a story published in<em> American</em> <em>Girl</em> magazine&mdash;and won.</p>",
+  "templateclusterid": "f6409679-d057-4673-ba7d-740e65d2a23a",
+  "parenttemplatename": "OSP-711-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "a3a228cd-16b2-4b65-9f7f-d3eb38d9cc35",
+      "content": "<p>were</p>"
+    },
+    {
+      "id": "60268611-7bec-40a6-9543-143fdcc47763",
+      "content": "<p>have been</p>"
+    },
+    {
+      "id": "b5189b5a-fee5-41ba-917a-acbe270e5cc7",
+      "content": "<p>has been</p>"
+    },
+    {
+      "id": "3e4b3b81-3cfc-4420-a463-da9646cca2ad",
+      "content": "<p>are</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

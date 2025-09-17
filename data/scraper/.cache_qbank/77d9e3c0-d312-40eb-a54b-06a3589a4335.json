@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best describes the function of the underlined portion in the text as a whole?</p>",
+  "stimulus": "<p>Scholarly accounts of the Chicano movement&mdash;a movement that advocated for the social, political, and cultural empowerment of Mexican Americans and reached its zenith in the 1960s and 1970s&mdash;<span role=\"region\" aria-label=\"Referenced Content\"><u>tend to focus on the most militant, outspoken figures in the movement</u></span>, making it seem uniformly radical. Geographer Juan Herrera has shown, however, that if we shift our focus toward the way the movement manifested in comparatively low-profile neighborhood institutions and projects, we see participants espousing an array of political orientations and approaches to community activism.</p>",
+  "type": "mcq",
+  "keys": [
+    "f12eba5b-3532-4323-b5d0-0a34b5ed1909"
+  ],
+  "answerOptions": [
+    {
+      "id": "c6f1f694-14a8-4087-a765-57e620aef1cc",
+      "content": "<p>It presents a trend in scholarship on the Chicano movement that the text claims has been reevaluated by researchers in light of Herrera&rsquo;s work on the movement&rsquo;s participants.&nbsp;</p>"
+    },
+    {
+      "id": "c817d594-3710-4f6b-acfa-be0afbe30b2e",
+      "content": "<p>It identifies an aspect of the Chicano movement that the text implies was overemphasized by scholars due to their own political orientations.&nbsp;</p>"
+    },
+    {
+      "id": "f12eba5b-3532-4323-b5d0-0a34b5ed1909",
+      "content": "<p>It describes a common approach to studying the Chicano movement that, according to the text, obscures the ideological diversity of the movement&rsquo;s participants.&nbsp;</p>"
+    },
+    {
+      "id": "7326a6ad-0805-4f6f-ac8b-1e3ff6facb6e",
+      "content": "<p>It summarizes the conventional method for analyzing the Chicano movement, which the text suggests creates a misleading impression of the effectiveness of neighborhood institutions and projects.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most accurately describes how the underlined portion functions in the text as a whole. The text begins by mentioning scholarly accounts of the Chicano movement, which the underlined portion describes as tending \"to focus on the most militant, outspoken figures in the movement,\" making the movement as a whole seem uniformly radical. The text then indicates that the work of geographer Juan Herrera shows that focusing less on such militant figures and instead paying more attention to manifestations of the Chicano movement in less widely known neighborhood institutions and projects would reveal that the movement&rsquo;s participants embraced a range of political orientations and approaches. Thus, the underlined portion describes a common approach to studying the Chicano movement that, according to the text, obscures the ideological diversity of the movement&rsquo;s participants.</p><p>Choice A is incorrect. Though the underlined portion does present a trend in scholarship on the Chicano movement, the text does not indicate that other scholars have reevaluated their methods in light of Herrera&rsquo;s work. It only indicates that Herrera&rsquo;s work suggests that the work of those other scholars does not provide a complete picture of the Chicano movement. Choice B is incorrect. Though the underlined portion does identify an aspect of the Chicano movement that the text indicates has been overemphasized, the text does not discuss the political orientations of the scholars whose work is mentioned in the text. Choice D is incorrect. Though the underlined portion does summarize the conventional method for analyzing the Chicano movement, the rest of the text does not address the effectiveness of \"comparatively low-profile neighborhood institutions and projects.\" Instead, the text suggests that those projects were led by people with a variety of approaches to community activism.</p>",
+  "externalid": "77d9e3c0-d312-40eb-a54b-06a3589a4335",
+  "correct_answer": [
+    "C"
+  ]
+}

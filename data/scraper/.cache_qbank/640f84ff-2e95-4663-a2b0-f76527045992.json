@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>One of the earliest known maps is a Babylonian clay tablet thought to be almost 4,500 years old. The map <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the area of a plot of land, shows a river valley, and includes the cardinal directions.</p>",
+  "keys": [
+    "1bb7a823-a8df-479a-ba69-52e6b6e72d17"
+  ],
+  "answerOptions": [
+    {
+      "id": "1bb7a823-a8df-479a-ba69-52e6b6e72d17",
+      "content": "<p>describes</p>"
+    },
+    {
+      "id": "bb7f5e2b-9913-4152-bfc7-68a615cd800c",
+      "content": "<p>describe</p>"
+    },
+    {
+      "id": "38f24999-88eb-49b4-bbc7-7617d5e73290",
+      "content": "<p>have described</p>"
+    },
+    {
+      "id": "53e06933-7f72-4ee7-b7c3-667d8a44b9ca",
+      "content": "<p>are describing</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of verb forms within a sentence. The singular verb \"describes\" agrees in number with the singular subject \"map.\"</p><p>Choice B is incorrect because the plural verb \"describe\" doesn&rsquo;t agree in number with the singular subject \"map.\" Choice C is incorrect because the plural verb \"have described\" doesn&rsquo;t agree in number with the singular subject \"map.\" Choice D is incorrect because the plural verb \"are describing\" doesn&rsquo;t agree in number with the singular subject \"map.\"</p>",
+  "externalid": "640f84ff-2e95-4663-a2b0-f76527045992",
+  "correct_answer": [
+    "A"
+  ]
+}

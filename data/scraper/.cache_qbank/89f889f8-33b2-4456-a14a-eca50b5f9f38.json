@@ -1,0 +1,38 @@
+{
+  "vaultid": "10932649-d480-480c-9a23-11e9604e6e5b",
+  "keys": [
+    "368ba6b8-5637-4898-b996-1ed095770987"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is subject-modifier placement. This choice makes &ldquo;silica glass&rsquo;s atomic arrangement&rdquo; the subject of the sentence and places it immediately after the modifying phrase &ldquo;compared to that of alumina glass.&rdquo; In doing so, this choice clearly establishes that silica glass&rsquo;s atomic arrangement&mdash;and not another noun in the sentence&mdash;is being compared to the atomic arrangement (&ldquo;that&rdquo;) of alumina glass. </p><p>Choice A is incorrect because it results in a dangling modifier. The placement of the noun phrase &ldquo;silica glass&rdquo; immediately after the modifying phrase illogically suggests that silica glass itself (rather than its atomic arrangement) is being compared to alumina glass&rsquo;s atomic arrangement. Choice B is incorrect because it results in a dangling modifier. The placement of the noun phrase &ldquo;silica glass&rdquo; immediately after the modifying phrase illogically suggests that silica glass itself (rather than its atomic arrangement) is being compared to alumina glass&rsquo;s atomic arrangement. Choice C is incorrect because it results in a dangling modifier. The placement of the noun phrase &ldquo;a significant disadvantage&rdquo; immediately after the modifying phrase illogically suggests that &ldquo;a significant disadvantage&rdquo; is being compared to alumina glass&rsquo;s atomic arrangement. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "89f889f8-33b2-4456-a14a-eca50b5f9f38",
+  "stimulus": "<p>Compared to that of alumina glass, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> silica glass atoms are so far apart that they are unable to re-form bonds after being separated.</p>",
+  "templateclusterid": "80ce55ba-bd0f-485f-814d-da7eec20c258",
+  "parenttemplatename": "OSP-674-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "3e82b9c6-a81e-4778-8076-11b3f40a6a04",
+      "content": "<p>silica glass is at a significant disadvantage due to its more dispersed atomic arrangement:</p>"
+    },
+    {
+      "id": "d15e3798-5fad-42a2-8613-a827345fdc36",
+      "content": "<p>silica glass has a more dispersed atomic arrangement, resulting in a significant disadvantage:</p>"
+    },
+    {
+      "id": "472facd9-a0e8-47e8-a0f0-db2ab57ca4bd",
+      "content": "<p>a significant disadvantage of silica glass is that its atomic arrangement is more dispersed:</p>"
+    },
+    {
+      "id": "368ba6b8-5637-4898-b996-1ed095770987",
+      "content": "<p>silica glass&rsquo;s atomic arrangement is more dispersed, resulting in a significant disadvantage:</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

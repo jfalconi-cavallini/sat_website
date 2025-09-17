@@ -1,0 +1,31 @@
+{
+  "stem": "<p>What does the text most strongly suggest about the songs sung by Rainey and Smith?</p>",
+  "stimulus": "<p>In her 1998 book <em>Blues Legacies and Black Feminism</em>, Angela Y. Davis bases her analysis in part on recordings of songs sung in the 1920s by Gertrude &ldquo;Ma&rdquo; Rainey and Bessie Smith. Davis focuses on how Rainey and Smith improvised the lyrics&mdash;replacing the original lines with mischievous jokes and wordplay. Davis&rsquo;s work was particularly labor intensive because in order to transcribe, or write down, the lyrics as Rainey and Smith sang them, Davis had to listen repeatedly to the vinyl recordings, which weren&rsquo;t very clear.&nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "766432a0-203e-4196-a836-8b2ed7ce85c4"
+  ],
+  "answerOptions": [
+    {
+      "id": "89a6ef0a-9a49-4d84-b782-f342384e1825",
+      "content": "<p>The songs have grown in popularity since Rainey and Smith first sang them.&nbsp;</p>"
+    },
+    {
+      "id": "32e5623d-fb25-43fd-a86c-c77bde5a01ae",
+      "content": "<p>There were more recordings made of Rainey&rsquo;s songs than there were of Smith&rsquo;s.</p>"
+    },
+    {
+      "id": "766432a0-203e-4196-a836-8b2ed7ce85c4",
+      "content": "<p>There were few, if any, reliable transcriptions of Smith&rsquo;s and Rainey&rsquo;s improvised lyrics when Davis began her research.</p>"
+    },
+    {
+      "id": "ced48b1d-8290-4dd8-89a8-675b567732ee",
+      "content": "<p>According to Davis, the songs sung by Rainey were more musically innovative than those sung by Smith typically were.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it describes the songs sung by Gertrude \"Ma\" Rainey and Bessie Smith in a way the text implies is accurate. The text describes Angela Y. Davis&rsquo;s research on Rainey and Smith for her book <em>Blues Legacies and Black Feminism</em>, focusing on her efforts to transcribe the improvised lyrics in Rainey&rsquo;s and Smith&rsquo;s songs. The text calls Davis&rsquo;s transcription process \"labor intensive\" since the lack of clarity in the recordings required her to listen to each repeatedly to verify the accuracy of her transcripts. The fact that Davis undertook a painstaking transcription process using only fairly low-fidelity recordings suggests that reliable transcriptions were otherwise unavailable to her.</p><p>Choice A is incorrect. The text doesn&rsquo;t discuss the popularity of Rainey&rsquo;s and Smith&rsquo;s songs either in the 1920s or after. Although it is plausible that the music of Rainey and Smith is more widely enjoyed than it was in the 1920s, this isn&rsquo;t supported by the text. Choice B is incorrect. The text doesn&rsquo;t discuss which of Rainey and Smith was the more prolific recording artist and so provides no support for such a claim. Choice D is incorrect. The text discusses the creativity of both Rainey and Smith, but it does so only to note similarities between them in terms of improvisation and wit, not to emphasize differences between them or Davis&rsquo;s relative views of the artists&rsquo; inventiveness.</p>",
+  "externalid": "0597edea-9496-40db-983f-e9f02858badc",
+  "correct_answer": [
+    "C"
+  ]
+}

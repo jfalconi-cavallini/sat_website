@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>Data collected by the Mars rover <em>Curiosity</em> at the Gale Crater&rsquo;s Murray Formation are suggestive of hydrological deposition of sediment in the distant past. To characterize the nature of the depositional environment, Frances Rivera-Hern&aacute;ndez <span data-ssml-sub-alias=\"et al\">et al.</span> analyzed the grain size of Murray Formation sediment, finding that although there are intervals of coarse grains, most of the sediment consists of fine grains that show signs of cracking due to episodic desiccation. Rivera-Hern&aacute;ndez <span data-ssml-sub-alias=\"et al\">et al.</span> concluded that the coarse grains are sandstone, which tends to be deposited by flowing water, whereas the fine grains are mudstone, which is slowly deposited by settling out of suspension in low-flow water, leading the researchers to posit that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "26073cb3-a015-42d2-bdae-675c9426e121"
+  ],
+  "answerOptions": [
+    {
+      "id": "5e924d1e-4644-45f6-a272-3ee53961d965",
+      "content": "<p>although the area of the Murray Formation experienced a prolonged period of dryness that prevented a lake from forming, water flowing from a distant source was present.&nbsp;</p>"
+    },
+    {
+      "id": "26073cb3-a015-42d2-bdae-675c9426e121",
+      "content": "<p>a lake existed at the Murray Formation for a prolonged period, though the lake occasionally experienced drying and there were periods in which one or more streams were present.&nbsp;</p>"
+    },
+    {
+      "id": "b3c141b3-e829-4fbb-a393-055aacc10631",
+      "content": "<p>one or more streams existed at the Murray Formation for an extended period until being replaced by a lake that persisted for only a brief period before permanently drying.</p>"
+    },
+    {
+      "id": "22351aa6-aad0-4cdf-848e-885a55f3ad68",
+      "content": "<p>a stream-fed lake was present at the Murray Formation for an extended period, and although the streams experienced occasional drying, the lake did not.&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of the sediments found at the Gale Crater&rsquo;s Murray Formation on Mars. The text states that data gathered by the <em>Curiosity</em> rover suggest that bodies of water deposited sediment on Mars&rsquo;s surface long ago. The text goes on to say that studying the sediment, Rivera-Hern&aacute;ndez et al. found some coarse grains they believe are sandstone, which tends to be left by flowing water, and many more fine grains they believe are mudstone, which tends to slowly sink in low-flow water. The text further indicates that the researchers noted cracks in the fine grains that suggest there were cycles of desiccation, or drying, at the site. Taken together, this information suggests that a lake (a body of low-flow water) existed at the site for a prolonged period but occasionally experienced drying and that there were periods in which one or more streams (flowing water) were present, since the extended existence of a lake would account for the abundance of fine grains, periods of drying would account for the cracks in the fine grains, and periods with streams would account for the sections of coarse grains.</p><p>Choice A is incorrect because the text indicates that an abundance of fine grains of sediment was found at the Murray Formation site, which suggests that a low-flow water source (such as a lake) <em>was</em> present. Further, the text makes no mention of where the water at the site may have originated from. Choice C is incorrect because the evidence described in the text doesn&rsquo;t support the idea that there were streams at the Murray Formation for an extended period and a lake for just a short time. The abundance of fine grains suggests that a lake (a body of low-flow water) was present for an extended time, not just a short time, and the sections of coarse grains suggest that one or more streams (bodies of flowing water) were intermittently present while the lake existed, not at a separate time. Choice D is incorrect. Although the text suggests that both a low-flow body of water (such as a lake) and flowing water (such as streams) existed at the Murray Formation site, meaning that there could have been a stream-fed lake, the text explains that the fine grains that signify the presence of a lake exhibit cracking that indicates periods of desiccation, or drying, which suggests that a lake was present but <em>did</em> occasionally dry out.</p>",
+  "externalid": "e9d90298-cacf-470e-a293-b7e0dd41e3d7",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>The student wants to emphasize the aim of the research study. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Leigh Torres is a marine ecologist.</li>\n<li>She conducted a study of blue whales in New Zealand&rsquo;s South Taranaki Bight region.</li>\n<li>She wanted to know how ocean temperature affects where the whales forage for krill in that region.</li>\n<li>She found that during a marine heat wave, the whales foraged farther offshore than they had during cooler periods.</li>\n<li>The offshore waters, which were colder than areas closer to shore, had a higher relative abundance of krill.</li>\n</ul>",
+  "type": "mcq",
+  "keys": [
+    "83fdd668-ed3b-4b3c-9303-c70b5e76e9c7"
+  ],
+  "answerOptions": [
+    {
+      "id": "dfc933fe-bf20-44a7-a5ab-e94109171a2a",
+      "content": "<p>Analyzing ocean temperature data, Torres found that during a marine heat wave, blue whales foraged farther offshore than they had during cooler periods.</p>"
+    },
+    {
+      "id": "83fdd668-ed3b-4b3c-9303-c70b5e76e9c7",
+      "content": "<p>In her study, Torres sought to determine how ocean temperature affects where blue whales forage for krill in the South Taranaki Bight region.</p>"
+    },
+    {
+      "id": "3ec8940e-ddda-4ab6-86b7-71ffe6a975ac",
+      "content": "<p>Torres&rsquo;s study revealed that blue whales were attracted to offshore waters with a relatively high abundance of krill.</p>"
+    },
+    {
+      "id": "d44a4a5d-b6d5-4a71-9c5a-4e2c523b3bc3",
+      "content": "<p>Torres, a marine ecologist, studied blue whales in the South Taranaki Bight region, where the whales forage.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The sentence emphasizes the aim, or goal, of the research study, noting that Torres sought to determine how ocean temperature affects where blue whales forage for krill.</p><p>Choice A is incorrect. The sentence emphasizes the results of the study, noting what Torres found at the end; it doesn&rsquo;t emphasize the aim, or goal, of the study, which is what Torres sought at the beginning. Choice C is incorrect. The sentence makes a claim about the study&rsquo;s results; it doesn&rsquo;t emphasize the aim, or goal, of the study. Choice D is incorrect. The sentence indicates the location of Torres&rsquo;s study; it doesn&rsquo;t emphasize the aim, or goal, of the study.</p>",
+  "externalid": "020f2cdc-bab1-476b-849b-762e11ace6c1",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "b47b13e0-908c-4d53-bf3a-5a8a70607d1b",
+  "keys": [
+    "286e44bb-ab0b-43cf-b453-cc6421ee5459"
+  ],
+  "rationale": "<p>Choice C is the best answer. The sentence emphasizes a difference between the portraits, noting that one is a painting and the other is a drawing. </p><p>Choice A is incorrect. The sentence emphasizes a similarity between the two portraits rather than a difference. Choice B is incorrect. The sentence makes a generalization about Enriquez&rsquo;s portraits; it doesn&rsquo;t emphasize a difference between the portraits of Jimenez and Anaya. Choice D is incorrect. While the sentence notes a difference between Jimenez and Anaya, it doesn&rsquo;t emphasize a difference between, or even mention, their portraits. </p>",
+  "origin": "proteus",
+  "stem": "<p>The student wants to emphasize a difference between the two portraits. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "externalid": "34eafb3e-bcab-4b7b-b488-987611a37efb",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Gaspar Enriquez is an artist.</li>\n<li>He specializes in portraits of Mexican Americans.</li>\n<li>A portrait is an artistic representation of a person.</li>\n<li>Enriquez completed a painting of the sculptor Luis Jimenez in 2003.</li>\n<li>He completed a drawing of the writer Rudolfo Anaya in 2016.</li>\n</ul>",
+  "templateclusterid": "8be00e4a-71f2-4fcb-9ce5-c23c1e61abe6",
+  "parenttemplatename": "OSP-760-SYN",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "5421c423-a5cd-4072-9876-6e3c98751335",
+      "content": "<p>The portraits, or artistic representations, of Luis Jimenez and Rudolfo Anaya were both completed by Enriquez in the early 2000s.</p>"
+    },
+    {
+      "id": "174e9356-96a3-448b-9702-d93831cf2ed3",
+      "content": "<p>Enriquez has completed portraits of numerous Mexican Americans, including sculptor Luis Jimenez and writer Rudolfo Anaya.&nbsp;</p>"
+    },
+    {
+      "id": "286e44bb-ab0b-43cf-b453-cc6421ee5459",
+      "content": "<p>While both are by Enriquez, the 2003 portrait of Luis Jimenez is a painting, and the 2016 portrait of Rudolfo Anaya is a drawing.&nbsp;</p>"
+    },
+    {
+      "id": "a6342746-154a-4fdb-9328-c6ae73472cca",
+      "content": "<p>Luis Jimenez was a Mexican American sculptor, and Rudolfo Anaya was a Mexican American writer.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

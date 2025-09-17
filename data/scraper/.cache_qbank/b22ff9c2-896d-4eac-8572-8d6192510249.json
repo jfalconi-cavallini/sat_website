@@ -1,0 +1,38 @@
+{
+  "vaultid": "557d306c-e1f5-4f80-810e-b7c33863c5c6",
+  "keys": [
+    "ccadaf18-5f12-4952-a9ff-0d6527d8de72"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is subject-verb agreement. The singular verb &ldquo;has enhanced&rdquo; agrees in number with the singular subject &ldquo;<em>A Sheaf Gleaned in French Fields,</em>&rdquo; which is the title of a book of poems. </p><p>Choice B is incorrect because the plural verb &ldquo;are enhancing&rdquo; doesn&rsquo;t agree in number with the singular subject &ldquo;<em>A Sheaf Gleaned in French Fields</em>.&rdquo; Choice C is incorrect because the plural verb &ldquo;have enhanced&rdquo; doesn&rsquo;t agree in number with the singular subject &ldquo;<em>A Sheaf Gleaned in French Fields</em>.&rdquo; Choice D is incorrect because the plural verb &ldquo;enhance&rdquo; doesn&rsquo;t agree in number with the singular subject &ldquo;<em>A Sheaf Gleaned in French Fields</em>.&rdquo; </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "b22ff9c2-896d-4eac-8572-8d6192510249",
+  "stimulus": "<p>Bengali author Toru Dutt&rsquo;s <em>A Sheaf Gleaned in French Fields </em>(1876), a volume of English translations of French poems, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> scholars&rsquo; understanding of the transnational and multilingual contexts in which Dutt lived and worked.</p>",
+  "templateclusterid": "cf541e5c-b261-4f7e-ae26-2712b6272b8e",
+  "parenttemplatename": "OSP-667-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "ccadaf18-5f12-4952-a9ff-0d6527d8de72",
+      "content": "<p>has enhanced</p>"
+    },
+    {
+      "id": "8e4428c3-62a3-404a-afe8-9f45383c13d8",
+      "content": "<p>are enhancing</p>"
+    },
+    {
+      "id": "45267709-b4b5-4c96-81c8-3c312007b644",
+      "content": "<p>have enhanced</p>"
+    },
+    {
+      "id": "1e6204d6-e3c7-4c9f-9d80-2080aa66434e",
+      "content": "<p>enhance</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

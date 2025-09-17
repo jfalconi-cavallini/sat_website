@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>In order to create the Global Positioning System (GPS), scientists had to develop an accurate mathematical model of Earth&rsquo;s shape that accounted for various forces, such as tides. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> it was mathematician Gladys West who wrote the computer program that could perform these necessary calculations.</p>",
+  "type": "mcq",
+  "keys": [
+    "980a320f-17f1-4c48-aa16-acca80305b16"
+  ],
+  "answerOptions": [
+    {
+      "id": "980a320f-17f1-4c48-aa16-acca80305b16",
+      "content": "<p>Ultimately,</p>"
+    },
+    {
+      "id": "926d0b49-a900-4b0b-8ce7-48f4691be620",
+      "content": "<p>In other words,</p>"
+    },
+    {
+      "id": "5138bc76-7f43-4a72-bede-00d362c23a18",
+      "content": "<p>Secondly,</p>"
+    },
+    {
+      "id": "c315eca9-b6b6-4eb6-ad5d-ad4cdf283bf2",
+      "content": "<p>In addition,</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. \"Ultimately\" logically signals that West&rsquo;s completion of the computer program was the conclusion of the process described in the previous sentence, in which scientists working on GPS sought to develop a mathematical model of Earth.</p><p>Choice B is incorrect because \"in other words\" illogically signals that the information about West&rsquo;s program is a restatement of the information about the scientists&rsquo; efforts to develop a mathematical model of Earth. Instead, West&rsquo;s program was the conclusion of those efforts. Choice C is incorrect because \"secondly\" illogically signals that West&rsquo;s completion of the computer program was merely the next step in the scientists&rsquo; efforts to develop a mathematical model of Earth. Instead, West&rsquo;s program was the conclusion of those efforts. Choice D is incorrect because \"in addition\" illogically signals that West&rsquo;s completion of the computer program was merely additional information related to the scientists&rsquo; work on GPS. Instead, West&rsquo;s program was the conclusion of the scientists&rsquo; efforts to develop a mathematical model of Earth.</p>",
+  "externalid": "4c24e768-d3fc-4bd8-ba35-08de02d100b8",
+  "correct_answer": [
+    "A"
+  ]
+}

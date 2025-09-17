@@ -1,0 +1,38 @@
+{
+  "vaultid": "44cad301-641e-4849-bdf2-661d50ca71da",
+  "keys": [
+    "894df26b-a408-4b54-a71a-422f8b18d382"
+  ],
+  "rationale": "<p>Choice A is the best answer because it presents a quotation about Elizabeth Catlett that supports the student&rsquo;s claim that this artist had a talent for unifying various traditions and styles in her work. The quotation explains that to create the work, Catlett combined Indigenous sculpture with the visual aesthetic of modern muralists from Mexico as well as that of German artist Kathe Kollwitz. In other words, Catlett was able to unify several artistic traditions and styles within a single sculpture. </p><p>Choice B is incorrect because in discussing the technique and subject matter of Catlett&rsquo;s collage, the quotation makes no reference to particular traditions or styles. Choice C is incorrect because in describing the sculpture, the quotation doesn&rsquo;t mention any artistic traditions or styles that Catlett may have synthesized to create the work. Choice D is incorrect because in discussing Catlett&rsquo;s prints of notable African American women, the quotation doesn&rsquo;t characterize those prints as having fused different traditions or styles. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which quotation from a scholar describing Catlett&rsquo;s work would best support the student&rsquo;s claim?</p>",
+  "externalid": "b490fb1f-94cb-4ac3-ab42-e46a37a27827",
+  "stimulus": "<p>Accomplished printmaker and sculptor Elizabeth Catlett (1915&ndash;2012) used her art to explore the Black experience in the United States. In a paper for an art history class, a student claims that Catlett had a particular talent for unifying various artistic traditions and styles in her work.</p>",
+  "templateclusterid": "c7430969-13f3-4200-8186-37ea115534f5",
+  "parenttemplatename": "OSP-326-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "894df26b-a408-4b54-a71a-422f8b18d382",
+      "content": "<p>&ldquo;In <em>Mother and Child</em>, a sculpture of two Black figures, Catlett used an ancient Indigenous sculpting technique and combined the visual aesthetic of modern Mexican muralists with that of German artist Kathe Kollwitz.&rdquo;&nbsp;</p>"
+    },
+    {
+      "id": "51968639-e5cd-4441-9764-ba9c42a8bb8d",
+      "content": "<p>&ldquo;In her collage <em>New Generation</em>, Catlett overlaid fabric onto the canvas to represent the clothing of a father and his toddler, positioned to evoke classic images of a mother and child.&rdquo;</p>"
+    },
+    {
+      "id": "f4b1e300-150b-45af-8d35-59d0f36caf22",
+      "content": "<p>&ldquo;Created in 1968, Catlett&rsquo;s sculpture <em>Black Unity</em>, a stylized fist sculpted from mahogany and measuring two feet across, remains an important piece and has received renewed and well-deserved attention in recent years.&rdquo;</p>"
+    },
+    {
+      "id": "7b2df6b0-7587-412d-81b4-6b7f3868b6d4",
+      "content": "<p>&ldquo;One series of Catlett&rsquo;s prints, made by the artist using the linoleum cut method, depicts several notable African American women, including Harriet Tubman and Sojourner Truth.&rdquo;&nbsp;</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

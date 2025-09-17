@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which quotation from a philosopher&rsquo;s analysis of <em>The Politics</em> would best support the student&rsquo;s claim?</p>",
+  "stimulus": "<p>A student in a political science course is writing a paper on Aristotle&rsquo;s <em>The Politics</em>, in which Aristotle offers his opinion on political instability and gives advice on how constitutions can be preserved. Aristotle observes that different forms of government can fall in different ways&mdash;for example, oligarchies might grant power to military leaders during wartime who refuse to relinquish that power during peacetime&mdash;but some methods of preserving order apply across all forms of government. The student claims that in particular Aristotle asserts that in a healthy state obedience to law must be as close to absolute as possible and that even minor infractions should not be ignored.</p>",
+  "keys": [
+    "3ad9f935-c099-4caa-a4a8-5c32546809c4"
+  ],
+  "answerOptions": [
+    {
+      "id": "3ad9f935-c099-4caa-a4a8-5c32546809c4",
+      "content": "<p>&ldquo;When constructing his argument regarding the characteristics of a well-functioning government, Aristotle asserts that &lsquo;Transgression creeps in unperceived and at last ruins the state,&rsquo; illustrating this idea with a comparison to frequent small expenditures slowly and almost imperceptibly chipping away at a fortune until it is ultimately depleted.&rdquo;</p>"
+    },
+    {
+      "id": "0de19c98-7d69-44e6-bdc6-c307970644d8",
+      "content": "<p>&ldquo;When Aristotle writes on the necessity of avoiding corruption in government, he proposes that &lsquo;every state should be so administered and so regulated by law that its magistrates cannot possibly make money.&rsquo; In particular, he thinks oligarchies are particularly susceptible to corruption through bribery.&rdquo;</p>"
+    },
+    {
+      "id": "0c1eebab-19ff-47f5-9e1e-02732fa1bf50",
+      "content": "<p>&ldquo;When Aristotle considers the health of constitutions, he states that &lsquo;Constitutions are preserved when their destroyers are at a distance, and sometimes also because they are near, for the fear of them makes the government keep in hand the constitution.&rsquo; He holds that rulers who wish to see constitutions preserved must continually remind the populace of the dangers that would result from a constitutional collapse.&rdquo;</p>"
+    },
+    {
+      "id": "45d5a2e2-252a-406b-90bf-9cfee921ae0d",
+      "content": "<p>&ldquo;When contrasting different forms of government, Aristotle holds that &lsquo;oligarchies may last, not from any inherent stability in such forms of government, but because the rulers are on good terms both with the unenfranchised and with the governing classes.&rsquo; That is, oligarchic leaders who wish to hold on to power will introduce members of disenfranchised classes into government in a participatory role.&rdquo;</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it presents the quotation that best supports the student&rsquo;s claim that in <em>The Politics</em>, Aristotle gives advice on preserving constitutions&mdash;preventing governments from falling and maintaining order&mdash;and specifically asserts that in a healthy state, laws must be followed as strictly as possible and infractions should not be overlooked even if they are minor. The philosopher states that when Aristotle builds his argument about the characteristics of a well-functioning government, Aristotle asserts that transgression, or violation of law, will ruin the state if it \"creeps in unperceived,\" or goes unnoticed. The philosopher then adds that Aristotle illustrates this point by comparing the situation to one in which small but frequent expenses diminish a fortune almost unnoticeably until, eventually, the fortune is entirely gone. In other words, the philosopher indicates that Aristotle makes the point that total obedience to law preserves a healthy state while even small violations, if ignored, will undermine the health of the state.</p><p>Choice B is incorrect because the philosopher addresses Aristotle&rsquo;s observation about corruption within the government (in particular, preventing the possibility that members of the government can take bribes), and although corruption can involve infractions, the observation is about a subset of people within the state and isn&rsquo;t directly connected to the importance of upholding total obedience to the law throughout the state. Choice C is incorrect because the philosopher discusses Aristotle&rsquo;s point about those who would intentionally destroy a constitution altogether and the need for rulers to remind the populace that it would be dangerous for a constitution to collapse, but neither idea is directly connected to the importance of upholding total obedience to the law. Choice D is incorrect because the philosopher explains that Aristotle makes the point that oligarchic leaders may retain power by having members of disenfranchised classes participate in government alongside governing classes, and this point doesn&rsquo;t address the importance of ensuring obedience to the law and addressing even minor violations.</p>",
+  "externalid": "cebd824f-b240-47cf-8333-e2cff8bd0761",
+  "correct_answer": [
+    "A"
+  ]
+}

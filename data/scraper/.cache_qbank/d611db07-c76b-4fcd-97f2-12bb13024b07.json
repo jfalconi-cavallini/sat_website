@@ -1,0 +1,38 @@
+{
+  "vaultid": "dd8a1c0e-f827-42e5-9553-cd89efb18b68",
+  "keys": [
+    "682dd2cc-756e-4c1e-ab6b-7a8ffd00a810"
+  ],
+  "rationale": "<p>Choice B is the best answer because it presents the conclusion that most logically follows from the text&rsquo;s discussion of the relationship between atmospheric carbon dioxide and sauropod body size. The text establishes that sauropods evolved to reach enormous sizes, and it notes that some scientists have asserted that the cause of this phenomenon was increased plant production that resulted from increased atmospheric carbon dioxide. The text goes on to state, however, that atmospheric carbon dioxide levels didn&rsquo;t increase around the time of important periods in sauropods&rsquo; evolution of larger body sizes. If significant periods of sauropod evolution toward larger sizes occurred without increased atmospheric carbon dioxide levels, that suggests that the evolution of larger sizes didn&rsquo;t depend on increased carbon dioxide in the atmosphere.&nbsp;</p><p>Choice A is incorrect because the text doesn&rsquo;t describe any fluctuations in atmospheric carbon dioxide, so there&rsquo;s no evidence in the text to support the conclusion that such fluctuations had different effects on different sauropod lineages. All that the text says about atmospheric carbon dioxide levels is that there weren&rsquo;t increases at particular points that correspond with key moments in sauropod evolution.&nbsp;Choice C is incorrect because the text indicates that there weren&rsquo;t significant increases in atmospheric carbon dioxide around the time of important periods in sauropods&rsquo; evolution toward larger body sizes, not that atmospheric carbon dioxide was higher when the largest sauropods lived than when sauropods first appeared.&nbsp;Choice D is incorrect because the text indicates that atmospheric carbon dioxide levels didn&rsquo;t increase at important periods in sauropod evolution, not that higher levels would have affected that evolution. The text provides no information about how higher levels of atmospheric carbon dioxide might have affected sauropods.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "d611db07-c76b-4fcd-97f2-12bb13024b07",
+  "stimulus": "<p>Herbivorous sauropod dinosaurs could grow more than 100 feet long and weigh up to 80 tons, and some researchers have attributed the evolution of sauropods to such massive sizes to increased plant production resulting from high levels of atmospheric carbon dioxide during the Mesozoic era. However, there is no evidence of significant spikes in carbon dioxide levels coinciding with relevant periods in sauropod evolution, such as when the first large sauropods appeared, when several sauropod lineages underwent further evolution toward gigantism, or when sauropods reached their maximum known sizes, suggesting that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "f0030868-1f3e-4b1c-83bb-7be8d30399ed",
+  "parenttemplatename": "OSP-007-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "c1ea4ee7-0cd4-4501-a3e2-1754ea4b7a74",
+      "content": "<p>fluctuations in atmospheric carbon dioxide affected different sauropod lineages differently.&nbsp;</p>"
+    },
+    {
+      "id": "682dd2cc-756e-4c1e-ab6b-7a8ffd00a810",
+      "content": "<p>the evolution of larger body sizes in sauropods did not depend on increased atmospheric carbon dioxide.</p>"
+    },
+    {
+      "id": "70b25aec-6644-4c28-bfbd-b7b817ad24fe",
+      "content": "<p>atmospheric carbon dioxide was higher when the largest known sauropods lived than it was when the first sauropods appeared.</p>"
+    },
+    {
+      "id": "d17fc41d-2023-483f-88a0-ad7f35e7eb86",
+      "content": "<p>sauropods probably would not have evolved to such immense sizes if atmospheric carbon dioxide had been even slightly higher.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

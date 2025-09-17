@@ -1,0 +1,38 @@
+{
+  "vaultid": "93281b45-91da-4708-bbf3-5ecd2361aa8b",
+  "keys": [
+    "9d4cd81d-e9b2-4cc0-9409-5e0db664d9e2"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of the OSIRIS-REx spacecraft&rsquo;s contact with the asteroid 101955 Bennu. In this context, &ldquo;collected&rdquo; means acquired and took away. The text indicates that although the boulders on the asteroid&rsquo;s surface caused some unforeseen problems, OSIRIS-REx was able to gather a sample to return to Earth. This context suggests that OSIRIS-REx successfully collected a sample of 101955 Bennu. </p><p>Choice A is incorrect because in this context &ldquo;attached&rdquo; means connected or affixed. The text indicates that OSIRIS-REx gathered pieces of 101955 Bennu to bring to Earth; it doesn&rsquo;t suggest that the spacecraft attached anything to the asteroid. Choice C is incorrect because in this context &ldquo;followed&rdquo; means tracked or traveled behind and the text discusses OSIRIS-REx&rsquo;s brief encounter with 101955 Bennu during which the spacecraft gathered a sample to bring to Earth. The text doesn&rsquo;t suggest that the spacecraft tracked the sample, and it&rsquo;s not clear what it would mean for the spacecraft to travel behind the sample it collected.&nbsp;Choice D is incorrect because in this context &ldquo;replaced&rdquo; means put back or returned. The text indicates that OSIRIS-REx gathered pieces of 101955 Bennu to bring to Earth but doesn&rsquo;t suggest that anything was returned to the asteroid. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "8fed581f-1329-4cb7-8727-8c2037159d3d",
+  "stimulus": "<p>The spacecraft OSIRIS-REx briefly made contact with the asteroid 101955 Bennu in 2020. NASA scientist Daniella DellaGiustina reports that despite facing the unexpected obstacle of a surface mostly covered in boulders, OSIRIS-REx successfully <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> a sample of the surface, gathering pieces of it to bring back to Earth.</p>",
+  "templateclusterid": "62ce2209-4e77-48b1-ac76-29ce9773c8c5",
+  "parenttemplatename": "OSP-961-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "a1aaacac-468e-46b3-9053-e5a4a21aaf59",
+      "content": "<p>attached</p>"
+    },
+    {
+      "id": "9d4cd81d-e9b2-4cc0-9409-5e0db664d9e2",
+      "content": "<p>collected</p>"
+    },
+    {
+      "id": "a93aa444-8ff6-493c-9a97-3d8258a37bf3",
+      "content": "<p>followed</p>"
+    },
+    {
+      "id": "59f750ba-87a9-4c16-af76-30d1fa04e0b1",
+      "content": "<p>replaced</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

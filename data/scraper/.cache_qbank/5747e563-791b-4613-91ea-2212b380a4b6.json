@@ -1,0 +1,38 @@
+{
+  "vaultid": "cd4a3986-b252-431f-b609-3d94c7274816",
+  "keys": [
+    "bb9860e9-bcbd-4c28-8c20-c3a62b4502cc"
+  ],
+  "rationale": "<p>Choice A is the best answer because &ldquo;additionally&rdquo; logically signals that the information in this sentence&mdash;that Id&aacute;r founded the League of Mexican Women&mdash;is another instance of Id&aacute;r fighting injustice, this time advocating for the rights of Mexican Americans. </p><p>Choice B is incorrect because &ldquo;in conclusion&rdquo; illogically signals that the information in this sentence sums up or concludes the discussion of Id&aacute;r&rsquo;s support for the Mexican people&rsquo;s revolt. Instead, the founding of the League of Mexican Women is a separate instance of Id&aacute;r fighting injustice. Choice C is incorrect because &ldquo;for example&rdquo; illogically signals that the information in this sentence is an example of how, as a newspaper reporter, Id&aacute;r voiced support for the Mexican people&rsquo;s revolt. Instead, the founding of the League of Mexican Women is a separate instance of Id&aacute;r fighting injustice, this time in support of Mexican Americans.&nbsp;Choice D is incorrect because &ldquo;rather&rdquo; illogically signals that the information in this sentence offers a contrast or exception to the previous information about Id&aacute;r&rsquo;s support for the Mexican people&rsquo;s revolt. Instead, the founding of the League of Mexican Women is a separate instance of Id&aacute;r fighting injustice. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "5747e563-791b-4613-91ea-2212b380a4b6",
+  "stimulus": "<p>In the early 1900s, Jovita Id&aacute;r fought injustice on both sides of the Mexico&ndash;United States border. As a reporter for the Texas newspaper <em>La Cr&oacute;nica,</em> she voiced support for the Mexican people&rsquo;s revolt against authoritarian rule. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> she founded the League of Mexican Women, a group that advocated for the rights of Mexican Americans.</p>",
+  "templateclusterid": "47f7216d-6a34-4a91-b876-fe3be11d27ec",
+  "parenttemplatename": "OSP-267-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "bb9860e9-bcbd-4c28-8c20-c3a62b4502cc",
+      "content": "<p>Additionally,</p>"
+    },
+    {
+      "id": "09aa90ac-744e-413c-8a43-3fd706eb2fd6",
+      "content": "<p>In conclusion,</p>"
+    },
+    {
+      "id": "54bd47a6-97cc-478b-8c50-61d5327e8e47",
+      "content": "<p>For example,</p>"
+    },
+    {
+      "id": "b30a2471-eb58-430a-a08b-05655717dd69",
+      "content": "<p>Rather,</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

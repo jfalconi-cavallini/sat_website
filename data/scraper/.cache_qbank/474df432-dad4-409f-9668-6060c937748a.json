@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Economist Jingting Fan argues that the effects of international trade may display spatial variation at sub-national levels. For instance, imported goods may reduce expenses for a country&rsquo;s average consumer, but for consumers living far from ports, high intranational transport costs could <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the price advantages associated with imports.</p>",
+  "type": "mcq",
+  "keys": [
+    "9538adf8-2b44-4b18-91e6-2b20bf1d44cf"
+  ],
+  "answerOptions": [
+    {
+      "id": "9538adf8-2b44-4b18-91e6-2b20bf1d44cf",
+      "content": "<p>nullify</p>"
+    },
+    {
+      "id": "0518f569-d700-4fa1-928e-a56740042306",
+      "content": "<p>denigrate</p>"
+    },
+    {
+      "id": "7bd98790-9f37-4bce-b0c8-b802ac25d708",
+      "content": "<p>underestimate</p>"
+    },
+    {
+      "id": "b5666fa6-51ed-4487-9927-00d4bedbb704",
+      "content": "<p>misconstrue</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it logically completes the text&rsquo;s discussion of imported goods and consumer prices. In this context, \"nullify\" most nearly means negate or undermine. The text indicates that importing goods to a country can reduce consumer prices in that country, then cautions that the costs of transporting goods within the country is also a factor. These transportation costs likely raise the prices that must be paid by people who live far from the ports of entry. Therefore, the intranational transportation costs could nullify the price advantages to consumers of importing goods.</p><p>Choice B is incorrect. In this context, \"denigrate\" would most nearly mean disparage or deny the importance of. Since transportation costs would not be capable of denying the importance of price advantages, it would not make sense to state that intranational transportation costs denigrate the price advantages of importing goods. Choice C is incorrect. In this context, \"underestimate\" would most nearly mean predict a lower value for, or to undervalue, someone or something. Though transportation costs might be undervalued, they cannot themselves undervalue something else, so it would not make sense to state that intranational transportation costs underestimate the price advantages of importing goods. Choice D is incorrect. In this context, \"misconstrue\" would most nearly mean misunderstand. Since transport costs are not capable of understanding, it would not make sense to claim that intranational transportation costs misconstrue the price advantages of importing goods.</p>",
+  "externalid": "474df432-dad4-409f-9668-6060c937748a",
+  "correct_answer": [
+    "A"
+  ]
+}

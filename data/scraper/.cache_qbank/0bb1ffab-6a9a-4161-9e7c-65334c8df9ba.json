@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>The Coastal Futures Conservatory in Virginia is known for creating aural representations of ecological data. One such effort combines underwater audio recorded in seagrass beds with data that track rising carbon levels in the seagrass. As carbon levels increase, the audio is correspondingly distorted; <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> listeners can &ldquo;hear&rdquo; the changes in the carbon levels.</p>",
+  "type": "mcq",
+  "keys": [
+    "01b0f23a-0a02-4c3e-a4ad-2a9fbca457de"
+  ],
+  "answerOptions": [
+    {
+      "id": "600c9ee9-04ea-4cfb-999b-26e6639360c4",
+      "content": "<p>furthermore,</p>"
+    },
+    {
+      "id": "1817d896-56c9-4706-b920-42a27598755e",
+      "content": "<p>by comparison,</p>"
+    },
+    {
+      "id": "a629c75c-b57d-4632-8e5c-448124d40835",
+      "content": "<p>for instance,</p>"
+    },
+    {
+      "id": "01b0f23a-0a02-4c3e-a4ad-2a9fbca457de",
+      "content": "<p>thus,</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. \"Thus\" logically signals that the information in this clause&mdash;that listeners can \"hear\" carbon levels increasing&mdash;is a result of the previous information about the audio distorting as carbon levels increase.</p><p>Choice A is incorrect because \"furthermore\" illogically signals that the information in this clause merely adds to the previous information about the audio distorting as carbon levels rise. Instead, the listeners&rsquo; ability to \"hear\" carbon levels increasing is a result of that distortion. Choice B is incorrect because \"by comparison\" illogically signals that the information in this clause is being compared to the information about the audio distorting as carbon levels rise. Instead, the listeners&rsquo; ability to \"hear\" carbon levels increasing is a result of that distortion. Choice C is incorrect because \"for instance\" illogically signals that the information in this clause is an example of how the audio distorts as carbon levels rise. Instead, the audio was distorted for the express purpose of representing ecological data; the listeners&rsquo; ability to \"hear\" carbon levels increasing is a direct, intended result of the distortion, not merely an example of it.</p>",
+  "externalid": "0bb1ffab-6a9a-4161-9e7c-65334c8df9ba",
+  "correct_answer": [
+    "D"
+  ]
+}

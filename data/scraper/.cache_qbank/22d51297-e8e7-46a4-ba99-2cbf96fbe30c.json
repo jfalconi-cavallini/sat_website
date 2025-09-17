@@ -1,0 +1,38 @@
+{
+  "vaultid": "8263d7fb-2f8b-4aed-ad45-f9ce16af3fe4",
+  "keys": [
+    "45fd0321-3db9-4535-be78-4493284d4bc2"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of Johny Isla and the whalelike geoglyph. The text indicates that the German exhibit about the Nazca Lines included a photograph showing a whalelike geoglyph that Isla hadn&rsquo;t known about before attending the exhibit, even though Isla &ldquo;specializes in&rdquo; Nazca Lines geoglyphs. Given his expertise, and his surprise at being unfamiliar with the whale glyph, the text strongly suggests that Isla believed he would have noticed the glyph if he had been to its location. Thus, the text implies that the whalelike geoglyph is likely in a location Isla had not previously been to.&nbsp; &nbsp;</p><p>Choice A is incorrect because the text doesn&rsquo;t address either the species of whale that the geoglyph is meant to represent or its relationship to the earliest humans in the area that is now Peru. Choice B is incorrect. Although the text indicates that the photograph of the whalelike geoglyph was on display at a &ldquo;German exhibit,&rdquo; that exhibit was specifically &ldquo;about the Nazca Lines,&rdquo; which the text indicates are located in Peru. Choice D is incorrect. Although the text does indicate that the glyphs were created &ldquo;over a period of many centuries,&rdquo; the text doesn&rsquo;t address when in that period of time any particular glyphs were created. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "22d51297-e8e7-46a4-ba99-2cbf96fbe30c",
+  "stimulus": "<p>Geoglyphs are large-scale designs of lines or shapes created in a natural landscape. The Nazca Lines were created in the Nazca Desert in Peru by several Indigenous civilizations over a period of many centuries. Peruvian archaeologist Johny Isla specializes in these geoglyphs. At a German exhibit about the Nazca Lines, he saw an old photograph of a large geoglyph of a whalelike figure and was surprised that he didn&rsquo;t recognize it. Isla returned to Peru and used a drone to search a wide area, looking for the figure from the air. This approach suggests that Isla thought that if he hadn&rsquo;t already seen it, the whalelike geoglyph <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "f5ce17e5-b0e1-4788-9c14-906e7cf55b76",
+  "parenttemplatename": "OSP-056-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "22240c49-7300-4845-ae2d-b6c5797cb862",
+      "content": "<p>must represent a species of whale that went extinct before there were any people in Peru.</p>"
+    },
+    {
+      "id": "e4285e87-7f67-4476-9d2b-5d39c486ec03",
+      "content": "<p>is actually located in Germany, not Peru, and isn&rsquo;t part of the Nazca Lines at all.</p>"
+    },
+    {
+      "id": "45fd0321-3db9-4535-be78-4493284d4bc2",
+      "content": "<p>is probably in a location Isla hadn&rsquo;t ever come across while on the ground.</p>"
+    },
+    {
+      "id": "d4b27691-f53b-45d8-80d3-d7f873d920ba",
+      "content": "<p>was almost certainly created a long time after the other Nazca Lines geoglyphs were created.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

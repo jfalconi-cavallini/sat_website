@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>Narwhals are shy whales that live in the remote Arctic Ocean. Some of them have a long tusk, like a unicorn horn, with sensitive nerves. Narwhals are known for this tusk, but many actually don&rsquo;t have one and its purpose is unknown. One group of scientists came up with a possible purpose in 2014. The scientists suggested that the tusk may help narwhals determine when water around them is likely to start freezing and become dangerous for them. Marine biologist Kristin Laidre disagrees with that idea, though. She reasons that if the narwhal&rsquo;s tusk serves such an important purpose, then it&rsquo;s most likely that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "8f596b19-ac0e-46f0-a777-53ec02076f5c"
+  ],
+  "answerOptions": [
+    {
+      "id": "255b3f71-61f2-4a05-97c3-73978bbf814b",
+      "content": "<p>some narwhals would seek a new habitat.</p>"
+    },
+    {
+      "id": "2fbca311-7d5a-407c-9933-48f86840d26d",
+      "content": "<p>fewer marine animals would also have tusks.</p>"
+    },
+    {
+      "id": "8f596b19-ac0e-46f0-a777-53ec02076f5c",
+      "content": "<p>more narwhals would have a tusk.</p>"
+    },
+    {
+      "id": "9f8096fe-b32a-416b-8d26-c62bf9a67145",
+      "content": "<p>narwhals would become less shy over time.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of Kristin Laidre&rsquo;s reasoning about the purpose of the tusk that many, but not all, narwhals have. The text explains that one group of scientists thinks the tusk may help narwhals detect the threat of freezing water and that Laidre disagrees with that idea, given the importance of avoiding a dangerous situation. It&rsquo;s logical to suggest that if the tusk serves such an important purpose for narwhals, the trait would be more common among them&mdash;specifically, that more narwhals would have a tusk.</p><p>Choice A is incorrect because there&rsquo;s no reason to think Laidre would say that if the tusk has the important function of helping narwhals detect when the water around them is about to freeze (meaning that it isn&rsquo;t always freezing), some narwhals would choose a different habitat altogether. Indeed, if it&rsquo;s true that the tusk helps narwhals avoid areas with dangerous conditions when they occur in their Arctic Ocean habitat, the tusk would likely enable the narwhals to continue living in that habitat rather than drive them elsewhere entirely. Choice B is incorrect because the text focuses only on narwhals and makes no mention of other marine animals or how having a tusk might affect them. And if anything, it would be more logical to expect a very important trait to be more widespread, not less common, among other similar types of animals. Choice D is incorrect. Although the text describes narwhals as shy, it doesn&rsquo;t indicate that the scientists&rsquo; conclusion has anything to do with shyness. And because shyness and detection of the threat of freezing water aren&rsquo;t logically connected, there&rsquo;s no reason to think that Laidre would expect narwhals to become less shy over time if the tusk serves that important purpose.</p>",
+  "externalid": "d2c959ac-1575-4de1-a4d2-179fd8f117e6",
+  "correct_answer": [
+    "C"
+  ]
+}

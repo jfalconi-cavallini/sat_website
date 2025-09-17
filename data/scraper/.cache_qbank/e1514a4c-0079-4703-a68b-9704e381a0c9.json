@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Chondrites are stony meteorites that are undifferentiated&mdash;that is, their contents have not melted and separated into distinct layers. They are hardly <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> many chondrites experience aqueous alteration as a result of exposure to fluids, as well as fracturing, veining, and localized melting due to collisions with other objects. &nbsp;</p>",
+  "keys": [
+    "14217a86-f300-4d37-b883-f9236375805e"
+  ],
+  "answerOptions": [
+    {
+      "id": "4b1fa5be-e74b-4ead-b0fe-4163869b1986",
+      "content": "<p>pristine<span data-ssml-say-as=\"characters\">,</span> though</p>"
+    },
+    {
+      "id": "14217a86-f300-4d37-b883-f9236375805e",
+      "content": "<p>pristine<span data-ssml-say-as=\"characters\">,</span> though<span data-ssml-say-as=\"characters\">;</span></p>"
+    },
+    {
+      "id": "2e86eb82-dfc2-43ca-91fa-bd705430955d",
+      "content": "<p>pristine<span data-ssml-say-as=\"characters\">;</span> though&nbsp;</p>"
+    },
+    {
+      "id": "372816fe-c77e-4d6d-ab03-019b2313a87c",
+      "content": "<p>pristine<span data-ssml-say-as=\"characters\">,</span> though<span data-ssml-say-as=\"characters\">,</span></p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the use of punctuation within a sentence. This choice correctly uses a comma to separate the supplementary adverb \"though\" from the preceding main clause (\"They are hardly pristine\") and uses a semicolon to join the two main clauses (\"They&hellip;though\" and \"many&hellip;objects\"). Further, placing the semicolon after \"though\" indicates that the information in the preceding main clause (chondrites are far from pristine) is contrary to what might be assumed from the information in the previous sentence (chondrites have been generally unaltered by their environment).</p><p>Choice A is incorrect because placing the comma after \"pristine\" and using \"though\" as a subordinating conjunction illogically indicates that the information in the next main clause (many chondrites have experienced damage) is contrary to the information in the previous clause (chondrites are far from pristine). Choice C is incorrect because placing the semicolon after \"pristine\" illogically indicates that the information in the next main clause (many chondrites have experienced damage) is contrary to the information in the previous clause (chondrites are far from pristine). Choice D is incorrect because it results in a comma splice. Without a conjunction following it, the comma after \"though\" can&rsquo;t be used in this way to join two main clauses.</p>",
+  "externalid": "e1514a4c-0079-4703-a68b-9704e381a0c9",
+  "correct_answer": [
+    "B"
+  ]
+}

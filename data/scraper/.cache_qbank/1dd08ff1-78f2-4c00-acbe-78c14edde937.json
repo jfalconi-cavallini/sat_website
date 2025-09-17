@@ -1,0 +1,31 @@
+{
+  "stem": "<p>As used in the text, what does the word &ldquo;specific&rdquo; most nearly mean?</p>",
+  "stimulus": "<p>The following text is from Mark Oshiro&rsquo;s 2018 novel <em>Anger Is a Gift</em>. In the novel, Moss and his friends are on a subway train in Northern California.&nbsp;</p>\n<blockquote>\n<p>Lights from the outside world then filled the train car as it rose out of the ground and climbed the elevated track. As long as Moss had lived in West Oakland, he&rsquo;d never tired of this&nbsp;<span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">specific</span> view, so he pointed toward the windows. &ldquo;Check it,&rdquo; he said, and the Port of Oakland began to pass by them.&nbsp;</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;2018 by Mark Oshiro</span></p>",
+  "type": "mcq",
+  "keys": [
+    "01c329e3-1b30-4c55-9a5f-1fd7c5a28b15"
+  ],
+  "answerOptions": [
+    {
+      "id": "4882a698-ea31-4cd4-8b8a-9d59d5cfea5e",
+      "content": "<p>Imaginary</p>"
+    },
+    {
+      "id": "5fbd665f-d216-42ab-8585-6a59e264ed44",
+      "content": "<p>Energetic</p>"
+    },
+    {
+      "id": "6bd920f1-0beb-4174-8560-17c438a61677",
+      "content": "<p>Correct</p>"
+    },
+    {
+      "id": "01c329e3-1b30-4c55-9a5f-1fd7c5a28b15",
+      "content": "<p>Particular</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because as used in the text, \"specific\" most nearly means particular. The text is referring to the particular view of the Port of Oakland as seen from a subway train as it rises from underground. This specific, or particular, view has always been special to Moss, a lifetime resident of West Oakland.</p><p>Choice A is incorrect. Although the text itself is a work of fiction, the view is something Moss can point out to his companions on the train, so the view itself is presumably not imaginary. Choice B is incorrect. Although this view of the Port of Oakland is significant to Moss, nothing in the text describes the view as particularly energetic as opposed to calming, for example. Choice C is incorrect. The point of the text is that the view of the Port of Oakland from the subway train as it rises from underground is significant to Moss, not whether it is described as being correct, which the text does not address.</p>",
+  "externalid": "1dd08ff1-78f2-4c00-acbe-78c14edde937",
+  "correct_answer": [
+    "D"
+  ]
+}

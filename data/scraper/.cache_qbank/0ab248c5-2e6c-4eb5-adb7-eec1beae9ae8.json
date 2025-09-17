@@ -1,0 +1,31 @@
+{
+  "stem": "<p>It can most reasonably be inferred from the text that the finding about the microorganism community composition was important for which reason?</p>",
+  "stimulus": "<p>To understand how temperature change affects microorganism-mediated cycling of soil nutrients in alpine ecosystems, Eva Ka&scaron;tovsk&aacute; et al. collected plant-soil cores in the Tatra Mountains at elevations around 2,100 meters and transplanted them to elevations of 1,700&ndash;1,800 meters, where the mean air temperature was warmer by 2&deg;C. Microorganism-mediated nutrient cycling was accelerated in the transplanted cores; crucially, microorganism community composition was unchanged, allowing Ka&scaron;tovsk&aacute; et al. to attribute the acceleration to temperature-induced increases in microorganism activity.&nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "ce2261a1-effc-42d9-a274-d0850cb134f8"
+  ],
+  "answerOptions": [
+    {
+      "id": "7a401410-ca60-4cba-bb9f-ae47333af05c",
+      "content": "<p>It provided preliminary evidence that microorganism-mediated nutrient cycling was accelerated in the transplanted cores.&nbsp;</p>"
+    },
+    {
+      "id": "9191be28-eca6-4a62-928f-aafb462b2e00",
+      "content": "<p>It suggested that temperature-induced changes in microorganism activity may be occurring at increasingly high elevations.&nbsp;</p>"
+    },
+    {
+      "id": "ce2261a1-effc-42d9-a274-d0850cb134f8",
+      "content": "<p>It ruled out a potential alternative explanation for the acceleration in microorganism-mediated nutrient cycling.&nbsp;</p>"
+    },
+    {
+      "id": "d2a4c38f-3302-454a-974d-f23f3c248798",
+      "content": "<p>It clarified that microorganism activity levels in the plant-soil cores varied depending on which microorganisms comprised the community.&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it accurately describes why the finding about the microorganism community composition was important. The text describes an experiment by Eva Ka&scaron;tovsk&aacute; and her team in which they collected plant-soil cores at one elevation and transplanted them to sites at a lower elevation, where the mean air temperature was warmer. Ka&scaron;tovsk&aacute; and her team observed that microorganism-mediated nutrient cycling was accelerated in the transplanted cores and that \"crucially, microorganism community composition was unchanged,\" which allowed the team to attribute the acceleration to changes in microorganism activity brought about by the difference in temperature. This strongly implies that the team wouldn&rsquo;t have been able to make that attribution otherwise, meaning that a change in microorganism composition represented another possible explanation for the acceleration that had to be ruled out.</p><p>Choice A is incorrect. Although the text says microorganism-mediated cycling of soil nutrients increased in the transplanted cores, this is unrelated to what&rsquo;s important about the finding that the microorganism composition didn&rsquo;t change&mdash;that it allowed the team to attribute the change in activity solely to the change in temperature. Choice B is incorrect. Although the text compares activity in one core at two different elevations, the text doesn&rsquo;t address changes in activity at various elevations over time. Choice D is incorrect. Although different microorganisms likely exhibit different levels of activity, the text indicates that there was no change in microorganism composition, and there is nothing in the text about different microorganisms having different activity levels.</p>",
+  "externalid": "0ab248c5-2e6c-4eb5-adb7-eec1beae9ae8",
+  "correct_answer": [
+    "C"
+  ]
+}

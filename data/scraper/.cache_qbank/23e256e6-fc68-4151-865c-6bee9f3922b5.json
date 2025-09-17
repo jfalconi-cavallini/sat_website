@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>In retrospect, one of the lessons of the 2003 Human Genome Project is that a gene is affected by many factors, not the least of which is its interactions with the protein products of other genes. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> rather than just focusing on the human genome, efforts to better understand gene mutations related to disease have begun to consider the human proteome, the complete set of proteins expressed by human genes.</p>",
+  "type": "mcq",
+  "keys": [
+    "f50295e6-c781-48b2-a39a-f3cd1a10283a"
+  ],
+  "answerOptions": [
+    {
+      "id": "1cf8cc65-ddad-4d81-948c-ce250d3b4f4b",
+      "content": "<p>In other words,</p>"
+    },
+    {
+      "id": "954c8d4c-d525-447c-ae47-5a5ea43eefc1",
+      "content": "<p>That said,</p>"
+    },
+    {
+      "id": "23fc0256-08e3-4c00-9229-2675f82a0638",
+      "content": "<p>For example,</p>"
+    },
+    {
+      "id": "f50295e6-c781-48b2-a39a-f3cd1a10283a",
+      "content": "<p>Accordingly,</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. \"Accordingly\" logically signals that this sentence states a result or consequence of the previous information about the 2003 Human Genome Project. Taking into account an important lesson of the 2003 project (that a gene is affected by interactions with the protein products of other genes), research has begun to consider the human proteome instead of just the genome.</p><p>Choice A is incorrect because \"in other words\" illogically signals that the information in this sentence is a paraphrase or restatement of the previous information about the 2003 Human Genome Project. Instead, this sentence states a result or consequence of that information. Choice B is incorrect because \"that said\" illogically signals that the information in this sentence qualifies or contrasts with the previous information about the 2003 Human Genome Project. Instead, this sentence states a result or consequence of that information. Choice C is incorrect because \"for example\" illogically signals that this sentence provides an example supporting the previous information about the 2003 Human Genome Project. Instead, this sentence states a result or consequence of that information.</p>",
+  "externalid": "23e256e6-fc68-4151-865c-6bee9f3922b5",
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "stimulus": "<p>Many literary theorists distinguish between <em>fabula</em>, a narrative&rsquo;s content, and <em>syuzhet</em>, a narrative&rsquo;s arrangement and presentation of events. In the film <em>The Godfather Part II</em>, the <em>fabula </em>is the story of the Corleone family, and the <em>syuzhet </em>is the presentation of the story as it alternates between two timelines in 1901 and 1958. But literary theorist Mikhail Bakhtin maintained that <em>fabula </em>and <em>syuzhet </em>are insufficient to completely describe a narrative&mdash;he held that systematic categorizations of artistic phenomena discount the subtle way in which meaning is created by interactions between the artist, the work, and the audience.</p>",
+  "type": "mcq",
+  "keys": [
+    "939b7c52-2208-4eb5-99c2-0bafe31083e4"
+  ],
+  "answerOptions": [
+    {
+      "id": "939b7c52-2208-4eb5-99c2-0bafe31083e4",
+      "content": "<p>Literary theorist Mikhail Bakhtin argued that there are important characteristics of narratives that are not fully encompassed by two concepts that other theorists have used to analyze narratives.</p>"
+    },
+    {
+      "id": "dcdd3ac8-7e11-4be5-9ddb-29a9645a2a07",
+      "content": "<p>Literary theorist Mikhail Bakhtin claimed that meaning is not inherent in a narrative but is created when an audience encounters a narrative so that narratives are interpreted differently by different people.</p>"
+    },
+    {
+      "id": "c77069f8-b035-45d3-a3f3-748de097d286",
+      "content": "<p>The storytelling methods used in <em>The Godfather Part II</em> may seem unusually complicated, but they can be easily understood when two concepts from literary theory are utilized.</p>"
+    },
+    {
+      "id": "1b57af45-118f-4e06-a5b2-9856b6dff2e6",
+      "content": "<p>Narratives that are told out of chronological order are more difficult for audiences to understand than are narratives presented chronologically.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately states the main idea of the text. The text begins by explaining that many literary theorists rely on the concepts of <em>fabula</em> (a narrative&rsquo;s content) and <em>syuzhet</em> (a narrative&rsquo;s arrangement and presentation of events) and illustrates these concepts by explaining how they can be applied to the film <em>The Godfather Part II</em>. The text then discusses how Mikhail Bakhtin, a literary theorist, argued that <em>fabula</em> and <em>syuzhet</em> can&rsquo;t fully describe a narrative, since systematic categorizations such as these fail to account for all the ways in which interactions between the artist, the work, and the audience produce meaning. Thus, the main idea is that Bakhtin argued that there are important characteristics of narratives that are not fully encompassed by two concepts that other theorists have used to analyze narratives.</p><p>Choice B is incorrect because according to the text, Mikhail Bakhtin believed that meaning was created through the interactions of the artist, narrative, and audience, not simply through the interaction between the audience and narrative; moreover, the text doesn&rsquo;t address whether Bakhtin focused on the ways in which different people interpret narratives differently. Choice C is incorrect. Although the text implies that the storytelling methods used in <em>The Godfather Part II</em> are complicated, it discusses the film only to illustrate how the concepts of <em>fabula</em> and <em>syuzhet</em> may be applied to a narrative. The film&rsquo;s storytelling methods aren&rsquo;t the primary focus of the text. Choice D is incorrect. The text discusses <em>The Godfather Part II</em>, whose narrative doesn&rsquo;t adhere to a single chronological order, only to illustrate the concepts of <em>fabula </em>(a narrative&rsquo;s content) and <em>syuzhet</em> (a narrative&rsquo;s arrangement and presentation of events). The primary focus of this text isn&rsquo;t the structure of this film or of other narratives that are told out of chronological order; moreover, the text doesn&rsquo;t consider whether such structures make it harder for audiences to understand narratives.</p>",
+  "externalid": "0d14ed05-7101-4b7c-9ad8-f817a8ee4705",
+  "correct_answer": [
+    "A"
+  ]
+}

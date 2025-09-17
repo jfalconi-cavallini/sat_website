@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Woven from recycled yarn and hand tufted using a carpet weaving technique passed down by the artist&rsquo;s Turkish grandmother, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> so lush and tactilely inviting that you are tempted to reach out and touch them.</p>",
+  "type": "mcq",
+  "keys": [
+    "71296cf5-42d7-48d7-a645-fea960aa1ac5"
+  ],
+  "answerOptions": [
+    {
+      "id": "71296cf5-42d7-48d7-a645-fea960aa1ac5",
+      "content": "<p>the topological tapestries of Argentine textile artist Alexandra Kehayoglou are</p>"
+    },
+    {
+      "id": "6ec63424-b338-41a7-8304-0e644f23dc8e",
+      "content": "<p>the Argentine textile artist Alexandra Kehayoglou creates topological tapestries that are</p>"
+    },
+    {
+      "id": "41898ea5-5e47-41f9-a50f-5d82250c2227",
+      "content": "<p>when she creates her topological tapestries, Argentine textile artist Alexandra Kehayoglou makes them</p>"
+    },
+    {
+      "id": "571954d6-7d82-48eb-bf15-eec22c2e1208",
+      "content": "<p>Alexandra Kehayoglou is an Argentine textile artist whose topological tapestries are</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is subject-modifier placement. This choice makes the noun phrase \"topological tapestries\" the subject of the sentence and places it immediately after the modifying phrase \"woven&hellip;grandmother.\" In doing so, this choice clearly establishes that the topological tapestries&mdash;and not another noun in the sentence&mdash;are being described as woven from recycled yarn and hand tufted.</p><p>Choice B is incorrect because it results in a dangling modifier. The placement of the noun phrase \"Argentine textile artist Alexandra Kehayoglou\" immediately after the modifying phrase illogically suggests that Kehayoglou is woven from recycled yarn and hand tufted. Choice C is incorrect because it results in a dangling modifier. The placement of the pronoun \"she\" and the noun phrase \"Argentine textile artist Alexandra Kehayoglou\" after the modifying phrase illogically suggests that Kehayoglou is woven from recycled yarn and hand tufted. Choice D is incorrect because it results in a dangling modifier. The placement of the noun \"Alexandra Kehayoglou\" immediately after the modifying phrase illogically suggests that Kehayoglou is woven from recycled yarn and hand tufted.</p>",
+  "externalid": "9ab447b4-2056-48f4-8c73-e99de88bddef",
+  "correct_answer": [
+    "A"
+  ]
+}

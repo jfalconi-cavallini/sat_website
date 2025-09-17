@@ -1,0 +1,38 @@
+{
+  "vaultid": "0109c6bd-2a12-4d9d-829c-a18bf38b7b3c",
+  "keys": [
+    "c7118b73-a4c6-4a3c-8d04-86304fb9f3ca"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically and precisely completes the text&rsquo;s discussion of Jeyifous&rsquo;s series of images for the 2020 exhibition. In this context, &ldquo;created&rdquo; means produced. The text explains that Jeyifous, a photographer and neurobiologist, photographed adults who had appeared as children in posters from the 1970s, then combined those photographs with magnified images of the adults&rsquo; cells&mdash;a process that resulted in what he called &ldquo;micro and macro portraiture.&rdquo; This context suggests that Jeyifous drew on his dual interests in photography and neurobiology to produce the images for display in the exhibition. </p><p>Choice A is incorrect because there&rsquo;s nothing in the text to suggest that Jeyifous &ldquo;validated,&rdquo; or corroborated, the series of images. The text describes Jeyifous&rsquo;s process for composing the images but&nbsp;doesn&rsquo;t describe Jeyifous making an effort to evaluate the images for their artistic or scientific legitimacy. Choice C is incorrect because there&rsquo;s nothing in the text to suggest that Jeyifous &ldquo;challenged,&rdquo; or disputed, an aspect of the images; rather, the focus of the text is on the inspiration behind the images and the method Jeyifous used to achieve them. Choice D is incorrect because the text indicates that Jeyifous made the images himself using a combination of photography and magnified pictures of cells, not that he &ldquo;restored,&rdquo; or reconditioned, the images from a deteriorated state. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "81858a15-8a22-46d2-a60d-5e7fffdeda11",
+  "stimulus": "<p>For a 2020 exhibition, photographer and neurobiologist Okunola Jeyifous <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> a series of new images based on a series of alphabet posters from the 1970s known as the &ldquo;Black ABCs,&rdquo; which featured Black children from Chicago. Jeyifous photographed the now-adult models and layered the photos over magnified images of the models&rsquo; cells, resulting in what he called &ldquo;micro and macro portraiture.&rdquo;</p>",
+  "templateclusterid": "028005c6-8f20-4051-b40a-705b0f5b18a3",
+  "parenttemplatename": "OSP-902-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "ae5955bd-22d5-4653-9d03-b10d04f2b460",
+      "content": "<p>validated</p>"
+    },
+    {
+      "id": "c7118b73-a4c6-4a3c-8d04-86304fb9f3ca",
+      "content": "<p><strong> </strong>created</p>"
+    },
+    {
+      "id": "6a1da608-1b02-4b79-b8af-7a036339bfc5",
+      "content": "<p>challenged</p>"
+    },
+    {
+      "id": "fbbfe9ef-a4d9-4763-95a6-dfa577ed84aa",
+      "content": "<p>restored</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

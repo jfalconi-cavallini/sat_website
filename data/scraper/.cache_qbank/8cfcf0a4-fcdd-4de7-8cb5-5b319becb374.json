@@ -1,0 +1,38 @@
+{
+  "vaultid": "903ce1d0-b6ae-4f69-8a9f-d388b7406d91",
+  "keys": [
+    "e44cfa39-053e-4655-a61e-69339ccfb8b4"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of Zelda Fitzgerald&rsquo;s contributions to literature. The text begins by saying that many scholars view Zelda mainly in terms of her marriage to F. Scott Fitzgerald and &ldquo;don&rsquo;t recognize Zelda as a writer in her own right.&rdquo; The text then mentions a novel and &ldquo;numerous short stories&rdquo; that she wrote and that such scholars tend to ignore. Therefore, those scholars who focus on Zelda only as an inspiration for F. Scott&rsquo;s writings risk misrepresenting the full range of Zelda&rsquo;s contributions to literature. </p><p>Choice A is incorrect. Although the text does mention that Zelda Fitzgerald &ldquo;likely influenced&rdquo; her husband&rsquo;s literary work, its focus is on Zelda&rsquo;s own writing, not on her husband&rsquo;s writing or factors that might have influenced it. Choice C is incorrect because the text does not discuss F. Scott and Zelda Fitzgerald&rsquo;s opinions of each other&rsquo;s works. Choice D is incorrect. Although the text does suggest that F. Scott Fitzgerald&rsquo;s works were &ldquo;likely influenced in part&rdquo; by his marriage to Zelda, it does not discuss autobiographical interpretations of the works of either F. Scott or Zelda. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "8cfcf0a4-fcdd-4de7-8cb5-5b319becb374",
+  "stimulus": "<p>Scholars have noted that F. Scott Fitzgerald&rsquo;s writings were likely influenced in part by his marriage to Zelda Fitzgerald, but many don&rsquo;t recognize Zelda as a writer in her own right. Indeed, Zelda authored several works herself, such as the novel <em>Save Me the Waltz</em> and numerous short stories. Thus, those who primarily view Zelda as an inspiration for F. Scott&rsquo;s writings <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "df8fb9fc-e4e3-4fca-b5ba-045271103b7e",
+  "parenttemplatename": "OSP-038-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "8a228aeb-5a82-4cd0-8e53-0d80323a1bc6",
+      "content": "<p>overlook the many other factors that motivated F. Scott to write.</p>"
+    },
+    {
+      "id": "e44cfa39-053e-4655-a61e-69339ccfb8b4",
+      "content": "<p>risk misrepresenting the full range of Zelda&rsquo;s contributions to literature.</p>"
+    },
+    {
+      "id": "a72261cf-6b92-4b1a-a6fc-d12a38bc6655",
+      "content": "<p>may draw inaccurate conclusions about how F. Scott and Zelda viewed each other&rsquo;s works.</p>"
+    },
+    {
+      "id": "ce8b6877-1e7b-4ee5-bfbb-314b75490ced",
+      "content": "<p>tend to read the works of F. Scott and Zelda in an overly autobiographical light.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "b930bcda-e90e-4dda-844e-c3658973fbc3",
+  "keys": [
+    "27ea6c37-75c8-4fba-9642-a7fa24337b70"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is pronoun-antecedent agreement. The plural reflexive pronoun &ldquo;themselves&rdquo; agrees in number with the plural antecedent &ldquo;turtle barnacles,&rdquo; correctly indicating what is attached to a sea turtle shell.&nbsp;&nbsp;</p><p>Choice A is incorrect because the singular pronoun &ldquo;it&rdquo; doesn&rsquo;t agree in number with the plural antecedent &ldquo;turtle barnacles.&rdquo; Choice C is incorrect because it results in an unclear and confusing sentence. In this context, it&rsquo;s unclear what the plural pronoun &ldquo;them&rdquo; refers to. Choice D is incorrect because the singular reflexive pronoun &ldquo;itself&rdquo; doesn&rsquo;t agree in number with the plural antecedent &ldquo;turtle barnacles.&rdquo; </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "cfcb1e78-476f-40a1-8f13-5193567c4c5c",
+  "stimulus": "<p>Scientists believe that, unlike most other species of barnacle, turtle barnacles (<em>Chelonibia testudinari</em>) can dissolve the cement-like secretions they use to attach <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> to a sea turtle shell, enabling the barnacles to move short distances across the shell&rsquo;s surface.</p>",
+  "templateclusterid": "33fd8903-b02a-40a8-aa42-b3840862137a",
+  "parenttemplatename": "OSP-695-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "326422dd-fd3f-4bed-be32-612023c03035",
+      "content": "<p>it</p>"
+    },
+    {
+      "id": "27ea6c37-75c8-4fba-9642-a7fa24337b70",
+      "content": "<p>themselves</p>"
+    },
+    {
+      "id": "60f52975-e20b-484c-a789-0dafa292ea57",
+      "content": "<p>&nbsp;them</p>"
+    },
+    {
+      "id": "846c84e0-4aea-43da-946d-d4fd8e6ddfd8",
+      "content": "<p>itself</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "b766cff8-38bd-45b7-8689-f6199a55234c",
+  "keys": [
+    "a321b192-1be0-496f-98df-3ac5ec5b5de5"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period after &ldquo;Bay&rdquo; is used correctly to mark the boundary between one sentence (&ldquo;On&hellip;Bay&rdquo;) and another sentence that begins with a supplementary phrase (&ldquo;Having&hellip;years&rdquo;). Here, the supplementary phrase beginning with &ldquo;having&rdquo; modifies the subject of the second sentence, &ldquo;the celebrated ship.&rdquo; </p><p>Choice A is incorrect. Without a comma preceding it, the conjunction &ldquo;and&rdquo; can&rsquo;t be used in this way to join sentences. Choice C is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to join two sentences. Choice D is incorrect because it results in a run-on sentence. The sentences (&ldquo;On&hellip;Bay&rdquo; and &ldquo;having&hellip;years&rdquo;) are fused without punctuation and/or a conjunction. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "d608f1d2-cacf-4645-8c8c-d4f77b5cbdeb",
+  "stimulus": "<p>On July 23, 1854, a clipper ship called the <em>Flying Cloud</em> entered San Francisco <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> left New York Harbor under the guidance of Captain Josiah Perkins Creesy and his wife, navigator Eleanor Creesy, a mere 89 days and 8 hours earlier, the celebrated ship set a record that would stand for 135 years.</p>",
+  "templateclusterid": "f76e1953-9f05-4322-92c8-ce7c4983ac61",
+  "parenttemplatename": "OSP-678-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "fe0c93f8-c3c6-4088-96ff-2d188ec60f2d",
+      "content": "<p>Bay and having</p>"
+    },
+    {
+      "id": "a321b192-1be0-496f-98df-3ac5ec5b5de5",
+      "content": "<p>Bay. Having</p>"
+    },
+    {
+      "id": "c077a801-a047-42c5-80ec-dd148ab851dd",
+      "content": "<p>Bay, having</p>"
+    },
+    {
+      "id": "54291aba-c45c-458e-8c33-1e829daa31d2",
+      "content": "<p>Bay having</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

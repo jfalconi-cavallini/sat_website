@@ -1,0 +1,38 @@
+{
+  "vaultid": "5bc9dc2d-835e-435f-9d75-bd6d87846473",
+  "keys": [
+    "ebd9ebdf-4444-422b-b8bd-b7a229456c86"
+  ],
+  "rationale": "<p>Choice D is the best answer because it accurately describes how the underlined sentence functions in the text as a whole. The text establishes that John has a strong imagination and then goes on to describe the St. John River near John&rsquo;s home in the Florida woods. The underlined sentence depicts John sending twigs sailing down the river while he imagines them reaching &ldquo;Jacksonville, the sea, the wide world,&rdquo; where he wishes he could follow. This suggests that John longs to expand his life experiences beyond the Florida woods. </p><p>Choice A is incorrect because the second and third sentences of the text provide an extended description of the riverbank where John likes to go, whereas the underlined sentence describes what John does at that location. Choice B is incorrect because the first sentence of the text suggests that John&rsquo;s behavior &ldquo;was puzzling&rdquo; to others around him, whereas the underlined sentence concerns the content of John&rsquo;s imaginings. Choice C is incorrect because the underlined sentence elaborates on John&rsquo;s imagination but doesn&rsquo;t mention any other children to whom John could be compared. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes the function of the underlined sentence in the text as a whole?</p>",
+  "externalid": "1e70c390-74ee-4d74-94fa-daff0424d92b",
+  "stimulus": "<p>The following text is adapted from Zora Neale Hurston&rsquo;s 1921 short story &ldquo;John Redding Goes to Sea.&rdquo; John is a child who lives in a town in the woods.</p>\n<p style=\"padding-left:1em;\">Perhaps ten-year-old John was puzzling to the folk there in the Florida woods for he was an imaginative child and fond of day-dreams. The St. John River flowed a scarce three hundred feet from his back door. On its banks at this point grow numerous palms, luxuriant magnolias and bay trees. On the bosom of the stream float millions of delicately colored hyacinths. <span role=\"region\" aria-label=\"Referenced Content\"><u>[John Redding] loved to wander down to the water&rsquo;s edge, and, casting in dry twigs, watch them sail away down stream to Jacksonville, the sea, the wide world and [he] wanted to follow them.</u></span></p>",
+  "templateclusterid": "f5e343e5-526e-462a-9c08-b323e13ffeca",
+  "parenttemplatename": "OSP-014-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "b06b26c4-06c9-4163-b0ff-a98e1a36468f",
+      "content": "<p>It provides an extended description of a location that John likes to visit.</p>"
+    },
+    {
+      "id": "dcd6ce90-b375-4f23-91ed-4cb834a213b6",
+      "content": "<p>It reveals that some residents of John&rsquo;s town are confused by his behavior.</p>"
+    },
+    {
+      "id": "e0a43ac1-4276-453d-ae57-10378030459e",
+      "content": "<p>It illustrates the uniqueness of John&rsquo;s imagination compared to the imaginations of other children.</p>"
+    },
+    {
+      "id": "ebd9ebdf-4444-422b-b8bd-b7a229456c86",
+      "content": "<p>It suggests that John longs to experience a larger life outside the Florida woods.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

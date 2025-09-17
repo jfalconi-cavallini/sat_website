@@ -1,0 +1,38 @@
+{
+  "vaultid": "239c173c-e8ad-46db-aaad-0de562cb106d",
+  "keys": [
+    "2da7a0f9-ba3d-4a3c-a311-f732f0d1f5fd"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice uses a semicolon in a conventional way to join the first main clause (&ldquo;It is&hellip;ones&rdquo;) and the second main clause &nbsp;(&ldquo;even so&hellip;needs&rdquo;). Furthermore, the placement of the semicolon after &ldquo;ones&rdquo; indicates that the supplementary phrase &ldquo;even so&rdquo; modifies the following clause (&ldquo;the reawakening...needs&rdquo;), resulting in the most logical and grammatically complete sentence. With this punctuation, the sentence logically indicates that the recent interest in an old technology like steam engines is despite the fact that technological change typically seeks out new technologies. </p><p>Choice A is incorrect because it results in a confusing and illogical sentence. Placing the semicolon after &ldquo;so&rdquo; indicates that the supplementary element &ldquo;even so&rdquo; modifies the first clause of the sentence, which doesn&rsquo;t make sense in this context. Choice B is incorrect because it results in a run-on sentence. It fails to mark the boundary between the two main clauses with appropriate punctuation. Choice D is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join the two main clauses of the sentence. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "e04cdf67-05e6-4aa1-9e20-580977e98de5",
+  "stimulus": "<p>It is generally true that technological change is a linear process, in which once-useful technologies are replaced by new and better <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the reawakening of interest in the steam engine (from advocates of carbon-neutral rail travel) reminds us that ostensibly obsolete technologies may be brought back into service to address society&rsquo;s changing needs.</p>",
+  "templateclusterid": "7659bfe6-9ea0-4376-bbd5-4f738b4abd78",
+  "parenttemplatename": "OSP-792-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "36996291-81b3-4af1-a190-37f93d86488f",
+      "content": "<p>ones, even so;&nbsp;</p>"
+    },
+    {
+      "id": "b61db921-0d81-49c1-b2f9-e5c950cfd402",
+      "content": "<p>ones even so,&nbsp;</p>"
+    },
+    {
+      "id": "2da7a0f9-ba3d-4a3c-a311-f732f0d1f5fd",
+      "content": "<p>ones; even so,&nbsp;</p>"
+    },
+    {
+      "id": "14100b4c-84fc-4058-ac27-37c0a64db5d5",
+      "content": "<p>ones, even so,&nbsp;</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

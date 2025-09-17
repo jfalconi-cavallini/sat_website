@@ -1,0 +1,38 @@
+{
+  "vaultid": "041af717-c0cd-4e96-a357-c28d3fdd100f",
+  "keys": [
+    "3e502a42-074a-4b99-991e-3c262af0abc9"
+  ],
+  "rationale": "<p>Choice D is the best answer because it logically completes the text&rsquo;s discussion about genes related to hibernation. In this context, &ldquo;dormant&rdquo; means inactive. The text explains that the same genes that enable certain nonhuman mammal species to hibernate during the winter by altering their bodily processes are also found in our species but have &ldquo;essentially no effect&rdquo; on humans&rsquo; bodily processes. In other words, these genes don&rsquo;t function in humans. </p><p>Choice A is incorrect because in this context, &ldquo;decisive&rdquo; means has the power to affect the outcome of something, but the text states that genes related to hibernation are instead inactive in humans&mdash;that is, the genes don&rsquo;t affect humans&rsquo; bodily processes, although they are present in their bodies.&nbsp;Choice B is incorrect because in this context, &ldquo;lacking&rdquo; means missing, but the text states that the genes are present in humans, though inactive. Choice C is incorrect because &ldquo;variable&rdquo; means characterized by the potential to change, but the text indicates that these genes don&rsquo;t change in their effect on humans&rsquo; bodily processes; instead, the genes are consistently inactive in humans. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "24e1b704-452c-4aee-9a4a-ed63134e1c83",
+  "stimulus": "<p>Some researchers believe that the genes that enable groundhogs and certain other mammals to hibernate through the winter by slowing their breathing and heart rates and lowering their body temperature may be <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in humans: present yet having essentially no effect on our bodily processes.</p>",
+  "templateclusterid": "7ae8fb2e-9cc3-4490-abe5-cede714645d4",
+  "parenttemplatename": "OSP-915-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "473ea2a8-8f1a-4f71-aa26-ef7cb3e829e7",
+      "content": "<p>decisive</p>"
+    },
+    {
+      "id": "a33842ed-6270-45c8-b5cf-b4c1f7debbcd",
+      "content": "<p>lacking</p>"
+    },
+    {
+      "id": "733896ef-24ea-4936-a348-8011e9a383c9",
+      "content": "<p>variable</p>"
+    },
+    {
+      "id": "3e502a42-074a-4b99-991e-3c262af0abc9",
+      "content": "<p>dormant</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

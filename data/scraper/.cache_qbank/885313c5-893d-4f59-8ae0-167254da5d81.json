@@ -1,0 +1,38 @@
+{
+  "vaultid": "74eb6661-73c8-4386-bdbd-34efe647c5d6",
+  "keys": [
+    "12424b5f-aac7-402e-a0b6-c374ccfa1730"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the punctuation of a supplementary element within a sentence. The comma after &ldquo;that&rdquo; pairs with the comma after &ldquo;roles&rdquo; to separate the supplementary element &ldquo;among their many roles&rdquo; from the rest of the sentence. This supplementary element functions to clarify that polyphenols have many roles, and the pair of commas indicates that this element could be removed without affecting the grammatical coherence of the sentence. </p><p>Choice A is incorrect because a dash can&rsquo;t be paired with a comma to separate the supplementary element from the rest of the sentence.&nbsp;Choice B is incorrect because a semicolon can&rsquo;t be paired with a comma to separate the supplementary element from the rest of the sentence.&nbsp;Choice D is incorrect because a colon can&rsquo;t be paired with a comma to separate the supplementary element from the rest of the sentence. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "885313c5-893d-4f59-8ae0-167254da5d81",
+  "stimulus": "<p>Polyphenols are organic compounds <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> among their many roles, provide pigment that helps protect plants against ultraviolet radiation from sunlight.</p>",
+  "templateclusterid": "e948ed4d-23e5-4ee2-a83f-701dee762b06",
+  "parenttemplatename": "OSP-784-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "c2a2b27a-54de-4478-958d-2c8adca843e1",
+      "content": "<p>that&mdash;</p>"
+    },
+    {
+      "id": "74521f0e-445c-47ab-82fa-eadcece0a167",
+      "content": "<p>that;</p>"
+    },
+    {
+      "id": "12424b5f-aac7-402e-a0b6-c374ccfa1730",
+      "content": "<p>that,</p>"
+    },
+    {
+      "id": "770a042f-80ee-4d2c-aa14-ac116243359d",
+      "content": "<p>that:</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

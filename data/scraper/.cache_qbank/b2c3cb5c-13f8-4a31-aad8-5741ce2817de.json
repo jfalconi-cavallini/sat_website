@@ -1,0 +1,38 @@
+{
+  "vaultid": "f18fd97d-9688-4acd-8e0e-4a6a7ddfb053",
+  "keys": [
+    "dee83dbd-f5b6-4c01-9bc2-1e2c89b5fa6b"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the punctuation of a supplementary element within a sentence. The comma after &ldquo;(13C)&rdquo; pairs with the comma after &ldquo;isotope&rdquo; to separate the supplementary element &ldquo;carbon-13 (13C)&rdquo; from the rest of the sentence. This supplementary element defines the &ldquo;rare carbon isotope,&rdquo; and the pair of commas indicates that this element could be removed without affecting the grammatical coherence of the sentence. </p><p>Choice A is incorrect because it fails to use appropriate punctuation to separate the supplementary element &ldquo;carbon-13 (13C)&rdquo; from the rest of the sentence.&nbsp;Choice B is incorrect because it fails to use appropriate punctuation to separate the supplementary element &ldquo;carbon-13 (13C)&rdquo; from the rest of the sentence. Choice C is incorrect because it fails to use appropriate punctuation to separate the supplementary element &ldquo;carbon-13 (13C)&rdquo; from the rest of the sentence. The comma after &ldquo;carbon-13&rdquo; isn&rsquo;t necessary because the parentheses around &ldquo;13C&rdquo; already separate this element from the rest of the sentence. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "b2c3cb5c-13f8-4a31-aad8-5741ce2817de",
+  "stimulus": "<p>A study led by scientist Rebecca Kirby at the University of Wisconsin&ndash;Madison found that black bears that eat human food before hibernation have increased levels of a rare carbon isotope, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> due to the higher <sup>13</sup>C levels in corn and cane sugar. Bears with these elevated levels were also found to have much shorter hibernation periods on average.</p>",
+  "templateclusterid": "8e2bb8f9-bb66-4d39-aa22-bfcb3f6e0d38",
+  "parenttemplatename": "OSP-611-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "49b6beda-0754-4147-979c-36447fef1d81",
+      "content": "<p>carbon-13, (<sup>13</sup>C)</p>"
+    },
+    {
+      "id": "21b7de31-e262-49ba-9613-457c84d6c1e2",
+      "content": "<p>carbon-13 (<sup>13</sup>C)</p>"
+    },
+    {
+      "id": "504ceafe-ab34-4fca-9bfb-0e609fd4d0fd",
+      "content": "<p>carbon-13, (<sup>13</sup>C),</p>"
+    },
+    {
+      "id": "dee83dbd-f5b6-4c01-9bc2-1e2c89b5fa6b",
+      "content": "<p>carbon-13 (<sup>13</sup>C),</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

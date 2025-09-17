@@ -1,0 +1,38 @@
+{
+  "vaultid": "9ef0cb7c-f450-4e9d-8075-3cbe46105ed1",
+  "keys": [
+    "0888a3f9-369c-454f-8875-54c30c0c9835"
+  ],
+  "rationale": "<p>Choice C is the best answer. The sentence emphasizes the aim, or goal, of the research study, noting what Terada set out to do: determine whether some of the Moon&rsquo;s oxygen was coming from Earth. </p><p>Choice A is incorrect. The sentence focuses on how the Kaguya satellite collected data; it doesn&rsquo;t emphasize the aim of the research study. Choice B is incorrect. While the sentence mentions what Terada was curious about before conducting the research study, it doesn&rsquo;t emphasize his study&rsquo;s aim. Choice D is incorrect. The sentence presents the research study&rsquo;s conclusion; it doesn&rsquo;t emphasize the study&rsquo;s aim. </p>",
+  "origin": "proteus",
+  "stem": "<p>The student wants to emphasize the aim of the research study. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "externalid": "1659cb41-9b8d-42c6-83cb-67b755124e92",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Most, but not all, of the Moon&rsquo;s oxygen comes from the Sun, via solar wind.</li>\n<li>Cosmochemist Kentaro Terada from Osaka University wondered if some of the unaccounted-for oxygen could be coming from Earth.</li>\n<li>In 2008, he analyzed data from the Japanese satellite Kaguya.</li>\n<li>Kaguya gathered data about gases and particles it encountered while orbiting the Moon.</li>\n<li>Based on the Kaguya data, Terada confirmed his suspicion that Earth is sending oxygen to the Moon.</li>\n</ul>",
+  "templateclusterid": "023b893a-1153-4dc5-9c9a-f56e7d8bd3e9",
+  "parenttemplatename": "OSP-741-SYN",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "9fe7d6e6-de6b-4cdf-b9e4-04205ace7f29",
+      "content": "<p>As it orbited the Moon, the Kaguya satellite collected data that was later analyzed by cosmochemist Kentaro Terada.</p>"
+    },
+    {
+      "id": "11155b3e-044c-41f1-aba8-a11ac8843ba7",
+      "content": "<p>Before 2008, Kentaro Terada wondered if the Moon was receiving some of its oxygen from Earth.</p>"
+    },
+    {
+      "id": "0888a3f9-369c-454f-8875-54c30c0c9835",
+      "content": "<p>Cosmochemist Kentaro Terada set out to determine whether some of the Moon&rsquo;s oxygen was coming from Earth.</p>"
+    },
+    {
+      "id": "c46a0cb4-e715-422c-95b4-f1ead3eb3bfa",
+      "content": "<p>Kentaro Terada&rsquo;s study determined that Earth is sending a small amount of oxygen to the Moon.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

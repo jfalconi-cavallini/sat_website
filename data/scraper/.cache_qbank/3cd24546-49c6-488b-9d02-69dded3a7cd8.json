@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Kelp forests grow underwater along the eastern Pacific Coast. These underwater forests are important to fish and other marine animals. Ocean currents can be powerful and rough, making it difficult for animals to find safe places to hide from predators. The underwater forests slow down the currents. This creates a more <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> environment with calmer waters where animals can take shelter.</p>",
+  "keys": [
+    "34daf10f-0938-4fe9-89e2-d3ede74783de"
+  ],
+  "answerOptions": [
+    {
+      "id": "34daf10f-0938-4fe9-89e2-d3ede74783de",
+      "content": "<p>tranquil</p>"
+    },
+    {
+      "id": "2977e795-0313-4da6-b7e3-80ff4fbc79db",
+      "content": "<p>dangerous</p>"
+    },
+    {
+      "id": "f679ceed-7968-4a45-9a0a-864c1cb742b8",
+      "content": "<p>imaginative</p>"
+    },
+    {
+      "id": "ac451bd3-cfc4-4c14-b919-51e1da3b7ffb",
+      "content": "<p>surprising</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of how kelp forests help marine animals. In this context, \"tranquil\" means free from disturbance, or calm. The text indicates that ocean currents are powerful and make it difficult for marine animals to hide from predators and that kelp forests slow currents down to create calmer areas. In other words, kelp forests create a more tranquil environment.</p><p>Choice B is incorrect because the text indicates that kelp forests provide shelter for marine animals, meaning they create environments that are safer, not more \"dangerous.\" Choice C is incorrect because the text discusses how kelp forests affect currents in the ocean, and it isn&rsquo;t clear how an ocean environment could be \"imaginative,\" or full of imagination. Choice D is incorrect because the text indicates that kelp forests create a calm and safe environment, and an environment that is \"surprising\" would be characterized by unexpected occurrences, not calmness.</p>",
+  "externalid": "3cd24546-49c6-488b-9d02-69dded3a7cd8",
+  "correct_answer": [
+    "A"
+  ]
+}

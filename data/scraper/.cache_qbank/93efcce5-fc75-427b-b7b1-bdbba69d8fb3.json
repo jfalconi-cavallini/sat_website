@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which finding, if true, would most directly support the researchers&rsquo; hypothesis?</p>",
+  "stimulus": "<p>&ldquo;Ad recall&rdquo; measures how memorable an advertising campaign is. To provide advertisers with information about their ads&rsquo; memorability, a social media site regularly surveys users about whether they remember ads they had recently interacted with on the site. In a study that drew on this survey data, advertising researcher Kristen Sussman and colleagues noted that different kinds of social media interactions involve different levels of cognitive engagement: commenting on or sharing a post is more cognitively demanding than is clicking on embedded links or on a &ldquo;like&rdquo; button. The researchers hypothesized that interactions indicating high levels of cognitive engagement with ad content would result in relatively high levels of ad recall.</p>",
+  "keys": [
+    "96643832-5f1f-47e5-9d28-994bcc622585"
+  ],
+  "answerOptions": [
+    {
+      "id": "7b9bd8d7-4964-490d-a69c-20ee7ec5b644",
+      "content": "<p>Users who interacted with an ad were much more likely to do so by clicking on the ad&rsquo;s &ldquo;like&rdquo; button than they were to interact with the ad in any other way.&nbsp;</p>"
+    },
+    {
+      "id": "909154f1-34dc-4fdc-92e7-ddd41327c7e2",
+      "content": "<p>Users who interacted with an ad were significantly more likely to purchase the advertised product at the time they saw the ad than were users who saw the ad but did not interact with it.</p>"
+    },
+    {
+      "id": "96643832-5f1f-47e5-9d28-994bcc622585",
+      "content": "<p>Compared with users who clicked on links in an ad, users who commented on that same ad were significantly more likely to remember seeing the ad when surveyed two days later.</p>"
+    },
+    {
+      "id": "2598e9a8-a9e1-47e1-a723-4353f5f84920",
+      "content": "<p>Although users who shared an ad were highly likely to remember details from the ad when surveyed two days later, those same users tended to forget those details when surveyed again a week later.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it details a finding that, if true, would most directly support the researchers&rsquo; hypothesis about ad recall. According to the text, the researchers found that commenting on an ad that appears as a social media post is more cognitively demanding for users than simply clicking on embedded links in such an ad. The researchers then hypothesized that a high level of cognitive engagement with ad content would result in a high level of ad recall, or memory of ad content. This hypothesis would be supported by the finding that users who had commented on an ad were more likely to recall its content when surveyed two days later than users who had simply clicked on links in the same ad.</p><p>Choice A is incorrect. Although the text compares one form of social media user interaction with ads&mdash;clicking on the ad&rsquo;s \"like\" button&mdash;with other forms of interaction&mdash;commenting on the ad and sharing it through social media&mdash;it does so in order to determine which form of interaction is associated with a higher level of ad recall. The text doesn&rsquo;t note whether users were more likely to click on the \"like\" button than they were to interact with the ad in other ways. Choice B is incorrect because the text doesn&rsquo;t indicate that the study attempted to track whether social media users purchased the advertised product or to determine which form of interaction with ad content was more strongly associated with making a purchase. Choice D is incorrect. Finding that social media users who shared an ad forgot the content one week later would weaken, not support, the researchers&rsquo; hypothesis that cognitive engagement is associated with a high level of recall.</p>",
+  "externalid": "93efcce5-fc75-427b-b7b1-bdbba69d8fb3",
+  "correct_answer": [
+    "C"
+  ]
+}

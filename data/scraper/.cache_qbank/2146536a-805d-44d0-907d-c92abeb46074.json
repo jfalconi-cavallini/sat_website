@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>What makes the theremin a unique musical instrument? You play it without touching it. When you place your <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the pitch will shift as your hands move through the air.</p>",
+  "keys": [
+    "6ba6a568-c218-4824-8a87-769a4874beda"
+  ],
+  "answerOptions": [
+    {
+      "id": "dc3060af-d2ce-45b3-b70f-042f411743d4",
+      "content": "<p>hand&rsquo;s between the two antenna&rsquo;s,</p>"
+    },
+    {
+      "id": "6ba6a568-c218-4824-8a87-769a4874beda",
+      "content": "<p>hands between the two antennas,</p>"
+    },
+    {
+      "id": "1a7c3bf3-1582-46be-a3ba-9c7639d2f342",
+      "content": "<p>hands&rsquo; between the two antennas&rsquo;,</p>"
+    },
+    {
+      "id": "5cc06b5c-999a-4ffa-a852-10c9ed905330",
+      "content": "<p>hands&rsquo; between the two antennas,</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the use of plural nouns in a sentence. The plural noun \"hands\" and the plural noun \"antennas\" correctly indicate that two hands are placed between two antennas when playing the theremin.</p><p>Choice A is incorrect because the context requires the plural nouns \"hands\" and \"antennas,\" not the singular possessive nouns \"hand&rsquo;s\" and \"antenna&rsquo;s.\" Choice C is incorrect because the context requires the plural nouns \"hands\" and \"antennas,\" not the plural possessive nouns \"hands&rsquo;\" and \"antennas&rsquo;.\" Choice D is incorrect because the context requires the plural noun \"hands,\" not the plural possessive noun \"hands&rsquo;.\"</p>",
+  "externalid": "2146536a-805d-44d0-907d-c92abeb46074",
+  "correct_answer": [
+    "B"
+  ]
+}

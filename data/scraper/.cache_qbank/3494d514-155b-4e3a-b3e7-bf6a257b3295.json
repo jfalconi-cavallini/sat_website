@@ -1,0 +1,38 @@
+{
+  "vaultid": "5dcd8938-e246-4f0c-8e66-4e2eb9f5d3d5",
+  "keys": [
+    "c5a1dcb7-ea44-40f2-b513-849461315a84"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is punctuation between a supplementary element and a main clause. This choice correctly uses a comma to mark the boundary between the supplementary phrase (&ldquo;While...1947&rdquo;), which indicates when the action occurred, and the main clause (&ldquo;Howe had a handheld camera operator wear roller skates&rdquo;). </p><p>Choice A is incorrect because a comma paired with the conjunction &ldquo;and&rdquo; can&rsquo;t be used in this way to mark the boundary between the supplementary element (&ldquo;While&hellip;1947&rdquo;) and the main clause (&ldquo;Howe&hellip;skates&rdquo;). Choice C is incorrect because the conjunction &ldquo;and&rdquo; can&rsquo;t be used in this way to join the supplementary element (&ldquo;While&hellip;1947&rdquo;) and the main clause (&ldquo;Howe&hellip;skates&rdquo;). Choice D is incorrect because it fails to mark the boundary between the supplementary element and the main clause with appropriate punctuation. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "3494d514-155b-4e3a-b3e7-bf6a257b3295",
+  "stimulus": "<p>Award-winning cinematographer James Wong Howe was known for his innovative filming techniques. While filming a boxing match for the movie <em>Body and Soul</em> <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Howe had a handheld camera operator wear roller skates. This allowed the operator to move smoothly around actors in a boxing ring, creating an immersive experience for viewers.</p>",
+  "templateclusterid": "e76a013a-4613-463b-beea-cf1657131d68",
+  "parenttemplatename": "OSP-778-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "88d277fc-7d36-4e85-90a5-e8535c208ec8",
+      "content": "<p>(1947), and</p>"
+    },
+    {
+      "id": "c5a1dcb7-ea44-40f2-b513-849461315a84",
+      "content": "<p>(1947),</p>"
+    },
+    {
+      "id": "bbb3a92d-a4a5-47cb-951d-d32efe73e18f",
+      "content": "<p>(1947) and</p>"
+    },
+    {
+      "id": "2a2cb1e7-cf09-407b-8779-b3ef793bb963",
+      "content": "<p>(1947)</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Observing that a fire in a closed container soon went out, leading eighteenth-century scientists did not conclude that fresh air (specifically, oxygen) is necessary for combustion; instead, many theorized that the container&rsquo;s air had become saturated with a substance called phlogiston. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> when Joseph Priestley first isolated oxygen gas in 1774, he termed it &ldquo;dephlogisticated air.&rdquo;</p>",
+  "type": "mcq",
+  "keys": [
+    "e4b35d08-8b80-44e0-aae2-6ae80437bcfe"
+  ],
+  "answerOptions": [
+    {
+      "id": "4a477a67-2e57-4da8-941a-d34ddd23b0ae",
+      "content": "<p>In other words,</p>"
+    },
+    {
+      "id": "e4b35d08-8b80-44e0-aae2-6ae80437bcfe",
+      "content": "<p>For this reason,</p>"
+    },
+    {
+      "id": "3d41807a-be54-40ec-8f31-1ebbdad005e3",
+      "content": "<p>Alternatively,</p>"
+    },
+    {
+      "id": "9e62ff6a-deaa-4927-89f9-27f6443016dc",
+      "content": "<p>Nevertheless,</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. \"For this reason\" logically signals that the reason Joseph Priestley termed oxygen \"dephlogisticated air\" was that he accepted the theory mentioned in the previous sentence&mdash;that the presence of phlogiston, rather than the absence of oxygen, causes fire in a closed container to go out.</p><p>Choice A is incorrect because \"in other words\" illogically signals that the information about Priestley terming oxygen \"dephlogisticated air\" is a restatement of the previous theory concerning phlogiston. Instead, Priestley chose the term as a result of this theory. Choice C is incorrect because \"alternatively\" illogically signals that Priestley termed oxygen \"dephlogisticated air\" as an alternative to the previous theory concerning phlogiston. Instead, Priestley chose the term as a result of this theory. Choice D is incorrect because \"nevertheless\" illogically signals that Priestley termed oxygen \"dephlogisticated air\" despite the previous theory concerning phlogiston. Instead, Priestley chose the term as a result of this theory.</p>",
+  "externalid": "02f24d0d-074b-4881-9e60-75dd4957af39",
+  "correct_answer": [
+    "B"
+  ]
+}

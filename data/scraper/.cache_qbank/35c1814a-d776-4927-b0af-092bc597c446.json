@@ -1,0 +1,38 @@
+{
+  "vaultid": "7de72ad6-d079-4723-ab7a-479c95d751a7",
+  "keys": [
+    "34244eaa-17b2-4dfc-bc34-4862f8e21676"
+  ],
+  "rationale": "<p>Choice D is the best answer. The sentence emphasizes the role a misconception played in the naming of a place, explaining that Spanish explorers mistook a peninsula for an island and, as a result, named the peninsula after a fictional island, California. </p><p>Choice A is incorrect. The sentence mentions a novel that featured a fictional island, California; it doesn&rsquo;t emphasize the role a misconception played in the naming of a place. Choice B is incorrect. The sentence notes that Baja California was originally named after a fictional place; it doesn&rsquo;t emphasize the role a misconception&mdash;specifically, the Spanish explorers&rsquo; mistaken belief that the peninsula was an island&mdash;played in the naming of a place. Choice C is incorrect. The sentence indicates when Spanish explorers learned of the peninsula they called California; it doesn&rsquo;t emphasize the role a misconception played in the naming of a place. </p>",
+  "origin": "proteus",
+  "stem": "<p>The student wants to emphasize the role a misconception played in the naming of a place. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "externalid": "35c1814a-d776-4927-b0af-092bc597c446",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li><em>Las sergas de Esplandi&aacute;n</em> was a novel popular in sixteenth-century Spain.</li>\n<li>The novel featured a fictional island inhabited solely by Black women and known as California.</li>\n<li>That same century, Spanish explorers learned of an &ldquo;island&rdquo; off the west coast of Mexico.</li>\n<li>They called it California after the island in the novel.</li>\n<li>The &ldquo;island&rdquo; was actually the peninsula now known as Baja California (&ldquo;Lower California&rdquo;), which lies to the south of the US state of California.</li>\n</ul>",
+  "templateclusterid": "81c4c5d4-7454-4f09-a3c2-5bd097825786",
+  "parenttemplatename": "OSP-786-SYN",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "9b395dcd-5391-4844-8bd3-d65658ce32de",
+      "content": "<p>The novel <em>Las sergas de Esplandi&aacute;n </em>featured a fictional island known as California.</p>"
+    },
+    {
+      "id": "5de66df7-a971-46db-8981-f0f6af5ff668",
+      "content": "<p>To the south of the US state of California lies Baja California (&ldquo;Lower California&rdquo;), originally called California after a fictional place.&nbsp;</p>"
+    },
+    {
+      "id": "bdfa5f93-3a77-41d4-8fc9-fc720ce702be",
+      "content": "<p>In the sixteenth century, Spanish explorers learned of a peninsula off the west coast of Mexico and called it California.&nbsp;</p>"
+    },
+    {
+      "id": "34244eaa-17b2-4dfc-bc34-4862f8e21676",
+      "content": "<p>Thinking it was an island, Spanish explorers called a peninsula California after an island in a popular novel.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

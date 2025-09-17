@@ -1,0 +1,38 @@
+{
+  "vaultid": "8a227a09-a7d8-437d-bc9c-22bfa6ce4166",
+  "keys": [
+    "c9d3b1f1-3b39-4c96-8668-a91ccd9299e5"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of plural and possessive nouns. The singular possessive noun &ldquo;playa&rsquo;s&rdquo; and the plural possessive noun &ldquo;rocks&rsquo;&rdquo; correctly indicate that the sediment is that of one playa (the Racetrack Playa) and that there are multiple rocks that have mysteriously migrated across the sediment. </p><p>Choice A is incorrect because the context requires the singular possessive noun &ldquo;playa&rsquo;s&rdquo; and the plural possessive noun &ldquo;rocks&rsquo;,&rdquo; not the plural noun &ldquo;playas&rdquo; and the singular possessive noun &ldquo;rock&rsquo;s.&rdquo; Choice B is incorrect because the context requires the plural possessive noun &ldquo;rocks&rsquo;,&rdquo; not the plural noun &ldquo;rocks.&rdquo; Choice D is incorrect because the context requires the singular possessive noun &ldquo;playa&rsquo;s,&rdquo; not the plural possessive noun &ldquo;playas&rsquo;.&rdquo;&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "cf594266-c5ac-414f-abb6-d1d804b6019c",
+  "stimulus": "<p>In Death Valley National Park&rsquo;s Racetrack Playa, a flat, dry lakebed, are 162 rocks&mdash;some weighing less than a pound but others almost 700 pounds&mdash;that move periodically from place to place, seemingly of their own volition. Racetrack-like trails in the <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> mysterious migration.</p>",
+  "templateclusterid": "2aa82922-6981-4a42-b8e6-69556e047046",
+  "parenttemplatename": "OSP-684-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "bca7d935-30bd-496c-bc94-034f0ee81d2f",
+      "content": "<p>playas sediment mark the rock&rsquo;s</p>"
+    },
+    {
+      "id": "598ef929-a44a-450b-bd25-403762759a9f",
+      "content": "<p>playa&rsquo;s sediment mark the rocks</p>"
+    },
+    {
+      "id": "c9d3b1f1-3b39-4c96-8668-a91ccd9299e5",
+      "content": "<p>playa&rsquo;s sediment mark the rocks&rsquo;</p>"
+    },
+    {
+      "id": "36b3f6e1-cd4d-44ef-a46b-beb7a8a41fbf",
+      "content": "<p>playas&rsquo; sediment mark the rocks&rsquo;&nbsp;</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

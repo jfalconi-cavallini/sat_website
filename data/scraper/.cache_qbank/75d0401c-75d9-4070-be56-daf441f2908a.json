@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Based on the texts, how would the author of Text 2 most likely respond to what &ldquo;some researchers contend&rdquo; as described in Text 1?</p>",
+  "stimulus": "<p><span class=\"paired_passage\" role=\"heading\" aria-level=\"2\"><strong>Text 1</strong></span></p>\n<p>Little is known about how plate tectonics&mdash;wherein slabs of Earth&rsquo;s crust move over, under, away from, and against one another&mdash;began. <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">Some researchers contend</span> that tectonic movements began around 3 billion years ago, often noting that computer models of Earth&rsquo;s mantle temperature at the time indicate that the mantle would have been sufficiently molten to enable the plates to move.</p>\n<p>&nbsp;</p>\n<p><span class=\"paired_passage\" role=\"heading\" aria-level=\"2\"><strong>Text 2</strong></span></p>\n<p>Ultimately, any plausible claim about the inception of tectonic movement must rest on empirical evidence from the geological record. Researcher Wriju Chowdhury and his team analyzed the geochemistry of zircon crystals to gain insight into the chemical composition of the magma from which the crystals formed and, based on the data, compellingly argue that plate tectonics may have been occurring as early as 4.2 billion years ago.</p>",
+  "keys": [
+    "cf64fc36-831a-42eb-a70c-f25a58af6ae4"
+  ],
+  "answerOptions": [
+    {
+      "id": "368bbf12-3876-486c-a831-89650d86f302",
+      "content": "<p>By suggesting that the temperature of Earth&rsquo;s mantle 3 billion years ago was likely insufficient to allow for the level of tectonic movement predicted by computer models</p>"
+    },
+    {
+      "id": "c60e5c6e-9b40-4ea2-9eee-82be9753f271",
+      "content": "<p>By distinguishing between computer models of Earth&rsquo;s mantle temperature that reliably predict the onset of plate tectonics and those that do not</p>"
+    },
+    {
+      "id": "a14e3807-1d3c-47bf-908c-86f496ba2777",
+      "content": "<p>By indicating that computer models of Earth&rsquo;s mantle temperature are still being improved such that new models tend to be much more reliable than their predecessors</p>"
+    },
+    {
+      "id": "cf64fc36-831a-42eb-a70c-f25a58af6ae4",
+      "content": "<p>By asserting that a more definitive form of evidence than the computer models suggests a different timeline for the onset of plate tectonics on Earth</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it reflects how the author of Text 2 would most likely respond to what the researchers mentioned in Text 1 contend. Text 1 discusses the lack of knowledge of how plate tectonics on Earth began. Text 1 also mentions researchers who contend that movements of tectonic plates began around 3 billion years ago. As support for this assertion, these researchers cite computer models (which are simulations, not empirical evidence) of the temperature in Earth&rsquo;s mantle that show that at that time, the mantle would have been sufficiently molten for plates to move. However, the author of Text 2 asserts that empirical evidence from the geological record is necessary to make plausible claims about when tectonic movement began. Text 2 mentions an analysis performed by Wriju Chowdhury and his team of the geochemistry of zircon crystals (which would constitute empirical evidence). Chowdhury and his team argue, based on this analysis, that tectonic plates may have begun to move as early as 4.2 billion years ago. Therefore, since the author of Text 2 would consider Chowdhury et al.&rsquo;s empirical evidence to be more conclusive than the computer models cited in Text 1, the author of Text 2 would most likely assert that a more definitive form of evidence than the computer models suggests a different timeline for the onset of plate tectonics on Earth.</p><p>Choice A is incorrect because the author of Text 2 makes no claims about the temperature of Earth&rsquo;s mantle and therefore wouldn&rsquo;t argue that the temperature of Earth&rsquo;s mantle 3 billion years ago was insufficient to allow tectonic movement. Choice B is incorrect because the author of Text 2 claims that empirical evidence is needed to fix the earliest date of tectonic movement. Computer models are simulations, not empirical evidence, so the author of Text 2 wouldn&rsquo;t distinguish between different kinds of computer models but would instead argue that no computer models can reliably predict the onset of plate tectonics. Choice C is incorrect because the author of Text 2 wouldn&rsquo;t consider any computer model to be able to provide evidence to support a plausible claim about tectonic movement, no matter how much such models were improved. The author of Text 2 would only accept empirical evidence.</p>",
+  "externalid": "75d0401c-75d9-4070-be56-daf441f2908a",
+  "correct_answer": [
+    "D"
+  ]
+}

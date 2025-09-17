@@ -1,0 +1,31 @@
+{
+  "stem": "<p>According to the text, how do historians view <span lang=\"es\"><em>pachuca</em></span> style?</p>",
+  "stimulus": "<p>During the World War II era, some Mexican American women adopted a striking new look called <span lang=\"es\"><em>pachuca </em></span>style. They wore altered men&rsquo;s jackets or zoot suits (wide-legged, long-coated suits) and dramatic makeup, and they combed their hair into high, rounded shapes. Some people criticized <span lang=\"es\"><em>pachuca</em></span> style, saying it was dangerous and women should dress traditionally. But historians see things differently. They see <span lang=\"es\"><em>pachuca</em></span> style as a form of rebellion against the era&rsquo;s rigid social expectations for women. They say that it showed a desire for self-expression and freedom on the part of women who adopted the style.</p>",
+  "type": "mcq",
+  "keys": [
+    "7c6459ed-7340-4b9c-a16c-9d40429dc85a"
+  ],
+  "answerOptions": [
+    {
+      "id": "a8641c15-0bab-46f6-9f58-4759cfe349aa",
+      "content": "<p>They think that <span lang=\"es\"><em>pachuca</em></span> style was such a popular trend that it continues to influence fashion in the United States to the present day.&nbsp;</p>"
+    },
+    {
+      "id": "7c6459ed-7340-4b9c-a16c-9d40429dc85a",
+      "content": "<p>They think that <span lang=\"es\"><em>pachuca</em></span> style was a way for some Mexican American women to express themselves and resist strict social expectations.</p>"
+    },
+    {
+      "id": "b07874b0-cb99-4567-9e62-1b84529de644",
+      "content": "<p>They think that <span lang=\"es\"><em>pachuca</em></span> style was celebrated because it enabled some Mexican American women to show their support for the United States during World War II.</p>"
+    },
+    {
+      "id": "992981d8-debf-4758-8e36-63d574245877",
+      "content": "<p>They think that <span lang=\"es\"><em>pachuca</em></span> style was similar to other fashion trends that different groups of women adopted in the same period.&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it presents a statement about how historians view <em>pachuca </em>style that is supported by the text. The text first describes the distinctive <em>pachuca </em>style of dress adopted by some Mexican American women during World War II, saying that some criticized it and asserted that women should dress traditionally. The text then goes on to contrast this position with that of historians, who \"see things differently\": according to these historians, the <em>pachuca </em>style showed a wish for freedom and self-expression, and it acted as a kind of rebellion against what society expected of women at the time. Therefore, according to the text, historians think that the <em>pachuca</em> style was a way for Mexican women to express themselves and resist strict social expectations.</p><p>Choice A is incorrect because the text explicitly describes the <em>pachuca</em> style as a distinctive look adopted during the World War II era. It does not indicate that the <em>pachuca </em>style influences fashion in the United States in the present day. Choice C is incorrect because the text does not indicate that Mexican American women wore the <em>pachuca </em>style to show support for the United States during World War II; rather, the style was a means of self-expression and rebellion against social expectations. Choice D is incorrect because the text does not compare the <em>pachuca </em>style to other fashion trends: the <em>pachuca </em>style is the only style mentioned.</p>",
+  "externalid": "eddf2dbd-c0cb-4ca1-bea8-c6e522b4c743",
+  "correct_answer": [
+    "B"
+  ]
+}

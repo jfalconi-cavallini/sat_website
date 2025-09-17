@@ -1,0 +1,38 @@
+{
+  "vaultid": "ea030d78-8e1b-4d61-ad0a-5211cdb9e5e8",
+  "keys": [
+    "63d7144f-a067-413e-9442-5718b8c2a9fc"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of the <em>Sue&ntilde;o de Familia</em> art exhibition. In this context, &ldquo;spans&rdquo; means extends across or covers. The text states that the exhibition explores Gonz&aacute;lez&rsquo;s artistic heritage and features artwork by her great-grandfather, grandmother, mother, and niece. This context conveys the idea that the exhibition spans, or extends across, five generations of Gonz&aacute;lez&rsquo;s family. </p><p>Choice A is incorrect because it wouldn&rsquo;t make sense to say that the exhibition &ldquo;borrows,&rdquo; or acquires, five generations of Gonz&aacute;lez&rsquo;s family. The text indicates that the exhibition features artwork by family members from five generations, not that the five generations themselves have been acquired for inclusion in the exhibition. Choice C is incorrect because the text indicates that the purpose of the exhibition is to highlight artwork, not to &ldquo;judge,&rdquo; or give an opinion on, five generations of the artist&rsquo;s family. Choice D is incorrect because the text doesn&rsquo;t suggest that the exhibition &ldquo;neglects,&rdquo; or gives little attention to, five generations of Gonz&aacute;lez&rsquo;s family. On the contrary, the text indicates that the exhibition is dedicated to exploring Gonz&aacute;lez&rsquo;s artistic heritage and therefore designed to bring attention to her family members and their artwork. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "7c826b0e-e21f-4bac-b7fe-047b231f7ca1",
+  "stimulus": "<p><em>Sue&ntilde;o de Familia</em> is an exhibition of drawings, paintings, and ceramics that explores the artistic heritage of US-based artist Yolanda Gonz&aacute;lez. The exhibition <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> five generations, featuring works by Gonz&aacute;lez&rsquo;s great-grandfather, grandmother, mother, and niece as well as Gonz&aacute;lez herself.&nbsp;</p>",
+  "templateclusterid": "5250bba8-f594-4b8a-b9a9-915767021517",
+  "parenttemplatename": "OSP-042-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "fe4abdcc-4f7b-4eda-bebd-185a197f3d80",
+      "content": "<p>borrows</p>"
+    },
+    {
+      "id": "63d7144f-a067-413e-9442-5718b8c2a9fc",
+      "content": "<p>spans</p>"
+    },
+    {
+      "id": "fa62374b-7f67-4c7d-93fa-beed4cb62cbd",
+      "content": "<p>judges</p>"
+    },
+    {
+      "id": "af88f7bf-6343-4bcf-b846-0087fc8a5072",
+      "content": "<p>neglects</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which finding, if true, would most directly support the researchers&rsquo; hypothesis?</p>",
+  "stimulus": "<p>In the mountains of Brazil, <em>Barbacenia tomentosa</em> and <em>Barbacenia macrantha</em>&mdash;two plants in the Velloziaceae family&mdash;establish themselves on soilless, nutrient-poor patches of quartzite rock. Plant ecologists Anna Abrah&atilde;o and Patricia de Britto Costa used microscopic analysis to determine that the roots of <em><span data-ssml-sub-alias=\"B\">B.</span> tomentosa </em>and <em><span data-ssml-sub-alias=\"B\">B.</span> macrantha</em>, which grow directly into the quartzite, have<em> </em>clusters of fine hairs near the root tip; further analysis indicated that these hairs secrete both malic and citric acids. The researchers hypothesize that the plants depend on dissolving underlying rock with these acids, as the process not only creates channels for continued growth but also releases phosphates that provide the vital nutrient phosphorus.</p>",
+  "keys": [
+    "5e069b95-ed20-4116-918e-d5630d62219c"
+  ],
+  "answerOptions": [
+    {
+      "id": "2d26bbb8-6cac-4281-88c3-986255ad7a42",
+      "content": "<p>Other species in the Velloziaceae family are found in terrains with more soil but have root structures similar to those of <em><span data-ssml-sub-alias=\"B\">B.</span> tomentosa </em>and <em><span data-ssml-sub-alias=\"B\">B.</span> macrantha</em>.</p>"
+    },
+    {
+      "id": "268a1b40-541f-4f59-9c19-cd3decd10770",
+      "content": "<p>Though <em><span data-ssml-sub-alias=\"B\">B.</span> tomentosa </em>and <em><span data-ssml-sub-alias=\"B\">B.</span> macrantha </em>both secrete citric and malic acids, each species produces the acids in different proportions.</p>"
+    },
+    {
+      "id": "5e069b95-ed20-4116-918e-d5630d62219c",
+      "content": "<p>The roots of <em><span data-ssml-sub-alias=\"B\">B.</span> tomentosa </em>and <em><span data-ssml-sub-alias=\"B\">B.</span> macrantha </em>carve new entry points into rocks even when cracks in the surface are readily available.</p>"
+    },
+    {
+      "id": "d1de3ccd-2382-47a5-823c-d57113358653",
+      "content": "<p><em><span data-ssml-sub-alias=\"B\">B.</span> tomentosa </em>and <em><span data-ssml-sub-alias=\"B\">B.</span> macrantha</em> thrive even when transferred to the surfaces of rocks that do not contain phosphates.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it presents a finding that, if true, would support the researchers&rsquo; hypothesis about the plants&rsquo; dependence on dissolving rock. The text indicates that the roots of the two plant species grow directly into quartzite rock, where hairs on the roots secrete acids that dissolve the rock. The researchers hypothesize that the plants depend on this process because dissolving rock opens spaces for the roots to grow and releases phosphates that provide the plants with phosphorus, a vital nutrient. If the plants carry out this process of dissolving rock even when the rock already has spaces into which the roots could grow, that would support the researchers&rsquo; hypothesis because it suggests that the plants are getting some advantage&mdash;such as access to phosphorus&mdash;from the action of dissolving rock. If the plants don&rsquo;t benefit from dissolving rock, they would be expected to grow in the cracks that already exist, as doing so would mean that the plants don&rsquo;t have to spend energy creating and secreting acids; if, however, the plants create new entry points by dissolving rock even when cracks already exist, that would support the hypothesis that they depend on dissolving rock for some benefit.</p><p>Choice A is incorrect because the existence of soil-inhabiting members of the Velloziaceae family with similar root structures to those of the two species discussed in the text wouldn&rsquo;t support the researchers&rsquo; hypothesis that the species discussed in the text depend on dissolving rock. If other such members exist, that might suggest that the root structures can serve more functions than secreting acids to dissolve rock (since dissolving rock may not be necessary for plants living in soil), but that wouldn&rsquo;t suggest anything about whether the species discussed in the text benefit from dissolving rock. Choice B is incorrect because differences in the proportions of citric and malic acid secreted by the two species would be irrelevant to the hypothesis that the plants depend on dissolving rock. There&rsquo;s no information in the text to suggest that the proportion of each acid has any bearing on the process of dissolving rock or on any benefits the plants might receive from that process. Choice D is incorrect because if the two species thrive on rocks without phosphates, that would weaken the researchers&rsquo; hypothesis that the plants depend on dissolving rock partly because dissolving rock gives them access to phosphates. If the plants can survive on rocks without getting a vital nutrient by dissolving those rocks, then either the nutrient isn&rsquo;t actually vital for those plants or they can get the nutrient in some way other than by dissolving rocks.</p>",
+  "externalid": "c7238400-e5ab-4ee8-a20c-29043d59a1a1",
+  "correct_answer": [
+    "C"
+  ]
+}

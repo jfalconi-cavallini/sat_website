@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Many mechanical calculators were powered by a notched cylinder mechanism called the Leibniz wheel. Leibniz wheel calculators were popular in the first half of the twentieth <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> these ingenious devices were eventually replaced by electronic calculators.</p>",
+  "keys": [
+    "6069554d-fe5c-4c52-82bc-e01fbebd8ec8"
+  ],
+  "answerOptions": [
+    {
+      "id": "9d83df1c-fe01-4a1b-9061-8f1f6fae31dd",
+      "content": "<p>century</p>"
+    },
+    {
+      "id": "652799d2-2a14-4a79-bd4f-41d4205e8c07",
+      "content": "<p>century<span data-ssml-say-as=\"characters\">,</span></p>"
+    },
+    {
+      "id": "6069554d-fe5c-4c52-82bc-e01fbebd8ec8",
+      "content": "<p>century<span data-ssml-say-as=\"characters\">,</span> but</p>"
+    },
+    {
+      "id": "2106033d-7469-4693-ac96-1c1019e3b7bb",
+      "content": "<p>century that</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice correctly uses a comma and a coordinating conjunction (\"but\") to join the first main clause (\"Leibniz...century\") and the second main clause (\"these ingenious...calculators\").</p><p>Choice A is incorrect because it results in a run-on sentence. The two main clauses are fused without punctuation and/or a conjunction. Choice B is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses. Choice D is incorrect because joining the two main clauses in this way with the subordinating conjunction \"that\" results in an ungrammatical and illogical sentence.</p>",
+  "externalid": "9b5de448-a962-4066-9d0a-de9dedcb59dd",
+  "correct_answer": [
+    "C"
+  ]
+}

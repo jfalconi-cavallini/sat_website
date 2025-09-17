@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Disproving the common misconception of Native art as <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>, the painters whose work appears in the collection at the National Museum of the American Indian employ a range of styles. There are artists working in the traditional arts of their specific tribal communities, artists working in European modernist or American abstract expressionist art traditions, and artists blending various traditions into something wholly new.</p>",
+  "type": "mcq",
+  "keys": [
+    "13ea8763-1107-427e-8560-063c8a816e75"
+  ],
+  "answerOptions": [
+    {
+      "id": "72f18e7d-008b-4f2c-84d6-f681dfafbe1c",
+      "content": "<p>uncontroversial</p>"
+    },
+    {
+      "id": "a94c5a22-45a5-43d5-a4aa-4893305b1bcc",
+      "content": "<p>individualistic</p>"
+    },
+    {
+      "id": "e35494fe-664a-4289-801b-fedb3aa82bd3",
+      "content": "<p>theoretical</p>"
+    },
+    {
+      "id": "13ea8763-1107-427e-8560-063c8a816e75",
+      "content": "<p>homogeneous</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the art at the National Museum of the American Indian. In this context, \"homogenous\" means uniform or highly similar. The text explains that the painters whose works are included in this museum&rsquo;s collection employ an array of artistic styles, both Native and non-Native, traditional and new. Given this high degree of stylistic diversity, it is a misconception that Native art is uniform, or homogenous.</p><p>Choice A is incorrect because the text doesn&rsquo;t consider whether Native art is controversial, or causes disagreement or discussion; instead, the text discusses the stylistic diversity of the collection of the National Museum of the American Indian. Choice B is incorrect. Although the text indicates that some of the artists whose work is represented in the collection of the National Museum of the American Indian blend various artistic traditions into highly individual styles of their own, this is not the primary focus of the text. Instead, the text is concerned with how Native art is often mistakenly perceived as uniform, when in fact it is stylistically diverse. Choice C is incorrect because the text never implies that people mistakenly conceive of Native art as theoretical, or concerned with philosophical or abstract issues; instead, the text&rsquo;s discussion of Native art is framed around this art&rsquo;s stylistic diversity versus the misconception of it as homogenous.</p>",
+  "externalid": "150382c0-32c8-4a03-a4e2-e75e01f4d5ce",
+  "correct_answer": [
+    "D"
+  ]
+}

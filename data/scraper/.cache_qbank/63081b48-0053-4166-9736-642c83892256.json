@@ -1,0 +1,38 @@
+{
+  "vaultid": "749d9e40-1886-4b47-aba4-facb4daf55de",
+  "keys": [
+    "5e029929-fa20-4823-b794-fdcd10a13298"
+  ],
+  "rationale": "<p>Choice C is the best answer. &ldquo;Specifically&rdquo; logically signals that this sentence provides specific, precise details elaborating on the previous sentence&rsquo;s claim that de Larios&rsquo;s art reflects a mix of cultures. This sentence specifies which cultures the previous sentence is referring to: the artistic traditions of both Mexico and Japan.&nbsp;</p><p>Choice A is incorrect because &ldquo;in addition&rdquo; illogically signals that the information in this sentence is a separate point that follows the previous claim about de Larios&rsquo;s art. Instead, it provides specific details elaborating on that claim. Choice B is incorrect because &ldquo;in contrast&rdquo; illogically signals that the information in this sentence contrasts with the previous claim about de Larios&rsquo;s art. Instead, it provides specific details elaborating on that claim.&nbsp;Choice D is incorrect because &ldquo;therefore&rdquo; illogically signals that the information in this sentence is a result of the previous claim about de Larios&rsquo;s art. Instead, it provides specific details elaborating on that claim. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "63081b48-0053-4166-9736-642c83892256",
+  "stimulus": "<p>In 2009, the Craft and Folk Art Museum in Los Angeles hosted a special exhibition, <em>Sue&ntilde;os/Yume,</em> showcasing the works of local sculptor Dora de Larios. As suggested by the show&rsquo;s title (<span lang=\"es\"><em>sue&ntilde;os</em></span> and <span lang=\"ja\"><em>yume</em></span> mean &ldquo;dreams&rdquo; in Spanish and Japanese, respectively), de Larios&rsquo;s art reflects a mix of cultural influences<em>.</em> <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> her work is grounded in the artistic traditions of both Mexico and Japan.</p>",
+  "templateclusterid": "718ae951-cdb9-4398-a1d0-225ac572afeb",
+  "parenttemplatename": "OSP-253-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "36f239dd-54f0-452e-9e54-e1c5ae5b2cce",
+      "content": "<p>In addition,</p>"
+    },
+    {
+      "id": "76b1f274-902e-4acc-a789-7033872d718a",
+      "content": "<p>In contrast,</p>"
+    },
+    {
+      "id": "5e029929-fa20-4823-b794-fdcd10a13298",
+      "content": "<p>Specifically,</p>"
+    },
+    {
+      "id": "db7de277-31ce-4e7d-82ad-68fa3a5bca74",
+      "content": "<p>Therefore,</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

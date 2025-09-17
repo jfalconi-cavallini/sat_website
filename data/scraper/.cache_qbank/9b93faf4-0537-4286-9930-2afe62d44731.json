@@ -1,0 +1,31 @@
+{
+  "stem": "<p>As used in the text, what does the word &ldquo;determine&rdquo; most nearly mean?&nbsp;</p>",
+  "stimulus": "<p>The following text is adapted from Charles Chesnutt&rsquo;s 1899 story &ldquo;The Wife of His Youth.&rdquo; Mr. Ryder is hosting a formal gathering where he will propose marriage to the woman he has been courting.</p>\n<blockquote>\n<p>[A] younger and less cautious man would long since have spoken. But he had made up his mind, and had only to <span role=\"region\" aria-label=\"Referenced Content\"><u>determine</u></span> the time when he would ask her to be his wife. He decided to give a ball in her honor, and at some time during the evening of the ball to offer her his heart and hand.</p>\n</blockquote>",
+  "type": "mcq",
+  "keys": [
+    "f4d9a680-dd66-4cf5-940c-a02a35ca03cf"
+  ],
+  "answerOptions": [
+    {
+      "id": "f4d9a680-dd66-4cf5-940c-a02a35ca03cf",
+      "content": "<p>Choose</p>"
+    },
+    {
+      "id": "c9b3225a-1cf5-4750-a35a-3f9064b28a3e",
+      "content": "<p>Influence</p>"
+    },
+    {
+      "id": "80d05a1f-3416-41de-99af-9926810d76b0",
+      "content": "<p>Demonstrate</p>"
+    },
+    {
+      "id": "53fd68f1-1549-4f02-b323-828d48a11010",
+      "content": "<p>Measure</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because as used in the text, \"determine\" most nearly means choose or decide. The text indicates that Mr. Ryder \"had made up his mind\" to ask a woman to marry him but had not yet \"spoken\"&mdash;that is, he had not yet asked her. The text also indicates that Mr. Ryder \"decided\" to throw a party for the woman and ask her during it. This context conveys that after making up his mind to propose, what Mr. Ryder had to do was determine, or choose, the time to do it.</p><p>Choice B is incorrect because in this context, \"determine\" doesn&rsquo;t mean influence, or affect or control. The text isn&rsquo;t indicating that Mr. Ryder is controlling time itself; such a thing isn&rsquo;t possible. Rather, the text conveys that after making up his mind to ask a woman to marry him, Mr. Ryder had to make another decision about his own actions by selecting a time to propose. Choice C is incorrect. The text focuses on Mr. Ryder&rsquo;s plan to ask a woman to marry him and his decision about when to ask her. This context conveys that after making up his mind to propose, Mr. Ryder had to choose the time, not that he had to demonstrate, or show, the time; it&rsquo;s not clear what it would mean to demonstrate a time. Choice D is incorrect because in this context, \"determine\" doesn&rsquo;t mean measure, or control with careful restraint. The text isn&rsquo;t indicating that Mr. Ryder is carefully controlling time itself; such a thing isn&rsquo;t possible. Rather, the text conveys that after making up his mind to ask a woman to marry him, Mr. Ryder had to make another decision about his own actions by selecting a time to propose; it&rsquo;s Mr. Ryder&rsquo;s decision that is measured, not the time he eventually chooses.</p>",
+  "externalid": "9b93faf4-0537-4286-9930-2afe62d44731",
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "3056b358-628e-4a83-bf21-d6af15caa244",
+  "keys": [
+    "6e351da8-0756-4805-972e-14c30b41e99a"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the use of plural and possessive nouns. The plural possessive noun &ldquo;grains&rsquo;&rdquo; and the plural noun &ldquo;properties&rdquo; correctly indicate that the simulations involved multiple snow grains and that those snow grains had several properties. </p><p>Choice A is incorrect because the context requires the plural possessive noun &ldquo;grains&rsquo;&rdquo; and the plural noun &ldquo;properties,&rdquo; not the singular possessive noun &ldquo;grain&rsquo;s&rdquo; and the plural possessive noun &ldquo;properties&rsquo;.&rdquo; Choice C is incorrect because the context requires the plural noun &ldquo;properties,&rdquo; not the singular possessive noun &ldquo;property&rsquo;s.&rdquo; Choice D is incorrect because the context requires the plural possessive noun &ldquo;grains&rsquo;,&rdquo; not the plural noun &ldquo;grains.&rdquo; </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "d8b61b96-0590-43d3-95e7-394b70d0c761",
+  "stimulus": "<p>Cheng Dang and her colleagues at the University of Washington recently ran simulations to determine the extent to which individual snow <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> affect the amount of light reflecting off a snowy surface.</p>",
+  "templateclusterid": "514496a9-a6fe-4b1f-a3a5-8d533ce00f83",
+  "parenttemplatename": "OSP-675-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "e0e887ab-b228-4715-ab73-46ffb2346511",
+      "content": "<p>grain&rsquo;s physical properties&rsquo;</p>"
+    },
+    {
+      "id": "6e351da8-0756-4805-972e-14c30b41e99a",
+      "content": "<p>grains&rsquo; physical properties</p>"
+    },
+    {
+      "id": "5a316c46-9916-4b54-90f6-58e466ae4834",
+      "content": "<p>grains&rsquo; physical property&rsquo;s</p>"
+    },
+    {
+      "id": "cd41484d-c1c4-4667-99e4-6965eabaf5ec",
+      "content": "<p>grains physical properties</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

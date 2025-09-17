@@ -1,0 +1,38 @@
+{
+  "vaultid": "19742e93-d080-4744-9109-324ebe639b66",
+  "keys": [
+    "9a3a13f7-9b82-4fbb-8f34-d00f6b942e09"
+  ],
+  "rationale": "<p>Choice C is the best answer. &ldquo;However&rdquo; logically signals that the information in this sentence&mdash;that Hammurabi is mainly remembered for just a single achievement, the Code of Hammurabi&mdash;is contrary to what might be assumed from the previous information about Hammurabi&rsquo;s many achievements.&nbsp;</p><p>Choice A is incorrect because &ldquo;therefore&rdquo; illogically signals that the information in this sentence is a result of the previous information about Hammurabi&rsquo;s many achievements. Instead, this sentence makes a point that is contrary to what might be assumed from the previous information. Choice B is incorrect because &ldquo;likewise&rdquo; illogically signals that the information in this sentence is similar to the previous information about Hammurabi&rsquo;s many achievements. Instead, this sentence makes a point that is contrary to what might be assumed from the previous information. Choice D is incorrect because &ldquo;for instance&rdquo; illogically signals that this sentence exemplifies the previous information about Hammurabi&rsquo;s many achievements. Instead, this sentence makes a point that is contrary to what might be assumed from the previous information. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "f80e6575-2260-46c2-8732-dbf41d55a025",
+  "stimulus": "<p>The Babylonian king Hammurabi achieved much during his forty-year reign. He conquered all of Mesopotamia and built Babylon into one of the most powerful cities of the ancient world. Today, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> he is mainly remembered for a code of laws inscribed on a seven-foot-tall block of stone: the Code of Hammurabi.</p>",
+  "templateclusterid": "8d83bb7a-595b-4e4f-9adf-e07551043714",
+  "parenttemplatename": "OSP-235-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "a4a2f8d0-8f54-4c08-a867-5074568b0c38",
+      "content": "<p>therefore,</p>"
+    },
+    {
+      "id": "31accf8c-e660-4c43-bef1-6cc771261211",
+      "content": "<p>likewise,</p>"
+    },
+    {
+      "id": "9a3a13f7-9b82-4fbb-8f34-d00f6b942e09",
+      "content": "<p>however,</p>"
+    },
+    {
+      "id": "bcdd09bb-bab2-4983-8c1d-1a753ce4514b",
+      "content": "<p>for instance,</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

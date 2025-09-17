@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>In 1986, conceptual artist Sophie Calle asked twenty-three people, all of whom had been born without sight, to describe &ldquo;their image of beauty&rdquo; in rich detail. Calle paired excerpts of these conversations with photographs&mdash;both of interviewees and the items they <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> to powerful effect in her exhibition <em>The Blind</em>.</p>",
+  "type": "mcq",
+  "keys": [
+    "8f0d337a-66ce-4f8a-bf4b-fc3b53ace3e2"
+  ],
+  "answerOptions": [
+    {
+      "id": "9f21b082-5dee-4596-83d8-5edfb8a17baf",
+      "content": "<p>described, from hair to grass to sculptures</p>"
+    },
+    {
+      "id": "8f0d337a-66ce-4f8a-bf4b-fc3b53ace3e2",
+      "content": "<p>described, from hair to grass to sculptures&mdash;</p>"
+    },
+    {
+      "id": "3db22bab-764c-4822-90e9-10ae2374073d",
+      "content": "<p>described&mdash;from hair to grass to sculptures,</p>"
+    },
+    {
+      "id": "fcf23723-b4e3-442c-99d2-736f1c6e0392",
+      "content": "<p>described: from hair to grass to sculptures</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the punctuation of supplementary elements within a sentence. The comma after \"described\" separates the first supplementary element (\"both of interviewees and the items they described\") from the second supplementary element (\"from hair to grass to sculptures\"). Furthermore, the dash after \"sculptures\" pairs with the dash after \"photographs\" to separate these two supplementary elements from the rest of the sentence. The pair of dashes, which operate at a higher organizing level than the comma, indicates that the elements between the dashes function together&mdash;in this case, the second supplement (\"from&hellip;sculptures\") describes the range of items mentioned in the first supplement&mdash;and could be removed without affecting the grammatical coherence of the sentence.</p><p>Choice A is incorrect because it fails to appropriately punctuate the supplementary elements in the sentence. A dash is needed after \"sculptures\" to separate the supplementary elements (\"both&hellip;sculptures\") from the rest of the sentence. Choice C is incorrect because it fails to appropriately punctuate the supplementary elements in the sentence. The two supplementary elements \"both&hellip;described\" and \"from&hellip;sculptures\" function together to describe the photographs, and placing a dash between them would make this relationship less clear, suggesting that the supplement \"both...described\" is a standalone element that could be removed without affecting the grammatical coherence of the sentence, which isn&rsquo;t the case. Choice D is incorrect because it fails to appropriately punctuate the supplementary elements in the sentence. A colon isn&rsquo;t conventionally used in this way to separate a supplementary element (\"from hair to grass to sculptures\") from the noun phrase it is modifying (\"items they described\"). Additionally, a dash is needed after \"sculptures\" to separate the supplementary elements (\"both&hellip;sculptures\") from the rest of the sentence.</p>",
+  "externalid": "27dcef67-fa3b-4d14-8bc9-703bcc36b1b1",
+  "correct_answer": [
+    "B"
+  ]
+}

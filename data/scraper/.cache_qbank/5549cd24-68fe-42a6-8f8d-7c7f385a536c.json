@@ -1,0 +1,38 @@
+{
+  "vaultid": "b8813dda-87db-4257-9fbb-35e1a980a9fe",
+  "keys": [
+    "70e26f4c-3212-415e-894b-78de1c0ed8f0"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested here is subject-verb agreement. The singular verb &ldquo;was&rdquo; agrees in number with the singular subject &ldquo;Josephine St. Pierre Ruffin.&rdquo; </p><p>Choice B is incorrect because the plural verb &ldquo;were&rdquo; doesn&rsquo;t agree in number with the singular subject &ldquo;Josephine St. Pierre Ruffin.&rdquo; Choice C is incorrect because the plural verb &ldquo;are&rdquo; doesn&rsquo;t agree in number with the singular subject &ldquo;Josephine St. Pierre Ruffin.&rdquo; Choice D is incorrect because the plural verb &ldquo;have been&rdquo; doesn&rsquo;t agree in number with the singular subject &ldquo;Josephine St. Pierre Ruffin.&rdquo; </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "5549cd24-68fe-42a6-8f8d-7c7f385a536c",
+  "stimulus": "<p>The Progressive Era in the United States witnessed the rise of numerous Black women&rsquo;s clubs, local organizations that advocated for racial and gender equality. Among the clubs&rsquo; leaders <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Josephine St. Pierre Ruffin, founder of the Women&rsquo;s Era Club of Boston.</p>",
+  "templateclusterid": "ba8cee5d-0fa3-4d3d-aae5-ddccae24b9fa",
+  "parenttemplatename": "OSP-656-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "70e26f4c-3212-415e-894b-78de1c0ed8f0",
+      "content": "<p>was</p>"
+    },
+    {
+      "id": "6ece57e5-26f1-46cf-986d-4f60e77d6927",
+      "content": "<p>were</p>"
+    },
+    {
+      "id": "52150bf3-25f7-46ec-9cf2-d2dc6ac52811",
+      "content": "<p>are</p>"
+    },
+    {
+      "id": "f19d84da-2f96-434b-a886-a71619818116",
+      "content": "<p>have been</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

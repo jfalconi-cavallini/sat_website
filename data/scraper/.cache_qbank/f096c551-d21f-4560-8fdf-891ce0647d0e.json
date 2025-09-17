@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>The Dust Bowl was a period of severe drought that plagued the Great Plains of the US during the 1930s. During this time, dust storms <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> over 100 million acres of land. They even reached as far east as New York City.</p>",
+  "keys": [
+    "16ba93ce-4193-4405-a4e8-ccc538c2a59f"
+  ],
+  "answerOptions": [
+    {
+      "id": "aebbdbab-a847-40ea-92a9-98dc901c819f",
+      "content": "<p>are affecting</p>"
+    },
+    {
+      "id": "0d11c72f-310a-4cb2-b349-af0cb6b0acd5",
+      "content": "<p>will have affected</p>"
+    },
+    {
+      "id": "28b90907-3987-4761-901f-cdd097d8a9eb",
+      "content": "<p>will affect</p>"
+    },
+    {
+      "id": "16ba93ce-4193-4405-a4e8-ccc538c2a59f",
+      "content": "<p>affected</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the use of verbs to express tense in a sentence. In this choice, the past tense verb \"affected,\" used in conjunction with the phrase \"during this time,\" correctly indicates that the dust storms occurred in the 1930s.</p><p>Choice A is incorrect because the present progressive tense verb \"are affecting\" doesn&rsquo;t indicate that the dust storms occurred in the 1930s. Choice B is incorrect because the future perfect tense verb \"will have affected\" doesn&rsquo;t indicate that the dust storms occurred in the 1930s. Choice C is incorrect because the future tense verb \"will affect\" doesn&rsquo;t indicate that the dust storms occurred in the 1930s.</p>",
+  "externalid": "f096c551-d21f-4560-8fdf-891ce0647d0e",
+  "correct_answer": [
+    "D"
+  ]
+}

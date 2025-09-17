@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Spanish surrealist Oscar Dominguez, like many of his contemporaries, wanted to incorporate elements of chance and randomness in his artistic process. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> he employed techniques that produced random, unpredictable results, such as decalcomania, which involved pressing a blank canvas onto a paint-covered surface to generate abstract patterns.</p>",
+  "type": "mcq",
+  "keys": [
+    "19b52753-8ecf-453c-933f-a6006287863b"
+  ],
+  "answerOptions": [
+    {
+      "id": "19b52753-8ecf-453c-933f-a6006287863b",
+      "content": "<p>With this in mind,</p>"
+    },
+    {
+      "id": "bfe313cb-85eb-4328-9091-31cadb35abf2",
+      "content": "<p>On the contrary,</p>"
+    },
+    {
+      "id": "461b0f96-2ee9-4a3a-b90e-30a6c4a3cb9c",
+      "content": "<p>In conclusion,</p>"
+    },
+    {
+      "id": "241ef3ed-b802-427f-8d5d-73d0b2f9ab76",
+      "content": "<p>Regardless,</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. \"With this in mind\" logically signals that the activity described in this sentence&mdash;Dominguez&rsquo;s use of techniques like decalcomania to produce unpredictable abstract patterns&mdash;is a result of his desire to include random elements in his art.</p><p>Choice B is incorrect. \"On the contrary\" illogically signals that the activity in this sentence opposes or is contrary to Dominguez&rsquo;s desire to use random elements in his art. Instead, his use of decalcomania is a result of that desire. Choice C is incorrect. \"In conclusion\" illogically signals that the activity in this sentence is a conclusion or summary of Dominguez&rsquo;s desire to use random elements in his art. Instead, his use of decalcomania is a result of that desire. Choice D is incorrect. \"Regardless\" illogically signals that the activity in this sentence occurs despite Dominguez&rsquo;s desire to use random elements in his art. Instead, his use of decalcomania is a result of that desire.</p>",
+  "externalid": "9edb78a5-5dbc-486f-81dc-a9890490260d",
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "5899abda-1951-4db1-8d2a-61c19917cbff",
+  "keys": [
+    "c56b72de-4587-4a02-ad13-72f92e33ebee"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most accurately states the main idea of the text. The text describes Mary&rsquo;s activities in an overgrown hidden garden, saying that she was &ldquo;very much absorbed&rdquo; and was &ldquo;only becoming more pleased with her work every hour&rdquo; rather than getting tired of it. She also thinks of garden activities as a &ldquo;fascinating sort of play.&rdquo; Thus, the main idea of the text is that Mary feels very satisfied when taking care of the garden. </p><p>Choice A is incorrect because the text never makes any mention of Mary&rsquo;s chores. Choice B is incorrect because the text indicates that Mary finds pulling up weeds to be fascinating, not boring. Choice C is incorrect because Mary thinks of garden activities in and of themselves as play, not as something necessary to do to create a space to play. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "externalid": "c0a0b3da-d759-43c9-8b98-ede924bab5da",
+  "stimulus": "<p>The following text is adapted from Frances Hodgson Burnett&rsquo;s 1911 novel <em>The Secret Garden</em>. Mary, a young girl, recently found an overgrown hidden garden.</p>\n<p style='padding-left: 1em;'>Mary was an odd, determined little person, and now she had something interesting to be determined about, she was very much absorbed, indeed. She worked and dug and pulled up weeds steadily, only becoming more pleased with her work every hour instead of tiring of it. It seemed to her like a fascinating sort of play.</p>",
+  "templateclusterid": "66e44e5f-5d37-4ea7-8c7c-a9b37bf9613f",
+  "parenttemplatename": "OSP-015-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "020b2e3e-ba89-467c-a8aa-dd80fe9707a3",
+      "content": "<p>Mary hides in the garden to avoid doing her chores.</p>"
+    },
+    {
+      "id": "b2deb843-d28f-4bb2-84d3-072d5634039d",
+      "content": "<p>Mary is getting bored with pulling up so many weeds in the garden.</p>"
+    },
+    {
+      "id": "53bd8681-53cb-4890-b6d4-b4585c86c4c2",
+      "content": "<p>Mary is clearing out the garden to create a space to play.</p>"
+    },
+    {
+      "id": "c56b72de-4587-4a02-ad13-72f92e33ebee",
+      "content": "<p>Mary feels very satisfied when she&rsquo;s taking care of the garden.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

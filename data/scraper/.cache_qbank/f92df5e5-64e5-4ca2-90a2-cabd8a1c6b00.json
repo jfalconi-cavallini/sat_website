@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Predatory animals differ widely in how they <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> food for their young. Some leave dead prey nearby for their young to consume, some bring live prey to their young, and some feed their young directly from their own mouths.&nbsp;</p>",
+  "keys": [
+    "b219fbc3-ca1f-4f08-a6bb-8a8b47915575"
+  ],
+  "answerOptions": [
+    {
+      "id": "fac1e181-880d-4962-8e68-0b3c3de77eeb",
+      "content": "<p>avoid</p>"
+    },
+    {
+      "id": "7b35e9a4-3d26-4ff5-be5c-36ce253a4728",
+      "content": "<p>guess</p>"
+    },
+    {
+      "id": "b219fbc3-ca1f-4f08-a6bb-8a8b47915575",
+      "content": "<p>provide</p>"
+    },
+    {
+      "id": "cb7fa8c8-b62d-4f7e-bb97-ce7f89164c46",
+      "content": "<p>describe</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of how predators feed their young. As used in this context, \"provide\" means supply or make something that&rsquo;s needed available. The text indicates that some predators supply prey for their young by either leaving dead prey nearby or by bringing live prey to them. Other predators, the text states, feed their young directly from their own mouths. This context supports the idea that predatory animals have various ways to provide food for their young.</p><p>Choice A is incorrect because in this context, \"avoid\" would mean keep away from or refrain from, neither of which would make sense in context. Nothing in the text suggests that predators refrain from food for their young. Choice B is incorrect because in this context, \"guess\" would mean speculate or suppose, and it&rsquo;s unclear what it would mean for predators to speculate food for their young. Choice D is incorrect because in this context, \"describe\" would mean explain, and it&rsquo;s unclear what it would mean for predators to explain food for their young.</p>",
+  "externalid": "f92df5e5-64e5-4ca2-90a2-cabd8a1c6b00",
+  "correct_answer": [
+    "C"
+  ]
+}

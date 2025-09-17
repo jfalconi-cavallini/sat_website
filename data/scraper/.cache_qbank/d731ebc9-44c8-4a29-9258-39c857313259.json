@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the purpose of the underlined portion in the text as a whole?</p>",
+  "stimulus": "<p>Ordinary soap bubbles usually exist for a minute or less before popping due to either a rupture forced by gravity-induced drainage or the evaporation of the liquid from which the bubble is composed. But physicist Aymeric Roux and colleagues discovered ways to mitigate these factors, resulting in bubbles that can last for a year or more. For example, glycerol tends to adhere to water molecules, so <span role=\"region\" aria-label=\"Referenced Content\"><u>a bubble with a shell that contains both water and glycerol is able to draw additional water molecules from the surrounding air and thereby compensate for evaporation.</u></span></p>",
+  "type": "mcq",
+  "keys": [
+    "e419aec8-ed09-4e53-aac5-9b7794137611"
+  ],
+  "answerOptions": [
+    {
+      "id": "e419aec8-ed09-4e53-aac5-9b7794137611",
+      "content": "<p>It describes the effects of a process devised by researchers that increases the longevity of an object discussed in the text.</p>"
+    },
+    {
+      "id": "d7cf8045-f30a-428a-940d-3d3dd4353c27",
+      "content": "<p>It details the circumstances that prompted the research discussed in the text.</p>"
+    },
+    {
+      "id": "1c0d4487-2f77-4e4b-a9fb-aad4308a192a",
+      "content": "<p>It presents a reason why the phenomenon discussed in the text that the researchers wanted to avoid will inevitably occur.</p>"
+    },
+    {
+      "id": "6a865a07-4eda-4256-86fc-9f583008b241",
+      "content": "<p>It mentions a method discussed in the text that researchers intend to test in future experiments.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it describes how the underlined portion of the sentence functions in the text as a whole. The text begins by discussing ordinary soap bubbles, objects that usually exist for less than a minute before popping due to either evaporation or gravity-induced drainage. The text then goes on to mention work by researchers Aymeric Roux and colleagues, who have discovered how to increase the longevity of bubbles by altering their chemical composition. Finally, the underlined portion of the text describes how this process works: since the bubble contains both water and glycerol, it can draw water molecules from the surrounding air to replace those lost to evaporation. Therefore, the underlined portion of the sentence describes the effects of a process devised by researchers that increases the longevity of an object described in the text.</p><p>Choice B is incorrect because the circumstance that prompted the research is discussed in the first sentence of the text, not the underlined portion. Choice C is incorrect because the underlined portion of the text does not address why soap bubbles must eventually rupture. Rather, it explains how the longevity of soap bubbles can be extended. Choice D is incorrect because the underlined portion of the text does not mention any future experiments.</p>",
+  "externalid": "d731ebc9-44c8-4a29-9258-39c857313259",
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Recent measurements of the mass of the <em>W </em>boson (a subatomic particle) were notable not only for the mere fact that the particle&rsquo;s mass differed from expectations but for the <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> of that difference: the measured mass of the <em>W </em>boson was seven standard deviations higher than predicted by the standard model of particle physics.</p>",
+  "type": "mcq",
+  "keys": [
+    "d5bafe45-8c42-4922-b98f-5eef40f4bdd8"
+  ],
+  "answerOptions": [
+    {
+      "id": "0643777e-5971-469f-b3a4-82f5ff840016",
+      "content": "<p>cause</p>"
+    },
+    {
+      "id": "cc003941-2dda-4d88-8cc3-607c045d5ad2",
+      "content": "<p>existence</p>"
+    },
+    {
+      "id": "38cd1171-2ee2-45b8-85b1-09320b7620be",
+      "content": "<p>implication</p>"
+    },
+    {
+      "id": "d5bafe45-8c42-4922-b98f-5eef40f4bdd8",
+      "content": "<p>scale</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the <em>W</em> boson. In this context, \"scale\" means size or extent. The text indicates that recent measurements of the <em>W</em> boson were remarkable because they revealed the subatomic particle&rsquo;s mass to be much greater (\"seven standard deviations higher\") than had been expected based on a standard model. This context conveys not only that the measurements differed from predictions but also that the extent of the difference was very large.</p><p>Choice A is incorrect. Although the text indicates that there was a very large difference between the predicted mass and the actual measured mass of the subatomic particle, it doesn&rsquo;t explain the cause of, or reason behind, that difference. Choice B is incorrect because it wouldn&rsquo;t make sense to say that the measurements of the subatomic particle were notable because they differed from expectations and also because a difference existed between the measurements and what had been predicted; the text would be repeating the idea that there was a difference instead of adding to that idea. Choice C is incorrect because the text doesn&rsquo;t convey any implications of, or consequences of or conclusions drawn from, the fact that the mass of the subatomic particle differed from expectations; the context indicates only that the actual measured mass was much higher than the predicted mass.</p>",
+  "externalid": "d7c11206-1d75-4efc-b61f-5619e10f2743",
+  "correct_answer": [
+    "D"
+  ]
+}

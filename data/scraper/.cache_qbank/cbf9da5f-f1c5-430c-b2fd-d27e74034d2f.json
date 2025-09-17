@@ -1,0 +1,38 @@
+{
+  "vaultid": "fa18f335-2b61-4309-9c9d-c770edf51d2a",
+  "keys": [
+    "41269d30-f28f-4ffb-a9f7-3d73a7f4efa6"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of the legitimacy of the reigns of French monarchs such as Hugh Capet and Henry I. As used in this context, &ldquo;buttress&rdquo; means to strengthen or defend. The text indicates that regardless of whether a French monarch&rsquo;s reign was significant or uneventful, each monarch faced questions about his right to the throne. The text goes on to say that in order to understand the path of a French monarch&rsquo;s reign, it&rsquo;s important to understand what contributed to the monarch&rsquo;s ability to &ldquo;hold the throne.&rdquo; This context suggests that French monarchs such as Hugh Capet and Henry I had to buttress, or defend, their right to be monarch.&nbsp;</p><p>Choice A is incorrect because it wouldn&rsquo;t make sense in context to discuss factors that enabled a monarch to &ldquo;disengage,&rdquo; or withdraw his right to the French throne. The text focuses on an examination of people who reigned as French monarchs, not on people who didn&rsquo;t choose to rule.&nbsp;Choice B is incorrect because it wouldn&rsquo;t make sense in context to discuss factors that enabled a monarch to &ldquo;annotate,&rdquo; or add notes to or explain, his right to the French throne. Nothing in the text suggests that the monarchs were writing notes about their right to the throne; instead, faced with questions about the legitimacy of their reign, the monarchs defended their right.&nbsp;Choice D is incorrect. Saying that a monarch who is faced with questions about the legitimacy of his reign was able to &ldquo;reciprocate&rdquo; his right to the French throne would mean that he either returned his right to the throne or that he responded in kind to the challenge. Neither of these meanings would make sense in context because the text focuses on people who did reign as French monarchs and defended their right to do so. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "cbf9da5f-f1c5-430c-b2fd-d27e74034d2f",
+  "stimulus": "<p>Whether the reign of a French monarch such as Hugh Capet or Henry I was historically consequential or relatively uneventful, its trajectory was shaped by questions of legitimacy and therefore cannot be understood without a corollary understanding of the factors that allowed the monarch to <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> his right to hold the throne.</p>",
+  "templateclusterid": "f69af86d-450c-4a3a-a207-1e9ac87b2815",
+  "parenttemplatename": "T2007",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "7dbc58b9-5c4c-4e3b-8c8a-29197fc7455f",
+      "content": "<p>disengage</p>"
+    },
+    {
+      "id": "b5786466-c908-48c5-ab7a-ece97467a690",
+      "content": "<p>annotate</p>"
+    },
+    {
+      "id": "41269d30-f28f-4ffb-a9f7-3d73a7f4efa6",
+      "content": "<p>buttress</p>"
+    },
+    {
+      "id": "9bcdb63b-cc34-4021-9164-d8c317b83711",
+      "content": "<p>reciprocate</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

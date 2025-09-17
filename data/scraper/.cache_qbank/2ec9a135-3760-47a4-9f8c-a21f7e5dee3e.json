@@ -1,0 +1,38 @@
+{
+  "vaultid": "4a331b5f-e498-412a-8cc7-20f030c2bf20",
+  "keys": [
+    "20453a77-39ec-4bfd-92b9-ba4ae5ac1b23"
+  ],
+  "rationale": "<p>Choice C is the best answer because it uses data from the table to effectively exemplify the idea that the film outputs of the four individuals included in the table should be considered bare minimums&mdash;that is, that we should assume that the individuals actually had higher outputs than those recorded. The table presents the years during which the individuals were active and the number of known films the individuals are credited in. The table indicates that Lillian St. Cyr has 66 film credits as an actor and that Edwin Carewe has 58 film credits as a director; it follows that if some films and records for the era were lost, it&rsquo;s possible that Lillian St. Cyr acted in far more than 66 films and that Edwin Carewe directed more than 58 films. </p><p>Choice A is incorrect because it doesn&rsquo;t effectively exemplify the idea that the film outputs of the four individuals included in the table should be considered bare minimums. Rather than addressing the idea that the individuals likely had higher outputs than those presented in the table, this choice simply compares data from the table to make the point that Dark Cloud has fewer credited acting roles than Lillian St. Cyr (35 and 66, respectively). Choice B is incorrect because it misrepresents data from the table, even though it may exemplify the idea that the film outputs of the four individuals included in the table should be considered bare minimums by implying that Edwin Carewe acted in more than 47 films. The table indicates that Edwin Carewe was active from 1912 to 1934, meaning that his 47 credited acting roles were in films made before or during 1934, not after that time. Choice D is incorrect because it doesn&rsquo;t effectively exemplify the idea that the film outputs of the four individuals included in the table should be considered bare minimums. Instead of addressing the idea that the individuals likely had higher outputs than those recorded, this choice suggests that James Young Deer actually acted in and directed fewer films than presented in the table (only 33 known films as a director instead of 35, and only 10 known films as an actor instead of 33). </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most effectively uses data from the table to complete the example?</p>",
+  "externalid": "2ec9a135-3760-47a4-9f8c-a21f7e5dee3e",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Credited Film Output of James Young Deer, Dark Cloud, Edwin Carewe, and Lillian St. Cyr</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Individual</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Years active</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Number of films known and commonly credited</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">James Young Deer</th><td>1909&ndash;1924</td><td>33 (actor), 35 (director), 10 (writer)</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Dark Cloud</th><td>1910&ndash;1920</td><td>35 (actor), 1 (writer)</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Edwin Carewe</th><td>1912&ndash;1934</td><td>47 (actor), 58 (director), 20 (producer), 4 (writer)</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Lillian St. Cyr (Red Wing)</th><td>1908&ndash;1921</td><td>66 (actor)</td></tr></tbody></table></figure></p>\n<p>Some researchers studying Indigenous actors and filmmakers in the United States have turned their attention to the early days of cinema, particularly the 1910s and 1920s, when people like James Young Deer, Dark Cloud, Edwin Carewe, and Lillian St. Cyr (known professionally as Red Wing) were involved in one way or another with numerous films. In fact, so many films and associated records for this era have been lost that counts of those four figures&rsquo; output should be taken as bare minimums rather than totals; it&rsquo;s entirely possible, for example, that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "72c4d289-2015-4e6d-b41f-fd77b740d12d",
+  "parenttemplatename": "OSP-504-QUA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "64ff048f-e187-42a9-8f96-6e6380fb71f3",
+      "content": "<p>Dark Cloud acted in significantly fewer films than did Lillian St. Cyr, who is credited with 66 performances.</p>"
+    },
+    {
+      "id": "0f7da504-1168-4300-ad5b-42dfcc15c203",
+      "content": "<p>Edwin Carewe&rsquo;s 47 credited acting roles includes only films made after 1934.</p>"
+    },
+    {
+      "id": "20453a77-39ec-4bfd-92b9-ba4ae5ac1b23",
+      "content": "<p>Lillian St. Cyr acted in far more than 66 films and Edwin Carewe directed more than 58.&nbsp;</p>"
+    },
+    {
+      "id": "14903bd6-805a-43f1-930f-559bb78fc6f3",
+      "content": "<p>James Young Deer actually directed 33 films and acted in only 10.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

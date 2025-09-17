@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>What feature of <em>Hevea brasiliensis</em> does the text say is helpful for the process of making rubber?</p>",
+  "stimulus": "<p><em>Hevea brasiliensis</em>, a tree in the Amazon rainforest, is the world&rsquo;s main source of natural rubber. The tree produces a milky substance called latex that is used to make rubber. The bark of <em>Hevea brasiliensis</em> is helpful for the process of making rubber because it has a unique structure that makes it easy to collect latex. A network of tubes in the tree&rsquo;s inner bark helps the latex to flow out easily when people make small cuts into the bark.&nbsp;</p>",
+  "keys": [
+    "00b9566b-f21e-40f2-8843-c76ce7db0ce8"
+  ],
+  "answerOptions": [
+    {
+      "id": "380b15f9-2443-43fc-aee7-da38e8e51255",
+      "content": "<p>Its latex produces rubber of an especially high quality.&nbsp;</p>"
+    },
+    {
+      "id": "00b9566b-f21e-40f2-8843-c76ce7db0ce8",
+      "content": "<p>Its bark has a unique structure that makes it easy to collect latex.&nbsp;</p>"
+    },
+    {
+      "id": "c897cd5c-ca26-4be6-90aa-93da5e92221b",
+      "content": "<p>It is able to grow in a wide variety of climates around the world.&nbsp;</p>"
+    },
+    {
+      "id": "f927cd61-81cd-4a45-a3f8-0e1ba6e551fc",
+      "content": "<p>It is one of only two trees in the Amazon that produce latex.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most accurately states what feature of <em>Hevea brasiliensis</em> is helpful for the process of making rubber. According to the text, this tree species produces latex, which is used to make rubber, and its inner bark contains a \"network of tubes\" that, when cut, enables the latex to flow out. The text explicitly states that this feature of <em>Hevea brasiliensis</em> is \"helpful for the process of making rubber.\"</p><p>Choice A is incorrect because the text doesn&rsquo;t mention the quality of the rubber produced from the latex of <em>Hevea brasiliensis </em>or compare its quality to that of rubber produced from other sources. Choice C is incorrect because the text never discusses the climates in which <em>Hevea brasiliensis </em>grows. Moreover, the text mentions only one region where this tree is found: the Amazon rainforest. Choice D is incorrect. Because the text states that <em>Hevea brasiliensis</em> is the world&rsquo;s \"main source of natural rubber,\" it can be inferred that there is at least one other source. However, the text doesn&rsquo;t specify whether that other source is also a tree species and, if so, whether that species grows in the Amazon rainforest.</p>",
+  "externalid": "9cb7ff11-cb19-42f9-b8d2-f5191ec6866c",
+  "correct_answer": [
+    "B"
+  ]
+}

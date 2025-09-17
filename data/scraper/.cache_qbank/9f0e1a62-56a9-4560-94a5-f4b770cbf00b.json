@@ -1,0 +1,38 @@
+{
+  "vaultid": "97111bdb-ef2b-49a8-b95d-0c484e1df233",
+  "keys": [
+    "2d60cb35-d628-4fec-9262-a64e927da1c6"
+  ],
+  "rationale": "<p>Choice B is the best answer because it presents the conclusion that most logically follows from the text&rsquo;s discussion of Ancestral Puebloans&rsquo; migration to the Rio Grande Valley. The text states that in the late 1200s C.E., the Ancestral Puebloan civilization abandoned villages in its original homeland, which included the Mesa Verde site. The text goes on to say that recent genetic analysis has demonstrated that the modern turkey population in the Rio Grande Valley descends partly from the ancient turkeys raised at Mesa Verde, and that the genetic markers shared by the two turkey populations first appeared at Mesa Verde only after 1280 C.E. Therefore, it can reasonably be concluded that some Ancestral Puebloans migrated to the Rio Grande Valley in the late 1200s and carried their agricultural practices&mdash;including the farming of turkeys&mdash;to their new home. </p><p>Choice A is incorrect because the text never compares the condition of the Rio Grande Valley&rsquo;s terrain to that of Mesa Verde&rsquo;s terrain, either in the present or in the past. Choice C is incorrect. Although genetic analysis has demonstrated that the modern turkey population in the Rio Grande valley descended in part from the turkey population raised by the Ancestral Puebloans of Mesa Verde before their migration to the valley in 1280, this finding doesn&rsquo;t eliminate the possibility that Indigenous peoples living in the valley before 1280 might also have farmed turkeys. Choice D is incorrect. The text doesn&rsquo;t consider the possibility that before their migration to the Rio Grande Valley after 1280, the Ancestral Puebloans of Mesa Verde might have adopted turkey farming from an outside Indigenous civilization in another region; instead, the text provides evidence suggesting that the Ancestral Puebloans brought turkey farming to another region&mdash;the Rio Grande Valley&mdash;after 1280. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "9f0e1a62-56a9-4560-94a5-f4b770cbf00b",
+  "stimulus": "<p>Ancestral Puebloans, the civilization from which present-day Pueblo tribes descended, emerged as early as 1500 B.C.E. in an area of what is now the southwestern United States and dispersed suddenly in the late 1200s C.E., abandoning established villages with systems for farming crops and turkeys. Recent analysis comparing turkey remains at Mesa Verde, one such village in southern Colorado, to samples from modern turkey populations in the Rio Grande Valley of north central New Mexico determined that the latter birds descended in part from turkeys cultivated at Mesa Verde, with shared genetic markers appearing only after 1280. Thus, researchers concluded that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "b40850ba-5026-4891-8baa-02b3c6d49fc2",
+  "parenttemplatename": "OSP-029-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "5c616906-3867-429a-b17a-230e9a4fa79e",
+      "content": "<p>conditions of the terrains in the Rio Grande Valley and Mesa Verde had greater similarities in the past than they do today.</p>"
+    },
+    {
+      "id": "2d60cb35-d628-4fec-9262-a64e927da1c6",
+      "content": "<p>some Ancestral Puebloans migrated to the Rio Grande Valley in the late 1200s and carried farming practices with them.</p>"
+    },
+    {
+      "id": "7339190f-ae47-4d34-a7cd-66dbf623c5e3",
+      "content": "<p>Indigenous peoples living in the Rio Grande Valley primarily planted crops and did not cultivate turkeys before 1280.</p>"
+    },
+    {
+      "id": "10f739f3-330d-42d1-9469-c3ba2dd9fb68",
+      "content": "<p>the Ancestral Puebloans of Mesa Verde likely adopted the farming practices of Indigenous peoples living in other regions.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

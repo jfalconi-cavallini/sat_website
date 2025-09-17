@@ -1,0 +1,38 @@
+{
+  "vaultid": "9c96776d-1d4d-43c1-8c23-2c991f5831cd",
+  "keys": [
+    "05264d3b-df4f-482c-978e-ed13f867cc34"
+  ],
+  "rationale": "<p>Choice B is the best answer because it describes how Hull&rsquo;s team would most likely respond to the argument in the underlined portion of Text 1, which asserts that volcanic activity in the Deccan Traps range led to changes in the climate and caused the K-Pg mass extinction event. According to Text 2, although Hull&rsquo;s team found that activity in the Deccan Traps did indeed alter the climate before the K-Pg event, the team determined that the climate had returned to normal before mass extinctions began. This finding and the observation that the K-Pg extinctions closely align with the Chicxulub asteroid impact suggest that Hull&rsquo;s team would likely dispute the claim in the underlined portion of Text 1 and say that the climate changes caused by the Deccan Traps activity were not the main cause of the extinctions. </p><p>Choice A is incorrect because Text 2 describes how Hull&rsquo;s team found that the climate had recovered from the changes brought about by the Deccan Traps activity before the K-Pg event occurred, which suggests that Hull&rsquo;s team would disagree that the Deccan Traps activity caused the K-Pg event. Additionally, the claim in the underlined portion of Text 1 says nothing about how the Chicxulub impact changed the climate, so while Hull&rsquo;s team might believe that the impact did in fact change the climate, they could not be said to agree with the claim in Text 1 on this point.&nbsp;Choice C is incorrect because there is no indication in either text that any scientists assume that the Chicxulub impact caused the Deccan Traps activity, so there is no reason to conclude that Hull&rsquo;s team would question why the scientists referred to in Text 1 make such an assumption.&nbsp;Choice D is incorrect because Text 2 describes how Hull&rsquo;s team found that the climate had recovered from the changes brought about by the Deccan Traps activity before the K-Pg event occurred, which suggests that Hull&rsquo;s team would say that the Deccan Traps activity had a less enduring effect on global conditions than the scientists referenced in Text 1 believe, not that the effect on global conditions was more significant than those scientists claim. </p>",
+  "origin": "proteus",
+  "stem": "<p>Based on the texts, how would Hull&rsquo;s team (Text 2) most likely respond to the argument in the underlined portion of Text 1?</p>",
+  "externalid": "27d889c1-4263-4d7a-8bc6-f0549d1247ba",
+  "stimulus": "<p><span role=\"heading\" aria-level=\"2\"><strong>Text 1</strong></span></p>\n<p>The Cretaceous-Paleogene (K-Pg) mass extinction event is usually attributed solely to an asteroid impact near Chicxulub, Mexico. Some scientists argue that <span role=\"region\" aria-label=\"Referenced Content\"><u>volcanic activity was the true cause, as the K-Pg event occurred relatively early in a long period of eruption of the Deccan Traps range that initially produced huge amounts of climate-altering gases.</u></span> These dissenters note that other mass extinctions have coincided with large volcanic eruptions, while only the K-Pg event lines up with an asteroid strike.</p>\n<p>&nbsp;</p>\n<p><span role=\"heading\" aria-level=\"2\"><strong>Text 2</strong></span></p>\n<p>In a 2020 study, Pincelli Hull and her colleagues analyzed ocean core samples and modeled climate changes around the K-Pg event. The team concluded that Deccan Traps gases did affect global conditions prior to the event, but that the climate returned to normal well before the extinctions began&mdash;extinctions that instead closely align with the Chicxulub impact.</p>",
+  "templateclusterid": "c778b590-d89f-490f-b1bd-f6deb9163b58",
+  "parenttemplatename": "OSP-022-CTC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "084c0626-0c24-4f78-bd3d-2989a1033578",
+      "content": "<p>By agreeing that the Chicxulub impact changed the climate and that the Deccan Traps eruption caused the K-Pg event</p>"
+    },
+    {
+      "id": "05264d3b-df4f-482c-978e-ed13f867cc34",
+      "content": "<p>By declaring that the changes in climate caused by the Deccan Traps eruption weren&rsquo;t the main cause of the K-Pg event</p>"
+    },
+    {
+      "id": "3fd153c5-8dbd-4150-b0da-f66cd4339b88",
+      "content": "<p>By questioning why those scientists assume that the Chicxulub impact caused the Deccan Traps eruption</p>"
+    },
+    {
+      "id": "99dcfe39-901f-4f0f-afd3-23052a5bd807",
+      "content": "<p>By asserting that the Deccan Traps eruption had a more significant effect on global conditions than those scientists claim</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

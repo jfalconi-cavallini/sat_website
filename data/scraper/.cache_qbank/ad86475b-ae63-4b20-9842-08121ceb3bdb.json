@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Diadromous fish migrate between freshwater and marine biomes during their life cycle. The migration&rsquo;s obligate nature is why diadromous fish can be <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> those that are merely euryhaline (able to tolerate high salinity): the euryhaline blackchin tilapia can survive high salinity, but its life cycle does not involve relocation to a different biome, as does that of the diadromous wild salmon.</p>",
+  "keys": [
+    "563d8a7d-e194-486c-80ab-787b43d39b39"
+  ],
+  "answerOptions": [
+    {
+      "id": "563d8a7d-e194-486c-80ab-787b43d39b39",
+      "content": "<p>demarcated from</p>"
+    },
+    {
+      "id": "1b40d4b4-e7e2-408a-8a0a-5308d6033a04",
+      "content": "<p>reconstituted as</p>"
+    },
+    {
+      "id": "1800217e-2075-40a0-b209-7a75752c20d7",
+      "content": "<p>conflated with</p>"
+    },
+    {
+      "id": "39d1dd40-7a90-401f-888b-792f933eea4a",
+      "content": "<p>derived from</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of diadromous fish. In this context, \"demarcated from\" means separate or set apart from. The text indicates that diadromous fish differ from euryhaline fish in that diadromous fish \"migrate between freshwater and marine biomes during their life,\" whereas euryhaline fish do not relocate to a different biome because they can tolerate higher salinity environments. Therefore, this context suggests that because of differences between their migration patterns, diadromous fish are distinct and can be demarcated from euryhaline fish.</p><p>Choice B is incorrect. Although the text states that diadromous fish migrate and relocate, the text does not suggest that diadromous fish would be \"reconstituted as,\" or formed again as, anything new. Only their environments change and not the fish themselves. Choice C is incorrect because the text does not suggest that diadromous fish can be \"conflated with,\" or combined with, euryhaline fish. Instead, the text distinguishes the two types of fish by pointing out their differences with regard to migration and tolerance for salinity. Choice D is incorrect because the text indicates that based on migration habits and tolerance for salinity, diadromous fish are different from euryhaline fish; so it would not make logical sense to say that diadromous fish would be \"derived from,\" or be an extension of or result from, euryhaline fish.</p>",
+  "externalid": "ad86475b-ae63-4b20-9842-08121ceb3bdb",
+  "correct_answer": [
+    "A"
+  ]
+}

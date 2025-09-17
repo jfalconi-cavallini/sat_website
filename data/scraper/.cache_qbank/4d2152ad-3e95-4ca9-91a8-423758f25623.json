@@ -1,0 +1,31 @@
+{
+  "stem": "<p>According to the text, why are some critics skeptical of the concept behind<em> </em>Bosco Verticale?</p>",
+  "stimulus": "<p>Since its completion in 2014, Bosco Verticale (Vertical Forest)&mdash;a pair of residential towers in Milan, Italy, covered by vegetation&mdash;has become a striking symbol of environmental sustainability in architecture. Stefano Boeri intended his design, which features balconies that are home to hundreds of trees, to serve as a model for promoting urban biodiversity. However, the concept has faced skepticism: critics note that although the trees used in Bosco Verticale were specifically cultivated for the project, it&rsquo;s too early to tell if they can thrive in this unusual setting.</p>",
+  "type": "mcq",
+  "keys": [
+    "c1f22a13-c097-4f86-afc2-cc6df73a5204"
+  ],
+  "answerOptions": [
+    {
+      "id": "d313318b-e6d3-4d70-966f-6904f7f4a3e5",
+      "content": "<p>Some essential aspects of<em> </em>Bosco Verticale&rsquo;s design are difficult to adapt to locations other than Milan.</p>"
+    },
+    {
+      "id": "aba34492-c1e2-4ce8-8fd1-3568f3e12cb6",
+      "content": "<p>The plant life on<em> </em>Bosco Verticale ended up being less varied than Boeri had envisioned it would be.</p>"
+    },
+    {
+      "id": "baf7cea2-c24b-4a4c-94bf-ccf590019c3b",
+      "content": "<p>The construction of Bosco Verticale was no less environmentally damaging than the construction of more conventional buildings is.</p>"
+    },
+    {
+      "id": "c1f22a13-c097-4f86-afc2-cc6df73a5204",
+      "content": "<p>It is unclear whether Bosco Verticale can support the plant life included in its design.&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents a statement about critics&rsquo; skepticism of Bosco Verticale that is supported by the text. The text states that Boeri&rsquo;s design for Bosco Verticale features hundreds of trees on balconies and is intended to serve as a model for promoting urban biodiversity. But the text goes on to state that some critics believe that it is too early to determine if the trees planted on Bosco Verticale can thrive there. Therefore, according to the text, critics are skeptical of the concept behind Bosco Verticale because it is unclear whether Bosco Verticale can support the plant life included in its design.</p><p>Choice A is incorrect. Although the text states that one of Boeri&rsquo;s goals was for Bosco Verticale to serve as a model for promoting biodiversity in architecture, which suggests that Boeri would likely support the idea of reproducing the same concept in other locations, the text does not discuss whether it is feasible to adapt the design to locations other than Milan. Instead, the text describes critics&rsquo; concerns that the plant life that currently exists on Bosco Verticale might not thrive in its current setting. Choice B is incorrect. Although the text states that one of Boeri&rsquo;s goals in creating Bosco Verticale was to promote biodiversity, which implies a goal of including varied plant life in the design, it does not mention whether the hundreds of trees that were planted on its balconies failed to meet this goal. Rather, the text states that some critics are concerned that the trees on Bosco Verticale&rsquo;s balconies may not thrive in this setting. Choice C is incorrect because the text does not mention how Bosco Verticale was constructed, let alone how environmentally destructive its construction may have been relative to the construction of more conventional buildings.</p>",
+  "externalid": "4d2152ad-3e95-4ca9-91a8-423758f25623",
+  "correct_answer": [
+    "D"
+  ]
+}

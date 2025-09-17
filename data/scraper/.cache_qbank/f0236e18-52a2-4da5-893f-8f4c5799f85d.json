@@ -1,0 +1,38 @@
+{
+  "vaultid": "b98cf7c6-1b5a-4b4b-b493-069321539b14",
+  "keys": [
+    "2117b752-de3f-4d25-b0a0-e493531f8975"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the use and punctuation of an integrated relative clause. This choice correctly uses the relative pronoun &ldquo;that&rdquo; and no punctuation to create an integrated relative clause that provides essential information about the noun phrase (&ldquo;a book packaging company&rdquo;) that it modifies. </p><p>Choice A is incorrect because it doesn&rsquo;t use a relative pronoun to link the verb phrase beginning with &ldquo;specializes&rdquo; to the noun phrase that it modifies (&ldquo;a book packaging company&rdquo;). Choice C is incorrect because it doesn&rsquo;t use a relative pronoun to link the verb phrase beginning with &ldquo;specializes&rdquo; to the noun phrase that it modifies (&ldquo;a book packaging company&rdquo;). Choice D is incorrect because no punctuation is needed between the integrated relative clause beginning with &ldquo;that specializes&rdquo; and the noun phrase that it modifies (&ldquo;a book packaging company&rdquo;). </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "f0236e18-52a2-4da5-893f-8f4c5799f85d",
+  "stimulus": "<p>Both Sona Charaipotra, an Indian American, and Dhonielle Clayton, an African American, grew up frustrated by the lack of diverse characters in books for young people. In 2011, these two writers joined forces to found CAKE Literary, a book packaging <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> specializes in the creation and promotion of stories told from diverse perspectives for children and young adults.</p>",
+  "templateclusterid": "75c05964-2479-45af-9615-5d17b05fde78",
+  "parenttemplatename": "OSP-618-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "4b4ee4cf-cd03-454d-a4fa-0f98ba17ab8f",
+      "content": "<p>company,</p>"
+    },
+    {
+      "id": "2117b752-de3f-4d25-b0a0-e493531f8975",
+      "content": "<p>company that</p>"
+    },
+    {
+      "id": "9a13227e-0940-4956-acef-2e7dae645283",
+      "content": "<p>company</p>"
+    },
+    {
+      "id": "d4141628-e363-48a6-8968-443a3eb8b08f",
+      "content": "<p>company, that</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

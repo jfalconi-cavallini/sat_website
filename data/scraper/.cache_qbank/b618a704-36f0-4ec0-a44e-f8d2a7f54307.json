@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best describes data from the table that support the researchers&rsquo; conclusion?</p>",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Mean Time (in Seconds) Spent per Flower for Four Pollinator Genera </p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Pollinator genus</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Seconds per intact pin flower</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Seconds per damaged pin flower</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Seconds per intact thrum flower</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Seconds per damaged thrum flower</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\"><em>Habropoda</em></th><td style=\"text-align: center;\">2.7</td><td style=\"text-align: center;\">5.4</td><td style=\"text-align: center;\">4.1</td><td style=\"text-align: center;\">9.5</td></tr><tr><th scope=\"row\" style=\"text-align: left;\"><em>Osmia</em></th><td style=\"text-align: center;\">5.2</td><td style=\"text-align: center;\">8.2</td><td style=\"text-align: center;\">7.1</td><td style=\"text-align: center;\">8.3</td></tr><tr><th scope=\"row\" style=\"text-align: left;\"><em>Pierid</em></th><td style=\"text-align: center;\">2.6</td><td style=\"text-align: center;\">4.0</td><td style=\"text-align: center;\">2.4</td><td style=\"text-align: center;\">1.9</td></tr><tr><th scope=\"row\" style=\"text-align: left;\"><em>Xylocopa</em></th><td style=\"text-align: center;\">2.3</td><td style=\"text-align: center;\">2.8</td><td style=\"text-align: center;\">2.5</td><td style=\"text-align: center;\">2.2</td></tr></tbody></table></figure></p>\n<p>To study how floral damage affects the behavior of pollinators, such as bees, a team of researchers punched holes in the floral tissue of flowers from the vine yellow jessamine (<em>Gelsemium sempervirens</em>), a plant that produces flowers that have either a long pistil and a short stamen (pin morphs) or a short pistil and a long stamen (thrum morphs). The researchers then compared the time different insect pollinators spent visiting intact pin and thrum flowers to the time such pollinators spent visiting the artificially damaged pin and thrum flowers. The researchers concluded that the effect of floral damage on time spent per flower varied by both floral morph and the genus of the pollinator.</p>",
+  "type": "mcq",
+  "keys": [
+    "2057f0d4-e244-462b-95f0-96438a47d931"
+  ],
+  "answerOptions": [
+    {
+      "id": "2057f0d4-e244-462b-95f0-96438a47d931",
+      "content": "<p>For pin flowers, damage led to longer times per flower in all pollinator genera, whereas for thrum flowers, damage led to longer times per flower only in <em>Habropoda</em> and <em>Osmia</em>.</p>"
+    },
+    {
+      "id": "841a58c8-32c7-4671-a1ea-9b13add873c6",
+      "content": "<p>Compared with pollinators belonging to the genus <em>Osmia</em>, pollinators belonging to the genus <em>Xylocopa</em> spent less time on damaged pin flowers but more time on damaged thrum flowers.</p>"
+    },
+    {
+      "id": "e0e3e07a-d2ee-48cc-b726-055e4002892a",
+      "content": "<p>Damage led to shorter times per thrum flower in three pollinator genera (<em>Osmia</em>, <em>Pierid</em>, and <em>Xylocopa</em>), whereas it led to longer times per thrum flower in one pollinator genus (<em>Habropoda</em>).</p>"
+    },
+    {
+      "id": "cc0b694d-3e28-4a3f-8142-52c473a7c2ce",
+      "content": "<p>Pollinators belonging to the genus <em>Habropoda</em>&nbsp;spent 2.7 seconds on intact pin flowers and 4.1 seconds on intact thrum flowers.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it describes data from the table that support the researchers&rsquo; conclusion that the effect of floral damage on time spent per flower varied by both floral morph and the genus of the pollinator. The table presents the average time pollinators spent per floral morph. The data in the table shows that for pin flowers, the average time spent per flower by all pollinator genera was higher for flowers that had been artificially damaged than for intact flowers. By contrast, for thrum flowers, the difference in time spent on intact and damaged flowers is seen for only some pollinator genera. This supports the researchers&rsquo; conclusion that both floral morph and the genus of the pollinator are factors involved in the effect that floral damage has on time pollinators spend per flower.</p><p>Choice B is incorrect. The table shows that pollinators belonging to the genus <em>Xylocopa</em> spent less time on both damaged pin flowers and damaged thrum flowers than pollinators belonging to the genus <em>Osmia</em> did. Choice C is incorrect. The table shows that the artificial damage to the thrum flowers led to shorter average times spent by pollinators on those flowers for only two of the four pollinator genera represented in the table, not three. Furthermore, this choice doesn&rsquo;t address the effect the artificial damage had on pin flowers; thus, even if accurate, this evidence doesn&rsquo;t support the researchers&rsquo; conclusion that both floral morph and pollinator genus affect time spent per flower when a flower has been damaged. Choice D is incorrect. While this statement is true based on the information in the table, it doesn&rsquo;t provide evidence that supports the researchers&rsquo; conclusion that the effect of floral damage on time spent per flower varied by both floral morph and the genus of the pollinator because this choice provides information only about how much time one pollinator genus spent on intact flowers.</p>",
+  "externalid": "b618a704-36f0-4ec0-a44e-f8d2a7f54307",
+  "correct_answer": [
+    "A"
+  ]
+}

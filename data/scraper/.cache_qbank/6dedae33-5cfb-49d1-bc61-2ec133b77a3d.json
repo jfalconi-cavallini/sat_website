@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>The results of randomized clinical trials testing the efficacy of common medical interventions sometimes fail to <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> conclusions that practitioners reach based on their real-world observations of patients. While there are several possible reasons for this, one is that practitioners may overlook confounding variables that account for the results they attribute to the interventions in question.</p>",
+  "keys": [
+    "876fcd61-6258-4d7d-bf78-c895a9eb2116"
+  ],
+  "answerOptions": [
+    {
+      "id": "0e2dcb69-085a-4b0d-a22f-4fdf15d88e23",
+      "content": "<p>circumvent</p>"
+    },
+    {
+      "id": "876fcd61-6258-4d7d-bf78-c895a9eb2116",
+      "content": "<p>corroborate</p>"
+    },
+    {
+      "id": "aa7df731-50e6-4e44-b147-7b7de8687ce8",
+      "content": "<p>disseminate</p>"
+    },
+    {
+      "id": "f8950581-2a11-427a-bb88-cafaed66c006",
+      "content": "<p>implement</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of a relationship between the results of randomized clinical tests of how effective common medical interventions are and the conclusions practitioners reach about such interventions in real-world settings. In this context, \"corroborate\" means confirm or support with evidence. The text indicates that one possible explanation for the relationship being discussed is that practitioners may overlook confounding variables&mdash;that is, additional factors other than the medical interventions being investigated that affect the observed outcomes. This means that practitioners may assume that an outcome is the direct result of a medical intervention when it is actually the result of a combination of factors. Clinical trials take steps to rule out factors other than the one being studied, so if those extra factors are actually having an effect on real-world outcomes, the trials are likely to produce conclusions different from those practitioners reach in their real-world observations. In other words, clinical trials may fail to corroborate practitioners&rsquo; conclusions.</p><p>Choice A is incorrect because it wouldn&rsquo;t make sense to say that the results of clinical trials could \"circumvent,\" or find a way around or bypass, conclusions practitioners reach in real-world scenarios with patients; it&rsquo;s possible that researchers conducting the trials might avoid engaging with practitioners&rsquo; conclusions, but findings from a study can&rsquo;t choose to get around something. Choice C is incorrect because it wouldn&rsquo;t make sense to say that the results of clinical trials could \"disseminate,\" or spread widely, conclusions practitioners reach in real-world scenarios with patients; the researchers conducting the trials might choose to draw attention to practitioners&rsquo; conclusions, but findings from a study can&rsquo;t spread anything. Choice D is incorrect because it wouldn&rsquo;t make sense to say that the results of clinical trials could \"implement,\" or put into effect, conclusions practitioners reach in real-world scenarios with patients; the researchers conducting the trials might consider practitioners&rsquo; conclusions, but findings from a study can&rsquo;t put anything into effect.</p>",
+  "externalid": "6dedae33-5cfb-49d1-bc61-2ec133b77a3d",
+  "correct_answer": [
+    "B"
+  ]
+}

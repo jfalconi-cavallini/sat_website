@@ -1,0 +1,38 @@
+{
+  "vaultid": "0a1d578f-02f0-4184-9c3c-2dc8e4150b1c",
+  "keys": [
+    "67b25391-2072-4ae6-957c-c200f38849dd"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most effectively uses data from the table to support the student&rsquo;s argument about the role of bufadienolide in the egg preferences of cane toad tadpoles. For each of five amphibian species included in the 2022 study, the table gives the percentage of available eggs that the cane toad tadpoles ate. According to the table, the tadpoles ate 10% of striped burrowing frog eggs and 1% of dainty green tree frog eggs, which suggests a preference for striped burrowing frog eggs over dainty green tree frog eggs. The table also indicates that neither of these species&rsquo; eggs produces bufadienolide. Thus, these data suggest that something other than the presence or absence of bufadienolide is needed to adequately explain the tadpoles&rsquo; egg preferences.</p><p>Choice B is incorrect. Although the table shows that for each of the five amphibian species, the cane toad tadpoles ate less than 100% of that species&rsquo; eggs, which demonstrates that the tadpoles did indeed leave some eggs for each species unharmed, this fact alone is irrelevant to the tadpoles&rsquo; preferences for some species&rsquo; eggs over other species&rsquo; eggs. Choice C is incorrect. Although the table indicates that the cane toad tadpoles ate 90% of the cane toad eggs and 7% of the short-footed frog eggs, which suggests that they prefer cane toad eggs over short-footed frog eggs, the table also indicates that cane toad eggs produce bufadienolide, whereas short-footed frog eggs do not. Therefore, these data are not sufficient to exclude that bufadienolide alone could explain the tadpoles&rsquo; preference for some species&rsquo; eggs over other species&rsquo; eggs. Choice D is incorrect. Although the table shows that for both dainty green tree frog eggs and little red tree frog eggs, the cane toad tadpoles ate 1% of those species&rsquo; eggs, it also indicates that neither produces bufadienolide. Thus, these data alone don&rsquo;t indicate bufadienolide&rsquo;s role in the tadpoles&rsquo; egg preferences.</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes data from the table that support the student&rsquo;s argument?</p>",
+  "externalid": "59ef7528-4cfb-4862-9d40-6f226b28ad3f",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Percentage of Available Eggs Eaten by Cane Toad Tadpoles</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Amphibian species (common name)</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Percentage of eggs eaten</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Native to Australia</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Produces bufadienolide</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">Little red tree frog</th><td style=\"text-align: center;\">1%</td><td>yes</td><td>no</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Cane toad</th><td style=\"text-align: center;\">90%</td><td>no</td><td>yes</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Short-footed frog</th><td style=\"text-align: center;\">7%</td><td>yes</td><td>no</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Striped burrowing frog</th><td style=\"text-align: center;\">10%</td><td>yes</td><td>no</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Dainty green tree frog</th><td style=\"text-align: center;\">1%</td><td>yes</td><td>no</td></tr></tbody></table></figure></p>\n<p>Native to Latin America, the cane toad was introduced to Australia in the 1930s. In recent decades, tadpoles in the Australian population have been shown to consume eggs of their own species. A 2022 study showed that when presented with cane toad eggs as well as eggs of native Australian amphibians, cane toad tadpoles disproportionately consumed eggs of their own species. This behavior results from their attraction to bufadienolide, a chemical produced by the eggs of cane toads but not by the eggs of native amphibians. However, using data from this study, a student wishes to argue that the presence of bufadienolide doesn&rsquo;t entirely explain the cane toad tadpoles&rsquo; preference for certain eggs over others.</p>",
+  "templateclusterid": "4671d07e-4cea-405a-a19a-fcea1e965381",
+  "parenttemplatename": "OSP-548-QUA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "67b25391-2072-4ae6-957c-c200f38849dd",
+      "content": "<p>The tadpoles consumed a higher percentage of the striped burrowing frog eggs than they did of the eggs of the dainty green tree frog.</p>"
+    },
+    {
+      "id": "d2ac66c4-9299-4f59-8dfd-a2410578efa4",
+      "content": "<p>The tadpoles left a certain percentage of the eggs of each of the five species unharmed, thus ultimately allowing them to hatch.&nbsp;</p>"
+    },
+    {
+      "id": "ee296d2b-0766-495a-8e08-7d8da82e33d8",
+      "content": "<p>The tadpoles consumed a lower percentage of the short-footed frog eggs than they did of the eggs of their own species.</p>"
+    },
+    {
+      "id": "06b4a482-588e-460b-9722-bb032ca243dc",
+      "content": "<p>The tadpoles consumed the same percentage of the dainty green tree frog eggs as they did of the little red tree frog eggs.&nbsp;</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

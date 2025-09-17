@@ -1,0 +1,38 @@
+{
+  "vaultid": "64a5682d-964b-4949-957c-f2af4cb017df",
+  "keys": [
+    "572a4eb5-2379-4487-89e4-3a4b18455990"
+  ],
+  "rationale": "<p>Choice A is the best answer because it best describes how the underlined portion functions in the text as a whole. The text says that the increased production quotas of food processing companies during World War II enabled employees to make better bargains in exchange for their labor. The underlined portion presents an example of this increased bargaining power: employees requested more favorable benefits, and employers complied because they were under pressure to fulfill the demanding terms of their contracts. Thus, the underlined portion of the text elaborates on a claim about labor relations in a particular industry (food processing) made earlier in the text. </p><p>Choice B is incorrect because there is no indication in the text that the economic factors that influenced food processing also influenced other parts of the economy; thus, the bargaining described in the underlined portion of the text cannot be called an example of a trend. Choice C is incorrect because the underlined portion supports the historical narrative of labor activism in food processing that is sketched in the text, instead of noting an exception to that narrative. Choice D is incorrect because while the underlined portion does discuss the demands that workers made in exchange for their labor, it does not discuss the identities of the workers. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes the function of the underlined portion in the text as a whole?</p>",
+  "externalid": "f00cced1-627e-44ea-8df1-1426316e7a88",
+  "stimulus": "<p>According to historian Vicki L. Ruiz, Mexican American women made crucial contributions to the labor movement during World War II. At the time, food processing companies entered into contracts to supply United States armed forces with canned goods. Increased production quotas conferred greater bargaining power on the companies&rsquo; employees, many of whom were Mexican American women: <span role=\"region\" aria-label=\"Referenced Content\"><u>employees insisted on more favorable benefits, and employers, who were anxious to fulfill the contracts, complied.</u></span> Thus, labor activism became a platform for Mexican American women to assert their agency.</p>",
+  "templateclusterid": "24a4032f-b446-43fd-b2ad-70d28ff832c4",
+  "parenttemplatename": "OSP-009-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "572a4eb5-2379-4487-89e4-3a4b18455990",
+      "content": "<p>It elaborates on a claim about labor relations in a particular industry made earlier in the text.</p>"
+    },
+    {
+      "id": "b7d8a6d8-4bb1-491f-b1b9-2bb1dae7f8b3",
+      "content": "<p>It offers an example of a trend in the World War II&ndash;era economy discussed earlier in the text.</p>"
+    },
+    {
+      "id": "8574440b-2f73-4a11-a9de-9c939fe2594f",
+      "content": "<p>It notes a possible exception to the historical narrative of labor activism sketched earlier in the text.</p>"
+    },
+    {
+      "id": "9372fc55-bf4c-4766-9d99-af8aea64d6e3",
+      "content": "<p>It provides further details about the identities of the workers discussed earlier in the text.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

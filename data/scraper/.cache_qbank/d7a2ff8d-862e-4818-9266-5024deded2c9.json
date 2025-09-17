@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most effectively uses data from the table to complete the comparison?</p>",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Land Area Covered by Native Flowering Plants at a Site in Antarctica</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Species</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Area covered in 2009 (in square meters)</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Area covered in 2018 (in square meters)</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Percent increase in area covered from 2009 to 2018</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\"><em>Deschampsia antarctica</em></th><td style=\"text-align: center;\">1,230</td><td style=\"text-align: center;\">1,576</td><td style=\"text-align: center;\">28%</td></tr><tr><th scope=\"row\" style=\"text-align: left;\"><em>Colobanthus quitensis</em></th><td style=\"text-align: center;\">6.9</td><td style=\"text-align: center;\">10.7</td><td style=\"text-align: center;\">55%</td></tr></tbody></table></figure></p>\n<p>The only flowering plant species native to Antarctica, <em>Colobanthus quitensis </em>and<em> Deschampsia antarctica</em>&nbsp;grow in places where the earth remains free of ice for much of the year. Botanist Niccoletta Cannone wondered how the warming of Antarctica&rsquo;s climate in recent years had affected these species, so she visited a site in Antarctica, first in 2009 and later in 2018, to count the number of plants growing there. Cannone found that the area of land covered by the two species had significantly expanded during the nine-year period. While both species likely benefited from warming temperatures,<em> Colobanthus quitensis </em><span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "40053968-b4e0-4c03-bb69-e70e37ca410b"
+  ],
+  "answerOptions": [
+    {
+      "id": "3dd867d3-0dc6-407e-96fd-8b067057998d",
+      "content": "<p>suppressed the growth of <em>Deschampsia antarctica</em>, which covered a smaller area of land in 2018 than it had in 2009.</p>"
+    },
+    {
+      "id": "40053968-b4e0-4c03-bb69-e70e37ca410b",
+      "content": "<p>saw a greater expansion than <em>Deschampsia antarctica </em>did, increasing the area of land it covered by more than half.</p>"
+    },
+    {
+      "id": "24129ee0-0416-4ca7-80f1-3d13d156c654",
+      "content": "<p>showed a greater increase in the average size of individual plants than <em>Deschampsia antarctica </em>did.</p>"
+    },
+    {
+      "id": "3678edd5-ee36-4b4b-ae52-e0de362224df",
+      "content": "<p>covered land newly freed from ice at a rate 55% faster than that of <em>Deschampsia antarctica</em>.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most effectively uses data from the table to complete the comparison of how <em>Colobanthus quitensis</em> benefited from warming temperatures with how <em>Deschampsia antarctica</em> benefited from them. The table shows the land area covered by these two plant species at a site in Antarctica. According to the table, <em>Colobanthus quitensis</em> increased the area it covered by 55% from 2009 to 2018, whereas <em>Deschampsia antarctica</em> increased the area it covered by 28% during the same period. It therefore follows that <em>Colobanthus quitensis</em> saw a greater expansion than <em>Deschampsia antarctica</em> did and that <em>Colobanthus quitensis</em> increased the area of land it covered by more than half.</p><p>Choice A is incorrect because according to the table, <em>Deschampsia antarctica</em> covered 1,230 square meters of land in 2009 and 1,576 square meters of land in 2018. <em>Deschampsia antarctica</em> therefore covered a larger, not a smaller, area of land in 2018 than in 2009. Moreover, there&rsquo;s no information in the text or the table that suggests that one species of the plant suppressed the other. Choice C is incorrect because it inaccurately describes the data in the table. The table shows the land area covered by <em>Colobanthus quitensis</em> and <em>Deschampsia antarctica</em> and the percent increase in area covered by the two species from 2009 to 2018, not the average size of individual plants belonging to the two species. The data in the table therefore can&rsquo;t be used to make a comparison of the increase in individual plants&rsquo; average size. Choice D is incorrect because the table shows the land area covered by <em>Colobanthus quitensis</em> and <em>Deschampsia antarctica</em> and the percent increase in area covered by the two species from 2009 to 2018, not the rate at which the species increased the area they covered. Moreover, there&rsquo;s nothing in the table or the text that suggests that the areas covered by the two species were newly freed from ice.</p>",
+  "externalid": "d7a2ff8d-862e-4818-9266-5024deded2c9",
+  "correct_answer": [
+    "B"
+  ]
+}

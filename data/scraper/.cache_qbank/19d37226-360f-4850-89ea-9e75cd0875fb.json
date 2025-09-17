@@ -1,0 +1,38 @@
+{
+  "vaultid": "e40c7b81-fba3-481e-aa00-9293b60ba388",
+  "keys": [
+    "9a1231f9-ecfe-45cd-958a-fb4eeba317b6"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately describes the text&rsquo;s purpose, which is to discuss the important role Barrier Williams played in supporting many other Black women as they relocated to the northern United States during the early years of the Great Migration. After introducing Barrier Williams, the text describes how she helped find jobs for other Black women, who in many cases relocated in search of better employment prospects than the South could offer at the time. The text indicates that by doing so, she eased these women&rsquo;s transition as their circumstances changed. </p><p>Choice B is incorrect. Although the text mentions Barrier Williams&rsquo;s work as a political activist and writer for the <em>Chicago Defender</em>, it doesn&rsquo;t discuss any professional connections she made in these roles or indicate that she used any such connections in her work to secure employment for other Black women. Choice C is incorrect. Although the text discusses a factor that caused many women to relocate during the Great Migration, their difficulty finding employment in the South, the text doesn&rsquo;t indicate that this factor motivated the start of the Great Migration. Moreover, the text doesn&rsquo;t discuss the factors that motivated Black men to migrate. Choice D is incorrect. Although the text mentions the difficult employment prospects for Black women in the domestic and agricultural sectors in the South during the Great Migration, the text&rsquo;s main purpose isn&rsquo;t to provide an overview of the employment challenges Black women faced in these sectors. Rather, it provides this information to show that Barrier Williams played a crucial role in supporting many Black women who relocated to the North by helping them achieve one of their main goals, securing a job. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "externalid": "19d37226-360f-4850-89ea-9e75cd0875fb",
+  "stimulus": "<p>Early in the Great Migration of 1910&ndash;1970, which involved the mass migration of Black people from the southern to the northern United States, political activist and <em>Chicago Defender</em> writer Fannie Barrier Williams was instrumental in helping other Black women establish themselves in the North. Many women hoped for better employment opportunities in the North because, in the South, they faced much competition for domestic employment and men tended to get agricultural work. To aid with this transition, Barrier Williams helped secure job placement in the North for many women before they even began their journey.</p>",
+  "templateclusterid": "a5ab3a5a-be7a-4eb1-a287-41cdefdcc610",
+  "parenttemplatename": "OSP-051-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "9a1231f9-ecfe-45cd-958a-fb4eeba317b6",
+      "content": "<p>To introduce and illustrate Barrier Williams&rsquo;s integral role in supporting other Black women as their circumstances changed during part of the Great Migration</p>"
+    },
+    {
+      "id": "8b7fde5f-9fb7-4836-9d75-40f313745d33",
+      "content": "<p>To establish that Barrier Williams used her professional connections to arrange employment for other Black women, including jobs with the <em>Chicago Defender</em></p>"
+    },
+    {
+      "id": "e936678b-f1e7-4838-aa45-654285051630",
+      "content": "<p>To demonstrate that the factors that motivated the start of the Great Migration were different for Black women than they were for Black men</p>"
+    },
+    {
+      "id": "e2dc5020-ed02-4195-afc9-9aae00c4d661",
+      "content": "<p>To provide an overview of the employment challenges faced by Black women in the agricultural and domestic spheres in the southern United States</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

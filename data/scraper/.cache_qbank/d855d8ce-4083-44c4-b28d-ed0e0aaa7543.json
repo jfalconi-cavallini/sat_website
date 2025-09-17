@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Few New Yorkers have heard Thelma Pollard&rsquo;s name. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> many have seen her work in the famous Broadway musical <em>The Phantom of the Opera</em>. As the musical&rsquo;s longtime makeup supervisor, Pollard put the iconic makeup on the face of the Phantom himself.</p>",
+  "type": "mcq",
+  "keys": [
+    "7cfc1400-c771-4064-b8d4-90d77f9dde5a"
+  ],
+  "answerOptions": [
+    {
+      "id": "8c4af20e-e415-4891-89df-a3b9ee6de116",
+      "content": "<p>Similarly,</p>"
+    },
+    {
+      "id": "842242ce-1ea2-46f7-a1f3-6722084a7db4",
+      "content": "<p>Therefore,</p>"
+    },
+    {
+      "id": "a1f23fc3-2149-42ee-aeef-7483f7022327",
+      "content": "<p>For example,</p>"
+    },
+    {
+      "id": "7cfc1400-c771-4064-b8d4-90d77f9dde5a",
+      "content": "<p>However,</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. \"However\" logically signals that the claim in this sentence&mdash;that many New Yorkers have seen Pollard&rsquo;s work in a famous Broadway musical&mdash;is true despite the previous information that few New Yorkers have heard Pollard&rsquo;s name.</p><p>Choice A is incorrect because \"similarly\" illogically signals that the claim in this sentence is similar to the previous information that few New Yorkers have heard Pollard&rsquo;s name. Instead, the claim that many New Yorkers have seen Pollard&rsquo;s work is true despite the previous information. Choice B is incorrect because \"therefore\" illogically signals that the claim in this sentence is a result of the previous information that few New Yorkers have heard Pollard&rsquo;s name. Instead, the claim that many New Yorkers have seen Pollard&rsquo;s work is true despite the previous information. Choice C is incorrect because \"for example\" illogically signals that the claim in this sentence exemplifies the previous information that few New Yorkers have heard Pollard&rsquo;s name. Instead, the claim that many New Yorkers have seen Pollard&rsquo;s work is true despite the previous information.</p>",
+  "externalid": "d855d8ce-4083-44c4-b28d-ed0e0aaa7543",
+  "correct_answer": [
+    "D"
+  ]
+}

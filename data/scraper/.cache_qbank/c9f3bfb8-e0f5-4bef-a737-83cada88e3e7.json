@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>The Uto-Aztecan language family is divided into a northern branch, which includes the Shoshone language of present-day Idaho and Utah, and a southern one, whose best-known representative is Nahuatl, the language of the Aztec Empire in Mexico. Lexical similarities across the family, including of botanical terms, confirm descent from a single language spoken millennia ago, and the family&rsquo;s geographical distribution suggests an origin in what is now the US Southwest. However, vocabulary pertaining to maize isn&rsquo;t shared between northern and southern branches, despite the crop&rsquo;s universal cultivation among Uto-Aztecan tribes. Given archaeological evidence that maize originated in Mexico and diffused northward into what became the US Southwest, some linguists reason that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "7685def6-7b4c-4055-850c-9ca1f6d96483"
+  ],
+  "answerOptions": [
+    {
+      "id": "c5caec48-a6c7-4e28-9698-fe76417baeec",
+      "content": "<p>northern Uto-Aztecan tribes likely obtained the crop directly from a southern Uto-Aztecan tribe rather than from a non-Uto-Aztecan tribe.</p>"
+    },
+    {
+      "id": "4f8e722e-383e-4539-8a9a-954cd1fe22ec",
+      "content": "<p>variation in maize-related vocabulary within each branch of the Uto-Aztecan family likely reflects regionally specific methods for cultivating the crop.</p>"
+    },
+    {
+      "id": "807c666c-0e90-440d-bd05-c6973bb24074",
+      "content": "<p>southern Uto-Aztecan tribes likely acquired maize at roughly the same time as northern Uto-Aztecan tribes did, though from different sources.</p>"
+    },
+    {
+      "id": "7685def6-7b4c-4055-850c-9ca1f6d96483",
+      "content": "<p>the family&rsquo;s division into northern and southern branches likely preceded the acquisition of the crop by the Uto-Aztecan tribes.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the discussion of Uto-Aztecan languages. The text explains that the northern and southern branches of the Uto-Aztecan language family descended from a single language (believed to have originated in what is now the US Southwest), resulting in similarities across the family&rsquo;s languages; however, the branches don&rsquo;t have similar vocabulary for maize, even though maize has been cultivated by all Uto-Aztecan tribes. The text also indicates that maize originated in Mexico and spread northward into what is now the US Southwest&mdash;the area where the Uto-Aztecan language family originated. It follows, then, that the language family had already divided into northern and southern branches before maize reached that area; if maize had been present before the division occurred, the family&rsquo;s origin language would have had terminology for it that likely would have been reflected in the branches, meaning they would have had similar vocabulary for maize. If maize arrived after the division occurred, however, the tribes in the two regions likely would have developed vocabulary pertaining to maize separately, at the times when they acquired the crop.</p><p>Choice A is incorrect because the text focuses on vocabulary pertaining to maize in the branches of the Uto-Aztecan language family, and referring only to how some Uto-Aztecan tribes obtained maize wouldn&rsquo;t directly address the role of language. Moreover, if northern Uto-Aztecan tribes had acquired maize from a southern Uto-Aztecan tribe, it&rsquo;s reasonable to assume that the northern tribes might have also picked up southern Uto-Aztecan terminology for maize in that exchange. Choice B is incorrect because the text discusses the fact that the northern and southern branches of the Uto-Aztecan language family don&rsquo;t have shared vocabulary pertaining to maize, not the idea that there are variations in such vocabulary within each branch&mdash;that is, the text focuses on differences between the two branches, not on differences between languages within a branch. Choice C is incorrect because the text focuses on vocabulary pertaining to maize in the branches of the Uto-Aztecan language family, and referring only to the timing and source of maize acquisition wouldn&rsquo;t directly address the role of language. Furthermore, the text implies that southern Uto-Aztecan tribes probably acquired maize before the northern tribes did, given the evidence that maize originated in Mexico&mdash;the location of the best-known representative of the southern branch of the Uto-Aztecan language family&mdash;before spreading to the north.</p>",
+  "externalid": "c9f3bfb8-e0f5-4bef-a737-83cada88e3e7",
+  "correct_answer": [
+    "D"
+  ]
+}

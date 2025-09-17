@@ -1,0 +1,38 @@
+{
+  "vaultid": "5f5a815b-638f-47d3-9b79-dbd43d8fcf82",
+  "keys": [
+    "edd62475-9a26-4077-ade4-980e38b7f691"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is punctuation use between a name and title and between a subject and a verb. No punctuation is needed between the proper noun &ldquo;Heather Grab&rdquo; and &ldquo;entomologist,&rdquo; the title that describes Grab. Additionally, no punctuation is needed between the sentence&rsquo;s subject (&ldquo;Entomologist Heather Grab&rdquo;) and the main verb (&ldquo;found&rdquo;) that indicates what Grab did. </p><p>Choice A is incorrect because no punctuation is needed between the subject and the verb. Choice B is incorrect because no punctuation is needed. Setting the entomologist&rsquo;s name off with commas suggests that it could be removed without affecting the coherence of the sentence, which isn&rsquo;t the case. Choice D is incorrect because no punctuation is needed between the subject and the verb. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "5c126f26-375f-4a6c-8e1b-51954164e3ac",
+  "stimulus": "<p>A recent study tracked the number of bee species present in twenty-seven New York apple orchards over a ten-year period. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> found that when wild growth near an orchard was cleared, the number of different bee species visiting the orchard decreased.&nbsp;</p>",
+  "templateclusterid": "98b65e65-e52e-4d00-9242-faa2a7b4e448",
+  "parenttemplatename": "OSP-714-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d89d4832-9091-4c59-ab6c-8ef088054064",
+      "content": "<p>Entomologist Heather Grab:</p>"
+    },
+    {
+      "id": "cac09006-c7b9-4bdd-b099-1afb9216b772",
+      "content": "<p>Entomologist, Heather Grab,</p>"
+    },
+    {
+      "id": "edd62475-9a26-4077-ade4-980e38b7f691",
+      "content": "<p>Entomologist Heather Grab</p>"
+    },
+    {
+      "id": "a128dfca-e1cd-4f55-b8ea-e22e5833855f",
+      "content": "<p>Entomologist Heather Grab,</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

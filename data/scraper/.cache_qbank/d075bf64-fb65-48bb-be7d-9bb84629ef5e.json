@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best describes the function of the underlined portion in the text as a whole?</p>",
+  "stimulus": "<p>In 2023 literary scholar Jeremy Douglass cautioned technology investors and enthusiasts who predict conventional books&rsquo; ultimate displacement by newer forms of media. Douglass observed that <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">the concept of an &ldquo;interactive&rdquo; text is much older than technologists assume, extending back to the first time readers scratched notes into a text&rsquo;s margins</span>. In addition, newer media, such as video games, haven&rsquo;t replaced older forms of entertainment, such as comic books, but rather exist alongside them. Douglass believes that rather than supplanting books, technology is simply making new forms of expression possible.</p>",
+  "keys": [
+    "b0a55c79-7489-4bc5-b1c3-70f99a450573"
+  ],
+  "answerOptions": [
+    {
+      "id": "b0a55c79-7489-4bc5-b1c3-70f99a450573",
+      "content": "<p>It challenges the stance of the investors and enthusiasts who are mentioned earlier in the text.</p>"
+    },
+    {
+      "id": "a022f785-6fcb-47ed-a23d-88ae6a0e4414",
+      "content": "<p>It explains the basis for the claim made by the technologists mentioned in the text.</p>"
+    },
+    {
+      "id": "9d4027b6-2470-45a7-8086-c65d90293533",
+      "content": "<p>It suggests that academics are better suited than investors to see the potential uses of contemporary interactive texts.</p>"
+    },
+    {
+      "id": "6066c0b2-a9d2-41db-a997-05881b9da210",
+      "content": "<p>It provides a historical anecdote about the technological challenges involved in reading the earliest interactive texts.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately describes how the underlined portion functions in the text as a whole. The first sentence of the text introduces literary scholar Jeremy Douglass&rsquo;s warning to technology investors and enthusiasts against predicting the displacement of conventional books by newer media forms. The next sentence, which is underlined in part, presents Douglass&rsquo;s observation that interactive texts are hardly new; they have been available for longer than technologists assume, beginning with the first time readers wrote notes in texts&rsquo; margins. Thus, the function of the underlined portion is to challenge the stance of the technology investors and enthusiasts mentioned earlier in the text. As the remainder of the text points out, newer media doesn&rsquo;t necessarily replace older media, but rather, as Douglass believes, leads to new forms of expression.</p><p>Choice B is incorrect because the underlined portion challenges the position taken by investors and enthusiasts; it doesn&rsquo;t provide context for their claims. Choice C is incorrect because the underlined portion doesn&rsquo;t mention academics or compare them to investors regarding their ability to see potential in using contemporary interactive texts; instead, the underlined portion challenges the position of investors and enthusiasts who predict that conventional books will be replaced by newer forms of media. Choice D is incorrect because the underlined portion doesn&rsquo;t address technological challenges; instead, it disputes the stance taken by investors and enthusiasts, suggesting that conventional books haven&rsquo;t been displaced by traditional interactions with texts, such as writing in the margins, and won&rsquo;t be supplanted by newer forms of media either.</p>",
+  "externalid": "d075bf64-fb65-48bb-be7d-9bb84629ef5e",
+  "correct_answer": [
+    "A"
+  ]
+}

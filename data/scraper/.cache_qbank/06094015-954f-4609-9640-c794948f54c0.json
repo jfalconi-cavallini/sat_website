@@ -1,0 +1,38 @@
+{
+  "vaultid": "c0ab2718-53d2-4900-854c-5c4b08bc1fff",
+  "keys": [
+    "574c417b-3733-4b9e-9a00-abb180bc8d11"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period after &ldquo;configurations&rdquo; is used correctly to mark the boundary between one sentence (&ldquo;The intense&hellip;configurations&rdquo;) and another (&ldquo;TMAO&hellip;fish&rdquo;). The supplementary phrase (&ldquo;ensuring&hellip;configurations&rdquo;) modifies the main clause of the first sentence (&ldquo;The chemical&hellip;effect&rdquo;), and &ldquo;TMAO&rdquo; is the subject of the second sentence. </p><p>Choice B is incorrect because it results in a run-on sentence. The sentences&nbsp; (&ldquo;The intense&hellip;configurations&rdquo; and &ldquo;TMAO&hellip;fish&rdquo;) are fused without punctuation and/or a conjunction. Choice C is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to mark the boundary between sentences. Choice D is incorrect. Without a comma preceding it, the conjunction &ldquo;and&rdquo; can&rsquo;t be used in this way to join sentences. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "06094015-954f-4609-9640-c794948f54c0",
+  "stimulus": "<p>The intense pressure found in the deep ocean can affect the structure of proteins in fish&rsquo;s cells, distorting the proteins&rsquo; shape. The chemical trimethylamine N-oxide (TMAO) counters this effect, ensuring that proteins retain their original <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> is found in high concentrations in the cells of the deepest-dwelling fish.</p>",
+  "templateclusterid": "55729ae5-4213-4d47-91d0-920ddac40067",
+  "parenttemplatename": "OSP-704-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "574c417b-3733-4b9e-9a00-abb180bc8d11",
+      "content": "<p>configurations. TMAO</p>"
+    },
+    {
+      "id": "53262cda-2558-48e1-82ff-e28803689ad4",
+      "content": "<p>configurations TMAO</p>"
+    },
+    {
+      "id": "d8a3b952-3ed8-44df-b947-c1b93da1909c",
+      "content": "<p>configurations, TMAO</p>"
+    },
+    {
+      "id": "bc225b30-771e-4152-a2d2-ea780bb9d54f",
+      "content": "<p>configurations and TMAO</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

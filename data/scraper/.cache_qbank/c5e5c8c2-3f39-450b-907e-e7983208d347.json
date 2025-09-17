@@ -1,0 +1,38 @@
+{
+  "vaultid": "3085ae6e-a238-44b8-8a61-bfa84139b925",
+  "keys": [
+    "07f62782-68ac-43bb-bea9-23b7f7a47a8e"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the Three Sisters intercropping system. As used in this context, &ldquo;intricate&rdquo; would mean made up of complexly related elements. The text indicates that in the Three Sisters system, maize, squash, and beans form a &ldquo;web of relations&rdquo; in which the crops interact in various ways. The text&rsquo;s description of these interactions&mdash;the bean vines growing on the maize stalks, the squash vines keeping weeds away, and the beans adding nutrients that the maize and squash use&mdash;provides context suggesting that this &ldquo;web of relations&rdquo; is intricate. </p><p>Choice A is incorrect because describing the relationship among the crops in the Three Sisters system as &ldquo;indecipherable,&rdquo; or impossible to comprehend, would not make sense in context. Although the text presents the relationship as complex, the text&rsquo;s description of the role that each crop plays makes it clear that the relationship is well understood, not indecipherable.&nbsp;Choice B is incorrect because the text discusses the practical benefits that each plant in the Three Sisters system provides to other members of the system, showing that the relationship among the crops that make up the system is not &ldquo;ornamental,&rdquo; or mainly serving a decorative purpose. Choice C is incorrect because describing the relationship among the crops in the Three Sisters system as &ldquo;obscure,&rdquo; or unknown or poorly understood, would not make sense in context. Although the text presents the relationship as complex, the text&rsquo;s description of the role that each crop plays makes it clear that the relationship is well understood, not obscure.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "c5e5c8c2-3f39-450b-907e-e7983208d347",
+  "stimulus": "<p>In the Indigenous intercropping system known as the Three Sisters, maize, squash, and beans form an <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> web of relations: maize provides the structure on which the bean vines grow; the squash vines cover the soil, discouraging competition from weeds; and the beans aid their two &ldquo;sisters&rdquo; by enriching the soil with essential nitrogen.</p>",
+  "templateclusterid": "6adf7a7f-ecc3-4611-b85c-62e6a521dd23",
+  "parenttemplatename": "OSP-939-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "24b6e276-f6f8-4b9b-848a-ca3c02d831c4",
+      "content": "<p>indecipherable</p>"
+    },
+    {
+      "id": "3698d0f4-b425-454c-8aae-2f412e54b37f",
+      "content": "<p>ornamental</p>"
+    },
+    {
+      "id": "e3ae1073-f022-4bc8-81ac-0dc23ef4ab31",
+      "content": "<p>obscure</p>"
+    },
+    {
+      "id": "07f62782-68ac-43bb-bea9-23b7f7a47a8e",
+      "content": "<p>intricate</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "278229e6-53d1-4ca7-81d2-02267a349682",
+  "keys": [
+    "78733f7c-69e7-486b-8ac5-17fae92dc7f7"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the sentence about the influences on Banisadr&rsquo;s work. In context, &ldquo;It is by no means&rdquo; followed by &ldquo;unimportant&rdquo; conveys how it is relevant to recognize Bosch&rsquo;s influence on Banisadr. The text points out that the artist himself cites Bosch as an inspiration, and then goes on to claim that <em>The Epic of Gilgamesh</em> has had a more significant influence than Bosch.&nbsp;</p><p>Choice A is incorrect because &ldquo;substantial,&rdquo; which means weighty or meaningful, incorrectly suggests that it wouldn&rsquo;t be meaningful to acknowledge Bosch&rsquo;s influence on Banisadr. The phrase &ldquo;indeed, Banisadr himself cites Bosch as an inspiration&rdquo; doesn&rsquo;t support this suggestion.&nbsp;Choice B is incorrect because &ldquo;satisfying,&rdquo; which means pleasing, incorrectly suggests that it wouldn&rsquo;t be pleasing to acknowledge Bosch&rsquo;s influence on Banisadr. The phrase &ldquo;indeed, Banisadr himself cites Bosch as an inspiration&rdquo; doesn&rsquo;t support this suggestion.&nbsp;Choice D is incorrect because &ldquo;appropriate,&rdquo; which means suitable, incorrectly suggests that it wouldn&rsquo;t be proper to acknowledge Bosch&rsquo;s influence on Banisadr. The phrase &ldquo;indeed, Banisadr himself cites Bosch as an inspiration&rdquo; doesn&rsquo;t support this suggestion.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "19bfac22-c7f1-44c5-ad77-cd2e8185eb37",
+  "stimulus": "<p>It is by no means <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> to recognize the influence of Dutch painter Hieronymus Bosch on Ali Banisadr&rsquo;s paintings; indeed, Banisadr himself cites Bosch as an inspiration. However, some scholars have suggested that the ancient Mesopotamian poem <em>Epic of Gilgamesh</em> may have had a far greater impact on Banisadr&rsquo;s work.</p>",
+  "templateclusterid": "b8fc1844-1cbf-4ee4-86a7-0b7fb145821b",
+  "parenttemplatename": "OSP-981-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "19e4fe70-7d1d-4902-879c-b6539243446b",
+      "content": "<p>substantial</p>"
+    },
+    {
+      "id": "414b1cf8-c67e-4687-9731-df3fb2fdca85",
+      "content": "<p>satisfying</p>"
+    },
+    {
+      "id": "78733f7c-69e7-486b-8ac5-17fae92dc7f7",
+      "content": "<p>unimportant</p>"
+    },
+    {
+      "id": "3bb9e553-1e06-4717-82d6-51ad97cd6e5d",
+      "content": "<p>appropriate</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

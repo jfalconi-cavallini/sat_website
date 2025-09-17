@@ -1,0 +1,38 @@
+{
+  "vaultid": "3ad01216-8856-4bf4-b97b-b8871ae2c466",
+  "keys": [
+    "f2eb9c72-ba5b-4879-a71a-1b6ba69143fd"
+  ],
+  "rationale": "<p>Choice C is the best answer. The sentence effectively emphasizes the fossil&rsquo;s significance, explaining that the fossil is rare and illustrates an early stage in the evolution of pinnipeds from their land-dwelling ancestors. </p><p>Choice A is incorrect. The sentence describes the fossil Rybczynski found; it doesn&rsquo;t emphasize the fossil&rsquo;s significance. Choice B is incorrect. The sentence mentions that a fossil resembling both pinnipeds and their ancestors was found; it doesn&rsquo;t emphasize the fossil&rsquo;s significance.&nbsp;Choice D is incorrect. The sentence notes a term used to describe the fossil Rybczynski found; it doesn&rsquo;t emphasize the fossil&rsquo;s significance.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>The student wants to emphasize the fossil&rsquo;s significance. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "externalid": "d6d5fa78-74b9-4d37-a15f-af9162d592aa",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Pinnipeds, which include seals, sea lions, and walruses, live in and around water.</li>\n<li>Pinnipeds are descended not from sea animals but from four-legged, land-dwelling carnivores.</li>\n<li>Canadian paleobiologist Natalia Rybczynski recently found a fossil with four legs, webbed toes, and the skull and teeth of a seal.</li>\n<li>Rybczynski refers to her rare find as a &ldquo;transitional fossil.&rdquo;</li>\n<li>The fossil illustrates an early stage in the evolution of pinnipeds from their land-dwelling ancestors.</li>\n</ul>",
+  "templateclusterid": "a9b9d0ee-efc2-4bc6-a850-bdca409e008b",
+  "parenttemplatename": "OSP-785-SYN",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "6db33667-e3ce-4e53-acbe-b6bb1cf6bc29",
+      "content": "<p>Canadian paleobiologist Natalia Rybczynski&rsquo;s fossil has the skull and teeth of a seal, which, like sea lions and walruses, is a pinniped.</p>"
+    },
+    {
+      "id": "47ba6000-171a-42ec-a5e6-8df4031c2655",
+      "content": "<p>Pinnipeds are descended from four-legged, land-dwelling carnivores; a fossil that resembles both was recently found.</p>"
+    },
+    {
+      "id": "f2eb9c72-ba5b-4879-a71a-1b6ba69143fd",
+      "content": "<p>Having four legs but the skull and teeth of a seal, the rare fossil illustrates an early stage in the evolution of pinnipeds from their land-dwelling ancestors.</p>"
+    },
+    {
+      "id": "5d8f27cb-0ad7-48d2-8fc4-87d53c51bfdd",
+      "content": "<p>A &ldquo;transitional fossil&rdquo; was recently found by paleobiologist Natalia Rybczynski.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

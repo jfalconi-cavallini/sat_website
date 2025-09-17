@@ -1,0 +1,38 @@
+{
+  "vaultid": "fa527611-05c5-47cc-bf78-b5bcda0b0270",
+  "keys": [
+    "348581ba-1fcf-4513-8ec0-14b74705c0f3"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of damage to viburnum plants. In this context, &ldquo;healthy&rdquo; would mean not distressed or diseased. The text states that insect damage may cause viburnum plants to be discolored and have abnormal growths. In the next sentence, the phrase &ldquo;on the other hand&rdquo; indicates a contrast with the description of plants suffering from damage. Thus, the context contrasts the appearance of healthy, undamaged plants with the appearance of damaged plants. </p><p>Choice A is incorrect because in this context, &ldquo;struggling&rdquo; would mean working against difficulties. The text first describes viburnum plants experiencing damage by insects, and the phrase &ldquo;on the other hand&rdquo; then establishes a contrast with that description. It wouldn&rsquo;t make sense to contrast struggling viburnum plants with those being damaged by insects, because in both cases the plants would be experiencing difficulties. Choice B is incorrect because in this context, &ldquo;beneficial&rdquo; would mean producing good or helpful effects. The text doesn&rsquo;t discuss how viburnum plants affect other things or suggest that the plants are helpful in some way; rather, it focuses on how viburnum plants are affected by certain conditions. Choice C is incorrect because in this context &ldquo;simple&rdquo; would mean plain or uncomplicated. The text doesn&rsquo;t discuss whether certain viburnum plants are complicated or uncomplicated; rather, it focuses on how viburnum plants are affected by certain conditions. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "74ad1b5e-86aa-4896-b0cc-5c8fd88485c2",
+  "stimulus": "<p>According to botanists, a viburnum plant experiencing insect damage may develop erineum&mdash;a discolored, felty growth&mdash;on its leaf blades. A <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> viburnum plant, on the other hand, will have leaves with smooth surfaces and uniformly green coloration.  </p>",
+  "templateclusterid": "9f524549-a6cd-490e-b543-daa2c125e718",
+  "parenttemplatename": "OSP-962-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "86d8fe39-2ba5-4bfe-9ff9-663e0c04a468",
+      "content": "<p>struggling</p>"
+    },
+    {
+      "id": "7fead038-56c9-47f6-ab81-fb922b10b7b6",
+      "content": "<p>beneficial</p>"
+    },
+    {
+      "id": "f6705f54-9702-4360-864b-5b94a514c32a",
+      "content": "<p>simple</p>"
+    },
+    {
+      "id": "348581ba-1fcf-4513-8ec0-14b74705c0f3",
+      "content": "<p>healthy</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

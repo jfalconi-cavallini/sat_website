@@ -1,0 +1,31 @@
+{
+  "stem": "<p>The student wants to explain why brine pools are toxic to most sea life. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>In 2022, University of Miami researchers discovered brine pools in the Gulf of Aqaba.</li>\n<li>A brine pool is an underwater lake that sits on the ocean floor.</li>\n<li>The water in brine pools is three to eight times saltier than the surrounding ocean.</li>\n<li>The extreme saltiness of this water makes it toxic to most sea life.</li>\n<li>Some forms of bacteria are able to survive in brine pools.</li>\n</ul>",
+  "type": "mcq",
+  "keys": [
+    "45d98df6-c402-433f-9f4a-6dd0e4169a0d"
+  ],
+  "answerOptions": [
+    {
+      "id": "3c816a56-a473-430c-82eb-5f1e08964ff4",
+      "content": "<p>Though brine pools are toxic to most sea life, some bacteria can survive there.</p>"
+    },
+    {
+      "id": "45d98df6-c402-433f-9f4a-6dd0e4169a0d",
+      "content": "<p>The water in brine pools is toxic to most sea life because it is three to eight times saltier than the surrounding ocean.</p>"
+    },
+    {
+      "id": "d82ed982-827e-4916-8114-1d641c346af4",
+      "content": "<p>The brine pools in the Gulf of Aqaba are toxic to most sea life and were discovered by researchers in 2022.</p>"
+    },
+    {
+      "id": "df4f441c-dc21-4b4b-ad9a-7b309b6724e9",
+      "content": "<p>Brine pools are salty underwater lakes that sit on the ocean floor.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The sentence explains why brine pools are toxic to most sea life, noting that the water in the pools is three to eight times saltier than the surrounding ocean.</p><p>Choice A is incorrect. While the sentence states that brine pools are toxic to most sea life, it doesn&rsquo;t explain why the pools are toxic. Choice C is incorrect. While the sentence states that brine pools are toxic to most sea life, it doesn&rsquo;t explain why the pools are toxic. Choice D is incorrect because the sentence describes brine pools, mentioning that they are salty, but doesn&rsquo;t explain why they are toxic to most sea life.</p>",
+  "externalid": "2ecd65e4-e5b9-4b95-a7c9-7f1f5031ccf3",
+  "correct_answer": [
+    "B"
+  ]
+}

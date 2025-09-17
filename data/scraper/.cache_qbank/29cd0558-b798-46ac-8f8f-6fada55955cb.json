@@ -1,0 +1,38 @@
+{
+  "vaultid": "9a68b034-dacc-479e-a4a0-cde8100f2ab1",
+  "keys": [
+    "0e09a523-59e8-4950-ad30-3b812638c61f"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately states the main idea of the text. The text describes the book <em>Vibration Cooking: or, the Travel Notes of a Geechee Girl</em> as Smart-Grosvenor&rsquo;s &ldquo;most influential project&rdquo; and as &ldquo;unusual for its time.&rdquo; The text also notes that the book and author have influenced contemporary approaches to writing about food and cooking. Therefore, the text mainly conveys that <em>Vibration Cooking: or, the Travel Notes of a Geechee Girl</em> is an unconventional and important contribution to food writing. </p><p>Choice B is incorrect. Although the text mentions that Smart-Grosvenor worked in national public television and radio and was a food writer, these details aren&rsquo;t the main focus. Rather than focusing on Smart-Grosvenor&rsquo;s various jobs, the text focuses specifically on one specific book she wrote. Choice C is incorrect. Although the text suggests that <em>Vibration Cooking: or, the Travel Notes of a Geechee Girl </em>was groundbreaking, it doesn&rsquo;t suggest that the book didn&rsquo;t receive praise when it was published. In fact, the text states that the book is &ldquo;long admired.&rdquo;&nbsp;Choice D is incorrect because the text states that Smart-Grosvenor was a culinary anthropologist and that her book influenced later approaches to food writing but doesn&rsquo;t indicate that Smart-Grosvenor or her book influenced people to begin cooking for themselves. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes the main idea of the text?</p>",
+  "externalid": "29cd0558-b798-46ac-8f8f-6fada55955cb",
+  "stimulus": "<p>Culinary anthropologist Vertamae Smart-Grosvenor may be known for her decades of work in national public television and radio, but her book <em>Vibration Cooking: or, the Travel Notes of a Geechee Girl</em> is likely her most influential project. The 1970 book, whose title refers to Smart-Grosvenor&rsquo;s roots in the Low Country of South Carolina, was unusual for its time. It combined memoir, recipes, travel writing, and social commentary and challenged notions about conventions of food and cooking. Long admired by many, the book and its author have shaped contemporary approaches to writing about cuisine.</p>",
+  "templateclusterid": "9aae9c90-e970-478d-a348-322112bb49d4",
+  "parenttemplatename": "OSP-004-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "0e09a523-59e8-4950-ad30-3b812638c61f",
+      "content": "<p>Smart-Grosvenor&rsquo;s unconventional book <em>Vibration Cooking: or, the Travel Notes of a Geechee Girl</em>&nbsp;is an important contribution to food writing.</p>"
+    },
+    {
+      "id": "41af6601-c880-4715-b5d9-d50102b94e11",
+      "content": "<p>Smart-Grosvenor held many different positions over her life, including reporter and food writer.</p>"
+    },
+    {
+      "id": "d5373928-9dbd-4772-ae50-002d1125d637",
+      "content": "<p>Smart-Grosvenor&rsquo;s groundbreaking book <em>Vibration Cooking: or, the Travel Notes of a Geechee Girl</em> didn&rsquo;t receive the praise it deserved when it was first published in 1970.</p>"
+    },
+    {
+      "id": "291a4aa0-850e-4bc3-a25a-59beb73690be",
+      "content": "<p>Smart-Grosvenor was a talented chef whose work inspired many people to start cooking for themselves.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

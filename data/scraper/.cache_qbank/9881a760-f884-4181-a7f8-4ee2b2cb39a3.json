@@ -1,0 +1,38 @@
+{
+  "vaultid": "f9df40bb-5fcd-4ce1-810d-1f8b263f6db7",
+  "keys": [
+    "171a550d-5ed6-46f4-9823-a5d916f090ac"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most accurately describes Biliroglu and colleagues&rsquo; claim about how the polarons function in relation to superfluorescence. The text indicates that &ldquo;until recently,&rdquo; superfluorescence (intense, synchronized bursts of light emitted by dipoles) has solely been observed at very cold temperatures. However, it also states that, recently, Biliroglu and colleagues report observing the phenomenon at room temperature. They achieved this using &ldquo;thin films made of perovskite and other similarly crystalline materials,&rdquo; which the researchers claim allows for the formation of polarons. They also suggest that these polarons might absorb the thermal shocks that typically disrupt dipole synchronization at warmer temperatures. Thus, based on the text, Biliroglu and colleagues believe that polarons help dipoles synchronize at temperatures well above those at which superfluorescence had previously been observed. </p><p>Choice A is incorrect because the text doesn&rsquo;t address the prospect of a superfluorescent burst moving between crystalline materials or any other mediums. Choice C is incorrect because the text&rsquo;s discussion of polarons is about how they might enable superfluorescence at higher temperatures than those at which it had previously been observed. Rather than suggesting that polarons speed up superfluorescent bursts, the text suggests that no superfluorescence can occur at room temperature in the absence of polarons. Thus, the text indicates that polarons make superfluorescent bursts more likely to occur at higher temperatures than those at which it had previously been observed, not that polarons accelerate the bursts. Choice D is incorrect because the text&rsquo;s discussion of polarons is about how they might enable superfluorescence at higher temperatures than those at which it had previously been observed. In the absence of polarons, the text suggests there would be no superfluorescence at room temperature. Thus, rather than decrease the intensity of superfluorescent bursts, polarons make them more likely to occur under certain circumstances.&nbsp;&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Based on the text, how are polarons believed to be involved in the superfluorescence observed in Biliroglu and colleagues&rsquo; study?</p>",
+  "externalid": "9881a760-f884-4181-a7f8-4ee2b2cb39a3",
+  "stimulus": "<p>In superfluorescence, electrical charges known as dipoles emit light in synchronized bursts so intense that they are visible to the eye. Until recently, this phenomenon has only been observed at extremely cold temperatures because dipoles cannot synchronize at higher temperatures. But in a study, Melike Biliroglu and colleagues observed superfluorescence at room temperature in thin films made of perovskite and other similarly crystalline materials; the researchers propose that the formation of shock-absorbing quasiparticles called polarons in the material protects dipoles from thermal interference.</p>",
+  "templateclusterid": "a015b85f-ff22-4bf1-9d44-14ae35833352",
+  "parenttemplatename": "OSP-043-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "3e622c95-f10c-4304-b4d4-6752fe829b02",
+      "content": "<p>Polarons enable superfluorescent bursts to cross from one crystalline material to another.</p>"
+    },
+    {
+      "id": "171a550d-5ed6-46f4-9823-a5d916f090ac",
+      "content": "<p>Polarons allow for the dipoles to synchronize despite higher temperatures.&nbsp;</p>"
+    },
+    {
+      "id": "4181c0bb-7f72-42fc-8207-78b9e8667f22",
+      "content": "<p>Polarons accelerate the dipoles&rsquo; release of superfluorescent bursts.</p>"
+    },
+    {
+      "id": "6343a424-617b-4251-bd04-601b178dd7b8",
+      "content": "<p>Polarons decrease the intensity of the superfluorescent burst.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

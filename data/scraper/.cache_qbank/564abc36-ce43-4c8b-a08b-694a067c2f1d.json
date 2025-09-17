@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>The Boston Saloon was one of the most popular African American&ndash;owned establishments in nineteenth-century Nevada. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> by businessman William A.G. Brown, the saloon was known to offer elegant accommodations and an inclusive environment.</p>",
+  "type": "mcq",
+  "keys": [
+    "30f1eca4-bde8-4595-9f73-1562877ebab0"
+  ],
+  "answerOptions": [
+    {
+      "id": "30f1eca4-bde8-4595-9f73-1562877ebab0",
+      "content": "<p>Created</p>"
+    },
+    {
+      "id": "fb4a22d7-ebb2-46aa-a6a0-47cc93f45915",
+      "content": "<p>Creates</p>"
+    },
+    {
+      "id": "ac1f3e45-3523-4a05-aef1-394dff24dfed",
+      "content": "<p>Creating</p>"
+    },
+    {
+      "id": "5e7f19a6-aede-4d61-8095-96829f6fe499",
+      "content": "<p>Create</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of verb forms within a sentence. The nonfinite past participle \"created\" is correctly used to form a supplementary element that modifies the noun phrase \"the saloon,\" identifying who established the Boston Saloon.</p><p>Choice B is incorrect because it results in an ungrammatical sentence. The finite present tense verb \"creates\" can&rsquo;t be used in this way to form a supplementary element to modify the noun phrase \"the saloon.\" Choice C is incorrect because it results in an ungrammatical sentence. The nonfinite present participle \"creating\" can&rsquo;t be used in this way to form a supplementary element to modify the noun phrase \"the saloon.\" Choice D is incorrect because it results in an ungrammatical sentence. The finite present tense verb \"create\" can&rsquo;t be used in this way to form a supplementary element to modify the noun phrase \"the saloon.\"</p>",
+  "externalid": "564abc36-ce43-4c8b-a08b-694a067c2f1d",
+  "correct_answer": [
+    "A"
+  ]
+}

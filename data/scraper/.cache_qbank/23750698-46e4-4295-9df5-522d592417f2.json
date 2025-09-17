@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most effectively uses data from the table to complete the text?</p>",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Incorporated and Unincorporated Self-Employment Rates in Four Occupational Fields, 2015</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Occupational field</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Incorporated self-employment rate</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Unincorporated self-employment rate</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">Construction and resource extraction</th><td style=\"text-align: center;\">4.4%</td><td style=\"text-align: center;\">14.8%</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Installation, maintenance, and repair</th><td style=\"text-align: center;\">2.7%</td><td style=\"text-align: center;\">6.2%</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Management, business, and financial services</th><td style=\"text-align: center;\">8.9%</td><td style=\"text-align: center;\">9.7%</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Sales and related</th><td style=\"text-align: center;\">5.8%</td><td style=\"text-align: center;\">7.8%</td></tr></tbody></table></figure></p>\n<p>Self-employed workers&mdash;individuals who are not employees of other individuals or businesses but instead earn their income as business owners, independent contractors, or freelance workers&mdash;make up an important part of the US labor force. In order to receive legal and tax benefits enjoyed by corporations, self-employed individuals may choose to incorporate their business. A 2015 survey of incorporated and unincorporated self-employment rates in four occupational fields showed that the highest incorporated self-employment rate occurred among people working in <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "f0782e47-4a59-4f77-b65b-d5ff71a003e0"
+  ],
+  "answerOptions": [
+    {
+      "id": "05954fcb-ad3e-4ffb-9477-8186352fdf92",
+      "content": "<p>sales and related occupations.&nbsp;</p>"
+    },
+    {
+      "id": "46e0a877-94a5-4e13-8d6b-ecbdc6c1a333",
+      "content": "<p>installation, maintenance, and repair occupations.&nbsp;</p>"
+    },
+    {
+      "id": "8ba28ea1-ced0-4dbc-9363-bb9baafdac94",
+      "content": "<p>construction and resource extraction occupations.&nbsp;</p>"
+    },
+    {
+      "id": "f0782e47-4a59-4f77-b65b-d5ff71a003e0",
+      "content": "<p>management, business, and financial services occupations.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most effectively uses data from the table to complete the text. The text discusses self-employed workers in the US, and the table shows the US incorporated and unincorporated self-employment rates in four occupational fields in 2015. According to the table, the incorporated self-employment rate was 8.9% for the management, business, and financial services occupational field, which is higher than the incorporated self-employment rate shown for any other occupational field.</p><p>Choice A is incorrect because according to the table, the incorporated self-employment rate was 5.8% for the sales and related occupational field, which is lower than the 8.9% for the management, business, and financial services occupational field. Choice B is incorrect because according to the table, the incorporated self-employment rate was 2.7% for the installation, maintenance, and repair occupational field, which is lower than the 8.9% for the management, business, and financial services occupational field. Choice C is incorrect because according to the table, the incorporated self-employment rate was 4.4% for the construction and resource extraction occupational field, which is lower than the 8.9% for the management, business, and financial services occupational field.</p>",
+  "externalid": "23750698-46e4-4295-9df5-522d592417f2",
+  "correct_answer": [
+    "D"
+  ]
+}

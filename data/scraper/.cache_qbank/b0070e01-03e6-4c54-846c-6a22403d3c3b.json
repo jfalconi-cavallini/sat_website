@@ -1,0 +1,38 @@
+{
+  "vaultid": "4f29c058-efb7-4e59-bd03-cdfabf4618ff",
+  "keys": [
+    "b5a38d01-4730-4555-bbc6-0b3894ccd946"
+  ],
+  "rationale": "<p>Choice C is the best answer. The sentence effectively presents the influence theory to an audience unfamiliar with the Haudenosaunee Confederacy, explaining the theory&rsquo;s position that the Great Law of Peace influenced the US Constitution while avoiding mention of the Haudenosaunee Confederacy itself. </p><p>Choice A is incorrect. The sentence broadly emphasizes Johansen&rsquo;s ideas about the Great Law of Peace; it doesn&rsquo;t identify the influence theory or effectively present it. Choice B is incorrect. The sentence emphasizes one fact that supports the influence theory; it doesn&rsquo;t effectively present the theory to an audience unfamiliar with the Haudenosaunee Confederacy. Choice D is incorrect. The sentence makes a broad generalization about Native people&rsquo;s influence on the founding of the US; it doesn&rsquo;t effectively present the influence theory. </p>",
+  "origin": "proteus",
+  "stem": "<p>The student wants to present the influence theory to an audience unfamiliar with the Haudenosaunee Confederacy. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "externalid": "b0070e01-03e6-4c54-846c-6a22403d3c3b",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>The Haudenosaunee Confederacy is a nearly 1,000-year-old alliance of six Native nations in the northeastern US.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>\n<li>The members are bound by a centuries-old agreement known as the Great Law of Peace.</li>\n<li>Historian Bruce Johansen is one of several scholars who believe that the principles of the Great Law of Peace influenced the US Constitution.</li>\n<li>This theory is called the influence theory.</li>\n<li>Johansen cites the fact that Benjamin Franklin and Thomas Jefferson both studied the Haudenosaunee Confederacy.</li>\n</ul>",
+  "templateclusterid": "ece2a7bf-740a-4965-ab79-ca35c0c9ace7",
+  "parenttemplatename": "OSP-728-SYN",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "bb7d79c8-2d01-4447-bafb-1bccdb221cb9",
+      "content": "<p>Historian Bruce Johansen believes that the Great Law of Peace was very influential.</p>"
+    },
+    {
+      "id": "fc0bd0f3-7d1f-4413-9256-5ea20794d3f9",
+      "content": "<p>The influence theory is supported by the fact that Benjamin Franklin and Thomas Jefferson both studied the Haudenosaunee Confederacy.</p>"
+    },
+    {
+      "id": "b5a38d01-4730-4555-bbc6-0b3894ccd946",
+      "content": "<p>The influence theory holds that the principles of the Great Law of Peace, a centuries-old agreement binding six Native nations in the northeastern US, influenced the US Constitution.</p>"
+    },
+    {
+      "id": "a937cd66-1964-42a2-850e-5d2b7a1ba033",
+      "content": "<p>Native people, including the members of the Haudenosaunee Confederacy, influenced the founding of the US in many different ways.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>If the formation of Earth&rsquo;s mantle had been purely a product of core differentiation&mdash;whereby heavier elements sink toward the core and lighter elements rise&mdash;the upper mantle would be depleted of heavy siderophile elements. Siderophiles are much more abundant in the mantle than predicted in that model, however. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> extraterrestrial material containing siderophiles, likely from asteroid or comet impacts, almost certainly accreted to Earth following core differentiation.</p>",
+  "keys": [
+    "a967661c-dcc7-44d6-8672-8f6fda508f43"
+  ],
+  "answerOptions": [
+    {
+      "id": "f91e5947-188c-4739-862f-c1416907ad78",
+      "content": "<p>That said,</p>"
+    },
+    {
+      "id": "a967661c-dcc7-44d6-8672-8f6fda508f43",
+      "content": "<p>Hence,</p>"
+    },
+    {
+      "id": "40af1a35-62fc-476c-8745-0b03c16cd191",
+      "content": "<p>For example, &nbsp;</p>"
+    },
+    {
+      "id": "b088b997-6af4-43fc-8e79-2e5db176d250",
+      "content": "<p>Likewise,</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. \"Hence\" correctly signals that the claim in this sentence regarding extraterrestrial material follows logically from the information in the previous sentences. The previous sentences establish that siderophile elements in the mantle are more abundant than predicted in the core-differentiation model. This sentence claims, logically, that these elements came from extraterrestrial material that accreted to Earth <em>after</em> core differentiation.</p><p>Choice A is incorrect because \"that said\" illogically signals that the information in this sentence regarding extraterrestrial material is an exception to the previous information about siderophiles&rsquo; abundance in the mantle. Instead, it is a new claim that follows logically from the previous information. Choice C is incorrect because \"for example\" illogically signals that the information in this sentence regarding extraterrestrial material exemplifies the previous information about siderophiles&rsquo; abundance in the mantle. Instead, it is a new claim that follows logically from the previous information. Choice D is incorrect because \"likewise\" illogically signals that the information in this sentence regarding extraterrestrial material is merely similar to the previous information about siderophiles&rsquo; abundance in the mantle. Instead, it is a new claim that follows logically from the previous information.</p>",
+  "externalid": "3cb17aea-6417-4349-92c8-01f629ddd643",
+  "correct_answer": [
+    "B"
+  ]
+}

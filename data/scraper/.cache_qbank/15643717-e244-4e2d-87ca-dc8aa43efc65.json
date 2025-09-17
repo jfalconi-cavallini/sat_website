@@ -1,0 +1,38 @@
+{
+  "vaultid": "df4f24c6-a58a-4f39-8b60-7de11e027d7e",
+  "keys": [
+    "078c68a9-7942-4823-80a1-310b4cec50b5"
+  ],
+  "rationale": "<p>Choice A is the best answer because it explains how the researchers determined the level of surprise displayed by the cats in the study. The text states that Saho Takagi and colleagues played recordings of the voice of each cat&rsquo;s owner and measured how surprised the cat was by the recording based on how it moved its ears and head. </p><p>Choice B is incorrect because, as the text explains, the recordings played for each cat in the study were of the voice of the cat&rsquo;s owner, not a stranger&rsquo;s voice. Choice C is incorrect because the text explains that during the study, the cats didn&rsquo;t interact directly with their owners; instead, the cats listened to recordings of their owners&rsquo; voices. Choice D is incorrect because the text doesn&rsquo;t indicate that the researchers monitored the cats&rsquo; movement around the room in which the study was conducted. </p>",
+  "origin": "proteus",
+  "stem": "<p>According to the text, how did the researchers determine the level of surprise displayed by the cats in the study?</p>",
+  "externalid": "15643717-e244-4e2d-87ca-dc8aa43efc65",
+  "stimulus": "<p>Cats can judge unseen people&rsquo;s positions in space by the sound of their voices and thus react with surprise when the same person calls to them from two different locations in a short span of time. Saho Takagi and colleagues reached this conclusion by measuring cats&rsquo; levels of surprise based on their ear and head movements while the cats heard recordings of their owners&rsquo; voices from two speakers spaced far apart. Cats exhibited a low level of surprise when owners&rsquo; voices were played twice from the same speaker, but they showed a high level of surprise when the voice was played once each from the two different speakers.</p>",
+  "templateclusterid": "c788587c-031d-4e46-8c71-82b8cb0e7c0b",
+  "parenttemplatename": "OSP-014-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "078c68a9-7942-4823-80a1-310b4cec50b5",
+      "content": "<p>They watched how each cat moved its ears and head.</p>"
+    },
+    {
+      "id": "4a11707b-d8f1-47a4-bd92-befc051cf23e",
+      "content": "<p>They examined how each cat reacted to the voice of a stranger.</p>"
+    },
+    {
+      "id": "6859cd72-97b0-4d07-a31e-9bc3898e3b54",
+      "content": "<p>They studied how each cat physically interacted with its owner.</p>"
+    },
+    {
+      "id": "08053448-a7e3-4925-9bb1-bcd595b8757c",
+      "content": "<p>They tracked how each cat moved around the room.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best describes the function of the underlined portion in the text as a whole?</p>",
+  "stimulus": "<p>The following text is from Joan Didion&rsquo;s memoir <em>The Year of Magical Thinking</em>. In the text, the author discusses her home life.</p>\n<blockquote>\n<p><span data-ssml-sub-alias=\"In\">[I]n</span> California we heated our houses by building fires. We built fires even on summer evenings, because the fog came in. <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">Fires said we were home, we had drawn the circle, we were safe through the night.</span></p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;2005 by Joan Didion</span></p>",
+  "keys": [
+    "b8eee19e-27d4-4b44-9e16-561e8b632aee"
+  ],
+  "answerOptions": [
+    {
+      "id": "b8eee19e-27d4-4b44-9e16-561e8b632aee",
+      "content": "<p>It illustrates that a fire provides comfort beyond physical warmth.</p>"
+    },
+    {
+      "id": "181cbcac-186f-4290-9ae4-49b765b10d4c",
+      "content": "<p>It summarizes the information that came before it in the text.</p>"
+    },
+    {
+      "id": "f3107bd8-986e-4983-bd5e-eb854ef0038d",
+      "content": "<p>It explains that the house remains cold even in summer.</p>"
+    },
+    {
+      "id": "db7d1552-621a-4f3b-b327-7af0e79019ef",
+      "content": "<p>It suggests that the author feels comfortable in her home with or without a fire.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately describes how the underlined portion functions in the text as a whole. The first two sentences of the text establish that in California, houses were heated by building fires year-round. The underlined portion then indicates that the fires didn&rsquo;t merely provide physical warmth: they also represented being \"home\" and feeling protected. The underlined portion thus illustrates that a fire provides comfort beyond physical warmth.</p><p>Choice B is incorrect because the underlined portion doesn&rsquo;t summarize information that came before it. Whereas the previous two sentences describe fires&rsquo; ability to provide physical warmth to homes, the underlined portion focuses on the psychological comfort the fires offered. Choice C is incorrect. Although the text&rsquo;s second sentence mentions that fires were built in the summer because fog came in, which may have cooled the house, this detail isn&rsquo;t the focus of the underlined portion. Instead, the underlined portion indicates that fires were built for reasons beyond physical warmth: to create a sense of being home and safe. Choice D is incorrect because the underlined portion focuses on the emotional significance the author places on having a fire going inside the home. There is no indication that the author feels equally comfortable without a fire present.</p>",
+  "externalid": "dd21159d-d3f8-45e2-aae9-c408f3e221b7",
+  "correct_answer": [
+    "A"
+  ]
+}

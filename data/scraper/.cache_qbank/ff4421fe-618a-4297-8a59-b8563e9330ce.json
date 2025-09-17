@@ -1,0 +1,38 @@
+{
+  "vaultid": "d99d86a0-8555-46c9-ac32-95c3400aaa98",
+  "keys": [
+    "f17728c8-e71d-4fb1-9203-da54b637ad60"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is colon use within a sentence. A colon used in this way introduces information that illustrates or explains information that has come before it. In this case, the colon introduces the following explanation of why some roundworms in the Southern Hemisphere move in the opposite direction of Earth&rsquo;s magnetic field. </p><p>Choice B is incorrect because&nbsp;it results in a comma splice. A comma can&rsquo;t be used in this way to join two long independent clauses (&ldquo;Researchers&hellip;food&rdquo; and &ldquo;in&hellip;sources&rdquo;) such as these. Choice C is incorrect because it results in a run-on sentence. The two clauses (&ldquo;Researchers&hellip;food&rdquo; and &ldquo;in&hellip;sources&rdquo;) are fused without punctuation. Furthermore, the conjunction &ldquo;while&rdquo; fails to indicate that what follows is an explanation of why some roundworms in the Southern Hemisphere move in the opposite direction of Earth&rsquo;s magnetic field. Choice D is incorrect because&nbsp;it results in a run-on sentence. The two clauses (&ldquo;Researchers&hellip;food&rdquo; and &ldquo;in&hellip;sources&rdquo;) are fused without punctuation and/or a conjunction. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "ff4421fe-618a-4297-8a59-b8563e9330ce",
+  "stimulus": "<p>Researchers studying magnetosensation have determined why some soil-dwelling roundworms in the Southern Hemisphere move in the opposite direction of Earth&rsquo;s magnetic field when searching for <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in the Northern Hemisphere, the magnetic field points down, into the ground, but in the Southern Hemisphere, it points up, toward the surface and away from worms&rsquo; food sources.</p>",
+  "templateclusterid": "4716bb66-8527-4a0e-81de-a80f199e0866",
+  "parenttemplatename": "OSP-681-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "f17728c8-e71d-4fb1-9203-da54b637ad60",
+      "content": "<p>food:</p>"
+    },
+    {
+      "id": "728aac21-91cc-4258-9cf1-c2cd79373671",
+      "content": "<p>food,</p>"
+    },
+    {
+      "id": "ad164911-8187-4ff1-9fab-7680463b5bf7",
+      "content": "<p>food while</p>"
+    },
+    {
+      "id": "e57ace50-06d4-48d3-98a8-bcf4b03cf89e",
+      "content": "<p>food</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Shoppers can help keep money cycling within a community by making purchases at small local businesses instead of large retailers. Some cities are <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> programs to encourage this behavior, establishing reward points and other incentives for shopping at small businesses.</p>",
+  "type": "mcq",
+  "keys": [
+    "6523876e-02af-4e5d-8fc5-eea91248407b"
+  ],
+  "answerOptions": [
+    {
+      "id": "6523876e-02af-4e5d-8fc5-eea91248407b",
+      "content": "<p>instituting</p>"
+    },
+    {
+      "id": "2b6e71b9-c871-4dba-9fa1-cca933f0f8ae",
+      "content": "<p>occupying</p>"
+    },
+    {
+      "id": "94039f16-5a88-4c5e-bbd6-e96ff35fbad4",
+      "content": "<p>underestimating</p>"
+    },
+    {
+      "id": "8454e887-7344-4110-9191-e7fdae4ab83a",
+      "content": "<p>encountering</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of programs that encourage money to cycle within a community. In this context, \"instituting\" means initiating. The text indicates that making purchases at small local businesses can help keep money cycling within a community. The text goes on to state that some cities are establishing incentives to promote small business shopping. This context supports the idea that some cities are instituting programs to encourage this consumer behavior.</p><p>Choice B is incorrect because saying that some cities are \"occupying,\" or forcibly holding possession or control of, programs that encourage shoppers to make purchases at small local businesses wouldn&rsquo;t make sense in context. The text doesn&rsquo;t discuss who controls these programs but instead indicates that some cities are establishing incentives that encourage shoppers to make purchases at small local businesses. Furthermore, it wouldn&rsquo;t make sense to say that a city is occupying a program. Choice C is incorrect because nothing in the text suggests that cities are \"underestimating,\" or failing to understand the value of, programs that encourage consumers to shop at small local businesses. The text indicates that some cities are establishing incentives to encourage small business shopping, which suggests that these cities understand the value of such programs. Choice D is incorrect because saying that some cities are \"encountering,\" or coming into contact with, programs that encourage consumers to shop at small local businesses wouldn&rsquo;t make sense in context. The text indicates that some cities are already establishing incentives to encourage shoppers to make purchases at small businesses. This context suggests that the cities are instituting the programs, not that they are encountering them.</p>",
+  "externalid": "16996808-9d20-4460-88c0-c738319a84a9",
+  "correct_answer": [
+    "A"
+  ]
+}

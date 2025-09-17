@@ -1,0 +1,38 @@
+{
+  "vaultid": "40ec6ca9-f488-4b87-be5c-c126f46cc66e",
+  "keys": [
+    "005e88eb-4b5c-420e-9604-a4d90ed7d616"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most accurately describes the function of the underlined portion in the text as a whole. The first two sentences introduce the idea that soil and rocks can be moved from one location to another by something other than rivers and streams. The underlined sentence then states that the term used by scientists to refer to this process is &ldquo;aeolian transport.&rdquo; The discussion that follows explains what aeolian transport is (the movement of small geological materials over potentially great distances by the wind) and describes an example of a study that found that dust particles had been moved by aeolian transport from Australia to Antarctica. Thus, the underlined portion introduces a scientific term that is used in the discussion that follows. </p><p>Choice A is incorrect because the underlined portion of the text doesn&rsquo;t present any remarks from Melisa Diaz, nor does it suggest that Diaz and her team encountered difficulties in their study. Instead, the phrase in quotation marks in the underlined portion simply presents a term that is used by scientists to refer to a specific process discussed in the text.&nbsp;Choice C is incorrect because nothing in either the underlined portion or the text as a whole suggests that the findings of the study presented in the text were surprising or unexpected. In fact, the text suggests that Diaz and her team wanted to see if aeolian transport could explain the appearance of certain geological materials in Antarctica, and their findings did indeed confirm the involvement of aeolian transport. Choice D is incorrect. Although the first sentence of the text mentions soil and rocks, which are two different kinds of geological material, the underlined portion doesn&rsquo;t refer to these materials, nor does it explain the difference between them. Rather, the underlined portion introduces the scientific term &ldquo;aeolian transport,&rdquo; which is used in the discussion that follows.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes the function of the underlined portion in the text as a whole?</p>",
+  "externalid": "2a0b4af4-97f4-4908-9ddd-49e0b40dca7a",
+  "stimulus": "<p>Streams and rivers carry soil and rocks from one location to another. But there is another way for these geological materials to move. <span role=\"region\" aria-label=\"Referenced Content\"><u>Scientists call this process &ldquo;aeolian transport.&rdquo;</u></span> In aeolian transport, winds move small particles of soil or rock over potentially great distances. Geologist Melisa Diaz and her team studied dust in Antarctica to find out if it was moved by aeolian transport. They discovered that the dust matched geological material in Australia. Aeolian transport had carried it from one continent to another, across thousands of miles of open ocean.&nbsp;</p>",
+  "templateclusterid": "9ed93eed-b68c-4a98-8445-2eb1b53c7ada",
+  "parenttemplatename": "OSP-037-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d89e3825-d1b4-4298-bf1a-ac3e1758c529",
+      "content": "<p>It presents Melisa Diaz&rsquo;s remarks about difficulties that her team encountered.</p>"
+    },
+    {
+      "id": "005e88eb-4b5c-420e-9604-a4d90ed7d616",
+      "content": "<p>It introduces a scientific term that is used in the discussion that follows.&nbsp;</p>"
+    },
+    {
+      "id": "90b72985-bf92-4cb8-b990-615300a0838e",
+      "content": "<p>It emphasizes the surprising nature of the findings that are presented.</p>"
+    },
+    {
+      "id": "7915a179-f08a-477d-91c1-a7d2afb3e23c",
+      "content": "<p>It explains the difference between two kinds of geological material.&nbsp;</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

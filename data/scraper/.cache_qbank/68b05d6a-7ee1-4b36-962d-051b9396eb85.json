@@ -1,0 +1,38 @@
+{
+  "vaultid": "06204a7a-2ddb-4730-a86f-d9ffbd6b4af3",
+  "keys": [
+    "63a2e6a0-ac79-49f3-91b3-0baa9231ce91"
+  ],
+  "rationale": "<p>Choice A is the best answer because based on Text 2, it represents how Behrenfeld and colleagues would most likely respond to the &ldquo;conventional wisdom&rdquo; discussed in Text 1. The conventional wisdom cited holds the opinion that when there is species diversity within a phytoplankton population, &ldquo;one species should emerge after outcompeting the rest&rdquo;&mdash;that is, after being so successful in competing for resources that the other species vanish from the population. However, Text 2 explains that according to Behrenfeld and colleagues, phytoplankton are so small and spaced so far apart in the water that there is &ldquo;much less&rdquo; direct competition for resources within phytoplankton populations than scientists had previously thought.&nbsp;</p><p>Choice B is incorrect because Text 2 never discusses whether routine replenishment of ocean nutrients affects competition between phytoplankton species. Choice C is incorrect because the interspecies competition discussed in both texts is specifically between phytoplankton species, and neither text considers whether phytoplankton compete for resources with larger nonphytoplankton species.&nbsp;Choice D is incorrect because according to Text 2, Behrenfeld and colleagues argue that water density decreases, not increases, competition between phytoplankton species. </p>",
+  "origin": "proteus",
+  "stem": "<p>Based on the texts, how would Behrenfeld and colleagues (Text 2) most likely respond to the &ldquo;conventional wisdom&rdquo; discussed in Text 1? </p>",
+  "externalid": "68b05d6a-7ee1-4b36-962d-051b9396eb85",
+  "stimulus": "<p>&nbsp;</p><p><span aria-level=\"2\" role=\"heading\"><strong>Text 1</strong></span></p>\n<p>Ecologists have long wondered how thousands of microscopic phytoplankton species can live together near ocean surfaces competing for the same resources. According to <span role=\"region\" aria-label=\"Referenced Content\"><u>conventional wisdom</u></span>, one species should emerge after outcompeting the rest. So why do so many species remain? Ecologists&rsquo; many efforts to explain this phenomenon still haven&rsquo;t uncovered a satisfactory explanation.</p>\n<p>&nbsp;</p><p><span aria-level=\"2\" role=\"heading\"><strong>Text 2</strong></span></p>\n<p>Ecologist Michael Behrenfeld and colleagues have connected phytoplankton&rsquo;s diversity to their microscopic size. Because these organisms are so tiny, they are spaced relatively far apart from each other in ocean water and, moreover, experience that water as a relatively dense substance. This in turn makes it hard for them to move around and interact with one another. Therefore, says Behrenfeld&rsquo;s team, direct competition among phytoplankton probably happens much less than previously thought.</p>",
+  "templateclusterid": "0c2e918b-ecc0-488e-9bda-c638a14b7fb7",
+  "parenttemplatename": "OSP-004-CTC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "63a2e6a0-ac79-49f3-91b3-0baa9231ce91",
+      "content": "<p>By arguing that it is based on a misconception about phytoplankton species competing with one another</p>"
+    },
+    {
+      "id": "84f3244f-9dab-49d9-a09f-0f0280ffc3fc",
+      "content": "<p>By asserting that it fails to recognize that routine replenishment of ocean nutrients prevents competition between phytoplankton species&nbsp;</p>"
+    },
+    {
+      "id": "9c989d00-f875-4c7c-af5e-7770085be65d",
+      "content": "<p>By suggesting that their own findings help clarify how phytoplankton species are able to compete with larger organisms</p>"
+    },
+    {
+      "id": "838c3d54-404a-490b-a89e-362a51fec911",
+      "content": "<p>By recommending that more ecologists focus their research on how competition among phytoplankton species is increased with water density</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

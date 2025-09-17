@@ -1,0 +1,31 @@
+{
+  "stem": "<p>According to the text, what was surprising to scientists studying the seismic activity data from NASA&rsquo;s InSight lander?</p>",
+  "stimulus": "<p>Recently, scientists looked at data collected by NASA&rsquo;s InSight lander to learn more about seismic activity on Mars, known as marsquakes. The data show that the marsquakes all started from the same location on the planet. This discovery was surprising to scientists, as they expected that the marsquakes would originate from all over the planet because of the cooling of the planet&rsquo;s surface. Now, scientists believe that there could be areas of active magma flows deep beneath the planet&rsquo;s surface that trigger the marsquakes. &nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "df697d89-771c-4947-9bfd-197ce7121359"
+  ],
+  "answerOptions": [
+    {
+      "id": "2fe67b82-8233-446f-8364-7813be9773dd",
+      "content": "<p>The surface temperature of Mars has been rising.&nbsp;</p>"
+    },
+    {
+      "id": "ea1a2094-8e6f-4d73-84cc-532fed12d2fe",
+      "content": "<p>There were different types of seismic waves causing marsquakes.</p>"
+    },
+    {
+      "id": "86e2d8d0-c77f-4b64-adf0-72a3e567ca69",
+      "content": "<p>NASA&rsquo;s InSight lander collected less data than scientists had expected.&nbsp;</p>"
+    },
+    {
+      "id": "df697d89-771c-4947-9bfd-197ce7121359",
+      "content": "<p>All the marsquakes started from the same location on the planet.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents a statement about what surprised the scientists that is supported by the text. The text states that the marsquakes described in the data from NASA&rsquo;s InSight lander originated from the same location on Mars. The text goes on to say that because they had expected the opposite (that marsquakes would originate from all over the planet) this discovery surprised the scientists.</p><p>Choice A is incorrect because the text doesn&rsquo;t say that the data from NASA&rsquo;s InSight lander revealed any surprising information about the planet&rsquo;s surface temperature. Instead, the text mentions the cooling of Mars&rsquo;s surface as a reason the scientists expected that marsquakes had multiple origins. In addition, cooling would indicate that the temperature has been falling rather than rising. Choice B is incorrect. Although the text indicates that by studying seismic activity scientists found a possible explanation for what causes marsquakes, the text doesn&rsquo;t say that they discovered that marsquakes are caused by different types of seismic waves. Rather, the text states that based on the data from NASA&rsquo;s InSight lander, scientists now believe that this seismic activity happens because of areas of active magma that flow below the planet&rsquo;s surface. Choice C is incorrect because the text doesn&rsquo;t discuss the amount of data NASA&rsquo;s InSight lander collected or whether scientists who studied the data found the amount to be as expected. Instead, the text focuses on what the data revealed about where on Mars the marsquakes originated.</p>",
+  "externalid": "fa0a5216-8d0c-428d-8e98-a3f86ee9ba48",
+  "correct_answer": [
+    "D"
+  ]
+}

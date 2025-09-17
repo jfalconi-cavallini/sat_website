@@ -1,0 +1,38 @@
+{
+  "vaultid": "9d970279-71cc-4670-bbdb-2dea618082df",
+  "keys": [
+    "6f490a9e-3124-4a1c-ab33-6afc65a7e248"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is punctuation between a verb and a prepositional phrase. No punctuation is needed between the verb &ldquo;blend&rdquo; and the prepositional phrase &ldquo;with Charlie Adams&rsquo;s delightfully catchy vocal melodies.&rdquo; The prepositional phrase completes the idea of the sentence, explaining with what Koperqualuk&rsquo;s guitar riffs blend. </p><p>Choice A is incorrect because no punctuation is needed between the verb and the prepositional phrase. &nbsp;Choice B is incorrect because no punctuation is needed between the verb and the prepositional phrase.&nbsp;&nbsp;Choice C is incorrect because no punctuation is needed between the verb and the prepositional phrase. &nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "2e13e59a-2ea7-4c98-b37e-06a129472be2",
+  "stimulus": "<p>In 1976, the Inuit rock group Sikumiut recorded the album <em>People of the Ice</em>. Though only their first record, it shows a band already skilled at the difficult task of making music that sounds easy and fun. On songs like &ldquo;Utirumavunga,&rdquo; Lucassie Koperqualuk&rsquo;s guitar riffs effortlessly <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Charlie Adams&rsquo;s delightfully catchy vocal melodies.</p>",
+  "templateclusterid": "a8d2d266-434c-417d-8cba-95d23cea9378",
+  "parenttemplatename": "OSP-739-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d7d178d5-5f50-45e4-9c6e-e44deb7fcf87",
+      "content": "<p>blend, with</p>"
+    },
+    {
+      "id": "c8f2118a-179c-44c5-9c4f-7f822f15360a",
+      "content": "<p>blend. With</p>"
+    },
+    {
+      "id": "2ca46a2e-f682-41a0-b5d3-968d1176cbb6",
+      "content": "<p>blend; with</p>"
+    },
+    {
+      "id": "6f490a9e-3124-4a1c-ab33-6afc65a7e248",
+      "content": "<p>blend with</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

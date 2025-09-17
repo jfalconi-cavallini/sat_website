@@ -1,0 +1,38 @@
+{
+  "vaultid": "7b342941-df67-4729-82c9-919b4f6b419a",
+  "keys": [
+    "51e78b2a-4f75-4a32-9884-92a5c9797a6c"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most effectively uses data from the table to complete the statement about the forestry student&rsquo;s project. The table shows five types of maple trees, each tree&rsquo;s maximum height, and whether each tree is native to North America. The text indicates that the student needs to recommend a maple tree that&rsquo;s native to North America and won&rsquo;t reach a height greater than 60 feet. The red maple is the only tree listed in the table that meets these criteria: its maximum height is 60 feet&mdash;meaning that it won&rsquo;t grow higher than 60 feet&mdash;and it&rsquo;s native to North America. </p><p>Choice A is incorrect because the text states that the student needs to recommend a tree that&rsquo;s native to North America and won&rsquo;t grow higher than 60 feet, but the table shows that the maximum height of the silver maple is 70 feet.&nbsp;Choice B is incorrect because the text states that the student needs to recommend a tree that&rsquo;s native to North America and won&rsquo;t grow higher than 60 feet, but the table shows that the maximum height of the sugar maple is 75 feet.&nbsp;Choice D is incorrect because the text states that the student needs to recommend a tree that&rsquo;s native to North America and won&rsquo;t grow higher than 60 feet, but the table shows that the Norway maple isn&rsquo;t native to North America.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most effectively uses data from the table to complete the text?</p>",
+  "externalid": "0a101d3f-287a-4888-8521-b280f7b9fb5e",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Maximum Height of Maple Trees When Fully Grown</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Tree type</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Maximum height (feet)</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Native to North America</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">Sugar maple</th><td style=\"text-align: center;\">75</td><td>yes</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Silver maple</th><td style=\"text-align: center;\">70</td><td>yes</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Red maple</th><td style=\"text-align: center;\">60</td><td>yes</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Japanese maple</th><td style=\"text-align: center;\">25</td><td>no</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Norway maple</th><td style=\"text-align: center;\">50</td><td>no</td></tr></tbody></table></figure></p>\n<p>For a school project, a forestry student needs to recommend a maple tree that is native to North America and won&rsquo;t grow more than 60 feet in height. Based on the characteristics of five common maple trees, she has decided to select a <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> </p>",
+  "templateclusterid": "bea36b1f-91ce-4260-bab9-cd47f76991bc",
+  "parenttemplatename": "OSP-523-QUA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "3265ec1e-9dee-4f24-a16f-c61f587f7132",
+      "content": "<p>silver maple.</p>"
+    },
+    {
+      "id": "46f027ba-b5a4-4529-b824-8bbb36be44ff",
+      "content": "<p>sugar maple.</p>"
+    },
+    {
+      "id": "51e78b2a-4f75-4a32-9884-92a5c9797a6c",
+      "content": "<p>red maple.</p>"
+    },
+    {
+      "id": "8da758e4-32d6-414f-b491-ad82b9e71c1e",
+      "content": "<p>Norway maple.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

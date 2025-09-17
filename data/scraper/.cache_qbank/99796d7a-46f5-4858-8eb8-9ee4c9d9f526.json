@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the function of the underlined sentence?&nbsp;</p>",
+  "stimulus": "<p>Very little is known about the role nocturnal insects, such as moths, play in flower pollination because it is difficult to monitor insects at night. <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">To address this problem, a team of scientists used time-lapse cameras to record pollinator visits to red clover all day and night.</span> The recordings showed that while most pollinator visits were by bumblebees, one-third of visits were by moths. Additionally, flowers that were visited by both moths and bees produced more seeds than flowers that were only visited by bees.</p>",
+  "type": "mcq",
+  "keys": [
+    "036b1c29-71fb-4167-896a-69c6941ab9e9"
+  ],
+  "answerOptions": [
+    {
+      "id": "036b1c29-71fb-4167-896a-69c6941ab9e9",
+      "content": "<p>To describe an approach a team of scientists used to study pollinators&nbsp;</p>"
+    },
+    {
+      "id": "1166d08d-e3a6-40ff-9e6e-7e3e7daa967a",
+      "content": "<p>To question a claim scientists make about pollinators&nbsp;</p>"
+    },
+    {
+      "id": "bdcee8f0-cdc6-448e-939a-fa9b25c89ec7",
+      "content": "<p>To explain why moths prefer red clover to other flowers</p>"
+    },
+    {
+      "id": "ec27e1a5-bfc8-4477-be55-8adb304b3534",
+      "content": "<p>To announce an unexpected research finding about red clover&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately describes the function of the underlined sentence. The sentence indicates that scientists used time-lapse photography during both day and night to detect pollinators visiting red clover. Therefore, the underlined sentence has the function of describing an approach scientists used in the pollinator study discussed in the text.</p><p>Choice B is incorrect because the underlined sentence discusses equipment the scientists used to conduct their study, and the text provides nothing to suggest these elements of their experimental design could, by themselves, question claims resulting from the study. Choice C is incorrect because nothing in either the underlined sentence or the rest of the text addresses whether moths have a preference for red clover or any other flowers. Choice D is incorrect. Although the sentences that follow the underlined sentence discuss research findings, nothing in the text suggests that these findings were unexpected. Moreover, the underlined sentence describes part of the scientists&rsquo; experimental design (day and night time-lapse photography), not a finding of the scientists&rsquo; study.</p>",
+  "externalid": "99796d7a-46f5-4858-8eb8-9ee4c9d9f526",
+  "correct_answer": [
+    "A"
+  ]
+}

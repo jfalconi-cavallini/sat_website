@@ -1,0 +1,38 @@
+{
+  "vaultid": "71c13ce0-8dd9-4197-80a3-0b0bbe508829",
+  "keys": [
+    "35dddaa5-da03-4493-8716-84c9a3928ff5"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of Annie Dodge Wauneka&rsquo;s work as a Navajo Nation legislator. As used in this context, &ldquo;persistent&rdquo; means existing continuously. The text states that Wauneka &ldquo;continuously worked to promote public health,&rdquo; traveling extensively and authoring a medical dictionary; this indicates that Wauneka&rsquo;s effort was persistent. </p><p>Choice A is incorrect because describing Wauneka&rsquo;s effort related to public health as &ldquo;impartial,&rdquo; or not partial or biased and treating all things equally, wouldn&rsquo;t make sense in context. The text suggests that Wauneka&rsquo;s continuous work was partial in one way, as she focused specifically on promoting public health throughout the Navajo homeland and to speakers of the Navajo language. Choice B is incorrect because the text emphasizes that Wauneka&rsquo;s effort to promote public health as a Navajo Nation legislator was continuous and extensive, involving wide travels and the authoring of a medical dictionary. Because this work clearly involved care and dedication, it wouldn&rsquo;t make sense to describe it as &ldquo;offhand,&rdquo; or casual and informal. Choice D is incorrect because nothing in the text suggests that Wauneka&rsquo;s effort to promote public health was &ldquo;mandatory,&rdquo; or required by law or rule, even though Wauneka was a Navajo Nation legislator. Rather than suggesting that Wauneka&rsquo;s effort was required for any reason, the text emphasizes the continuous and extensive nature of her work. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "2f3c8ee3-dded-479a-9c37-f33b9d2ca2ad",
+  "stimulus": "<p>Beginning in the 1950s, Navajo Nation legislator Annie Dodge Wauneka continuously worked to promote public health; this <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> effort involved traveling throughout the vast Navajo homeland and writing a medical dictionary for speakers of <em>Din&eacute; bizaad</em>, the Navajo language.</p>",
+  "templateclusterid": "ee727542-9bb4-4c6b-9ce6-bf27df4af37b",
+  "parenttemplatename": "OSP-936-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "550db149-6766-492d-8c8f-f477508ab364",
+      "content": "<p>impartial</p>"
+    },
+    {
+      "id": "ebbcc8d8-179d-403f-a78d-a3144ab01795",
+      "content": "<p>offhand</p>"
+    },
+    {
+      "id": "35dddaa5-da03-4493-8716-84c9a3928ff5",
+      "content": "<p>persistent</p>"
+    },
+    {
+      "id": "7bfe1726-d119-4bd0-a3aa-6eadc0b0bca1",
+      "content": "<p>mandatory</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

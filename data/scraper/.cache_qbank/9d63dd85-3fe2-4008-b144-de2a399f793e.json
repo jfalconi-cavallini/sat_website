@@ -1,0 +1,38 @@
+{
+  "vaultid": "e7560922-8484-4a2b-8626-91d0a5c9ca68",
+  "keys": [
+    "257f489e-d504-4625-bead-95867e7eadc2"
+  ],
+  "rationale": "<p>Choice A is the best answer because it describes an experimental outcome that would most directly weaken the student&rsquo;s hypothesis. According to the text, the student hypothesizes that <em>Brassica rapa parachinensis </em>(choy sum) will benefit more from acidic soil than it will from neutral soil. The text then explains that the student planted 16 choy sum seeds in potting soil with coffee grounds added to increase acidity and another 16 seeds in soil without coffee grounds as a control (a group identical to the experimental group except for the experimental modification being tested). If the hypothesis were correct, the plants in the more acidic soil-and-coffee-grounds mixture would grow faster than those in the control group. However, choice A proposes a scenario in which the plants in soil without coffee grounds were &ldquo;significantly taller&rdquo; than those in the more acidic mixture&mdash;an outcome that weakens the hypothesis that higher acidity is beneficial to the plants&rsquo; growth. </p><p>Choice B is incorrect. If the choy sum planted in the neutral soil produced less plant matter and therefore weighed less than the choy sum planted in the acidic soil-and-coffee-grounds mixture, this finding would strengthen the student&rsquo;s hypothesis, not weaken it. Choice C is incorrect. If seeds planted in neutral soil (without coffee grounds) sprouted significantly later than seeds planted in the acidic soil-and-coffee-grounds mixture, this finding would strengthen, not weaken, the student&rsquo;s hypothesis that acidic soil benefits choy sum. Choice D is incorrect. If seeds planted in the neutral soil (without coffee grounds) sprouted significantly fewer plants than seeds planted in the acidic soil-and-coffee-grounds mixture did, this finding would strengthen, not weaken, the student&rsquo;s hypothesis that choy sum benefits from acidic soil. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which finding, if true, would most directly weaken the student&rsquo;s hypothesis?</p>",
+  "externalid": "9d63dd85-3fe2-4008-b144-de2a399f793e",
+  "stimulus": "<p>A student performs an experiment testing her hypothesis that a slightly acidic soil environment is more beneficial for the growth of the plant <em>Brassica rapa parachinensis </em>(a vegetable commonly known as choy sum) than a neutral soil environment. She plants sixteen seeds of choy sum in a mixture of equal amounts of coffee grounds (which are highly acidic) and potting soil and another sixteen seeds in potting soil without coffee grounds as the control for the experiment. The two groups of seeds were exposed to the same growing conditions and monitored for three weeks.</p>",
+  "templateclusterid": "883d5a71-7116-4a4e-877a-baa8350a2fa2",
+  "parenttemplatename": "OSP-313-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "257f489e-d504-4625-bead-95867e7eadc2",
+      "content": "<p>The choy sum planted in the soil without coffee grounds were significantly taller at the end of the experiment than the choy sum planted in the mixture of soil and coffee grounds.</p>"
+    },
+    {
+      "id": "fa2e28df-1784-444d-95f3-8b0207b4c278",
+      "content": "<p>The choy sum grown in the soil without coffee grounds weighed significantly less at the end of the experiment than the choy sum grown in the mixture of soil and coffee grounds.</p>"
+    },
+    {
+      "id": "0d3701e5-e063-48cb-a065-d3baca37807a",
+      "content": "<p>The choy sum seeds planted in the soil without coffee grounds sprouted significantly later in the experiment than did the seeds planted in the mixture of soil and coffee grounds.</p>"
+    },
+    {
+      "id": "a05b1718-e0a2-4f03-ad87-0cc994ec8e3f",
+      "content": "<p>Significantly fewer of the choy sum seeds planted in the soil without coffee grounds sprouted plants than did the seeds planted in the mixture of soil and coffee grounds.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

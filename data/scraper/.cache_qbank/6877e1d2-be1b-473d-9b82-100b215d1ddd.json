@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>The French directors Colas Koola and Vivien Mermet-Guyenet (known as Koola and Viv) founded the video game studio BlueTwelve. They also love cats. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> they created an award-winning cat video game, <em>Stray</em> (2021), that lets the player explore a dystopian city from the perspective of a clever orange house cat.</p>",
+  "type": "mcq",
+  "keys": [
+    "ab9e872e-8c1d-4dec-92bf-08ecf0f0153e"
+  ],
+  "answerOptions": [
+    {
+      "id": "d3214ba2-b7fa-49af-b47c-f322e5f2507e",
+      "content": "<p>Intermittently,</p>"
+    },
+    {
+      "id": "396cd5a3-0d8e-4641-91b2-478072e3c343",
+      "content": "<p>On the other hand,</p>"
+    },
+    {
+      "id": "ab9e872e-8c1d-4dec-92bf-08ecf0f0153e",
+      "content": "<p>In fact,</p>"
+    },
+    {
+      "id": "c45dcd5c-df1f-4afa-bad9-a201d486d4bd",
+      "content": "<p>Nevertheless,</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. \"In fact\" logically signals that the information in this sentence about the creation of the video game offers additional emphasis in support of the previous claim that video game studio founders Koola and Viv love cats.</p><p>Choice A is incorrect because \"intermittently\" illogically signals that the information in this sentence occurs sporadically or in intervals. Instead, the creation of the video game offers additional emphasis in support of the previous claim about Koola and Viv. Choice B is incorrect because \"on the other hand\" illogically signals that the information in this sentence contrasts with the previous claim about Koola and Viv. Instead, the creation of the video game offers additional emphasis in support of that claim. Choice D is incorrect because \"nevertheless\" illogically signals that the information in this sentence is true despite the previous claim that Koola and Viv love cats. Instead, the creation of the video game offers additional emphasis in support of that claim.</p>",
+  "externalid": "6877e1d2-be1b-473d-9b82-100b215d1ddd",
+  "correct_answer": [
+    "C"
+  ]
+}

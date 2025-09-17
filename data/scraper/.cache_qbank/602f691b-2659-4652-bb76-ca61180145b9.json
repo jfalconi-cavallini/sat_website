@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>As used in the text, what does the word &ldquo;completing&rdquo; most nearly mean?</p>",
+  "stimulus": "<p>The following text is from Anita Desai&rsquo;s 2011 novella <em>Translator Translated</em>. While working on her translation of a novel written in Odia (a language of India) into English, the narrator looks out her window at night to clear her mind.</p>\n<blockquote>\n<p>I tried to distract myself with these sights of the ordinary world, but in my mind it was the lines I had been translating and the lines that I had been writing that remained in the forefront. I longed for sleep to obliterate them but it eluded me. Perhaps everything would be normal again once I had sent off the manuscript, I thought, and looked forward to <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">completing</span> the work.</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;2011 by Anita Desai</span></p>",
+  "keys": [
+    "5fe555e7-7f68-480b-8487-b50006542ce2"
+  ],
+  "answerOptions": [
+    {
+      "id": "20ad9946-c36c-4be9-906c-876c510d9b30",
+      "content": "<p>Destroying</p>"
+    },
+    {
+      "id": "5fe555e7-7f68-480b-8487-b50006542ce2",
+      "content": "<p>Finishing</p>"
+    },
+    {
+      "id": "3aefd23e-28e5-434e-b935-4ae2c42f7270",
+      "content": "<p>Advertising</p>"
+    },
+    {
+      "id": "8f6ada64-253c-48a0-9abc-01ca69b5a20d",
+      "content": "<p>Rejecting</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because as used in the text, \"completing\" most nearly means finishing. In the text, the narrator conveys that the task of translating a novel has been an all-consuming one and that she hopes things will \"be normal again\" once she has \"sent off the manuscript.\" In other words, the narrator is looking forward to finishing her work on the manuscript and returning to other things.</p><p>Choice A is incorrect because in this context, \"completing\" doesn&rsquo;t mean destroying, or ruining. The narrator addresses her desire to send off the manuscript she&rsquo;s focused on and her hope that things will be \"normal again\" once she does, conveying that she is looking forward to finishing the work, not to ruining it. Choice C is incorrect because in this context, \"completing\" doesn&rsquo;t mean advertising, or publicly promoting. The narrator addresses her complete focus on the translation and her hope that things will be \"normal again\" once she has \"sent off the manuscript,\" conveying that she is looking forward to finishing the task, not to promoting the resulting manuscript. Choice D is incorrect because in this context, \"completing\" doesn&rsquo;t mean rejecting, or refusing or repelling. The narrator makes it clear that she is absorbed in working on the translation and plans to send off the manuscript, suggesting that instead of refusing to do the work, she is continuing to do it (even if she looks forward to things being \"normal again\" when she&rsquo;s done).</p>",
+  "externalid": "602f691b-2659-4652-bb76-ca61180145b9",
+  "correct_answer": [
+    "B"
+  ]
+}

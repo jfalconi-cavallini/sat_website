@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>Many mosquito repellents contain natural components that work by activating multiple odor receptors on mosquitoes&rsquo; antennae. As the insects develop resistance, new repellents are needed. Ke Dong and her team found that EBF, a molecular component of a chrysanthemum-flower extract, can repel mosquitoes by activating just one odor receptor&mdash;and this receptor, <span data-ssml-say-as=\"characters\">Or31</span>, is present in all mosquito species known to carry diseases. Therefore, the researchers suggest that in developing new repellents, it would be most useful to <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "4a872720-75e8-4adc-a88a-743996330104"
+  ],
+  "answerOptions": [
+    {
+      "id": "4a872720-75e8-4adc-a88a-743996330104",
+      "content": "<p>identify molecular components similar to EBF that target the activation of <span data-ssml-say-as=\"characters\">Or31</span> receptors.</p>"
+    },
+    {
+      "id": "b1ed6fea-d033-430b-b99f-9335bd27f383",
+      "content": "<p>investigate alternative methods for extracting EBF molecules from chrysanthemums.</p>"
+    },
+    {
+      "id": "003e001e-7fc1-470c-9762-f04588d6bafd",
+      "content": "<p>verify the precise locations of <span data-ssml-say-as=\"characters\">Or31</span> and other odor receptors on mosquitoes&rsquo; antennae.</p>"
+    },
+    {
+      "id": "4b014cd1-5025-4725-8f8a-520f68218ede",
+      "content": "<p>determine the maximum number of different odor receptors that can be activated by a single molecule.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of mosquito repellents. The text begins by explaining that many repellents work by using natural components to activate multiple odor receptors on mosquitoes&rsquo; antennae, and that new repellents must be created whenever mosquitoes become resistant to older ones. The text then highlights a research team&rsquo;s discovery that EBF, a molecular component of a chrysanthemum-flower extract, can repel mosquitoes by activating a single odor receptor, Or31, that is shared by all species of mosquitoes known to carry diseases. The text suggests that compared to the repellents mentioned earlier, a repellent that acts on the Or31 receptor would be more effective: by noting that all mosquito species known to carry diseases share the Or31 receptor, the text suggests that the Or31 receptor may be unique in this respect, meaning that a repellent such as EBF that acts on it would be more effective since it works on a single receptor shared by all mosquito species that carry diseases, rather than a combination of receptors that is not shared by all species. Once mosquitoes become resistant to EBF, it would therefore make sense for researchers to look for other molecular components similar to EBF that target the activation of Or31 receptors, since a single such component could also repel all disease-carrying mosquitoes.</p><p>Choice B is incorrect because nothing in the text suggests that EBF molecules are difficult to extract from chrysanthemums and that investigating alternative extraction methods would therefore be useful for developing efficient and effective mosquito repellents. Rather, the text suggests that researchers developing new mosquito repellents should aim to identify molecular components similar to EBF, since that component targets the Or31 odor receptor shared by all species of mosquitoes known to carry diseases. Choice C is incorrect because nothing in the text suggests that researchers are unaware of the precise location of Or31 and other odor receptors in mosquitoes&rsquo; antennae or that knowing this information would be useful for developing efficient and effective mosquito repellents. Rather, the text suggests that researchers developing new mosquito repellents should aim to identify molecular components similar to EBF, which targets the Or31 odor receptor. Choice D is incorrect because it doesn&rsquo;t logically follow that the discovery of one odor receptor shared by all disease-bearing mosquitoes should lead to further research into which repellents might activate the greatest number of odor receptors. Rather, the text suggests that researchers developing new mosquito repellents should instead search for additional molecular components that, like EBF, activate the one odor receptor that is known to be shared by all disease-bearing mosquitoes.</p>",
+  "externalid": "51cf5c80-7d35-47f7-992c-19426432b1a4",
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>The student wants to describe the exhibition that Guerrero curated in 2018. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes: &nbsp;</p>\n<ul>\n<li>Marcela Guerrero is a curator at the Whitney Museum of American Art in New York.&nbsp;</li>\n<li>She curated the Whitney&rsquo;s 2018 exhibition <em>Pacha, Llaqta, Wasichay: Indigenous Space, Modern Architecture, New Art</em>.</li>\n<li>This exhibition featured works by seven emerging Latino artists.</li>\n<li>She curated the Whitney&rsquo;s 2020 exhibition <em>Vida Americana: Mexican Muralists Remake American Art, 1925&ndash;1945</em>.</li>\n<li>This exhibition included nearly 200 works by twentieth-century Latino and Mexican artists.</li>\n</ul>",
+  "type": "mcq",
+  "keys": [
+    "fec8a616-92f6-4b29-a0b2-903d0c47a013"
+  ],
+  "answerOptions": [
+    {
+      "id": "d96a22ae-0971-4385-93ee-9042fe2f89f9",
+      "content": "<p>Held at the Whitney Museum of American Art, the exhibition <em>Vida Americana: Mexican Muralists Remake American Art, 1925&ndash;1945</em> included nearly 200 works by twentieth-century Mexican and Latino artists.</p>"
+    },
+    {
+      "id": "fec8a616-92f6-4b29-a0b2-903d0c47a013",
+      "content": "<p><em>Pacha, Llaqta, Wasichay: Indigenous Space, Modern Architecture, New Art</em>, an exhibition at the Whitney Museum of American Art, featured works by seven emerging Latino artists.&nbsp;</p>"
+    },
+    {
+      "id": "081e5ab7-1c6e-4ebd-b8b9-996267e25e61",
+      "content": "<p>In both 2018 and 2020, Marcela Guerrero curated exhibitions at the Whitney Museum of American Art in New York.</p>"
+    },
+    {
+      "id": "41d8d290-b0c3-4199-a927-812994171738",
+      "content": "<p>While one exhibition that Marcela Guerrero curated featured works by emerging artists, another included works by twentieth-century artists.&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The sentence describes the 2018 exhibition Guerrero curated, noting that the exhibition, which was titled <em>Pacha, Llaqta, Wasichay: Indigenous Space, Modern Architecture, New Art</em>, featured the works of seven emerging Latino artists.</p><p>Choice A is incorrect. The sentence describes the exhibition Guerrero curated in 2020; it doesn&rsquo;t describe her 2018 exhibition. Choice C is incorrect. The sentence emphasizes a similarity between the two exhibitions Guerrero curated; it doesn&rsquo;t describe her 2018 exhibition. Choice D is incorrect. The sentence emphasizes a difference between the two exhibitions Guerrero curated; it doesn&rsquo;t describe her 2018 exhibition.</p>",
+  "externalid": "3b0557c9-cb2e-4757-ac8b-73a2f43694cb",
+  "correct_answer": [
+    "B"
+  ]
+}

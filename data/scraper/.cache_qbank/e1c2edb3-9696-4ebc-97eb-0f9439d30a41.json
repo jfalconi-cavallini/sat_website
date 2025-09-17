@@ -1,0 +1,38 @@
+{
+  "vaultid": "715aad5d-b8ba-4e5f-a4b6-86e7cdde7539",
+  "keys": [
+    "ac7ec7ca-ce19-4d03-ab5a-73548d9d140e"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion about the relationship between fine art and fashion. As used in this context, &ldquo;intersect&rdquo; means to connect or overlap. The text indicates that Jamie Okuma challenges the position held by critics because her work can be seen at an art museum and can be bought by the public from her online boutique. The text also presents the critics&rsquo; view as being influenced by a perception that fine artists create works that are &ldquo;timeless&rdquo; and meant for exhibition, whereas fashion designers periodically produce new styles that are meant for purchase. This context suggests that the critics believe that fine art and fashion tend not to overlap&mdash;in other words, that they rarely intersect.&nbsp;</p><p>Choice A is incorrect because it wouldn&rsquo;t make sense in context to say that critics contend that fine art and fashion rarely &ldquo;prevail,&rdquo; or prove to be triumphant or widespread. The text indicates that Okuma is an example of an artist who demonstrates that it&rsquo;s possible to make fine art that is also available to the public as fashion. Choice B is incorrect because it wouldn&rsquo;t make sense in context to say that fine art and fashion rarely &ldquo;succumb,&rdquo; or surrender. The text establishes that unlike what critics believe, Okuma creates works that are in art museums and available for the public to purchase, suggesting that critics believe fine art and fashion rarely overlap, not that they rarely succumb. Choice C is incorrect because saying that critics believe that fine art and fashion rarely &ldquo;diverge,&rdquo; or disagree or move in different directions, wouldn&rsquo;t make sense in context. The text presents Okuma&rsquo;s work as both fine art and fashion, thereby undermining what the critics assert. This suggests that the critics believe that fine art and fashion rarely intersect rather than that the two rarely diverge. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "e1c2edb3-9696-4ebc-97eb-0f9439d30a41",
+  "stimulus": "<p>Critics have asserted that fine art and fashion rarely <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in a world where artists create timeless works for exhibition and designers periodically produce new styles for the public to buy. Luise&ntilde;o/Shoshone-Bannock beadwork artist and designer Jamie Okuma challenges this view: her work can be seen in the Metropolitan Museum of Art and purchased through her online boutique.</p>",
+  "templateclusterid": "988aa92d-c517-487c-bac2-b2c5a1541998",
+  "parenttemplatename": "OSP-941-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "8db5c3c2-ca17-485f-8742-9ed6260c403b",
+      "content": "<p>prevail</p>"
+    },
+    {
+      "id": "a04e3215-9c0a-4199-8cf8-a663277298e1",
+      "content": "<p>succumb</p>"
+    },
+    {
+      "id": "385d6b99-575a-4f42-9ce4-7a05c606dcdd",
+      "content": "<p>diverge</p>"
+    },
+    {
+      "id": "ac7ec7ca-ce19-4d03-ab5a-73548d9d140e",
+      "content": "<p>intersect</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

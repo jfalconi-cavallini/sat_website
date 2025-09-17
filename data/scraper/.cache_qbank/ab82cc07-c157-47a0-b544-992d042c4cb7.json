@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Proposals to raise the age at which retirees begin receiving government transfers of funds are generally discussed in terms of the effects on transfer recipients, but Andria Smythe has argued that delaying such transfers could <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> wealth creation among working adults by lengthening the period in which they are providing financial support to their nonworking parents.</p>",
+  "keys": [
+    "8d84cd13-5e7a-4442-9034-3895c55829d9"
+  ],
+  "answerOptions": [
+    {
+      "id": "8d84cd13-5e7a-4442-9034-3895c55829d9",
+      "content": "<p>stymie</p>"
+    },
+    {
+      "id": "f9d2194f-5b1d-4632-94e5-3bf63d71115b",
+      "content": "<p>compound</p>"
+    },
+    {
+      "id": "90773700-eccf-4e9e-8835-994d1d14da15",
+      "content": "<p>disparage</p>"
+    },
+    {
+      "id": "f6a8f80d-da04-4bdd-be63-22a5c46d8378",
+      "content": "<p>outstrip</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of the consequences of raising the age at which retirees begin receiving government funds. The text indicates that raising the age for these funds is usually discussed in terms of effects on fund recipients but that Andria Smythe is instead considering the effects on working family members who care for retirees. Smythe notes that raising the age for the funds would increase the length of time retirees are dependent on financial assistance from working family members. This is suggested to have an effect on wealth creation for those workers, and most logically, that effect would be disadvantageous. Thus, \"stymie,\" which means to prevent or greatly hinder, is the most logical choice in context.</p><p>Choice B is incorrect because in this context, \"compound\" would most nearly mean multiply or greatly enhance. The text indicates that raising the age at which retirees are eligible for government funds will increase the amount of time retirees are dependent on working family members for financial support. This would likely have a negative rather than a positive effect on wealth creation. Choice C is incorrect because in this context, \"disparage\" would most nearly mean criticize or defame. Nothing in the text suggests that raising the age at which retirees are eligible for government funds would defame wealth creation among working adults. Choice D is incorrect because in this context, \"outstrip\" would most nearly mean to exceed, and nothing in the text indicates that the financial support provided to retirees would exceed the amount of wealth these workers can create. The text does suggest that workers providing funds to retirees works against those workers&rsquo; wealth accumulation, but not that the support to retirees exceeds the workers&rsquo; accumulated wealth.</p>",
+  "externalid": "ab82cc07-c157-47a0-b544-992d042c4cb7",
+  "correct_answer": [
+    "A"
+  ]
+}

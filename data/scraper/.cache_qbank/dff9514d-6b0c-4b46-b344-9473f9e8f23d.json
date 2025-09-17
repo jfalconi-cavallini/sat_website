@@ -1,0 +1,38 @@
+{
+  "vaultid": "17cd206c-47df-469b-a7b2-1c69b05880b7",
+  "keys": [
+    "0c5df48f-5da4-420e-b950-ce0833f9fad5"
+  ],
+  "rationale": "<p>Choice A is the best answer. The sentence explains the origin of the Perseid meteor shower&rsquo;s name: the constellation Perseus, where the meteor shower&rsquo;s radiant is located. </p><p>Choice B is incorrect. The sentence makes a claim about meteor shower names in general; it doesn&rsquo;t explain the origin of the Perseid meteor shower&rsquo;s name specifically. Choice C is incorrect. The sentence indicates when and where the Perseid meteor shower is visible; it doesn&rsquo;t explain the origin of the meteor shower&rsquo;s name. Choice D is incorrect. The sentence discusses meteor showers in general; it doesn&rsquo;t explain the origin of the Perseid meteor shower&rsquo;s name. </p>",
+  "origin": "proteus",
+  "stem": "<p>The student wants to explain the origin of the Perseid meteor shower&rsquo;s name. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "externalid": "dff9514d-6b0c-4b46-b344-9473f9e8f23d",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>From Earth, all the meteors in a meteor shower appear to originate from a single spot in the sky.</li>\n<li>This spot is called the meteor shower&rsquo;s radiant.</li>\n<li>The Perseid meteor shower is visible in the northern hemisphere in July and August.</li>\n<li>Like many meteor showers, it is named for the location of its radiant.</li>\n<li>Its radiant is located within the constellation Perseus.</li>\n</ul>",
+  "templateclusterid": "35df5671-6cac-49ea-90f3-b43cab23391d",
+  "parenttemplatename": "OSP-730-SYN",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "0c5df48f-5da4-420e-b950-ce0833f9fad5",
+      "content": "<p>The Perseid meteor shower is named for the constellation Perseus, the location of the meteor shower&rsquo;s radiant.</p>"
+    },
+    {
+      "id": "1127fa50-d458-4ef9-a8ee-7e3b5487eaa0",
+      "content": "<p>A meteor shower&rsquo;s name may be linked to a single spot in the sky.</p>"
+    },
+    {
+      "id": "786b0b7b-ff9c-4879-add2-472f625a9e13",
+      "content": "<p>The Perseid meteor shower, which has a radiant, is visible in the northern hemisphere in July and August.</p>"
+    },
+    {
+      "id": "855ba88b-3ab5-406d-acb3-745500398bb4",
+      "content": "<p>From Earth, all the meteors in a meteor shower appear to originate from a radiant, such as the one within Perseus.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

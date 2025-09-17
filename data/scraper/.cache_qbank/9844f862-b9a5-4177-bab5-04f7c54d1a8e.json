@@ -1,0 +1,38 @@
+{
+  "vaultid": "3fd3a5f5-2e70-4765-8251-9a32920ad9df",
+  "keys": [
+    "6292cca8-9281-4ac5-9081-65a606cb84b3"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text. The text explains that the <em>Cantares Mexicanos</em> contains poems about the Aztec Empire from before the Spanish invasion. Furthermore, it indicates that notes in the collection attest that some of these poems predate the Spanish invasion, while some customs depicted are likely Spanish in origin. The implication is that some poems were composed before the invasion but the references to Spanish customs could have come about only after the invasion, and thus that the collection includes content that predates the invasion and also content from after the invasion. </p><p>Choice B is incorrect because the text clearly indicates that the collection is in Nahuatl, not Spanish, so the compilers&rsquo; unfamiliarity with Spanish is irrelevant to whether the collection contains material composed after the Spanish invasion. Choice C is incorrect because the text mentions only the Aztec Empire and Spain: there is no information about the relationship of Aztec literature to any traditions other than its own or Spain&rsquo;s. Choice D is incorrect because the text states that some of the poems make &ldquo;inarguable references&rdquo; to common Spanish customs, which conflicts with the idea that these references can reasonably be attributed to mere coincidence. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "9844f862-b9a5-4177-bab5-04f7c54d1a8e",
+  "stimulus": "<p>Compiled in the late 1500s largely through the efforts of Indigenous scribes, <em>Cantares Mexicanos</em> is the most important collection of poetry in Classical Nahuatl, the principal language of the Aztec Empire. The poems portray Aztec society before the occupation of the empire by the army of Spain, and marginal notes in <em>Cantares Mexicanos</em> indicate that much of the collection&rsquo;s content predates the initial invasion. Nonetheless, some of the poems contain inarguable references to beliefs and customs common in Spain during this era. Thus, some scholars have concluded that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "1d37a64e-ad56-4921-8368-4d67c7440deb",
+  "parenttemplatename": "OSP-041-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "6292cca8-9281-4ac5-9081-65a606cb84b3",
+      "content": "<p>while its content largely predates the invasion, <em>Cantares Mexicanos</em> also contains additions made after the invasion.</p>"
+    },
+    {
+      "id": "e32192f7-f21c-4906-b471-5d3c52d0080f",
+      "content": "<p>although those who compiled <em>Cantares Mexicanos</em> were fluent in Nahuatl, they had limited knowledge of the Spanish language.</p>"
+    },
+    {
+      "id": "6e5cd20f-2e4d-42b3-a21b-1b9f352e556e",
+      "content": "<p>before the invasion by Spain, the poets of the Aztec Empire borrowed from the literary traditions of other societies.</p>"
+    },
+    {
+      "id": "b149062d-9f2c-43e7-a0f5-bd67ca5b5f9f",
+      "content": "<p>the references to beliefs and customs in Spain should be attributed to a coincidental resemblance between the societies of Spain and the Aztec Empire.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

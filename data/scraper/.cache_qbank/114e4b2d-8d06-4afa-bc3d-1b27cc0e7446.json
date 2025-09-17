@@ -1,0 +1,38 @@
+{
+  "vaultid": "2d48de32-0de3-4478-8545-a8537cfecd98",
+  "keys": [
+    "1f3495b4-2ab6-4245-9ab6-26fcdc7f38e1"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately describes the main purpose of the text, which is to show how Polly reacted to some of Fanny&rsquo;s other friends. The text describes Polly as being frightened of Fanny&rsquo;s friends because they seemed &ldquo;much older and wiser&rdquo; to her and elaborates that they &ldquo;talked about things of which&rdquo; Polly was unfamiliar, uninterested, and shocked. Thus, the main purpose of the text is to describe Polly&rsquo;s impressions of Fanny&rsquo;s other friends.&nbsp;</p><p>Choice B is incorrect because the text does not provide any of the topics Polly discussed with Fanny&rsquo;s friends, stating only that Polly found the topics unfamiliar, uninteresting, and shocking. Choice C is incorrect because the text says nothing about how Fanny and her other friends first met.&nbsp;Choice D is incorrect because the focus of the text is on Polly&rsquo;s feelings about Fanny&rsquo;s other friends, not on the other friends&rsquo; feelings about Polly. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "externalid": "114e4b2d-8d06-4afa-bc3d-1b27cc0e7446",
+  "stimulus": "<p>The following text is adapted from Louisa May Alcott&rsquo;s 1869 novel <em>An Old-Fashioned Girl</em>. Polly, a teenager, is visiting her friend Fanny.</p>\n<blockquote>\n<p>Fanny&rsquo;s friends did not interest Polly much; she was rather afraid of them [because] they seemed so much older and wiser than herself, even those younger in years. They talked about things of which she knew nothing and when Fanny tried to explain, she didn&rsquo;t find them interesting; indeed, some of them rather shocked and puzzled her.</p>\n</blockquote>",
+  "templateclusterid": "31472775-93c3-4fcc-ae97-892f0d38409c",
+  "parenttemplatename": "OSP-042-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "1f3495b4-2ab6-4245-9ab6-26fcdc7f38e1",
+      "content": "<p>To portray Polly&rsquo;s reaction to Fanny&rsquo;s friends</p>"
+    },
+    {
+      "id": "9120a02a-4bcb-4a3d-83e7-d453b8e9d53b",
+      "content": "<p>To identify the topics Polly talks about with Fanny&rsquo;s friends</p>"
+    },
+    {
+      "id": "27ef4022-c9dd-496e-8650-68e340f89981",
+      "content": "<p>To explain how Fanny met some of her friends</p>"
+    },
+    {
+      "id": "fc4bfc93-088f-4272-a939-4a9a5f30153c",
+      "content": "<p>To illustrate how Fanny&rsquo;s friends feel about Polly</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

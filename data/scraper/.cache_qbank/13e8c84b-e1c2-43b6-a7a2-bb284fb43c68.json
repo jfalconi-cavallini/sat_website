@@ -1,0 +1,38 @@
+{
+  "vaultid": "058ae5cd-0dcb-45a2-82d9-4e6983e11373",
+  "keys": [
+    "b97984d3-ab63-4f9c-8f9d-fbc567d98c89"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of Yu&rsquo;s novel. In this context, &ldquo;haphazard&rdquo; means marked by a lack of plan or order. The text indicates that the quest featured in the novel, which involves the protagonist bouncing across time, is chaotic and causes the reader to often wonder what will happen. This context suggests that the protagonist&rsquo;s journey seems to be marked by a lack of order. </p><p>Choice B is incorrect because the text indicates that the journey featured in Yu&rsquo;s novel involves a character &ldquo;ricocheting chaotically,&rdquo; or bouncing in a disordered way, across time and causes the reader to often wonder what will happen. It wouldn&rsquo;t make sense to say that a chaotic journey seems &ldquo;premeditated,&rdquo; or characterized by forethought and planning. Choice C is incorrect because the text doesn&rsquo;t give any indication that readers regard the journey in Yu&rsquo;s novel as &ldquo;inspirational,&rdquo; or as causing extraordinarily creative or brilliant thoughts or actions; instead, the text focuses on the idea that the protagonist&rsquo;s journey is chaotic, or disordered, and doesn&rsquo;t give readers a clear sense of what will happen. Choice D is incorrect. Rather than suggesting that the journey featured in Yu&rsquo;s novel is &ldquo;fruitless,&rdquo; or has an unsuccessful outcome, the text focuses on the idea that while reading about the protagonist&rsquo;s chaotic movements across time, readers are often unsure of what will happen&mdash;that is, they don&rsquo;t know whether the protagonist will be successful in finding his father. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "13e8c84b-e1c2-43b6-a7a2-bb284fb43c68",
+  "stimulus": "<p>Set in a world where science fiction tropes exist as everyday realities, Charles Yu&rsquo;s 2010 novel <em>How to Live Safely in a Science Fictional Universe</em> traces a time traveler&rsquo;s quest to find his father. Because the journey at the novel&rsquo;s center is so <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>, with the protagonist ricocheting chaotically across time, the reader often wonders whether the pair will ever be reunited.</p>",
+  "templateclusterid": "e7c53bd0-038b-4edc-a09b-4d422b9fa04a",
+  "parenttemplatename": "OSP-976-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "b97984d3-ab63-4f9c-8f9d-fbc567d98c89",
+      "content": "<p>haphazard</p>"
+    },
+    {
+      "id": "4c1ed494-dffc-4bd8-8e06-f737717fc1c4",
+      "content": "<p>premeditated</p>"
+    },
+    {
+      "id": "2dadd24f-c2f5-4cad-89fd-c45e0d8f72b4",
+      "content": "<p>inspirational</p>"
+    },
+    {
+      "id": "cf5e7e14-6c38-4779-8379-e508b4502db5",
+      "content": "<p>fruitless</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

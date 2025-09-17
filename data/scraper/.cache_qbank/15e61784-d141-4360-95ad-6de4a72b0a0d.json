@@ -1,0 +1,38 @@
+{
+  "vaultid": "db042d55-9e5e-462c-a60e-8fc69d801474",
+  "keys": [
+    "9a842430-300d-485b-b509-5c6089cb65b1"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most effectively uses data from the table to support the researchers&rsquo; conclusion about the harvesting of clamshells by Neanderthals for use as tools. The text explains that Neanderthals used clamshells to make tools and that the sturdiest, and therefore the most desirable, shells for this purpose are found on the seafloor, not on the beach. However, the researchers also concluded that the clamshell tools made from shells from the seafloor are rarer than those made from shells from the beach. Meanwhile the table shows that at each depth, the number of tools made from shells from the beach exceeds the number made from the more desirable shells from the seafloor. The fact that the more desirable shells are less common suggests that it was significantly more difficult to harvest shells from the seafloor than from the beach. </p><p>Choice B is incorrect because knowing which depth represents the period of time with the highest Neanderthal population does not help answer the question of why the Neanderthals consistently made more tools from the less desirable shells from the beach than they made from the more desirable shells from the seafloor. Choice C is incorrect because it claims that the beach shells are more durable than the seafloor shells, which contradicts the text&rsquo;s description of shells from the seafloor as smoother and sturdier than shells from the beach. Choice D is incorrect because knowing which depth has the most artifacts or whether the clam population fluctuated does not help explain why tools made from the less desirable shells from the beach outnumber tools made from the more desirable shells from the seafloor. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most effectively uses data from the table to support the research team&rsquo;s conclusion?</p>",
+  "externalid": "15e61784-d141-4360-95ad-6de4a72b0a0d",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Number and Origin of Clamshell Tools Found at Different Levels Below the Surface in Neanderthal Cave</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Depth of tools found below surface in cave (meters)</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Clamshells that Neanderthals collected from the beach</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Clamshells that Neanderthals harvested from the seafloor</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">3&ndash;4</th><td style=\"text-align: center;\">99</td><td style=\"text-align: center;\">33</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">6&ndash;7</th><td style=\"text-align: center;\">1</td><td style=\"text-align: center;\">0</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">4&ndash;5</th><td style=\"text-align: center;\">2</td><td style=\"text-align: center;\">0</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">2&ndash;3</th><td style=\"text-align: center;\">7</td><td style=\"text-align: center;\">0</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">5&ndash;6</th><td style=\"text-align: center;\">18</td><td style=\"text-align: center;\">7</td></tr></tbody></table></figure></p>\n<p>Studying tools unearthed at a cave site on the western coast of Italy, archaeologist Paola Villa and colleagues have determined that prehistoric Neanderthal groups fashioned them from shells of clams that they harvested from the seafloor while wading or diving or that washed up on the beach. Clamshells become thin and eroded as they wash up on the beach, while those on the seafloor are smooth and sturdy, so the research team suspects that Neanderthals prized the tools made with seafloor shells. However, the team also concluded that those tools were likely more challenging to obtain, noting that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> </p>",
+  "templateclusterid": "fb2695d2-2f29-4b64-b2e8-d945f23723ce",
+  "parenttemplatename": "OSP-527-QUA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "9a842430-300d-485b-b509-5c6089cb65b1",
+      "content": "<p>at each depth below the surface in the cave, the difference in the numbers of tools of each type suggests that shells were easier to collect from the beach than to harvest from the seafloor.&nbsp;</p>"
+    },
+    {
+      "id": "b5010922-e356-4335-8d24-b2408bc7bd8e",
+      "content": "<p>the highest number of tools were at a depth of 3&ndash;4 meters below the surface, which suggests that the Neanderthal population at the site was highest during the related period of time.</p>"
+    },
+    {
+      "id": "f5d41b47-44b8-4f87-96da-a00d26658ed3",
+      "content": "<p>at each depth below the surface in the cave, the difference in the numbers of tools of each type suggests that Neanderthals preferred to use clamshells from the beach because of their durability.</p>"
+    },
+    {
+      "id": "4cc598b2-03d5-43b2-ad02-a60bd56c8891",
+      "content": "<p>the higher number of tools at depths of 5&ndash;6 meters below the surface in the cave than at depths of 4&ndash;5 meters below the surface suggests that the size of clam populations changed over time.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Novelist Leon Forrest admired William Faulkner&rsquo;s writing style. Forrest&rsquo;s novel <em>Divine Days</em> contains a long passage in tribute to Faulkner that is a perfect <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> of Faulkner&rsquo;s style: anyone familiar with Faulkner&rsquo;s writing would see the resemblance.</p>",
+  "type": "mcq",
+  "keys": [
+    "155e4662-0f1f-4e45-93e3-44fde969e026"
+  ],
+  "answerOptions": [
+    {
+      "id": "cadd2e5e-29f7-4631-a756-ab8d8c5f9f60",
+      "content": "<p>forgetting</p>"
+    },
+    {
+      "id": "3c42c8cd-dcc0-41f6-87a2-cd6260ece672",
+      "content": "<p>rejection</p>"
+    },
+    {
+      "id": "155e4662-0f1f-4e45-93e3-44fde969e026",
+      "content": "<p>imitation</p>"
+    },
+    {
+      "id": "b260ea1c-014e-4ea0-b019-e1522952d83d",
+      "content": "<p>opinion</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of novelist Leon Forrest&rsquo;s admiration of William Faulkner&rsquo;s writing style. In this context, \"imitation\" means something that resembles or reproduces something else. The text states that Forrest admired Faulkner&rsquo;s style and that anyone familiar with Faulkner&rsquo;s style would be able to see the stylistic similarities between a particular passage in Forrest&rsquo;s novel <em>Divine Days</em> and Faulkner&rsquo;s writing, a fact that supports the idea that Forrest&rsquo;s novel pays tribute to Faulkner by reproducing, or imitating, Faulkner&rsquo;s style.</p><p>Choice A is incorrect because in this context, a \"forgetting\" would mean an instance in which something is overlooked or not remembered. The text emphasizes Forrest&rsquo;s admiration for Faulkner&rsquo;s style and the fact that Forrest&rsquo;s writing in some instances closely resembles Faulkner&rsquo;s stylistically. It therefore wouldn&rsquo;t make sense to say that in trying to pay tribute to Faulkner&rsquo;s style, Forrest failed to remember it. Choice B is incorrect because in this context, a \"rejection\" would mean a dismissal of something as unworthy. The text emphasizes Forrest&rsquo;s admiration for Faulkner&rsquo;s writing style, stating that parts of Forrest&rsquo;s writings indicate efforts to copy that style. It wouldn&rsquo;t make sense therefore to suggest that Forrest had rejected or dismissed Faulkner&rsquo;s style as unworthy. Choice D is incorrect because in this context, an \"opinion\" would mean a view or judgment. Although the text focuses on Forrest&rsquo;s admiration of Faulkner, which suggests that Forrest had formed a positive judgment of Faulkner&rsquo;s style, the word opinion wouldn&rsquo;t make sense in this sentence: the sentence doesn&rsquo;t say that the passage from Forrest&rsquo;s novel expresses his view of Faulkner&rsquo;s style; rather, it suggests that stylistically, the passage closely resembles, or imitates, Faulkner&rsquo;s writing.</p>",
+  "externalid": "3511c2a7-97de-4c58-8cdd-06f33e46b181",
+  "correct_answer": [
+    "C"
+  ]
+}

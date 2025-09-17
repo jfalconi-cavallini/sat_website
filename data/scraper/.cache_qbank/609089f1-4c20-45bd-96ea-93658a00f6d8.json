@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>French philosopher Ren&eacute; Descartes doubted whether he could prove his own existence. Eventually, he found proof in his famous phrase &ldquo;I think, therefore I am.&rdquo; The <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> complexity: only those who exist would be able to ponder their existence.</p>",
+  "type": "mcq",
+  "keys": [
+    "6dab1e6f-2f2b-4e92-9171-636507df6250"
+  ],
+  "answerOptions": [
+    {
+      "id": "4256532b-0c2c-4708-b400-134d7387a084",
+      "content": "<p>phrases&rsquo; simplicity masks its</p>"
+    },
+    {
+      "id": "fb7098bc-96b9-42a2-b8e4-bb6826f6144b",
+      "content": "<p>phrases simplicity masks their</p>"
+    },
+    {
+      "id": "3579946c-8461-469e-9319-83296e18cc03",
+      "content": "<p>phrase&rsquo;s simplicity masks their</p>"
+    },
+    {
+      "id": "6dab1e6f-2f2b-4e92-9171-636507df6250",
+      "content": "<p>phrase&rsquo;s simplicity masks its</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The conventions being tested are the use of possessive nouns and the use of possessive determiners. The singular possessive noun \"phrase&rsquo;s\" correctly indicates that there is only one simple phrase. The singular possessive determiner \"its\" agrees in number with the singular possessive noun \"phrase&rsquo;s,\" reinforcing the idea that there is only one simple yet complex phrase.</p><p>Choice A is incorrect because the context requires the singular possessive noun \"phrase&rsquo;s,\" not the plural possessive noun \"phrases&rsquo;.\" Choice B is incorrect because the context requires the singular possessive noun \"phrase&rsquo;s\" and the corresponding singular possessive determiner \"its,\" not the plural noun \"phrases\" and the corresponding plural possessive determiner \"their.\" Choice C is incorrect because the context requires the singular possessive determiner \"its,\" not the plural possessive determiner \"their.\"</p>",
+  "externalid": "609089f1-4c20-45bd-96ea-93658a00f6d8",
+  "correct_answer": [
+    "D"
+  ]
+}

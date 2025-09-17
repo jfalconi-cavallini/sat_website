@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best describes the function of the underlined sentence in the text as a whole?</p>",
+  "stimulus": "<p>On painter William H. Johnson&rsquo;s return to the United States in 1938 after a decade in Europe, his style underwent an abrupt transformation. <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">Turning away from landscapes painted in an expressionist style&mdash;a style that often involves using fluid, distorted shapes and thick, textured brushstrokes to express the artist&rsquo;s subjective experience of reality&mdash;Johnson began painting portraits of Black Americans in a bold new way.</span> Evocative of African sculpture and American and Scandinavian folk art, these portraits feature flat, deliberately oversimplified figures in a vibrant but limited color palette.</p>",
+  "type": "mcq",
+  "keys": [
+    "436868f1-8b84-4ea1-8524-1d5ae8289954"
+  ],
+  "answerOptions": [
+    {
+      "id": "436868f1-8b84-4ea1-8524-1d5ae8289954",
+      "content": "<p>It elaborates on the previous sentence&rsquo;s statement about a transitional moment in Johnson&rsquo;s artistic career.&nbsp;</p>"
+    },
+    {
+      "id": "ecaefd80-09ca-4efc-9f99-bd666c1f6dde",
+      "content": "<p>It provides information about Johnson&rsquo;s travels in support of a claim about his artistic influences, which is advanced in the following sentence.&nbsp;</p>"
+    },
+    {
+      "id": "3ac6cf94-8ea7-4c28-8bad-4b85d3d85164",
+      "content": "<p>It recounts a moment in Johnson&rsquo;s personal life that enabled the success of his subsequent career, which is summarized in the following sentence.</p>"
+    },
+    {
+      "id": "e932ed83-b8d4-4f46-9898-cb1fc5e27d6d",
+      "content": "<p>It presents evidence that calls into question the previous sentence&rsquo;s characterization of Johnson&rsquo;s artistic development.&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately describes the function of the underlined sentence in the text as a whole. The first sentence of the text indicates that Johnson returned to the US in 1938 at which time his painting style suddenly changed. The second sentence is underlined and gives more detail about this stylistic change, noting that his earlier work consisted largely of landscapes in an expressionist style and his new works were highly stylized portraits of Black Americans. In other words, the function of the underlined sentence is to elaborate on a transitional moment in Johnson&rsquo;s painting career.</p><p>Choice B is incorrect. Although the text does mention that Johnson spent a decade in Europe, it does not discuss what other travel Johnson might have done. Furthermore, although the text mentions African, American, and Scandinavian artistic elements in Johnson&rsquo;s work, it does not indicate that he traveled to different locations to learn about these practices. Choice C is incorrect because the text does not focus on Johnson&rsquo;s personal life nor does it address how successful his career was in general. Choice D is incorrect because, rather than call it into question, the underlined sentence continues the discussion of Johnson&rsquo;s career by adding further relevant detail of Johnson&rsquo;s artistic transformation.</p>",
+  "externalid": "10aedcfb-dfe1-4eac-b1d2-89f7c794f9eb",
+  "correct_answer": [
+    "A"
+  ]
+}

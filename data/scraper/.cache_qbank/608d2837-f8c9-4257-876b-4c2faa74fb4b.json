@@ -1,0 +1,38 @@
+{
+  "vaultid": "b4e9204d-7698-489a-a27a-f9292faa9b6c",
+  "keys": [
+    "aec9d97c-cb0d-4348-afe8-0381fe6a0dd1"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of Renata Flores Rivera&rsquo;s use of Quechua in her music. In this context, &ldquo;inexperienced with&rdquo; means not accustomed to. The text indicates that Flores Rivera wanted to promote the Quechua language in her music and overcame a challenge by seeking help with pronunciation from her grandmother and by taking language classes. This context conveys the idea that Flores Rivera was not sufficiently familiar with Quechua to use it in her music without help. Thus, she was inexperienced with speaking the language, which she addressed by seeking help. </p><p>Choice A is incorrect because describing Flores Rivera as &ldquo;prepared for&rdquo;&mdash;or ready for&mdash;speaking Quechua wouldn&rsquo;t make sense in context. The text indicates that speaking Quechua presented a challenge, but if she were ready to speak the language, then there would be no challenge. Choice C is incorrect because describing Flores Rivera as &ldquo;skilled in&rdquo;&mdash;meaning good at or capable of&mdash;speaking Quechua wouldn&rsquo;t make sense in context. The text indicates that speaking Quechua presented a challenge, but if she were capable of speaking the language, then there would be no challenge. Choice D is incorrect. Flores Rivera was likely &ldquo;excited about&rdquo;&mdash;or thrilled or delighted with&mdash;speaking Quechua, but this wouldn&rsquo;t make sense in context. The text indicates that speaking Quechua presented a challenge, but if she were delighted with speaking the language, then there would be no challenge. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "608d2837-f8c9-4257-876b-4c2faa74fb4b",
+  "stimulus": "<p>A musician and member of the Quechua of Peru, Renata Flores Rivera was eager to promote the Quechua language in her music, but she was <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> speaking it. She met this challenge by asking her grandmother, a native speaker of Quechua, to help her pronounce words in her song lyrics and also by taking classes in the language.</p>",
+  "templateclusterid": "1a7cc4f2-08dc-4df0-adc1-7fa3a3cf1c82",
+  "parenttemplatename": "OSP-043-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "68153d44-570a-46a9-b84d-279ab03d705d",
+      "content": "<p>prepared for</p>"
+    },
+    {
+      "id": "aec9d97c-cb0d-4348-afe8-0381fe6a0dd1",
+      "content": "<p>inexperienced with</p>"
+    },
+    {
+      "id": "f695e14b-947e-4aaa-967f-86b96477e3ad",
+      "content": "<p>skilled in</p>"
+    },
+    {
+      "id": "f4331e0e-01c7-4b57-a326-551a4778aa25",
+      "content": "<p>excited about</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

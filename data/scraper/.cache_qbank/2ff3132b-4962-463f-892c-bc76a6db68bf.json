@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Historians agree that the jazz pianist Jelly Roll Morton was exaggerating when he claimed to have invented jazz music. No one can deny, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> that Morton&rsquo;s innovative compositions and remarkable improvisational skills helped shape jazz as a genre during its early years.</p>",
+  "type": "mcq",
+  "keys": [
+    "39dc81c2-bf1e-4282-a1e1-45bcf769cc2f"
+  ],
+  "answerOptions": [
+    {
+      "id": "cde15df7-1fd4-4ed4-bbd2-6fae7bb54c5e",
+      "content": "<p>therefore,</p>"
+    },
+    {
+      "id": "3cc2e273-6e08-4fbb-b687-717f348d0985",
+      "content": "<p>in the second place,</p>"
+    },
+    {
+      "id": "638d7f80-ae6b-4f36-aa34-eceb39227986",
+      "content": "<p>in other words,</p>"
+    },
+    {
+      "id": "39dc81c2-bf1e-4282-a1e1-45bcf769cc2f",
+      "content": "<p>though,</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. \"Though\" logically signals that the claim in the sentence&mdash;that Morton&rsquo;s improvisational skills helped shape jazz as a genre during its early years (\"No one can deny\" it)&mdash;is true despite the previous information about Morton&rsquo;s exaggerated claim to have invented jazz.</p><p>Choice A is incorrect because \"therefore\" illogically signals that the claim in the sentence is a result of the previous information about Morton&rsquo;s claim to have invented jazz. Instead, the sentence states that Morton helped to shape jazz&mdash;even if his claim was an exaggeration. Choice B is incorrect because \"in the second place\" illogically signals that the claim in the sentence is a second, separate point in addition to Morton&rsquo;s claim to have invented jazz. Instead, the sentence states that Morton helped to shape jazz&mdash;even if his claim was an exaggeration. Choice C is incorrect because \"in other words\" illogically signals that the claim in the sentence is merely a paraphrase or restatement of the previous information about Morton&rsquo;s claim to have invented jazz. Instead, the sentence states that Morton helped to shape jazz&mdash;even if his claim was an exaggeration.</p>",
+  "externalid": "2ff3132b-4962-463f-892c-bc76a6db68bf",
+  "correct_answer": [
+    "D"
+  ]
+}

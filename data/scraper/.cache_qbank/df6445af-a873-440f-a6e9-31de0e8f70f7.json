@@ -1,0 +1,38 @@
+{
+  "vaultid": "922add41-79c2-4d10-b391-abe274fefa3c",
+  "keys": [
+    "c3485104-ba03-45b2-84ec-5e5396b427ab"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of plural nouns. The plural nouns \"musicians\" and \"audiences\" correctly indicate that there were multiple musicians introducing the music to multiple audiences.</p><p>Choice B is incorrect because the context requires the plural nouns \"musicians\" and \"audiences,\" not the plural possessive nouns \"musicians&rsquo;\" and \"audiences&rsquo;.\" Choice C is incorrect because the context requires the plural nouns \"musicians\" and \"audiences,\" not the singular possessive nouns \"musician&rsquo;s\" and \"audience&rsquo;s.\" Choice D is incorrect because the context requires the plural noun \"musicians,\" not the plural possessive noun \"musicians&rsquo;.\"</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "df6445af-a873-440f-a6e9-31de0e8f70f7",
+  "stimulus": "<p>In the early twentieth century, Joseph Kekuku and other Hawaiian <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in the mainland United States to the bright and lilting sound of the <span lang=\"haw\"><em>kīkā kila</em></span>, or Hawaiian steel guitar. The instrument soon became a fixture in American blues and country music.</p>",
+  "templateclusterid": "b8c05286-9bcb-484b-99af-a3173adeb337",
+  "parenttemplatename": "OSP-754-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "c3485104-ba03-45b2-84ec-5e5396b427ab",
+      "content": "<p>musicians introduced audiences</p>"
+    },
+    {
+      "id": "255c3936-a79d-42ae-9bdd-3b028188f843",
+      "content": "<p>musicians&rsquo; introduced audiences&rsquo;</p>"
+    },
+    {
+      "id": "03604f86-d0a7-425b-b718-ec60323f47f3",
+      "content": "<p>musician&rsquo;s introduced audience&rsquo;s</p>"
+    },
+    {
+      "id": "e76966a8-4eff-4ddc-9d3c-6fc5b541d29a",
+      "content": "<p>musicians&rsquo; introduced audiences</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

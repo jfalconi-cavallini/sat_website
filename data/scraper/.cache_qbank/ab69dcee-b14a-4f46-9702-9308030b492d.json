@@ -1,0 +1,38 @@
+{
+  "vaultid": "4858ae35-599f-49af-bbbe-3400d63d4388",
+  "keys": [
+    "2e440622-1b24-4556-8773-a7d31fd84d80"
+  ],
+  "rationale": "<p>Choice D is the best answer. &ldquo;Then&rdquo; logically signals that the event described in this sentence&mdash;carbon in phytoplankton cells being trapped in sediment after the organisms have died&mdash;occurs later in a chronological sequence than the event described in the previous sentence (phytoplankton absorbing carbon while alive). </p><p>Choice A is incorrect because &ldquo;specifically&rdquo; illogically signals that the information that follows provides specific, precise details elaborating on the previous information about what phytoplankton do when alive. Instead, this sentence explains what happens after phytoplankton die&mdash;a later step in the chronological sequence of events. Choice B is incorrect because &ldquo;by contrast&rdquo; illogically signals that the information that follows contrasts with the previous information about what phytoplankton do when alive. Instead, this sentence explains what happens after phytoplankton die&mdash;a later step in the chronological sequence of events. There is no contrast: in both life and death, phytoplankton contribute to the ocean&rsquo;s carbon uptake. Choice C is incorrect because &ldquo;nevertheless&rdquo; illogically signals that the information that follows is in spite of the previous information about what phytoplankton do when alive. Instead, this sentence explains what happens after phytoplankton die&mdash;a later step in the chronological sequence of events. There is no contrast: in both life and death, phytoplankton contribute to the ocean&rsquo;s carbon uptake. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "ab69dcee-b14a-4f46-9702-9308030b492d",
+  "stimulus": "<p>Phytoplankton play a crucial role in the ocean&rsquo;s uptake of carbon from the atmosphere. When alive, these tiny marine organisms absorb atmospheric carbon via photosynthesis. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> after they die, the phytoplankton sink to the seafloor, where the carbon in their cells gets stored in sediment, preventing it from cycling back into the atmosphere.</p>",
+  "templateclusterid": "bcb5ee28-389d-49b5-aa0b-a23ae3076b4b",
+  "parenttemplatename": "OSP-270-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d305cefd-3046-4dd7-9eb4-1220b9504eb3",
+      "content": "<p>Specifically,</p>"
+    },
+    {
+      "id": "a95c8eb9-d55c-40ea-8f79-a23386ee38c4",
+      "content": "<p>By contrast,</p>"
+    },
+    {
+      "id": "92941673-54c9-4b5d-9a3d-4e40bb1fc6bb",
+      "content": "<p>Nevertheless,</p>"
+    },
+    {
+      "id": "2e440622-1b24-4556-8773-a7d31fd84d80",
+      "content": "<p>Then,</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

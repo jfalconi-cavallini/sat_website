@@ -1,0 +1,38 @@
+{
+  "vaultid": "105b3623-565c-4f24-bdf8-fdff7e69733f",
+  "keys": [
+    "13105cf2-aee0-41c7-86ea-25f0c02c6ce4"
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents a finding that, if true, would support Asmerom and colleagues&rsquo; conclusion that the ITCZ may have expanded northward and southward rather than shifting south during the Little Ice Age. The text indicates that the ITCZ, a band of clouds in the tropics that is a significant rainfall source, can change position. Data from Peru&rsquo;s Huagapo Cave suggest that the ITCZ shifted south during the Little Ice Age. But according to the text, if the ITCZ moved into South America in that way, then Central America should have been drier than climate models suggest it was. In other words, rainfall should have been reduced in Central America because the ITCZ, a significant rainfall source, had shifted into South America, but climate models do not show such a reduction in Central America. The text goes on to say that Asmerom and colleagues tried to resolve this apparent conflict by collecting data from Yok Balum cave in Central America and comparing them with data from Huagapo, which led the researchers to conclude that the ITCZ may have expanded both northward and southward rather than simply shifting south. If it is true that Yok Balum in Central America and Huagapo in South America show strongly correlated patterns of high rainfall during the Little Ice Age, such a finding would support Asmerom and colleagues&rsquo; conclusion by suggesting that the two areas were affected by the same rainfall source, and thus that the ITCZ may have expanded rather than shifted.&nbsp;</p><p>Choice A is incorrect because there is no information in the text about how, if at all, the ITCZ affects temperature in areas where it is located. Rather, the text states that temperature variations across Earth&rsquo;s hemispheres can shift the position of the ITCZ. Finding that neither Yok Balum nor Huagapo data show evidence of significant local variations in temperature during the Little Ice Age would have no clear bearing on Asmerom and colleagues&rsquo; claim.&nbsp;Choice B is incorrect because finding that both Yok Balum and Huagapo experienced prolonged dry conditions during the Little Ice Age would not support Asmerom and colleagues&rsquo; conclusion that the ITCZ, a major source of rainfall, may have expanded northward and southward rather than simply shifting south. Dry conditions in both locations would suggest that the ITCZ did not cover either location. Additionally, finding that temperatures were elevated in both locations would have no clear bearing on Asmerom and colleagues&rsquo; conclusion, since there is no information in the text that indicates how, if at all, the ITCZ affects temperature. Choice C is incorrect because finding that Yok Balum experienced prolonged dry conditions at the same time that Huagapo experienced high rainfall would weaken Asmerom and colleagues&rsquo; conclusion, not strengthen it. Such a finding would suggest that the ITCZ shifted south and left Central America dry rather than expanding both northward and southward.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which finding from Asmerom and colleagues&rsquo; study, if true, would most directly support their conclusion?&nbsp;</p>",
+  "externalid": "1da0f5f5-e5b6-40f5-b42f-81390b87a253",
+  "stimulus": "<p>The Intertropical Convergence Zone (ITCZ), a band of clouds that encircles Earth in the tropics and is a major rainfall source, shifts position in response to temperature variations across Earth&rsquo;s hemispheres. Data from Huagapo Cave in Peru suggest the ITCZ shifted south during the Little Ice Age (circa 1300&ndash;1850), but a shift as far into South America as Huagapo should have led to dry conditions in Central America, which is inconsistent with climate models. To resolve the issue, geologist Yemane Asmerom and colleagues collected data from Yok Balum Cave in Central America and compared them with the Huagapo data. They concluded that during the Little Ice Age, the ITCZ may have expanded northward and southward rather than simply shifted.</p>",
+  "templateclusterid": "aeaa1829-8cab-4211-90d6-32df2149aa71",
+  "parenttemplatename": "OSP-351-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "43135268-bc7b-4fe2-91ac-5b5f49df8174",
+      "content": "<p>Neither the Yok Balum data nor the Huagapo data show significant local variations in temperature during the Little Ice Age.&nbsp;</p>"
+    },
+    {
+      "id": "3e431e95-8db7-4d0e-8963-6948a090fb10",
+      "content": "<p>Both the Yok Balum data and the Huagapo data show increased temperatures and prolonged dry conditions during the Little Ice Age.&nbsp;</p>"
+    },
+    {
+      "id": "6e057a57-7819-4ab9-93b1-69d641118424",
+      "content": "<p>The Yok Balum data show prolonged dry conditions during the same portions of the Little Ice Age in which the Huagapo data show heightened levels of rainfall.&nbsp;</p>"
+    },
+    {
+      "id": "13105cf2-aee0-41c7-86ea-25f0c02c6ce4",
+      "content": "<p>The Yok Balum data and the Huagapo data show strongly correlated patterns of high rainfall during the Little Ice Age.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

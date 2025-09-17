@@ -1,0 +1,38 @@
+{
+  "vaultid": "9bf1a4f9-e844-4b0c-94f5-03af3276d142",
+  "keys": [
+    "e7299a1d-7890-4992-8784-0e3cdaf7243e"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between one sentence (\"In&hellip;<em>Panchali</em>\") and another (\"A quiet&hellip;time\"). The phrase beginning with \"a quiet\" modifies the subject of the next sentence, \"Ray&rsquo;s film.\"</p><p>Choice A is incorrect because it results in a run-on sentence. The sentences are fused without punctuation and/or a conjunction. Choice B is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to mark the boundary between sentences. Choice C is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to mark the boundary between sentences.</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "65b38c29-ee46-4237-ae07-31e809877121",
+  "stimulus": "<p>In 1955, Indian Bengali filmmaker Satyajit Ray released his first movie, <em>Pather</em> <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> quiet black-and-white drama about a family in rural India, Ray&rsquo;s film was quite different from the loud, colorful action-romance movies that were popular at the time.</p>",
+  "templateclusterid": "f9be6c81-e45a-4f22-99fe-f9bded3ff9ea",
+  "parenttemplatename": "OSP-740-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "2763dc90-d8e2-4177-bcc4-0aaff09936a2",
+      "content": "<p><em>Panchali</em>&nbsp;a</p>"
+    },
+    {
+      "id": "3460430f-73fa-4da1-bee0-ee39d1a443b3",
+      "content": "<p><em>Panchali</em>, which was a</p>"
+    },
+    {
+      "id": "c8b5da59-250d-46c8-9d8d-c55ea0da90d8",
+      "content": "<p><em>Panchali</em>, a</p>"
+    },
+    {
+      "id": "e7299a1d-7890-4992-8784-0e3cdaf7243e",
+      "content": "<p><em>Panchali</em>. A</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

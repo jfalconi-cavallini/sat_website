@@ -1,0 +1,38 @@
+{
+  "vaultid": "1acc7f8b-8bdc-4c9b-aae0-e6c01485c332",
+  "keys": [
+    "db8c6282-2f03-4430-b84d-4eed625025ca"
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents a finding that, if true, would challenge the assumption that many ecologists have made about the connection between the building of domed nests and geographic range in songbirds. The text says that many ecologists have assumed that since domed nests provide protection from weather conditions, songbird species that build such nests should be able to have larger geographic ranges than songbird species that build open nests do. If Medina and her colleagues found that species that build open nests tend to have larger geographic ranges than species that build domed nests do, their finding would show the opposite of what the ecologists have assumed. It would therefore challenge the ecologists&rsquo; assumption. </p><p>Choice A is incorrect because nothing in the text suggests that there&rsquo;s a relationship between songbird species&rsquo; extinction rates and their geographic ranges. The finding that species that build open nests tend to have higher extinction rates than species that build domed nests do would therefore have no clear bearing on the ecologists&rsquo; assumption that domed nests allow species that build them to have larger geographic ranges than those of species that build open nests. Choice B is incorrect because nothing in the text suggests that there&rsquo;s a relationship between songbird species&rsquo; sizes and their geographic ranges. The finding that species that build open nests tend to be smaller in size than species that build domed nests are would therefore have no clear bearing on the ecologists&rsquo; assumption that domed nests allow species that build them to have larger geographic ranges than those of species that build open nests. Choice C is incorrect because although the text indicates that many ecologists have assumed that there&rsquo;s a connection between how songbird species build their nests and the species&rsquo; geographic ranges, the text says that this assumption is based on the shape of the nests&mdash;that is, whether the nests are domed or open&mdash;not the number of materials used. The finding that species that build open nests tend to use fewer materials to build their nests than species that build domed nests do would therefore have no clear bearing on the ecologists&rsquo; assumption that domed nests allow species that build them to have larger geographic ranges than those of species that build open nests. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which finding from Medina and her colleagues&rsquo; study, if true, would most directly challenge the assumption in the underlined sentence?</p>",
+  "externalid": "120d4012-6089-4617-a7f4-e27c49c875e1",
+  "stimulus": "<p>Although most songbirds build open, cupped nests, some species build domed nests with roofs that provide much more protection. <span role=\"region\" aria-label=\"Referenced Content\"><u>Many ecologists have assumed that domed nests would provide protection from weather conditions and thus would allow species that build them to have larger geographic ranges than species that build open nests do.</u></span> To evaluate this assumption, a research team led by evolutionary biologist Iliana Medina analyzed data for over 3,000 species of songbirds.</p>",
+  "templateclusterid": "58c304c4-c407-4ca7-891a-fbb221169829",
+  "parenttemplatename": "OSP-350-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "94a55706-129c-4113-b6d7-4d5c10df9d61",
+      "content": "<p>Species that build open nests tend to have higher extinction rates than species that build domed nests.</p>"
+    },
+    {
+      "id": "3b7e11b0-a129-4fd6-a5e1-df6be54a6cb3",
+      "content": "<p>Species that build open nests tend to be smaller in size than species that build domed nests.</p>"
+    },
+    {
+      "id": "1dc58681-98c6-407d-bb14-f44c56631cad",
+      "content": "<p>Species that build open nests tend to use fewer materials to build their nests than species that build domed nests do.</p>"
+    },
+    {
+      "id": "db8c6282-2f03-4430-b84d-4eed625025ca",
+      "content": "<p>Species that build open nests tend to have larger ranges than species that build domed nests.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "0e40c9fe-c8f6-48eb-b840-a3fcde7a7df1",
+  "keys": [
+    "1a23d05a-8e1a-4483-8ed1-77cd5d62bd22"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the punctuation of a supplementary element within a sentence. The comma after &ldquo;nutrients&rdquo; pairs with the comma after &ldquo;photosynthesis&rdquo; to separate the supplementary element &ldquo;the mechanism by which plants use sunlight to turn carbon dioxide and water into nutrients&rdquo; from the rest of the sentence. This supplementary element functions to define the term &ldquo;photosynthesis,&rdquo; and the pair of commas indicates that this element could be removed without affecting the grammatical coherence of the sentence. </p><p>Choice A is incorrect because it fails to use appropriate punctuation to separate the supplementary element from the rest of the sentence. Choice B is incorrect because a conjunction can&rsquo;t be paired with a comma in this way to separate the supplementary element from the rest of the sentence. Choice D is incorrect because a dash can&rsquo;t be paired with a comma in this way to separate the supplementary element from the rest of the sentence. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "98341ec4-6938-453c-9ee4-11a09b55eabf",
+  "stimulus": "<p>Photosynthesis, the mechanism by which plants use sunlight to turn carbon dioxide and water into <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> is fueled in part by an enzyme called Photosystem II that harvests energy-giving electrons from water molecules.</p>",
+  "templateclusterid": "8182d867-dbdd-4c19-9cef-b91abef36e2b",
+  "parenttemplatename": "OSP-724-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "6ea4f2eb-af46-4f29-8448-0e5b5f2c0236",
+      "content": "<p>nutrients</p>"
+    },
+    {
+      "id": "3df07580-86b7-4468-9352-389416670d28",
+      "content": "<p>nutrients and</p>"
+    },
+    {
+      "id": "1a23d05a-8e1a-4483-8ed1-77cd5d62bd22",
+      "content": "<p>nutrients,</p>"
+    },
+    {
+      "id": "a01770f3-e5cc-438a-b05c-6bc967045e53",
+      "content": "<p>nutrients&mdash;</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

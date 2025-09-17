@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Ballet dancer Misty Copeland has accomplished a lot. She has appeared on Broadway, toured with Prince, and even served on the President&rsquo;s Council on Sports, Fitness &amp; Nutrition. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> according to Copeland, nothing in her career matches the honor of being the first African American woman named principal dancer at the prestigious American Ballet Theatre.</p>",
+  "type": "mcq",
+  "keys": [
+    "e0f9bb3c-35a7-4338-84f5-15e1472090ad"
+  ],
+  "answerOptions": [
+    {
+      "id": "40c74578-b966-4b6a-8b0c-322ff9e6281a",
+      "content": "<p>Thus,</p>"
+    },
+    {
+      "id": "e0f9bb3c-35a7-4338-84f5-15e1472090ad",
+      "content": "<p>However,</p>"
+    },
+    {
+      "id": "0e189887-8cf9-416b-be45-8a36ebccd9d4",
+      "content": "<p>For example,</p>"
+    },
+    {
+      "id": "bade8206-be9b-4e20-91b7-e190e5777d7c",
+      "content": "<p>Second of all,</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. \"However\" logically signals that the information in this sentence&mdash;that nothing in Copeland&rsquo;s career matches her accomplishment of being the first African American woman named principal dancer at the American Ballet Theatre&mdash;offers a contrast or exception to the previous information about Copeland&rsquo;s accomplishments.</p><p>Choice A is incorrect because \"thus\" illogically signals that the information that follows is a result of the previous information about Copeland&rsquo;s accomplishments. Instead, the statement that nothing in Copeland&rsquo;s career matches this accomplishment offers a contrast or exception to that information. Choice C is incorrect because \"for example\" illogically signals that Copeland&rsquo;s statement about her greatest accomplishment exemplifies the claim about her accomplishments in the previous sentence. Instead, it offers a contrast or exception to that information. Choice D is incorrect because \"second of all\" illogically signals that the information in this sentence is a second, separate claim from the previous sentence&rsquo;s information about her accomplishments. Instead, the statement that nothing in Copeland&rsquo;s career matches this accomplishment offers a contrast or exception to that information.</p>",
+  "externalid": "808dc1ee-2be6-4bb1-b3c9-42b468c3ecf2",
+  "correct_answer": [
+    "B"
+  ]
+}

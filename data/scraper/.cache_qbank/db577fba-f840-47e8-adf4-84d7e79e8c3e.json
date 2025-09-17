@@ -1,0 +1,38 @@
+{
+  "vaultid": "a10b638a-8d68-401d-b034-f95888da115c",
+  "keys": [
+    "8f6f9acd-3864-422c-b318-5128508f6076"
+  ],
+  "rationale": "<p>Choice D is the best answer because it best describes how the underlined sentence functions in the text as a whole. The first sentence of the text establishes that Lily can be &ldquo;keenly sensitive to&rdquo; scenes that serve as a &ldquo;fitting background&rdquo; for her feelings&mdash;that is, she&rsquo;s very aware of when a setting seems to reflect her mood. The next sentence, which is underlined, then demonstrates this awareness: Lily views the landscape she&rsquo;s in as a large-scale reflection of her current mood, identifying with elements such as its calmness. Thus, the function of the underlined sentence is to illustrate an idea introduced in the previous sentence. </p><p>Choice A is incorrect because the underlined sentence describes the scene only in very general terms, referring to its calmness, breadth, and long stretches of land. It&rsquo;s the next sentence that adds specific details about colors, light, and various trees nearby. Choice B is incorrect because nothing in the underlined sentence suggests that Lily is experiencing an internal conflict. In fact, the sentence indicates that Lily thinks the landscape reflects her own feeling of calmness. Choice C is incorrect because the only assertion in the underlined sentence is that Lily feels that broad aspects of the landscape, such as its calmness, reflect her current mood, and that assertion isn&rsquo;t expanded on in the next sentence. Instead, the next sentence describes specific details of the scene without connecting them to Lily&rsquo;s feelings. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes the function of the underlined sentence in the text as a whole?</p>",
+  "externalid": "db577fba-f840-47e8-adf4-84d7e79e8c3e",
+  "stimulus": "<p>The following text is from Edith Wharton&rsquo;s 1905 novel <em>The House of Mirth</em>. Lily Bart and a companion are walking through a park.</p>\n<p style='padding-left: 1em;'>Lily had no real intimacy with nature, but she had a passion for the appropriate and could be keenly sensitive to a scene which was the fitting background of her own sensations. <span role=\"region\" aria-label=\"Referenced Content\"><u>The landscape outspread below her seemed an enlargement of her present mood, and she found something of herself in its calmness, its breadth, its long free reaches.</u></span> On the nearer slopes the sugar-maples wavered like pyres of light; lower down was a massing of grey orchards, and here and there the lingering green of an oak-grove.</p>",
+  "templateclusterid": "962967a0-9967-4494-ac20-0b0191792957",
+  "parenttemplatename": "OSP-018-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "bbcb4318-71f8-40c0-9c53-2b0b807f37e3",
+      "content": "<p>It creates a detailed image of the physical setting of the scene.</p>"
+    },
+    {
+      "id": "ada4602d-0e18-442b-924f-1635ccc9676f",
+      "content": "<p>It establishes that a character is experiencing an internal conflict.</p>"
+    },
+    {
+      "id": "4c7131d0-6a00-4207-88ea-15ccc54e4ea9",
+      "content": "<p>It makes an assertion that the next sentence then expands on.</p>"
+    },
+    {
+      "id": "8f6f9acd-3864-422c-b318-5128508f6076",
+      "content": "<p>It illustrates an idea that is introduced in the previous sentence.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

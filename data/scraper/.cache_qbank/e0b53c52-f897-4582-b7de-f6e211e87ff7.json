@@ -1,0 +1,38 @@
+{
+  "vaultid": "07401630-a4f5-47e0-9270-dcff80c003d0",
+  "keys": [
+    "ecbcd903-1ae8-4610-bfee-d6aee50a7a2c"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the punctuation of a supplementary element within a sentence. The dash after &ldquo;Springs&rdquo; pairs with the dash after &ldquo;earth&rdquo; to separate the supplementary element &ldquo;in this case, the porous rocks of the hills around Hot Springs&rdquo; from the rest of the sentence. </p><p>Choice A is incorrect because it fails to use appropriate punctuation to separate the supplementary element from the rest of the sentence. Choice B is incorrect because a colon can&rsquo;t be paired with a dash in this way to separate the supplementary element from the rest of the sentence. Choice D is incorrect because a comma can&rsquo;t be paired with a dash in this way to separate the supplementary element from the rest of the sentence. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "e0b53c52-f897-4582-b7de-f6e211e87ff7",
+  "stimulus": "<p>The forty-seven geothermal springs of Arkansas&rsquo; Hot Springs National Park are sourced via a process known as natural groundwater recharge, in which rainwater percolates downward through the earth&mdash;in this case, the porous rocks of the hills around Hot <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> collect in a subterranean basin.</p>",
+  "templateclusterid": "c059cab8-190c-4565-baf2-f72dec249405",
+  "parenttemplatename": "OSP-705-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "133fe346-c482-49fc-bd04-0f3484b879d0",
+      "content": "<p>Springs to</p>"
+    },
+    {
+      "id": "ba81b3b9-9814-4ea1-a0de-35a199488baa",
+      "content": "<p>Springs: to</p>"
+    },
+    {
+      "id": "ecbcd903-1ae8-4610-bfee-d6aee50a7a2c",
+      "content": "<p>Springs&mdash;to</p>"
+    },
+    {
+      "id": "0d6d7834-4656-4a3d-bfdb-4aa4c16402a3",
+      "content": "<p>Springs, to</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

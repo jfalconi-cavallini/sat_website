@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "stimulus": "<p>In 1154, Muhammad al-Idrisi completed a collection of maps of the lands known to medieval Arabic and European scholars. This collection was titled <span lang=\"ar\"><em>Al-Kitāb al-Rujārī</em></span> (<em>The Book of Roger</em>), after the Norman king Roger II who hired him to create it. To create the collection, al-Idrisi consulted Arabic and Greek maps and interviewed travelers about the lands they visited. He included these travelers&rsquo; stories alongside the map illustrations.&nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "a2f9e782-9e94-475c-9336-c88c1ac4e728"
+  ],
+  "answerOptions": [
+    {
+      "id": "79023fa6-9fb5-4c89-adc5-cff558752b20",
+      "content": "<p>To discuss the benefits of studying mapmaking&nbsp;</p>"
+    },
+    {
+      "id": "0c7bc540-10be-426b-bef2-6687d33375f4",
+      "content": "<p>To explain how travelers created maps&nbsp;</p>"
+    },
+    {
+      "id": "a2f9e782-9e94-475c-9336-c88c1ac4e728",
+      "content": "<p>To describe a collection of medieval maps and how it was created</p>"
+    },
+    {
+      "id": "8c21749c-223d-4e04-9697-7d9ae6ff9739",
+      "content": "<p>To compare medieval Arabic and Greek mapmaking techniques</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most accurately states the main purpose of the text, which is to describe a collection of medieval maps and how it was created. The text begins by mentioning Muhammad al-Idrisi&rsquo;s collection of maps of lands known to medieval Arabic and European scholars. It then states that the Norman king Roger II hired al-Idrisi to create the collection and details al-Idrisi&rsquo;s methods of creation: consulting Arabic and Greek maps and interviewing travelers. In short, the text presents a collection of medieval maps and then goes on to describe how that collection came to be.</p><p>Choice A is incorrect because the text describes a collection of maps and the process of creating that collection but does not discuss the benefits of studying mapmaking in general. Choice B is incorrect because though the text mentions that al-Idrisi interviewed travelers, the text does not describe how those travelers created maps. Choice D is incorrect because though the text mentions that al-Idrisi consulted Arabic and Greek maps, the text does not offer a comparison of Arabic and Greek mapmaking techniques.</p>",
+  "externalid": "8c664f64-49df-461c-9e0a-e0cdff7d0ad3",
+  "correct_answer": [
+    "C"
+  ]
+}

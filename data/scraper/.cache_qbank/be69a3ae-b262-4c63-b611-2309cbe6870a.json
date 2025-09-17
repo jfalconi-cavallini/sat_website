@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>In Marisol&rsquo;s 1968 sculpture <em>Mi Mama y Yo</em>, gone are the types of pop culture references that made the Parisian-born Venezuelan American artist a star at the height of the pop art movement. In <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> place is a far more personal subject: a sculptural depiction of the artist as a young girl with her mother.&nbsp;</p>",
+  "keys": [
+    "e906b2be-d02c-4da7-a246-b3e65a8d8b3a"
+  ],
+  "answerOptions": [
+    {
+      "id": "a4f50c29-033a-4a98-ac3e-6cf3f4b25623",
+      "content": "<p>its</p>"
+    },
+    {
+      "id": "3bcabe9a-0594-4be8-ada5-067ffcf69224",
+      "content": "<p>they&rsquo;re</p>"
+    },
+    {
+      "id": "e906b2be-d02c-4da7-a246-b3e65a8d8b3a",
+      "content": "<p>their</p>"
+    },
+    {
+      "id": "6ac836e7-854d-447d-92c5-a35541722ebe",
+      "content": "<p>it&rsquo;s</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of possessive determiners. The plural possessive determiner \"their\" agrees in number with the plural noun \"types\" and thus indicates that the more personal subject matter of Marisol&rsquo;s 1968 sculpture takes the place of those types of pop culture references that made Marisol a star.</p><p>Choice A is incorrect because the singular possessive determiner \"its\" doesn&rsquo;t agree in number with the plural noun \"types.\" Choice B is incorrect because \"they&rsquo;re\" is the contraction for \"they are,\" not a possessive determiner. Choice D is incorrect because \"it&rsquo;s\" is the contraction for \"it is\" or \"it has,\" not a possessive determiner.</p>",
+  "externalid": "be69a3ae-b262-4c63-b611-2309cbe6870a",
+  "correct_answer": [
+    "C"
+  ]
+}

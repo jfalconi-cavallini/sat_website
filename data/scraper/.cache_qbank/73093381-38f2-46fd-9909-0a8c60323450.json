@@ -1,0 +1,38 @@
+{
+  "vaultid": "ac3bac6c-e6a7-43ab-a36e-60a0bb257366",
+  "keys": [
+    "ad80726a-2b5a-4250-a4d1-51e30e0cbf0e"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion about how, for Schoenemann, a damaged trilobite fossil was informative. In context, &ldquo;offered&rdquo; means provided or gave. The text suggests that although it may seem counterintuitive, a broken fossilized trilobite allowed Schoenemann to observe more details of the trilobite&rsquo;s eye than an intact fossilized trilobite would. This context conveys the idea that a damaged fossil offered, or provided, fresh insight into the structure of a trilobite&rsquo;s eye. </p><p>Choice A is incorrect&nbsp;because &ldquo;resolved&rdquo; means determined or figured out, which wouldn&rsquo;t make sense in this context. The text focuses on how Schoenemann was able to get more information from a broken fossil than an intact one. Although the damaged fossil may have allowed her to determine certain information, as an inanimate object the fossil isn&rsquo;t capable of resolving anything. Choice B is incorrect because saying that the broken part of a trilobite fossil &ldquo;adjusted,&rdquo; or changed or modified, fresh insight wouldn&rsquo;t make sense in this context. The text focuses on how Schoenemann was able to get more information from a broken fossil than an intact one. This context suggests that the fossil offered fresh insight, or understanding, not that it adjusted fresh insight.&nbsp;Choice D is incorrect because &ldquo;directed&rdquo; means managed or instructed, which wouldn&rsquo;t make sense in this context. The text focuses on how Schoenemann was able to get more information from a broken fossil than an intact one. This context suggests that the fossil offered fresh insight, or understanding, not that it directed fresh insight. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "73093381-38f2-46fd-9909-0a8c60323450",
+  "stimulus": "<p>Logically, a damaged fossil should provide less information than an intact one, but for paleontologist Brigitte Schoenemann, a broken area on a fossilized trilobite (a crustacean-like creature) <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> fresh insight, allowing her to view the inner structure of the organism&rsquo;s eye.</p>",
+  "templateclusterid": "a79a3d5c-00d2-46f1-8b71-72b78bb71fe0",
+  "parenttemplatename": "OSP-958-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "1078e5f9-ac5f-4f4e-851e-ecb3947f8718",
+      "content": "<p>resolved</p>"
+    },
+    {
+      "id": "495043af-b476-4899-8b4d-effd241d8053",
+      "content": "<p>adjusted</p>"
+    },
+    {
+      "id": "ad80726a-2b5a-4250-a4d1-51e30e0cbf0e",
+      "content": "<p>offered</p>"
+    },
+    {
+      "id": "49d14186-0703-468b-af22-72e9c4b1eae9",
+      "content": "<p>directed</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

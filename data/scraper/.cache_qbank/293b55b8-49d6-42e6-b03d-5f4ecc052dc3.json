@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>When, in 2017, Cambridge University students Lucy Moss and Toby Marlow decided they wanted to develop a musical together, one of their goals was for their female actor friends to have good parts to play. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> they created the show <em>Six</em>, a retelling of the history of King Henry VIII&rsquo;s wives in which each of the six queens has a starring role.</p>",
+  "keys": [
+    "c29dce27-3b9f-49c4-bf95-fe3f7837ff5b"
+  ],
+  "answerOptions": [
+    {
+      "id": "08f04e40-f5c7-4a12-8f04-79fbdf08b23f",
+      "content": "<p>In other words,</p>"
+    },
+    {
+      "id": "ebdc3d78-662a-4f75-b5cd-895b2025f053",
+      "content": "<p>In summary,</p>"
+    },
+    {
+      "id": "774c418d-2602-40c8-9f99-3b607f3c506c",
+      "content": "<p>For example,</p>"
+    },
+    {
+      "id": "c29dce27-3b9f-49c4-bf95-fe3f7837ff5b",
+      "content": "<p>To that end,</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. \"To that end\" logically signals that the information in this sentence&mdash;the students&rsquo; creation of a show with six starring female roles&mdash;is the product of a goal or desire in the previous sentence (the students&rsquo; wish to develop a musical with roles for female actors).</p><p>Choice A is incorrect because \"in other words\" illogically signals that the information in this sentence is a paraphrase or restatement of the previous information about the students&rsquo; wish to develop a musical with roles for female actors. Instead, the students&rsquo; show is the product of that desire. Choice B is incorrect because \"in summary\" illogically signals that the information in this sentence summarizes the previous information about the students&rsquo; wish to develop a musical with roles for female actors. Instead, the students&rsquo; show is the product of that desire. Choice C is incorrect because \"for example\" illogically signals that the information in this sentence is merely an example of the previous information about the students&rsquo; wish to develop a musical with roles for female actors. Instead, the students&rsquo; show is the direct product of that desire.</p>",
+  "externalid": "293b55b8-49d6-42e6-b03d-5f4ecc052dc3",
+  "correct_answer": [
+    "D"
+  ]
+}

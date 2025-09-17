@@ -1,0 +1,38 @@
+{
+  "vaultid": "1ffde6a4-8ba8-418d-b807-4e47a9b76273",
+  "keys": [
+    "261113f3-8da3-47eb-8b29-52a9cf7ecdb1"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is punctuation use between a main clause and a supplementary phrase. This choice correctly uses a comma to mark the boundary between the main clause (&ldquo;The haiku-like&hellip;writers&rdquo;) and the supplementary phrase (&ldquo;among&hellip;Cole&rdquo;) that specifies a contemporary writer who has praised Tomas Transtr&ouml;mer&rsquo;s haiku-like poems.&nbsp;</p><p>Choice A is incorrect because it results in a rhetorically unacceptable sentence fragment beginning with &ldquo;among.&rdquo; Choice B is incorrect because it fails to mark the boundary between the main clause and the supplementary phrase with appropriate punctuation. Choice C is incorrect because a semicolon can&rsquo;t be used in this way to join the main clause (&ldquo;The haiku-like&hellip;writers&rdquo;) and the supplementary phrase (&ldquo;among&hellip;Cole&rdquo;).&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "3867bb67-ce72-40ca-a140-79b0a6b50603",
+  "stimulus": "<p>The haiku-like poems of Tomas Transtr&ouml;mer, which present nature- and dream-influenced images in crisp, spare language, have earned the Swedish poet praise from leading contemporary <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> them Nigerian American essayist and novelist Teju Cole, who has written that Transtr&ouml;mer&rsquo;s works &ldquo;contain a luminous simplicity.&rdquo;</p>",
+  "templateclusterid": "79934902-30ad-4285-a290-971d0fa58729",
+  "parenttemplatename": "OSP-791-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "c7a4b1e1-fb34-4c8c-9578-2044c5eff575",
+      "content": "<p>writers. Among&nbsp;</p>"
+    },
+    {
+      "id": "10f39094-dac6-408b-8b81-f3ef07e5e157",
+      "content": "<p>writers among&nbsp;</p>"
+    },
+    {
+      "id": "376a9394-950b-4a9d-b972-07bb999e8ccd",
+      "content": "<p>writers; among&nbsp;</p>"
+    },
+    {
+      "id": "261113f3-8da3-47eb-8b29-52a9cf7ecdb1",
+      "content": "<p>writers, among&nbsp;</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

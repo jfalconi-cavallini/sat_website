@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Many butterfly species have bold, brightly colored wings. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> some butterfly species have wings that are almost completely colorless and transparent. Glasswing butterflies, for example, have see-through wings that make them nearly invisible.</p>",
+  "type": "mcq",
+  "keys": [
+    "e2c373cb-6247-44b4-b5b1-600729923f2b"
+  ],
+  "answerOptions": [
+    {
+      "id": "2c6ee337-e469-4eb3-a07e-91c0fe1fd6c8",
+      "content": "<p>Similarly,</p>"
+    },
+    {
+      "id": "4f524f90-0985-43d6-85a6-29d93603dbfd",
+      "content": "<p>Previously,</p>"
+    },
+    {
+      "id": "44783565-a5d8-43b2-98e4-1664627a3780",
+      "content": "<p>In other words,</p>"
+    },
+    {
+      "id": "e2c373cb-6247-44b4-b5b1-600729923f2b",
+      "content": "<p>However,</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. \"However\" logically signals that the information in this sentence about butterfly species&mdash;that some have colorless, transparent wings&mdash;contrasts with the previous information about butterfly species with bold, colorful wings.</p><p>Choice A is incorrect because \"similarly\" illogically signals that the information in this sentence is similar to the previous information about butterfly species. Instead, it contrasts with the previous information. Choice B is incorrect because \"previously\" illogically signals that this sentence describes an event that occurred before another event. Instead, the sentence provides information about butterfly species that contrasts with the information in the first sentence. Choice C is incorrect because \"in other words\" illogically signals that the information in this sentence is a paraphrase or restatement of the previous information about butterfly species. Instead, it contrasts with the previous information.</p>",
+  "externalid": "853cecf5-60d9-4e4f-b550-7a361e2427e8",
+  "correct_answer": [
+    "D"
+  ]
+}

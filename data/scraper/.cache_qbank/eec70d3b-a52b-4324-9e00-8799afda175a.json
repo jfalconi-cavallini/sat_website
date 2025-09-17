@@ -1,0 +1,38 @@
+{
+  "vaultid": "f1e1cde5-e406-4bdf-8f7d-32469a2f0b42",
+  "keys": [
+    "747219a1-fe1f-40e1-9735-9cff7b0ccd6c"
+  ],
+  "rationale": "<p>Choice A is the best answer because it presents a finding that, if true, would most strongly support the researchers&rsquo; claim that they found evidence that experiencing awe can make people feel more connected to others and thus more likely to behave altruistically (with beneficial and unselfish concern for others). According to the text, the researchers tested for this effect by first having participants look at either something known to be awe-inspiring (very tall trees) or something ordinary (a plain building) and then purposely spilling pens near the participants. The finding that participants who had looked at the trees helped pick up significantly more pens than did participants who had looked at the building would support the researchers&rsquo; claim by demonstrating that the people who had experienced awe behaved more altruistically when the experimenter needed help than the other participants did. </p><p>Choice B is incorrect because a finding about helpful participants using positive words to describe the trees and the building after the experiment was over wouldn&rsquo;t have any bearing on the researchers&rsquo; claim that experiencing awe increases altruistic behavior. The text doesn&rsquo;t address the use of positive words to describe things or suggest any connection between using such words and having experienced awe, so that behavior wouldn&rsquo;t serve as evidence that experiencing awe played a role in promoting helpful behavior. Choice C is incorrect because a finding that participants who didn&rsquo;t help the experimenter were significantly more likely than others to report having experienced awe whether they had looked at the building or the trees would weaken the researchers&rsquo; claim that experiencing awe increases altruistic behavior by suggesting that the opposite might be true&mdash;that experiencing awe is in fact linked to choosing not to act in a way that benefits someone else. Choice D is incorrect because a finding about participants noticing that the experimenter had dropped the pens wouldn&rsquo;t have any bearing on the researchers&rsquo; claim about people behaving altruistically. Being aware of a challenge or problem isn&rsquo;t necessarily beneficial on its own and isn&rsquo;t the same as offering help, so the finding wouldn&rsquo;t support the idea that experiencing awe increases altruistic behavior. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which finding from the researchers&rsquo; study, if true, would most strongly support their claim?</p>",
+  "externalid": "eec70d3b-a52b-4324-9e00-8799afda175a",
+  "stimulus": "<p>Psychologists Dacher Keltner and Jonathan Haidt have argued that experiencing awe&mdash;a sensation of reverence and wonder typically brought on by perceiving something grand or powerful&mdash;can enable us to feel more connected to others and thereby inspire us to act more altruistically. Keltner, along with Paul K. Piff, Pia Dietze, and colleagues, claims to have found evidence for this effect in a recent study where participants were asked to either gaze up at exceptionally tall trees in a nearby grove (reported to be a universally awe-inspiring experience) or stare at the exterior of a nearby, nondescript building. After one minute, an experimenter deliberately spilled a box of pens nearby.</p>",
+  "templateclusterid": "2b825fd4-8269-455a-b427-15846cd14434",
+  "parenttemplatename": "OSP-314-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "747219a1-fe1f-40e1-9735-9cff7b0ccd6c",
+      "content": "<p>Participants who had been looking at the trees helped the experimenter pick up significantly more pens than did participants who had been looking at the building.</p>"
+    },
+    {
+      "id": "160a6979-67bc-46ed-b5b4-308fc45cf807",
+      "content": "<p>Participants who helped the experimenter pick up the pens used a greater number of positive words to describe the trees and the building in a postexperiment survey than did participants who did not help the experimenter.</p>"
+    },
+    {
+      "id": "9f1033f8-2578-4804-aa7c-196e1173fa08",
+      "content": "<p>Participants who did not help the experimenter pick up the pens were significantly more likely to report having experienced a feeling of awe, regardless of whether they looked at the building or the trees.</p>"
+    },
+    {
+      "id": "a71e48a7-3db8-4ee6-b428-7bd064cfcfab",
+      "content": "<p>Participants who had been looking at the building were significantly more likely to notice that the experimenter had dropped the pens than were participants who had been looking at the trees.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

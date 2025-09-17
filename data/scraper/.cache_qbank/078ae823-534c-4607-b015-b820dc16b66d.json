@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Customers who are satisfied with how a company resolves a service issue may regard that company more positively than they would if no such issue had occurred. This idea is known as the service recovery <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> research suggests that it has important implications for customer loyalty and retention.</p>",
+  "type": "mcq",
+  "keys": [
+    "ac2d47ba-ddc0-4f5e-8977-ac28bc6909ad"
+  ],
+  "answerOptions": [
+    {
+      "id": "46f73565-35e1-492a-aeec-3e0a23a41606",
+      "content": "<p>paradox,&nbsp;</p>"
+    },
+    {
+      "id": "3b0069af-0f21-48fc-b394-f5324ca3c4e3",
+      "content": "<p>paradox</p>"
+    },
+    {
+      "id": "ac2d47ba-ddc0-4f5e-8977-ac28bc6909ad",
+      "content": "<p>paradox, and</p>"
+    },
+    {
+      "id": "5342eb21-f7cc-4d6b-b991-d221297d0a36",
+      "content": "<p>paradox and,</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice correctly uses a comma and the coordinating conjunction \"and\" to join the first main clause (\"This idea&hellip;paradox\") and the second main clause (\"research&hellip;retention\").</p><p>Choice A is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses. Choice B is incorrect because it results in a run-on sentence. The two main clauses are fused without punctuation and/or a conjunction. Choice D is incorrect because when coordinating two longer main clauses such as these, it&rsquo;s conventional to use a comma before the coordinating conjunction, not after it.</p>",
+  "externalid": "078ae823-534c-4607-b015-b820dc16b66d",
+  "correct_answer": [
+    "C"
+  ]
+}

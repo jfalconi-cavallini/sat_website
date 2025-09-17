@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Water in the North Atlantic Ocean is pushed eastward by powerful winds, but the rotation of Earth and interference from nearby landmasses together cause <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> to swirl into a massive, churning whirlpool&mdash;also called the North Atlantic Gyre&mdash;that spins clockwise.</p>",
+  "type": "mcq",
+  "keys": [
+    "aaaeaee3-adf1-4124-9f13-849d6640344f"
+  ],
+  "answerOptions": [
+    {
+      "id": "d6fc1fc5-24a6-4643-8343-60be99dd5b92",
+      "content": "<p>these</p>"
+    },
+    {
+      "id": "100cd5e8-537d-4456-9cb0-00d5b20a1745",
+      "content": "<p>those</p>"
+    },
+    {
+      "id": "fa7f6710-df37-43be-b743-862fde0358cd",
+      "content": "<p>them</p>"
+    },
+    {
+      "id": "aaaeaee3-adf1-4124-9f13-849d6640344f",
+      "content": "<p>it</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is pronoun-antecedent agreement. The singular pronoun \"it\" agrees in number with the singular antecedent \"water\" and clearly indicates that the water swirls into a whirlpool.</p><p>Choice A is incorrect. The plural pronoun \"these\" neither agrees in number with the singular antecedent \"water\" nor clearly indicates that the water&mdash;not another plural noun in the sentence, such as \"landmasses\" or \"winds\"&mdash;swirls into a whirlpool. Choice B is incorrect. The plural pronoun \"those\" neither agrees in number with the singular antecedent \"water\" nor clearly indicates that the water&mdash;not another plural noun in the sentence, such as \"landmasses\" or \"winds\"&mdash;swirls into a whirlpool. Choice C is incorrect. The plural pronoun \"them\" neither agrees in number with the singular antecedent \"water\" nor clearly indicates that the water&mdash;not another plural noun in the sentence, such as \"landmasses\" or \"winds\"&mdash;swirls into a whirlpool.</p>",
+  "externalid": "d2a292d9-9931-40c0-912f-7cf36f65379e",
+  "correct_answer": [
+    "D"
+  ]
+}

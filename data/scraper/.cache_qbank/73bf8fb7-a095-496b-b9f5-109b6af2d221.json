@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "stimulus": "<p>In present-day Chiapas, Mexico, archaeologist Robert Rosenswig, remote-sensing specialist Ricardo L&oacute;pez-Torrijos, and colleagues have located 41 smaller settlements surrounding the ancient Mesoamerican city of Izapa. The researchers have concluded that these settlements were culturally linked to Izapa because each of the settlements is the same age and configured in the same manner as Izapa, with a pyramid to the north and a plaza to the south. Their shared structural orientation suggests that residents of the settlements likely performed some of the same cultural ceremonies as residents in Izapa did.</p>",
+  "type": "mcq",
+  "keys": [
+    "c68fcebf-873d-40a3-8a0e-7f9af41740bc"
+  ],
+  "answerOptions": [
+    {
+      "id": "904f3c03-2b08-4e9c-89b8-6672699508bf",
+      "content": "<p>Researchers have determined that the arrangement of Izapa&rsquo;s structures was based on those of other nearby settlements.</p>"
+    },
+    {
+      "id": "f1349e0d-ad50-45db-841f-2eaa6f1cc4cc",
+      "content": "<p>Cultural ceremonies in Izapa seem to have played a more important role for its residents than those in smaller, surrounding settlements did.</p>"
+    },
+    {
+      "id": "a7629da4-19aa-4338-8f55-197ee8aa9875",
+      "content": "<p>Although archaeologists have learned much about Izapa over years of research, they have only recently found the smaller settlements that surrounded it.</p>"
+    },
+    {
+      "id": "c68fcebf-873d-40a3-8a0e-7f9af41740bc",
+      "content": "<p>Researchers have inferred that Izapa was related to the smaller settlements that surrounded it based in part on the similarity of their construction.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most accurately states the main idea of the text. The text indicates that Rosenswig, L&oacute;pez-Torrijos, and colleagues concluded that there is a cultural link between the city of Izapa and the 41 smaller settlements they located around the city. According to the text, the researchers reached this conclusion because Izapa and the settlements are of the same age and configuration in that all have a pyramid to the north and a plaza to the south. Thus, the main idea of the text is that researchers have inferred that Izapa was related to the smaller settlements that surrounded it based in part on the similarity of their construction.</p><p>Choice A is incorrect. Although the text discusses a similarity between how structures in Izapa and nearby settlements are arranged, the text doesn&rsquo;t indicate that the arrangement in Izapa is based on those of the nearby settlements. Choice B is incorrect. Although the text mentions that residents of Izapa and its surrounding settlements may have performed the same cultural ceremonies, the text doesn&rsquo;t discuss the ceremonies&rsquo; importance for the residents. Choice C is incorrect. Although the text describes findings about Izapa, it doesn&rsquo;t specify how much archaeologists have learned about Izapa over the years. Additionally, while the text indicates that the discovery of the 41 smaller settlements surrounding Izapa was made in present-day Chiapas and thus may be of recent date, this is a detail in the text, not its main idea.</p>",
+  "externalid": "73bf8fb7-a095-496b-b9f5-109b6af2d221",
+  "correct_answer": [
+    "D"
+  ]
+}

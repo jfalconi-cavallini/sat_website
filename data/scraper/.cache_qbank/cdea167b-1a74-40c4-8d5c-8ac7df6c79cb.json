@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best describes the overall structure of the text?</p>",
+  "stimulus": "<p>Changes to vegetation cover and other human activities influence carbon and nitrogen levels in soil, though how deep these effects extend is unclear. Hypothesizing that differences in land use lead to differences in carbon and nitrogen levels that are not restricted to the topsoil layer (0&ndash;30 cm deep), Chukwuebuka Okolo and colleagues sampled soils across multiple land-use types (e.g., grazing land, cropland, forest) within each of several Ethiopian locations. They found, though, that across land-use types, carbon and nitrogen decreased to comparably low levels beyond depths of 30 cm.</p>",
+  "type": "mcq",
+  "keys": [
+    "cee59cde-822d-4607-82d0-bf9753acf39f"
+  ],
+  "answerOptions": [
+    {
+      "id": "2a5a8582-4e3f-4187-8b39-7438ddc27c6c",
+      "content": "<p>It describes a phenomenon that scientists do not fully understand, explains a research team&rsquo;s hypothesis about that phenomenon, and then describes a finding that led the team to refine the hypothesis.&nbsp;</p>"
+    },
+    {
+      "id": "cee59cde-822d-4607-82d0-bf9753acf39f",
+      "content": "<p>It introduces an unresolved scientific question, presents a research team&rsquo;s hypothesis pertaining to that question, and then describes an observation made by the team that conflicts with that hypothesis.&nbsp;</p>"
+    },
+    {
+      "id": "e1744ebc-fbed-4802-b8fd-8c0e9aa4c8b5",
+      "content": "<p>It discusses a process that scientists are somewhat unclear about, introduces competing hypotheses about that process, and then explains how a research team concluded that one of those hypotheses is likely correct.</p>"
+    },
+    {
+      "id": "afe020c6-3cb0-468c-802a-159e6b8b1934",
+      "content": "<p>It explains a hypothesis that has been the subject of scientific debate, discusses how a research team tested that hypothesis, and then presents data the team collected that validate the hypothesis.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most accurately describes the overall structure of the text. The text begins by explaining that human activities influence carbon and nitrogen levels in soil, but how deeply these effects are seen in the soil remains an unresolved question. Next, the text summarizes Okolo and colleagues&rsquo; hypothesis regarding this question&mdash;which is that the different effects on carbon and nitrogen levels associated with different types of land use would also be observed below the topsoil layer&mdash;and then briefly explains the methods they used to test this hypothesis. Finally, the text states that the researchers found that at depths below the topsoil layer, carbon and nitrogen decreased to similarly low levels across all land-use types, a finding that conflicts with the team&rsquo;s hypothesis presented earlier in the text. Thus, the text introduces an unresolved scientific question, presents a research team&rsquo;s hypothesis pertaining to that question, and then describes an observation that the team made that conflicted with their hypothesis.</p><p>Choice A is incorrect. Although the text introduces a phenomenon (the fact that human activities influence carbon and nitrogen levels in the soil) that isn&rsquo;t fully understood by scientists and explains a research team&rsquo;s hypothesis about the phenomenon, the text doesn&rsquo;t describe how the team refined their hypothesis when a research finding contradicted it. Choice C is incorrect because the text doesn&rsquo;t discuss a process at all; rather, it poses an unsolved scientific question and presents a hypothesis that Okolo and colleagues tested to answer that question. Moreover, the text only describes one hypothesis; it doesn&rsquo;t mention any competing hypotheses, nor does it suggest that Okolo&rsquo;s team was able to determine which hypothesis was correct. Choice D is incorrect because the text doesn&rsquo;t begin by presenting a hypothesis that is under scientific debate; rather, it presents a question that scientists have been unable to answer and then introduces a hypothesis formulated by Okolo and colleagues. While the text does explain how Okolo&rsquo;s team tested their hypothesis, the text goes on to say that their data conflicted with their hypothesis, not that the data validated, or supported, their hypothesis.</p>",
+  "externalid": "cdea167b-1a74-40c4-8d5c-8ac7df6c79cb",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which response from a survey given to shoppers who made a purchase at a retail store best supports the researchers&rsquo; explanation?</p>",
+  "stimulus": "<p>External shopping cues are a type of marketing that uses obvious messaging&mdash;a display featuring a new product, for example, or a &ldquo;buy one, get one free&rdquo; offer&mdash;to entice consumers to make spontaneous purchases. In a study, data scientist Sam K. Hui and colleagues found that this effect can also be achieved with a less obvious cue: rearranging a store&rsquo;s layout. The researchers explain that trying to find items in new locations causes shoppers to move through more of the store, exposing them to more products and increasing the likelihood that they&rsquo;ll buy an item they hadn&rsquo;t planned on purchasing.</p>",
+  "type": "mcq",
+  "keys": [
+    "ce90a07b-1224-4891-a9f2-a14d19ea658c"
+  ],
+  "answerOptions": [
+    {
+      "id": "ce90a07b-1224-4891-a9f2-a14d19ea658c",
+      "content": "<p>&ldquo;I needed to buy some cleaning supplies, but they weren&rsquo;t in their regular place. While I was looking for them, I saw this interesting notebook and decided to buy it, too.&rdquo;</p>"
+    },
+    {
+      "id": "3120f5c4-0862-4865-8759-49fca8174462",
+      "content": "<p>&ldquo;I didn&rsquo;t buy everything on my shopping list today. I couldn&rsquo;t find a couple of the items in the store, even though I looked all over for them.&rdquo;</p>"
+    },
+    {
+      "id": "25e6cc97-a235-4614-8d87-3e158b864114",
+      "content": "<p>&ldquo;The store sent me a coupon for a new brand of soup, so I came here to find out what kinds of soup that brand offers. I decided to buy a few cans because I had the coupon.&rdquo;</p>"
+    },
+    {
+      "id": "b6ef25ba-4033-4da8-9cd7-38014736d19d",
+      "content": "<p>&ldquo;This store is larger than one that&rsquo;s closer to where I live, and it carries more products. I came here to buy some things that the other store doesn&rsquo;t always have.&rdquo;</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it best supports the researchers&rsquo; explanation of the results of rearranging a store&rsquo;s layout. According to the text, Sam K. Hui and colleagues found that rearranging a store&rsquo;s layout can encourage customers to make spontaneous purchases. The text states that the researchers explain that a change in layout causes shoppers to hunt for items&rsquo; new locations, which exposes the shoppers to more products and increases the likelihood that they&rsquo;ll make an unplanned purchase. This quotation from a surveyed shopper indicates that the shopper spontaneously purchased a notebook while looking for cleaning supplies that weren&rsquo;t in their usual place. The quotation therefore supports the researchers&rsquo; explanation that rearranging a store&rsquo;s layout can lead shoppers to make unanticipated purchases.</p><p>Choice B is incorrect because it doesn&rsquo;t support the researchers&rsquo; explanation that rearranging a store&rsquo;s layout can lead shoppers to make unanticipated purchases. Instead of attributing an unplanned purchase to a change in layout, the quotation notes that the shopper searched for but couldn&rsquo;t find some items, and as a result the shopper purchased less, not more, than what was anticipated. Choice C is incorrect because the quotation attributes what was purchased to coupons that the shopper received, not to a new store layout. Thus, the quotation doesn&rsquo;t support the researchers&rsquo; explanation that rearranging a store&rsquo;s layout can lead shoppers to make unanticipated purchases. Choice D is incorrect because the quotation attributes what was purchased to the size and stock of the store, not to a new store layout. The shopper simply purchased products that the shopper wanted in a particular store because other stores didn&rsquo;t carry those products, so the quotation doesn&rsquo;t support the researchers&rsquo; explanation that rearranging a store&rsquo;s layout can lead shoppers to make spontaneous purchases.</p>",
+  "externalid": "bce1433e-0679-4c4f-88e2-a37d1892537d",
+  "correct_answer": [
+    "A"
+  ]
+}

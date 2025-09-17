@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best describes the function of the underlined sentence in the text as a whole?</p>",
+  "stimulus": "<p>In the 1950s, scientists didn&rsquo;t know much about the ocean floor. <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">Many scientists at the time believed that the ocean floor was mostly flat.</span> But geologist Marie Tharp and her research partner, Bruce Heezen, proved that this idea was wrong. Using sonar data collected from the Atlantic Ocean, Tharp and Heezen showed that the floor was filled with canyons, mountains, and valleys.</p>",
+  "keys": [
+    "7873cf23-4c10-48ec-84d0-ccd56f32803e"
+  ],
+  "answerOptions": [
+    {
+      "id": "7873cf23-4c10-48ec-84d0-ccd56f32803e",
+      "content": "<p>It identifies a scientific belief that Tharp and Heezen showed to be wrong.</p>"
+    },
+    {
+      "id": "b737d93d-913e-4001-b347-f91bdfdcf000",
+      "content": "<p>It describes the design of Tharp and Heezen&rsquo;s experiment.&nbsp;</p>"
+    },
+    {
+      "id": "5c8d09fd-f7ca-4247-861b-ace3b6f072f4",
+      "content": "<p>It emphasizes a disagreement between Tharp and Heezen.</p>"
+    },
+    {
+      "id": "9aafd7ad-7ca3-4b13-8319-c4a74b03fb15",
+      "content": "<p>It presents data to support a claim that Tharp and Heezen made.&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately describes how the underlined sentence functions in the text as a whole. The first sentence of the text establishes that scientists didn&rsquo;t know much about the ocean floor in the 1950s. The second sentence, which is underlined, describes what many scientists thought at the time&mdash;that the ocean floor was mostly flat. The remainder of the text establishes that the ocean floor is far from flat, citing research conducted by Marie Tharp and Bruce Heezen. Thus, the purpose of the underlined sentence is to identify a scientific belief that Tharp and Heezen showed to be wrong.</p><p>Choice B is incorrect. Although Tharp and Heezen&rsquo;s work with sonar data in the Atlantic Ocean is mentioned later in the text, the underlined sentence doesn&rsquo;t describe the design of their experiment. Instead, it identifies a belief held by scientists that Tharp and Heezen demonstrated to be wrong. Choice C is incorrect because the underlined sentence presents a belief held by many scientists in the 1950s; nowhere does the text mention a disagreement between Tharp and Heezen, whom the text describes as research partners working together to map the ocean floor. Choice D is incorrect because the underlined sentence doesn&rsquo;t present data in support of a claim; instead, it presents a scientific belief that Tharp and Heezen&rsquo;s work showed to be wrong.</p>",
+  "externalid": "52ed9f78-57e4-49db-8d52-e1b7d3ad5772",
+  "correct_answer": [
+    "A"
+  ]
+}

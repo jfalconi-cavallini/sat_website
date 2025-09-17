@@ -1,0 +1,31 @@
+{
+  "stem": "<p>The student wants to emphasize whose point of view the novel is told from. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li><em>The Ramayana</em> is a Sanskrit epic poem from ancient India.</li>\n<li>In <em>The Ramayana</em>, the character Kaikeyi is often portrayed as a villain.</li>\n<li><em>Kaikeyi</em> is a 2022 novel by Vaishnavi Patel.</li>\n<li>The novel is a retelling of the epic poem from Kaikeyi&rsquo;s point of view.</li>\n<li>It often portrays Kaikeyi as heroic.</li>\n</ul>",
+  "type": "mcq",
+  "keys": [
+    "7940bd76-b855-4147-87d2-6f31b20bd91e"
+  ],
+  "answerOptions": [
+    {
+      "id": "aef66842-b6c2-4993-ad02-fd9c1eabb186",
+      "content": "<p>From the point of view of <em>The Ramayana</em>, the character Kaikeyi is often a villain.</p>"
+    },
+    {
+      "id": "2128bff1-b639-49b2-a7de-cbc0b31df16b",
+      "content": "<p>Vaishnavi Patel often portrays the character as heroic.</p>"
+    },
+    {
+      "id": "7940bd76-b855-4147-87d2-6f31b20bd91e",
+      "content": "<p><em>Kaikeyi</em> is a retelling of <em>The Ramayana</em> from the character Kaikeyi&rsquo;s point of view.</p>"
+    },
+    {
+      "id": "7a04a533-c490-458c-a379-c918f9845530",
+      "content": "<p><em>The Ramayana</em> is an epic poem that features the character Kaikeyi.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The sentence emphasizes whose point of view the novel <em>Kaikeyi</em> is told from: the character Kaikeyi&rsquo;s.</p><p>Choice A is incorrect. While the sentence does discuss point of view, it focuses on that of the epic poem rather than the novel. Choice B is incorrect. While the sentence seems to be referring to Patel&rsquo;s novel, it doesn&rsquo;t establish whose point of view the novel is told from. Choice D is incorrect. The sentence discusses the character Kaikeyi in the context of the epic poem; it doesn&rsquo;t discuss the novel&rsquo;s point of view.</p>",
+  "externalid": "b81c4ba9-46e3-4f71-bffa-f67533f258d1",
+  "correct_answer": [
+    "C"
+  ]
+}

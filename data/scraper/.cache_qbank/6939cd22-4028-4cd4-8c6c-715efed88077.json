@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>From 1912 to 1951, Charlotta Bass owned and operated the newspaper <em>The California Eagle</em>. While it was under Bass&rsquo;s leadership, <em>The Eagle</em> <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> one of the US&rsquo;s most influential Black-owned newspapers.</p>",
+  "type": "mcq",
+  "keys": [
+    "b3121943-96f2-4982-9382-78236bff59db"
+  ],
+  "answerOptions": [
+    {
+      "id": "250374a4-7214-4b01-b949-b43f76ce38de",
+      "content": "<p>will become</p>"
+    },
+    {
+      "id": "b3121943-96f2-4982-9382-78236bff59db",
+      "content": "<p>became</p>"
+    },
+    {
+      "id": "956cc184-da36-4c0b-93ec-951d00d751f3",
+      "content": "<p>is becoming</p>"
+    },
+    {
+      "id": "db79fcf4-fc4b-45bd-bc03-60779f10aed5",
+      "content": "<p>to become</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The conventions being tested are the use of verbs to express tense and the use of verb forms within a sentence. In this choice, the past tense verb \"became\" is consistent with the other past tense verbs (\"owned,\" \"operated,\" and \"was\") used to indicate that, at a period of time in the past, Bass&rsquo;s leadership resulted in her newspaper becoming one of the most influential Black-owned newspapers in the US. In addition, \"became\" supplies the main clause with a finite (tensed) verb, which is required to perform the action of the subject (in this case, \"<em>The Eagle</em>\").</p><p>Choice A is incorrect because the future tense verb \"will become\" isn&rsquo;t consistent with the other past tense verbs used to discuss Bass and her newspaper. Choice C is incorrect because the present progressive verb \"is becoming\" isn&rsquo;t consistent with the other past tense verbs used to discuss Bass and her newspaper. Choice D is incorrect because it results in an ungrammatical sentence. The nonfinite to-infinitive \"to become\" doesn&rsquo;t supply the main clause with a finite verb.</p>",
+  "externalid": "6939cd22-4028-4cd4-8c6c-715efed88077",
+  "correct_answer": [
+    "B"
+  ]
+}

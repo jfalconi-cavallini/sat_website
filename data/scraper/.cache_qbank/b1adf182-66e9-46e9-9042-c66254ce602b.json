@@ -1,0 +1,38 @@
+{
+  "vaultid": "cd744cba-305b-4226-b5f5-2e1f4821bb8a",
+  "keys": [
+    "3b2a5c1d-e575-4417-897e-8f5987a589a0"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately describes the function of the underlined question in the text as a whole. The text begins with the underlined question, &ldquo;How lifelike are they?&rdquo; The text then explains that many computer animators pose this question about the environments and lighting that they create for animated films, striving for realistic animation of those components even if the characters themselves aren&rsquo;t portrayed in realistic terms. The focus of the text then shifts to describe how some animators strive to create environments and lighting that reflect the film&rsquo;s unique stories rather than making them appear realistic. Therefore, the function of the underlined question is to reflect a primary goal that many computer animators have for certain components of the animations they produce. </p><p>Choice B is incorrect because, as the text makes clear, the underlined question is one posed by computer animators who wish to create realistic backgrounds and lighting effects, not by those who, instead, wish to create effects that reflect films&rsquo; unique stories and aren&rsquo;t necessarily realistic; this latter group of animators is discussed later in the text. Choice C is incorrect. As the text explains, many computer animators strive for realistic environments and lighting, while others do not; this difference of approach relates to whether these components should be realistic, not to how realism can be achieved using current technology, and the text never suggests that animators are uncertain how to achieve it. Choice D is incorrect because the underlined question pertains to the perspective of computer animators, not the audience, and the text never considers audience&rsquo;s reactions to characters in animated films. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes the function of the underlined question in the text as a whole?</p>",
+  "externalid": "b1adf182-66e9-46e9-9042-c66254ce602b",
+  "stimulus": "<p><span role=\"region\" aria-label=\"Referenced Content\"><u>&ldquo;How lifelike are they?&rdquo;</u></span> Many computer animators prioritize this question as they strive to create ever more realistic environments and lighting. Generally, while characters in computer-animated films appear highly exaggerated, environments and lighting are carefully engineered to mimic reality. But some animators, such as Pixar&rsquo;s Sanjay Patel, are focused on a different question. Rather than asking first whether the environments and lighting they&rsquo;re creating are convincingly lifelike, Patel and others are asking whether these elements reflect their films&rsquo; unique stories.</p>",
+  "templateclusterid": "0f9d2f1c-3a09-4e17-af12-5d93032657a6",
+  "parenttemplatename": "OSP-050-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "3b2a5c1d-e575-4417-897e-8f5987a589a0",
+      "content": "<p>It reflects a primary goal that many computer animators have for certain components of the animations they produce.</p>"
+    },
+    {
+      "id": "9f99a213-78ed-4915-95e5-9e2b5a9b0523",
+      "content": "<p>It represents a concern of computer animators who are more interested in creating unique backgrounds and lighting effects than realistic ones.</p>"
+    },
+    {
+      "id": "4c755bab-5b88-4f0f-ba26-005d91e5468d",
+      "content": "<p>It conveys the uncertainty among many computer animators about how to create realistic animations using current technology.</p>"
+    },
+    {
+      "id": "34ed69aa-102f-4bfe-a5b0-66ff2a24281f",
+      "content": "<p>It illustrates a reaction that audiences typically have to the appearance of characters created by computer animators.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

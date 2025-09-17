@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>In the 1990s, conservationists began planting more than 500,000 native trees in the habitat of the Azores bullfinch to boost the bird&rsquo;s numbers. This approach was apparently <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>: the Azores bullfinch&rsquo;s population size increased from as few as 100 birds at the end of the 1980s to around 1,300 in 2023.&nbsp;</p>",
+  "keys": [
+    "8f464376-9237-47d0-9674-8fa8cb94cfb0"
+  ],
+  "answerOptions": [
+    {
+      "id": "3d01da1c-ab3d-4edb-ae07-30277c8cabf0",
+      "content": "<p>amusing</p>"
+    },
+    {
+      "id": "b14996c9-44e9-4ec7-a683-269cea99aac8",
+      "content": "<p>costly</p>"
+    },
+    {
+      "id": "8f464376-9237-47d0-9674-8fa8cb94cfb0",
+      "content": "<p>successful</p>"
+    },
+    {
+      "id": "8a5699b4-0eb9-4d3a-8922-2eb418e5f5dd",
+      "content": "<p>disastrous</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of the conservationists&rsquo; efforts to increase Azores bullfinch&rsquo;s numbers. In this context, \"successful\" means accomplishing a goal or purpose. According to the text, conservationists planted more than 500,000 native trees in an Azores bullfinch habitat in order to boost the bird&rsquo;s population size. The text then indicates that the population size did indeed grow as a result of the planted trees. Thus, in this context, the conservationists&rsquo; approach of planting native trees was successful because it achieved the goal of increasing the bird&rsquo;s population size.</p><p>Choice A is incorrect because the text gives no indication that the conservationists&rsquo; approach of planting native trees to increase Azores bullfinch&rsquo;s numbers was \"amusing,\" or comical or entertaining. Instead, the approach was seriously undertaken and ultimately accomplished. Choice B is incorrect because the text doesn&rsquo;t address how much it cost to achieve the goal of planting native trees to increase Azores bullfinch&rsquo;s numbers. The text indicates that the approach was beneficial and successful rather than \"costly,\" or expensive or harmful. Choice D is incorrect. According to the text, the conservationists&rsquo; approach of planting native trees to increase Azores bullfinch&rsquo;s numbers was beneficial and successful rather than \"disastrous,\" or damaging or unsuccessful.</p>",
+  "externalid": "3defff55-27df-4f13-a97e-20c0420ab51d",
+  "correct_answer": [
+    "C"
+  ]
+}

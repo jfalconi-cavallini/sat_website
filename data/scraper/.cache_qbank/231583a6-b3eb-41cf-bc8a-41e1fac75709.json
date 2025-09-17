@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the function of the underlined portion in the text as a whole?</p>",
+  "stimulus": "<p>Generally it takes Tule geese about four days to migrate south for the winter. From their summer breeding grounds in Cook Inlet, Alaska, <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">the birds begin by flying over the Gulf of Alaska, keeping about 100 miles from the Canadian shore</span>. They pause to rest on the Pacific Ocean, then fly toward Summer Lake, Oregon, before finally arriving at their winter destination of Sacramento Valley, California. In 2020, however, it took the geese over twice as long to make their way from Cook Inlet to Sacramento Valley. According to researchers, the reason was airborne pollutants.</p>",
+  "type": "mcq",
+  "keys": [
+    "a5dde204-3547-41d5-b15f-cbbe2c63167e"
+  ],
+  "answerOptions": [
+    {
+      "id": "4a277424-aef5-49a0-bc07-b6147ad67ce0",
+      "content": "<p>It illustrates a change in Tule geese&rsquo;s usual flight behavior.</p>"
+    },
+    {
+      "id": "9bc8c89f-a3da-44ec-b65b-60c29b725d83",
+      "content": "<p>It suggests an explanation for why Tule geese breed in Alaska.</p>"
+    },
+    {
+      "id": "a5dde204-3547-41d5-b15f-cbbe2c63167e",
+      "content": "<p>It describes part of the Tule geese&rsquo;s typical winter migration journey.</p>"
+    },
+    {
+      "id": "24994f76-cd53-4905-ba41-3df3837a3b99",
+      "content": "<p>It compares Tule geese to other birds that migrate south for the winter.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it best states how the underlined portion functions in the text as a whole. The first sentence states that Tule geese typically take four days to migrate south. Then in the next sentence, which contains the underlined portion, the text describes the first part of that journey, which begins with the geese flying over the Gulf of Alaska while keeping about 100 miles from the Canadian shore. The rest of the text details the remainder of the geese&rsquo;s typical journey and then mentions circumstances in 2020 that resulted in the geese taking an unusually long time to complete it. Thus, the underlined portion describes part of the Tule geese&rsquo;s typical winter migration journey.</p><p>Choice A is incorrect. Although the text concludes by stating that in 2020, Tule geese took twice as long to complete their typical migration, which suggests a change in their usual flight behavior, the underlined portion doesn&rsquo;t discuss this. Instead, the underlined portion describes the first part of the Tule geese&rsquo;s typical winter migration journey over the Gulf of Alaska. Choice B is incorrect. Although the sentence containing the underlined portion mentions that Tule geese breed in Alaska, the underlined portion doesn&rsquo;t explain why the geese breed in that location. Rather, the text mentions Alaska to explain that it&rsquo;s the starting point of the Tule geese&rsquo;s typical winter migration. Choice D is incorrect because the underlined portion doesn&rsquo;t discuss any other birds that migrate south for the winter. In fact, the text is only concerned with the migration of Tule geese.</p>",
+  "externalid": "231583a6-b3eb-41cf-bc8a-41e1fac75709",
+  "correct_answer": [
+    "C"
+  ]
+}

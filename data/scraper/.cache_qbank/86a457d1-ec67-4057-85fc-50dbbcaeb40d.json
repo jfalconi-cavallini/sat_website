@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>In the 1950s, novel audio technologies allowed the addition of another instrument to jazz and swing <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> relatively quiet instrument, its full range of sound was finally audible alongside the blaring brass instruments of the time, allowing flautists like Bennie Maupin and Bobbi Humphrey to perform with other jazz greats.</p>",
+  "type": "mcq",
+  "keys": [
+    "24b87d4a-a9a0-45a1-b46f-d250a065ed19"
+  ],
+  "answerOptions": [
+    {
+      "id": "2a69975a-b0bb-4f9e-ac39-d388866882f9",
+      "content": "<p>music, the flute, a</p>"
+    },
+    {
+      "id": "161c3691-272e-4374-8fc0-4a0a1a219775",
+      "content": "<p>music. The flute, a</p>"
+    },
+    {
+      "id": "f8e9ef14-61ac-4cd1-9d84-fc1ffe9fd682",
+      "content": "<p>music; the flute, a</p>"
+    },
+    {
+      "id": "24b87d4a-a9a0-45a1-b46f-d250a065ed19",
+      "content": "<p>music: the flute. A</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the use of punctuation within and between sentences. In this choice, the colon correctly introduces the name of the instrument (the flute) that novel audio technologies allowed to be added to jazz and swing. In addition, the period is used to correctly mark the boundary between one sentence (\"In&hellip;flute\") and another (\"A relatively&hellip;greats\").</p><p>Choice A is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to join two main clauses (\"In&hellip;quiet instrument\" and \"its&hellip;greats\"). Choice B is incorrect. In standard English, it&rsquo;s unconventional to form a sentence in this way with two uncoordinated subjects (\"the flute\" and \"its full range of sound\"), and the lack of a clear main subject results in an awkwardly constructed and confusing sentence. Choice C is incorrect. In standard English, it&rsquo;s unconventional to form an independent clause in this way with two uncoordinated subjects (\"the flute\" and \"its full range of sound\"), and the lack of a clear main subject results in an awkwardly constructed and confusing clause.</p>",
+  "externalid": "86a457d1-ec67-4057-85fc-50dbbcaeb40d",
+  "correct_answer": [
+    "D"
+  ]
+}

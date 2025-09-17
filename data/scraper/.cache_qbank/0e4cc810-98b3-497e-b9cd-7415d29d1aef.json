@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>A species of <em>Byropsis</em> algae produces toxins to avoid being eaten by predators. However, in some cases, the toxins the organism uses to protect itself from predation actually <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> its attractiveness to predators. The Hawaiian sea slug, for example, not only tolerates <em>Byropsis</em>&nbsp;toxins but actually uses them for protection in the same way the algae does.</p>",
+  "type": "mcq",
+  "keys": [
+    "c4d7dc6c-67fa-426b-8716-66fb51a4591b"
+  ],
+  "answerOptions": [
+    {
+      "id": "7d3a3304-4a03-468c-9b94-83d431fac4bb",
+      "content": "<p>is increasing</p>"
+    },
+    {
+      "id": "c4d7dc6c-67fa-426b-8716-66fb51a4591b",
+      "content": "<p>increase</p>"
+    },
+    {
+      "id": "9f951aa2-16d0-4dbc-b027-7f05dad9183b",
+      "content": "<p>increases</p>"
+    },
+    {
+      "id": "a89c9155-5e76-4851-a491-15f879d46a7b",
+      "content": "<p>has increased</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is subject-verb agreement. The plural verb \"increase\" agrees in number with the plural subject \"toxins.\"</p><p>Choice A is incorrect because the singular verb \"is increasing\" doesn&rsquo;t agree in number with the plural subject \"toxins.\" Choice C is incorrect because the singular verb \"increases\" doesn&rsquo;t agree in number with the plural subject \"toxins.\" Choice D is incorrect because the singular verb \"has increased\" doesn&rsquo;t agree in number with the plural subject \"toxins.\"</p>",
+  "externalid": "0e4cc810-98b3-497e-b9cd-7415d29d1aef",
+  "correct_answer": [
+    "B"
+  ]
+}

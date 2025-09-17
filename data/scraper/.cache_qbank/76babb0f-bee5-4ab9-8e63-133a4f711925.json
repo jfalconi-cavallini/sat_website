@@ -1,0 +1,38 @@
+{
+  "vaultid": "511b4b72-eb8d-4bdb-8c3e-baee9316893c",
+  "keys": [
+    "fecc3bb7-b6fe-44b9-a198-634aedbe2217"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of baleen whale accessory spleens. In this context, &ldquo;latent&rdquo; means dormant or functionless. The text sets up a contrast between the idea that baleen whale accessory spleens appear not to have a function and the research indicating that the accessory spleen may actually have a role in supporting the whales&rsquo; diving mechanisms. This context therefore conveys the idea that the assumption that baleen whale accessory spleens are latent may be incorrect. </p><p>Choice A is incorrect because it wouldn&rsquo;t make sense to say that the role of the accessory spleen is &ldquo;replicable,&rdquo; or capable of being reproduced. The text indicates that the role of the accessory spleen seems to have no function, but some researchers think it does have a role; the text doesn&rsquo;t address whether the role of the accessory spleen could or couldn&rsquo;t be reproduced. Choice B is incorrect because suggesting that the role of the accessory spleen is &ldquo;predetermined,&rdquo; or decided in advance, wouldn&rsquo;t make sense in context. Although the researchers may agree that the role of the accessory spleen or any other organ hasn&rsquo;t been determined in advance, the text focuses on the idea that the accessory spleen was thought to have been functionless but may in fact serve an active role for baleen whales. Choice C is incorrect because it&rsquo;s the opposite of what the context of the text is conveying. The second sentence of the text indicates that baleen whale accessory spleens may not be useless, not that they aren&rsquo;t &ldquo;operative,&rdquo; or functional. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "76babb0f-bee5-4ab9-8e63-133a4f711925",
+  "stimulus": "<p>Within baleen whale species, some individuals develop an accessory spleen&mdash;a seemingly functionless formation of splenetic tissue outside the normal spleen. Given the formation&rsquo;s greater prevalence among whales known to make deeper dives, some researchers hypothesize that its role isn&rsquo;t <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>; rather, the accessory spleen may actively support diving mechanisms.</p>",
+  "templateclusterid": "06edb90c-d7e2-4e12-bb3a-fe56db52d132",
+  "parenttemplatename": "OSP-950-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "68bc6f7c-d508-4b3b-827b-7042acdfefcb",
+      "content": "<p>replicable</p>"
+    },
+    {
+      "id": "ac9571ed-94af-4a56-9b14-fc83f58c1c74",
+      "content": "<p>predetermined</p>"
+    },
+    {
+      "id": "e924ca97-7e6e-4337-936e-810e7b48f05f",
+      "content": "<p>operative</p>"
+    },
+    {
+      "id": "fecc3bb7-b6fe-44b9-a198-634aedbe2217",
+      "content": "<p>latent</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

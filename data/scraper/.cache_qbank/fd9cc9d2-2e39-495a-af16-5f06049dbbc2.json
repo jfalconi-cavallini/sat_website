@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which finding, if true, would most directly undermine Foster&rsquo;s hypothesis?</p>",
+  "stimulus": "<p>When digging for clams, their primary food, sea otters damage the roots of eelgrass plants growing on the seafloor. Near Vancouver Island in Canada, the otter population is large and well established, yet the eelgrass meadows are healthier than those found elsewhere off Canada&rsquo;s coast. To explain this, conservation scientist Erin Foster and colleagues compared the Vancouver Island meadows to meadows where otters are absent or were reintroduced only recently. Finding that the Vancouver Island meadows have a more diverse gene pool than the others do, Foster hypothesized that damage to eelgrass roots increases the plant&rsquo;s rate of sexual reproduction; this, in turn, boosts genetic diversity, which benefits the meadows&rsquo; health overall.</p>",
+  "keys": [
+    "d4b17623-322b-4290-a0c9-0a041daf8526"
+  ],
+  "answerOptions": [
+    {
+      "id": "782a77de-b4d6-43af-b448-022b0e418038",
+      "content": "<p>At some sites in the study, eelgrass meadows are found near otter populations that are small and have only recently been reintroduced.</p>"
+    },
+    {
+      "id": "8836dfa8-0c78-4bd8-ab65-a188f6d99795",
+      "content": "<p>At several sites not included in the study, there are large, well-established sea otter populations but no eelgrass meadows.</p>"
+    },
+    {
+      "id": "d4b17623-322b-4290-a0c9-0a041daf8526",
+      "content": "<p>At several sites not included in the study, eelgrass meadows&rsquo; health correlates negatively with the length of residence and size of otter populations.</p>"
+    },
+    {
+      "id": "f986e167-1c26-4b2b-987d-794b0f6cc07a",
+      "content": "<p>At some sites in the study, the health of plants unrelated to eelgrass correlates negatively with the length of residence and size of otter populations.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it presents a finding that, if true, would weaken Foster&rsquo;s hypothesis that damage to eelgrass roots improves the health of eelgrass meadows by boosting genetic diversity. The text indicates that sea otters damage eelgrass roots but that eelgrass meadows near Vancouver Island, where there&rsquo;s a large otter population, are comparatively healthy. When Foster and her colleagues compared the Vancouver Island eelgrass meadows to those that don&rsquo;t have established otter populations, the researchers found that the Vancouver Island meadows are more genetically diverse than the other meadows are. This finding led Foster to hypothesize that damage to the eelgrass roots encourages eelgrass reproduction, thereby improving genetic diversity and the health of the meadows. If, however, other meadows not included in the study are less healthy the larger the local otter population is and the longer the otters have been in residence, that would suggest that damage to the eelgrass roots, which would be expected to increase with the size and residential duration of the otter population, isn&rsquo;t leading meadows to be healthier. Such a finding would therefore weaken Foster&rsquo;s hypothesis.</p><p>Choice A is incorrect because finding that small, recently introduced otter populations are near other eelgrass meadows in the study wouldn&rsquo;t weaken Foster&rsquo;s hypothesis. If otter populations were small and only recently established, they wouldn&rsquo;t be expected to have caused much damage to eelgrass roots, so even if those eelgrass meadows were less healthy than the Vancouver Island meadows, that wouldn&rsquo;t undermine Foster&rsquo;s hypothesis. In fact, it would be consistent with Foster&rsquo;s hypothesis since it would suggest that the greater damage caused by larger, more established otter populations is associated with healthier meadows. Choice B is incorrect because the existence of areas with otters but without eelgrass meadows wouldn&rsquo;t reveal anything about whether the damage that otters cause to eelgrass roots ultimately benefits eelgrass meadows. Choice D is incorrect because the health of plants other than eelgrass would have no bearing on Foster&rsquo;s hypothesis that damage to eelgrass roots leads to greater genetic diversity and meadow health. It would be possible for otters to have a negative effect on other plants while nevertheless improving the health of eelgrass meadows by damaging eelgrass roots.</p>",
+  "externalid": "fd9cc9d2-2e39-495a-af16-5f06049dbbc2",
+  "correct_answer": [
+    "C"
+  ]
+}

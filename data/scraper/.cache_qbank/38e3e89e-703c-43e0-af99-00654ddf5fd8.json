@@ -1,0 +1,38 @@
+{
+  "vaultid": "ab3ad652-7327-4acb-a895-fc219f44d0fa",
+  "keys": [
+    "00fcf568-f12b-4ccc-b5d0-91b607ba1e48"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the punctuation of a supplementary element within a sentence. The dash after &ldquo;Bahrain&rdquo; pairs with the dash after &ldquo;Asia&rdquo; to separate the supplementary element &ldquo;a country in Western Asia&rdquo; from the rest of the sentence.&nbsp;</p><p>Choice B is incorrect because a comma can&rsquo;t be paired with a dash in this way to separate the supplementary element from the rest of the sentence. Choice C is incorrect because it fails to use appropriate punctuation to separate the supplementary element from the rest of the sentence. Choice D is incorrect because a colon can&rsquo;t be paired with a dash in this way to separate the supplementary element from the rest of the sentence. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "38e3e89e-703c-43e0-af99-00654ddf5fd8",
+  "stimulus": "<p>At eight paragraphs long, the preamble to the constitution of <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> country in Western Asia&mdash;is much longer than the one-paragraph preamble to the United States Constitution.</p>",
+  "templateclusterid": "4a1dc9ca-4da9-47a4-a0bd-bff33c537bf4",
+  "parenttemplatename": "OSP-783-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "00fcf568-f12b-4ccc-b5d0-91b607ba1e48",
+      "content": "<p>Bahrain&mdash;a&nbsp;</p>"
+    },
+    {
+      "id": "98908f75-9436-4505-8c98-d6b18549af1e",
+      "content": "<p>Bahrain, a</p>"
+    },
+    {
+      "id": "cfd42568-2fa1-40a3-b221-4da7ce524c13",
+      "content": "<p>Bahrain a</p>"
+    },
+    {
+      "id": "71b5a3ab-d41f-4889-aeaf-932496f34b49",
+      "content": "<p>Bahrain: a</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

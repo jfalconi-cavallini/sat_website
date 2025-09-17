@@ -1,0 +1,38 @@
+{
+  "vaultid": "14e9ccfc-17dd-4be3-b4a1-c095e25b89f8",
+  "keys": [
+    "b920e398-cbc2-42c7-81c7-d864b4718b61"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the use of verbs to express tense in a sentence. In this choice, the present tense verb &ldquo;reach&rdquo; is consistent with the present tense verbs &ldquo;travel&rdquo; and &ldquo;are diverted&rdquo; used to describe how atoms move through the synchrotron. </p><p>Choice A is incorrect because the future tense verb &ldquo;will reach&rdquo; is inconsistent with the present tense verbs used to describe how atoms move through the synchrotron. Though the atoms&rsquo; movement is a recurring action and &ldquo;will reach&rdquo; can also be used to indicate a habitual or recurring action, it creates a logical inconsistency in this sentence when paired with the present tense verbs &ldquo;travel&rdquo; and &ldquo;are diverted.&rdquo; Choice C is incorrect because the past perfect tense verb &ldquo;had reached&rdquo; is inconsistent with the present tense verbs used to describe how atoms move through the synchrotron. Choice D is incorrect because the present progressive tense verb &ldquo;are reaching&rdquo; is inconsistent with the present tense verbs used to describe how atoms move through the synchrotron. While both verbs occur in the present, the present progressive tense suggests that the action is currently in progress. This creates a logical inconsistency when paired with the present tense verbs &ldquo;travel&rdquo; and &ldquo;are diverted,&rdquo; which offer a general description of the tendencies of the atoms&rsquo; movement, rather than a description of an action that is currently in progress. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "d0e7c085-65c6-4b10-80a4-be7a83cb792b",
+  "stimulus": "<p>Atoms in a synchrotron, a type of circular particle accelerator, travel faster and faster until they <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> a desired energy level, at which point they are diverted to collide with a target, smashing the atoms.</p>",
+  "templateclusterid": "cee77017-38e6-404f-a85a-96b4e65cc533",
+  "parenttemplatename": "OSP-624-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "b1bce187-fbf7-431f-8400-b7510d1fd441",
+      "content": "<p>will reach</p>"
+    },
+    {
+      "id": "b920e398-cbc2-42c7-81c7-d864b4718b61",
+      "content": "<p>reach</p>"
+    },
+    {
+      "id": "1b720374-4839-4de9-8cf6-08d6ab9a3995",
+      "content": "<p>had reached</p>"
+    },
+    {
+      "id": "a1731372-f377-4dd5-a96e-f4c0b2f9cd9e",
+      "content": "<p>are reaching</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

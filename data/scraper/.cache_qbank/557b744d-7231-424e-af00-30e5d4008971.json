@@ -1,0 +1,38 @@
+{
+  "vaultid": "a2027d67-de2c-407c-a4f2-3909e845094a",
+  "keys": [
+    "80c5f040-baf1-4608-a978-5b189099fed6"
+  ],
+  "rationale": "<p>Choice B is the best answer. &ldquo;Previously&rdquo; logically signals that the fused fiber theory came before Ram&oacute;n y Cajal&rsquo;s discovery. </p><p>Choice A is incorrect. &ldquo;However&rdquo; illogically signals that the fused fiber theory in this sentence contrasts with the information in the previous sentence. While this theory does contrast with Ram&oacute;n y Cajal&rsquo;s discovery, the previous sentence concludes by stating that his discovery went against prior assumptions about the brain. The fact that the fused fiber theory was one of those earlier assumptions makes &ldquo;however&rdquo; an illogical choice. Choice C is incorrect because &ldquo;as a result&rdquo; illogically signals that the fused fiber theory in this sentence was a result of the discovery in the previous sentence. Instead, the fused fiber theory came before Ram&oacute;n y Cajal&rsquo;s discovery. Choice D is incorrect because &ldquo;likewise&rdquo; illogically signals that the fused fiber theory in this sentence was similar to the discovery in the previous sentence. Instead, the fused fiber theory, which came before Ram&oacute;n y Cajal&rsquo;s discovery, was very different from it. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "557b744d-7231-424e-af00-30e5d4008971",
+  "stimulus": "<p>In 1873, Spanish scientist Santiago Ram&oacute;n y Cajal observed that brain fibers have distinct boundaries with clear end points, a finding that went against earlier assumptions about the brain. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> scientists had assumed that the brain was a continuous web of fused fibers, not a vast network of distinct, individual cells.&nbsp;</p>",
+  "templateclusterid": "41fd48d2-6864-4a83-9ea0-7c8e4410cb3a",
+  "parenttemplatename": "OSP-246-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "19a5ac47-54fa-46d1-9465-565d4198caa7",
+      "content": "<p>However,</p>"
+    },
+    {
+      "id": "80c5f040-baf1-4608-a978-5b189099fed6",
+      "content": "<p>Previously,</p>"
+    },
+    {
+      "id": "4e60d006-3f27-49a3-84fc-f400a6a197c4",
+      "content": "<p>As a result,</p>"
+    },
+    {
+      "id": "59b2d935-b48e-417e-8ce5-438811ddb811",
+      "content": "<p>Likewise,</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

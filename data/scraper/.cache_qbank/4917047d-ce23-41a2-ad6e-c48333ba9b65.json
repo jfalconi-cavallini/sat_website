@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Based on the texts, both authors would most likely agree with which statement?</p>",
+  "stimulus": "<p><span class=\"paired_passage\" role=\"heading\" aria-level=\"2\"><strong>Text 1</strong></span></p>\n<p>French Impressionist artist Edgar Degas insisted that his paintings be kept in their original frames after they were sold. Like many Impressionist painters, Degas used painted frames that stood in contrast to the gold frames frequently seen at the Paris Salon, a prestigious art exhibition that was sponsored by the French government and promoted traditional painting styles. Impressionist painters likely chose these colorful frames to distinguish themselves from what was considered conventional at the time.</p>\n<p>&nbsp;</p>\n<p><span class=\"paired_passage\" role=\"heading\" aria-level=\"2\"><strong>Text 2</strong></span></p>\n<p>Impressionist painters often focused on the interplay of color and light in their works. As such, those Impressionists who placed their works in painted frames instead of the more traditional gold ones did so for aesthetic reasons: a frame&rsquo;s color was likely chosen because it would harmonize with the colors or subjects in a painting. Gold, conversely, could distract from the subtleties in a painted scene.&nbsp;</p>",
+  "keys": [
+    "1876c930-6deb-4b69-9d35-1f169011a369"
+  ],
+  "answerOptions": [
+    {
+      "id": "e110f865-8606-46e3-b900-02b5e1b6cb2e",
+      "content": "<p>Gold frames were considered especially desirable by those who purchased works from Impressionist painters.</p>"
+    },
+    {
+      "id": "1a4ff2b2-6371-4878-9afc-61282dd7d09e",
+      "content": "<p>The colors in an Impressionist painting were often chosen to complement the colors of the frame it would be placed in.</p>"
+    },
+    {
+      "id": "1876c930-6deb-4b69-9d35-1f169011a369",
+      "content": "<p>Many Impressionist painters were intentional about the frames they selected for their works.</p>"
+    },
+    {
+      "id": "073fe431-dcfa-459d-9244-350dbe139733",
+      "content": "<p>Degas&rsquo;s preferred framing style was different from that of most Impressionist painters.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it presents the statement about the use of painted frames in Impressionist painting that both authors would be most likely to agree with. Text 1 discusses painter Edgar Degas&rsquo;s insistence that his works remain in their original painted frames, which contrasted with the gold frames that were typical of the Paris art scene at the time. The text then argues that the preference of Degas and other French Impressionist painters for colorful frames can likely be attributed to their desire \"to distinguish themselves from what was considered conventional at the time.\" Text 2 also notes that Impressionist painters \"placed their works in painted frames\" but argues that they probably did so for a purely aesthetic reason: to ensure that \"the frame&rsquo;s color...would harmonize with the colors or subjects in a painting.\" Though differing on Impressionist painters&rsquo; rationale for using painted frames, the authors of both texts would agree that many Impressionist painters were intentional about the frames they selected for their works.</p><p>Choice A is incorrect because neither text suggests that gold frames were considered desirable by those purchasing Impressionist works. Indeed, it can be inferred from the fact that Impressionist painters used painted frames that those who purchased those works wouldn&rsquo;t have had a strong preference for gold frames. Choice B is incorrect because neither text suggests that Impressionist painters chose colors for their paintings based on planned frame colors. Indeed, Text 2 states that frame colors were chosen to \"harmonize with the colors or subjects in a painting,\" implying that the color scheme of paintings predated and took precedence over the choice of the colors of frames. Choice D is incorrect because Text 1 presents Degas&rsquo;s preference for painted frames as being typical of Impressionist painters&rsquo; attitudes toward the framing of their works. Moreover, although Text 2 doesn&rsquo;t specifically discuss Degas, it concurs with Text 1&rsquo;s assertion that these painters preferred painted frames. Thus, both texts position painted frames as a hallmark of French Impressionist painting, not as a deviation from it.</p>",
+  "externalid": "4917047d-ce23-41a2-ad6e-c48333ba9b65",
+  "correct_answer": [
+    "C"
+  ]
+}

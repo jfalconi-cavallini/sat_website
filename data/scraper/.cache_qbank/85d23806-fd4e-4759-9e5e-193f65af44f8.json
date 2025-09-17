@@ -1,0 +1,38 @@
+{
+  "vaultid": "7943eee4-afca-4314-9e79-1bbfa0eb7292",
+  "keys": [
+    "d666f1f3-6204-45f4-93b0-d21f4e429fa3"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of bronze- and brass-casting techniques used by the Igun Eronmwon guild. In this context &ldquo;adhere to&rdquo; would mean to act in accordance with. The text states that although members of the Igun Eronmwon guild typically do something with techniques that have been passed down since the thirteenth century, they &ldquo;don&rsquo;t strictly observe every tradition.&rdquo; By establishing a contrast with not always following traditions, the context suggests that guild members do typically adhere to traditional techniques. </p><p>Choice A is incorrect because in this context &ldquo;experiment with&rdquo; would mean to do something new with. Although using motors rather than manual bellows is presented as a new approach, the text establishes a contrast between what the guild members typically do with techniques that have been passed down over centuries and the idea that the members &ldquo;don&rsquo;t strictly observe every tradition.&rdquo; The phrase &ldquo;experiment with&rdquo; wouldn&rsquo;t support the contrast because regularly trying new things with the techniques would be an example of not strictly following all traditions. Choice C is incorrect because in this context &ldquo;improve on&rdquo; would mean to make better. Although using motors rather than manual bellows might be an improved approach, the text establishes a contrast between what the guild members typically do with techniques that have been passed down over centuries and the idea that the members &ldquo;don&rsquo;t strictly observe every tradition.&rdquo; The phrase &ldquo;improve on&rdquo; wouldn&rsquo;t support the contrast because regularly making changes to the techniques would be an example of not strictly following all traditions. Choice D is incorrect because in this context &ldquo;grapple with&rdquo; would mean to try hard to solve a difficult problem. Although bronze- and brass-casting are likely challenging tasks, nothing in the text suggests that the guild members have any particular difficulties with the techniques passed down since the thirteenth century.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "85d23806-fd4e-4759-9e5e-193f65af44f8",
+  "stimulus": "<p>The artisans of the Igun Eronmwon guild in Benin City, Nigeria, typically <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the bronze- and brass-casting techniques that have been passed down through their families since the thirteenth century, but they don&rsquo;t strictly observe every tradition; for example, guild members now use air-conditioning motors instead of handheld bellows to help heat their forges.</p>",
+  "templateclusterid": "21fdf89d-269b-449e-a032-f806379b9323",
+  "parenttemplatename": "OSP-935-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d6efb436-1957-49cc-b714-90f4d10a3ab5",
+      "content": "<p>experiment with</p>"
+    },
+    {
+      "id": "d666f1f3-6204-45f4-93b0-d21f4e429fa3",
+      "content": "<p>adhere to</p>"
+    },
+    {
+      "id": "b6b36567-a0d0-4e63-b914-db06d95db96f",
+      "content": "<p>improve on</p>"
+    },
+    {
+      "id": "15484888-bf95-43d6-aaf9-ec4b72e9f903",
+      "content": "<p>grapple with</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

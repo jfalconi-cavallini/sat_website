@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Located in the northern United States, the Great Lakes Basin contains roughly 35,000 islands. Lake Superior has Grand Island, for example. Lake Michigan has Belle Isle. Lake Huron, though, is home <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the largest island of them all: Manitoulin Island. &nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "a38e550e-e348-4ab8-9a2e-fe57ab597f3f"
+  ],
+  "answerOptions": [
+    {
+      "id": "cf2a0a16-bfbf-45ec-9200-04b476474425",
+      "content": "<p>to;</p>"
+    },
+    {
+      "id": "4416605d-d56d-45bb-b945-c1dfb2b87da8",
+      "content": "<p>to&mdash;</p>"
+    },
+    {
+      "id": "a38e550e-e348-4ab8-9a2e-fe57ab597f3f",
+      "content": "<p>to</p>"
+    },
+    {
+      "id": "9c02d051-904f-4381-80f6-7d728fa35c4e",
+      "content": "<p>to,</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is punctuation use between a preposition and its complement. No punctuation is needed between the preposition \"to\" and its complement \"the largest island of them all.\" The complement completes the meaning of the preposition in the phrase \"home to the largest island of them all,\" and any punctuation within it results in an ungrammatical sentence.</p><p>Choice A is incorrect because no punctuation is needed between the preposition and its complement. Choice B is incorrect because no punctuation is needed between the preposition and its complement. Choice D is incorrect because no punctuation is needed between the preposition and its complement.</p>",
+  "externalid": "3e9880cd-98c2-422e-bba8-c7d45f2ce482",
+  "correct_answer": [
+    "C"
+  ]
+}

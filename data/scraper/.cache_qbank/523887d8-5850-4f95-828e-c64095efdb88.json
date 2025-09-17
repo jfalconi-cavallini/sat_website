@@ -1,0 +1,38 @@
+{
+  "vaultid": "b5fe4895-4b12-4ccc-8e6d-569a453c9881",
+  "keys": [
+    "adbcc70c-1ad7-40d1-9ba6-978f30f5714f"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is punctuation between a subject and a verb. When, as in this case, a subject (&ldquo;Generations of mystery and horror writers&rdquo;) is immediately followed by a verb (&ldquo;have been influenced&rdquo;), no punctuation is needed. </p><p>Choice B is incorrect because no punctuation is needed between the subject and the verb. Choice C is incorrect because no punctuation is needed between the subject and the verb. Choice D is incorrect because no punctuation is needed between the subject and the verb. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "523887d8-5850-4f95-828e-c64095efdb88",
+  "stimulus": "<p>Generations of mystery and horror <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> have been influenced by the dark, gothic stories of celebrated American author Edgar Allan Poe (1809&ndash;1849).</p>",
+  "templateclusterid": "3cbbb8db-0c3d-40f5-a2a8-14fcde26f834",
+  "parenttemplatename": "OSP-774-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "adbcc70c-1ad7-40d1-9ba6-978f30f5714f",
+      "content": "<p>writers</p>"
+    },
+    {
+      "id": "3d67289f-09a1-4fb1-addd-6a569a441129",
+      "content": "<p>writers,</p>"
+    },
+    {
+      "id": "fcc2c90d-7fcd-43b1-92ed-a9866e1f4b1b",
+      "content": "<p>writers&mdash;</p>"
+    },
+    {
+      "id": "e16e00f5-02e3-498e-9010-7eef1b3a9d9f",
+      "content": "<p>writers;</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

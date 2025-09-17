@@ -1,0 +1,38 @@
+{
+  "vaultid": "2d032007-7602-4fd4-994c-abf017b22084",
+  "keys": [
+    "a5728c0b-ede8-44a5-a9ed-3af35edf0338"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most effectively illustrates the claim in the text that John is hard-working and dedicated to his job. In the quotation, John is portrayed as spending &ldquo;early morn to the fall of the afternoon&rdquo; working hard as a water carrier. John is also described as &ldquo;so accustomed to bending&rdquo; while doing his work &ldquo;that he never thought of straightening&rdquo; his body, instead remaining deeply focused on his work. These details portray John as a dedicated worker. </p><p>Choice A is incorrect because this quotation portrays John as happy about heading home after being paid. It doesn&rsquo;t showcase John being hard at work. Choice B is incorrect because this quotation doesn&rsquo;t pertain to John&rsquo;s commitment to his work; it describes difficulties the traffic in the city causes John in the performance of his work. Choice D is incorrect because this quotation doesn&rsquo;t pertain to John&rsquo;s commitment to his work; it discusses what John does with his worn-out water jugs. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which quotation from &ldquo;John of God, the Water-Carrier&rdquo; most effectively illustrates the claim?</p>",
+  "externalid": "2882f061-3de5-48d0-8c0d-bca74bb2ec3f",
+  "stimulus": "<p>&ldquo;John of God, the Water-Carrier&rdquo; is a 1913 short story by Mar&iacute;a Cristina Mena. In the story, the narrator presents John as being a hard worker who is fully dedicated to his job as water carrier, or <em><span lang='es'>aguador</span></em>: <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "557e93a4-eaa3-4cae-a9d1-7641d592634d",
+  "parenttemplatename": "OSP-408-LIT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "dbf71dba-81df-4376-96ec-218017cfd807",
+      "content": "<p>&ldquo;Very happy, he would jog home, the heavy silver pieces in his leather pockets making a discreet and dulcet &lsquo;<em>trink-trak</em>&rsquo; between his jugs and his body.&rdquo;</p>"
+    },
+    {
+      "id": "26173e0e-9cb3-4019-a4ae-c8f01f9d8a04",
+      "content": "<p>&ldquo;He learned that the city <em><span lang='es'>aguador</span></em> may not blow his whistle to halt the traffic while he gravely crosses the street, but must wait for the passing of many vehicles, some with horses and some outlandishly without.&rdquo;</p>"
+    },
+    {
+      "id": "a5728c0b-ede8-44a5-a9ed-3af35edf0338",
+      "content": "<p>&ldquo;From early morn to the fall of the afternoon he would go from fountain to fountain and from portal to portal, his lean body so accustomed to bending that he never thought of straightening it, his head bowed as if in prayer.&rdquo;</p>"
+    },
+    {
+      "id": "310069a0-84f1-48e9-b5b8-36d46df74ec1",
+      "content": "<p>&ldquo;When his first jugs had worn out&mdash;the sweet-scented, porous red clay becomes perforated in time&mdash;he had buried them to their necks in the corner where he slept, and they were now his treasury.&rdquo;</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

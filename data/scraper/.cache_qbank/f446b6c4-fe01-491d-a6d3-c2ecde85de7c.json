@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>In dialects of English spoken in Scotland, the &ldquo;r&rdquo; sound is strongly emphasized when it appears at the end of syllables (as in &ldquo;car&rdquo;) or before other consonant sounds (as in &ldquo;bird&rdquo;). English dialects of the Upland South, a region stretching from Oklahoma to western Virginia, place similar emphasis on &ldquo;r&rdquo; at the ends of syllables and before other consonant sounds. Historical records show that the Upland South was colonized largely by people whose ancestors came from Scotland. Thus, linguists have concluded that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "ec0f78cd-8065-46fa-8072-b8e4ad567d4c"
+  ],
+  "answerOptions": [
+    {
+      "id": "ec0f78cd-8065-46fa-8072-b8e4ad567d4c",
+      "content": "<p>the English dialects spoken in the Upland South acquired their emphasis on the &ldquo;r&rdquo; sound from dialects spoken in Scotland.</p>"
+    },
+    {
+      "id": "1f5ca0d3-5bfc-46c6-a7de-c2196d75f95a",
+      "content": "<p>emphasis on the &ldquo;r&rdquo; sound will eventually spread from English dialects spoken in the Upland South to dialects spoken elsewhere.</p>"
+    },
+    {
+      "id": "2e4f5b13-8371-4f8b-b101-6a326854c245",
+      "content": "<p>the English dialects spoken in Scotland were influenced by dialects spoken in the Upland South.</p>"
+    },
+    {
+      "id": "55d3f0ea-150a-4d0b-94f1-2d6e954725d2",
+      "content": "<p>people from Scotland abandoned their emphasis on the &ldquo;r&rdquo; sound after relocating to the Upland South.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of English dialects spoken in Scotland and the Upland South. The text indicates that these dialects share a feature: putting emphasis on the \"r\" sound when it appears in certain positions in words. The text goes on to state that records indicate the Upland South was colonized largely by people of Scottish ancestry. It is reasonable to assume that the English dialects spoken by these colonizers were influenced by the English dialects spoken by their ancestors in Scotland. It follows, then, that the emphasis on the \"r\" sound in the dialects in Scotland carried over into the Upland South dialects as they developed&mdash;that is, that the Upland South dialects likely acquired it from dialects spoken in Scotland.</p><p>Choice B is incorrect because the text suggests that Scottish ancestry explains the origin of the emphasis on the \"r\" sound in English dialects spoken in the Upland South, since that linguistic feature is also found in dialects spoken in Scotland; the text doesn&rsquo;t address any other dialects or suggest that the feature will spread elsewhere. Choice C is incorrect because the text indicates that many Upland South colonizers were the descendants of Scottish people, suggesting that the English dialects spoken by these colonizers had been influenced by the English dialects spoken by the colonizers&rsquo; ancestors in Scotland and had acquired their emphasis on the \"r\" sound from those ancestors&rsquo; dialects&mdash;not the other way around. Choice D is incorrect because the text indicates that the emphasis on the \"r\" sound is part of English dialects spoken in the Upland South today, which almost certainly wouldn&rsquo;t be the case if people from Scotland, who were the main colonizers of the Upland South, had eliminated that linguistic feature from their dialects.</p>",
+  "externalid": "f446b6c4-fe01-491d-a6d3-c2ecde85de7c",
+  "correct_answer": [
+    "A"
+  ]
+}

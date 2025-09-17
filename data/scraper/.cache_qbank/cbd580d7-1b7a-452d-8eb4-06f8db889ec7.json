@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most effectively uses data from the table to complete the example?</p>",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Estimated Impacts of Invasive Predator Species on Threatened Birds, Mammals, and Reptiles</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Invasive predator species</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Estimated impact on threatened birds</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Estimated impact on threatened mammals</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Estimated impact on threatened reptiles</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">Mongooses</th><td style=\"text-align: center;\">0.66</td><td style=\"text-align: center;\">0.75</td><td style=\"text-align: center;\">0.44</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Dogs</th><td style=\"text-align: center;\">0.67</td><td style=\"text-align: center;\">0.57</td><td style=\"text-align: center;\">0.44</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Cats</th><td style=\"text-align: center;\">0.74</td><td style=\"text-align: center;\">0.61</td><td style=\"text-align: center;\">0.52</td></tr></tbody></table></figure></p>\n<p>&nbsp;</p>\n<p>How harmful are invasive predators to threatened species? To find out, researchers assigned values from 0.25 to 1.00 to various harms caused by invasive predators. The researchers then used these values to estimate the extent to which several invasive predator species have harmfully impacted threatened birds, mammals, and reptiles. In the table, higher numbers represent greater impacts. The estimated impact of invasive mongooses on threatened mammals is <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "bc22b3d6-0eb5-40a2-9f82-eb5bcbd588d2"
+  ],
+  "answerOptions": [
+    {
+      "id": "0f30f9ab-c677-439a-892e-beca9def9350",
+      "content": "<p>0.35.</p>"
+    },
+    {
+      "id": "c16a1456-2bb7-4ef4-b5a0-604db573339d",
+      "content": "<p>0.61.</p>"
+    },
+    {
+      "id": "bc22b3d6-0eb5-40a2-9f82-eb5bcbd588d2",
+      "content": "<p>0.75.</p>"
+    },
+    {
+      "id": "165e6c3e-6c98-42b6-9f74-4f9fda6eeff2",
+      "content": "<p>0.52.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it effectively uses data from the table to complete the example of the estimated impact of invasive mongooses on threatened mammals. The table shows the values for the estimated harmful impact of three invasive predator species (mongooses, dogs, and cats) on threatened birds, mammals, and reptiles. The text states that the values are on a scale from 0.25 (less impact) to 1.00 (greater impact). The table shows that the value for the estimated impact of invasive mongooses on threatened mammals is 0.75.</p><p>Choice A is incorrect because the table shows that the value for the estimated impact of mongooses on threatened mammals is 0.75, not 0.35. The value 0.35 is not assigned to any of the categories in the table. Choice B is incorrect because the table shows that 0.61 is the value for the estimated impact of cats, not mongooses, on threatened mammals. Choice D is incorrect because the table shows that 0.52 is the value for the estimated impact of cats on threatened reptiles, not of mongooses on threatened mammals.</p>",
+  "externalid": "cbd580d7-1b7a-452d-8eb4-06f8db889ec7",
+  "correct_answer": [
+    "C"
+  ]
+}

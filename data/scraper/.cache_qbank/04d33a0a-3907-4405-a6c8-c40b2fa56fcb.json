@@ -1,0 +1,38 @@
+{
+  "vaultid": "f3f365b4-9deb-444b-8e1b-c37b43c15a7d",
+  "keys": [
+    "13984ae7-3004-45ba-a70f-7b993b3aae5c"
+  ],
+  "rationale": "<p>Choice A is the best answer. &ldquo;However&rdquo; logically signals that the information in this sentence&mdash;that envelope-shaped bags dominated the market&mdash;contrasts with the previous claim that these bags were impractical for carrying goods. </p><p>Choice B is incorrect because &ldquo;for instance&rdquo; illogically signals that the information in this sentence is an example supporting the previous claim that envelope-shaped bags were impractical for carrying goods. Instead, the sentence contrasts with the previous claim about the bags. Choice C is incorrect because &ldquo;thus&rdquo; illogically signals that the information in this sentence is a result of the previous claim that envelope-shaped bags were impractical for carrying goods. Instead, the sentence contrasts with the previous claim about the bags. Choice D is incorrect because &ldquo;in other words&rdquo; illogically signals that the information in this sentence is a paraphrase of the previous claim that envelope-shaped bags were impractical for carrying goods. Instead, the sentence contrasts with the previous claim about the bags. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "04d33a0a-3907-4405-a6c8-c40b2fa56fcb",
+  "stimulus": "<p>The envelope-shaped paper bags common in the US 150 years ago were impractical for carrying goods. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> because they were the only paper bags that could be mass-produced, these bags dominated the market. That all changed in the 1870s, when industrial designer Margaret Knight patented a machine to make flat-bottomed, foldable paper bags.</p>",
+  "templateclusterid": "dad8e168-f1e5-408b-a4aa-c60654db4ad2",
+  "parenttemplatename": "OSP-264-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "13984ae7-3004-45ba-a70f-7b993b3aae5c",
+      "content": "<p>However,</p>"
+    },
+    {
+      "id": "75018042-a3e0-4943-b0d2-5d251f0ac666",
+      "content": "<p>For instance,</p>"
+    },
+    {
+      "id": "461441a2-502a-49ce-8b35-5d604ae7ef14",
+      "content": "<p>Thus,</p>"
+    },
+    {
+      "id": "8a24d2a8-7261-4074-92ab-fc814a6d719c",
+      "content": "<p>In other words,</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

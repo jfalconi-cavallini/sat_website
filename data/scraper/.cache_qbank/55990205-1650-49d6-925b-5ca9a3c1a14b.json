@@ -1,0 +1,38 @@
+{
+  "vaultid": "4357c8a2-dccb-45cb-b39e-b3218adce1d0",
+  "keys": [
+    "9f7bdfb2-393f-423d-a20d-c7f1a66308a6"
+  ],
+  "rationale": "<p>Choice A is the best answer. &ldquo;Specifically&rdquo; logically signals that the information in this sentence&mdash;that the Sun releases charged particles that later collide with atoms, resulting in auroral light&mdash;provides specific, precise details about how auroras result from the Sun&rsquo;s activity.&nbsp;</p><p>Choice B is incorrect because &ldquo;similarly&rdquo; illogically signals that the information in this sentence is similar to the general information about auroras in the previous sentence. Instead, this sentence provides specific, precise details about how auroras form. Choice C is incorrect because &ldquo;nevertheless&rdquo; illogically signals that the information in this sentence is despite the general information about auroras in the previous sentence. Instead, this sentence provides specific, precise details about how auroras form. Choice D is incorrect because &ldquo;hence&rdquo; illogically signals that the information in this sentence is a result of the general information about auroras in the previous sentence. Instead, this sentence provides specific, precise details about how auroras form. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "55990205-1650-49d6-925b-5ca9a3c1a14b",
+  "stimulus": "<p>Earth&rsquo;s auroras&mdash;colorful displays of light seen above the northern and southern poles&mdash;result, broadly speaking, from the Sun&rsquo;s activity. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the Sun releases charged particles that are captured by Earth&rsquo;s magnetic field and channeled toward the poles. These particles then collide with atoms in the atmosphere, causing the atoms to emit auroral light.</p>",
+  "templateclusterid": "f96c5b78-5617-4a36-a06e-e7f70a03fec4",
+  "parenttemplatename": "OSP-205-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "9f7bdfb2-393f-423d-a20d-c7f1a66308a6",
+      "content": "<p>Specifically,</p>"
+    },
+    {
+      "id": "c6e9027d-65df-4803-86d0-864852d1e07f",
+      "content": "<p>Similarly,</p>"
+    },
+    {
+      "id": "9b29c6c8-b030-4c6c-a1a7-89b5a1226649",
+      "content": "<p>Nevertheless,</p>"
+    },
+    {
+      "id": "6ed12ed6-d26c-44eb-9746-e5f22f43829c",
+      "content": "<p>Hence,</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

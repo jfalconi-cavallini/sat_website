@@ -1,0 +1,38 @@
+{
+  "vaultid": "a6b6247b-b40f-45eb-9c40-97f21720d200",
+  "keys": [
+    "aa6a06b8-a6dd-4631-af70-33c75409c94e"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is finite and nonfinite verb forms within a sentence. A main clause requires a finite verb to perform the action of the subject (in this case, &ldquo;embryos&rdquo;), and this choice supplies the clause with the finite present tense verb &ldquo;enter&rdquo; to indicate how the embryos achieve diapause. </p><p>Choice B is incorrect because the nonfinite to-infinitive &ldquo;to enter&rdquo; doesn&rsquo;t supply the main clause with a finite verb. Choice C is incorrect because the nonfinite participle &ldquo;having entered&rdquo; doesn&rsquo;t supply the main clause with a finite verb. Choice D is incorrect because the nonfinite participle &ldquo;entering&rdquo; doesn&rsquo;t supply the main clause with a finite verb. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "904e43e0-7683-4367-bca6-125ad4829d8b",
+  "stimulus": "<p>To survive when water is scarce, embryos inside African turquoise killifish eggs <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> a dormant state known as diapause. In this state, embryonic development is paused for as long as two years&mdash;longer than the life span of an adult killifish.</p>",
+  "templateclusterid": "de89698f-f612-4f40-9697-71d43ae4f708",
+  "parenttemplatename": "OSP-647-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "aa6a06b8-a6dd-4631-af70-33c75409c94e",
+      "content": "<p>enter</p>"
+    },
+    {
+      "id": "da4c2e4e-eb6d-45b7-9d9d-501b4dfd006d",
+      "content": "<p>to enter</p>"
+    },
+    {
+      "id": "debf27b6-4cba-43e5-8e46-44dc0465fd0c",
+      "content": "<p>having entered</p>"
+    },
+    {
+      "id": "64a8af66-89e6-4ff6-a578-ca99e7041b8d",
+      "content": "<p>entering</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>According to the text, what did Sun and colleagues discover about surfactants?</p>",
+  "stimulus": "<p>Microplastics are tiny pieces of plastic waste. Areas of the ocean with higher concentrations of microplastic particles also have smaller and fewer waves. A study by Yukun Sun and colleagues found that the concentration of microplastic particles cannot be the only reason for this reduced wave activity because the concentration of particles that would have the observed effect is much higher than that found in these areas of the ocean. However, they found that surfactants, chemicals often used to manufacture plastics, are released into the water from microplastics and have a much stronger wave-reducing effect.</p>",
+  "type": "mcq",
+  "keys": [
+    "46d7df6b-a46b-4df1-a0cc-36feeb47430a"
+  ],
+  "answerOptions": [
+    {
+      "id": "46d7df6b-a46b-4df1-a0cc-36feeb47430a",
+      "content": "<p>They have a much stronger effect on wave activity than microplastics alone do.</p>"
+    },
+    {
+      "id": "e9216434-16ef-43a3-965f-16fb744ad010",
+      "content": "<p>They are mainly composed of water.</p>"
+    },
+    {
+      "id": "de444d2f-6957-4290-84a4-451a08b0ea3f",
+      "content": "<p>They are helpful for removing microplastics from the ocean.</p>"
+    },
+    {
+      "id": "82bdf1ce-664f-409b-89a0-5589af8e445e",
+      "content": "<p>They can be used to contain microplastics within certain areas of the ocean.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it presents a statement about surfactants that is supported by the text. The text indicates that higher concentrations of microplastics have been associated with waves that are relatively small and few. According to the text, however, a study by Sun and colleagues found that concentrations of microplastic particles can&rsquo;t be the only reason for the reduced wave activity because a much higher concentration of particles is needed to produce that observed effect. Instead, the text indicates that Sun and colleagues found that surfactants are released from microplastics into the ocean and have a much stronger wave-reducing effect than microplastics alone do.</p><p>Choice B is incorrect because the text doesn&rsquo;t discuss what surfactants are made of. Instead, it indicates that surfactants are frequently used to manufacture microplastics and that Sun and colleagues discovered that surfactants are released from microplastics into the ocean. Choice C is incorrect because the text doesn&rsquo;t discuss how microplastics can be removed from the ocean. Instead, the text indicates that Sun and colleagues discovered that surfactants are released into the ocean from microplastics and have a much stronger wave-reducing effect than microplastics alone do. Choice D is incorrect because the text doesn&rsquo;t indicate that surfactants can be used to contain microplastics within certain areas of the ocean. Instead, the text indicates that Sun and colleagues discovered that surfactants are released from microplastics into the ocean and have a much stronger wave-reducing effect than microplastics alone do.</p>",
+  "externalid": "f6d062f6-0ebb-4274-9345-3f4b6d44f52f",
+  "correct_answer": [
+    "A"
+  ]
+}

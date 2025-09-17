@@ -1,0 +1,38 @@
+{
+  "vaultid": "6e10fbea-2c3c-4a11-8c35-8a0ac9fb8c8e",
+  "keys": [
+    "a5a2a9dc-8044-4be6-a243-f2c932979a4b"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the use of verbs to express tense. In this choice, the past perfect verb &ldquo;had doubled&rdquo; properly indicates that the doubling of the organization&rsquo;s initial membership occurred during a specific period before the present (between the organization&rsquo;s founding in 1967 and the end of the 1990s).&nbsp;</p><p>Choice A is incorrect because the present perfect verb &ldquo;has doubled&rdquo; doesn&rsquo;t indicate that the organization&rsquo;s doubling of its initial membership occurred during a specific period in the past.&nbsp;Choice C is incorrect because the present tense verb &ldquo;doubles&rdquo; doesn&rsquo;t indicate that the organization&rsquo;s doubling of its initial membership occurred during a specific period in the past. Choice D is incorrect because the future tense verb &ldquo;will double&rdquo; doesn&rsquo;t indicate that the organization&rsquo;s doubling of its initial membership occurred during a specific period in the past. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "e0bd0d1c-70a9-41c6-91b0-62f15f6fb5eb",
+  "stimulus": "<p>Formed in 1967 to foster political and economic stability within the Asia-Pacific region, the Association of Southeast Asian Nations was originally made up of five members: Thailand, the Philippines, Singapore, Malaysia, and Indonesia. By the end of the 1990s, the organization <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> its initial membership.</p>",
+  "templateclusterid": "c62ccbeb-ebf9-4923-90b5-76ba31272a95",
+  "parenttemplatename": "OSP-690-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "2deea374-4a27-4cb6-8bcd-4d933ed39fe1",
+      "content": "<p>has doubled</p>"
+    },
+    {
+      "id": "a5a2a9dc-8044-4be6-a243-f2c932979a4b",
+      "content": "<p>had doubled</p>"
+    },
+    {
+      "id": "99044188-79c2-4b8f-ad72-e9b86d95df62",
+      "content": "<p>doubles</p>"
+    },
+    {
+      "id": "f3e5b9fc-b7b2-4b66-958e-0138ce9fda2b",
+      "content": "<p>will double</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

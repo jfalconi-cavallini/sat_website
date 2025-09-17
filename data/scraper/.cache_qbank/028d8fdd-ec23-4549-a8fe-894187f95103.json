@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Stars form in cloudlike swirls of gas and dust that cannot be touched&sbquo; but astrophysicist Nia Imara believes these formations need not remain completely <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> to researchers: she uses simulation data and sophisticated 3D printers to produce interactive models of these stellar nurseries.</p>",
+  "type": "mcq",
+  "keys": [
+    "d8a13681-dfe0-4681-9a19-f86261b52f5e"
+  ],
+  "answerOptions": [
+    {
+      "id": "4500c0bb-672a-46b7-8a2d-4f4daff16c61",
+      "content": "<p>repeatable</p>"
+    },
+    {
+      "id": "c9940c77-6a74-4dcf-92fc-afb1fb1c8c70",
+      "content": "<p>explicable</p>"
+    },
+    {
+      "id": "f5eb109f-5b4d-49b8-b6e4-e4771316fb04",
+      "content": "<p>regrettable</p>"
+    },
+    {
+      "id": "d8a13681-dfe0-4681-9a19-f86261b52f5e",
+      "content": "<p>intangible</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of how Nia Imara facilitates the study of star formations. As used in this context \"intangible\" means unable to be physically handled or touched. The text states that star formations cannot be touched, and then goes on to explain that Imara created a special model to research star formations. In other words, despite the fact that real star formations are intangible, thanks to Imara, researchers can handle models of star formations to better understand them.</p><p>Choice A is incorrect because \"repeatable\" means can be duplicated or done again, which wouldn&rsquo;t make sense in context. The text indicates that the swirls of gas and dust in which stars form are untouchable, but that Nia Imara has produced interactive models of them. It would therefore be illogical to suggest that Imara believes that the formations need not be duplicated and then go on to say that she has copied them. Choice B is incorrect because \"explicable\" means explainable or understandable, which wouldn&rsquo;t make sense in context. The text does not suggest that Nia Imara believes that star formations can be fully explained but rather that she produced interactive models to physically study them because researchers are unable to touch them directly. Choice C is incorrect because \"regrettable\" means distressing or unfortunate, which wouldn&rsquo;t make sense in context. The text does not suggest that Imara believes the researchers regret the star formations or find them distressing, but rather that she uses interactive models to physically study them.</p>",
+  "externalid": "028d8fdd-ec23-4549-a8fe-894187f95103",
+  "correct_answer": [
+    "D"
+  ]
+}

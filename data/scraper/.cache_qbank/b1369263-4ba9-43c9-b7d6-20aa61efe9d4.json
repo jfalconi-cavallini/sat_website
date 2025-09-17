@@ -1,0 +1,38 @@
+{
+  "vaultid": "ae2261d7-1d14-491a-922f-09a33c9d62c9",
+  "keys": [
+    "f3ac4f71-11bc-451f-b106-cdd6ada1dfe6"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of diaphragm contractions and hiccups. In this context, &ldquo;involuntarily&rdquo; means done without any control, or by reflex. The text explains that when a person&rsquo;s diaphragm repeatedly contracts and results in hiccups (which may be beneficial for infants), those muscle contractions are &ldquo;uncontrollable.&rdquo; This context indicates that the diaphragm contractions occur without the person&rsquo;s control. </p><p>Choice B is incorrect because it wouldn&rsquo;t support the logical relationship established in the text&rsquo;s discussion of diaphragm contractions and hiccups. The text indicates that although specific causes for hiccups haven&rsquo;t been identified, it may be the case that the muscle contractions that occur have an important purpose in infants. It wouldn&rsquo;t make sense to say that even though the contractions occur &ldquo;beneficially,&rdquo; or with a good or helpful effect, they might play a positive role in infants&rsquo; breathing regulation. Choice C is incorrect because the text indicates that the diaphragm contractions that result in hiccups are &ldquo;uncontrollable.&rdquo; Because those muscle contractions are described as happening automatically and without the person&rsquo;s control, it wouldn&rsquo;t make sense to describe them as occurring &ldquo;strenuously,&rdquo; or in a way that requires great effort or energy. Choice D is incorrect because the text doesn&rsquo;t describe the quality of the diaphragm contractions that result in hiccups beyond stating that they are &ldquo;uncontrollable.&rdquo; Nothing in the text indicates that those muscle contractions occur &ldquo;smoothly,&rdquo; or evenly and continuously. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "b1369263-4ba9-43c9-b7d6-20aa61efe9d4",
+  "stimulus": "<p>Researchers have struggled to pinpoint specific causes for hiccups, which happen when a person&rsquo;s diaphragm contracts <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>.  However, neuroscientist Kimberley Whitehead has found that these uncontrollable contractions may play an important role in helping infants regulate their breathing.</p>",
+  "templateclusterid": "f2af0654-2682-4e03-a415-224b38f2f35f",
+  "parenttemplatename": "OSP-952-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "f3ac4f71-11bc-451f-b106-cdd6ada1dfe6",
+      "content": "<p>involuntarily</p>"
+    },
+    {
+      "id": "dcc028a7-3e0e-4121-b2f2-4c2784186b55",
+      "content": "<p>beneficially</p>"
+    },
+    {
+      "id": "97f87a0c-e4a6-4f2f-ac1d-3c9cba5b7ce1",
+      "content": "<p>strenuously</p>"
+    },
+    {
+      "id": "12dbe157-2191-4dbe-9914-2b7babb7050c",
+      "content": "<p>smoothly</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

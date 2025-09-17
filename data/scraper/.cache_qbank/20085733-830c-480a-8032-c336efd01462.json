@@ -1,0 +1,38 @@
+{
+  "vaultid": "163b82cb-d0ab-4a4c-bfc4-0881de956ecf",
+  "keys": [
+    "035a2a62-8d04-4cab-9075-83ed6ebf8822"
+  ],
+  "rationale": "<p>Choice A is the best answer. &ldquo;In fact&rdquo; logically signals that the claim in this sentence&mdash;Phoenicia being named after the color purple&mdash;emphasizes and supports the previous claim that Phoenicians were famous for using purple dye. </p><p>Choice B is incorrect because &ldquo;regardless&rdquo; illogically signals that the claim about Phoenicia&rsquo;s name contrasts with the previous claim that Phoenicians were famous for using purple dye. Instead, the naming emphasizes and supports this claim. Choice C is incorrect because &ldquo;lastly&rdquo; illogically signals that the claim about Phoenicia&rsquo;s name is the final step in a process or sequence. Instead, the naming emphasizes and supports the previous claim that Phoenicians were famous for using purple dye. Choice D is incorrect because &ldquo;on the contrary&rdquo; illogically signals that the claim about Phoenicia&rsquo;s name directly opposes the previous claim that Phoenicians were famous for using purple dye. Instead, the naming emphasizes and supports this claim. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "20085733-830c-480a-8032-c336efd01462",
+  "stimulus": "<p>Tyrian purple was a highly prized dye among the Phoenicians (an ancient civilization located in present-day Lebanon). The Phoenicians were famous for using this natural dye to color their clothes a distinctive purple. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the name &ldquo;Phoenicia&rdquo; itself, some historians claim, may have originally meant &ldquo;land of purple.&rdquo;</p>",
+  "templateclusterid": "fb967926-4e57-4bf3-9df7-1a3f66e5b9a8",
+  "parenttemplatename": "OSP-243-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "035a2a62-8d04-4cab-9075-83ed6ebf8822",
+      "content": "<p>In fact,</p>"
+    },
+    {
+      "id": "1a75ae43-fbe1-4d5f-a73c-e00c6521c034",
+      "content": "<p>Regardless,</p>"
+    },
+    {
+      "id": "fd199c3a-c093-4ad9-a2c0-5838c674d1d5",
+      "content": "<p>Lastly,</p>"
+    },
+    {
+      "id": "10719597-95f1-454a-b0cb-233e0f7e2072",
+      "content": "<p>On the contrary,</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

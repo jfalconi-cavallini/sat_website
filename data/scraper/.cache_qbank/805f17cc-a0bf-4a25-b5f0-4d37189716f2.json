@@ -1,0 +1,31 @@
+{
+  "stem": "<p>The student wants to introduce the Slow Food movement to a new audience. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>The international Slow Food movement was founded in 1989 with the signing of the &ldquo;Slow Food Manifesto.&rdquo;</li>\n<li>The movement promotes universal access to healthy, high-quality food.</li>\n<li>It calls for sustainable food production practices that protect local environments, ecosystems, and biodiversity.</li>\n<li>It advocates for fair treatment of and compensation for food production workers.</li>\n<li>The Slow Food USA organization was founded in 2000.</li>\n</ul>",
+  "type": "mcq",
+  "keys": [
+    "3f8318f3-3005-4a57-bfeb-c2ba9f4919d3"
+  ],
+  "answerOptions": [
+    {
+      "id": "3f8318f3-3005-4a57-bfeb-c2ba9f4919d3",
+      "content": "<p>The international Slow Food movement, founded in 1989, promotes universal access to healthy, high-quality food that is produced sustainably by workers who are treated and compensated fairly.&nbsp;</p>"
+    },
+    {
+      "id": "ea5b04ac-5263-4a74-9c75-f2111b55eb62",
+      "content": "<p>The signing of the &ldquo;Slow Food Manifesto&rdquo; in 1989 marked the founding of the international Slow Food movement, while the Slow Food USA organization was founded in 2000.</p>"
+    },
+    {
+      "id": "161d24a5-fd77-447b-a01d-4187f15e4709",
+      "content": "<p>The Slow Food movement advocates for food production workers.</p>"
+    },
+    {
+      "id": "3c3cf2bf-7b65-4912-a430-c0cce2be2acc",
+      "content": "<p>Goals of the movement include universal access to healthy, high-quality food and sustainable food practices.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The sentence effectively introduces the Slow Food movement to a new audience, explaining that the movement, which was founded in 1989, promotes universal access to high-quality and healthy food that is produced sustainably by workers who are treated fairly.</p><p>Choice B is incorrect. While the sentence indicates when the international Slow Food movement and the Slow Food USA organization were founded, it doesn&rsquo;t effectively introduce the movement to a new audience. Choice C is incorrect. While the sentence notes that the Slow Food movement includes advocacy for food production workers, it doesn&rsquo;t effectively introduce the movement to a new audience. Choice D is incorrect. While the sentence describes some of the goals of the Slow Food movement, it doesn&rsquo;t effectively introduce the movement to a new audience.</p>",
+  "externalid": "805f17cc-a0bf-4a25-b5f0-4d37189716f2",
+  "correct_answer": [
+    "A"
+  ]
+}

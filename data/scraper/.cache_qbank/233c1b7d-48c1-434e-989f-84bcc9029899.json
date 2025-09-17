@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Many ancient sculptures of people&rsquo;s heads are missing their noses. This is because the nose is the most <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> part of a sculpture of a person&rsquo;s head. It is delicate and sticks out from the rest of the sculpture, making it especially easy to break.</p>",
+  "type": "mcq",
+  "keys": [
+    "7ab8bc1c-441a-4d5a-9fdf-22c6932aa039"
+  ],
+  "answerOptions": [
+    {
+      "id": "36454b0b-2a06-49a8-8d8a-0c1acbb18cf5",
+      "content": "<p>recognizable</p>"
+    },
+    {
+      "id": "7ab8bc1c-441a-4d5a-9fdf-22c6932aa039",
+      "content": "<p>fragile</p>"
+    },
+    {
+      "id": "e1925cd8-98b2-4e59-82f6-e064cace2ab2",
+      "content": "<p>common</p>"
+    },
+    {
+      "id": "3066a402-2f77-4c5c-bec1-c48f6e6d51db",
+      "content": "<p>sophisticated</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of noses on ancient sculptures. In this context, \"fragile\" means weak or delicate. This matches the text&rsquo;s description of noses on ancient sculptures, which are often missing from sculptures&rsquo; heads because they are \"especially easy to break.\" Therefore, this context indicates that noses on ancient sculptures are the most fragile part of the sculptures&rsquo; heads.</p><p>Choice A is incorrect. In this context, \"recognizable\" would mean identifiable, and since the text indicates that noses are often missing from ancient statues, they therefore cannot be the most recognizable part of the statue. Choice C is incorrect because the text indicates that many ancient statues are missing noses, so noses wouldn&rsquo;t be \"common,\" or frequent, aspects of ancient statues; they would conversely be uncommon. Choice D is incorrect because the text only indicates that noses on ancient statues often stick out and end up missing from the heads, which doesn&rsquo;t relate to the noses being \"sophisticated,\" or knowledgeable or refined.</p>",
+  "externalid": "233c1b7d-48c1-434e-989f-84bcc9029899",
+  "correct_answer": [
+    "B"
+  ]
+}

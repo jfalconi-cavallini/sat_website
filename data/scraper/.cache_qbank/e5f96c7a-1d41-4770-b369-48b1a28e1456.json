@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>When marine biologist Brittany Williams played different ocean recordings to groups of oyster larvae, groups that heard sounds of a healthy oyster reef were the most <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>. They were twice as likely as other groups to show signs of making a permanent home. This suggests that playing recordings of a healthy ocean reef may encourage oysters to create such a reef.</p>",
+  "type": "mcq",
+  "keys": [
+    "caa61e3e-738a-4e1a-bfdb-3770b3cd5e1c"
+  ],
+  "answerOptions": [
+    {
+      "id": "caa61e3e-738a-4e1a-bfdb-3770b3cd5e1c",
+      "content": "<p>responsive</p>"
+    },
+    {
+      "id": "e732a7b1-3869-48c0-bc82-f880212d5357",
+      "content": "<p>inactive</p>"
+    },
+    {
+      "id": "5c3a8884-6726-4d02-8047-962a93f6b690",
+      "content": "<p>liked</p>"
+    },
+    {
+      "id": "de3b7200-f3d2-4761-8fd7-e8eb3380e8ad",
+      "content": "<p>distressed</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of oysters and ocean recordings. As used in this context, \"responsive\" means reacting positively. The text presents a finding and describes it as suggesting that healthy ocean sounds may encourage oyster larvae to establish a reef (a permanent home): groups of oyster larvae that heard recorded sounds of a healthy oyster reef were two times more likely to show signs of forming their own reef than groups that heard different ocean recordings were. This context conveys that the groups that heard healthy reef sounds had a more positive reaction than the other groups did&mdash;that is, they were the most responsive.</p><p>Choice B is incorrect because the text doesn&rsquo;t indicate that hearing sounds of a healthy oyster reef caused some groups of oyster larvae to become \"inactive,\" or to stop engaging in work or activity. Instead, the text conveys that the groups that heard those sounds were observed engaging in activity: they were two times more likely to create a reef (a permanent home) than groups that heard different ocean sounds were. Choice C is incorrect because describing the groups of oyster larvae that heard sounds of a healthy oyster reef as most \"liked,\" or regarded with pleasure, wouldn&rsquo;t make sense in context. The text focuses on the idea that a study found that healthy reef sounds may encourage groups of oyster larvae to form reefs (permanent homes), not on the idea that some of the groups in the study were liked more than others. Choice D is incorrect because the text doesn&rsquo;t indicate that hearing sounds of a healthy oyster reef caused some groups of oyster larvae to be \"distressed,\" or to experience difficulty or begin to decline. Instead, the text indicates that the sounds increased the likelihood that groups of larvae would establish a reef (a permanent home), suggesting that the sounds had a positive effect on the larvae.</p>",
+  "externalid": "e5f96c7a-1d41-4770-b369-48b1a28e1456",
+  "correct_answer": [
+    "A"
+  ]
+}

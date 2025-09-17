@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>To demonstrate that the integrity of underground metal pipes can be assessed without unearthing the pipes, engineer Aroba Saleem and colleagues <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the tendency of some metals&rsquo; internal magnetic fields to alter under stress: the team showed that such alterations can be measured from a distance and can reveal concentrations of stress in the pipes.</p>",
+  "type": "mcq",
+  "keys": [
+    "f016075c-b77d-4c21-b2ba-b5fc10551fb4"
+  ],
+  "answerOptions": [
+    {
+      "id": "0bacd622-4226-444c-9c69-ffbb36042044",
+      "content": "<p>hypothesized</p>"
+    },
+    {
+      "id": "c587603a-e846-4fb7-a535-fc40669f5755",
+      "content": "<p>discounted</p>"
+    },
+    {
+      "id": "ef95eefb-82dd-43f0-a6fe-929fd6179822",
+      "content": "<p>redefined</p>"
+    },
+    {
+      "id": "f016075c-b77d-4c21-b2ba-b5fc10551fb4",
+      "content": "<p>exploited</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of using magnetism to detect stress in buried metal pipes. In this context, \"exploited\" means made productive use of. The text indicates that the magnetic fields of some metals change under stress and that Saleem and colleagues showed that it is possible to measure those changes from a distance, thereby demonstrating that the integrity of underground metal pipes can be evaluated without having to unearth them. This context thus indicates that Saleem and colleagues made productive use of, or exploited, this tendency of the metals&rsquo; magnetic fields.</p><p>Choice A is incorrect because in this context, \"hypothesized\" would mean made a tentative assumption to be evaluated in a study or experiment. Although Saleem and colleagues may have had one or more hypotheses for these experiments, the text presents the information about the tendency of some metals&rsquo; magnetic fields to change under stress as a known fact that the researchers made productive use of, not as a hypothesis to be evaluated. The text after the colon indicates that the researchers were not evaluating whether such changes occur but whether those changes can be measured at a distance. Choice B is incorrect because in this context, \"discounted\" would mean downplayed or ignored, but the text does not suggest that Saleem and colleagues minimized or ignored the tendency of the magnetic fields of some metals to change under stress. Rather, the text indicates that this tendency is the basis for Saleem and colleagues&rsquo; method of assessing the pipes&rsquo; integrity. Choice C is incorrect because nothing in the text indicates that Saleem and colleagues \"redefined,\" or reevaluated or reformulated, the tendency of some metals&rsquo; magnetic fields to change under stress. Instead, the text indicates that the researchers made use of that tendency to demonstrate that it is possible to evaluate the integrity of underground pipes without unearthing them.</p>",
+  "externalid": "faee6021-41fd-493b-ae3e-d83005275eb7",
+  "correct_answer": [
+    "D"
+  ]
+}

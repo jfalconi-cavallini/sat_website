@@ -1,0 +1,38 @@
+{
+  "vaultid": "bd2ae01d-c0dc-4814-9ef0-657b2235d5a9",
+  "keys": [
+    "e7742ecc-1bf3-4f80-bba6-896c0adac2a4"
+  ],
+  "rationale": "<p>Choice B is the best answer. The sentence emphasizes the different orders that Australia&rsquo;s invertebrates belong to, specifying that sawflies, wasps, bees, and ants belong to the order Hymenoptera, whereas beetles and weevils belong to the order Coleoptera. </p><p>Choice A is incorrect. The sentence only mentions one order, Coleoptera; it doesn&rsquo;t emphasize the different orders that Australia&rsquo;s invertebrates belong to. Choice C is incorrect. The sentence only mentions one order, Hymenoptera; it doesn&rsquo;t emphasize the different orders that Australia&rsquo;s invertebrates belong to. Choice D is incorrect. The sentence only mentions one order, Hymenoptera; it doesn&rsquo;t emphasize the different orders that Australia&rsquo;s invertebrates belong to. </p>",
+  "origin": "proteus",
+  "stem": "<p>The student wants to emphasize the different orders in which Australia&rsquo;s invertebrate animals are classified. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "externalid": "1ee0a4e4-27c2-4283-a0b1-5a9a1d15096b",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Roughly 96% of Australia&rsquo;s estimated 200,000 animal species are invertebrates.</li>\n<li>Invertebrates of the order Hymenoptera, which consists of sawflies, wasps, bees, and ants, are estimated to total 14,800 species in Australia.</li>\n<li>Invertebrates of the order Coleoptera, which consists of beetles and weevils, are estimated to total 28,200 species in Australia.</li>\n<li>Some of these invertebrates&rsquo; populations are threatened by invasive bird and fish species.</li>\n</ul>",
+  "templateclusterid": "e7b718ac-dc45-43d6-a2f5-d255750c1e8f",
+  "parenttemplatename": "OSP-716-SYN",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "3e68edc6-fed7-4111-a55f-36cef114783d",
+      "content": "<p>In Australia, 28,200 species are estimated to be beetles and weevils, both classified as invertebrates of the order Coleoptera.</p>"
+    },
+    {
+      "id": "e7742ecc-1bf3-4f80-bba6-896c0adac2a4",
+      "content": "<p>Among Australia&rsquo;s many invertebrates, sawflies, wasps, bees, and ants belong to the order Hymenoptera, while beetles and weevils belong to the order Coleoptera.</p>"
+    },
+    {
+      "id": "c3ae9813-f884-4b6d-bb51-fee0f6ea2db9",
+      "content": "<p>Many sawflies, wasps, bees, and ants of the order Hymenoptera are threatened by some of Australia&rsquo;s invasive bird and fish species.</p>"
+    },
+    {
+      "id": "701a95e2-e81d-407e-85a3-bb36fc6731e9",
+      "content": "<p>The order Hymenoptera is estimated to make up 14,800 of Australia&rsquo;s 200,000 animal species.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

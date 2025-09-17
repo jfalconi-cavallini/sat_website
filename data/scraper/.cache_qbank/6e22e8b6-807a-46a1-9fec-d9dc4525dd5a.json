@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Using natural debris, such as dried <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> such as plastic bags; and more traditional art supplies, such as tree glue, Ghanaian artist Ed Franklin Gavua creates his striking Yiiiiikakaii African masks, which he hopes can help viewers rethink how waste is used in their communities.</p>",
+  "type": "mcq",
+  "keys": [
+    "6f29e829-9bc0-47a2-8842-68453d35c016"
+  ],
+  "answerOptions": [
+    {
+      "id": "72fa80b0-acf3-4b01-b75a-916117f70d34",
+      "content": "<p>leaves, man-made trash:</p>"
+    },
+    {
+      "id": "6f29e829-9bc0-47a2-8842-68453d35c016",
+      "content": "<p>leaves; man-made trash,</p>"
+    },
+    {
+      "id": "99dd32ba-a518-4c4b-bd45-e16731ece6d4",
+      "content": "<p>leaves, man-made trash,</p>"
+    },
+    {
+      "id": "524460bd-b555-4c02-a507-33554f93cf89",
+      "content": "<p>leaves; man-made trash;</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the punctuation of elements in a complex series. It&rsquo;s conventional to use a semicolon to separate items in a complex series with internal punctuation, and in this choice, the semicolon after \"leaves\" is conventionally used to separate the first item (\"natural debris, such as dried leaves\") and the second item (\"man-made trash, such as plastic bags\") in the series of materials used by Gavua. Further, the comma after \"trash\" correctly separates the noun phrase \"man-made trash\" from the supplementary phrase (\"such as plastic bags\") that describes it.</p><p>Choice A is incorrect because a comma after \"leaves\" doesn&rsquo;t match the semicolon used later to separate the second and third items in the series (\"man-made...bags\" and \"and...glue\"). Additionally, it&rsquo;s not conventional to use a colon in this way to separate a supplementary phrase (\"such as plastic bags\") from the noun phrase it modifies (\"man-made trash\"). Choice C is incorrect because a comma after \"leaves\" doesn&rsquo;t match the semicolon used later to separate the second and third items in the series (\"man-made...bags\" and \"and...glue\"). Choice D is incorrect because it&rsquo;s not conventional to use a semicolon in this way to separate a supplementary phrase (\"such as plastic bags\") from the noun phrase it modifies (\"man-made trash\").</p>",
+  "externalid": "6e22e8b6-807a-46a1-9fec-d9dc4525dd5a",
+  "correct_answer": [
+    "B"
+  ]
+}

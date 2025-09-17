@@ -1,0 +1,38 @@
+{
+  "vaultid": "876ece50-0c4b-4e79-b543-cefc08674165",
+  "keys": [
+    "e956dd71-1f93-491e-84ef-a2e5df4844e0"
+  ],
+  "rationale": "<p>Choice D is the best answer because it provides a detail about Elinor that is established in the text. The text indicates that although Elinor is &ldquo;only nineteen,&rdquo; she gives good advice and exhibits such a high level of understanding and judgment that she serves as &ldquo;the counsellor of her mother.&rdquo; Thus, Elinor is mature beyond her years.&nbsp; &nbsp;</p><p>Choice A is incorrect because it isn&rsquo;t supported by the text: although the text says that Elinor advises her mother and often counteracts her mother&rsquo;s impulses, there&rsquo;s no mention of Elinor arguing with her mother or failing to change her mother&rsquo;s mind. Choice B is incorrect because it isn&rsquo;t supported by the text: although the text mentions that Elinor has strong feelings, it doesn&rsquo;t indicate that she&rsquo;s excessively sensitive when it comes to family issues. Choice C is incorrect because it isn&rsquo;t supported by the text: there&rsquo;s no mention of what Elinor thinks about her mother and no suggestion that she thinks her mother is a bad role model. Because she&rsquo;s described as having &ldquo;an excellent heart,&rdquo; Elinor likely doesn&rsquo;t think ill of her mother. </p>",
+  "origin": "proteus",
+  "stem": "<p>According to the text, what is true about Elinor?</p>",
+  "externalid": "8f3764da-9e5e-4406-8b84-4c3a91358727",
+  "stimulus": "<p>The following text is from Jane Austen&rsquo;s 1811 novel <em>Sense and Sensibility</em>. Elinor lives with her younger sisters and her mother, Mrs. Dashwood.</p>\n<p style=\"padding-left:1em;\">Elinor, this eldest daughter, whose advice was so effectual, possessed a strength of understanding, and coolness of judgment, which qualified her, though only nineteen, to be the counsellor of her mother, and enabled her frequently to counteract, to the advantage of them all, that eagerness of mind in Mrs. Dashwood which must generally have led to imprudence. She had an excellent heart;&mdash;her disposition was affectionate, and her feelings were strong; but she knew how to govern them: it was a knowledge which her mother had yet to learn; and which one of her sisters had resolved never to be taught.</p>",
+  "templateclusterid": "1ab996bf-27f2-4971-b9cb-4d2172606d97",
+  "parenttemplatename": "OSP-008-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "276844c9-145d-46f4-9e66-c80f036879d1",
+      "content": "<p>Elinor often argues with her mother but fails to change her mind.</p>"
+    },
+    {
+      "id": "3450a644-3c4e-4df8-bbf9-d3db79a76624",
+      "content": "<p>Elinor can be overly sensitive with regard to family matters.</p>"
+    },
+    {
+      "id": "fc423946-1985-4404-ab1b-60dfc2534a6d",
+      "content": "<p>Elinor thinks her mother is a bad role model.</p>"
+    },
+    {
+      "id": "e956dd71-1f93-491e-84ef-a2e5df4844e0",
+      "content": "<p>Elinor is remarkably mature for her age.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

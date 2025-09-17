@@ -1,0 +1,38 @@
+{
+  "vaultid": "3fa60e1d-abe4-43f6-9f29-88b6b1eb358f",
+  "keys": [
+    "b50d7bbd-5ff6-473a-b6c6-aa3bf4e1eba1"
+  ],
+  "rationale": "<p>Choice D is the best answer. &ldquo;Second&rdquo; logically signals that the information in this sentence&mdash;that the effort to bury the ship would likely only have been made for a king&mdash;joins the information in the previous sentence (&ldquo;first&hellip;&rdquo;) in supporting Brunning&rsquo;s claim that the burial site was likely the tomb of a king. </p><p>Choice A is incorrect because &ldquo;instead&rdquo; illogically signals that the information in this sentence presents an alternative or substitute to the previous information about the gold artifacts inside the ship. Rather, this sentence presents a second piece of information that supports Brunning&rsquo;s claim. Choice B is incorrect because &ldquo;still&rdquo; illogically signals that the information in this sentence exists in contrast to or despite the previous information about the gold artifacts inside the ship. Instead, this sentence presents a second piece of information that supports Brunning&rsquo;s claim. Choice C is incorrect because &ldquo;specifically&rdquo; illogically signals that the information in this sentence specifies or elaborates on the previous information about the gold artifacts inside the ship. Instead, this sentence presents a second piece of information that supports Brunning&rsquo;s claim. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "285e3025-d702-4d3b-a5f7-d9162ecdc5f7",
+  "stimulus": "<p>Archaeologist Sue Brunning explains why the seventh-century ship burial site at Sutton Hoo in England was likely the tomb of a king. First, the gold artifacts inside the ship suggest that the person buried with them was a wealthy and respected leader. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the massive effort required to bury the ship would likely only have been undertaken for a king.</p>",
+  "templateclusterid": "145fb3a2-9ed8-47af-a71e-9bb5b8ec63a3",
+  "parenttemplatename": "OSP-221-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "b0d53f55-3546-4797-8c10-8c50efa5a940",
+      "content": "<p>Instead,</p>"
+    },
+    {
+      "id": "3040fd5f-2d75-4095-ba1e-a550a94202d1",
+      "content": "<p>Still,</p>"
+    },
+    {
+      "id": "f099b584-e6ee-446b-bc3f-434dde60d493",
+      "content": "<p>Specifically,</p>"
+    },
+    {
+      "id": "b50d7bbd-5ff6-473a-b6c6-aa3bf4e1eba1",
+      "content": "<p>Second,</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "23520643-2ffc-46e4-94dc-2e525a48bbbb",
+  "keys": [
+    "c03b22b1-c7f4-41cc-9a3e-c1b51f5a7fd2"
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents a statement about how the Lord Chancellor responds to the crowd that is supported by the text. The text indicates that the people in the crowd are roaring and shouting &ldquo;Bread!&rdquo; or &ldquo;Taxes!&rdquo; and presents them as not knowing what they really want. The Lord Chancellor&rsquo;s response is to ask what their shouting means but also to observe that they&rsquo;re shouting with &ldquo;unanimity,&rdquo; or total agreement. Clearly, this isn&rsquo;t the case, which supports the statement that the Lord Chancellor describes the crowd as being united even though it&rsquo;s not.&nbsp;</p><p>Choice A is incorrect because it isn&rsquo;t supported by the text. Although the text indicates that the Lord Chancellor asks about the meaning of the crowd&rsquo;s shouting, it doesn&rsquo;t suggest that he knows what the crowd really wants. Choice B is incorrect because the text doesn&rsquo;t suggest that the Lord Chancellor wants to speak to the crowd. Furthermore, the text doesn&rsquo;t indicate that the crowd wants to hear from the Sub-Warden. Although the crowd roars when asked &ldquo;Who roar for the Sub-Warden?&rdquo; it&rsquo;s unclear what the roaring means. Choice C is incorrect because the text doesn&rsquo;t suggest that the Lord Chancellor knows of or sympathizes with the crowd&rsquo;s demands. In addition, the text doesn&rsquo;t indicate that the crowd&rsquo;s shouting annoys the Lord Chancellor, just that it causes him to keep repeating &ldquo;What can it all mean?&rdquo; &nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Based on the text, how does the Lord Chancellor respond to the crowd?</p>",
+  "externalid": "6beb6b1f-fb0d-4ffd-bf54-7e868f01ee48",
+  "stimulus": "<p>The following text is adapted from Lewis Carroll&rsquo;s 1889 satirical novel <em>Sylvie and Bruno</em>. A crowd has gathered outside a room belonging to the Warden, an official who reports to the Lord Chancellor.</p>\n<div style=\"padding-left:1em\"><p>One man, who was more excited than the rest, flung his hat high into the air, and shouted (as well as I could make out) &ldquo;Who roar for the Sub-Warden?&rdquo; Everybody roared, but whether it was for the Sub-Warden, or not, did not clearly appear: some were shouting &ldquo;Bread!&rdquo; and some &ldquo;Taxes!&rdquo;, but no one seemed to know what it was they really wanted.</p>\n<p>All this I saw from the open window of the Warden&rsquo;s breakfast-saloon, looking across the shoulder of the Lord Chancellor.</p>\n<p>&ldquo;What can it all mean?&rdquo; he kept repeating to himself. &ldquo;I never heard such shouting before&mdash;and at this time of the morning, too! And with such unanimity!&rdquo;</p></div>",
+  "templateclusterid": "28b2484e-dfcc-462c-b2de-c741d3392f00",
+  "parenttemplatename": "OSP-010-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "6a4ab01c-b912-40a3-9055-56253d2ae5a8",
+      "content": "<p>He asks about the meaning of the crowd&rsquo;s shouting, even though he claims to know what the crowd wants.</p>"
+    },
+    {
+      "id": "6cea1364-e917-4fbd-a386-491d392ca9ad",
+      "content": "<p>He indicates a desire to speak to the crowd, even though the crowd has asked to speak to the Sub-Warden.</p>"
+    },
+    {
+      "id": "f05ec1df-b2d6-4ed7-b95f-5db7a9184dd8",
+      "content": "<p>He expresses sympathy for the crowd&rsquo;s demands, even though the crowd&rsquo;s shouting annoys him.</p>"
+    },
+    {
+      "id": "c03b22b1-c7f4-41cc-9a3e-c1b51f5a7fd2",
+      "content": "<p>He describes the crowd as being united, even though the crowd clearly appears otherwise.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

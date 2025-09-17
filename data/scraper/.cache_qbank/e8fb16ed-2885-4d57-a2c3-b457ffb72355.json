@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>The ancient Spartans were known for their bitingly concise&mdash;or laconic&mdash;wit, a quality they maintained even in the face of great peril. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> when Philip II of Macedon threatened Laconia (the region of Greece containing Sparta), he said, &ldquo;If I invade Laconia, I shall turn you out.&rdquo; The Spartans replied with a single word: &ldquo;If.&rdquo;</p>",
+  "type": "mcq",
+  "keys": [
+    "28db6761-fcf4-4d36-ac45-6e47177f660a"
+  ],
+  "answerOptions": [
+    {
+      "id": "afe38a5d-985e-4fc8-9c9b-91901998bbe5",
+      "content": "<p>Rather,</p>"
+    },
+    {
+      "id": "7b154847-218b-4e5a-97d7-83a081714646",
+      "content": "<p>In other words,</p>"
+    },
+    {
+      "id": "c650fa1a-e2d5-4755-85f8-3e92af7950ee",
+      "content": "<p>That said,</p>"
+    },
+    {
+      "id": "28db6761-fcf4-4d36-ac45-6e47177f660a",
+      "content": "<p>For instance,</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. \"For instance\" logically signals that the concise, witty exchange between Philip II and the Spartans is an example supporting the previous claim&mdash;that the Spartans employed wit even in the face of peril.</p><p>Choice A is incorrect because \"rather\" illogically signals that the exchange between Philip II and the Spartans contrasts with the previous claim about the Spartans&rsquo; wit. Instead, the exchange is an example of their wit. Choice B is incorrect because \"in other words\" illogically signals that the exchange between Philip II and the Spartans is a restatement of the previous claim about the Spartans&rsquo; wit. Instead, the exchange is an example of their wit. Choice C is incorrect because \"that said\" illogically signals that the exchange between Philip II and the Spartans is an exception to the previous claim about the Spartans&rsquo; wit. Instead, the exchange is an example of their wit.</p>",
+  "externalid": "e8fb16ed-2885-4d57-a2c3-b457ffb72355",
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>American abstract artist Richard <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> his installations to make passersby keenly aware of how one&rsquo;s movements are affected by the physical features of one&rsquo;s environment, assembles large-scale steel plates into sculptures that dominate the outdoor spaces they occupy.</p>",
+  "type": "mcq",
+  "keys": [
+    "6ec0743e-08cc-481a-aabc-76416ef159a4"
+  ],
+  "answerOptions": [
+    {
+      "id": "cb87de78-43d8-4d49-9707-2058c877d9cc",
+      "content": "<p>Serra is intending</p>"
+    },
+    {
+      "id": "4549db2b-3b49-4730-8400-1aaab3cb5fcb",
+      "content": "<p>Serra, intends</p>"
+    },
+    {
+      "id": "6ec0743e-08cc-481a-aabc-76416ef159a4",
+      "content": "<p>Serra, intending</p>"
+    },
+    {
+      "id": "8831b1d2-58fe-4cd9-a60f-a29f075535dd",
+      "content": "<p>Serra intends</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of verb forms within a sentence. This choice pairs the comma after \"Serra\" with the comma after \"environment\" and uses the nonfinite present participle \"intending\" to correctly form a supplementary phrase describing the reaction Serra intends his sculptures to provoke. This supplementary phrase appears between the noun phrase that it modifies (\"American abstract artist Richard Serra\") and the finite present tense verb (\"assembles\"), which functions as the sentence&rsquo;s main verb and describes what Serra does.</p><p>Choice A is incorrect because it results in an ungrammatical sentence. The finite present continuous tense verb \"is intending\" can&rsquo;t be used in this way in conjunction with the finite present tense verb \"assembles,\" which already functions as the main verb in the sentence. Choice B is incorrect because it results in an ungrammatical sentence. The finite present tense verb \"intends\" can&rsquo;t be used in this way to supplement the noun phrase \"American abstract artist Richard Serra.\" Choice D is incorrect because it results in an ungrammatical sentence. The finite present tense verb \"intends\" can&rsquo;t be used in this way in conjunction with the finite present tense verb \"assembles,\" which already functions as the main verb in the sentence.</p>",
+  "externalid": "ed257044-3bd8-403a-8ea6-516cc4ebcac5",
+  "correct_answer": [
+    "C"
+  ]
+}

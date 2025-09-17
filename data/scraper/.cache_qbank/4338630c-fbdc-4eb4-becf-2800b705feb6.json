@@ -1,0 +1,38 @@
+{
+  "vaultid": "0be635bf-04b3-4efb-a953-ba66f85e1e41",
+  "keys": [
+    "1b0b8aa9-6562-4d28-bcab-af760589e58b"
+  ],
+  "rationale": "<p>Choice B is the best answer. The word &ldquo;however&rdquo; logically signals that the information in this sentence about the planet KELT-9b&mdash;that it orbits a B-type star&mdash;contrasts with the previous information about planets discovered outside our solar system. Most of these planets orbit G-type stars, not B-type stars. </p><p>Choice A is incorrect because &ldquo;likewise&rdquo; illogically signals that the information about the planet KELT-9b is similar to the previous information about most planets outside our solar system. Instead, it contrasts with that information. Choice C is incorrect because &ldquo;therefore&rdquo; illogically signals that the information about the planet KELT-9b is a result of the previous information about most planets outside our solar system. Instead, it contrasts with that information.&nbsp;Choice D is incorrect because &ldquo;for example&rdquo; illogically signals that the information about the planet KELT-9b is an example of the previous information about most planets outside our solar system. Instead, it contrasts with that information. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "4338630c-fbdc-4eb4-becf-2800b705feb6",
+  "stimulus": "<p>Most of the planets that have been discovered outside our solar system orbit G-type stars, like our Sun. In 2014, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> researchers identified a planet orbiting KELT-9, a B-type star more than twice as massive and nearly twice as hot as the Sun. Called KELT-9b, it is one of the hottest planets ever discovered.</p>",
+  "templateclusterid": "993ce3f0-c542-44f0-9c98-d8abba8b1747",
+  "parenttemplatename": "OSP-256-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "51887696-623d-4825-94d9-77392942363e",
+      "content": "<p>likewise,</p>"
+    },
+    {
+      "id": "1b0b8aa9-6562-4d28-bcab-af760589e58b",
+      "content": "<p>however,</p>"
+    },
+    {
+      "id": "474ca528-d8eb-4958-8e3d-a0bfbe77b0b0",
+      "content": "<p>therefore,</p>"
+    },
+    {
+      "id": "4110e3a9-dca0-4424-9e2d-8a68424fc896",
+      "content": "<p>for example,</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which finding, if true, would most directly support the idea advanced by Gil de Z&uacute;&ntilde;iga and Diehl?</p>",
+  "stimulus": "<p>As media consumption has become increasingly multiplatform and socially mediated, active news acquisition has diminished in favor of an attitude known as &ldquo;news finds me&rdquo; (NFM), in which people passively rely on their social networks and ambient media environments for information about current events. Homero Gil de Z&uacute;&ntilde;iga and Trevor Diehl examined data on a representative group of adults in the United States to determine participants&rsquo; strength of NFM attitude, political knowledge, and political interest. Although no major election took place sufficiently near the study for Gil de Z&uacute;&ntilde;iga and Diehl to identify causality between NFM and voting behavior, they did posit that NFM may reduce voting probability through an indirect effect.</p>",
+  "keys": [
+    "cb1c0fe5-717f-4d09-b27b-5c10ad250c2a"
+  ],
+  "answerOptions": [
+    {
+      "id": "d33534d8-cf91-4652-8758-3567fb240aea",
+      "content": "<p>NFM attitude tends to increase in strength as major elections approach, and people are significantly more likely to vote in major elections than in minor elections.&nbsp;</p>"
+    },
+    {
+      "id": "cb1c0fe5-717f-4d09-b27b-5c10ad250c2a",
+      "content": "<p>NFM attitude has a strong negative effect on political knowledge and interest, and there is known to be a strong positive correlation between political knowledge and interest and the likelihood of voting.&nbsp;</p>"
+    },
+    {
+      "id": "50522942-66b5-41a3-836e-cbf9e8aca0d1",
+      "content": "<p>Political interest is known to have a strong positive effect on likelihood of voting but shows only a weak positive effect on political knowledge, and NFM attitude shows little correlation with either political knowledge or political interest.</p>"
+    },
+    {
+      "id": "c6e0499e-699e-4fe2-bbc6-87f2a9d5ddac",
+      "content": "<p>The likelihood of voting increases as political knowledge increases, and the relationship between NFM attitude and political knowledge tends to strengthen as the size of people&rsquo;s social networks increases.&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it presents a finding that, if true, would most directly support the idea advanced by Homero Gil de Z&uacute;&ntilde;iga and Trevor Diehl that NFM (\"news finds me\") attitude may reduce voting probability through an indirect effect. The text describes NFM as an attitude that has lowered people&rsquo;s interest in actively acquiring news and introduces Gil de Z&uacute;&ntilde;iga and Diehl&rsquo;s study on the effects of NFM on people in the United States&rsquo; political knowledge and interest. The text goes on to say that despite the fact that the study didn&rsquo;t occur near a major election, Gil de Z&uacute;&ntilde;iga and Diehl still conclude that NFM may reduce voting probability. If the likelihood, or probability, that a person will vote is linked to that person&rsquo;s level of political knowledge and interest, that would suggest that negatively affecting a person&rsquo;s level of political knowledge and interest would also negatively affect how likely that person is to vote. Thus, if NFM attitude has a negative effect on political knowledge and interest, then it would also likely reduce voting probability.</p><p>Choice A is incorrect because the finding that NFM attitude increases as major elections approach wouldn&rsquo;t address the effect of NFM on the likelihood of voting, which is the idea advanced by Gil de Z&uacute;&ntilde;iga and Diehl. Moreover, although the text mentions that there were no major elections that occurred near the time of the study, it doesn&rsquo;t discern between major and minor elections when discussing voting probability. Choice C is incorrect because finding that NFM attitude shows little correlation with either political knowledge or political interest would undermine, not support, Gil de Z&uacute;&ntilde;iga and Diehl&rsquo;s idea that NFM may reduce voting probability because it suggests that NFM has no effect on political knowledge or political interest. Choice D is incorrect. Although Gil de Z&uacute;&ntilde;iga and Diehl&rsquo;s idea would be supported by the finding that the likelihood of voting increases as political knowledge increases, nothing in the text suggests that the researchers&rsquo; idea hinges on the size of people&rsquo;s social networks.</p>",
+  "externalid": "a46a3369-477e-4477-972e-bc12eb5e84d2",
+  "correct_answer": [
+    "B"
+  ]
+}

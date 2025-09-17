@@ -1,0 +1,38 @@
+{
+  "vaultid": "f8ae4211-fb32-4c7c-9e1e-255e969cbd57",
+  "keys": [
+    "8d1d421d-b296-49b3-9143-dc62aedc89e1"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the location of the province of Xoconochco within the Aztec Empire. As used in this context, &ldquo;peripheral&rdquo; means situated toward the outer bounds rather than the center. The text indicates that Xoconochco was located on a coast, hundreds of kilometers away from the capital of the Aztec Empire. The text also states that trade between the province and the capital required &ldquo;a long overland journey.&rdquo; This context suggests that Xoconochco was situated toward an edge of the empire&rsquo;s territory rather than near its center. </p><p>Choice A is incorrect because it wouldn&rsquo;t make sense in context to refer to Xoconochco&rsquo;s location within the Aztec Empire as &ldquo;unobtrusive,&rdquo; or not blatant or undesirably prominent; it&rsquo;s not clear how a province&rsquo;s physical location would or wouldn&rsquo;t be blatant. Instead of focusing on how noticeable Xoconochco&rsquo;s location was, the text emphasizes the province&rsquo;s distance from the capital of the empire, pointing out that because of this distance trade between the two required &ldquo;a long overland journey.&rdquo; Choice B is incorrect because the text indicates that the province of Xoconochco was located on a coast far from the capital of the Aztec Empire, not that it was &ldquo;concealed,&rdquo; or kept out of sight or hidden from view. Nothing in the text suggests that Xoconochco was actually hidden such that people couldn&rsquo;t see it, and being hidden wouldn&rsquo;t necessarily result in trade between the province and the capital requiring &ldquo;a long overland journey.&rdquo; Choice C is incorrect because to say that Xoconochco&rsquo;s location within the Aztec Empire was &ldquo;approximate&rdquo; would mean that the location either wasn&rsquo;t precisely correct or was close to some other location. Neither of these meanings would make sense in context because the text indicates that Xoconochco&rsquo;s location is known and that it was far from the empire&rsquo;s capital, so there&rsquo;s no reason to characterize the location as either not precisely correct or close to another location. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "773e98b5-c08a-40e3-b4c1-5329396dc685",
+  "stimulus": "<p>The province of Xoconochco was situated on the Pacific coast, hundreds of kilometers southeast of Tenochtitlan, the capital of the Aztec Empire. Because Xoconochco&rsquo;s location within the empire was so <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>, cacao and other trade goods produced there could reach the capital only after a long overland journey.</p>",
+  "templateclusterid": "6144c2d2-6f14-42c6-a9c4-6371964209d5",
+  "parenttemplatename": "OSP-945-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "ee0d9d4b-3203-4c90-a9a5-31549ad6ca9f",
+      "content": "<p>unobtrusive</p>"
+    },
+    {
+      "id": "1c8388ff-0f89-4a80-a8f8-5fcad6cb2a88",
+      "content": "<p>concealed</p>"
+    },
+    {
+      "id": "0aabf40b-3514-42b2-a1f6-07d3f4952c9e",
+      "content": "<p>approximate</p>"
+    },
+    {
+      "id": "8d1d421d-b296-49b3-9143-dc62aedc89e1",
+      "content": "<p>peripheral</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

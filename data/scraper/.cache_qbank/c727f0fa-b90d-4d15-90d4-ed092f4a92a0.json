@@ -1,0 +1,38 @@
+{
+  "vaultid": "020eaa9b-1426-4106-95ee-fdd43f58e2c4",
+  "keys": [
+    "119ba0df-37f3-4ad5-9f7e-ca70d723a476"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of the archaeologists&rsquo; study of the ancient amphitheater in Switzerland. In this context, &ldquo;provide&rdquo; means make available or supply. The text states that the archaeologists believe that the amphitheater dates to the fourth century CE. The text goes on to say that the archaeologists discovered a coin made between 337 and 341 CE (that is, made during the fourth century CE) and building materials appropriate to the era in question. This context suggests that these discoveries provide evidence for the archaeologists&rsquo; theory about the dating of the amphitheater.&nbsp;</p><p>Choice A is incorrect because the archaeologists&rsquo; discoveries are presented as supplying evidence in favor of their theory about the dating of the amphitheater, not something that would &ldquo;dismiss,&rdquo; or reject serious consideration of, evidence for that theory.&nbsp;Choice C is incorrect because nothing in the text suggests that the archaeologists&rsquo; discoveries would &ldquo;regulate,&rdquo; or govern or bring order to, evidence for the archaeologists&rsquo; theory about the dating of the amphitheater. The discoveries are presented as supplying evidence for the archaeologists&rsquo; theory, not as changing how evidence for the theory is controlled or ordered. Choice D is incorrect because the archaeologists&rsquo; discoveries are presented as supplying evidence in favor of their theory about the dating of the amphitheater, not something that would &ldquo;refuse,&rdquo; or be unwilling to accept, evidence for the archaeologists&rsquo; theory.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "c727f0fa-b90d-4d15-90d4-ed092f4a92a0",
+  "stimulus": "<p>Archaeologists studying an ancient amphitheater in Switzerland believe that it dates back to the fourth century CE. Their discoveries of a coin made between 337 and 341 CE and era-appropriate building materials <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> evidence for this theory.</p>",
+  "templateclusterid": "a543575e-bc0f-43d8-ba15-3dbd62ae08ac",
+  "parenttemplatename": "OSP-055-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "1ee0b744-db25-4f74-859a-972f38563c70",
+      "content": "<p>dismiss</p>"
+    },
+    {
+      "id": "119ba0df-37f3-4ad5-9f7e-ca70d723a476",
+      "content": "<p>provide</p>"
+    },
+    {
+      "id": "d7807b4c-fe5e-4f2f-942e-ce0fcfa05353",
+      "content": "<p>regulate</p>"
+    },
+    {
+      "id": "c197a8b4-e289-4f92-b7ef-577a5c3b3489",
+      "content": "<p>refuse</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

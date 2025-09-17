@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Biographer Michael Gorra notes that the novelist Henry James &ldquo;lived in a world of second thoughts,&rdquo; frequently tinkering with his novels and stories after their initial publication. However, the differences between the 1881 first edition and the 1908 edition of his novel <em>A Portrait of a Lady</em> are extreme, even by James&rsquo;s standards; <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> some critics regard the two editions as two different novels altogether.</p>",
+  "type": "mcq",
+  "keys": [
+    "bfc53f51-fc2c-44cf-8858-76a9b3a69e1b"
+  ],
+  "answerOptions": [
+    {
+      "id": "1272fe13-9b2c-43e0-a86d-ebd0e9acdbdb",
+      "content": "<p>by contrast,</p>"
+    },
+    {
+      "id": "bfc53f51-fc2c-44cf-8858-76a9b3a69e1b",
+      "content": "<p>in fact,&nbsp;</p>"
+    },
+    {
+      "id": "94517322-f806-4795-8218-392b0cc940e2",
+      "content": "<p>nevertheless,</p>"
+    },
+    {
+      "id": "cce5018a-8a9e-417f-a157-7c2a2e8212e7",
+      "content": "<p>in other words,</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. \"In fact\" logically signals that the critics&rsquo; claim at the end of this sentence&mdash;that the two editions are essentially two different novels altogether&mdash;offers additional emphasis in support of the previous claim that the differences between the editions are extreme.</p><p>Choice A is incorrect because \"by contrast\" illogically signals that the claim at the end of this sentence contrasts with the previous claim about the differences between the editions. Instead, the critics&rsquo; opinion offers additional emphasis in support of that claim. Choice C is incorrect because \"nevertheless\" illogically signals that the claim at the end of this sentence is true despite the previous claim about the differences between the two editions. Instead, the critics&rsquo; opinion offers additional emphasis in support of that claim. Choice D is incorrect because \"in other words\" illogically signals that the claim at the end of this sentence is merely paraphrasing the previous claim about the differences between the two editions. The critics&rsquo; opinion adds new information to the previous claim rather than simply paraphrasing it.</p>",
+  "externalid": "c8957ff2-9674-47a3-a4d1-718331694c42",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Based on the texts, how would Focarelli and Panetta (Text 2) most likely respond to Fan&rsquo;s findings (Text 1)?</p>",
+  "stimulus": "<p><span class=\"paired_passage\" role=\"heading\" aria-level=\"2\"><strong>Text 1</strong></span></p>\n<p>When companies in the same industry propose merging with one another, they often claim that the merger will benefit consumers by increasing efficiency and therefore lowering prices. Economist Ying Fan investigated this notion in the context of the United States newspaper market. She modeled a hypothetical merger of Minneapolis-area newspapers and found that subscription prices would rise following a merger.</p>\n<p>&nbsp;</p>\n<p><span class=\"paired_passage\" role=\"heading\" aria-level=\"2\"><strong>Text 2</strong></span></p>\n<p>Economists Dario Focarelli and Fabio Panetta have argued that research on the effect of mergers on prices has focused excessively on short-term effects, which tend to be adverse for consumers. Using the case of consumer banking in Italy, they show that over the long term (several years, in their study), the efficiency gains realized by merged companies do result in economic benefits for consumers.&nbsp;</p>",
+  "keys": [
+    "5a8f70de-70d6-4405-b837-22dd1b23a770"
+  ],
+  "answerOptions": [
+    {
+      "id": "d7d47a2a-b424-4e40-8906-5395e6ce8385",
+      "content": "<p>They would recommend that Fan compare the near-term effect of a merger on subscription prices in the Minneapolis area with the effect of a merger in another newspaper market.</p>"
+    },
+    {
+      "id": "2541e29d-0e42-4166-9b8e-0492ffd37424",
+      "content": "<p>They would argue that over the long term the expenses incurred by the merged newspaper company will also increase.</p>"
+    },
+    {
+      "id": "5a8f70de-70d6-4405-b837-22dd1b23a770",
+      "content": "<p>They would encourage Fan to investigate whether the projected effect on subscription prices persists over an extended period.</p>"
+    },
+    {
+      "id": "b5bd0a9c-a2c8-429a-9f42-5a181e76b0cf",
+      "content": "<p>They would claim that mergers have a different effect on consumer prices in the newspaper industry than in most other industries.&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because, based on the information presented in the texts, it represents how Focarelli and Panetta would most likely respond to Fan&rsquo;s findings. Text 1 indicates that Fan found that a newspaper merger would result in a rise in subscription prices. This rise wouldn&rsquo;t benefit customers, who would have to pay more for news after a merger. Text 2 presents Focarelli and Panetta&rsquo;s argument that merger research tends to focus too much on what happens immediately after the merger. Text 2 goes on to describe their finding that mergers can be economically beneficial for consumers over the long term. This suggests that Focarelli and Panetta would encourage Fan to investigate the long-term effect of the hypothetical newspaper merger on subscription prices.</p><p>Choice A is incorrect because Text 2 doesn&rsquo;t indicate that Focarelli and Panetta connect the effects of mergers to specific locations. Instead, Focarelli and Panetta focus on the length of time over which the effects of mergers should be evaluated. Choice B is incorrect because Text 2 indicates that Focarelli and Panetta found that merged companies experience \"efficiency gains\" over the long term, meaning that their expenses go down relative to their output, not that their expenses increase. Choice D is incorrect because there&rsquo;s no indication in Text 2 that Focarelli and Panetta believe that the newspaper industry is different from any other industry when it comes to the effects of mergers. Although their own research was about consumer banking, Text 2 suggests that they view their conclusions as applicable to mergers in general.</p>",
+  "externalid": "918ce129-70e2-4dee-86da-06f2ab0444b0",
+  "correct_answer": [
+    "C"
+  ]
+}

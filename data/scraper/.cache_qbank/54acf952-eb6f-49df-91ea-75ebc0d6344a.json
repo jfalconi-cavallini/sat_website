@@ -1,0 +1,38 @@
+{
+  "vaultid": "2af5483a-fe08-41f7-848a-90e4f407f7f5",
+  "keys": [
+    "605ce881-d234-4ba4-b6e9-f36f32f73e93"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most effectively uses data from the table to complete the statement about dwarf planets that have exactly one moon. The table lists several dwarf planets in one column and the number of moons that each of those dwarf planets has in another column. The text states that some dwarf planets have exactly one moon and indicates that there are two examples. Only two dwarf planets in the table have exactly one moon: Eris and Makemake. </p><p>Choice B is incorrect. According to the table, Eris has exactly one moon, but Haumea has two moons.&nbsp;Choice C is incorrect. According to the table, Haumea has two moons, and Pluto has five moons. Thus, they are not examples of dwarf planets with exactly one moon.&nbsp;Choice D is incorrect because while the table indicates that Makemake has exactly one moon, the table shows that Ceres has no moons at all. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most effectively uses data from the table to complete the statement?</p>",
+  "externalid": "54acf952-eb6f-49df-91ea-75ebc0d6344a",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Moons of Dwarf Planets</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Dwarf planet name</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Number of moons</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Name of moons</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">Haumea</th><td style=\"text-align: center;\">2</td><td>Hi&lsquo;iaka, Namaka</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Ceres</th><td style=\"text-align: center;\">0</td><td>N/A</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Makemake</th><td style=\"text-align: center;\">1</td><td>MK 2</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Eris</th><td style=\"text-align: center;\">1</td><td>Dysnomia</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Pluto</th><td style=\"text-align: center;\">5</td><td>Charon, Nix, Kerberos, Styx, Hydra</td></tr></tbody></table></figure></p>\n<p>Like Earth, some dwarf planets in the solar system have exactly one moon. Two examples of such dwarf planets are <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "081bdda8-d585-4859-bee1-c91635ab6966",
+  "parenttemplatename": "OSP-532-QUA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "605ce881-d234-4ba4-b6e9-f36f32f73e93",
+      "content": "<p>Eris and Makemake.</p>"
+    },
+    {
+      "id": "da0db2fc-e13c-4b4d-a2af-6bf58ef2f662",
+      "content": "<p>Haumea and Eris.</p>"
+    },
+    {
+      "id": "d7381f62-359a-4ae7-a767-0d8f2391d3d7",
+      "content": "<p>Pluto and Haumea.</p>"
+    },
+    {
+      "id": "0878cb18-3094-4463-aa74-f7f58f1ff807",
+      "content": "<p>Makemake and Ceres.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

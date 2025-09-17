@@ -1,0 +1,38 @@
+{
+  "vaultid": "9f9cac3d-6c51-4cae-a6e0-39bc878ca7d5",
+  "keys": [
+    "09c5d16c-527f-4130-b774-3896b032eb3c"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of the author&rsquo;s claim about the relationship between Neanderthals and <em>Homo sapiens</em>. As used in this context, &ldquo;tenuous&rdquo; means lacking substance. The end of the first sentence states that the author&rsquo;s claim didn&rsquo;t consider certain key pieces of evidence&mdash;&ldquo;recent archaeological discoveries&rdquo;&mdash;and is therefore weak. &nbsp;</p><p>Choice A is incorrect because it wouldn&rsquo;t make sense in context to refer to the author&rsquo;s claim as &ldquo;disorienting,&rdquo; or confusing. The text suggests that the author&rsquo;s claim is insubstantial, not that it&rsquo;s difficult to grasp. Choice C is incorrect because referring to the claim as &ldquo;nuanced,&rdquo; or subtle, wouldn&rsquo;t make sense in context. According to the text, the claim is incomplete because it didn&rsquo;t consider certain key information about recent archaeological finds; it doesn&rsquo;t suggest that what&rsquo;s in the claim lacks precision. Choice D is incorrect because saying that the claim is &ldquo;unoriginal,&rdquo; or imitative, wouldn&rsquo;t make sense in context. The text faults the claim because it doesn&rsquo;t consider certain key information about recent archaeological finds; it doesn&rsquo;t suggest that the author&rsquo;s claim lacks originality. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "300a8942-08ba-43a1-958b-72b8bb8c0a4b",
+  "stimulus": "<p>The author&rsquo;s claim about the relationship between Neanderthals and <em>Homo sapiens</em> is <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>, as it fails to account for several recent archaeological discoveries. To be convincing, his argument would need to address recent finds of additional hominid fossils, such as the latest Denisovan specimens and <em>Homo longi</em>.</p>",
+  "templateclusterid": "2d663849-fcc8-4e62-a814-ab56fc3af143",
+  "parenttemplatename": "OSP-972-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "e53ab9e3-54bf-4c50-a560-52fa99f08155",
+      "content": "<p>disorienting</p>"
+    },
+    {
+      "id": "09c5d16c-527f-4130-b774-3896b032eb3c",
+      "content": "<p>tenuous</p>"
+    },
+    {
+      "id": "070531bc-e46e-436a-abef-d98d6146b825",
+      "content": "<p>nuanced</p>"
+    },
+    {
+      "id": "c78d7cbf-8643-4b6d-837b-18b984b1b572",
+      "content": "<p>unoriginal</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

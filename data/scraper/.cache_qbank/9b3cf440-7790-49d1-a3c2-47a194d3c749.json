@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Following the American Revolutionary War, North American foodways underwent a radical transformation, fueled in large part by spiking consumer demand for certain grains. The cultivation, trade, and transportation of maize and wheat, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> reconfigured the continent&rsquo;s existing regional foodways into a globally oriented food system.&nbsp;</p>",
+  "keys": [
+    "9a8171e2-c702-42da-bb62-f72c79ea30c1"
+  ],
+  "answerOptions": [
+    {
+      "id": "9a8171e2-c702-42da-bb62-f72c79ea30c1",
+      "content": "<p>in particular,</p>"
+    },
+    {
+      "id": "dcaac8f8-fe94-4a88-b347-320dcac42b03",
+      "content": "<p>alternatively,</p>"
+    },
+    {
+      "id": "2be09e8d-2c67-491f-8329-65fe385051cb",
+      "content": "<p>by comparison,</p>"
+    },
+    {
+      "id": "5f8a7e69-bc9b-44b4-b36c-635a42753df1",
+      "content": "<p>second of all,</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. \"In particular\" logically signals that the information in this sentence&mdash;that maize and wheat supply chains transformed North American foodways into a global food system&mdash;provides specific, precise details elaborating on the more general information in the previous sentence about the transformation of North American foodways (with maize and wheat the \"certain grains\" at the center of it).</p><p>Choice B is incorrect because \"alternatively\" illogically signals that the information in this sentence is an alternative option to the previous information about the transformation of North American foodways. Instead, the roles of maize and wheat in creating a global food system are specific, precise details elaborating on that information. Choice C is incorrect because \"by comparison\" illogically signals that the information in this sentence is being compared to the previous information about the transformation of North American foodways. Instead, the roles of maize and wheat in creating a global food system are specific, precise details elaborating on that information. Choice D is incorrect because \"second of all\" illogically signals that the information in this sentence is a second, separate claim from the previous claim that North American foodways were transformed. Instead, the roles of maize and wheat in creating a global food system are specific, precise details elaborating on that information, rather than a separate claim.</p>",
+  "externalid": "9b3cf440-7790-49d1-a3c2-47a194d3c749",
+  "correct_answer": [
+    "A"
+  ]
+}

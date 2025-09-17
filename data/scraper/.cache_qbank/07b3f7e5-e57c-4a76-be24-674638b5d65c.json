@@ -1,0 +1,38 @@
+{
+  "vaultid": "1b452255-da0d-4e92-9c7a-30394b79b3c6",
+  "keys": [
+    "4a06ecbb-3065-485a-a9b9-1524ceda8b6a"
+  ],
+  "rationale": "<p>Choice B is the best answer because as used in the text, a span of time is described as \"a void\" space, which most nearly means an empty or vacant one. In the text, the speaker describes summertime in counterintuitive terms: although nature&rsquo;s \"surging life is at its full\" during the season, the speaker feels summer to be \"a time of pause, / A void and silent space between two worlds.\" The speaker says further that during summer, \"feeling sleeps / Gathering strength\" for future efforts. Thus, the speaker regards summer as an empty stretch of time, to be followed by a period of greater activity.</p><p>Choice A is incorrect. Although the text does present summer as a time of inactivity, it doesn&rsquo;t characterize that inactivity as useless, or as having no purpose; in fact, the speaker regards summer as a time when \"feeling\" gathers \"strength for efforts yet to come.\" Choice C is incorrect. Although the text characterizes summer as a time \"when inspiration lags, and feeling sleeps,\" it doesn&rsquo;t discuss the season&rsquo;s relationship to the speaker&rsquo;s memory or suggest that summer can easily be forgotten. Choice D is incorrect. In some contexts, \"void\" can mean devoid of, or lacking, a particular element, and such a lack could be conceived of as incompleteness. However, the text doesn&rsquo;t portray summer as not being complete or whole; instead, it characterizes vacancy or inactivity as being an essential quality of the season, as experienced by the speaker.</p>",
+  "origin": "proteus",
+  "stem": "<p>As used in the text, what does the phrase &ldquo;a void&rdquo; most nearly mean?</p>",
+  "externalid": "07b3f7e5-e57c-4a76-be24-674638b5d65c",
+  "stimulus": "<p>The following text is adapted from Amy Lowell&rsquo;s 1912 poem &ldquo;Summer.&rdquo;</p>\n<blockquote class=\"dap_poemexcerpt\">\n<p>It is summer, glorious, deep-toned summer,</p>\n<p>The very crown of nature&rsquo;s changing year</p>\n<p>When all her surging life is at its full.</p>\n<p>To me alone it is a time of pause,</p>\n<p><span role=\"region\" aria-label=\"Referenced Content\"><u>A void</u></span> and silent space between two worlds,</p>\n<p>When inspiration lags, and feeling sleeps,</p>\n<p>Gathering strength for efforts yet to come.</p>\n</blockquote>",
+  "templateclusterid": "bada61b3-1925-40df-ba41-9f67e9bc97d6",
+  "parenttemplatename": "OSP-038-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "c9f8d142-5604-45bf-9c1b-5823de80d17c",
+      "content": "<p>A useless</p>"
+    },
+    {
+      "id": "4a06ecbb-3065-485a-a9b9-1524ceda8b6a",
+      "content": "<p>An empty</p>"
+    },
+    {
+      "id": "280f7da7-b8a6-40ba-8daa-f20e9c8428a8",
+      "content": "<p>A forgotten</p>"
+    },
+    {
+      "id": "70651206-84cc-4827-b5c4-178c6ec44506",
+      "content": "<p>An incomplete</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

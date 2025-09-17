@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which finding, if true, would most directly support Shcherbakova and colleagues&rsquo; claim?</p>",
+  "stimulus": "<p>The linguistic niche hypothesis (LNH) posits that the exotericity of languages (how prevalent non-native speakers are) and grammatical complexity are inversely related, which the LNH ascribes to attrition of complex grammatical rules as more non-native speakers adopt the language but fail to acquire those rules. Focusing on two characteristics that are positive indices of grammatical complexity, fusion (when new phonemes arise from the merger of previously distinct ones) and informativity (languages&rsquo; capacity for meaningful variation), Olena Shcherbakova and colleagues conducted a quantitative analysis for more than 1,300 languages and claim the outcome is inconsistent with the LNH.</p>",
+  "keys": [
+    "5aa1418c-b79e-485a-a962-edface157ffb"
+  ],
+  "answerOptions": [
+    {
+      "id": "4cf35a0e-dcae-4869-a902-608b88d7ef7e",
+      "content": "<p>Shcherbakova and colleagues&rsquo; analysis showed a slightly negative correlation between grammatical complexity and fusion and between grammatical complexity and informativity.</p>"
+    },
+    {
+      "id": "0b737e62-f249-4fe6-b873-d6bd338f5b2f",
+      "content": "<p>Shcherbakova and colleagues&rsquo; analysis showed a slightly negative correlation between grammatical complexity and exotericity.</p>"
+    },
+    {
+      "id": "ecd12841-7f79-4c1a-a3b2-580b403f1f24",
+      "content": "<p>Shcherbakova and colleagues&rsquo; analysis showed a slightly positive correlation between grammatical complexity and fusion.</p>"
+    },
+    {
+      "id": "5aa1418c-b79e-485a-a962-edface157ffb",
+      "content": "<p>Shcherbakova and colleagues&rsquo; analysis showed a slightly positive correlation between fusion and exotericity and between informativity and exotericity.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents a finding that, if true, would support Shcherbakova and colleagues&rsquo; claim that the outcome of their study is inconsistent with the linguistic niche hypothesis (LNH). The text explains that the LNH holds that there is an inverse relationship between the prevalence of non-native speakers of a language (exotericity) and the grammatical complexity of that language&mdash;that is, that as the number of non-native speakers increases, grammatical complexity decreases, and vice versa. According to the text, Shcherbakova and colleagues focused on two positive indications of grammatical complexity&mdash;fusion and informativity&mdash;and analyzed their occurrence in over 1,300 languages. If the researchers found a slightly positive correlation between fusion and exotericity and between informativity and exotericity&mdash;meaning that to some extent, grammatical complexity increases as the number of non-native speakers of a language increases&mdash;their outcome would not be consistent with the assumption that exotericity and grammatical complexity are inversely related (the LNH).</p><p>Choice A is incorrect because it wouldn&rsquo;t be possible to say that a finding of a slightly negative correlation between grammatical complexity and both fusion and informativity is inconsistent or consistent with the LNH, since the finding would address only grammatical complexity (given that fusion and informativity are aspects of grammatical complexity) and wouldn&rsquo;t move beyond that factor to address its relationship to the prevalence of non-native speakers of a language (exotericity), which is the relationship the LNH focuses on. Choice B is incorrect because a finding of a slightly negative correlation between grammatical complexity and the prevalence of non-native speakers of a language (exotericity)&mdash;meaning that as the number of non-native speakers increases, grammatical complexity somewhat decreases, and vice versa&mdash;would be consistent, not inconsistent, with the LNH, since the text indicates that according to the LNH, there is an inverse relationship between grammatical complexity and exotericity; a negative correlation reflects an inverse relationship. Choice C is incorrect because it wouldn&rsquo;t be possible to say that a finding of a slightly positive correlation between grammatical complexity and fusion is inconsistent or consistent with the LNH, since the finding would address only grammatical complexity (given that fusion is a positive indication of grammatical complexity) and wouldn&rsquo;t move beyond that factor to address its relationship to the prevalence of non-native speakers of a language (exotericity), which is the relationship the LNH focuses on.</p>",
+  "externalid": "a9fcb8ca-cf0c-4d45-bcc6-e3fd7a4ee3dd",
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "69c21844-7111-44b5-aadf-bf317c7fdf2e",
+  "keys": [
+    "cb72ea0d-60ba-46c5-aa8c-00a903a91ad7"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of the sweet potato in Polynesia. The text indicates that the sweet potato is found in Polynesia but originated in South America, and that the sweet potato was being cultivated by Native Hawaiians and other Indigenous peoples in Polynesia long before sea voyages between South America and Polynesia began. The text goes on to note that research by Mu&ntilde;oz-Rodr&iacute;guez and colleagues has established that the Polynesian varieties of sweet potato split from South American varieties more than 100,000 years ago, which is thousands of years before humans settled in Polynesia. If Polynesian peoples were cultivating the sweet potato before sea voyages between Polynesia and South America began, and if Polynesian varieties of sweet potato diverged from South American varieties well before people were in Polynesia, it can reasonably be concluded that humans didn&rsquo;t play a role in bringing the sweet potato to Polynesia.&nbsp;</p><p>Choice A is incorrect. The text doesn&rsquo;t provide any information about when the sweet potato began to be cultivated in South America, so there&rsquo;s no support for the conclusion that cultivation began in Polynesia before it began in South America.&nbsp;Choice B is incorrect because the text indicates that the sweet potato was being cultivated in Polynesia long before sea journeys between Polynesia and South America began. Therefore, it wouldn&rsquo;t be reasonable to conclude that Polynesian peoples acquired the sweet potato from South American peoples. Additionally, the text indicates that the Polynesian varieties of sweet potato diverged from the South American varieties thousands of years before people settled in Polynesia, which suggests that the sweet potato was already present in Polynesia when people arrived.&nbsp;Choice D is incorrect because the text states that the domestic sweet potato, which is found in Polynesia, descends from a wild South American plant, not from a domesticated South American plant. The only people that the text describes as cultivating the sweet potato are Native Hawaiians and other Indigenous peoples of Polynesia.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "a63e4700-e95a-4a33-82f6-4f46c42d023e",
+  "stimulus": "<p>The domestic sweet potato (<em>Ipomoea batatas</em>) descends from a wild plant native to South America. It also populates the Polynesian Islands, where evidence confirms that Native Hawaiians and other Indigenous peoples were cultivating the plant centuries before seafaring first occurred over the thousands of miles of ocean separating them from South America. To explain how the sweet potato was first introduced in Polynesia, botanist Pablo Mu&ntilde;oz-Rodr&iacute;guez and colleagues analyzed the DNA of numerous varieties of the plant, concluding that Polynesian varieties diverged from South American ones over 100,000 years ago. Given that Polynesia was peopled only in the last three thousand years, the team concluded that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "32f63f71-c872-4fc3-9d7e-4e9df25d9db2",
+  "parenttemplatename": "OSP-027-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "5ba0c467-14c5-46d1-b1b6-ff846118c44b",
+      "content": "<p>the cultivation of the sweet potato<em>&nbsp;</em>in Polynesia likely predates its cultivation in South America.</p>"
+    },
+    {
+      "id": "9b55718f-7657-4943-b4ba-48b533633edd",
+      "content": "<p>Polynesian peoples likely acquired the sweet potato from South American peoples only within the last three thousand years.</p>"
+    },
+    {
+      "id": "cb72ea0d-60ba-46c5-aa8c-00a903a91ad7",
+      "content": "<p>human activity likely played no role in the introduction of the sweet potato in Polynesia.</p>"
+    },
+    {
+      "id": "a64d4744-5900-4f19-b239-2f7ea3e36372",
+      "content": "<p>Polynesian sweet potato varieties likely descend from a single South American variety that was domesticated, not wild.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

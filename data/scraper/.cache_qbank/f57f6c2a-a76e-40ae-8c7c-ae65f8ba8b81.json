@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>After appropriate permissions are granted, a typical archaeological dig begins with a surveyor making a detailed grid of the excavation site. Then, the site is carefully dug, and any artifacts found are recorded and mapped onto the site grid. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the artifacts are removed, cataloged, and analyzed in a laboratory.</p>",
+  "type": "mcq",
+  "keys": [
+    "37c7467f-77d5-4a8f-b08c-69fea668c9ab"
+  ],
+  "answerOptions": [
+    {
+      "id": "3b9dff7c-8083-4077-8fd8-932c3fbfeb70",
+      "content": "<p>For instance,</p>"
+    },
+    {
+      "id": "f705ec09-9c95-4bff-bb01-8d825509456d",
+      "content": "<p>On the contrary,</p>"
+    },
+    {
+      "id": "f2db603a-392a-461b-95a6-23094a13e435",
+      "content": "<p>Earlier,</p>"
+    },
+    {
+      "id": "37c7467f-77d5-4a8f-b08c-69fea668c9ab",
+      "content": "<p>Finally,</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. \"Finally\" logically signals that the actions in this sentence&mdash;the removal, cataloging, and analysis of artifacts&mdash;are the next and final steps in a process, following the previous actions of surveying, digging, recording, and mapping.</p><p>Choice A is incorrect because \"for instance\" illogically signals that the actions in this sentence are an example of the actions in the previous sentence. Instead, the removal, cataloging, and analysis of artifacts are the next and final steps in a process. Choice B is incorrect because \"on the contrary\" illogically signals that the actions in this sentence are directly opposed to the actions in the previous sentence. Instead, the removal, cataloging, and analysis of artifacts are the next and final steps in a process. Choice C is incorrect because \"earlier\" illogically signals that the actions in this sentence occur before the actions in the previous sentence. Instead, the removal, cataloging, and analysis of artifacts are the next and final steps in a process.</p>",
+  "externalid": "f57f6c2a-a76e-40ae-8c7c-ae65f8ba8b81",
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>In knot theory (the mathematical study of curved, closed loops), knots are characterized by their crossing numbers&mdash;that is, the number of times the knotted thread crosses over itself. The trefoil knot and the figure-eight knot, each with a crossing number below five, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> among the simplest possible knots with the fewest number of crossings.</p>",
+  "type": "mcq",
+  "keys": [
+    "fd51030a-2a8a-42b1-bd6d-d885b8b7c31a"
+  ],
+  "answerOptions": [
+    {
+      "id": "48b362a8-da8a-4da7-a268-e5cdce3efbe3",
+      "content": "<p>was</p>"
+    },
+    {
+      "id": "fd51030a-2a8a-42b1-bd6d-d885b8b7c31a",
+      "content": "<p>are</p>"
+    },
+    {
+      "id": "86f70419-f687-4155-8da5-37ad6855cd8b",
+      "content": "<p>has been</p>"
+    },
+    {
+      "id": "68169f67-25fb-4dfc-8df5-be0f2a3ae34f",
+      "content": "<p>is</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is subject-verb agreement. The plural verb \"are\" agrees in number with the plural compound subject \"the trefoil knot and the figure-eight knot.\" The two types of knots joined by \"and\" function as a plural subject and thus require a plural verb.</p><p>Choice A is incorrect because the singular verb \"was\" doesn&rsquo;t agree in number with the plural compound subject \"the trefoil knot and the figure-eight knot.\" Choice C is incorrect because the singular verb \"has been\" doesn&rsquo;t agree in number with the plural compound subject \"the trefoil knot and the figure-eight knot.\" Choice D is incorrect because the singular verb \"is\" doesn&rsquo;t agree in number with the plural compound subject \"the trefoil knot and the figure-eight knot.\"</p>",
+  "externalid": "f65b2467-248f-4fb2-926c-387de770ef8e",
+  "correct_answer": [
+    "B"
+  ]
+}

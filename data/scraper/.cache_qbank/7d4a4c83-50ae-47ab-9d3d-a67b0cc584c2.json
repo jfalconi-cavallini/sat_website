@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which quotation from <em>There Is Confusion</em> most effectively illustrates the claim?</p>",
+  "stimulus": "<p><em>There Is Confusion</em> is a 1924 novel by Jessie Redmon Fauset. In the novel, the narrator portrays the character Joanna as someone who admires ambition in other people to the exclusion of all other qualities: <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "b417c5fb-56fb-49b8-abd6-4641bbdd43dd"
+  ],
+  "answerOptions": [
+    {
+      "id": "b417c5fb-56fb-49b8-abd6-4641bbdd43dd",
+      "content": "<p>&ldquo;Joanna was mightily interested in people who had a &lsquo;purpose&rsquo; in life. Otherwise not at all.&rdquo;&nbsp;</p>"
+    },
+    {
+      "id": "e0472a74-365e-4001-ad9c-91261010511e",
+      "content": "<p><span>&ldquo;Indeed from the very beginning Joanna showed her preference for her father.&rdquo;&nbsp;</span></p>"
+    },
+    {
+      "id": "00b53d94-a91f-4de4-8876-4439ff1286fb",
+      "content": "<p>&ldquo;Joanna was like her father not only so far as ambition was concerned but also in her willingness to work.&rdquo;&nbsp;</p>"
+    },
+    {
+      "id": "e9a3d9d9-2317-4a45-8c2a-375e0119dd34",
+      "content": "<p>&ldquo;She had a good sense of logic, a strong power of concentration, and a remarkably retentive and visualizing memory.&rdquo;</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most effectively presents a quotation from <em>There Is Confusion </em>that illustrates the claim that the narrator portrays Joanna as admiring the quality of ambition, or the determination to achieve something, and no other qualities in other people. By describing Joanna as not being interested in people unless they have \"a &lsquo;purpose&rsquo; in life\"&mdash;that is, a goal they are determined to achieve&mdash;in which case she is very interested in them, the quotation reveals that Joanna cares only about others&rsquo; ambition.</p><p>Choice B is incorrect because this quotation indicates only that Joanna has a preference for her father, without giving a reason for that preference; therefore, it doesn&rsquo;t illustrate the claim that Joanna cares only about others&rsquo; ambition. Choice C is incorrect because this quotation doesn&rsquo;t illustrate that Joanna greatly admires the quality of ambition in others; it refers to Joanna&rsquo;s similarity to her father \"so far as ambition was concerned\" but doesn&rsquo;t reveal how she (or her father) views that quality. Choice D is incorrect because this quotation describes qualities Joanna possesses&mdash;praising her logic, concentration, and memory&mdash;instead of Joanna&rsquo;s interest in other people&rsquo;s qualities.</p>",
+  "externalid": "7d4a4c83-50ae-47ab-9d3d-a67b0cc584c2",
+  "correct_answer": [
+    "A"
+  ]
+}

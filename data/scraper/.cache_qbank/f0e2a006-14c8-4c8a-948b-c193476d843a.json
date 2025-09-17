@@ -1,0 +1,38 @@
+{
+  "vaultid": "171d3f94-ce35-4de4-82a9-c4b91eb2e087",
+  "keys": [
+    "8265ee70-5ae7-4047-bc96-737065e0c7bc"
+  ],
+  "rationale": "<p>Choice A is the best answer because it presents the conclusion that most logically follows from the text&rsquo;s discussion of the study of capuchin monkeys&rsquo; cognitive abilities. The text explains that the study failed to distinguish between outcomes for the tasks performed by the capuchin monkeys, such that simpler tasks requiring less dexterity, or skill, were judged by the same criteria as tasks that demanded more dexterity. Because the study didn&rsquo;t account for this discrepancy, the researchers might have assumed that observed differences in performance were due to the abilities of the monkeys rather than the complexity of the tasks. In other words, the results may suggest cognitive differences among the monkeys even though such differences may not really exist. </p><p>Choice B is incorrect because the text focuses on the fact that the tasks assigned to the capuchin monkeys in the study varied in difficulty and that the variety wasn&rsquo;t taken into consideration. The text doesn&rsquo;t suggest that the capuchin monkeys couldn&rsquo;t perform certain tasks, just that some tasks were more difficult to do. Choice C is incorrect because the text doesn&rsquo;t suggest that the study&rsquo;s results are indicative of the abilities of capuchin monkeys but not of other monkey species; in fact, the text suggests that the results may not even be an accurate reflection of capuchin monkeys&rsquo; abilities.&nbsp;Choice D is incorrect because the text doesn&rsquo;t indicate that the researchers compared results for artificial tasks with those for tasks encountered in the wild, although the tasks described in the text&mdash;sliding a panel and putting a straw in a bottle&mdash;are presumably artificial. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "f0e2a006-14c8-4c8a-948b-c193476d843a",
+  "stimulus": "<p>In a study of the cognitive abilities of white-faced capuchin monkeys (<em>Cebus imitator</em>), researchers neglected to control for the physical difficulty of the tasks they used to evaluate the monkeys. The cognitive abilities of monkeys given problems requiring little dexterity, such as sliding a panel to retrieve food, were judged by the same criteria as were those of monkeys given physically demanding problems, such as unscrewing a bottle and inserting a straw. The results of the study, therefore, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "8704a615-4a30-483a-86fc-2d4ffafa6d61",
+  "parenttemplatename": "OSP-002-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "8265ee70-5ae7-4047-bc96-737065e0c7bc",
+      "content": "<p>could suggest that there are differences in cognitive ability among the monkeys even though such differences may not actually exist.</p>"
+    },
+    {
+      "id": "f16c5577-f94d-4fab-af05-fff7c259ec17",
+      "content": "<p>are useful for identifying tasks that the monkeys lack the cognitive capacity to perform but not for identifying tasks that the monkeys can perform.&nbsp;</p>"
+    },
+    {
+      "id": "1de2a19a-5ff6-41bd-8a61-9f9ffca96203",
+      "content": "<p>should not be taken as indicative of the cognitive abilities of any monkey species other than <em>C. imitator</em>.</p>"
+    },
+    {
+      "id": "1fbcdc2f-19d5-4c5f-b1fb-a3f34cc8dff6",
+      "content": "<p>reveal more about the monkeys&rsquo; cognitive abilities when solving artificial problems than when solving problems encountered in the wild.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

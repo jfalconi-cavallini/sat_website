@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>In 1929, Edwin Herbert Land invented a polarizing filter that was featured in a number of products, from sunglasses to 3D movies. A decade later, Land <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> his technology to invent the world&rsquo;s first instant camera, the Polaroid Land camera.</p>",
+  "type": "mcq",
+  "keys": [
+    "059d0002-57d9-4788-81ff-e5ffc5240221"
+  ],
+  "answerOptions": [
+    {
+      "id": "059d0002-57d9-4788-81ff-e5ffc5240221",
+      "content": "<p>used</p>"
+    },
+    {
+      "id": "efb8c020-c6a0-4c05-9846-7abdff49a82f",
+      "content": "<p>to have used</p>"
+    },
+    {
+      "id": "dd9bc569-1d53-483c-82dd-334666d63c5f",
+      "content": "<p>to use</p>"
+    },
+    {
+      "id": "4e1aa358-8f23-49f5-9cc3-6c1f2acffa92",
+      "content": "<p>using</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of verb forms within a sentence. A main clause requires a finite (tensed) verb to perform the action of the subject (in this case, Land), and this choice supplies the finite past tense verb \"used\" to indicate what Land did with the technology he had invented.</p><p>Choice B is incorrect because it results in an ungrammatical sentence. The nonfinite perfect infinitive \"to have used\" doesn&rsquo;t supply the main clause with a finite verb. Choice C is incorrect because it results in an ungrammatical sentence. The nonfinite to-infinitive \"to use\" doesn&rsquo;t supply the main clause with a finite verb. Choice D is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"using\" doesn&rsquo;t supply the main clause with a finite verb.</p>",
+  "externalid": "f0c9e8fd-3545-4ef8-8b86-366565650b78",
+  "correct_answer": [
+    "A"
+  ]
+}

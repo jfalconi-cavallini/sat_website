@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Guard cells are specialized cells that are part of a plant&rsquo;s pores. These cells help regulate the amount of carbon dioxide a plant takes in. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> they help regulate a plant&rsquo;s water loss.</p>",
+  "keys": [
+    "6135449b-a051-42ac-8f41-53a59f801c00"
+  ],
+  "answerOptions": [
+    {
+      "id": "6135449b-a051-42ac-8f41-53a59f801c00",
+      "content": "<p>Additionally,</p>"
+    },
+    {
+      "id": "fa6733db-19a9-489d-ac85-e9b7348dd85c",
+      "content": "<p>Previously,</p>"
+    },
+    {
+      "id": "540667f0-03aa-4dcf-86c4-7537245623ee",
+      "content": "<p>In conclusion,</p>"
+    },
+    {
+      "id": "2e58a5c9-dc7c-4e54-b741-15ad1bbf683e",
+      "content": "<p>Instead,</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. \"Additionally\" logically signals that guard cells&rsquo; role in regulating water loss is an additional function of these specialized plant cells that is separate from the function of regulating carbon dioxide intake.</p><p>Choice B is incorrect because \"previously\" illogically signals that the activity described in this sentence occurs earlier in a chronological sequence of events than the regulation of carbon dioxide intake described in the previous sentence. Instead, regulating water loss is an additional function of guard cells that is separate from the function of regulating carbon dioxide intake. Choice C is incorrect because \"in conclusion\" illogically signals that the description of guard cells&rsquo; role in regulating water loss concludes or summarizes the information about guard cells provided in the previous sentences. Instead, regulating water loss is one of the two distinct functions of guard cells described in the text. Choice D is incorrect because \"instead\" illogically signals that the activity described in this sentence happens in place of the activity of regulating carbon dioxide intake described in the previous sentence. Rather, regulating water loss is an additional function of guard cells.</p>",
+  "externalid": "ccc1496e-1b9b-4ef5-838f-fc626d8a2653",
+  "correct_answer": [
+    "A"
+  ]
+}

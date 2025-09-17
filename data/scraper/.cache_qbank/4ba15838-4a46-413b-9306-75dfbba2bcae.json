@@ -1,0 +1,38 @@
+{
+  "vaultid": "2b3d3a38-6e24-435c-aae5-d962b5f1485e",
+  "keys": [
+    "6e0a2157-a04d-416c-9b0d-90719ad9ce73"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of the cover art of Virginia Woolf&rsquo;s novels. In this context, &ldquo;partnership&rdquo; means collaboration or joint effort. The text states that Woolf&rsquo;s sister Vanessa Bell was a talented painter and that Bell worked with Woolf to provide the cover art for most of Woolf&rsquo;s novels. Thus, this context suggests that Woolf and Bell pursued a creative partnership in order to produce several of Woolf&rsquo;s novels. </p><p>Choice A is incorrect because there is no indication that Woolf or Bell were undergoing a &ldquo;rebellion,&rdquo; or revolt, against anything in particular. Instead, the text focuses on how they worked together in some aspects of the production of Woolf&rsquo;s novels. Choice C is incorrect because there is nothing in the text to indicate that Woolf or Bell made a &ldquo;discovery,&rdquo; or encountered anything new for the first time as they worked together. The text suggests that Woolf had already written her novels and that Bell then assisted Woolf with the cover art for many of them. Choice D is incorrect because the text implies that Woolf and Bell had a positive relationship. According to the text, the sisters &ldquo;worked closely&rdquo; together to produce the cover art for many of Woolf&rsquo;s novels; the text doesn&rsquo;t mention whether while working together, Woolf and Bell had a &ldquo;disagreement,&rdquo; or conflict. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "4ba15838-4a46-413b-9306-75dfbba2bcae",
+  "stimulus": "<p>The printing of Virginia Woolf&rsquo;s novels featured a creative <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> between Woolf and her sister Vanessa Bell: a talented painter, Bell worked closely with Woolf to create original cover art for most of the novels.</p>",
+  "templateclusterid": "6352b1fb-f148-4017-9ed4-1e14b86e7b68",
+  "parenttemplatename": "OSP-044-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "914b8ea7-cda7-4599-bd60-0243a8572b69",
+      "content": "<p>rebellion</p>"
+    },
+    {
+      "id": "6e0a2157-a04d-416c-9b0d-90719ad9ce73",
+      "content": "<p>partnership</p>"
+    },
+    {
+      "id": "261c486c-abcd-42b0-9414-b42d851f48fc",
+      "content": "<p>discovery</p>"
+    },
+    {
+      "id": "30ba6c47-5498-4373-83ee-03ba45e4d7b5",
+      "content": "<p>disagreement</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

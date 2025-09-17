@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Nigerian American artist Toyin Ojih Odutola uses black-ink pens to create highly detailed drawings of human figures. Her portrait of novelist Zadie <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> is displayed in the National Portrait Gallery in London.&nbsp;</p>",
+  "keys": [
+    "fed26d5f-3ac9-4df0-b333-d834e96c5589"
+  ],
+  "answerOptions": [
+    {
+      "id": "b2a85a8f-ecee-4303-87f5-1ad74d1bbda9",
+      "content": "<p>Smith<span data-ssml-say-as=\"characters\">:</span></p>"
+    },
+    {
+      "id": "2b85fbc1-f552-4bfe-8fc0-2147bbea85f3",
+      "content": "<p>Smith<span data-ssml-say-as=\"characters\">&mdash;</span></p>"
+    },
+    {
+      "id": "fed26d5f-3ac9-4df0-b333-d834e96c5589",
+      "content": "<p>Smith</p>"
+    },
+    {
+      "id": "b0eb7fe8-dbfd-4dda-9cc1-45e4a657144e",
+      "content": "<p>Smith<span data-ssml-say-as=\"characters\">,</span></p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is punctuation use between a subject and a verb. No punctuation is needed when, as in this case, a subject (\"Her portrait of novelist Zadie Smith\") is immediately followed by a main verb (\"is displayed\").</p><p>Choice A is incorrect because no punctuation is needed between the subject and the verb. Choice B is incorrect because no punctuation is needed between the subject and the verb. Choice D is incorrect because no punctuation is needed between the subject and the verb.</p>",
+  "externalid": "d330987d-701c-4103-b3d5-10c01e98bd35",
+  "correct_answer": [
+    "C"
+  ]
+}

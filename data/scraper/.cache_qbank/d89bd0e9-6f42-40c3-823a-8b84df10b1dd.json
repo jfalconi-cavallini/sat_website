@@ -1,0 +1,38 @@
+{
+  "vaultid": "f10f8955-ebee-490a-bab6-bdbc9ec520cd",
+  "keys": [
+    "1486a0ab-4b20-47c0-a0c8-b3afcbfaa157"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of finite verbs in a relative clause. Relative clauses, such as the one beginning with &ldquo;which,&rdquo; require a finite verb, a verb that can function as the main verb of a clause. This choice correctly supplies the clause with the finite past tense verb &ldquo;provided.&rdquo; </p><p>Choice B is incorrect because the non-finite participle &ldquo;having provided&rdquo; doesn&rsquo;t supply the clause with a finite verb. Choice C is incorrect because the non-finite to-infinitive &ldquo;to provide&rdquo; doesn&rsquo;t supply the clause with a finite verb. Choice D is incorrect because the non-finite participle &ldquo;providing&rdquo; doesn&rsquo;t supply the clause with a finite verb. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "d89bd0e9-6f42-40c3-823a-8b84df10b1dd",
+  "stimulus": "<p>A member of the Cherokee Nation, Mary Golda Ross is renowned for her contributions to NASA&rsquo;s Planetary Flight Handbook, which <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> detailed mathematical guidance for missions to Mars and Venus.</p>",
+  "templateclusterid": "2ddf83d9-331f-4e0f-9ff6-6c768279dd3a",
+  "parenttemplatename": "OSP-629-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "1486a0ab-4b20-47c0-a0c8-b3afcbfaa157",
+      "content": "<p>provided</p>"
+    },
+    {
+      "id": "1a412e9b-98f3-4a6b-af02-3148e94709cf",
+      "content": "<p>having provided</p>"
+    },
+    {
+      "id": "f42c83dc-4715-408b-93d6-55a7718dce7f",
+      "content": "<p>to provide</p>"
+    },
+    {
+      "id": "5f0cc8cf-e567-4165-8ae2-d76fc4f38d5e",
+      "content": "<p>providing</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

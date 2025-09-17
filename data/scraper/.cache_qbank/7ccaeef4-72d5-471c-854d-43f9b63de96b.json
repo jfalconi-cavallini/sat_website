@@ -1,0 +1,38 @@
+{
+  "vaultid": "71e8db8d-417b-4d90-aded-a10bda7f059d",
+  "keys": [
+    "30c8affc-a4b0-4d4a-8b4a-263bb6736cfb"
+  ],
+  "rationale": "<p>Choice C is the best answer. &ldquo;Consequently&rdquo; logically signals that the information in this sentence&mdash;that many individual gold prospectors gave up their fortune-hunting dreams and became employees of mining companies&mdash;is a result or consequence of the previous information about the inaccessibility of the state&rsquo;s gold deposits.&nbsp;</p><p>Choice A is incorrect because &ldquo;furthermore&rdquo; illogically signals that the information in this sentence merely adds to the previous information about the inaccessibility of the state&rsquo;s gold deposits. Instead, it&rsquo;s a result or consequence of that information. Choice B is incorrect because &ldquo;still&rdquo; illogically signals that the information in this sentence offers a contrast or exception to the previous information about the inaccessibility of the state&rsquo;s gold deposits. Instead, it&rsquo;s a result or consequence of that information. Choice D is incorrect because &ldquo;next&rdquo; illogically signals that the information in this sentence is the next step in a process. Instead, it&rsquo;s a result or consequence of the previous information about the inaccessibility of the state&rsquo;s gold deposits. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "7ccaeef4-72d5-471c-854d-43f9b63de96b",
+  "stimulus": "<p>Although those who migrated to California in 1849 dreamed of finding gold nuggets in streambeds, the state&rsquo;s richest deposits were buried deeply in rock, beyond the reach of individual prospectors. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> by 1852, many had given up their fortune-hunting dreams and gone to work for one of the large companies capable of managing California&rsquo;s complex mining operations. &nbsp;</p>",
+  "templateclusterid": "b0cd480f-bc9d-4e4d-b2d3-3a00d41f8ec3",
+  "parenttemplatename": "OSP-237-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "3b848d54-2cc0-41a4-8f64-6f623c0053c2",
+      "content": "<p>Furthermore,</p>"
+    },
+    {
+      "id": "733eb3f7-08f5-46f0-8cb7-df354876295d",
+      "content": "<p>Still,</p>"
+    },
+    {
+      "id": "30c8affc-a4b0-4d4a-8b4a-263bb6736cfb",
+      "content": "<p>Consequently,</p>"
+    },
+    {
+      "id": "13c0a62e-52bc-4dc5-a2b5-c3d33ce535e1",
+      "content": "<p>Next,</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

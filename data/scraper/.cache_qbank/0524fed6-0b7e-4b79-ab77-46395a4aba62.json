@@ -1,0 +1,38 @@
+{
+  "vaultid": "45534c9a-97d4-46bc-8f54-8bee378e131d",
+  "keys": [
+    "2c306945-bfbb-4569-82ff-5bd592b03599"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically and precisely completes the text&rsquo;s discussion of the Southern Pacific Railroad. As used in this context, \"dominance\" means the state of being more successful than others. The text states that the Southern Pacific Railroad already controlled 85% of California&rsquo;s railways in 1877, and that the Sunset Route it constructed in 1883 was the first transcontinental rail line across the southern United States. Therefore, the Southern Pacific Railroad would be more successful than other railroads in the area, and the construction of the Sunset Route would further solidify its dominance in rail access to California&rsquo;s coast.</p><p>Choice B is incorrect. Although the construction of the Sunset Route must have required some creativity, or use of imagination, the word \"creativity\" would not also encompass the fact that the Southern Pacific Railroad already controlled 85% of California&rsquo;s railways. The text is more focused on the railroad&rsquo;s control of the field and overall success rather than its imaginative thought processes. Choice C is incorrect because if the Southern Pacific Railroad controlled the majority of California&rsquo;s railways, it would not make sense to refer to its \"insignificance,\" or the state of being unimportant. Rather, the opposite would be true. Choice D is incorrect because in context it would not make sense to refer to the Southern Pacific Railroad&rsquo;s \"neutrality,\" or absence of strong opinion on a matter, since no opinions are mentioned. Nor would \"neutrality\" in the sense of impartiality in a conflict be a logical or precise choice since no conflict is explicitly described. There might be an implied conflict between the Southern Pacific Railroad and other railroads doing business in California, but that is not a conflict in which the Southern Pacific Railroad would take an impartial position.</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "0524fed6-0b7e-4b79-ab77-46395a4aba62",
+  "stimulus": "<p>In 1877, 85% of California&rsquo;s railways were already controlled by the Southern Pacific Railroad. The company further solidified its <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in rail access to the state&rsquo;s Pacific coast when it completed the Sunset Route in 1883: running from Louisiana to Southern California, the route established the first transcontinental rail line across the southern United States.&nbsp;</p>",
+  "templateclusterid": "61cbbb67-f6b2-48d2-9553-e56d31c51a23",
+  "parenttemplatename": "OSP-050-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "2c306945-bfbb-4569-82ff-5bd592b03599",
+      "content": "<p>dominance</p>"
+    },
+    {
+      "id": "cd568a3d-9122-45ba-b15e-9761f9ea4f27",
+      "content": "<p>creativity</p>"
+    },
+    {
+      "id": "3b8f4ae1-47ba-4c5b-831b-a6502c75260f",
+      "content": "<p>insignificance</p>"
+    },
+    {
+      "id": "2286284d-e5c1-4014-bd13-49f9582d613c",
+      "content": "<p>neutrality</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

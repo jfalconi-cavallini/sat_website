@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word?</p>",
+  "stimulus": "<p>Ronyoung Kim creatively captures the Korean American immigrant experience in her novel <em>Clay Walls</em> by writing about a family from three <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> perspectives. The first section of the novel is from the mother Haesu&rsquo;s perspective, the second is from the father Chun&rsquo;s perspective, and the last is from the daughter Faye&rsquo;s perspective.</p>",
+  "type": "mcq",
+  "keys": [
+    "c062e2ab-d818-4ab6-a286-c8d7822b0913"
+  ],
+  "answerOptions": [
+    {
+      "id": "c062e2ab-d818-4ab6-a286-c8d7822b0913",
+      "content": "<p>distinct</p>"
+    },
+    {
+      "id": "47e0e228-84e8-4dad-b47e-dbda0ef39870",
+      "content": "<p>required</p>"
+    },
+    {
+      "id": "c26b340f-eb9a-4fe3-ada2-9d429deee5fb",
+      "content": "<p>unintended</p>"
+    },
+    {
+      "id": "6b586116-73d5-4db1-9f4a-dca454000f64",
+      "content": "<p>unknown</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of Ronyoung Kim&rsquo;s novel <em>Clay Walls</em>. In this context, \"distinct\" means clearly separate and different. The text indicates that the novel consists of three sections and that each section is narrated from the perspective of a different character. This context supports the idea that Kim&rsquo;s novel features three distinct perspectives.</p><p>Choice B is incorrect because describing the three perspectives in Kim&rsquo;s novel as \"required,\" or demanded as necessary to be done or provided, wouldn&rsquo;t make sense in context. When writing a novel, a novelist is free to choose to narrate the story from any number of perspectives. There&rsquo;s nothing in the text to indicate that providing three perspectives was demanded of Kim. Instead, the text focuses on identifying the three different perspectives featured in Kim&rsquo;s novel. Choice C is incorrect because describing the three perspectives in Kim&rsquo;s novel as \"unintended,\" or not planned as a purpose or goal, wouldn&rsquo;t make sense in context. Authors make deliberate choices about the perspectives they feature in their works, and the text indicates that Kim chose to incorporate three different perspectives in her novel. Choice D is incorrect because describing the three perspectives in Kim&rsquo;s novel as \"unknown,\" or not revealed, wouldn&rsquo;t make sense in context. The text directly identifies the three perspectives that appear in her novel as those of Faye and her two parents, Haesu and Chun, which indicates that the novel&rsquo;s perspectives are in fact known.</p>",
+  "externalid": "977ef86f-4402-4b16-9465-aecee8d7a18b",
+  "correct_answer": [
+    "A"
+  ]
+}

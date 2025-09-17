@@ -1,0 +1,38 @@
+{
+  "vaultid": "0e3094bc-2544-4d74-b091-d67ec73d4198",
+  "keys": [
+    "26fe574d-619a-4e85-832d-32a8b483e388"
+  ],
+  "rationale": "<p>Choice B is the best answer. &ldquo;First&rdquo; logically signals that the question in this sentence&mdash;whether there is a daily period during which jellyfish pulse rates decline&mdash;is the first in a sequence of three questions the researchers attempted to answer about jellyfish sleep behavior. </p><p>Choice A is incorrect because &ldquo;as a result&rdquo; illogically signals that the question in this sentence is a result of the three questions the researchers attempted to answer. Instead, it is the first of those three questions. Choice C is incorrect because &ldquo;additionally&rdquo; illogically signals that the question in this sentence is an additional question related to the three questions the researchers attempted to answer. Instead, it is the first of those three questions. Choice D is incorrect because &ldquo;however&rdquo; illogically signals that the question in this sentence contrasts with the three questions the researchers attempted to answer. Instead, it is the first of those three questions. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "d9ad8fc2-d0e5-4aba-8321-ffaa68ab45d4",
+  "stimulus": "<p>In studying whether jellyfish sleep, researchers Michael Abrams, Claire Bedbrook, and Ravi Nath attempted to answer three questions. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> is there a period each day when the pulse rates of jellyfish decline? Second, do jellyfish respond more slowly to stimuli during that period? Finally, if prevented from sleeping, are jellyfish adversely affected?</p>",
+  "templateclusterid": "3290df90-6ebb-42c1-b0fa-25301b8efce1",
+  "parenttemplatename": "OSP-261-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "639714d6-5ee0-4a38-a644-c9be465e51b6",
+      "content": "<p>As a result,</p>"
+    },
+    {
+      "id": "26fe574d-619a-4e85-832d-32a8b483e388",
+      "content": "<p>First,</p>"
+    },
+    {
+      "id": "fb0dfacd-b847-43c6-864e-5ac47131db1d",
+      "content": "<p>Additionally,</p>"
+    },
+    {
+      "id": "c2a73c39-2629-4720-bcd2-39d45789b912",
+      "content": "<p>However,</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

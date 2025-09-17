@@ -1,0 +1,38 @@
+{
+  "vaultid": "ff0b971e-1700-4e0b-b35f-bb2caae5a759",
+  "keys": [
+    "4db88ee2-36e7-4532-b9ce-ef34cd0fff74"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most accurately states the main idea of the text. According to the text, thousands of ceramic bowls were found in a recovered Chinese shipwreck. The text goes on to say that Niziolek and her team used a special tool, a portable X-ray fluorescence analyzer, to determine the bowls&rsquo; chemical signatures. Comparing these chemical signatures with the chemical signatures of materials they had collected from old Chinese kiln sites, the text says, allowed the researchers to identify which kilns had produced the bowls. In other words, the researchers determined the bowls&rsquo; origin. </p><p>Choice A is incorrect. Although the text indicates that the researchers used technology in the form of a portable X-ray fluorescence analyzer, it doesn&rsquo;t specifically state that this technology is new. In addition, the text says that Niziolek and her team used the tool to determine the chemical composition of bowls that were found in a Chinese shipwreck, not to locate and recover the shipwreck itself. There&rsquo;s no indication in the text that a new technology can help researchers locate and recover shipwrecks. Choice B is incorrect because the text indicates that the researchers collected materials from old kiln sites for chemical comparison with the ceramic bowls, which means that the researchers must have already known the location of those kiln sites. Rather than identifying the location of the kilns, the researchers determined which kilns in operation 1,000 years ago had likely produced the bowls that were found in the shipwreck.\n&nbsp;Choice D is incorrect. Although the text says that using a portable X-ray fluorescence analyzer tool enabled Niziolek and her team to analyze artifacts in the form of ceramic bowls without damaging them, the text doesn&rsquo;t discuss how researchers analyzed artifacts before this tool was invented. Moreover, the point that the bowls were left undamaged isn&rsquo;t the text&rsquo;s main idea. Rather, it&rsquo;s a detail that&rsquo;s provided to develop the main idea, which is that the researchers used a special tool to determine where the bowls had been produced. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "externalid": "7073bd45-271c-4b31-b606-013a65b61485",
+  "stimulus": "<p>The recovery of a 1,000-year-old Chinese shipwreck in the Java Sea near present-day Indonesia has yielded a treasure trove of artifacts, including thousands of small ceramic bowls. Using a portable X-ray fluorescence analyzer tool, Lisa Niziolek and her team were able to detect the chemical composition of these bowls without damaging them. By comparing the chemical signatures of the bowls with those of the materials still at old Chinese kiln sites, Niziolek and her team can pinpoint which Chinese kilns likely produced the ceramic bowls.</p>",
+  "templateclusterid": "b7415e1a-30a2-476c-bdd0-eeac906df9e6",
+  "parenttemplatename": "OSP-036-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "de260c18-52b9-4b1c-bf6b-20ee8f550720",
+      "content": "<p>Because of a new technology, researchers can locate and recover more shipwrecks than they could in the past.</p>"
+    },
+    {
+      "id": "a1d16a99-c60d-4e2a-a293-37f6687b3771",
+      "content": "<p>Researchers have been able to identify the location of a number of Chinese kilns in operation 1,000 years ago.</p>"
+    },
+    {
+      "id": "4db88ee2-36e7-4532-b9ce-ef34cd0fff74",
+      "content": "<p>With the help of a special tool, researchers have determined the likely origin of bowls recovered from a shipwreck.</p>"
+    },
+    {
+      "id": "1ceacce2-f580-4607-aad0-526045ffe36f",
+      "content": "<p>Before the invention of portable X-ray fluorescence, researchers needed to take a small piece out of an artifact to analyze its components.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

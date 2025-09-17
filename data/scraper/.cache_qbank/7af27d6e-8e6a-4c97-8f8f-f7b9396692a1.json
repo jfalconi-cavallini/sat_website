@@ -1,0 +1,38 @@
+{
+  "vaultid": "0c5813ee-0215-49c6-8aa6-5755b1edeb59",
+  "keys": [
+    "6fb93d80-04f6-43a8-81a1-1c9933a7bf4e"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of the discovery of a carved wooden figure dating to around 2,000 years ago. In this context, &ldquo;rarely&rdquo; means infrequently. The text states that the discovery of the figure was &ldquo;truly surprising&rdquo; and notes that wooden objects are highly prone to rot. This context conveys the idea that wooden objects infrequently survive for as long as the carved figure has survived. </p><p>Choice A is incorrect because &ldquo;sturdily&rdquo; means strongly, which wouldn&rsquo;t make sense in context. If wooden objects in general could strongly survive for long periods of time, then the discovery of a wooden figure that&rsquo;s around 2,000 years old wouldn&rsquo;t be surprising. Choice B is incorrect because &ldquo;carelessly&rdquo; means accidentally. The text conveys the idea that wooden objects in general don&rsquo;t survive for very long because they rot, not that wooden objects in general accidentally survive despite this. Choice D is incorrect because the text conveys the idea that wooden objects in general don&rsquo;t survive for very long because they rot, not that wooden objects in general &ldquo;simply,&rdquo; or merely, survive for long periods of time. If wooden objects in general could merely survive for as long as the figure has survived, then the discovery of the figure wouldn&rsquo;t have been surprising. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "7af27d6e-8e6a-4c97-8f8f-f7b9396692a1",
+  "stimulus": "<p>The recent discovery of a carved wooden figure dating to around 2,000 years ago in a ditch in England was truly surprising. Wooden objects <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> survive for so long due to their high susceptibility to rot, but archaeologists suspect layers of sediment in the ditch preserved the figure by creating an oxygen-free environment.</p>",
+  "templateclusterid": "9e6f600a-6af8-4a88-b8ea-cb010fca8ad1",
+  "parenttemplatename": "OSP-049-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "3c98b9f0-9830-42ca-bcf8-ef6bea369e70",
+      "content": "<p>sturdily</p>"
+    },
+    {
+      "id": "0297c646-886d-44ba-856c-8825cfc4ef38",
+      "content": "<p>carelessly</p>"
+    },
+    {
+      "id": "6fb93d80-04f6-43a8-81a1-1c9933a7bf4e",
+      "content": "<p>rarely</p>"
+    },
+    {
+      "id": "d2e3023b-e0fc-4f0e-9f8e-56b88787f0c2",
+      "content": "<p>simply</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

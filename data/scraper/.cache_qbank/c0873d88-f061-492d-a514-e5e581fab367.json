@@ -1,0 +1,38 @@
+{
+  "vaultid": "98ff772d-1268-4f30-b3c8-a7a66f25ebdf",
+  "keys": [
+    "a850b154-7f56-4e0a-a4c2-fb2a943880f1"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is subject-modifier placement. This choice makes the noun phrase &ldquo;the activists&rdquo; the subject of the sentence and places it immediately after the modifying phrase &ldquo;after...legislation.&rdquo; In doing so, this choice clearly establishes that the activists&mdash;and not another noun in the sentence&mdash;were pleading for the passage of antidiscrimination legislation. </p><p>Choice A is incorrect because it results in a dangling modifier. The placement of the noun phrase &ldquo;pressure on lawmakers&rdquo; immediately after the modifying phrase illogically suggests that the &ldquo;pressure&rdquo; was pleading for the passage of antidiscrimination legislation. Choice B is incorrect because it results in a dangling modifier. The placement of the noun phrase &ldquo;a sit-in protest&rdquo; immediately after the modifying phrase illogically suggests that the &ldquo;protest&rdquo; was pleading for the passage of antidiscrimination legislation. Choice C is incorrect because it results in a dangling modifier. The placement of the noun phrase &ldquo;lawmakers&rdquo; immediately after the modifying phrase suggests that &ldquo;lawmakers&rdquo; were pleading for the passage of antidiscrimination legislation. While it&rsquo;s possible for lawmakers to plead for the passage of legislation, the context strongly suggests that it&rsquo;s the activists who pleaded for years for the passage of antidiscrimination legislation. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "c0873d88-f061-492d-a514-e5e581fab367",
+  "stimulus": "<p>On April 5, 1977, Kitty Cone and 150 other disability rights activists entered a San Francisco federal building. After pleading for years&mdash;to no effect&mdash;for the passage of key antidiscrimination legislation, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> until their demands were addressed. Finally, on April 28, the legislation was signed.</p>",
+  "templateclusterid": "af358553-2b60-4afb-b29d-ca851ae54609",
+  "parenttemplatename": "OSP-771-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d4334c54-ec35-47d2-8d04-aa69ddfe74d7",
+      "content": "<p>pressure on lawmakers increased when the activists staged a sit-in protest</p>"
+    },
+    {
+      "id": "fb772430-b70a-427f-b606-73c04ec866c8",
+      "content": "<p>a sit-in protest staged by the activists increased pressure on lawmakers</p>"
+    },
+    {
+      "id": "27690ed2-ad1d-4f95-8ca4-05f2c518c277",
+      "content": "<p>lawmakers came under increased pressure when the activists staged a sit-in protest</p>"
+    },
+    {
+      "id": "a850b154-7f56-4e0a-a4c2-fb2a943880f1",
+      "content": "<p>the activists increased pressure on lawmakers by staging a sit-in protest</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

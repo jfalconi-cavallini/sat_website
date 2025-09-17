@@ -1,0 +1,38 @@
+{
+  "vaultid": "6d3b9600-abd7-480f-a98c-5ba7e7bd21c8",
+  "keys": [
+    "d2b49534-23b9-48c1-b9f7-e09804b1ebf2"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of Jacob Lawrence&rsquo;s artistic process. In this context, &ldquo;observant&rdquo; means watchful and perceptive. The text emphasizes that the &ldquo;close attention&rdquo; Lawrence paid to &ldquo;all the details&rdquo; of his neighborhood allowed him to reflect subtle elements of &ldquo;the beauty and vitality of the Black experience&rdquo; in his artwork. This context indicates that being observant of his surroundings was an important part of Lawrence&rsquo;s work as an artist. </p><p>Choice A is incorrect because the text gives no indication that Lawrence was &ldquo;skeptical,&rdquo; or had an attitude of doubt in general or about particular things, let alone that skepticism was important to him as an artist. Rather than indicating that he was skeptical, the text focuses on how Lawrence paid careful attention to everything around him and reflected his observations in his artwork. Choice C is incorrect because the text gives no indication that Lawrence was &ldquo;critical,&rdquo; which in this context would mean inclined to criticize harshly or unfairly. Rather than indicating that Lawrence found fault in things, the text suggests that he paid careful attention to everything around him and that his artwork reflects this careful attention. Choice D is incorrect because the text doesn&rsquo;t suggest that Lawrence was &ldquo;confident,&rdquo; or self-assured. Rather than addressing how Lawrence felt about himself and how that feeling affected his artistic process, the text emphasizes the careful attention Lawrence paid to everything around him&mdash;attention that allowed him to capture subtle elements of a particular place and time in his artwork. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "3e7eb38e-32c1-4df3-b144-b9d1d5beac6c",
+  "stimulus": "<p>For painter Jacob Lawrence, being <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> was an important part of the artistic process. Because he paid close attention to all the details of his Harlem neighborhood, Lawrence&rsquo;s artwork captured nuances in the beauty and vitality of the Black experience during the Harlem Renaissance and the Great Migration.</p>",
+  "templateclusterid": "dc9484a7-a6d6-43be-8e63-02378c341a2c",
+  "parenttemplatename": "OSP-980-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "7593a930-54ed-4d14-b980-790845175f87",
+      "content": "<p>skeptical</p>"
+    },
+    {
+      "id": "d2b49534-23b9-48c1-b9f7-e09804b1ebf2",
+      "content": "<p>observant</p>"
+    },
+    {
+      "id": "f184d772-634a-4c89-87bd-c9038bf1563b",
+      "content": "<p>critical</p>"
+    },
+    {
+      "id": "176ea416-b0c6-4bfd-872b-856c48732514",
+      "content": "<p>confident</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

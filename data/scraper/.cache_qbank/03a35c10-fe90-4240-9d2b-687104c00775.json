@@ -1,0 +1,38 @@
+{
+  "vaultid": "9f1169a6-d5f5-4163-aca7-e84bbb5d0acc",
+  "keys": [
+    "b41b59b1-301e-4240-8c97-d75231f4ebce"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the coordination of main clauses within a sentence. The semicolon is correctly used to join the first main clause (&ldquo;To humans&hellip;prey&rdquo;) and the second main clause (&ldquo;rather&hellip;approach&rdquo;). Further, the comma after the adverb &ldquo;rather&rdquo; is correctly used to separate the adverb from the main clause (&ldquo;the brightly&hellip;approach&rdquo;) it modifies, logically indicating that the information in this clause (how the spider&rsquo;s behavior appears to humans) is contrary to the information in the previous clause (how the spider&rsquo;s behavior does not appear to humans). </p><p>Choice A is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses. Choice B is incorrect because it results in a run-on sentence. The two main clauses are fused without appropriate punctuation and/or a conjunction. Choice C is incorrect. Placing the comma between the first main clause &ldquo;To humans&hellip;prey&rdquo; and the adverb &ldquo;rather&rdquo; illogically indicates that the information in the first main clause is contrary to what came before, which doesn&rsquo;t make sense in this context. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "03a35c10-fe90-4240-9d2b-687104c00775",
+  "stimulus": "<p>To humans, it does not appear that the golden orb-weaver spider uses camouflage to capture its <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the brightly colored arachnid seems to wait conspicuously in the center of its large circular web for insects to approach. Researcher Po Peng of the University of Melbourne has explained that the spider&rsquo;s distinctive coloration may in fact be part of its appeal.</p>",
+  "templateclusterid": "1256c83f-2223-4389-a314-532d3427bdc2",
+  "parenttemplatename": "OSP-606-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "a7b92627-e873-441a-bfdc-c975ac692ec8",
+      "content": "<p>prey, rather,</p>"
+    },
+    {
+      "id": "d4ed64ee-dd60-4425-8ea7-fa115cc05e77",
+      "content": "<p>prey rather,</p>"
+    },
+    {
+      "id": "098bb225-19e1-4991-83f0-53e25caaf1d9",
+      "content": "<p>prey, rather;</p>"
+    },
+    {
+      "id": "b41b59b1-301e-4240-8c97-d75231f4ebce",
+      "content": "<p>prey; rather,</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

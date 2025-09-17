@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>According to the traditional RYB (red-yellow-blue) color model, yellow is a complementary color to purple. However, yellow <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> considered complementary to blue in modern color theory.</p>",
+  "type": "mcq",
+  "keys": [
+    "377a4b69-e5a8-430a-b1e5-2befddb809ff"
+  ],
+  "answerOptions": [
+    {
+      "id": "377a4b69-e5a8-430a-b1e5-2befddb809ff",
+      "content": "<p>is</p>"
+    },
+    {
+      "id": "e7738696-303f-4a30-82ac-372a182c80f2",
+      "content": "<p>having been</p>"
+    },
+    {
+      "id": "98e32d1f-66a2-4d2d-80dd-33c2f6c4a3b7",
+      "content": "<p>to be</p>"
+    },
+    {
+      "id": "ae99b628-a14a-4356-b580-52abd74211b6",
+      "content": "<p>being</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of verb forms within a sentence. A main clause requires a finite (tensed) verb to perform the action of the subject (in this case, \"yellow\"), and this choice supplies the present tense verb \"is considered\" to indicate that yellow is considered a complementary color to blue in modern color theory.</p><p>Choice B is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"having been considered\" doesn&rsquo;t supply the main clause with a finite verb. Choice C is incorrect because it results in an ungrammatical sentence. The nonfinite to-infinitive \"to be considered\" doesn&rsquo;t supply the main clause with a finite verb. Choice D is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"being considered\" doesn&rsquo;t supply the main clause with a finite verb.</p>",
+  "externalid": "84666224-5c68-4c5f-a22d-c52e9a707389",
+  "correct_answer": [
+    "A"
+  ]
+}

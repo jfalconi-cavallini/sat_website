@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Consider the mechanics of the pinhole camera: light passes through a small hole, resulting in a focused projected image. A ray diagram reveals how this <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the hole&rsquo;s small size restricts light to a single ray, all light passing through the hole can only arrive at a single destination, eliminating diffraction and ensuring a clear image.</p>",
+  "type": "mcq",
+  "keys": [
+    "153f2458-7f58-47e1-8087-53f0097d165b"
+  ],
+  "answerOptions": [
+    {
+      "id": "c7700697-c49c-4883-a6e1-fac2717a8a57",
+      "content": "<p>works because</p>"
+    },
+    {
+      "id": "153f2458-7f58-47e1-8087-53f0097d165b",
+      "content": "<p>works. Because</p>"
+    },
+    {
+      "id": "56d97e23-78d6-47b1-8ce2-94f946c1a3fd",
+      "content": "<p>works, it&rsquo;s because</p>"
+    },
+    {
+      "id": "ce1a1ed6-4017-41af-b555-a7a1c24cbfb9",
+      "content": "<p>works: it&rsquo;s because</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used to correctly mark the boundary between one sentence (\"A ray...works\") and another (\"Because...image\").</p><p>Choice A is incorrect because it results in a run-on sentence. The two sentences (\"A ray&hellip;works\" and \"Because&hellip;image\") are fused without punctuation and/or a conjunction. Choice C is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to mark the boundary between sentences. Choice D is incorrect because it results in a comma splice. Since the contraction \"it&rsquo;s\" creates a main clause, the comma after \"single ray\" can&rsquo;t be used in this way to mark the boundary between two main clauses (\"it&rsquo;s...ray\" and \"all light&hellip;image\").</p>",
+  "externalid": "e402c9de-ec5c-4fe3-ae02-d6233c202224",
+  "correct_answer": [
+    "B"
+  ]
+}

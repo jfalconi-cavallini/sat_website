@@ -1,0 +1,38 @@
+{
+  "vaultid": "950ae2c4-689a-47e1-b8a3-fcdf9bc6795b",
+  "keys": [
+    "34a92278-8af8-49ee-8b0b-4d013b51058c"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of verb forms within a sentence. Relative clauses, such as the one beginning with \"how,\" require a finite (tensed) verb, a verb that can function as the main verb of a clause. This choice correctly supplies the clause with the finite past tense verb \"served.\"</p><p>Choice A is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"serving\" doesn&rsquo;t supply the clause with a finite verb. Choice B is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"having served\" doesn&rsquo;t supply the clause with a finite verb. Choice D is incorrect because it results in an ungrammatical sentence. The nonfinite to-infinitive \"to serve\" doesn&rsquo;t supply the clause with a finite verb.</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "1ec934c9-2fc7-4872-ad4a-c25c8e18bbce",
+  "stimulus": "<p>In the 2011 documentary <em>The Barber of Birmingham</em>, civil rights activist James Armstrong recounts how his barbershop in Birmingham, Alabama, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> as a political hub for members of the Black community during the 1950s.</p>",
+  "templateclusterid": "30ea13e3-5665-4dde-9dcf-396cf74359e2",
+  "parenttemplatename": "OSP-717-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "4501b263-0e62-4bb3-acb4-54a7560547be",
+      "content": "<p>serving</p>"
+    },
+    {
+      "id": "51ef56e0-e896-4475-b760-01285f5e66b5",
+      "content": "<p>having served</p>"
+    },
+    {
+      "id": "34a92278-8af8-49ee-8b0b-4d013b51058c",
+      "content": "<p>served</p>"
+    },
+    {
+      "id": "95e5f0e9-cf76-4f5b-8e95-7409b9b64bd3",
+      "content": "<p>to serve</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

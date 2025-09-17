@@ -1,0 +1,38 @@
+{
+  "vaultid": "5e87a945-229b-4b70-aac0-0a3eda5af921",
+  "keys": [
+    "6a6240dc-852e-43c3-b575-dce369163406"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of the sound quality of Cremonese and modern violins. The text states that violins made in Cremona in the sixteenth to eighteenth centuries sound superior to modern violins. It then indicates that some experts attribute the difference to different woods being used to make these violins, but both Cremonese and modern violins are made of the same woods (maple and spruce); thus this cannot account for the difference. The text then says that recent analysis suggests the wood in Cremonese violins was chemically treated by the craftspeople who made them, thereby providing an alternate explanation for the sound differences: the chemical alteration that is present in the Cremonese violins but absent from the modern ones. </p><p>Choice A is incorrect because the text does not discuss how the sound quality of Cremonese violins compares with the sound quality of other instruments made during the sixteenth to eighteenth centuries. Instead it focuses on how the sound of the Cremonese violins compares with that of modern violins. Choice C is incorrect. The text states that there are differences in sound quality between the Cremonese and modern violins, and that both types of violin are made with maple or spruce. Thus the type of wood alone does not determine a violin&rsquo;s sound quality. Furthermore, even if the type of wood alone could account for differences in sound quality, the text makes no mention of other woods, so there is no basis to judge how modern violins would sound if they were made using woods besides maple and spruce. Choice D is incorrect because the text states that there is evidence that Cremonese craftspeople chemically treated the wood used in Cremonese violins. This evidence is attributed to &ldquo;new analysis,&rdquo; which strongly suggests that this process was unknown to modern violin makers before that analysis. If the chemical treatment was unknown until recently, the manufacturing process for modern violins must differ with respect to the previously unknown practice of chemically treating the wood. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "3fce28d7-22e3-470c-89cf-eb79aacad862",
+  "stimulus": "<p>Violins made by Antonio Stradivari and other craftspeople in the sixteenth to eighteenth centuries in Cremona, Italy, produce a sound that is considered superior to that of modern stringed instruments. Some experts have claimed that the type of wood used to create Cremonese violins is responsible for their prized sound, but modern and Cremonese violins are made of the same kinds of wood: maple and spruce. New analysis, however, has revealed unique indications that the wood in the older violins was chemically treated by the makers, leading researchers to suggest that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "2d6658ad-e266-4ec9-9065-29e9485e605e",
+  "parenttemplatename": "OSP-037-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "611e2a86-c958-4be1-8e59-6a8125f83f55",
+      "content": "<p>Cremonese violins probably were not considered superior to other instruments at the time they were made.&nbsp;</p>"
+    },
+    {
+      "id": "6a6240dc-852e-43c3-b575-dce369163406",
+      "content": "<p>the sound quality of Cremonese violins results in part from a method the craftspeople used to alter the wood.</p>"
+    },
+    {
+      "id": "f76eabd4-a9aa-40cb-80e8-b7d207707d38",
+      "content": "<p>if modern violins were made of a wood other than maple or spruce, they likely would sound as good as Cremonese violins.</p>"
+    },
+    {
+      "id": "206d9469-f832-44a0-8f71-5f32dd0b1f1d",
+      "content": "<p>the current process of making violins is the same process that was used centuries ago by Cremonese craftspeople.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

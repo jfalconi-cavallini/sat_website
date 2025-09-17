@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>In 2016 biological anthropologist Heather F. Smith and her team investigated the evolution of the appendix, an intestinal organ that is present in some mammals, including humans, but is generally thought to have no function. Studying 533 mammal species, the team found that the appendix has emerged independently across multiple lineages in separate instances and, significantly, hasn&rsquo;t disappeared after emerging in specific lineages. Moreover, the team determined that species with the organ tend to have higher concentrations of lymphoid tissue, which supports immune responses, in the cecum, the organ the appendix is attached to. Therefore, the team hypothesized that the appendix likely <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "2f3a17b8-b90b-426d-8332-c98cc294ee12"
+  ],
+  "answerOptions": [
+    {
+      "id": "78799410-5898-4ae6-ae30-d594dd2e9e07",
+      "content": "<p>was once present in many nonmammal species but has since disappeared from those lineages.</p>"
+    },
+    {
+      "id": "2f3a17b8-b90b-426d-8332-c98cc294ee12",
+      "content": "<p>has been preserved in certain mammal species because it benefits their immune systems.</p>"
+    },
+    {
+      "id": "2d9471ff-30c8-4073-8f76-4ab89e7b95d6",
+      "content": "<p>will emerge in a greater number of mammal species because it may serve a necessary function in the immune system.</p>"
+    },
+    {
+      "id": "bc426fa2-4a03-447a-9832-635ad9f65432",
+      "content": "<p>produced higher concentrations of lymphoid tissue in mammals in the past than it does currently.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of Smith and colleagues&rsquo; investigation of the evolution and biological role of the appendix. The text indicates that the team found several instances of the appendix emerging and not disappearing in the lineages of various mammal species the team examined. Furthermore, the text states that species that possess an appendix also tend to have relatively high amounts of lymphoid tissue&mdash;a type of tissue that supports immune system function. Taken together, these details strongly support the hypothesis that the appendix has persisted in some species because it has a function that contributes to effective immune responses in those species.</p><p>Choice A is incorrect because the text doesn&rsquo;t address any nonmammalian species. Choice C is incorrect because the text doesn&rsquo;t make predictions about the evolutionary future of the species Smith and colleagues examined, and although the implication of the text is that the appendix likely does serve a function for the immune system, nothing in the text indicates that the appendix will become more widespread in the future. Choice D is incorrect. Although the text does suggest an association between having an appendix and relatively high concentrations of lymphoid tissue, it doesn&rsquo;t claim that the appendix causes the tissue to grow, nor does it address the relative production of the tissue at different periods of time.</p>",
+  "externalid": "ec1412f8-3519-4337-8321-027633350b57",
+  "correct_answer": [
+    "B"
+  ]
+}

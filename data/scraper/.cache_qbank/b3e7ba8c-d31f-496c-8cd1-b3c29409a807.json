@@ -1,0 +1,38 @@
+{
+  "vaultid": "4e610855-bdb9-4e61-82e9-73190e51f738",
+  "keys": [
+    "34cb6ecc-5806-4ed5-b19d-95494914ffcb"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of verb forms within a sentence. The main clause of a sentence requires a finite (tensed) verb, and this choice supplies the finite present tense verb &ldquo;explain&rdquo; to indicate what the scientists do. </p><p>Choice B is incorrect because it results in an ungrammatical sentence. The nonfinite participle &ldquo;having explained&rdquo; doesn&rsquo;t supply the main clause with a finite verb.&nbsp;Choice C is incorrect because it results in an ungrammatical sentence. The nonfinite participle &ldquo;explaining&rdquo; doesn&rsquo;t supply the main clause with a finite verb.&nbsp;Choice D is incorrect because it results in an ungrammatical sentence. The nonfinite to-infinitive &ldquo;to explain&rdquo; doesn&rsquo;t supply the main clause with a finite verb. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "b3e7ba8c-d31f-496c-8cd1-b3c29409a807",
+  "stimulus": "<p>Why are Rome&rsquo;s famous concrete structures, such as the Colosseum, still standing after 2,000-plus years, when modern concrete may not even last for fifty? Scientists <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> that the secret to Roman concrete&rsquo;s durability was its unique blend of ingredients, which included volcanic ash and seawater.</p>",
+  "templateclusterid": "e15aaa3c-a31b-4c06-9d3d-9e77663ee990",
+  "parenttemplatename": "OSP-741-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "34cb6ecc-5806-4ed5-b19d-95494914ffcb",
+      "content": "<p>explain</p>"
+    },
+    {
+      "id": "4fc012d6-fb04-41e8-8366-01cbb76132e4",
+      "content": "<p>having explained</p>"
+    },
+    {
+      "id": "a6285352-af14-4b67-a9bc-9afc9f59af30",
+      "content": "<p>explaining</p>"
+    },
+    {
+      "id": "7f4d90f6-ecd4-4ea9-88a9-12a6f7da0c1d",
+      "content": "<p>to explain</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

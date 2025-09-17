@@ -1,0 +1,38 @@
+{
+  "vaultid": "ddc5177d-f207-4a4d-8c40-421136fef60c",
+  "keys": [
+    "848bb440-2d78-4dc4-a923-27f0c771ef0d"
+  ],
+  "rationale": "<p>Choice A is the best answer because it presents a finding that, if true, would support the claim about Chambi&rsquo;s photographs. The text describes a student advancing the claim that Chambi&rsquo;s photographs &ldquo;have considerable ethnographic value&rdquo;&mdash;meaning that they are valuable as records of cultures&mdash;and that they &ldquo;capture diverse elements of Peruvian society&rdquo; in a respectful way. If it&rsquo;s true that Chambi carefully photographed people from a range of different communities in Peru as well as photographed the customs and sites of different communities, that would lend support to the claim that the photographs have ethnographic value as depictions of diverse elements of society in Peru.&nbsp;</p><p>Choice B is incorrect because the student&rsquo;s claim is that Chambi&rsquo;s photographs have considerable ethnographic value because they depict diverse elements of Peruvian society; the student doesn&rsquo;t claim anything about the technical skill demonstrated in the photographs.&nbsp;Choice C is incorrect because neither Chambi&rsquo;s reputation nor the locations where his photographs may have been published would be relevant to the student&rsquo;s claim that his photographs are valuable as an ethnographic record of Peru&rsquo;s diverse society.&nbsp;Choice D is incorrect because the popularity among other photographers of the people and places that Chambi photographed would be irrelevant to the student&rsquo;s claim that Chambi&rsquo;s photographs are valuable as an ethnographic record of Peru&rsquo;s diverse society.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which finding, if true, would most directly support the student&rsquo;s claim?</p>",
+  "externalid": "2986a17f-a6c9-4d76-9ddf-eedfb37e6eff",
+  "stimulus": "<p>Born in 1891 to a Quechua-speaking family in the Andes Mountains of Peru, Mart&iacute;n Chambi is today considered to be one of the most renowned figures of Latin American photography. In a paper for an art history class, a student claims that Chambi&rsquo;s photographs have considerable ethnographic value&mdash;in his work, Chambi was able to capture diverse elements of Peruvian society, representing his subjects with both dignity and authenticity.  </p>",
+  "templateclusterid": "fe3a2443-b406-4101-aac2-a4aca571cdb1",
+  "parenttemplatename": "OSP-306-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "848bb440-2d78-4dc4-a923-27f0c771ef0d",
+      "content": "<p>Chambi took many commissioned portraits of wealthy Peruvians, but he also produced hundreds of images carefully documenting the peoples, sites, and customs of Indigenous communities of the Andes.</p>"
+    },
+    {
+      "id": "ca75a9b5-05c2-4ff3-89d1-1cdec985ad7a",
+      "content": "<p>Chambi&rsquo;s photographs demonstrate a high level of technical skill, as seen in his strategic use of illumination to create dramatic light and shadow contrasts. &nbsp;&nbsp;</p>"
+    },
+    {
+      "id": "b699beda-9d3a-4b22-8ed1-9659dc0843ca",
+      "content": "<p>During his lifetime, Chambi was known and celebrated both within and outside his native Peru, as his work was published in places like Argentina, Spain, and Mexico.</p>"
+    },
+    {
+      "id": "cfe639aa-ea57-42fd-b583-017a07a0f413",
+      "content": "<p>Some of the peoples and places Chambi photographed had long been popular subjects for Peruvian photographers.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

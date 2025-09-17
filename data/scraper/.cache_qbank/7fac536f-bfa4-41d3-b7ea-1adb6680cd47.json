@@ -1,0 +1,31 @@
+{
+  "stem": "<p>According to the text, what was surprising about the researchers&rsquo; mapping of the magnetic field of galactic bone G47?</p>",
+  "stimulus": "<p>Using the Stratospheric Observatory for Infrared Astronomy (SOFIA), a team of astronomers mapped out the magnetic field of G47, one of the Milky Way&rsquo;s galactic bones (dense clouds of gas and dust that run through the middle of the arm of a spiral galaxy). Surprisingly, the map revealed a magnetic field with no clear pattern or direction. The researchers had expected the magnetic field to be similar to the more uniform fields seen in galactic bones in other arms of the Milky Way.</p>",
+  "type": "mcq",
+  "keys": [
+    "5fdf7108-a375-44f9-aac6-e14241505fd7"
+  ],
+  "answerOptions": [
+    {
+      "id": "4150f4ca-f20c-4815-8166-a999c830a457",
+      "content": "<p>It showed a weaker magnetic field than expected.&nbsp;</p>"
+    },
+    {
+      "id": "b32c3dc6-bebd-4988-91a5-ad052eaafae6",
+      "content": "<p>It implied that previous mappings of the magnetic field were inaccurate.</p>"
+    },
+    {
+      "id": "b6589340-c486-4c95-b5ef-02f15d55047e",
+      "content": "<p>It produced magnetic field measurements similar to those for other galactic bones.</p>"
+    },
+    {
+      "id": "5fdf7108-a375-44f9-aac6-e14241505fd7",
+      "content": "<p>It revealed a magnetic field that wasn&rsquo;t uniform.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents the point about the magnetic field mapping that the text describes as surprising. The text indicates that a team of astronomers mapped the magnetic field of G47, a galactic bone in the Milky Way, and that the mapping \"surprisingly\" revealed \"no clear pattern or direction\" in the magnetic field. The text then adds that the researchers had thought the magnetic field would be as uniform as the magnetic fields of other galactic bones in the Milky Way are. In other words, the researchers were surprised that the mapping revealed a magnetic field that wasn&rsquo;t uniform.</p><p>Choice A is incorrect because the text doesn&rsquo;t indicate that the mapping surprisingly showed a weaker magnetic field than the researchers had expected. The text makes no mention of the magnetic field&rsquo;s strength, only its lack of a clear pattern or direction. Choice B is incorrect because the text doesn&rsquo;t indicate that the magnetic field mapping suggested to researchers that previous mappings were inaccurate. Although the text states that the mapping didn&rsquo;t show what researchers had expected based on their knowledge of other magnetic fields, there&rsquo;s no indication that G47&rsquo;s magnetic field had ever been mapped before. Choice C is incorrect because the text indicates that the researchers were surprised that the magnetic field was different from, not similar to, the magnetic fields of other galactic bones; the text states that because other galactic bones in the Milky Way are more uniform, the researchers had expected the magnetic field of G47 to be more uniform than it turned out to be.</p>",
+  "externalid": "7fac536f-bfa4-41d3-b7ea-1adb6680cd47",
+  "correct_answer": [
+    "D"
+  ]
+}

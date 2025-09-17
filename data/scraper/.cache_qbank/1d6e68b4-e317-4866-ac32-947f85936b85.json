@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which finding, if true, would most directly support the team&rsquo;s claim?</p>",
+  "stimulus": "<p>East Australian humpback whales migrate up to 10,000 kilometers each year to reach their breeding grounds. Researchers long believed that migrating whales live only on the extra energy they stored up during the feeding season. But marine biologist Vanessa Pirotta and her team aren&rsquo;t so sure. They analyzed 20 years of observations of the migrating whales made by citizen scientists (members of the public who help collect data for scientific research). The team claims that the whales may not live only on their stored energy during migration.</p>",
+  "type": "mcq",
+  "keys": [
+    "840b7892-a261-4acd-80bf-6b09d90d675f"
+  ],
+  "answerOptions": [
+    {
+      "id": "8df92968-d159-4810-876a-9432b04fe7aa",
+      "content": "<p>Citizen scientists have observed many different types of marine animals feeding alongside the whales.&nbsp;</p>"
+    },
+    {
+      "id": "840b7892-a261-4acd-80bf-6b09d90d675f",
+      "content": "<p>Citizen scientists have made many observations of the whales feeding as they migrate to their breeding grounds.</p>"
+    },
+    {
+      "id": "8fc4f110-0bb7-45cd-9311-62475961fad1",
+      "content": "<p>Citizen scientists have made more observations of the whales migrating to their breeding grounds than of the whales returning to their feeding grounds.</p>"
+    },
+    {
+      "id": "1d165ea5-cade-48e7-84e8-4738a6f76246",
+      "content": "<p>Citizen scientists have recently begun to observe the whales migrating to their breeding grounds earlier in the year.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it presents a finding that, if true, would most directly support Pirotta and her team&rsquo;s claim that East Australian humpback whales may not live only on stored energy during migration. The text explains that it has long been thought that East Australian humpback whales store extra energy during the feeding season and then use that energy to survive while traveling to their breeding grounds. If it were true that citizen scientists have often seen the whales feeding as they migrate to the breeding grounds, that would indicate that the whales sometimes feed and take in additional energy during the journey, meaning that they may not rely only on energy they stored before migrating.</p><p>Choice A is incorrect because finding that citizen scientists have observed many different types of marine animals feeding alongside the whales would have no bearing on the team&rsquo;s claim; the behavior of other animals is irrelevant, and without indicating the timing of the observed feeding, the finding wouldn&rsquo;t reveal whether the whales rely only on previously stored energy or ever take in additional energy during migration. Choice C is incorrect because finding that citizen scientists have more often observed whales on the way to their breeding grounds than returning to their feeding grounds would have no bearing on the team&rsquo;s claim. Since it would provide information about the timing of observations but not about the whales&rsquo; observed activities, the finding wouldn&rsquo;t reveal whether the whales rely only on previously stored energy or ever take in additional energy during migration. Choice D is incorrect because finding that citizen scientists have recently started seeing the whales migrate to their breeding grounds earlier in the year would have no bearing on the team&rsquo;s claim. Since it would provide information about a change in the timing of migration but not about the whales&rsquo; observed activities while migrating, the finding wouldn&rsquo;t reveal whether the whales rely only on previously stored energy or ever take in additional energy during migration.</p>",
+  "externalid": "1d6e68b4-e317-4866-ac32-947f85936b85",
+  "correct_answer": [
+    "B"
+  ]
+}

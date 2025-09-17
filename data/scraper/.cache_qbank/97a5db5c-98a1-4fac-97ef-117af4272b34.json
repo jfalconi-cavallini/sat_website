@@ -1,0 +1,38 @@
+{
+  "vaultid": "79207cd5-3d6b-4c38-8772-450797962f68",
+  "keys": [
+    "4b0f7bc5-8a55-4334-858c-495f5816da0c"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most accurately describes the main purpose of the text, which is to illustrate two approaches that Indigenous politicians have taken to achieve political representation for their communities. The text begins by explaining that one approach is exemplified by Indigenous politicians in the United States who, in an effort to ensure that the interests of their communities are represented in government, joined preexisting political parties and were subsequently elected to Congress. The text goes on to highlight a second approach adopted by Indigenous leaders in Canada and several Latin American countries: rather than joining established political parties, many Indigenous politicians in these countries have instead formed their own parties to promote candidates for office who support causes that are important to their communities.&nbsp;</p><p>Choice A is incorrect because the text&rsquo;s focus is on the contrasting approaches adopted by different Indigenous political movements in different countries; thus, it isn&rsquo;t accurate to say that the text traces the history of one political movement. Moreover, the text only discusses examples from 2000 to 2021, a relatively short period of time; therefore, it provides very little in the way of discussion of larger historical developments, nor does it make any predictions about how these movements might continue to develop in the future. Choice B is incorrect because the text never urges Indigenous politicians in the US to alter their strategy of striving for representation through the established political parties, nor does it suggest that this strategy is inferior to that of Indigenous politicians in Canada and Latin America, who have formed their own parties. In fact, the text notes that both strategies have resulted in the election of Indigenous politicians to national governments. Choice D is incorrect because the text never suggests that Indigenous politicians in the US have influenced those in Canada and Latin America; instead, it stresses how Indigenous politicians&rsquo; approach toward achieving representation in the US government has differed from the approach Indigenous politicians have taken to achieve representation in national governments elsewhere in the Americas. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "externalid": "97a5db5c-98a1-4fac-97ef-117af4272b34",
+  "stimulus": "<p>A number of Indigenous politicians have been elected to the United States Congress since 2000 as members of the country&rsquo;s two established political parties. In Canada and several Latin American countries, on the other hand, Indigenous people have formed their own political parties to advance candidates who will advocate for the interests of their communities. This movement has been particularly successful in Ecuador, where Guadalupe Llori, a member of the Indigenous party known as Pachakutik, was elected president of the National Assembly in 2021.</p>",
+  "templateclusterid": "6667ff27-e2b8-4b0a-a11e-19ba249f3745",
+  "parenttemplatename": "OSP-049-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "0f70b004-ad6a-4907-83bc-ae0e35f1ee94",
+      "content": "<p>To trace the history of an Indigenous political movement and speculate about its future development</p>"
+    },
+    {
+      "id": "e6d67197-95fb-475c-a4bb-7f4b83b8970e",
+      "content": "<p>To argue that Indigenous politicians in the United States should form their own political party</p>"
+    },
+    {
+      "id": "4b0f7bc5-8a55-4334-858c-495f5816da0c",
+      "content": "<p>To highlight two approaches to achieving political representation for Indigenous people</p>"
+    },
+    {
+      "id": "21b2f1b5-7284-4af3-9db3-1c57054c60df",
+      "content": "<p>To consider how Indigenous politicians in the United States have influenced Indigenous politicians in Canada and Latin America</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

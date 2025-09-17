@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>The city of Amsterdam partnered with consultants to develop Public Eye&mdash;an ethical AI-powered crowd-monitoring <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> video streamed from cameras in heavily touristed areas, the AI algorithm determines crowd sizes without, in the interest of protecting individuals&rsquo; privacy, retaining the footage.</p>",
+  "type": "mcq",
+  "keys": [
+    "f35a75f4-62ce-46f1-b19c-71f9d5bc1e09"
+  ],
+  "answerOptions": [
+    {
+      "id": "4dc4f9ef-f159-49f4-b34e-3338b8fb6179",
+      "content": "<p>&nbsp;system&mdash;analyzing</p>"
+    },
+    {
+      "id": "143fc10b-e5ac-4806-a608-1d5a3a72ba57",
+      "content": "<p>system, analyzing</p>"
+    },
+    {
+      "id": "f35a75f4-62ce-46f1-b19c-71f9d5bc1e09",
+      "content": "<p>system. Analyzing</p>"
+    },
+    {
+      "id": "aafbb0d4-a727-4615-a128-5376c0bac7a5",
+      "content": "<p>system analyzing</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between one sentence (\"The city&hellip;system\") and another (\"Analyzing&hellip;footage\"). The participial phrase beginning with \"analyzing\" modifies the subject of the second sentence, \"the AI algorithm.\"</p><p>Choice A is incorrect. Placing a dash before \"analyzing\" creates a confusing and ambiguous modifying element (\"analyzing...areas\") and a comma splice between \"areas\" and \"the AI algorithm.\" (A comma can&rsquo;t be used in this way to mark the boundary between sentences.) Choice B is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to mark the boundary between sentences. Choice D is incorrect because it results in a run-on sentence. The sentences (\"The city&hellip;system\" and \"analyzing&hellip;footage\") are fused without punctuation and/or a conjunction.</p>",
+  "externalid": "859b0c99-ba39-402b-950e-6ea7f8512193",
+  "correct_answer": [
+    "C"
+  ]
+}

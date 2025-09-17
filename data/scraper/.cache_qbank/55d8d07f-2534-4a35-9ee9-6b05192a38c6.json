@@ -1,0 +1,38 @@
+{
+  "vaultid": "071f4a43-1714-4bd6-a318-577096113190",
+  "keys": [
+    "d17419de-663c-4828-a1f3-e0078a9fcb6a"
+  ],
+  "rationale": "<p>Choice A is the best answer because it presents the conclusion that most logically completes the text&rsquo;s discussion about the significance of the cupid found at Pompeii. The text indicates that the cupid is near a statue of a female figure who is fishing, and it goes on to indicate that because Venus is associated with cupids, some scholars believe the female figure to be the goddess Venus. But the text then says that, according to archaeologist Carla Brain, cupids may have also been associated with the activity of fishing, which, if true, would suggest that the mere appearance of a cupid near a female figure engaged in fishing does not indicate with certainty that the figure is Venus (that is, the cupid might be associated with fishing, and the figure might be anyone at all). </p><p>Choice B is incorrect because the text says nothing about how often Venus was depicted fishing in Roman art: it only implies that in certain instances a female figure may or may not be Venus. Choice C is incorrect because Carla Brain&rsquo;s proposed explanation for the presence of the cupids makes no reference to the female figure, and so the possibility that the figure in the artworks is in fact Venus cannot be definitively eliminated. Choice D is incorrect because there is nothing in the text to suggest that the only reasonable way to interpret the figure is as Venus. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "55d8d07f-2534-4a35-9ee9-6b05192a38c6",
+  "stimulus": "<p>Several artworks found among the ruins of the ancient Roman city of Pompeii depict a female figure fishing with a cupid nearby. Some scholars have asserted that the figure is the goddess Venus, since she is known to have been linked with cupids in Roman culture, but University of Leicester archaeologist Carla Brain suggests that cupids may have also been associated with fishing generally. The fact that a cupid is shown near the female figure, therefore, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "bbe3b90c-08e2-4190-b80c-cd067ddfd0f2",
+  "parenttemplatename": "OSP-004-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d17419de-663c-4828-a1f3-e0078a9fcb6a",
+      "content": "<p>is not conclusive evidence that the figure is Venus.</p>"
+    },
+    {
+      "id": "32192185-bf4d-4e6b-a680-6817a1055e47",
+      "content": "<p>suggests that Venus was often depicted fishing.</p>"
+    },
+    {
+      "id": "5163387c-9b1a-434d-9a05-1af446766215",
+      "content": "<p>eliminates the possibility that the figure is Venus.&nbsp;</p>"
+    },
+    {
+      "id": "6dfdb26a-a914-4a24-9dae-e56b4e368861",
+      "content": "<p>would be difficult to account for if the figure is not Venus.&nbsp;</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "a0bb1dce-f9b7-4c1f-953e-573e8cc9cbae",
+  "keys": [
+    "0c484494-ccd4-4ea3-93a8-f4b3436367a9"
+  ],
+  "rationale": "<p>Choice A is the best answer because as used in the text, \"rough\" most nearly means harsh, or forceful and unpleasant. The text describes Mary&rsquo;s surroundings as she plays: the sun is out and there&rsquo;s \"a little wind.\" To further illustrate the wind, the narrator contrasts the word \"rough\" with a description of the wind blowing in \"delightful little gusts,\" suggesting that the wind is not unpleasant or harsh at all.</p><p>Choice B is incorrect. Although in some contexts \"rough\" objects, or objects with irregular surfaces, can sometimes be scratchy, rough doesn&rsquo;t mean scratchy in this context. The text explains that the wind is not rough but rather gentle, \"delightful little gusts,\" which suggests that the use of \"rough\" here is referring to the degree of force of the wind. Choice C is incorrect because there&rsquo;s nothing in the text to suggest that the wind wasn&rsquo;t \"basic,\" or simple and uncomplicated. Instead, the text describes the wind as blowing not roughly or harshly but in \"delightful little gusts.\" Choice D is incorrect because the word \"vague\" means not clearly expressed or seen. Nothing in the text indicates that the wind was barely noticeable to Mary as she played outside, but rather the text states that it was delightful.</p>",
+  "origin": "proteus",
+  "stem": "<p>As used in the text, what does the word &ldquo;rough&rdquo; most nearly mean?</p>",
+  "externalid": "df3063c9-79b5-4510-b41f-913071970103",
+  "stimulus": "<p>The following text is from Frances Hodgson Burnett&rsquo;s 1911 novel <em>The Secret Garden</em>. Mary, a young girl, is outside trying her new jump rope.</p>\n<blockquote>\n<p>The sun was shining and a little wind was blowing&mdash;not a <span role=\"region\" aria-label=\"Referenced Content\"><u>rough</u></span> wind, but one which came in delightful little gusts and brought a fresh scent of newly turned earth with it. She skipped round the fountain garden, and up one walk and down another.</p>\n</blockquote>",
+  "templateclusterid": "91c52d4b-7d45-44df-8557-1c043311475c",
+  "parenttemplatename": "OSP-035-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "0c484494-ccd4-4ea3-93a8-f4b3436367a9",
+      "content": "<p>Harsh</p>"
+    },
+    {
+      "id": "8d5c8ce2-593c-4528-9068-64484e180aae",
+      "content": "<p>Scratchy</p>"
+    },
+    {
+      "id": "8d22b026-dac3-4dd9-b805-9e2ae3522b35",
+      "content": "<p>Basic</p>"
+    },
+    {
+      "id": "4b9c1a09-51eb-4bbc-b0cb-237469044ac3",
+      "content": "<p>Vague</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

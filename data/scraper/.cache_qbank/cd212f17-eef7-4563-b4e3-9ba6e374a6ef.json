@@ -1,0 +1,38 @@
+{
+  "vaultid": "a587b66c-cefd-4645-8083-ab7c94803fb9",
+  "keys": [
+    "c3b38992-dd35-4452-a857-198eeaf5f952"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of the play&rsquo;s effect on audiences. As used in this context, &ldquo;rousing&rdquo; means exciting or energizing. The text indicates that critics found the play to have &ldquo;the opposite effect&rdquo; on audiences of what the playwrights hoped for. The critics, the text says, thought the play was wearying rather than energizing to viewers. This context supports the idea that the playwrights hoped live performances of the play would be energizing, or rousing, to audiences. </p><p>Choice A is incorrect because there&rsquo;s no information in the text suggesting that the playwrights hoped live performances of the play would be &ldquo;multifaceted,&rdquo; or be varied or have many aspects. The text indicates that critics found the play to be wearying to audiences and that this was the opposite of what the playwrights hoped for. Multifaceted is not the opposite of wearying, but rousing is, which suggests that the playwrights hoped the play would be rousing.&nbsp;Choice B is incorrect because there&rsquo;s no information in the text suggesting that the playwrights hoped live performances of the play would be &ldquo;realistic,&rdquo; or lifelike or sensible. The text says that critics found the play to be wearying to audiences and that this was the opposite of what the playwrights hoped for. Realistic is not the opposite of wearying, but rousing is, which suggests that the playwrights hoped the play would be rousing.&nbsp;Choice D is incorrect because there&rsquo;s no information in the text suggesting that the playwrights hoped live performances of the play would be subtle, or complex or understated. The text says that critics found the play to be wearying to audiences and that this was the opposite of what the playwrights hoped for. Subtle is not the opposite of wearying, but rousing is, which suggests that the playwrights hoped the play would be rousing.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "cd212f17-eef7-4563-b4e3-9ba6e374a6ef",
+  "stimulus": "<p>Although the playwrights hoped that their play would be <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> when performed live, critics generally agreed that the production and performances had the opposite effect, wearying audiences instead of energizing them.</p>",
+  "templateclusterid": "f4e72d54-cea8-4f9f-8f20-a85f27b6ab94",
+  "parenttemplatename": "OSP-974-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d58eb469-e4b1-43ed-9e4f-983342f4bd93",
+      "content": "<p>multifaceted</p>"
+    },
+    {
+      "id": "241cd2fc-b44f-4e79-aee6-b62f89f5b59b",
+      "content": "<p>realistic</p>"
+    },
+    {
+      "id": "c3b38992-dd35-4452-a857-198eeaf5f952",
+      "content": "<p>rousing</p>"
+    },
+    {
+      "id": "b5c0be34-8027-4bd2-a24d-0dd218792eb8",
+      "content": "<p>subtle</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

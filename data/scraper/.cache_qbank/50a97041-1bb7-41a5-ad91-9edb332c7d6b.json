@@ -1,0 +1,38 @@
+{
+  "vaultid": "5ced755b-6122-45a1-addd-60159296a8c7",
+  "keys": [
+    "62f7c04b-2d40-453a-b45b-270f538d7d17"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most accurately states the main idea of the text. The text begins by stating that the Black Pearl orchestra performs classical music, and then goes on to explain that the orchestra offers an iConduct! program. According to the text, this program offers community members the opportunity to learn some basics about conducting and then apply what they learn by conducting the orchestra themselves. Thus, the main idea of the text is that community members can both listen to and participate in a classical music performance. </p><p>Choice A is incorrect. Although the text states that the Black Pearl orchestra is based in Philadelphia, it doesn&rsquo;t indicate that most of the music it plays was composed by Philadelphians. Choice B is incorrect. Although the text does state that Johnson founded the Black Pearl orchestra, this is just a detail and not the main focus of the text. Moreover, while the text does say that the orchestra sometimes plays music by Montgomery, it doesn&rsquo;t assert that the orchestra was founded solely for the purpose of performing Montgomery&rsquo;s work. Choice D is incorrect. Although the text explains that community members are invited to conduct the Black Pearl orchestra after participating in the iConduct! program, the text doesn&rsquo;t indicate that Johnson allows community members to do this for the specific purpose of showing how difficult the task is. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "externalid": "50a97041-1bb7-41a5-ad91-9edb332c7d6b",
+  "stimulus": "<p>Philadelphia&rsquo;s Black Pearl Chamber Orchestra, founded by Jeri Lynne Johnson, performs classical music, from well-known compositions by Beethoven to contemporary works by Jessie Montgomery. For the orchestra&rsquo;s iConduct! program, Johnson invites community members to learn some basic elements of conducting and then experience conducting the Black Pearl orchestra themselves.</p>",
+  "templateclusterid": "1dfd6c5e-8a2c-4934-b935-7e85a0fcb84d",
+  "parenttemplatename": "OSP-032-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "bd5302a1-b0e4-40f7-a7ca-bd575db2e8ed",
+      "content": "<p>The Black Pearl orchestra performs music from all over the world but mostly performs music composed by Philadelphians.</p>"
+    },
+    {
+      "id": "c5e0f0f1-94be-4f90-955b-c9c0083453e7",
+      "content": "<p>Johnson founded the Black Pearl orchestra to perform classical music by contemporary artist Jessie Montgomery.&nbsp;</p>"
+    },
+    {
+      "id": "62f7c04b-2d40-453a-b45b-270f538d7d17",
+      "content": "<p>The Black Pearl orchestra gives community members the chance to both listen to and participate in classical music performance.&nbsp;</p>"
+    },
+    {
+      "id": "ff13b1cf-8a2a-4515-96c3-494b770c76ec",
+      "content": "<p>Johnson has community members conduct an orchestra to demonstrate how difficult the task is.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

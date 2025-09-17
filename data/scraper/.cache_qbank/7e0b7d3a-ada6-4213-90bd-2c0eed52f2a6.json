@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Taking photographs in the mid-1800s was complicated and expensive, but this changed with the <span data-ssml-say-as=\"date\">1854</span> invention of the <span lang=\"fr\"><em>carte de visite</em></span>, a small photo that cost little to make. <span lang=\"fr\"><em>Carte de visite</em></span> photos helped to <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> photography: they made it easy and enjoyable for everyday people to have their pictures taken, and people at the time loved exchanging these small<em> </em>photos with friends and family.</p>",
+  "keys": [
+    "ff065113-523f-48e1-ac22-9c58903a9819"
+  ],
+  "answerOptions": [
+    {
+      "id": "40ebcadd-bce0-471e-9b99-e9372599c5bc",
+      "content": "<p>weaken</p>"
+    },
+    {
+      "id": "5f1bcf44-6dde-41da-a3dd-61864d276f2a",
+      "content": "<p>praise</p>"
+    },
+    {
+      "id": "ff065113-523f-48e1-ac22-9c58903a9819",
+      "content": "<p>popularize</p>"
+    },
+    {
+      "id": "14b44fe9-b848-4bdb-b0ae-0d5785fc023e",
+      "content": "<p>isolate</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of <em><span lang=\"fr\">carte de visite</span></em> photos. To \"popularize\" a technology is to allow it to be used and appreciated widely. The text explains that unlike the photos produced by earlier forms of photographic technology, <em><span lang=\"fr\">carte de visite</span></em> photos were inexpensive and could easily be obtained by \"everyday people,\" who enjoyed exchanging the images. Therefore, <em><span lang=\"fr\">carte de visite</span></em> photos helped popularize photography.</p><p>Choice A is incorrect because the text indicates that instead of weakening the emerging technology of photography, <em><span lang=\"fr\">carte de visite</span></em> photos allowed it to be more widely accessed and enjoyed by people. Choice B is incorrect. The text establishes that large numbers of people enjoyed using <em><span lang=\"fr\">carte de visite</span></em> photos, so it can be inferred that these photos caused photography to be praised, or celebrated. However, it wouldn&rsquo;t make sense to say that inanimate objects&mdash;in this case, photos&mdash;had praised photography; instead, <em><span lang=\"fr\">carte de visite</span></em> consumers themselves would have praised it. Choice D is incorrect because the text explains that rather than isolating photography, or limiting its availability, <em><span lang=\"fr\">carte de visite</span></em> technology made photography more widely accessible to people.</p>",
+  "externalid": "7e0b7d3a-ada6-4213-90bd-2c0eed52f2a6",
+  "correct_answer": [
+    "C"
+  ]
+}

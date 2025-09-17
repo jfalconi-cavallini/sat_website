@@ -1,0 +1,38 @@
+{
+  "vaultid": "a20dbde7-c598-492b-ad5c-956ea7fee863",
+  "keys": [
+    "6f35c026-dfa1-4431-b2e7-e65a9dcb70e7"
+  ],
+  "rationale": "<p>Choice A is the best answer. &ldquo;In addition&rdquo; logically signals that the detail in this sentence&mdash;that Coleridge-Taylor included traditional African music in his classical compositions&mdash;adds to the information in the previous sentence. Specifically, the previous sentence indicates one way in which Coleridge-Taylor emphasized his mixed-race ancestry, and the claim that follows indicates a second, additional way. </p><p>Choice B is incorrect because &ldquo;actually&rdquo; illogically signals that the detail in this sentence is surprising in light of the information in the previous sentence. Instead, the detail adds to the information, indicating a second, additional way in which Coleridge-Taylor emphasized his mixed-race ancestry. Choice C is incorrect because &ldquo;however&rdquo; illogically signals that the detail in this sentence contrasts with the information in the previous sentence. Instead, the detail adds to the information, indicating a second, additional way in which Coleridge-Taylor emphasized his mixed-race ancestry. Choice D is incorrect because &ldquo;regardless&rdquo; illogically signals that the detail in this sentence is true despite the information in the previous sentence. Instead, the detail adds to the information, indicating a second, additional way in which Coleridge-Taylor emphasized his mixed-race ancestry. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "6dbea806-7237-4202-a6ed-d4ab201a9cef",
+  "stimulus": "<p>Samuel Coleridge-Taylor was a prominent classical music composer from England who toured the US three times in the early 1900s. The child of a West African father and an English mother, Coleridge-Taylor emphasized his mixed-race ancestry. For example, he referred to himself as Anglo-African. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> he incorporated the sounds of traditional African music into his classical music compositions.</p>",
+  "templateclusterid": "72b68781-4d7b-43c1-8f7f-507d3473736a",
+  "parenttemplatename": "OSP-238-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "6f35c026-dfa1-4431-b2e7-e65a9dcb70e7",
+      "content": "<p>In addition,</p>"
+    },
+    {
+      "id": "55202922-2415-491a-9d49-90e391218e07",
+      "content": "<p>Actually,</p>"
+    },
+    {
+      "id": "cbca548e-5f83-47e1-be2c-d58b5b4fc4e5",
+      "content": "<p>However,</p>"
+    },
+    {
+      "id": "7d81d462-1c78-45c5-a7f5-d54f9ba4a0ed",
+      "content": "<p>Regardless,</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

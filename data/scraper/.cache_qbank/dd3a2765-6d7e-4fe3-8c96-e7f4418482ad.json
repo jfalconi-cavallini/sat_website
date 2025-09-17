@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>A turtle shell appears external to the animal, protecting its body like armor. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the shell is often incorrectly assumed to be an exoskeleton, a rigid outer casing like that of a crustacean or an insect, when in fact it is an endoskeleton, a part of the turtle&rsquo;s internal bone structure, more akin to a spine or a pair of ribs.</p>",
+  "type": "mcq",
+  "keys": [
+    "612bc1cf-b6c2-4e6e-908a-4a9bdfa80dd7"
+  ],
+  "answerOptions": [
+    {
+      "id": "132a3397-c1bf-4259-9f63-b5f6681532ce",
+      "content": "<p>That being said,</p>"
+    },
+    {
+      "id": "6bd3d6d2-15df-449d-aca7-fd075a154ae6",
+      "content": "<p>However,</p>"
+    },
+    {
+      "id": "61721487-5b03-4e40-9e2f-c456b2d6aea7",
+      "content": "<p>For instance,</p>"
+    },
+    {
+      "id": "612bc1cf-b6c2-4e6e-908a-4a9bdfa80dd7",
+      "content": "<p>Hence,</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. \"Hence\" logically signals that the information in this sentence about turtle shells&mdash;that people incorrectly assume they are exoskeletons&mdash;is a consequence of the shells appearing external to the animal.</p><p>Choice A is incorrect because \"that being said\" illogically signals that this sentence qualifies or contrasts with the previous information about turtle shells appearing external to the animal. Instead, it presents a consequence of that information. Choice B is incorrect because \"however\" illogically signals that this sentence contrasts with the previous information about turtle shells appearing external to the animal. Instead, it presents a consequence of that information. Choice C is incorrect because \"for instance\" illogically signals that this sentence provides an example supporting the previous information about turtle shells appearing external to the animal. Instead, it presents a consequence of that information.</p>",
+  "externalid": "dd3a2765-6d7e-4fe3-8c96-e7f4418482ad",
+  "correct_answer": [
+    "D"
+  ]
+}

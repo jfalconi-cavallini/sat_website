@@ -1,0 +1,38 @@
+{
+  "vaultid": "fc81aa32-304e-4fb6-8d6c-b93ca33f6ddb",
+  "keys": [
+    "8177baeb-cd45-4999-a043-738292075713"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice correctly uses a comma and the coordinating conjunction &ldquo;and&rdquo; to join the first main clause (&ldquo;He&hellip;1680&rdquo;) and the second main clause (&ldquo;as&hellip;time&rdquo;). </p><p>Choice A is incorrect because it results in a run-on sentence. The two main clauses are fused without punctuation and/or a conjunction. Choice B is incorrect because when coordinating two longer main clauses such as these, it&rsquo;s conventional to use a comma before the coordinating conjunction. Choice C is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "26edb161-36c0-40ea-89cd-588e9b2b1f31",
+  "stimulus": "<p>Po&rsquo;Pay was a Tewa leader from Ohkay Owingeh, a pueblo located about twenty-five miles north of present-day Santa Fe, New Mexico. He was instrumental in organizing the Pueblo Revolt of <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> as a result of his leadership, the Spanish colonizers were expelled from the region for a time.</p>",
+  "templateclusterid": "c483db47-73ba-4350-99d2-8578bb724da3",
+  "parenttemplatename": "OSP-750-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "7fc492fa-b2a9-4ec2-8b76-b556f5b0d825",
+      "content": "<p>1680</p>"
+    },
+    {
+      "id": "2b4e7807-ef8c-4e09-8ba0-ce0335415d53",
+      "content": "<p>1680 and</p>"
+    },
+    {
+      "id": "9569c604-53bc-4729-9a0f-2723ed02e820",
+      "content": "<p>1680,</p>"
+    },
+    {
+      "id": "8177baeb-cd45-4999-a043-738292075713",
+      "content": "<p>1680, and</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

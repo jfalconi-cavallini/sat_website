@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>In 1974, Mexican chemist Mario Molina and US chemist <span data-ssml-sub-alias=\"F\">F.</span> Sherwood Rowland discovered that chemicals called CFCs were harmful to the ozone layer. Their research was extremely influential in the fight against CFCs. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> it laid the foundation for a 1987 treaty that phased out the use of CFCs across the globe.</p>",
+  "keys": [
+    "b608d850-2190-445d-bec3-ff2a5ce1d522"
+  ],
+  "answerOptions": [
+    {
+      "id": "4ce906b2-6513-4c53-b1c5-8e58e954299f",
+      "content": "<p>Regardless,</p>"
+    },
+    {
+      "id": "b608d850-2190-445d-bec3-ff2a5ce1d522",
+      "content": "<p>Specifically,</p>"
+    },
+    {
+      "id": "69b6845a-6821-481f-9230-d0b65f4dd71c",
+      "content": "<p>However,</p>"
+    },
+    {
+      "id": "6d50a7cf-4473-4721-b3d6-701bef91e844",
+      "content": "<p>Earlier,</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. \"Specifically\" logically signals that the information in this sentence&mdash;that Molina and Rowland&rsquo;s research laid the foundation for a later treaty&mdash;provides specific, precise details elaborating on the previous sentence&rsquo;s more general claim about the influence of the research.</p><p>Choice A is incorrect because \"regardless\" illogically signals that the information in this sentence is true despite the previous sentence&rsquo;s claim about the influence of Molina and Rowland&rsquo;s research. Instead, this information&mdash;that the research laid the foundation for a later treaty&mdash;provides specific details elaborating on the previous claim. Choice C is incorrect because \"however\" illogically signals that the information in this sentence contrasts with the previous sentence&rsquo;s claim about the influence of Molina and Rowland&rsquo;s research. Instead, this information&mdash;that the research laid the foundation for a later treaty&mdash;provides specific details elaborating on the previous claim. Choice D is incorrect because \"earlier\" illogically signals that the information in this sentence occurred at a time before Molina and Rowland&rsquo;s research influenced the fight against CFCs. Instead, this information&mdash;that the research laid the foundation for a later treaty&mdash;provides specific details elaborating on the previous claim about the research&rsquo;s influence.</p>",
+  "externalid": "f55fa46e-58cd-4be5-b3be-09243e83a490",
+  "correct_answer": [
+    "B"
+  ]
+}

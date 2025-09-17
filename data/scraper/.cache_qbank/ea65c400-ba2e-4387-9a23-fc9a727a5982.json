@@ -1,0 +1,38 @@
+{
+  "vaultid": "6ec56105-fac6-46e2-bfca-626cc5a91c02",
+  "keys": [
+    "9f65cf66-d818-4715-8ce5-3838cc104f79"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most accurately states the main idea of the text. The text indicates that dog owners typically claim that some dog breeds are &ldquo;more likely than others to have particular personality traits.&rdquo; In other words, the text points out that a commonly held belief about dog breeds is that their personality traits are heritable. The text then states that Kathleen Morrill and colleagues undertook research about dog trait heritability and found that &ldquo;behavior varies widely among dogs of the same breed.&rdquo; Because Morrill and colleagues found evidence for variability rather than consistency in the behavior of dogs of the same breed, the statement that research fails to uphold a commonly held belief about dog breeds and behavior accurately reflects the main idea of the text. </p><p>Choice A is incorrect. Although the text mentions that humans have long intervened in dogs&rsquo; reproduction by intentionally crossbreeding certain dogs, it doesn&rsquo;t argue that such intervention is essential to the existence of dog breeds.&nbsp;Choice C is incorrect because the text doesn&rsquo;t discuss the popularity of any dog breeds; breeds are mentioned as having certain traits, but the text says nothing about the popularity of these breeds or traits. Choice D is incorrect. Although the text briefly mentions that Morrill and colleagues conducted a study about dog traits using both surveys and DNA sequencing, this is not the main focus of the text. The text concerns the study&rsquo;s results about the heritability of dog traits, not the particular methodology used by Morrill and colleagues. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "externalid": "ea65c400-ba2e-4387-9a23-fc9a727a5982",
+  "stimulus": "<p>Modern dog breeds are largely the result of 160 years of owners crossbreeding certain dogs in order to select for particular physical appearances. Owners often say that some breeds are also more likely than others to have particular personality traits&mdash;basset hounds are affectionate; boxers are easy to train&mdash;but Kathleen Morrill and colleagues found through a combination of owner surveys and DNA sequencing of 2,000 dogs that while physical traits are predictably heritable among purebred dogs, behavior varies widely among dogs of the same breed.</p>",
+  "templateclusterid": "dc626d70-69f7-4356-bac8-f300b8ab4b36",
+  "parenttemplatename": "OSP-039-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "56788abb-8cf1-48e8-ab65-becc67f575bd",
+      "content": "<p>Dog breeds would not exist without many years of human intervention in dogs&rsquo; reproduction.</p>"
+    },
+    {
+      "id": "9f65cf66-d818-4715-8ce5-3838cc104f79",
+      "content": "<p>Research fails to confirm a commonly held belief about dog breeds and behavior.</p>"
+    },
+    {
+      "id": "bce3ff6e-a974-47a8-92a2-75923ff92795",
+      "content": "<p>The dog breeds most popular among owners have often changed over the past 160 years.</p>"
+    },
+    {
+      "id": "f27e6d10-ed66-4ac0-a731-da3b96c8662e",
+      "content": "<p>A study of dog breeds is notable for its usage of both opinion surveys and DNA sequencing.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "17bb6acf-9a9b-4213-9cc4-96cf89fe9eaf",
+  "keys": [
+    "a3d427c1-98fa-4950-9f1e-7e3f915d6d8f"
+  ],
+  "rationale": "<p>Choice A is the best answer because it presents the quotation that best illustrates the journalist&rsquo;s claim. By indicating that a collective didn&rsquo;t continue because it was hard to share credit and responsibilities within the group even though the company was enjoyable, the quotation shows that working collaboratively can be difficult for artists who are used to having complete control over their work. </p><p>Choice B is incorrect because the quotation indicates that members of a collective are able to collaborate together and have agreed on a fair way to manage their responsibilities; this doesn&rsquo;t demonstrate the challenge of sharing control among members of a collective. Choice C is incorrect because the quotation highlights the support and encouragement of individual expression an artist experiences due to working in a collective; these positive aspects don&rsquo;t demonstrate the challenge of sharing control among members of a collective. Choice D is incorrect because the quotation doesn&rsquo;t address any challenges of sharing control among members of a collective; it simply indicates that artists sometimes choose to work with collectives without having to be a member. Therefore, the quotation doesn&rsquo;t illustrate the journalist&rsquo;s claim.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which quotation from the interviews best illustrates the journalist&rsquo;s claim?</p>",
+  "externalid": "bf4990d3-7a3a-49ff-b7dc-8ba4cf811d16",
+  "stimulus": "<p>Art collectives, like the United States- and Vietnam-based collective The Propeller Group or Cuba&rsquo;s Los Carpinteros, are groups of artists who agree to work together: perhaps for stylistic reasons, or to advance certain shared political ideals, or to help mitigate the costs of supplies and studio space. Regardless of the reasons, art collectives usually involve some collaboration among the artists. Based on a recent series of interviews with various art collectives, an arts journalist claims that this can be difficult for artists who are often used to having sole control over their work.</p>",
+  "templateclusterid": "17ce3a35-61d7-4f1a-bce3-c6328ca10743",
+  "parenttemplatename": "OSP-308-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "a3d427c1-98fa-4950-9f1e-7e3f915d6d8f",
+      "content": "<p>&ldquo;The first collective I joined included many amazingly talented artists, and we enjoyed each other&rsquo;s company, but because we had a hard time sharing credit and responsibility for our work, the collective didn&rsquo;t last.&rdquo;&nbsp;</p>"
+    },
+    {
+      "id": "afa29749-f4be-438e-b501-760b96758925",
+      "content": "<p>&ldquo;We work together, but that doesn&rsquo;t mean that individual projects are equally the work of all of us. Many of our projects are primarily the responsibility of whoever originally proposed the work to the group.&rdquo;</p>"
+    },
+    {
+      "id": "d67f753a-939c-4bfb-850f-29966c9f548f",
+      "content": "<p>&ldquo;Having worked as a member of a collective for several years, it&rsquo;s sometimes hard to recall what it was like to work alone without the collective&rsquo;s support. But that support encourages my individual expression rather than limits it.&rdquo;</p>"
+    },
+    {
+      "id": "744c90f6-98e3-4cd1-9f45-d2c3f9d7f9f5",
+      "content": "<p>&ldquo;Sometimes an artist from outside the collective will choose to collaborate with us on a project, but all of those projects fit within the larger themes of the work the collective does on its own.&rdquo;</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

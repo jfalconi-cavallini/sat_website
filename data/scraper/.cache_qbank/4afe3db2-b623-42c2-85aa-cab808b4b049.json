@@ -1,0 +1,38 @@
+{
+  "vaultid": "3e7df5bd-934f-4880-b427-39b276d3fa5b",
+  "keys": [
+    "9f5b7817-fdeb-4e5e-a966-749b92deb4e1"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of Helen Liu Fong&rsquo;s architectural designs. In this context, &ldquo;traditional&rdquo; means conventional. The text states that rather than use &ldquo;standard shapes and colors,&rdquo; Fong pursued &ldquo;innovative&rdquo; and &ldquo;daring&rdquo; design choices in her work. Fong&rsquo;s style is depicted as inventive, so it therefore makes sense in this context that she avoided mainstream, traditional designs in her buildings.&nbsp;</p><p>Choice A is incorrect because the text indicates that Fong&rsquo;s work is innovative and experimental. Thus, Fong&rsquo;s design choices could reasonably be considered creative, or original. She likely would have pursued creative designs, not avoided them. Choice B is incorrect because the text indicates that Fong used &ldquo;daring&rdquo; hues in her designs. Thus, Fong likely would have pursued bold, or brave and vivid design choices; she wouldn&rsquo;t have avoided them. Choice D is incorrect because the text doesn&rsquo;t address whether Fong&rsquo;s designs are understandable, or reasonable or expected. The text focuses on certain characteristics of Fong&rsquo;s designs, not on how people received or understood them. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "4afe3db2-b623-42c2-85aa-cab808b4b049",
+  "stimulus": "<p>As an architect in Los Angeles in the 1950s, Helen Liu Fong became known for avoiding <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> designs in her buildings. Instead of using standard shapes and colors, she typically explored innovative forms and daring hues.</p>",
+  "templateclusterid": "de9651ac-7e95-407c-93c6-8256fc450885",
+  "parenttemplatename": "OSP-024-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "8d54ae8f-f761-4e81-aa69-1deed3969dee",
+      "content": "<p>creative</p>"
+    },
+    {
+      "id": "4f8f2bd8-fe66-4944-9791-a5f1bbb71c06",
+      "content": "<p>bold</p>"
+    },
+    {
+      "id": "9f5b7817-fdeb-4e5e-a966-749b92deb4e1",
+      "content": "<p>traditional</p>"
+    },
+    {
+      "id": "3af8341c-647e-4294-bb08-70c60830e40a",
+      "content": "<p>understandable</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

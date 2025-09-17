@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "stimulus": "<p>The following text is from Ahmet Hamdi Tanpinar&rsquo;s 1961 novel <em>The Time Regulation Institute</em> (translated from the Turkish in 2014 by Maureen Freely and Alexander Dawe). The narrator was once involved with the Time Regulation Institute, a fictional bureaucracy that regulates the time of Turkey&rsquo;s clocks.</p>\n<blockquote>\n<p>I may be the most humble and absurd man in the world and, as my wife says, the most slovenly creature you may ever meet&mdash;that is, before the founding of our institute&mdash;but I did come to know a truly great man who possessed a natural genius for invention. I spent years at his side. I watched the way he worked. I witnessed how an idea would suddenly catch fire in his mind and take shape, like a tree sprouting shoots and branches, before coming into being.</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;2014 by Maureen Freely and Alexander Dawe</span></p>",
+  "type": "mcq",
+  "keys": [
+    "b0834868-998a-483f-868a-2b3601313cd1"
+  ],
+  "answerOptions": [
+    {
+      "id": "26387729-5631-44b1-8105-b330b7f00738",
+      "content": "<p>A person was fortunate enough to have found love despite his obvious shortcomings.</p>"
+    },
+    {
+      "id": "68e442ca-522d-400f-8702-ea50fc341d4f",
+      "content": "<p>An exceptionally talented person professes humility to avoid intimidating others.</p>"
+    },
+    {
+      "id": "b0834868-998a-483f-868a-2b3601313cd1",
+      "content": "<p>A person appreciates the extensive time he passed in the company of someone he deeply admired.</p>"
+    },
+    {
+      "id": "071abc0a-64b6-4039-a974-4c403de26e54",
+      "content": "<p>A truly brilliant person lets ideas mature in his mind before expressing them aloud.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most accurately describes the main idea of the text: a person appreciates the extensive time he passed in the company of a man he deeply admired. The speaker says that he spent \"years\" (a long period of time) in the company of a \"truly great man\" with \"a natural genius for invention.\" These phrases indicate the speaker&rsquo;s feelings of admiration.</p><p>Choice A is incorrect because though the text indicates that the speaker feels professional admiration for the \"truly great man,\" the text does not indicate that the speaker feels love for him; nor does the text indicate that the speaker&rsquo;s humility, absurdity, and slovenly nature proved to be an obstacle to this professional relationship. Choice B is incorrect because though the speaker describes himself as humble, the text does not indicate that he is exceptionally talented; nor does the text indicate that the \"truly great man\" professes humility or is concerned with whether he intimidates others. Choice D is incorrect because the text does not indicate how either the speaker or the \"truly great man\" express their ideas.</p>",
+  "externalid": "7e52fc97-3448-479e-8f83-6d659d404c11",
+  "correct_answer": [
+    "C"
+  ]
+}

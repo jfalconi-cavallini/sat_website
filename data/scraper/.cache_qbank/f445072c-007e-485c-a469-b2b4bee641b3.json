@@ -1,0 +1,38 @@
+{
+  "vaultid": "5568d3fc-cafd-4223-948f-df6f11e51500",
+  "keys": [
+    "c79b3f8a-9989-472c-bc2b-95a5b7eb2617"
+  ],
+  "rationale": "<p>Choice C is the best answer because it presents the finding that, if true, would best support Suarez, P&eacute;rez-Huerta, and Harrell&rsquo;s claim about mosasaurs. The text states that Suarez, P&eacute;rez-Huerta, and Harrell&rsquo;s research on mosasaur tooth enamel led them to conclude that mosasaurs were endothermic, which means that they could live in waters at many different temperatures and still maintain a stable body temperature. The researchers claim that endothermy enabled mosasaurs to live in relatively cold waters near the poles. If several mosasaur fossils have been found in areas that were near the poles during the period when mosasaurs were alive and fossils of nonendothermic marine reptiles are rare in such locations, that would support the researchers&rsquo; claim: it would show that mosasaurs inhabited polar waters but nonendothermic marine mammals tended not to, suggesting that endothermy may have been the characteristic that enabled mosasaurs to include polar waters in their range. </p><p>Choice A is incorrect because finding that it&rsquo;s easier to determine mosasaur body temperatures from tooth enamel data than it is to determine nonendothermic reptile body temperatures wouldn&rsquo;t support the researchers&rsquo; claim. Whether one research process is more difficult than another indicates nothing about the results of those processes and therefore is irrelevant to the issue of where mosasaurs lived and what enabled them to live in those locations.&nbsp;\n&nbsp;Choice B is incorrect because finding roughly equal numbers of mosasaur and nonendothermic marine reptile fossils in areas that were near the poles in the Late Cretaceous would suggest that endothermy didn&rsquo;t give mosasaurs any particular advantage when it came to expanding their range to include relatively cold polar waters, thereby weakening the researchers&rsquo; claim rather than supporting it. Choice D is incorrect because finding that the temperature of seawater in the Late Cretaceous was warmer than seawater today wouldn&rsquo;t weaken the researchers&rsquo; claim. Seawater in the Late Cretaceous could have been warmer than seawater today but still cold enough for endothermy to be advantageous to mosasaurs, so this finding wouldn&rsquo;t provide enough information to either support or weaken the researchers&rsquo; claim. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which finding, if true, would most directly support Suarez, P&eacute;rez-Huerta, and Harrell&rsquo;s claim?</p>",
+  "externalid": "f445072c-007e-485c-a469-b2b4bee641b3",
+  "stimulus": "<p>Mosasaurs were large marine reptiles that lived in the Late Cretaceous period, approximately 100 million to 66 million years ago. Celina Suarez, Alberto P&eacute;rez-Huerta, and T. Lynn Harrell Jr. examined oxygen-18 isotopes in mosasaur tooth enamel in order to calculate likely mosasaur body temperatures and determined that mosasaurs were endothermic&mdash;that is, they used internal metabolic processes to maintain a stable body temperature in a variety of ambient temperatures. Suarez, P&eacute;rez-Huerta, and Harrell claim that endothermy would have enabled mosasaurs to include relatively cold polar waters in their range.</p>",
+  "templateclusterid": "babb6095-3b3c-4dda-986e-620490c204d1",
+  "parenttemplatename": "OSP-311-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "7131ae0e-67cf-4bf7-8e11-e3b11f8d8108",
+      "content": "<p>Mosasaurs&rsquo; likely body temperatures are easier to determine from tooth enamel oxygen-18 isotope data than the body temperatures of nonendothermic Late Cretaceous marine reptiles are.</p>"
+    },
+    {
+      "id": "ef14ca93-169a-4a44-bf1a-d1a85b1596d0",
+      "content": "<p>Fossils of both mosasaurs and nonendothermic marine reptiles have been found in roughly equal numbers in regions known to be near the poles during the Late Cretaceous, though in lower concentrations than elsewhere.</p>"
+    },
+    {
+      "id": "c79b3f8a-9989-472c-bc2b-95a5b7eb2617",
+      "content": "<p>Several mosasaur fossils have been found in regions known to be near the poles during the Late Cretaceous, while relatively few fossils of nonendothermic marine reptiles have been found in those locations.&nbsp;</p>"
+    },
+    {
+      "id": "1bef58db-8fc0-42ec-b481-2439dcbba94e",
+      "content": "<p>During the Late Cretaceous, seawater temperatures were likely higher throughout mosasaurs&rsquo; range, including near the poles, than seawater temperatures at those same latitudes are today.&nbsp;</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

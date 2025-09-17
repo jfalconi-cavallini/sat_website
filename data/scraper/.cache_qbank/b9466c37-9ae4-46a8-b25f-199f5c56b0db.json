@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>The works of Chicana artist Ester Hernandez are now <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in museums both in the United States and abroad, but the murals she contributed to as a member of Las Mujeres Muralistas early in her artistic career were displayed in outdoor public spaces across San Francisco.</p>",
+  "type": "mcq",
+  "keys": [
+    "d64efb0c-8ecb-4e5a-8134-5237dbd5d05e"
+  ],
+  "answerOptions": [
+    {
+      "id": "b43ec14e-067e-4b14-a5e4-2b3cab0342a0",
+      "content": "<p>invented</p>"
+    },
+    {
+      "id": "59d968a2-4a43-418f-a9bb-0ed9aeaeefa6",
+      "content": "<p>adjusted</p>"
+    },
+    {
+      "id": "d64efb0c-8ecb-4e5a-8134-5237dbd5d05e",
+      "content": "<p>featured</p>"
+    },
+    {
+      "id": "053c4950-a26c-4a3b-add1-ec2314af3cda",
+      "content": "<p>recommended</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of Ester Hernandez&rsquo;s art. In this context, \"featured\" means shown prominently. The text focuses on where Hernandez&rsquo;s works have been and continue to be displayed, explaining that her early works, which consisted of murals, could be viewed in outdoor spaces in San Francisco. The central contrast developed in the text is between where her early works could be viewed and where her works can be viewed now, which is in museums across the United States and around the world. The context therefore supports the idea that Hernandez&rsquo;s works are now shown, or featured, in museums globally.</p><p>Choice A is incorrect because in this context \"invented\" would mean created something for the first time, which isn&rsquo;t supported since the text doesn&rsquo;t discuss where Hernandez creates her works or whether they&rsquo;re original or innovative. Choice B is incorrect because \"adjusted\" in this context would mean adapted. Although the text mentions that many of Hernandez&rsquo;s early works were outdoor murals and thus it may be reasonable to infer that Hernandez altered her approach to creating art so that her works could be displayed in indoor venues instead, the text makes no mention of how Hernandez&rsquo;s works might have been adapted for such venues. The text focuses on where Hernandez&rsquo;s works have been and continue to be displayed, not on how she or anyone else may have adapted, or adjusted, her works. Choice D is incorrect because \"recommended\" in this context would mean endorsed or put forth as a suggestion for something that is worth seeing. Although it may be reasonable to say that in choosing to display certain works, museum curators believe such works are worth seeing, the text doesn&rsquo;t discuss the reasons why museums display Hernandez&rsquo;s works. Instead, the text mainly develops a contrast between where Hernandez&rsquo;s early works could once be viewed and where her work can be viewed now.</p>",
+  "externalid": "b9466c37-9ae4-46a8-b25f-199f5c56b0db",
+  "correct_answer": [
+    "C"
+  ]
+}

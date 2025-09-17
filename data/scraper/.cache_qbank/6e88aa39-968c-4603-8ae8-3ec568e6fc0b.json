@@ -1,0 +1,38 @@
+{
+  "vaultid": "aef6d76c-9d2a-48d6-99c3-603ad9844e7b",
+  "keys": [
+    "bfdb9239-c491-4297-b1f4-ff7380ce56d0"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most accurately describes the main purpose of the text. The text begins by noting that Anne &ldquo;reveled in the world of color about her&rdquo;&mdash;that is, she takes great delight in colorful things. It then relates a scene when she enthusiastically enters the house with autumn foliage and announces that she will decorate her room with it. The focus of the text then shifts to Marilla, who has an undeveloped &ldquo;aesthetic sense,&rdquo; or appreciation of beauty, as can be seen when she dismisses the maple leaves as &ldquo;messy things&rdquo; and criticizes Anne for cluttering her room with objects from outside. This episode thus illustrates that Anne and Marilla differ in their appreciation of beauty and, more generally, in their basic character: Anne is exuberant and joyful, while Marilla is stern and critical. Therefore, the purpose of the text is to show that Anne and Marilla have very different personalities. </p><p>Choice A is incorrect because the text presents Anne&rsquo;s appreciation of nature as a basic personality trait, not as a newfound enthusiasm, and never indicates how recently she developed that appreciation. Choice B is incorrect. Although the text portrays Anne and Marilla as having different personalities and attitudes toward natural beauty and home decoration, it doesn&rsquo;t show them engaging in an argument about this difference or suggest that they often argue about it. Choice C is incorrect. Although the text does indicate that Marilla disapproves of how Anne plans to decorate her room, Marilla&rsquo;s disapproval is a supporting detail that serves to develop her personality, which the text as a whole contrasts with Anne&rsquo;s personality. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "externalid": "6e88aa39-968c-4603-8ae8-3ec568e6fc0b",
+  "stimulus": "<p>The following text is from Lucy Maud Montgomery&rsquo;s 1908 novel <em>Anne of Green Gables</em>. Anne, an eleven-year-old girl, has come to live on a farm with a woman named Marilla in Nova Scotia, Canada.</p>\n<blockquote>\n<p>&nbsp;Anne reveled in the world of color about her.</p>\n<p>&ldquo;Oh, Marilla,&rdquo; she exclaimed one Saturday morning, coming dancing in with her arms full of gorgeous boughs, &ldquo;I&rsquo;m so glad I live in a world where there are Octobers. It would be terrible if we just skipped from September to November, wouldn&rsquo;t it? Look at these maple branches. Don&rsquo;t they give you a thrill&mdash;several thrills? I&rsquo;m going to decorate my room with them.&rdquo;</p>\n<p>&ldquo;Messy things,&rdquo; said Marilla, whose aesthetic sense was not noticeably developed. &ldquo;You clutter up your room entirely too much with out-of-doors stuff, Anne. Bedrooms were made to sleep in.&rdquo;</p>\n</blockquote>",
+  "templateclusterid": "769ecf2d-4b5a-4b99-9eb4-ea4f7c76301c",
+  "parenttemplatename": "OSP-023-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "39736276-fbc7-4e8d-97ad-5c22324f8f68",
+      "content": "<p>To demonstrate that Anne has a newly developed appreciation of nature</p>"
+    },
+    {
+      "id": "42646366-f0d8-4fcd-bf80-5f99bb2d2c2f",
+      "content": "<p>To describe an argument that Anne and Marilla often have</p>"
+    },
+    {
+      "id": "0c6f3e08-f431-4c22-9b52-20b72c76c156",
+      "content": "<p>To emphasize Marilla&rsquo;s disapproval of how Anne has decorated her room</p>"
+    },
+    {
+      "id": "bfdb9239-c491-4297-b1f4-ff7380ce56d0",
+      "content": "<p>To show that Anne and Marilla have very different personalities</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

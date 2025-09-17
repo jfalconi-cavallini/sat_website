@@ -1,0 +1,38 @@
+{
+  "vaultid": "8697001d-2b48-4422-92a3-39a09ab921b4",
+  "keys": [
+    "86766cc2-4bfe-42e9-941e-6ef3af823c89"
+  ],
+  "rationale": "<p>Choice C is the best answer because as used in the text, &ldquo;beckoning&rdquo; most nearly means &ldquo;inviting,&rdquo; or attractive. The text portrays a woman who is looking at &ldquo;trees in their spring beauty.&rdquo; She compares them to cities, which have their own pleasures even if they do not have the &ldquo;easy unhuman loveliness&rdquo; of trees: she thinks of cities as &ldquo;seductive&rdquo; and &ldquo;charming,&rdquo; both adjectives that signify something that is enticing, or attractive. Therefore, cities that are seductive and charming would also be described as inviting people closer to them. </p><p>Choice A is incorrect because there is no indication in this context that cities are &ldquo;demanding,&rdquo; or requiring effort. Choice B is incorrect. Though &ldquo;signaling,&rdquo; or communicating something, might be considered a key feature of the act of &ldquo;beckoning,&rdquo; in the context here, &ldquo;beckoning&rdquo; suggests that cities have attractive qualities that naturally draw people to them. Such attractive qualities are not described by the word &ldquo;signaling&rdquo; alone. Therefore, &ldquo;signaling&rdquo; is an incorrect answer because it is insufficiently precise. Choice D is incorrect because there is no reason to think in this context that the cities are &ldquo;shifting,&rdquo; or changing shape. </p>",
+  "origin": "proteus",
+  "stem": "<p>As used in the text, what does the word &ldquo;beckoning&rdquo; most nearly mean?</p>",
+  "externalid": "34595d00-e2e3-49d2-9ab1-7f222dc78786",
+  "stimulus": "<p>The following text is from Nella Larsen&rsquo;s 1928 novel <em>Quicksand</em>.</p>\n<blockquote>\n<p>The trees in their spring beauty sent through her restive mind a sharp thrill of pleasure. Seductive, charming, and <span role=\"region\" aria-label=\"Referenced Content\"><u>beckoning</u></span> as cities were, they had not this easy unhuman loveliness.</p>\n</blockquote>",
+  "templateclusterid": "cc0f5905-c9cb-4eb5-9322-da8f0e0094cb",
+  "parenttemplatename": "OSP-008-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "00456315-95a2-442b-8bbb-8fbed9ac878c",
+      "content": "<p>Demanding</p>"
+    },
+    {
+      "id": "a41f8ce8-2dd5-47db-abf0-e5ab27985cdb",
+      "content": "<p>Signaling</p>"
+    },
+    {
+      "id": "86766cc2-4bfe-42e9-941e-6ef3af823c89",
+      "content": "<p>Inviting</p>"
+    },
+    {
+      "id": "5e960db5-6fb7-4033-8003-3209a02b301b",
+      "content": "<p>Shifting</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

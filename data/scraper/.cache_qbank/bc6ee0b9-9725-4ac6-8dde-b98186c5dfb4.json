@@ -1,0 +1,38 @@
+{
+  "vaultid": "c725315b-5043-4999-8300-3e04d89a924c",
+  "keys": [
+    "8f07e0aa-e0bf-49b6-966b-8cc064bd8e34"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately states the main purpose of the text. After providing a brief introduction to computer scientist Luis von Ahn, the text focuses on discussing how von Ahn&rsquo;s digitization work led to the invention of a digital security test known as reCAPTCHA. </p><p>Choice B is incorrect because the text doesn&rsquo;t address how digital scanners work. Choice C is incorrect. Although the text mentions von Ahn&rsquo;s book-digitizing project, that information is provided as a detail, not as the main purpose of the text. Choice D is incorrect because the text doesn&rsquo;t provide any indication of reCAPTCHA&rsquo;s popularity; instead, it describes reCAPTCHA&rsquo;s origin. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "externalid": "bc6ee0b9-9725-4ac6-8dde-b98186c5dfb4",
+  "stimulus": "<p>In 2007, computer scientist Luis von Ahn was working on converting printed books into a digital format. He found that some words were distorted enough that digital scanners couldn&rsquo;t recognize them, but most humans could easily read them. Based on that finding, von Ahn invented a simple security test to keep automated &ldquo;bots&rdquo; out of websites. The first version of the reCAPTCHA test asked users to type one known word and one of the many words scanners couldn&rsquo;t recognize. Correct answers proved the users were humans and added data to the book-digitizing project.</p>",
+  "templateclusterid": "ad96eefe-ebe6-4181-8352-9450a2614dbe",
+  "parenttemplatename": "OSP-010-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "8f07e0aa-e0bf-49b6-966b-8cc064bd8e34",
+      "content": "<p>To discuss von Ahn&rsquo;s invention of reCAPTCHA</p>"
+    },
+    {
+      "id": "512d7a53-695b-48aa-8b54-a29170dd65af",
+      "content": "<p>To explain how digital scanners work</p>"
+    },
+    {
+      "id": "792e9285-1c79-4819-a6c7-f871ab31c6a1",
+      "content": "<p>To call attention to von Ahn&rsquo;s book-digitizing project</p>"
+    },
+    {
+      "id": "1a5c0681-3e32-46e8-b30b-dc1f3320c8d2",
+      "content": "<p>To indicate how popular reCAPTCHA is</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

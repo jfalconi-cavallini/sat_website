@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>The Coastal Virginia Offshore Wind project is anticipated to generate 2.6 gigawatts of energy, enough to power almost one million homes. As its name indicates, the project&mdash;currently in development&mdash;consists of wind turbines located off the Virginia coast. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the project plan calls for 176 large turbines to be placed at a site 27 miles east of Virginia Beach.</p>",
+  "keys": [
+    "ff1bcab1-fb69-48af-bb49-40a1a99b6969"
+  ],
+  "answerOptions": [
+    {
+      "id": "ff1bcab1-fb69-48af-bb49-40a1a99b6969",
+      "content": "<p>To be exact,</p>"
+    },
+    {
+      "id": "b3e9f974-1241-442b-a749-264f39a6060d",
+      "content": "<p>In conclusion,</p>"
+    },
+    {
+      "id": "c32c929a-f088-4cbd-a65b-5733159fc26e",
+      "content": "<p>As a result,</p>"
+    },
+    {
+      "id": "4561a6aa-15fc-4ff3-b8e5-7a4801c04106",
+      "content": "<p>In contrast,</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. \"To be exact\" logically signals that this sentence about the Coastal Virginia Offshore Wind project plan provides specific, precise details&mdash;number of turbines, location of site&mdash;elaborating on the more general information about the project in the previous sentence.</p><p>Choice B is incorrect because \"in conclusion\" illogically signals that the information in this sentence about the Coastal Virginia Offshore Wind project plan concludes or summarizes the discussion of the project in the previous sentences. Instead, the sentence provides specific, precise details elaborating on the previous information. Choice C is incorrect because \"as a result\" illogically signals that the information in this sentence about the Coastal Virginia Offshore Wind project plan is caused by, or occurs as a result of, the information about the project in the previous sentence. Instead, the sentence provides specific, precise details elaborating on the previous information. Choice D is incorrect because \"in contrast\" illogically signals that the information in this sentence about the Coastal Virginia Offshore Wind project plan contrasts with information about the project in the previous sentence. Instead, the sentence provides specific, precise details elaborating on the previous information.</p>",
+  "externalid": "2b9871d2-6c37-4b70-90c2-29d9b79984ab",
+  "correct_answer": [
+    "A"
+  ]
+}

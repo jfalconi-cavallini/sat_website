@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which question does the text most directly attempt to answer?</p>",
+  "stimulus": "<p>A contraction of &ldquo;you all,&rdquo; the pronoun &ldquo;y&rsquo;all&rdquo; has long been used as a plural version of &ldquo;you&rdquo; in the South and in Black communities around the US. In recent decades, most other English-speaking communities in the US have begun to use &ldquo;y&rsquo;all.&rdquo; What explains its rise in popularity? Many varieties of English have no pronoun that specifically addresses more than one person and instead must use &ldquo;you&rdquo; to address both one person and more than one. But &ldquo;y&rsquo;all&rdquo; always refers to two or more people. As a result, it conveys the speaker&rsquo;s meaning more precisely than &ldquo;you&rdquo; can.</p>",
+  "type": "mcq",
+  "keys": [
+    "e97e64ec-6124-41c1-aeb6-76edaf84932f"
+  ],
+  "answerOptions": [
+    {
+      "id": "fc435544-661f-4c03-ba75-8001a03b302d",
+      "content": "<p>How many other plural versions of the pronoun &ldquo;you&rdquo; are there in English, besides &ldquo;y&rsquo;all&rdquo;?</p>"
+    },
+    {
+      "id": "e97e64ec-6124-41c1-aeb6-76edaf84932f",
+      "content": "<p>Why has the pronoun &ldquo;y&rsquo;all&rdquo; become more widely used in the US?</p>"
+    },
+    {
+      "id": "e5f7748e-69dd-4aa6-bcd7-09a1c2029afc",
+      "content": "<p>When was the first recorded use of the pronoun &ldquo;y&rsquo;all&rdquo; in the English language?</p>"
+    },
+    {
+      "id": "cf5386b8-d32f-4aba-86c2-d143d8f624b3",
+      "content": "<p>Is &ldquo;y&rsquo;all&rdquo; commonly used in English-speaking regions of the world besides the US?</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it presents a question that the text is attempting to answer: why has the pronoun \"y&rsquo;all\" become more widely used in the US? The text begins by explaining where and how the plural pronoun \"y&rsquo;all\" originated and then goes on to state that its use has been rising in popularity, even in areas outside of its place of origin. The text then attributes this rise in popularity to the fact that many varieties of English do not have a pronoun to address more than one person, and thus \"you\" must function as both a singular and plural pronoun.</p><p>Choice A is incorrect because while the text states that \"y&rsquo;all\" is used as a plural of \"you\" in English, it does not discuss other plural forms of the word. Choice C is incorrect because while the text discusses the general origins of the pronoun \"y&rsquo;all,\" it does not state when the use of the pronoun was first recorded in the English language. Choice D is incorrect because though the text addresses the use of the pronoun \"y&rsquo;all\" within English-speaking communities in the US, it does not address its use outside of that geographic area.</p>",
+  "externalid": "30c2d8b8-5292-4af7-b701-0109496da1a5",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "283dc769-8e1e-4701-a1af-f059bcf02afd",
+  "keys": [
+    "6076cc27-371c-46c2-ae50-9d9f40a3fab6"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the research that Lopes-Ferreira and her colleagues are conducting on the stingray species <em>Potamotrygon rex.</em> As used in this context, &ldquo;a substantial&rdquo; effect means an effect that is sizable or noteworthy. The text indicates that the researchers are seeking to determine whether there are &ldquo;considerable variations&rdquo; in the potency of stingray venom that are associated with variation in the stingrays&rsquo; age and sex. This context suggests that the researchers want to find out whether stingray age and sex have a substantial effect on venom toxicity. </p><p>Choice A is incorrect because there&rsquo;s nothing in the text that suggests that the researchers have been studying whether the stingrays&rsquo; age and sex have &ldquo;a disconcerting,&rdquo; or an unsettling and disturbing, effect on the stingrays&rsquo; venom. The text indicates that the researchers wish to determine if stingray age and sex cause large variations in the toxicity of stingray venom, not if the effect of age and sex is disconcerting. Choice B is incorrect because the text indicates that researchers want to find out whether differences in stingray age and sex produce differences in stingray venom, not that the researchers want to find out whether age and sex have &ldquo;an acceptable,&rdquo; or a satisfactory, effect on venom. The text makes no mention of what would make an effect on venom toxicity acceptable and gives no indication that the researchers are interested in that question. Choice C is incorrect because it wouldn&rsquo;t make sense in context for the researchers to be looking for &ldquo;an imperceptible,&rdquo; or an unnoticeable, effect of age and sex on stingray venom. The text says that the researchers are trying to determine if there are &ldquo;considerable variations&rdquo; in venom toxicity linked to age and sex, not that the researchers are trying to find effects that they can&rsquo;t perceive. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "0ff467f3-58be-4ab7-9e76-c8c0d4ba2ee2",
+  "stimulus": "<p>M&ocirc;nica Lopes-Ferreira and others at Brazil&rsquo;s Butantan Institute are studying the freshwater stingray species <em>Potamotrygon rex</em> to determine whether biological characteristics such as the rays&rsquo; age and sex have <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> effect on the toxicity of their venom&mdash;that is, to see if differences in these traits are associated with considerable variations in venom potency.</p>",
+  "templateclusterid": "e4eddd9a-aa54-4515-8865-54becbe5b6d1",
+  "parenttemplatename": "OSP-933-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "b46f27ec-e313-49ab-963a-eb40f9c47f3f",
+      "content": "<p>a disconcerting</p>"
+    },
+    {
+      "id": "98d2ffd3-3818-4851-a72b-1a620829155e",
+      "content": "<p>an acceptable</p>"
+    },
+    {
+      "id": "f126b01d-bfa3-455c-b670-5cb49db58f6b",
+      "content": "<p>an imperceptible</p>"
+    },
+    {
+      "id": "6076cc27-371c-46c2-ae50-9d9f40a3fab6",
+      "content": "<p>a substantial</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

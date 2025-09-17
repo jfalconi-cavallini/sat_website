@@ -1,0 +1,38 @@
+{
+  "vaultid": "e8a33738-7bac-478f-8a3a-04c735d47cec",
+  "keys": [
+    "0b3c4eee-e40f-4e87-8c6c-4d2f571ff0de"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the use of verbs to express tense in a sentence. In this choice, the past tense verb &ldquo;vowed&rdquo; is consistent with the other past tense verbs (&ldquo;guided&rdquo; and &ldquo;upheld&rdquo;) used to narrate the events surrounding President Roosevelt&rsquo;s decision to conserve the nation&rsquo;s wilderness areas. </p><p>Choice A is incorrect because the present progressive tense verb &ldquo;is vowing&rdquo; isn&rsquo;t consistent with the past tense verbs used to narrate&nbsp;the events surrounding President Roosevelt&rsquo;s decision to conserve the nation&rsquo;s wilderness areas. Choice C is incorrect because the future tense verb &ldquo;will vow&rdquo; isn&rsquo;t consistent with the past tense verbs used to narrate&nbsp;the events surrounding President Roosevelt&rsquo;s decision to conserve the nation&rsquo;s wilderness areas. Choice D is incorrect because the simple present tense verb &ldquo;vows&rdquo; isn&rsquo;t consistent with the past tense verbs used to narrate&nbsp;the events surrounding President Roosevelt&rsquo;s decision to conserve the nation&rsquo;s wilderness areas. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "2a5f93a6-815c-478e-80c5-6726b61179d8",
+  "stimulus": "<p>In 1903, environmentalist John Muir guided President Theodore Roosevelt on a scenic, sprawling trip through California&rsquo;s Yosemite Valley. Upon returning from the three-day excursion, Roosevelt <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> to conserve the nation&rsquo;s wilderness areas, a vow he upheld for his remaining six years in office.</p>",
+  "templateclusterid": "36f019e7-4547-402c-8cd2-5b09675cd1ed",
+  "parenttemplatename": "OSP-763-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "4deb279d-6b84-429a-9ec2-b8632c0d0a9c",
+      "content": "<p>is vowing</p>"
+    },
+    {
+      "id": "0b3c4eee-e40f-4e87-8c6c-4d2f571ff0de",
+      "content": "<p>vowed</p>"
+    },
+    {
+      "id": "bc8c5401-d0bc-406f-9dec-173c63457ad1",
+      "content": "<p>will vow</p>"
+    },
+    {
+      "id": "57514955-024b-4f63-a100-9a3306537d83",
+      "content": "<p>vows</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

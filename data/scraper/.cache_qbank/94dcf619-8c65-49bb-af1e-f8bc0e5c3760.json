@@ -1,0 +1,38 @@
+{
+  "vaultid": "002eac6f-8ec8-461e-9698-29d07f99ce19",
+  "keys": [
+    "2fd0bc70-d43a-47b8-9c3d-2dbf0deee567"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of the artistic styles that have influenced Cannon&rsquo;s work. As used in this context, &ldquo;disparate&rdquo; means distinct or dissimilar. The text indicates that a tension exists among the styles that have influenced Cannon&rsquo;s work and goes on to describe how those styles differ: classic European portraiture favors realism, American pop art uses vivid colors, and intertribal flatstyle rejects the use of shading and perspective to achieve depth. This context suggests that the styles that have influenced Cannon&rsquo;s work are disparate.&nbsp;</p><p>Choice A is incorrect because the text indicates that there is a tension among the influences on Cannon&rsquo;s artwork, so it wouldn&rsquo;t make sense to say that the influences are &ldquo;complementary,&rdquo; or that they complete one another or make up for one another&rsquo;s deficiencies. Choice B is incorrect because it wouldn&rsquo;t make sense to characterize Cannon&rsquo;s influences as &ldquo;unknown,&rdquo; or not familiar; it&rsquo;s clear that the influences are known because the text goes on to list them. Choice D is incorrect because the text indicates that there is a tension among the influences on Cannon&rsquo;s work, not that they are&nbsp; &ldquo;interchangeable,&rdquo; or capable of being used in one another&rsquo;s place. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "94dcf619-8c65-49bb-af1e-f8bc0e5c3760",
+  "stimulus": "<p>The work of Kiowa painter T.C. Cannon derives its power in part from the tension among his <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> influences: classic European portraiture, with its realistic treatment of faces; the American pop art movement, with its vivid colors; and flatstyle, the intertribal painting style that rejects the effect of depth typically achieved through shading and perspective.</p>",
+  "templateclusterid": "f1d5dbc2-7e97-4d27-afdc-8bea560851c2",
+  "parenttemplatename": "OSP-940-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "b04e05f1-04da-429b-9663-88f5c248a775",
+      "content": "<p>complementary</p>"
+    },
+    {
+      "id": "b8cd6fb8-a92a-4f48-b728-904b30939a8a",
+      "content": "<p>unknown</p>"
+    },
+    {
+      "id": "2fd0bc70-d43a-47b8-9c3d-2dbf0deee567",
+      "content": "<p>disparate</p>"
+    },
+    {
+      "id": "7c463b3e-2209-46a3-a99f-49dcc0cc8133",
+      "content": "<p>interchangeable</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

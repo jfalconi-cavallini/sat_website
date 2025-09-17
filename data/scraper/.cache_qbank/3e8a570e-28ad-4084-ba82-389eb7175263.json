@@ -1,0 +1,38 @@
+{
+  "vaultid": "2caee384-7c6d-426b-8f3b-b513c793cadb",
+  "keys": [
+    "eb17bb92-0625-422c-808a-d357189c848c"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period after &ldquo;tombs&rdquo; is used correctly to mark the boundary between one sentence (&ldquo;Archaeologist...tombs&rdquo;) and another (&ldquo;Built...nature&rdquo;). </p><p>Choice B is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to mark the boundary between sentences. Choice C is incorrect. Without a comma preceding it, the conjunction &ldquo;and&rdquo; can&rsquo;t be used in this way to join the two sentences. Choice D is incorrect because it results in a run-on sentence. The sentences (&ldquo;Archaeologist...tombs&rdquo; and &ldquo;Built...nature&rdquo;) are fused without punctuation and/or a conjunction. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "3e8a570e-28ad-4084-ba82-389eb7175263",
+  "stimulus": "<p>Hegra is an archaeological site in present-day Saudi Arabia and was the second largest city of the Nabataean Kingdom (fourth century BCE to first century CE). Archaeologist Laila Nehm&eacute; recently traveled to Hegra to study its ancient <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> into the rocky outcrops of a vast desert, these burial chambers seem to blend seamlessly with nature.</p>",
+  "templateclusterid": "244de805-9209-4224-8225-7063f1989ce4",
+  "parenttemplatename": "OSP-662-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "eb17bb92-0625-422c-808a-d357189c848c",
+      "content": "<p>tombs. Built</p>"
+    },
+    {
+      "id": "0c45e757-d9ff-43da-a584-4f7aa08bd198",
+      "content": "<p>tombs, built</p>"
+    },
+    {
+      "id": "c8c75d81-bd51-4f09-90f3-c61125b997a7",
+      "content": "<p>tombs and built</p>"
+    },
+    {
+      "id": "a307ba53-bae9-4bbd-9059-937dee316a16",
+      "content": "<p>tombs built</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

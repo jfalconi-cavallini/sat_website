@@ -1,0 +1,38 @@
+{
+  "vaultid": "3992baf9-ac0b-4318-af5d-c93bbfb28c17",
+  "keys": [
+    "6c14d7be-8b32-4ff1-a1b9-76af6c627bd8"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately describes Gibson&rsquo;s approach to art. As the text explains, Gibson, who is Cherokee and Choctaw, transforms punching bags into art pieces by applying (or attaching) to them beadwork and elements of Native dressmaking, including leather fringe and the jingles of the jingle dress. The text goes on to say that in most Native communities, the art forms of beadwork and dressmaking are traditionally practiced by women. Therefore, Gibson&rsquo;s approach to art consists of creating original works by drawing from traditional Native art forms.</p><p>Choice B is incorrect. Because Gibson incorporates Native art forms into his own original artwork, it can be inferred that he has been influenced by other Native artists, but the text never suggests that non-Native artists have influenced him. Choice C is incorrect because the text doesn&rsquo;t indicate that Gibson designs dresses influenced by boxing but instead that he turns punching bags, which are used in boxing, into works of art by applying elements of Native dressmaking to them. Choice D is incorrect. Although Gibson does incorporate beadwork into his art, the text never mentions the colors or patterns that he uses or suggests that his art defies the expectations that people might have about color and pattern in beadwork.</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes Gibson&rsquo;s approach to art, as presented in the text?</p>",
+  "externalid": "85c19ad6-e14d-43d4-9d45-def4e74635b2",
+  "stimulus": "<p>Choctaw/Cherokee artist Jeffrey Gibson turns punching bags used by boxers into art by decorating them with beadwork and elements of Native dressmaking. These elements include leather fringe and jingles, the metal cones that cover the dresses worn in the jingle dance, a women&rsquo;s dance of the Ojibwe people. Thus, Gibson combines an object commonly associated with masculinity (a punching bag) with art forms traditionally practiced by women in most Native communities (beadwork and dressmaking). In this way, he rejects the division of male and female gender roles.</p>",
+  "templateclusterid": "ace3e439-d8fb-401d-9373-782fd90e91df",
+  "parenttemplatename": "OSP-002-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "6c14d7be-8b32-4ff1-a1b9-76af6c627bd8",
+      "content": "<p>He draws from traditional Native art forms to create his original works.</p>"
+    },
+    {
+      "id": "4d5f4002-140a-4a73-ad0b-d83a15da233f",
+      "content": "<p>He has been influenced by Native and non-Native artists equally.</p>"
+    },
+    {
+      "id": "d2e3d43d-ec18-4d97-a027-159ea51f76db",
+      "content": "<p>He finds inspiration from boxing in designing the dresses he makes.</p>"
+    },
+    {
+      "id": "3f6ce6ea-e31e-44e6-b121-315eae3e272f",
+      "content": "<p>He rejects expectations about color and pattern when incorporating beadwork.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

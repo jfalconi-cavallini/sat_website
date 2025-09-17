@@ -1,0 +1,38 @@
+{
+  "vaultid": "70f7b390-f24a-425b-925e-490a866e9cef",
+  "keys": [
+    "014cc17f-7a4e-46b5-8851-713494c6e198"
+  ],
+  "rationale": "<p>Choice C is the best answer because it gives the age for the fossil discovered by Wang and colleagues that is directly supported by the text. According to the text, Xin Wang and colleagues discovered a 164-million-year-old plant fossil. This plant fossil included a flower bud, which the researchers believe provides evidence that flowering plants emerged in the Jurassic period, which falls between 145 million and 201 million years ago. </p><p>Choice A is incorrect because the text states that Wang and colleagues discovered a 164-million-year-old flowering plant fossil in China, not one that is 150 million years old. Although 150 million years ago would fall within the Jurassic period, according to the text it isn&rsquo;t the age of the discovered fossil. Choice B is incorrect because the text states that Wang and colleagues discovered a 164-million-year-old flowering plant fossil in China, not one that is 145 million years old. Although 145 million years ago would fall at the end of the Jurassic period, according to the text it isn&rsquo;t the age of the discovered fossil. Choice D is incorrect because the text states that Wang and colleagues discovered a 164-million-year-old flowering plant fossil in China, not one that is 201 million years old. Although 201 million years ago would fall at the beginning of the Jurassic period, according to the text it isn&rsquo;t the age of the discovered fossil. </p>",
+  "origin": "proteus",
+  "stem": "<p>According to the text, how old was the fossil that Wang and colleagues discovered?</p>",
+  "externalid": "ddcb39de-3d58-4bc6-a2a2-0acfe8437055",
+  "stimulus": "<p>Xin Wang and colleagues have discovered the earliest known example of a flower bud in a 164-million-year-old plant fossil in China. The researchers have named the new species <em>Florigerminis jurassica. </em>They believe that the discovery pushes the emergence of flowering plants, or angiosperms, back to the Jurassic period, which occurred between 145 million and 201 million years ago.</p>",
+  "templateclusterid": "f346a3c6-5dfa-4bdc-b107-8099c5576a7e",
+  "parenttemplatename": "OSP-031-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "ef320bdf-412c-4e76-ae68-397d46457de1",
+      "content": "<p>150 million years old</p>"
+    },
+    {
+      "id": "07f9cedf-45f2-416a-9da0-d14d08321ed8",
+      "content": "<p>145 million years old</p>"
+    },
+    {
+      "id": "014cc17f-7a4e-46b5-8851-713494c6e198",
+      "content": "<p>164 million years old</p>"
+    },
+    {
+      "id": "af5c4eba-bed6-4abe-83b2-f1c67b18d2f9",
+      "content": "<p>201 million years old</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

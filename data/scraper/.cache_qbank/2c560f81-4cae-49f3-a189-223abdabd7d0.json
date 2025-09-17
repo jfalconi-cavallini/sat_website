@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Based on the information in the table, at what depth does the southern stoplight loosejaw live?</p>",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Depths at Which Four Deep-Sea Fish Species Live</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Species</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Depth below the ocean surface</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">Footballfish</th><td style=\"text-align: center;\">200&ndash;1,000 meters</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Southern stoplight loosejaw</th><td style=\"text-align: center;\">500&ndash;2,000 meters</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Black seadevil</th><td style=\"text-align: center;\">250&ndash;2,000 meters</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Bollons&rsquo; rattail</th><td style=\"text-align: center;\">300&ndash;800 meters</td></tr></tbody></table></figure></p>\n<p>Some oceanic fish species live very deep underwater. Researchers collected data about the depths at which various species live.</p>",
+  "keys": [
+    "83af2792-b823-4368-b890-1ce56e102546"
+  ],
+  "answerOptions": [
+    {
+      "id": "ccda81fb-810d-4842-8b6e-8a4b3767ac7b",
+      "content": "<p>More than 2,000 meters below the surface</p>"
+    },
+    {
+      "id": "63f789e2-2e1d-425a-acdb-ab9069c9bff0",
+      "content": "<p>150 to 400 meters below the surface</p>"
+    },
+    {
+      "id": "83af2792-b823-4368-b890-1ce56e102546",
+      "content": "<p>500 to 2,000 meters below the surface</p>"
+    },
+    {
+      "id": "21504849-c527-49a2-9b5e-f5c18fe0dfc9",
+      "content": "<p>250 to 500 meters below the surface</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The table shows the depths below the ocean surface at which four species of deep-sea fish live. According to the table, the range of depths at which the southern stoplight loosejaw lives is 500&ndash;2,000 meters below the surface.</p><p>Choice A is incorrect because the table indicates that the southern stoplight loosejaw lives 500&ndash;2,000 meters below the ocean surface, not at depths more than 2,000 meters below the surface. Choice B is incorrect because the table indicates that the southern stoplight loosejaw lives 500&ndash;2,000 meters below the ocean surface, not 150&ndash;400 meters below the surface. Choice D is incorrect because the table indicates that the southern stoplight loosejaw lives 500&ndash;2,000 meters below the ocean surface, not 250&ndash;500 meters below the surface.</p>",
+  "externalid": "2c560f81-4cae-49f3-a189-223abdabd7d0",
+  "correct_answer": [
+    "C"
+  ]
+}

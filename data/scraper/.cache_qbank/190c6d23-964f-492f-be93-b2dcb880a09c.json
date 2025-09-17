@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>For thousands of years, humans have used domesticated goats (<em>Capra hircus</em>) to clear land of unwanted vegetation. When it comes to their diets, goats are notoriously <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> they will devour all kinds of shrubs and weeds, leaving virtually no part of any plant unconsumed.</p>",
+  "type": "mcq",
+  "keys": [
+    "3f876623-436e-4b27-bc60-7a37ba389e45"
+  ],
+  "answerOptions": [
+    {
+      "id": "b519b42e-c0a3-433e-bb46-7928846efd31",
+      "content": "<p>indiscriminate and</p>"
+    },
+    {
+      "id": "28c9f624-e6bc-4e62-9fdc-90b0c6f61b9c",
+      "content": "<p>indiscriminate,</p>"
+    },
+    {
+      "id": "6a71a589-79b8-43cf-bdf9-5642e0a7ab3b",
+      "content": "<p>indiscriminate</p>"
+    },
+    {
+      "id": "3f876623-436e-4b27-bc60-7a37ba389e45",
+      "content": "<p>indiscriminate:&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is punctuation use between two main clauses. In this choice, a colon is correctly used to mark the boundary between one main clause (\"goats are notoriously indiscriminate\") and another main clause (\"they will devour all kinds of shrubs and weeds\") and to introduce the following explanation of goats&rsquo; nondiscriminatory behavior when it comes to what they eat.</p><p>Choice A is incorrect because when coordinating two longer main clauses such as these, it&rsquo;s conventional to use a comma before the coordinating conjunction. Furthermore, the conjunction \"and\" fails to indicate that what follows is an explanation of goats&rsquo; nondiscriminatory behavior when it comes to their diets. Choice B is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to join two main clauses (\"goats&hellip;indiscriminate\" and \"they&hellip;weeds\"). Choice C is incorrect because it results in a run-on sentence. The two main clauses (\"goats&hellip;indiscriminate\" and \"they&hellip;weeds\") are fused without punctuation and/or a conjunction.</p>",
+  "externalid": "190c6d23-964f-492f-be93-b2dcb880a09c",
+  "correct_answer": [
+    "D"
+  ]
+}

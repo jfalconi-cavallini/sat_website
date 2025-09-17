@@ -1,0 +1,38 @@
+{
+  "vaultid": "c57b94d9-bdde-4303-8ea3-ec82e62e5929",
+  "keys": [
+    "b65e53da-53f8-49cf-bb89-c19b8040dbff"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of how Ofelia Zepeda has contributed to the field of linguistics. As used in this context, &ldquo;extensive&rdquo; means having a wide or considerable extent. The text indicates that Zepeda&rsquo;s many accomplishments in linguistics are varied, including teaching linguistics, writing poetry in more than one language, creating a grammar book, and co-founding a language institute. This context supports the idea that Zepeda&rsquo;s contributions to the field are extensive. </p><p>Choice A is incorrect because the sentence presents Zepeda&rsquo;s accomplishments as examples to support the claim made in the first part of the sentence. It wouldn&rsquo;t make sense to say that achievements as a professor, poet and author, and co-founder of a language institute demonstrate that Zepeda&rsquo;s contributions in her field are &ldquo;pragmatic,&rdquo; or related to practical matters and not involving intellectual or artistic matters. Choice B is incorrect because the sentence presents Zepeda&rsquo;s accomplishments as a professor, poet and author, and co-founder of a language institute as examples to support the claim made in the first part of the sentence. There&rsquo;s no reason to believe that the positive achievements listed demonstrate that Zepeda&rsquo;s contributions in her field are &ldquo;controversial,&rdquo; or have caused disputes and opposing viewpoints. Choice D is incorrect because in this context, &ldquo;universal&rdquo; would mean including or covering everything in a group. The sentence presents Zepeda&rsquo;s accomplishments as examples to support the claim made in the first part of the sentence, and it wouldn&rsquo;t make sense to say that these specific achievements&mdash;particularly as the author of a grammar book specific to the Tohono O&rsquo;odham language&mdash;demonstrate that Zepeda&rsquo;s contributions relate to everything in the field of linguistics. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "e5b204ce-8d37-415b-a8b5-83f606ed8d83",
+  "stimulus": "<p>Ofelia Zepeda&rsquo;s contributions to the field of linguistics are <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>: her many accomplishments include working as a linguistics professor and bilingual poet, authoring the first Tohono O&rsquo;odham grammar book, and co-founding the American Indian Language Development Institute. </p>",
+  "templateclusterid": "35084198-8ce3-40af-9595-a7702baf20ed",
+  "parenttemplatename": "OSP-919-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "ff822004-f7af-4a81-9bb1-68167cca1fb5",
+      "content": "<p>pragmatic</p>"
+    },
+    {
+      "id": "656ebd69-9a8c-4a05-86d5-1798dca8ab06",
+      "content": "<p>controversial</p>"
+    },
+    {
+      "id": "b65e53da-53f8-49cf-bb89-c19b8040dbff",
+      "content": "<p>extensive</p>"
+    },
+    {
+      "id": "fe36a51f-e5b8-49a9-8d93-d6d163636ef8",
+      "content": "<p>universal</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>A harpsichord may look just like a piano, but the difference between the two instruments is easy to hear. When a harpsichord&rsquo;s keys are pressed, the strings inside the <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> are plucked, not struck.</p>",
+  "type": "mcq",
+  "keys": [
+    "78054cba-fdb8-4f26-9a21-cdb552ae14fa"
+  ],
+  "answerOptions": [
+    {
+      "id": "ef5fae4a-a922-494c-82dd-c0ce30856d6f",
+      "content": "<p>instrument:</p>"
+    },
+    {
+      "id": "78054cba-fdb8-4f26-9a21-cdb552ae14fa",
+      "content": "<p>instrument</p>"
+    },
+    {
+      "id": "611f48c3-fbb0-46e5-bc4e-ad6be1ca823c",
+      "content": "<p>instrument&mdash;</p>"
+    },
+    {
+      "id": "0ab986cc-ee52-4cbe-a332-7497c7f143bb",
+      "content": "<p>instrument,</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is punctuation use between a subject and a verb. When, as in this case, a subject (\"the strings inside the instrument\") is immediately followed by a main verb (\"are plucked\"), no punctuation is needed.</p><p>Choice A is incorrect because no punctuation is needed between the subject and the verb. Choice C is incorrect because no punctuation is needed between the subject and the verb. Choice D is incorrect because no punctuation is needed between the subject and the verb.</p>",
+  "externalid": "5aa98f5c-cc3b-452b-85ea-4fedfc2a58d5",
+  "correct_answer": [
+    "B"
+  ]
+}

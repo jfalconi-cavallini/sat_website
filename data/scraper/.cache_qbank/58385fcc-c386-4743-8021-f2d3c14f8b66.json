@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>As the fourteenth US librarian of Congress, Carla Hayden has many responsibilities. These include overseeing the Library of Congress&rsquo;s collections, which boast more than 162 million <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the US Copyright Office, which registers copyright claims and advises Congress on copyright law; and appointing the US poet laureate.</p>",
+  "keys": [
+    "0acf7547-77a9-4b81-be22-a2d5b40909d4"
+  ],
+  "answerOptions": [
+    {
+      "id": "47b2505a-b6e6-4e96-bbfd-6dabc7ebedbe",
+      "content": "<p>items managing</p>"
+    },
+    {
+      "id": "1cc664ee-54b3-49dc-9614-6fad90b2321f",
+      "content": "<p>items<span data-ssml-say-as=\"characters\">,</span> managing</p>"
+    },
+    {
+      "id": "0acf7547-77a9-4b81-be22-a2d5b40909d4",
+      "content": "<p>items<span data-ssml-say-as=\"characters\">;</span> managing</p>"
+    },
+    {
+      "id": "b56c6ffe-7ce4-43f9-af4c-7d32c354126d",
+      "content": "<p>items<span data-ssml-say-as=\"characters\">.</span> Managing</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the punctuation of elements in a complex series. It&rsquo;s conventional to use a semicolon to separate items in a complex series with internal punctuation, and in this choice, the semicolon after \"items\" is conventionally used to separate the first item (\"overseeing&hellip;items\") and the second item (\"managing&hellip;law\") in a list of Hayden&rsquo;s responsibilities.</p><p>Choice A is incorrect because it fails to use appropriate punctuation to separate the first item and the second item in the complex series. Choice B is incorrect because a comma after \"items\" doesn&rsquo;t match the semicolon used later to separate the second and third items in the series (\"managing&hellip;law\" and \"and appointing the US poet laureate\"). Choice D is incorrect because it results in a rhetorically unacceptable sentence fragment beginning with \"Managing.\"</p>",
+  "externalid": "58385fcc-c386-4743-8021-f2d3c14f8b66",
+  "correct_answer": [
+    "C"
+  ]
+}

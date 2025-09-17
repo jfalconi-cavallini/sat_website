@@ -1,0 +1,38 @@
+{
+  "vaultid": "487d418d-9a1a-4c02-862f-eeddce0f9db3",
+  "keys": [
+    "d8fff84c-a5c7-4c30-8b83-5f91278fa690"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the helmets found in Denmark. In this context, &ldquo;justify&rdquo; means confirm or give reasons for. The text indicates that scholars have long been skeptical about the supposed Viking origin of two helmets found in Denmark. The radiocarbon dating of the helmets conducted by Vandkilde and colleagues demonstrates that the helmets date from the Nordic Bronze Age, making the helmets too old to have belonged to Vikings. This context supports the idea that the scholars&rsquo; skepticism is justified. </p><p>Choice A is incorrect because &ldquo;anticipate&rdquo; means expect or come before, neither of which would make sense in context. The text indicates that scholars have long been skeptical of the idea that the helmets belonged to Vikings. Because the skepticism has existed for a long time, Vandkilde and colleagues&rsquo; research couldn&rsquo;t be said to anticipate it. Instead, the radiocarbon dating results justify or confirm the scholar&rsquo;s skepticism. Choice B is incorrect because &ldquo;inspect&rdquo; means examine or review, which wouldn&rsquo;t make sense in this context. Research findings are inanimate and therefore unable to inspect scholars&rsquo; skepticism. The text focuses on the origin of two helmets, which some people believe belonged to Vikings. Vandkilde and colleagues found that the helmets are from the Nordic Bronze Age and therefore much older than the Vikings. This context suggests that the researchers&rsquo; findings justify, not inspect, the scholars&rsquo; skepticism. Choice C is incorrect because &ldquo;reveal&rdquo; means uncover or report, which wouldn&rsquo;t make sense in context. The text focuses on the origin of two helmets, which some people believe belonged to Vikings. Vandkilde and colleagues tested the helmets and found that they date to the Nordic Bronze Age and therefore are much older than the Vikings. This context suggests that the researchers&rsquo; findings confirm or justify the scholars&rsquo; skepticism, which was already known so didn&rsquo;t need to be revealed. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "f522b365-f853-4553-b809-e6b3752f1e5a",
+  "stimulus": "<p>Some people have speculated that two helmets with attached horns discovered in Denmark in 1942 belonged to Vikings, but scholars have long been skeptical. Archaeologist Helle Vandkilde and colleagues recently provided radiocarbon dates for the helmets, and their findings <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> scholars&rsquo; skepticism: the helmets date to the Nordic Bronze Age, centuries before the Vikings existed.</p>",
+  "templateclusterid": "9eff37d2-9604-475e-a39d-de8dc0414109",
+  "parenttemplatename": "OSP-021-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "a999b0c3-61be-4194-9435-4ac90f8a9be4",
+      "content": "<p>anticipate</p>"
+    },
+    {
+      "id": "370dc8b8-b4cd-4b7d-baca-1fb1107d4896",
+      "content": "<p>inspect</p>"
+    },
+    {
+      "id": "73ceb23f-37cb-4a6d-b04b-45fa718f0392",
+      "content": "<p>reveal</p>"
+    },
+    {
+      "id": "d8fff84c-a5c7-4c30-8b83-5f91278fa690",
+      "content": "<p>justify</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

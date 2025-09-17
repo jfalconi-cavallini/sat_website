@@ -1,0 +1,38 @@
+{
+  "vaultid": "489fe75e-39ab-48a6-b0fc-261f6e153627",
+  "keys": [
+    "62c70990-997d-4889-8ca1-7bf769eb0639"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately describes how the first sentence functions in the text as a whole. The first sentence introduces what yawn contagion is, explaining that it occurs when an individual yawns in response to the yawn of another individual. The text goes on to describe Elisabetta Palagi and her colleagues&rsquo; study of this phenomenon in a wild population of gelada monkeys. According to the text, the study showed that wild primate populations experience yawn contagion and that the behavior occurs most commonly in male monkeys and across social groups. Thus, the function of the first sentence is to define the phenomenon of yawn contagion that is discussed in the text. </p><p>Choice B is incorrect. Although the first sentence introduces the text&rsquo;s discussion of yawn contagion, it doesn&rsquo;t present this behavior, or anything else, as a problem. Choice C is incorrect because the first sentence doesn&rsquo;t present a claim but instead explains what yawn contagion is. Moreover, the text doesn&rsquo;t challenge anything; it&rsquo;s an informative text that describes the findings of a research study about yawning in wild primate populations. Choice D is incorrect. Although the text describes a scientific study, and most scientific studies are guided by a hypothesis, the text doesn&rsquo;t say what Palagi and her colleagues&rsquo; hypothesis was; the text discusses their findings instead. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes the function of the first sentence in the text as a whole?</p>",
+  "externalid": "2f8259a1-06bd-4edb-89f3-e51e05143294",
+  "stimulus": "<p><span role=\"region\" aria-label=\"Referenced Content\"><u>Yawn contagion occurs when one individual yawns in response to another&rsquo;s yawn.</u></span> Studies of this behavior in primates have focused on populations in captivity, but biologist Elisabetta Palagi and her colleagues have shown that it can occur in wild primate populations as well. In their study, which focused on a wild population of gelada monkeys (<em>Theropithecus gelada</em>) in Ethiopia, the researchers further reported that yawn contagion most commonly occurred in males and across different social groups instead of within a single social group.</p>",
+  "templateclusterid": "49b1a886-801d-4e1e-bccd-5ca035391893",
+  "parenttemplatename": "OSP-007-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "62c70990-997d-4889-8ca1-7bf769eb0639",
+      "content": "<p>It defines a phenomenon that is discussed in the text.</p>"
+    },
+    {
+      "id": "fdb4bc8b-c084-4eb3-b6c5-810bdac213d2",
+      "content": "<p>It introduces a problem that is examined in the text.</p>"
+    },
+    {
+      "id": "30045779-9089-47d5-9203-2eb12ebfd55b",
+      "content": "<p>It makes a claim that is challenged in the text.</p>"
+    },
+    {
+      "id": "45cc9e8d-e20e-42e1-bd58-039c034cd9f5",
+      "content": "<p>It presents a hypothesis that is evaluated in the text.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

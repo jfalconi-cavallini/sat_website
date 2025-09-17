@@ -1,0 +1,38 @@
+{
+  "vaultid": "178c6d02-3637-498d-ace3-0029c5c6d40e",
+  "keys": [
+    "f06e2141-334e-45fc-acf4-f6cf73ae1e06"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most effectively uses data from the table to support the underlined claim. The text indicates that Swahili is the first language of up to 15 million people worldwide. The text goes on to claim, in the underlined portion, that even in countries where nearly everyone speaks Swahili, many of the language&rsquo;s speakers don&rsquo;t have Swahili as their first language. The table indicates that 61 million people in Tanzania, which amounts to 100 percent of the population, speak Swahili. If 61 million people in Tanzania speak Swahili, but only 15 million people worldwide have Swahili as their first language, that means there are many people in Tanzania who speak Swahili as a language other than their first language. This information about Swahili speakers in Tanzania therefore supports the claim that many Swahili speakers in countries where nearly everyone speaks Swahili speak it as a language other than their first language (such as their second, third, or fourth language).&nbsp;</p><p>Choice B is incorrect because it doesn&rsquo;t accurately describe information in the table. According to the table, Tanzania has 61 million Swahili speakers, not at most 15 million Swahili speakers. Additionally, the table indicates that 100 percent of Tanzania&rsquo;s population speak Swahili, which means that the number of Swahili speakers in the country and the country&rsquo;s total population should be the same, not that they should differ by such a large amount. Choice C is incorrect because there&rsquo;s no information in the table or the text that indicates where people who speak Swahili as their first language live. Although Kenya&rsquo;s total population can be inferred from the table&mdash;if Kenya has 55 million Swahili speakers and 100% of Kenya&rsquo;s population speak Swahili, then Kenya must have a population of 55 million people&mdash;nothing suggests that all the people who speak Swahili as their first language live in a single country, let alone that they all live in Kenya.&nbsp;Choice D is incorrect. Although the table does indicate that 100 percent of Kenya&rsquo;s population and 25 percent of the Democratic Republic of the Congo&rsquo;s population speak Swahili, this comparison is irrelevant to the claim that Swahili isn&rsquo;t the first language of many of its speakers even in countries where almost everyone speaks Swahili. On its own, a difference in the proportions of the population who speak Swahili cannot reveal whether those Swahili speakers have Swahili as their first language or a subsequent language.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most effectively uses data from the table to support the underlined claim?</p>",
+  "externalid": "15eb5d10-e935-4161-bec5-d9798b5f47e3",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Swahili Speakers in Three African Countries</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Country</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Approximate number of speakers (in millions)</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Estimated % of population</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">Democratic Republic of the Congo</th><td style=\"text-align: center;\">22</td><td style=\"text-align: center;\">25</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Kenya</th><td style=\"text-align: center;\">55</td><td style=\"text-align: center;\">100</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Tanzania</th><td style=\"text-align: center;\">61</td><td style=\"text-align: center;\">100</td></tr></tbody></table></figure></p>\n<p>Swahili is estimated to be the first language of up to 15 million people worldwide. It&rsquo;s also an officially recognized language in Tanzania, Kenya, and the Democratic Republic of the Congo, which means these countries use Swahili in government documents and proceedings. <span role=\"region\" aria-label=\"Referenced Content\"><u>But even in countries where almost everyone speaks Swahili, for many it isn&rsquo;t their first language but is instead their second, third, or even fourth language.</u></span></p>",
+  "templateclusterid": "0180544d-d259-4a2d-bed8-e59cec7caa55",
+  "parenttemplatename": "OSP-541-QUA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "f06e2141-334e-45fc-acf4-f6cf73ae1e06",
+      "content": "<p>Tanzania has approximately 61 million Swahili speakers, which is much more than the estimated total number of people worldwide for whom Swahili is their first language.</p>"
+    },
+    {
+      "id": "3571b88f-0ede-4e7e-9581-3ef18a4d0222",
+      "content": "<p>Tanzania is estimated to have at most 15 million Swahili speakers, while the country&rsquo;s total population is approximately 61 million people.</p>"
+    },
+    {
+      "id": "bb88ede0-5458-44a8-9af5-9b9e03f69f65",
+      "content": "<p>Approximately 100 percent of the people who speak Swahili as their first language live in Kenya, which has a total population of approximately 55 million people.</p>"
+    },
+    {
+      "id": "33b83177-937d-4160-8dcb-bc8a58120c43",
+      "content": "<p>Approximately 100 percent of Kenya&rsquo;s population speaks Swahili, while only about 25 percent of the Democratic Republic of the Congo&rsquo;s population speaks Swahili.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "b5906944-e2e5-4ca4-af12-d5a89d00fa71",
+  "keys": [
+    "91fb6e51-55fe-4b10-a630-64d07a17adac"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is pronoun-antecedent agreement. The singular pronoun \"it\" agrees in number with the singular antecedent \"the Salt Lake Temple.\"</p><p>Choice B is incorrect because the singular pronoun \"one\" is ambiguous in this context; the resulting sentence leaves unclear whether there is only one Salt Lake temple or multiple. Choice C is incorrect because the plural pronoun \"they\" doesn&rsquo;t agree in number with the singular antecedent \"the Salt Lake Temple.\" Choice D is incorrect because the plural pronoun \"both\" doesn&rsquo;t agree in number with the singular antecedent \"the Salt Lake Temple.\"</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "5f1c6db1-57fc-46f3-9c97-1b9bb3e6c25e",
+  "stimulus": "<p>With its towering, six-spired exterior of granitelike quartz monzonite, the Salt Lake Temple is one of the most instantly recognizable structures in the state of Utah. However, many people do not know that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> built over the course of forty years, with construction beginning in 1853 and ending in 1893.</p>",
+  "templateclusterid": "d365dd7f-7378-4925-924e-061eae554c01",
+  "parenttemplatename": "OSP-749-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "91fb6e51-55fe-4b10-a630-64d07a17adac",
+      "content": "<p>it was</p>"
+    },
+    {
+      "id": "c5c3c573-0af4-4aeb-bcf9-56696b5913b0",
+      "content": "<p>one was</p>"
+    },
+    {
+      "id": "d9c2b1b4-bcc9-422b-a011-c9165edfa87c",
+      "content": "<p>they were</p>"
+    },
+    {
+      "id": "5fc17a6b-1a05-412a-a65c-05c03d83caf6",
+      "content": "<p>both were</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

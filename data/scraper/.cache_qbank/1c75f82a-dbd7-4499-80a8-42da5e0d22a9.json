@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Animal researcher Amalia P.M. Bastos led a 2021 study about a wild kea parrot that used small stones as tools to preen its feathers. Skeptical colleagues had initially suggested to Bastos that the kea&rsquo;s interactions with the stones might simply be <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>, but Bastos and her team showed that the kea was using the stones deliberately.</p>",
+  "type": "mcq",
+  "keys": [
+    "cfc3b3ca-f4c4-4030-bc04-932db9974f9c"
+  ],
+  "answerOptions": [
+    {
+      "id": "79c0ecd6-c55a-4403-b721-59b74e131c83",
+      "content": "<p>intriguing</p>"
+    },
+    {
+      "id": "4fc604b5-51c3-415a-a1ff-99e1cdd610da",
+      "content": "<p>obvious</p>"
+    },
+    {
+      "id": "cfc3b3ca-f4c4-4030-bc04-932db9974f9c",
+      "content": "<p>accidental</p>"
+    },
+    {
+      "id": "dca3ac11-ac1c-48b8-8a46-c0635404892c",
+      "content": "<p>observable</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of Bastos&rsquo;s study of a wild kea parrot. In this context, \"accidental\" means unplanned or unintentional. The text first describes Bastos&rsquo;s study, which concerns a kea that is observed using small stones to preen its feathers. The text then mentions colleagues who are skeptical (that is, they have doubt) about Bastos&rsquo;s findings, and finally describes how Bastos and her team responded to the skepticism of those colleagues. Given that the colleagues mentioned in the text expressed skepticism regarding Bastos&rsquo;s findings, the best answer choice must be one that completes the text in a manner such that the skeptics&rsquo; opinion regarding the kea&rsquo;s use of stones disagrees with that held by Bastos and her team. Since Bastos and her team showed that the kea&rsquo;s use of stones was deliberate (that is, intentional), the skeptics&rsquo; opinion in this context must be that the kea&rsquo;s use of stones was unintentional, or accidental.</p><p>Choice A is incorrect because the best answer choice is one that portrays skepticism, or doubt, of Bastos&rsquo;s claim that the kea&rsquo;s usage of stones was deliberate, or intentional. If the skeptics found the kea&rsquo;s usage of stones \"intriguing,\" or fascinating, this would not be at odds with the position of Bastos and her team; in fact, it is reasonable to believe that someone who agreed that the kea&rsquo;s stone usage was deliberate would also find it intriguing. Choice B is incorrect because if the skeptics believed that the kea&rsquo;s usage of small stones was \"obvious,\" or evident, this would not be contrary to the observation of Bastos and her team that the kea&rsquo;s usage of stones was deliberate: in fact, these opinions would be consistent with each other. Choice D is incorrect because if the skeptics believed that the kea&rsquo;s usage of small stones was \"observable,\" or visible, this would not conflict with the claim of Bastos and her team that the kea&rsquo;s usage of stones was deliberate: instead, these positions would agree.</p>",
+  "externalid": "1c75f82a-dbd7-4499-80a8-42da5e0d22a9",
+  "correct_answer": [
+    "C"
+  ]
+}

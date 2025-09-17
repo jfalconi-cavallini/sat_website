@@ -1,0 +1,38 @@
+{
+  "vaultid": "0210ce1f-25a1-4b3d-b6b1-6679484dbd88",
+  "keys": [
+    "17379a32-fcc1-44e5-bd9a-d6aa176bd852"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of the relative appeal of different kinds of plays by Shakespeare to today&rsquo;s audiences. According to the text, Shakespeare&rsquo;s tragedies address broad themes that continue to appeal to today&rsquo;s audiences. Indeed, the text suggests that these themes are timeless, as illustrated by the example of <em>Romeo and Juliet</em>, which the text states is still read and widely performed despite being set in the Italy of Shakespeare&rsquo;s time. In contrast, the text indicates that audiences and readers may need to be familiar with several centuries of English history in order to understand Shakespeare&rsquo;s history plays. Because many theatergoers and readers are unlikely to possess such extensive historical knowledge, it follows that they are likely to find Shakespeare&rsquo;s history plays less engaging than his more accessible tragedies. </p><p>Choice B is incorrect because the text never introduces a comparison between Shakespeare&rsquo;s tragedies and twentieth-century plays, only between Shakespeare&rsquo;s tragedies and his history plays. Since twentieth-century plays aren&rsquo;t mentioned, there&rsquo;s no basis in the text for the idea that some of Shakespeare&rsquo;s tragedies are more relevant than twentieth-century plays to today&rsquo;s audiences. Choice C is incorrect. Although the text indicates that <em>Romeo and Juliet </em>is thematically accessible to today&rsquo;s audiences, it doesn&rsquo;t suggest that <em>Romeo and Juliet</em> is more accessible than Shakespeare&rsquo;s other tragedies. Rather, the text presents <em>Romeo and Juliet </em>as an example to support the idea that Shakespeare&rsquo;s tragedies hold continued appeal for today&rsquo;s readers and theatergoers. Choice D is incorrect. Although experts in English history would likely possess the knowledge needed to understand Shakespeare&rsquo;s history plays, the text never mentions such experts or suggests that they would enjoy the history plays more than Shakespeare&rsquo;s other works. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "5d3bc6fb-4e59-4560-84e5-1d9cf789f62a",
+  "stimulus": "<p>Many of William Shakespeare&rsquo;s tragedies address broad themes that still appeal to today&rsquo;s audiences. For instance, <em>Romeo and Juliet</em>, which is set in the Italy of Shakespeare&rsquo;s time, tackles the themes of parents versus children and love versus hate, and the play continues to be read and produced widely around the world. But understanding Shakespeare&rsquo;s so-called history plays can require a knowledge of several centuries of English history. Consequently, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "58666c47-7342-40f7-a91f-5f390e0c8fcc",
+  "parenttemplatename": "OSP-040-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "17379a32-fcc1-44e5-bd9a-d6aa176bd852",
+      "content": "<p>many theatergoers and readers today are likely to find Shakespeare&rsquo;s history plays less engaging than the tragedies.</p>"
+    },
+    {
+      "id": "ad1d4e79-0b1e-409a-9852-449956e1d419",
+      "content": "<p>some of Shakespeare&rsquo;s tragedies are more relevant to today&rsquo;s audiences than twentieth-century plays.</p>"
+    },
+    {
+      "id": "36a463db-54da-42af-86e4-db8832b3b831",
+      "content": "<p><em>Romeo and Juliet </em>is the most thematically accessible of all Shakespeare&rsquo;s tragedies.</p>"
+    },
+    {
+      "id": "fc5085a9-19d2-406d-b1cd-7b0f11af4289",
+      "content": "<p>experts in English history tend to prefer Shakespeare&rsquo;s history plays to his other works.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

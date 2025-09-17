@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best describes the overall structure of the text?</p>",
+  "stimulus": "<p>Companies are providing consumers with more opportunities to purchase customized products than ever before. Whether buying customized sneakers, jewelry, or clothing, consumers can participate in the design of products to meet their specific needs and tastes. In turn, companies profit too: studies have shown that consumers are willing to pay more and wait longer for a customized product. Still, it can be difficult for companies to offer customization while keeping costs low, as the standard methods of mass production may not be able to accommodate making a unique product each time.</p>",
+  "keys": [
+    "a20d17a4-3035-496d-951a-6f33ce44e139"
+  ],
+  "answerOptions": [
+    {
+      "id": "2dfb0aff-b2db-4ce2-b214-bbb293f6932c",
+      "content": "<p>It discusses several recent innovations in product manufacturing and then suggests some potential applications of those innovations.</p>"
+    },
+    {
+      "id": "47281f9f-afdc-4801-99af-444ef1cbc12b",
+      "content": "<p>It describes a company&rsquo;s recent success with new products and then explains multiple factors that may have contributed to that success.</p>"
+    },
+    {
+      "id": "a20d17a4-3035-496d-951a-6f33ce44e139",
+      "content": "<p>It introduces a trend in consumer products and then explains how the trend both benefits and poses a challenge to companies.</p>"
+    },
+    {
+      "id": "02cfddcc-3b3f-4212-8574-e50151736b41",
+      "content": "<p>It presents two contrasting product-marketing techniques and then provides examples of one of those techniques.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it presents the best description of the overall structure of the text. The text begins by stating that companies are increasingly giving consumers opportunities to customize products, allowing them to make design choices when buying certain sneakers, jewelry, and clothing. The text then indicates that although this trend benefits companies because they can successfully charge buyers more for customized products and don&rsquo;t have to rush production, it also poses a challenge because producing unique items may require different and more expensive methods than the ones typically used for mass production, raising the companies&rsquo; costs. Thus, the text first introduces a trend in consumer products and then explains how the trend both benefits and poses a challenge to companies.</p><p>Choice A is incorrect because the text doesn&rsquo;t present the customization of various products as a recent innovation&mdash;the fact that there are \"more opportunities\" now indicates that there were opportunities before&mdash;and no other innovations, in product manufacturing or otherwise, are discussed. Choice B is incorrect because the text doesn&rsquo;t discuss any particular company or example and instead speaks broadly about the trend of companies providing customizable products. Choice D is incorrect. Although the text discusses companies offering something that consumers like and are willing to pay more for&mdash;the ability to customize products&mdash;it doesn&rsquo;t characterize this as a product-marketing technique and doesn&rsquo;t compare it to any other kind of offering or technique.</p>",
+  "externalid": "f01d6e44-be79-4f67-896e-a96a00d7112b",
+  "correct_answer": [
+    "C"
+  ]
+}

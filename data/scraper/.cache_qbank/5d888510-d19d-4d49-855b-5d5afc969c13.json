@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>The Cretaceous pterosaur <em>Tupandactylus navigans </em>is known for having an anomalously oversized head crest. Until an almost complete fossil skeleton was found in Brazil, paleontologists had been able to study only skull specimens from <em>T. navigans</em>, though it was presumed that, like other pterosaurs, the species&rsquo;s primary form of locomotion was powered flight. Examining the fuller skeleton in 2016, Victor Beccari and his team determined that <em>T. navigans </em>had long hind legs, short wings, and an unusually long neck&mdash;characteristics that, combined with the creature&rsquo;s large-crested head, would have made sustained flight difficult and walking upright relatively comfortable. Based on these findings the team suggests that <em>T. navigans </em>likely <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "ca4a6c4b-3cb3-46dc-bb0f-f379268ac2d0"
+  ],
+  "answerOptions": [
+    {
+      "id": "9fe95537-ad27-4573-b2bd-fff62b875e87",
+      "content": "<p>flew for longer distances than did other pterosaur species that had oversized head crests.</p>"
+    },
+    {
+      "id": "39ebab69-f7b1-4674-920d-e27c67c0855f",
+      "content": "<p>had longer wings than other pterosaur species considered to have been comfortable walking.</p>"
+    },
+    {
+      "id": "ee0b61e0-7f91-45d9-8029-8699db801e9a",
+      "content": "<p>had a smaller head than researchers expected based on the earlier <em>T. navigans</em> skull specimens.</p>"
+    },
+    {
+      "id": "ca4a6c4b-3cb3-46dc-bb0f-f379268ac2d0",
+      "content": "<p>flew for shorter distances and spent more time walking than researchers previously thought.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the Cretaceous pterosaur <em>Tupandactylus navigans</em>. The text first describes what paleontologists initially speculated to be true of <em>T.</em> <em>navigans</em> based on observing only fossilized skulls of the pterosaur rather than complete skeletons&mdash;namely, that <em>T. navigans</em> had an oversized head crest and that, like other pterosaurs, its main mode of movement must have been flight. The text goes on to describe what researcher Victor Beccari and his team concluded based on studying a nearly complete fossilized skeleton of <em>T. navigans</em>, which provided additional information that fossilized skulls alone could not. Beccari and colleagues determined that <em>T. navigans</em> had long hind legs, short wings, and an unusually long neck, in addition to the oversized head crest previously observed by paleontologists. Taken together, these characteristics would have made sustained flight difficult and upright walking comfortable, which would make <em>T. navigans</em> different from other pterosaurs that moved mainly through flight. Thus, Beccari and colleagues suggest that previously held speculations of paleontologists are inaccurate: that instead of moving mainly through powered flight, <em>T. navigans</em> likely flew for shorter distances and spent more time walking than researchers previously thought.</p><p>Choice A is incorrect because Beccari and his team determined, based on their examination of a nearly complete skeleton, that <em>T. navigans</em> would have found \"sustained flight difficult,\" which would differentiate it from most other pterosaurs that moved mainly through flight. Therefore, Beccari&rsquo;s team would not suggest that <em>T. navigans</em> flew for longer distances than did other pterosaur species with large head crests. Choice B is incorrect because the fossilized skeleton studied by Beccari and colleagues was notable for its short wings, and because no indication in the text is made that other pterosaurs were thought by paleontologists to be comfortable walking. Therefore, Beccari&rsquo;s team would not suggest that <em>T. navigans</em> had longer wings than other pterosaur species considered to have been comfortable walking. Choice C is incorrect because the text indicates that Beccari and his team agree with the paleontologists mentioned earlier in the text that <em>T. navigans </em>had a large-crested head. Therefore, Beccari&rsquo;s team would not suggest that <em>T. navigans</em> had a smaller head than researchers previously expected.</p>",
+  "externalid": "5d888510-d19d-4d49-855b-5d5afc969c13",
+  "correct_answer": [
+    "D"
+  ]
+}

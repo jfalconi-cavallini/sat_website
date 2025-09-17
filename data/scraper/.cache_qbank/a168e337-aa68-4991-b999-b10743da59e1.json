@@ -1,0 +1,38 @@
+{
+  "vaultid": "e074c7fd-3de1-4575-8bac-9f36829452bd",
+  "keys": [
+    "7573531a-c716-4000-a826-34107fbed022"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between the first sentence (&ldquo;On&hellip;temperature&rdquo;) and the second sentence (&ldquo;Adding&hellip;effect&rdquo;). The gerund phrase beginning with &ldquo;adding&rdquo; is the subject of the second sentence, and the verb phrase &ldquo;helps combat this effect&rdquo; describes what adding a light-colored covering can do.&nbsp;</p><p>Choice A is incorrect because a semicolon can&rsquo;t be used in this way to join the sentence &ldquo;On...temperature&rdquo; and the supplementary phrases that follow. Doing so leaves the verb phrase &ldquo;helps combat&rdquo; without a subject and thus results in a grammatically unconventional sentence. Choice B is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to mark the boundary between sentences. Choice D is incorrect. This choice results in a confusing and illogical sentence that suggests that adding a light-colored covering to an existing dark roof raises the temperature of the surrounding air. Furthermore, it creates ambiguity by leaving the verb phrase &ldquo;helps combat&rdquo; without a subject (so it isn&rsquo;t clear what helps combat the effect). </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "a168e337-aa68-4991-b999-b10743da59e1",
+  "stimulus": "<p>On sunny days, dark rooftops absorb solar energy and convert it to unwanted heat, raising the surrounding air <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> a light-colored covering to an existing dark roof, either by attaching prefabricated reflective sheets or spraying on a paint-like coating, helps combat this effect.&nbsp;</p>",
+  "templateclusterid": "b32c5f9e-d59e-4ea4-ad55-43d926805d7d",
+  "parenttemplatename": "OSP-790-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "64d64699-b585-4196-9211-6ec626fa487a",
+      "content": "<p>temperature; by adding</p>"
+    },
+    {
+      "id": "06eb119b-7d2a-4ebd-8b5a-a9d34e636067",
+      "content": "<p>temperature, adding</p>"
+    },
+    {
+      "id": "7573531a-c716-4000-a826-34107fbed022",
+      "content": "<p>temperature. Adding</p>"
+    },
+    {
+      "id": "3ab37866-2fb9-47c2-99f6-8c77f5f8fad2",
+      "content": "<p>temperature by adding</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

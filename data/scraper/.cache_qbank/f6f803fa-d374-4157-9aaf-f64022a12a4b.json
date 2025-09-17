@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>As cheesemaking practices spread throughout Europe and Asia during and after the Neolithic, divergent strategies for preserving milk <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> whereas rennet-coagulated cheesemaking became key to milk preservation in Europe and Southwest Asia, acid-heat coagulation methods became common among nomadic herding populations of the northeastern Eurasian steppe.</p>",
+  "keys": [
+    "bb71d325-23f6-4d1c-8881-70b28ea729ae"
+  ],
+  "answerOptions": [
+    {
+      "id": "1e1423ee-b215-47a9-9390-fa75fce1dffd",
+      "content": "<p>emerged</p>"
+    },
+    {
+      "id": "9fc9f0bb-402b-4597-bb89-6071697eb6f1",
+      "content": "<p>emerged and</p>"
+    },
+    {
+      "id": "bb71d325-23f6-4d1c-8881-70b28ea729ae",
+      "content": "<p>emerged<span data-ssml-say-as=\"characters\">:</span></p>"
+    },
+    {
+      "id": "006171c0-5d64-4266-8341-249b41048512",
+      "content": "<p>emerged<span data-ssml-say-as=\"characters\">,</span></p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is punctuation use within a sentence. A colon can be used between two main clauses to signal that what follows is an elaboration of what came before. In this choice, the colon correctly introduces the following explanation of the divergent milk preservation strategies that emerged.</p><p>Choice A is incorrect because it results in a run-on sentence. The main clause (\"As&hellip;emerged\") and the subordinate clause followed by another main clause (\"whereas&hellip;steppe\") are fused without punctuation and/or a conjunction. Choice B is incorrect. Without a comma preceding it, the conjunction \"and\" can&rsquo;t be used in this way to join a main clause (\"As&hellip;emerged\") and a subordinate clause followed by another main clause (\"whereas&hellip;steppe\"). Choice D is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to join a main clause (\"As&hellip;emerged\") and a subordinate clause followed by another main clause (\"whereas&hellip;steppe\").</p>",
+  "externalid": "f6f803fa-d374-4157-9aaf-f64022a12a4b",
+  "correct_answer": [
+    "C"
+  ]
+}

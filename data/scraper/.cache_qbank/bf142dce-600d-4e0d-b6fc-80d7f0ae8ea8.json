@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "stimulus": "<p>A subject of much speculation, distinctive sets of parallel ridges mark the icy crust of Europa, Jupiter&rsquo;s smallest moon. Researchers now claim that the ridges&rsquo; formation mechanism mirrors that of a strikingly similar pair on Greenland&rsquo;s ice sheet. There, surface water seeped through fissures in the sheet and formed a water pocket that subsequently disrupted the overlying ice, forcing fragments of it upward and outward into peaks, as the pocket froze and expanded. Although Europa lacks liquid surface water, the same process could be driven by the moon&rsquo;s subsurface ocean.</p>",
+  "type": "mcq",
+  "keys": [
+    "f8a542e4-fe68-47e1-ab20-53ece26a0df1"
+  ],
+  "answerOptions": [
+    {
+      "id": "f8a542e4-fe68-47e1-ab20-53ece26a0df1",
+      "content": "<p>Researchers think that the ridges on Europa and the ridges in Greenland may have been formed by the same process even though Europa, unlike Greenland, doesn&rsquo;t have liquid water on its surface.</p>"
+    },
+    {
+      "id": "8d61581d-1ad2-4918-bd81-2cae63dd066d",
+      "content": "<p>The primary difference between the ridges on Europa and the ridges in Greenland is that unlike the Europa ridges, the Greenland ridges are parallel.</p>"
+    },
+    {
+      "id": "4cc83759-67c3-4822-890f-4d41c75d3e14",
+      "content": "<p>The pair of ridges found on Greenland&rsquo;s ice sheet appear to have formed long before the recently discovered sets of ridges on Europa formed.&nbsp;</p>"
+    },
+    {
+      "id": "0d1bc1a6-047f-4c4e-8fb9-c6010f5403e6",
+      "content": "<p>Researchers don&rsquo;t understand why Europa is marked by so many sets of ridges when the moon doesn&rsquo;t have any liquid water on its surface that could have collected and expanded under the icy crust.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it accurately states the main idea of the text. The text focuses on formations of parallel ice ridges on Jupiter&rsquo;s moon Europa that are said to be formed by the same mechanism that formed a parallel set of ridges on Greenland&rsquo;s ice sheet. The text indicates that in Greenland, water on the surface seeps to the lower portion of the ice sheet, resulting in uplift that creates the ridges, and it states that although Europa lacks liquid water on its surface, the same process could be driven by an ocean below Europa&rsquo;s surface. In other words, the main idea of the text is that parallel ridges in the ice on Europa and Greenland are likely caused by similar processes even though in Greenland the process begins with liquid water on the surface while Europa lacks liquid water on the surface.</p><p>Choice B is incorrect because the text states outright that the ridges on Europa are parallel and furthermore refers to Greenland&rsquo;s ridges as \"strikingly similar\" to those on Europa. Choice C is incorrect because the text makes no mention of when any of the ice ridges formed, either separately or relative to one another. Choice D is incorrect because the text does not indicate any uncertainty about the reason for the ice ridges on Europa and, in fact, clearly states that researchers now claim to know the mechanism that created the ridges.</p>",
+  "externalid": "bf142dce-600d-4e0d-b6fc-80d7f0ae8ea8",
+  "correct_answer": [
+    "A"
+  ]
+}

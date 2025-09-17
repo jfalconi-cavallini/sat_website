@@ -1,0 +1,38 @@
+{
+  "vaultid": "239baf5a-6a07-4596-afa1-5bcd55c0b872",
+  "keys": [
+    "5f7a8282-2703-4a8f-984e-d445ed413fbd"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately describes the main purpose of the text, which is to show that while Jane calmly goes about her daily tasks, she is experiencing internal agitation about possibly seeking a new job. At the start of the text, Jane says, &ldquo;I went on with my day&rsquo;s business tranquilly,&rdquo; indicating that she is outwardly calm. This outward calmness is then contrasted with her intense internal restlessness, as Jane says that thoughts of leaving her job keep running through her mind, that she is &ldquo;involuntarily framing advertisements&rdquo; (meaning that she can&rsquo;t stop herself from thinking up potential listings for jobs), and that she often wonders what new &ldquo;situations&rdquo; (or jobs) would be like.&nbsp;</p><p>Choice B is incorrect because the text gives no indication of Jane&rsquo;s feelings, either positive or negative, about the people she works for at Thornfield Hall. And rather than emphasizing that Jane feels particularly loyal to her employers, the text focuses on her constant consideration of leaving her job. Choice C is incorrect because the text gives no indication that Jane finds her current situation fulfilling, or satisfying. Given that much of the text is focused on Jane&rsquo;s thoughts about possibly leaving her job for a new one, it might be the case that she finds her situation challenging, but there is no evidence in the text that Jane also finds that situation satisfying&mdash;she says nothing positive about her current job at all, in fact. Choice D is incorrect because the text describes Jane as wondering about getting a new job, not as determined to definitely do so. Jane keeps thinking about reasons why she &ldquo;should&rdquo; quit her current job (indicating that she hasn&rsquo;t yet decided to) and imagining possible new situations she could find, but she says at the end of the text that these thoughts &ldquo;might germinate and bear fruit if they could,&rdquo; meaning that the thoughts haven&rsquo;t yet led to a decision&mdash;that Jane isn&rsquo;t yet determined to get a new job somewhere else. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "externalid": "54287047-9ca3-4931-b6e4-13c25ad6e14c",
+  "stimulus": "<p>The following text is from Charlotte Bront&euml;&rsquo;s 1847 novel <em>Jane Eyre</em>. Jane, the narrator, works as a governess at Thornfield Hall.</p>\n<p style='padding-left: 1em;'>I went on with my day&rsquo;s business tranquilly; but ever and anon vague suggestions kept wandering across my brain of reasons why I should quit Thornfield; and I kept involuntarily framing advertisements and pondering conjectures about new situations: these thoughts I did not think to check; they might germinate and bear fruit if they could.</p>",
+  "templateclusterid": "e1880ce2-9ce8-4dfa-82b7-1ce117b24d68",
+  "parenttemplatename": "OSP-021-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "5f7a8282-2703-4a8f-984e-d445ed413fbd",
+      "content": "<p>To convey a contrast between Jane&rsquo;s outward calmness and internal restlessness</p>"
+    },
+    {
+      "id": "bed3c021-4c9c-4855-aeb1-e00598467f91",
+      "content": "<p>To emphasize Jane&rsquo;s loyalty to the people she works for at Thornfield Hall</p>"
+    },
+    {
+      "id": "be69795a-2450-4c15-9d83-cf007d589000",
+      "content": "<p>To demonstrate that Jane finds her situation both challenging and deeply fulfilling</p>"
+    },
+    {
+      "id": "2b08badc-2b96-4b15-89e2-389c3602e5a7",
+      "content": "<p>To describe Jane&rsquo;s determination to secure employment outside of Thornfield Hall</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

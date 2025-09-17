@@ -1,0 +1,38 @@
+{
+  "vaultid": "b19f616c-2543-43ab-b08f-4a2f9911a4a9",
+  "keys": [
+    "f4d3a25e-04bd-4165-9d5e-c653acae83e3"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is pronoun&ndash;antecedent agreement. The plural pronoun &ldquo;they&rdquo; agrees in number with the plural antecedent &ldquo;customers.&rdquo; </p><p>Choice B is incorrect because the singular pronoun &ldquo;one&rdquo; doesn&rsquo;t agree in number with the plural antecedent &ldquo;customers.&rdquo; Choice C is incorrect because the second person pronoun &ldquo;you&rdquo; isn&rsquo;t conventional as a substitute for &ldquo;customers.&rdquo; It suggests that the audience (&ldquo;you&rdquo;) is the customer. Choice D is incorrect because the singular pronoun &ldquo;it&rdquo; doesn&rsquo;t agree in number with the plural antecedent &ldquo;customers.&rdquo; </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "de4bc4b7-6302-45b9-b7f9-3ab13226a04a",
+  "stimulus": "<p>Public-awareness campaigns about the need to reduce single-use plastics can be successful, says researcher Kim Borg of Monash University in Australia, when these campaigns give consumers a choice: for example, Japan achieved a 40 percent reduction in plastic-bag use after cashiers were instructed to ask customers whether <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> wanted a bag.</p>",
+  "templateclusterid": "cade368a-e612-4051-93b6-1760a0eb4985",
+  "parenttemplatename": "OSP-636-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "f4d3a25e-04bd-4165-9d5e-c653acae83e3",
+      "content": "<p>they</p>"
+    },
+    {
+      "id": "a31c334a-b07d-4de6-ad08-fcef25b4a519",
+      "content": "<p>one</p>"
+    },
+    {
+      "id": "bef7c81d-62bf-4139-a646-7dfc9fa86b69",
+      "content": "<p>you</p>"
+    },
+    {
+      "id": "83d462eb-8c13-4997-85a2-a820a59bc3c8",
+      "content": "<p>it</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

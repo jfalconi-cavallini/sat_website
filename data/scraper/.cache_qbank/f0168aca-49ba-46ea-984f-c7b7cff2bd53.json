@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>In her <span data-ssml-say-as=\"date\">2012</span> analysis of tree rings from Japan&rsquo;s Yaku Island, cosmic ray physicist Fusa Miyake noted an anomalous carbon-14 spike dating to 774&ndash;775 CE, indicating that a massive burst of radiation reached Earth during that time. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> this unprecedented radiocarbon surge was dubbed a &ldquo;Miyake event&rdquo; in honor of its discoverer.</p>",
+  "keys": [
+    "4e58bca7-9471-4f74-bcee-d789f02717f1"
+  ],
+  "answerOptions": [
+    {
+      "id": "4e58bca7-9471-4f74-bcee-d789f02717f1",
+      "content": "<p>Fittingly,</p>"
+    },
+    {
+      "id": "4c60c32c-3590-4ff9-840a-c88522fafb82",
+      "content": "<p>Similarly,</p>"
+    },
+    {
+      "id": "5ba4b82e-65d7-4c1f-91d7-2691e34c2579",
+      "content": "<p>However,&nbsp;</p>"
+    },
+    {
+      "id": "965d1b03-b838-44b6-ad47-bd84a1a9803e",
+      "content": "<p>In other words,</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. \"Fittingly\" logically signals that the naming of an unprecedented radiocarbon surge for Fusa Miyake is appropriate to the situation, since Miyake is the person who identified the surge (through her Yaku Island tree-ring analysis).</p><p>Choice B is incorrect because \"similarly\" illogically signals that the information in this sentence is similar to the previous information about Miyake&rsquo;s identification of a massive radiation burst through tree-ring analysis. Instead, the naming of the event for its discoverer is a fitting and appropriate outcome. Choice C is incorrect because \"however\" illogically signals that the information in this sentence contrasts with the previous information about Miyake&rsquo;s identification of a massive radiation burst through tree-ring analysis. Instead, the naming of the event for its discoverer is a fitting and appropriate outcome. Choice D is incorrect because \"in other words\" illogically signals that the information in this sentence is a paraphrase or restatement of the previous information about Miyake&rsquo;s identification of a massive radiation burst through tree-ring analysis.  Instead, the naming of the event for its discoverer is a fitting and appropriate outcome.</p>",
+  "externalid": "f0168aca-49ba-46ea-984f-c7b7cff2bd53",
+  "correct_answer": [
+    "A"
+  ]
+}

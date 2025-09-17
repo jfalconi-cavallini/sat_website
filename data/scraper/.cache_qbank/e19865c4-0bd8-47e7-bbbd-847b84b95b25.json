@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>According to the table, what is the total area of Bahrain?</p>",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Total Areas and 2022 Populations of Smallest Arabian Peninsula Countries</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Country</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Total area (square miles)</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Population</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">Kuwait</th><td style=\"text-align: center;\">6,880</td><td style=\"text-align: center;\">4,268,873</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Bahrain</th><td style=\"text-align: center;\">304</td><td style=\"text-align: center;\">1,472,233</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Qatar</th><td style=\"text-align: center;\">4,471</td><td style=\"text-align: center;\">2,695,122</td></tr></tbody></table></figure></p>\n<p>In terms of area and population, the three smallest Arabian Peninsula countries are Bahrain, Qatar, and Kuwait.</p>",
+  "keys": [
+    "190e7f2b-dd8a-4c26-9b14-1957b95ef31c"
+  ],
+  "answerOptions": [
+    {
+      "id": "919dc131-d6d8-4053-aab7-ce2c421147af",
+      "content": "<p>4,268,873 square miles</p>"
+    },
+    {
+      "id": "1ba82a99-aa43-4bd7-8e40-d8de8e9ad318",
+      "content": "<p>4,471 square miles</p>"
+    },
+    {
+      "id": "190e7f2b-dd8a-4c26-9b14-1957b95ef31c",
+      "content": "<p>304 square miles</p>"
+    },
+    {
+      "id": "b48208a1-6c80-4e6e-88af-34b0f849ea7f",
+      "content": "<p>6,880 square miles</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it states the total area of Bahrain that is indicated in the table. The table presents the total area (in square miles) and population for Bahrain, Qatar, and Kuwait, and it indicates that the total area of Bahrain is 304 square miles.</p><p>Choice A is incorrect because the table indicates that 4,268,873 is the population of Kuwait, not the total area of Bahrain. Choice B is incorrect because the table indicates that 4,471 square miles is the total area of Qatar, not of Bahrain. Choice D is incorrect because the table indicates that 6,880 square miles is the total area of Kuwait, not of Bahrain.</p>",
+  "externalid": "e19865c4-0bd8-47e7-bbbd-847b84b95b25",
+  "correct_answer": [
+    "C"
+  ]
+}

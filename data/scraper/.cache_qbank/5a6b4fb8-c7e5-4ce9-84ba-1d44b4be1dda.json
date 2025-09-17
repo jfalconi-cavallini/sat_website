@@ -1,0 +1,38 @@
+{
+  "vaultid": "e7101ddd-b6ba-4981-a282-28432cfb348f",
+  "keys": [
+    "a2a014b0-d081-46d6-a856-cadaa40b356d"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately portrays the main purpose of the text. At the beginning of the text, Tom asserts that he and the other people staging the play are doing so only for &ldquo;a little amusement among ourselves&rdquo; and aren&rsquo;t interested in attracting an audience or any attention with the production. Then, Tom promises that the play they chose is modest and appropriate, and he further reasons that using the well-written prose of &ldquo;some respectable author&rdquo; is better than using their own words. Overall, the main purpose of the text is to convey Tom&rsquo;s promise that the play will be inoffensive and involve only a few people. </p><p>Choice B is incorrect because the text doesn&rsquo;t indicate that Tom had earlier intentions for the play&rsquo;s performance or that anything has changed since the group first decided to stage a play. Instead, the text focuses on how harmless the entire endeavor will be.&nbsp;Choice C is incorrect. Although Tom mentions that using the words of a &ldquo;respectable author&rdquo; will be better than using their own words, he never addresses the idea that the people around him generally aren&rsquo;t skilled enough to stage a play. Choice D is incorrect because in the text Tom specifically says that they &ldquo;want no audience, no publicity,&rdquo; which indicates that they don&rsquo;t plan on promoting the play at all.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main purpose of the text? </p>",
+  "externalid": "5a6b4fb8-c7e5-4ce9-84ba-1d44b4be1dda",
+  "stimulus": "<p>The following text is adapted from Jane Austen&rsquo;s 1814 novel <em>Mansfield Park</em>. The speaker, Tom, is considering staging a play at home with a group of his friends and family.</p>\n<p style=\"padding-left:1em;\">We mean nothing but a little amusement among ourselves, just to vary the scene, and exercise our powers in something new. We want no audience, no publicity. We may be trusted, I think, in choosing some play most perfectly unexceptionable; and I can conceive no greater harm or danger to any of us in conversing in the elegant written language of some respectable author than in chattering in words of our own.</p>",
+  "templateclusterid": "b83d57e5-bbce-46f8-8de3-f0c0f83e28c1",
+  "parenttemplatename": "OSP-033-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "a2a014b0-d081-46d6-a856-cadaa40b356d",
+      "content": "<p>To offer Tom&rsquo;s assurance that the play will be inoffensive and involve only a small number of people</p>"
+    },
+    {
+      "id": "aafc5629-3b8e-428c-854b-642d99f81170",
+      "content": "<p>To clarify that the play will not be performed in the manner Tom had originally intended</p>"
+    },
+    {
+      "id": "04bf1884-67f1-475a-81b5-0009d1d6a861",
+      "content": "<p>To elaborate on the idea that the people around Tom lack the skills to successfully stage a play</p>"
+    },
+    {
+      "id": "e30eea8d-c1af-453c-9c5e-2b5ccee8a8f0",
+      "content": "<p>To assert that Tom believes the group performing the play will be able to successfully promote it</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "f55bb608-2044-436b-99a8-0e60508bc8d2",
+  "keys": [
+    "14ba9f0c-1598-46ee-a3de-298c14972bbe"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately describes how the underlined sentence functions in the text as a whole. The first sentence explains that Bernabei and his team studied growth rings to obtain information about the ancient oak planks found during a construction project in Rome. The next sentence presents what the researchers learned: the wood from the planks came from France&rsquo;s Jura region, which is far from Rome. The underlined sentence then presents the implications of the findings about the planks: the wood must have been brought to Rome by boat, a difficult task that suggests Roman trade routes were complex. Thus, the underlined sentence mainly functions to present a conclusion about Roman trade routes based on the team&rsquo;s findings. </p><p>Choice B is incorrect because the text doesn&rsquo;t suggest that the team thought the ancient planks were used in the construction of a boat, nor does the underlined sentence question that conclusion. Instead, the text states that the wood could only have been transported from Jura to Rome in a boat. Choice C is incorrect because the underlined sentence simply offers a conclusion drawn from the team&rsquo;s findings about the likely place of origin of the ancient planks; the text never mentions why oak was chosen for the planks instead of other wood. Choice D is incorrect because neither the underlined sentence nor the text as a whole addresses any methods that Romans used in constructing subways. Instead, the underlined sentence offers a conclusion drawn from the team&rsquo;s findings about the likely place of origin of the ancient wooden planks discovered. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes the function of the underlined sentence in the text as a whole?</p>",
+  "externalid": "f1173373-68e6-4e0b-bb17-9e691425cb0e",
+  "stimulus": "<p>When ancient oak planks were unearthed during subway construction in Rome, Mauro Bernabei and his team examined the growth rings in the wood to determine where these planks came from. By comparing the growth rings on the planks to records of similar rings in oaks from Europe, the team could trace the wood to the Jura region of France, hundreds of kilometers from Rome. <span role=\"region\" aria-label=\"Referenced Content\"><u>Because timber could only have been transported from distant Jura to Rome by boat, the team&rsquo;s findings suggest the complexity of Roman trade routes.</u></span></p>",
+  "templateclusterid": "4324799f-4d41-4b31-a90f-821f59bbd263",
+  "parenttemplatename": "OSP-046-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "14ba9f0c-1598-46ee-a3de-298c14972bbe",
+      "content": "<p>It presents a conclusion about Roman trade routes based on the team&rsquo;s findings.&nbsp;</p>"
+    },
+    {
+      "id": "4199198e-f667-48ab-ab38-f5e2cf5c4199",
+      "content": "<p>It questions how the team was able to conclude that the planks were used to build a boat.</p>"
+    },
+    {
+      "id": "7340023c-e20b-491b-b745-872460fa0bd1",
+      "content": "<p>It explains why the planks were made from oak rather than a different kind of wood.&nbsp;</p>"
+    },
+    {
+      "id": "a0a26c3e-58c9-4927-b39f-a0ec0586e5dd",
+      "content": "<p>It describes common methods used in Roman subway construction.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

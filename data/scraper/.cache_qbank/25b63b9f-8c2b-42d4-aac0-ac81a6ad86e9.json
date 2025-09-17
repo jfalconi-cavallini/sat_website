@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "stimulus": "<p>The following text is from Betty Smith&rsquo;s 1943 novel <em>A Tree Grows in Brooklyn</em>. Francie, a young girl, visits the library often.</p>\n<blockquote>\n<p>Francie thought that all the books in the world were in that library and she had a plan about reading all the books in the world. She was reading a book a day in alphabetical order and not skipping the dry ones. She remembered that the first author had been Abbott. She had been reading a book a day for a long time now and she was still in the B&rsquo;s. Already she had read about bees and buffaloes, Bermuda vacations and Byzantine architecture. For all her enthusiasm, she had to admit that some of the B&rsquo;s had been hard going. But Francie was a reader.</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;1947 by Betty Smith</span></p>",
+  "type": "mcq",
+  "keys": [
+    "20b6f9b0-bf24-44ae-b2c9-f40f0823bad5"
+  ],
+  "answerOptions": [
+    {
+      "id": "56c2fc2d-b525-470a-8e10-6f049ff30a10",
+      "content": "<p>To illustrate Francie&rsquo;s enjoyment of an unusual topic</p>"
+    },
+    {
+      "id": "64174b6c-8830-4837-9602-50c35d7fd02b",
+      "content": "<p>To explain why Francie prefers reading over other activities</p>"
+    },
+    {
+      "id": "20b6f9b0-bf24-44ae-b2c9-f40f0823bad5",
+      "content": "<p>To portray Francie&rsquo;s determination to meet a goal</p>"
+    },
+    {
+      "id": "f16ebf85-3a4e-4733-842c-b4a52657a65d",
+      "content": "<p>To describe a book that Francie greatly admires</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most accurately describes the main purpose of the text, which is to portray Francie&rsquo;s determination to reach her goal of reading all the books in the world. The text indicates that to achieve this aim, Francie works systematically and persistently: she reads all the books in the library in alphabetical order and devotes much time and effort to the project, finishing one book per day over a long period of time. The text then suggests that even though she progresses slowly (\"she was still in the B&rsquo;s\") and that she struggled with some books (\"some of the B&rsquo;s had been hard going\"), she doesn&rsquo;t give up because she thinks of herself as \"a reader.\" These details show Francie&rsquo;s resolve.</p><p>Choice A is incorrect. Although the text mentions several topics (bees and buffaloes, Bermuda vacations, and Byzantine architecture) that Francie has read about, it doesn&rsquo;t indicate that any of these topics are unusual or that she especially enjoyed reading about one of these topics in particular. If anything, the text suggests that she may have found some of these topics to be dull, saying that she even read the \"dry ones\"&mdash;that is, the boring books&mdash;and that some of the books were \"hard going,\" meaning they were difficult to get through. Choice B is incorrect because the text doesn&rsquo;t discuss Francie&rsquo;s involvement in other activities, only her dedication to reading. Although it&rsquo;s possible that Francie dedicates herself to reading because she prefers it to other activities, the text doesn&rsquo;t indicate whether this is the case. Choice D is incorrect. Although the text mentions one author (Abbott) whose book Francie has read as well as several topics (bees and buffaloes, Bermuda vacations, and Byzantine architecture) she has encountered, the text doesn&rsquo;t say whether Francie admires any of the books she&rsquo;s read so far. Instead, the text focuses on the time and effort she devotes to reaching her goal of reading all the books in the world&mdash;even ones she doesn&rsquo;t enjoy.</p>",
+  "externalid": "25b63b9f-8c2b-42d4-aac0-ac81a6ad86e9",
+  "correct_answer": [
+    "C"
+  ]
+}

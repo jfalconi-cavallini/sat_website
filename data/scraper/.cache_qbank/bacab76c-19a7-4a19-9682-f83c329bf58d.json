@@ -1,0 +1,38 @@
+{
+  "vaultid": "e2de97eb-326b-4b8a-bb59-79fb2929717d",
+  "keys": [
+    "db9adbb9-1c3a-455f-afed-347b11a03cfb"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of Nikki Grimes&rsquo;s poetry collection <em>One Last Word</em>. The text explains that Grimes used a writing method called the golden shovel to create the poems in her book. According to the text, the method involves basing a new poem on a line from an existing poem. The text then mentions Langston Hughes and Georgia Douglas Johnson as examples of important Black poets whose lines of poetry form the basis of Grimes&rsquo;s poems. The text goes on to say that this writing method is difficult and that the resulting poems can be awkward, but reviewers have positively reviewed Grimes&rsquo;s book. If the reviewers of <em>One Last Word</em> specifically note that the work is a &ldquo;beautiful and powerful tribute to the poets who inspired it,&rdquo; then they must have appreciated how Grimes used the golden shovel method to pay tribute to other poets. This suggests that Grimes was successful in using the golden shovel method to achieve her goal of honoring Black poets in her book. </p><p>Choice A is incorrect because the reaction suggests that most reviewers did understand Grimes&rsquo;s goal for her book. According to the text, the reviewers noted that the poems in her book were a &ldquo;beautiful and powerful tribute to the poets who inspired it.&rdquo; Earlier, the text claims that Grimes intended the poems &ldquo;to honor important Black poets of the past,&rdquo; so in their praise of her book, the reviewers clearly indicated that they understood Grimes&rsquo;s goal. Choice C is incorrect. Although it&rsquo;s likely that Grimes sought to honor Hughes and Johnson in her book of poetry because they&rsquo;re among her favorite poets, this fact isn&rsquo;t suggested by the reviewers&rsquo; positive reaction to her book. Instead, the reaction suggests that Grimes was successful in her use of the golden shovel method.&nbsp;Choice D is incorrect because the text doesn&rsquo;t discuss whether other writers were inspired by Grimes to use the golden shovel method in their poetry. The text mentions the poets Hughes and Johnson as examples of poets honored in Grimes&rsquo;s book and describes reviewers&rsquo; positive reception of her book, but it doesn&rsquo;t detail Grimes&rsquo;s impact on other writers. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "bacab76c-19a7-4a19-9682-f83c329bf58d",
+  "stimulus": "<p>To create the poems in her 2017 collection <em>One Last Word</em>, poet Nikki Grimes used a writing method called the golden shovel. This method often involves choosing a line from an existing poem and then using each word from that line as the last word of each line in a new poem. Grimes wanted the poems in <em>One Last Word</em> to honor important Black poets of the past, so she chose lines by poets such as Langston Hughes and Georgia Douglas Johnson. Writing in this way can be challenging and might seem as though it would produce awkward poems. However, reviewers praised <em>One Last Word</em> as a beautiful and powerful tribute to the poets who inspired it. This reaction suggests that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "0e885308-26df-4929-872b-41e9d5e8b5ea",
+  "parenttemplatename": "OSP-050-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "71c4ef7e-24e8-45db-9876-5e6ee4a81e3d",
+      "content": "<p>most reviewers didn&rsquo;t understand Grimes&rsquo;s goal for <em>One Last Word</em>.</p>"
+    },
+    {
+      "id": "db9adbb9-1c3a-455f-afed-347b11a03cfb",
+      "content": "<p>Grimes successfully used the golden shovel method to achieve her goal for <em>One Last Word</em>.</p>"
+    },
+    {
+      "id": "7b41fbd0-b504-4ca2-8cdf-7fa930fe71e9",
+      "content": "<p>Langston Hughes and Georgia Douglas Johnson are two of Grimes&rsquo;s favorite poets.</p>"
+    },
+    {
+      "id": "338e6900-3458-4c0c-ad50-1d7ef05482d4",
+      "content": "<p>Grimes inspired many other writers to create poems using the golden shovel method.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

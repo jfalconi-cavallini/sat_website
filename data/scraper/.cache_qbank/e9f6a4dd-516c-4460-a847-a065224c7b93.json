@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>The student wants to emphasize the effect media had on building Wong Fei-hung&rsquo;s legacy. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Little is known about the life of Wong Fei-hung (1847&ndash;1925).</li>\n<li>He was born near Foshan, China, and gained local recognition as a physician and Hung Ga (also known as Hung Gar) Kung Fu master.</li>\n<li>He achieved many incredible martial arts feats&mdash;some confirmed and some rumored.</li>\n<li>He has become an internationally known folk hero thanks to his depiction in over a hundred films, television shows, and other media.</li>\n<li>In the 1991 film <em>Once Upon a Time in China</em>, actor Jet Li portrays Wong Fei-hung using superhuman kung fu abilities to save his community.</li>\n</ul>",
+  "keys": [
+    "599e05f4-5d06-4354-95e7-bbebc151ece7"
+  ],
+  "answerOptions": [
+    {
+      "id": "91804abd-604e-456f-8fa4-85b01045439e",
+      "content": "<p>Thanks to his depiction in over a hundred pieces of media, Wong Fei-hung was locally known as a successful physician and Hung Ga Kung Fu master.</p>"
+    },
+    {
+      "id": "599e05f4-5d06-4354-95e7-bbebc151ece7",
+      "content": "<p>Though he was known locally during his lifetime, Wong Fei-hung&rsquo;s later depiction in television, film, and other media has turned him into an internationally known folk hero.</p>"
+    },
+    {
+      "id": "a0899bdf-5023-4848-83b0-e8e0d775baa7",
+      "content": "<p>Various media have depicted Wong Fei-hung, the successful physician and kung fu master who became an internationally known folk hero.</p>"
+    },
+    {
+      "id": "42ec81b5-9bb7-4c19-89e4-69957a0993cf",
+      "content": "<p>Wong Fei-hung&rsquo;s abilities as a kung fu master are depicted in many media, including the 1991 film <em>Once Upon a Time in China</em>.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The sentence emphasizes the effect media had on building Wong Fei-hung&rsquo;s legacy, noting that media depictions after his lifetime turned Wong Fei-hung into an internationally known folk hero.</p><p>Choice A is incorrect. While it appears to emphasize the effect of media depictions of Wong Fei-hung, the sentence misrepresents information from the notes. According to the notes, media depictions resulted in Wong Fei-hung becoming an internationally known folk hero, not a locally known physician and kung fu master. Choice C is incorrect. The sentence discusses Wong Fei-hung&rsquo;s legacy, noting that he became an internationally known folk hero, but it doesn&rsquo;t emphasize the effect media had on building that legacy. Choice D is incorrect. The sentence indicates that Wong Fei-hung has been depicted in many media but doesn&rsquo;t emphasize the effect of these media depictions on building his legacy.</p>",
+  "externalid": "e9f6a4dd-516c-4460-a847-a065224c7b93",
+  "correct_answer": [
+    "B"
+  ]
+}

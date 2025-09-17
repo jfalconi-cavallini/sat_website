@@ -1,0 +1,31 @@
+{
+  "stem": "<p>The student wants to emphasize how many islands in Komodo National Park have Komodo dragons living on them. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Komodo dragons are the largest lizards in the world.</li>\n<li>They live on four islands in Komodo National Park, Indonesia.</li>\n<li>The park has a total of twenty-nine islands.</li>\n</ul>",
+  "type": "mcq",
+  "keys": [
+    "b358a97f-8da8-43a8-9ce5-e4a2fe9ece15"
+  ],
+  "answerOptions": [
+    {
+      "id": "478b0474-d1ec-4cf2-85e9-2869ff658cbc",
+      "content": "<p>Komodo dragons, the world&rsquo;s largest lizards, live on islands in Komodo National Park, Indonesia.</p>"
+    },
+    {
+      "id": "ddece66c-2425-4360-a7ac-b9ad784b4780",
+      "content": "<p>The largest lizards in the world are found in Komodo National Park.</p>"
+    },
+    {
+      "id": "b358a97f-8da8-43a8-9ce5-e4a2fe9ece15",
+      "content": "<p>Only four of the twenty-nine islands in Komodo National Park have Komodo dragons living on them.</p>"
+    },
+    {
+      "id": "3e6ed705-6b49-4891-9266-bc5078d111b6",
+      "content": "<p>There are twenty-nine islands in Indonesia&rsquo;s Komodo National Park.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The sentence emphasizes the number of islands in Komodo National Park that have Komodo dragons living on them, noting that four of the park&rsquo;s twenty-nine islands have Komodo dragons.</p><p>Choice A is incorrect. While the sentence does explain that Komodo dragons live on the islands of Komodo National Park, it doesn&rsquo;t emphasize how many of those islands Komodo dragons live on. Choice B is incorrect. The sentence explains that Komodo National Park contains the world&rsquo;s largest lizards; it doesn&rsquo;t identify these lizards as Komodo dragons or emphasize how many of the park&rsquo;s islands the lizards live on. Choice D is incorrect. The sentence specifies the total number of islands in Komodo National Park; it doesn&rsquo;t emphasize how many of those islands have Komodo dragons.</p>",
+  "externalid": "4c2dd37c-9e2d-4679-8905-90514624a673",
+  "correct_answer": [
+    "C"
+  ]
+}

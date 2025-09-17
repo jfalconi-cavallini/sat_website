@@ -1,0 +1,38 @@
+{
+  "vaultid": "5a8bbe40-7677-4104-bd7d-c0057de25c4d",
+  "keys": [
+    "e3f08f6a-3768-49c7-944f-f893ba5f2691"
+  ],
+  "rationale": "<p>Choice D is the best answer because the sentence makes and supports a generalization about honeybees. It claims that honeybees living in urban areas are more likely to thrive than rural bees, and it supports the claim with information about the effect of a varied diet on urban bees&rsquo; immune systems.&nbsp;</p><p>Choice A is incorrect. While the sentence makes a generalization, it doesn&rsquo;t mention honeybees.&nbsp;Choice B is incorrect. While the sentence provides data about honeybee survival, it doesn&rsquo;t make a generalization about honeybees based on this information. Choice C is incorrect. While the sentence makes a generalization about honeybees&rsquo; diets and immune systems, it doesn&rsquo;t provide adequate support for this generalization. </p>",
+  "origin": "proteus",
+  "stem": "<p>The student wants to make and support a generalization about honeybees.&nbsp;Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "externalid": "ac00b01b-d2bb-46df-8b1e-5454ee83e79a",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Cities tend to have a wide range of flowering vegetation in parks, yards, and gardens.</li>\n<li>This vegetation provides a varied diet for honeybees, strengthening bees&rsquo; immune systems.</li>\n<li>On average, 62.5 percent of bees in an urban area will survive a harsh winter.</li>\n<li>Rural areas are often dominated by monoculture crops such as corn or wheat.</li>\n<li>On average, only 40 percent of honeybees in a rural area will survive a harsh winter.</li>\n</ul>",
+  "templateclusterid": "65b7aa8f-be4c-4bde-8514-4793f07b2cf2",
+  "parenttemplatename": "OSP-756-SYN",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "e1521cb6-3c4c-416a-a747-1f2e3785b2b3",
+      "content": "<p>Cities tend to have a wider range of flowering vegetation than do rural areas, which are often dominated by monoculture crops.</p>"
+    },
+    {
+      "id": "bbc3b407-ae2c-407c-a4d7-3e3cb4228689",
+      "content": "<p>In urban areas, over 60 percent of honeybees, on average, will survive a harsh winter, whereas in rural areas, only 40 percent will.&nbsp;</p>"
+    },
+    {
+      "id": "cee23bd1-a82a-4eae-a762-de6f5716989d",
+      "content": "<p>The strength of honeybees&rsquo; immune systems depends on what the bees eat, and a varied diet is more available to bees in an urban area than to those in a rural area.</p>"
+    },
+    {
+      "id": "e3f08f6a-3768-49c7-944f-f893ba5f2691",
+      "content": "<p>Honeybees are more likely to thrive in cities than in rural areas because the varied diet available in urban areas strengthens the bees&rsquo; immune systems.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

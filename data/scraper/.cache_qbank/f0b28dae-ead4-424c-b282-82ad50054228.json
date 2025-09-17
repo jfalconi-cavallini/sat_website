@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p><em>Light of Truth</em> is a bronze and marble sculpture by artist Richard Hunt. It honors civil rights icon Ida B. Wells. The sculpture <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in a tree-lined plaza in Chicago, just a few blocks from where Wells lived.</p>",
+  "type": "mcq",
+  "keys": [
+    "ad955ccd-e063-43e2-8361-db9d370912b2"
+  ],
+  "answerOptions": [
+    {
+      "id": "c2a27c4b-5524-4c16-83a8-656fb6049d80",
+      "content": "<p>are standing</p>"
+    },
+    {
+      "id": "ccc771d3-f857-43e1-b8a6-6df51411d3a2",
+      "content": "<p>have been standing</p>"
+    },
+    {
+      "id": "ad955ccd-e063-43e2-8361-db9d370912b2",
+      "content": "<p>stands</p>"
+    },
+    {
+      "id": "d179e32b-a43f-4657-b1af-66dd9bd0eefc",
+      "content": "<p>were standing</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is subject-verb agreement. The singular verb \"stands\" agrees in number with the singular subject \"sculpture.\"</p><p>Choice A is incorrect because the plural verb \"are standing\" doesn&rsquo;t agree in number with the singular subject \"sculpture.\" Choice B is incorrect because the plural verb \"have been standing\" doesn&rsquo;t agree in number with the singular subject \"sculpture.\" Choice D is incorrect because the plural verb \"were standing\" doesn&rsquo;t agree in number with the singular subject \"sculpture.\"</p>",
+  "externalid": "f0b28dae-ead4-424c-b282-82ad50054228",
+  "correct_answer": [
+    "C"
+  ]
+}

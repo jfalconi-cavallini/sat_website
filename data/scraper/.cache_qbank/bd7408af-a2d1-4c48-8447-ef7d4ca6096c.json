@@ -1,0 +1,38 @@
+{
+  "vaultid": "a0a400c3-87dd-4f2b-9187-f3aab5e8bb8b",
+  "keys": [
+    "74851c5c-2396-4c65-afea-dfb9700bf4f4"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is end-of-sentence punctuation. This choice correctly uses a question mark to punctuate the interrogative sentence &ldquo;how are they able to move so fast?&rdquo; The interrogative sentence asks a direct question, and the next sentence answers it. </p><p>Choice A is incorrect because the context requires an interrogative sentence. The exclamative sentence &ldquo;how they are able to move so fast!&rdquo; emphasizes the penguin&rsquo;s high rate of speed, but it doesn&rsquo;t set up the next sentence&rsquo;s explanation of how the penguins achieve such speeds. Choice B is incorrect because a period can&rsquo;t be used in this way to punctuate an interrogative sentence. Choice C is incorrect because the context requires an interrogative sentence. The exclamative sentence &ldquo;how they are able to move so fast&rdquo; emphasizes the penguin&rsquo;s high rate of speed, but it doesn&rsquo;t set up the next sentence&rsquo;s explanation of how the penguins achieve such speeds.\n&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "bd7408af-a2d1-4c48-8447-ef7d4ca6096c",
+  "stimulus": "<p>Emperor penguins don&rsquo;t waddle out of the ocean. They launch themselves at such a high speed that they travel up to two meters before landing. How <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> A layer of microbubbles on their plumage reduces friction as the penguins speed to the surface.</p>",
+  "templateclusterid": "eb450723-ee02-448c-b4ae-8656319e1c23",
+  "parenttemplatename": "OSP-773-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "88ad9603-e0b8-4f57-b2a5-24f8ca169dbf",
+      "content": "<p>they are able to move so fast!</p>"
+    },
+    {
+      "id": "f7ac3571-efdb-490f-8a9b-3e6895fef516",
+      "content": "<p>&nbsp;are they able to move so fast.</p>"
+    },
+    {
+      "id": "409ffffc-6b3f-4e29-a16a-95d707d306a2",
+      "content": "<p>they are able to move so fast.</p>"
+    },
+    {
+      "id": "74851c5c-2396-4c65-afea-dfb9700bf4f4",
+      "content": "<p>are they able to move so fast?</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

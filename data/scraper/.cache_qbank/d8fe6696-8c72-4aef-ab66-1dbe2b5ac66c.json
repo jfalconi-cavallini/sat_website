@@ -1,0 +1,38 @@
+{
+  "vaultid": "08446fa4-0deb-4e72-822a-5c614a609acd",
+  "keys": [
+    "d7813110-e842-41c1-b7ed-a227328c6c97"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most effectively uses a quotation to illustrate the claim that Lady Gertrude Chiltern is perceived as &ldquo;both extremely virtuous and unforgiving.&rdquo; In the quotation, a man describes Lady Chiltern as someone who &ldquo;does not know what weakness or temptation is.&rdquo; In other words, the man regards her as someone who is strong and adheres to a strict definition of moral perfection. However, he ironically suggests that this definition excludes mercy and forgiveness&mdash;qualities that are also thought of as virtues; according to him, Lady Chiltern is &ldquo;pitiless in her perfection&mdash;cold and stern and without mercy.&rdquo; This description supports the idea that Lady Chiltern is perceived by others as virtuous as well as unforgiving. </p><p>Choice A is incorrect. The quotation supports the claim that Lady Chiltern is perceived as virtuous, in that it describes her as &ldquo;a woman of the very highest principles.&rdquo; However, it doesn&rsquo;t characterize her as unforgiving or being perceived as such. Choice B is incorrect. The quotation suggests that Lady Chiltern is concerned with morality, but it suggests that her interest in discussing it is fundamentally hypocritical and functions as a means by which to judge others. However, the quotation doesn&rsquo;t address the question of whether Lady Chiltern is unmerciful to those who seek forgiveness for harm they have caused. Choice D is incorrect because it doesn&rsquo;t address either Lady Chiltern&rsquo;s perceived virtuousness or her perceived lack of forgiveness; instead, it expresses the belief that she is sensible. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which quotation from <em>An Ideal Husband</em> most effectively illustrates the claim?</p>",
+  "externalid": "d8fe6696-8c72-4aef-ab66-1dbe2b5ac66c",
+  "stimulus": "<p><em>An Ideal Husband</em> is an 1895 play by Oscar Wilde. In the play, which is a satire, Wilde suggests that a character named Lady Gertrude Chiltern is perceived as both extremely virtuous and unforgiving, as is evident when another character says <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "c733a649-6c78-44c1-8802-0bbd7bce2ad1",
+  "parenttemplatename": "OSP-416-LIT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "84b3cc18-577a-4044-986a-41be78906e09",
+      "content": "<p>&ldquo;Lady Chiltern is a woman of the very highest principles, I am glad to say. I am a little too old now, myself, to trouble about setting a good example, but I always admire people who do.&rdquo;</p>"
+    },
+    {
+      "id": "e5ae2bc3-1a70-44fe-ae8c-6635eb55dea6",
+      "content": "<p>&ldquo;Do you know, [Lady Chiltern], I don&rsquo;t mind your talking morality a bit. Morality is simply the attitude we adopt towards people whom we personally dislike.&rdquo;</p>"
+    },
+    {
+      "id": "d7813110-e842-41c1-b7ed-a227328c6c97",
+      "content": "<p>&ldquo;[Lady Chiltern] does not know what weakness or temptation is. I am of clay like other men. She stands apart as good women do&mdash;pitiless in her perfection&mdash;cold and stern and without mercy.&rdquo;</p>"
+    },
+    {
+      "id": "7eb16fd8-6985-4f7f-9d5b-0d92c9b2585a",
+      "content": "<p>&ldquo;Lady Chiltern, you are a sensible woman, the most sensible woman in London, the most sensible woman I know.&rdquo;</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

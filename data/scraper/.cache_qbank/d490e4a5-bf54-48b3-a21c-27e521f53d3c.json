@@ -1,0 +1,38 @@
+{
+  "vaultid": "ba54bede-29bd-4340-866d-4dba8bcc9ecf",
+  "keys": [
+    "6e58bce6-c2ca-4a15-82db-9a00dee88aec"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most effectively states the main idea of the text, which is that Heidi is delighted and fascinated by an image she sees in one of Grandmama&rsquo;s books. In the text, Heidi screams upon first seeing the picture of the green pasture. In another context, such a reaction might suggest fear, but here the reaction is followed by descriptions of an image that&rsquo;s peaceful rather than scary. The text goes on to describe Heidi&rsquo;s eyes as &ldquo;glowing&rdquo; and states that she &ldquo;devoured the scene,&rdquo; suggesting that the image delights and fascinates her so much that she wants to examine every detail. Together, these descriptions suggest that Heidi is thrilled and intrigued by the image in the book. </p><p>Choice A is incorrect because there&rsquo;s nothing in the text to suggest that Heidi is upset before seeing the peaceful image of the green pasture. Before Heidi sees that image, the text describes her as &ldquo;looking with wondering eyes at the splendid pictures&rdquo; in the book, suggesting that Heidi is intrigued, not that she&rsquo;s unhappy. Choice C is incorrect. Although Heidi screams upon first seeing the image, the text&rsquo;s description of the image and Heidi&rsquo;s other reactions to it suggest that she is screaming with delight, not fear. The text describes the images in the book as &ldquo;splendid&rdquo; and the particular image that causes her to scream as peaceful rather than frightening. It also describes Heidi&rsquo;s eyes as &ldquo;glowing&rdquo; and states that she &ldquo;devoured the scene,&rdquo; suggesting that the image of the green pasture delights and fascinates her so much that she wants to examine every detail. Choice D is incorrect because it&rsquo;s unclear from the text whether Heidi has ever seen a shepherd with his sheep before. The text merely suggests that she is delighted and fascinated by the image of the shepherd and his sheep. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "externalid": "d490e4a5-bf54-48b3-a21c-27e521f53d3c",
+  "stimulus": "<p>The following text is adapted from Johanna Spyri&rsquo;s 1881 novel <em>Heidi</em> (translated by Elisabeth Stork in 1915). Eight-year-old Heidi and her friend&rsquo;s grandmother are looking at some illustrated books.</p>\n<blockquote>\n<p>Heidi had come and was looking with wondering eyes at the splendid pictures in the large books, that Grandmama was showing her. Suddenly she screamed aloud, for there on the picture she saw a peaceful flock grazing on a green pasture. In the middle a shepherd was standing, leaning on his crook. The setting sun was shedding a golden light over everything. With glowing eyes Heidi devoured the scene.</p>\n</blockquote>",
+  "templateclusterid": "1877746d-a88f-4e5a-86c1-87778be53173",
+  "parenttemplatename": "OSP-028-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "64ec4f68-a2cd-4171-b21c-1b22213af7f1",
+      "content": "<p>Heidi is upset until she sees a serene image of a pasture in one of Grandmama&rsquo;s books.</p>"
+    },
+    {
+      "id": "6e58bce6-c2ca-4a15-82db-9a00dee88aec",
+      "content": "<p>Heidi is delighted and fascinated by an image she sees in one of Grandmama&rsquo;s books.</p>"
+    },
+    {
+      "id": "b8344d87-0d83-4d19-a6dd-079e28926c9f",
+      "content": "<p>Heidi is initially frightened by an image in one of Grandmama&rsquo;s books but quickly comes to appreciate its beauty.</p>"
+    },
+    {
+      "id": "b96cbe9b-4215-4419-880d-91a8887a457a",
+      "content": "<p>Heidi is inspecting an image in one of Grandmama&rsquo;s books because she has never seen a shepherd with his sheep before.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

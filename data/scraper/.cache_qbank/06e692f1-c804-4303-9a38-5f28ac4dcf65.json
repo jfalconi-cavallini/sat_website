@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>The practice of logging (cutting down trees for commercial and other uses) is often thought to be at odds with forest conservation (the work of preserving forests). However, a massive study in forest management and preservation spanning 700,000 hectares in Oregon&rsquo;s Malheur National Forest calls that view into question. So far, results of the study suggest that forest plots that have undergone limited logging (the careful removal of a controlled number of trees) may be more robust than plots that haven&rsquo;t been logged at all. These results, in turn, suggest that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "c98af2b4-0ca7-41a0-a23a-70bffce88cae"
+  ],
+  "answerOptions": [
+    {
+      "id": "c98af2b4-0ca7-41a0-a23a-70bffce88cae",
+      "content": "<p>logging may be useful for maintaining healthy forests, provided it is limited.</p>"
+    },
+    {
+      "id": "a86b7a12-5150-47cb-a1d5-e6f8685736c2",
+      "content": "<p>other forest management strategies are more effective than limited logging.</p>"
+    },
+    {
+      "id": "f76e5969-bb93-4e6d-a0ad-5c0b2f407497",
+      "content": "<p>as time passes, it will be difficult to know whether limited logging has any benefits.</p>"
+    },
+    {
+      "id": "566b7830-5aaf-4078-8d27-2e6141766342",
+      "content": "<p>the best way to support forest health may be to leave large forests entirely untouched.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of the potential effects of logging on forest conservation. The text begins by stating that logging practices are often thought of as being contrary to forest conservation efforts. Then, the text presents the results of a research study examining the effect of limited logging practices on specific forest plots, finding that the plots with limited logging may be \"more robust\" (healthier) than the plots that hadn&rsquo;t been logged at all. Given these results, it follows that logging may be a useful practice for maintaining healthy forests if it is practiced in a limited way.</p><p>Choice B is incorrect because the study referenced in the text only provides information on limited logging as a potential forest management strategy. There is no information in the text about how other forest management strategies support forest conservation efforts. Therefore, the text does not support the assertion that other forest management strategies are more successful than limited logging. Choice C is incorrect because the text presents a research study with findings that specific plots of forest with limited logging may be more robust than the forest plots that were not logged. Rather than suggesting that it is hard to know whether limited logging might be beneficial, the text suggests that the practice could be useful in forest conservation efforts. Choice D is incorrect. The text discusses the results of a research study that compares the health of forest plots with limited logging to forest plots that were not logged. It does not take a position on the best way to support forest health but rather presents a research study with findings that question conventionally held thoughts regarding the practice of logging.</p>",
+  "externalid": "06e692f1-c804-4303-9a38-5f28ac4dcf65",
+  "correct_answer": [
+    "A"
+  ]
+}

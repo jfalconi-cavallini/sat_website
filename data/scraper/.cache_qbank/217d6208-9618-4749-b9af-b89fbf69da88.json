@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which finding, if true, would most directly support Barboza and Trejos&rsquo;s claim?</p>",
+  "stimulus": "<p>ALSOL is a microcredit program in Mexico that makes small loans to female entrepreneurs who lack the collateral and credit history to secure financing from conventional banks. Borrowers use their business proceeds to repay loans in equal weekly installments and incur no penalty for missed payments other than lack of access to larger loans. Economists Gustavo Barboza and Sandra Trejos analyzed ALSOL data and found that rural borrowers, who mostly make and sell handicrafts, miss payments more often than urban borrowers do, partly because they sell their goods less frequently than they could. Barboza and Trejos claim that this behavior reflects strategic decisions that enable rural women to increase their profits per unit sold.</p>",
+  "keys": [
+    "24852524-49da-4604-b05c-50ce2b4f3635"
+  ],
+  "answerOptions": [
+    {
+      "id": "bc0588ac-e6ac-47f9-a760-9c8341de2f3f",
+      "content": "<p>Many marketplaces require entrepreneurs to pay marketplace operators a fixed percentage of each day&rsquo;s proceeds in exchange for permission to sell goods there.</p>"
+    },
+    {
+      "id": "9eab1bd1-563d-40cd-a183-3dad1ec665d5",
+      "content": "<p>Rural entrepreneurs can typically sell their goods for higher prices in cities than in their home areas, but the number of people selling competing goods tends to be higher in cities.</p>"
+    },
+    {
+      "id": "d7aa70e5-bebd-4021-aa00-d71f7e036ccd",
+      "content": "<p>Due to the lower costs they incur, rural entrepreneurs tend to require smaller initial loans than urban entrepreneurs do.&nbsp;</p>"
+    },
+    {
+      "id": "24852524-49da-4604-b05c-50ce2b4f3635",
+      "content": "<p>The cost to rural entrepreneurs to bring their goods to towns with marketplaces is high but largely independent of the number of goods they bring.&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents a finding that, if true, would most directly support Barboza and Trejos&rsquo;s claim that rural female entrepreneurs who have received small loans from ALSOL are strategic in selling their goods less frequently than they could, even if it means missing payments. The text explains that borrowers in the ALSOL program use proceeds from their businesses to repay loans in equal weekly payments, with almost no penalty for missed payments. According to the text, Barboza and Trejos found that rural borrowers miss weekly payments in part because they don&rsquo;t sell their goods as often as they could, a move the researchers claim allows the entrepreneurs to help increase profits for the goods they sell. Finding that the cost of bringing goods to towns with marketplaces is high for rural entrepreneurs but is largely independent of how many goods are brought would support the researchers&rsquo; claim: traveling to marketplaces less frequently would mean that a rural entrepreneur spends less on travel overall, and taking a large load of goods to a marketplace for essentially the same cost as taking a small load would allow the entrepreneur to more substantially offset the cost of travel with greater overall sales at the marketplace, resulting in more profit per good sold&mdash;even if those profits are earned less frequently and don&rsquo;t support weekly loan payments.</p><p>Choice A is incorrect because the finding that many marketplaces require entrepreneurs to pay the operators of the marketplace a fixed percentage of proceeds to be able to sell goods there wouldn&rsquo;t explain why rural entrepreneurs strategically choose to sell their goods less frequently than they could in order to increase their profits per unit sold. With a fixed percentage of proceeds due to operators, the amount entrepreneurs have to pay operators would also be fixed regardless of frequency of selling. Choice B is incorrect because the finding that rural entrepreneurs can usually sell their goods for higher prices in cities than in their local areas but also face higher competition to sell goods in cities wouldn&rsquo;t explain why rural entrepreneurs strategically choose to sell their goods less frequently than they could in order to increase their profits per unit sold. This is because both the higher prices and higher competition in cities would be stable factors&mdash;meaning there would be no clear reason for the rural entrepreneurs not to take every available chance to sell their goods in cities and to instead sell their goods in cities only sometimes. Choice C is incorrect because the finding that rural entrepreneurs have lower costs and thus tend to require smaller initial loans than urban entrepreneurs do has no bearing on rural borrowers strategically choosing to sell their goods less frequently than they could specifically to increase their profits per unit sold. The cost of producing goods doesn&rsquo;t depend on the frequency with which an entrepreneur sells those goods, so lower frequency alone wouldn&rsquo;t affect profits, and the initial loan amount is set and has nothing to do with how much profit is earned from each sale.</p>",
+  "externalid": "217d6208-9618-4749-b9af-b89fbf69da88",
+  "correct_answer": [
+    "D"
+  ]
+}

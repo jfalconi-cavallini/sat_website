@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>Marine archaeologists have found much of the wooden hull of a sixteenth-century ship in a flooded quarry in southeast England. When it is exposed to air and water, wood rots quickly unless it is protected by sediment that shields it from oxygen. Therefore, the discovered ship was likely <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "92ddc718-1768-46a4-8d36-f10b717c5e47"
+  ],
+  "answerOptions": [
+    {
+      "id": "92ddc718-1768-46a4-8d36-f10b717c5e47",
+      "content": "<p>covered by a protective sediment layer in the quarry.</p>"
+    },
+    {
+      "id": "615fbc69-52f0-444f-af52-f3a43d17d27e",
+      "content": "<p>one of several other ships buried in the same quarry.</p>"
+    },
+    {
+      "id": "494ea205-879b-46a7-b119-f9acb530b22d",
+      "content": "<p>a confirmation of previous theories about the type of wood that was used in sixteenth-century ships.</p>"
+    },
+    {
+      "id": "31fd0272-ecc0-45e8-8272-594dfb1f7f8d",
+      "content": "<p>first constructed much earlier than previously thought.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of the discovered ship. The text states that much of the ship&rsquo;s wooden hull was found in a quarry. The text also states that wood rots quickly unless it is protected by sediment, which shields the wood from exposure to oxygen. It is therefore reasonable to infer that the surviving portion of the ship&rsquo;s hull was covered by an oxygen-shielding layer of sediment.</p><p>Choice B is incorrect because nothing in the text suggests other ships have been or are likely to be found in the same quarry. The fact that much of this ship&rsquo;s wood survived for centuries in the quarry does raise the possibility that there might be other preserved ships, but the text provides no support for such a conclusion. Choice C is incorrect because the text does not address the type of wood used in sixteenth-century ships or any theories pertaining to wood choice in ships. Choice D is incorrect because the text states only that the ship is from the sixteenth century, with no other dates offered for its construction, and thus there is no basis to consider alternative ages for the ship. Additionally, even if the ship was constructed earlier, it is not logically connected to the text&rsquo;s discussion of how it was preserved.</p>",
+  "externalid": "d5bb4481-c2af-49c0-b9d2-623fbfc16758",
+  "correct_answer": [
+    "A"
+  ]
+}

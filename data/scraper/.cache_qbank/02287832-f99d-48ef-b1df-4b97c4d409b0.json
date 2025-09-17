@@ -1,0 +1,31 @@
+{
+  "stem": "<p>What does the text suggest about the Turkins?</p>",
+  "stimulus": "<p>The following text is from Anton Chekhov&rsquo;s 1898 short story &ldquo;Ionitch&rdquo; (translated by Marian Fell in 1915). The text is set in a Russian city referred to as the city of S.</p>\n<blockquote>\n<p>If newcomers to the little provincial city of S. complained that life there was monotonous and dull, its inhabitants would answer that, on the contrary, S. was a very amusing place, indeed, that it had a library and a club, that balls were given there, and finally, that very pleasant families lived there with whom one might become acquainted. And they always pointed to the Turkins as the most accomplished and most enlightened family of all.</p>\n</blockquote>",
+  "type": "mcq",
+  "keys": [
+    "5fd0ffa5-891c-4460-971c-96ee9cfebcf3"
+  ],
+  "answerOptions": [
+    {
+      "id": "6c395f5e-a515-4fdf-b1b7-7911c0b4ea07",
+      "content": "<p>They are relative newcomers to the city of S.</p>"
+    },
+    {
+      "id": "5fd0ffa5-891c-4460-971c-96ee9cfebcf3",
+      "content": "<p>They have a unique status in the city of S.</p>"
+    },
+    {
+      "id": "dc2fff69-ed40-4e01-9225-89d72357e12c",
+      "content": "<p>They have long disliked living in the city of S.</p>"
+    },
+    {
+      "id": "ababf12e-c061-455a-894c-d87f05904b18",
+      "content": "<p>They are amused by the other residents of the city of S.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it presents a statement about the Turkins that is suggested by the text. The text explains that while many pleasant families live in the city of S., inhabitants of the city consider the Turkins to be \"the most accomplished and most enlightened family of all.\" Thus, by indicating that they are seen as more accomplished and more enlightened than all the other families in the city of S., the text suggests that the Turkins have a unique status there.</p><p>Choice A is incorrect because the text doesn&rsquo;t indicate that the Turkins have recently moved to the city of S.; it provides no information about when the Turkins arrived. Choice C is incorrect because the text explains how the Turkins are viewed by others in the city of S. but gives no indication of how the Turkins feel about living there. Choice D is incorrect because the text explains how the Turkins are viewed by other residents of the city of S. but gives no indication of how the Turkins view the other residents.</p>",
+  "externalid": "02287832-f99d-48ef-b1df-4b97c4d409b0",
+  "correct_answer": [
+    "B"
+  ]
+}

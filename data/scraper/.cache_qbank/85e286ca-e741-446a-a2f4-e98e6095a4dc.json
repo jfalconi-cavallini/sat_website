@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best states the main purpose of the text?&nbsp;</p>",
+  "stimulus": "<p>Archaeologists studying the ancient city of Pompeii in Italy recently discovered a well-preserved food shop known as a <span lang=\"la\"><em>thermopolium</em></span>. The site contains food remains, artworks, and decorations. These items give researchers a better understanding of what daily life in Pompeii may have been like. For example, the archaeologists found a ceramic jar that they believe likely contained a meat and seafood stew.&nbsp;</p>",
+  "keys": [
+    "f49544b0-2e6a-4c62-ae07-7f6ac7845651"
+  ],
+  "answerOptions": [
+    {
+      "id": "a98984ca-8951-4886-b3cc-4430f5a84bf0",
+      "content": "<p>To compare ancient artworks with modern ones</p>"
+    },
+    {
+      "id": "31ed447e-f7da-4867-b767-9f91bf57ad59",
+      "content": "<p>To discuss the political system of Italy</p>"
+    },
+    {
+      "id": "f49544b0-2e6a-4c62-ae07-7f6ac7845651",
+      "content": "<p>To present a recent archaeological discovery&nbsp;</p>"
+    },
+    {
+      "id": "63553a65-9d42-46f1-b061-0fa0f35e2899",
+      "content": "<p>To describe a region&rsquo;s climate</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most accurately describes the main purpose of the text. The text states that archaeologists recently discovered a well-preserved food shop, or <span lang=\"la\"><em>thermopolium</em></span>, in Pompeii, Italy.  The text then further describes the contents of the discovery and provides an example of what was found. Thus, the overall purpose of the text is to present a recent archaeological discovery.</p><p>Choice A is incorrect. Although the text states that archaeologists found ancient artworks, it doesn&rsquo;t compare these artworks to modern ones or to any other artworks. Choice B is incorrect. Although the archaeological discovery discussed in the text was made in Italy, the text doesn&rsquo;t provide any information about politics or government in Italy. Choice D is incorrect because the text doesn&rsquo;t discuss the climate where the archaeological discovery was made or in any other region.</p>",
+  "externalid": "85e286ca-e741-446a-a2f4-e98e6095a4dc",
+  "correct_answer": [
+    "C"
+  ]
+}

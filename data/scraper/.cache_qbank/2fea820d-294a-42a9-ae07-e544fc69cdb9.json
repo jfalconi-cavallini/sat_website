@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Mathematician Grigori Perelman, sometimes in conjunction with mathematicians Richard <span data-ssml-sub-alias=\"S\">S.</span> Hamilton and Shing-Tung Yau, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> credited with proving the Poincar&eacute; conjecture. Having built on Hamilton&rsquo;s previous work to solve the proof, Perelman has insisted that Hamilton receive credit. Yau later found and closed gaps in Perelman&rsquo;s proof, persuading some mathematicians that he deserves credit as well.</p>",
+  "keys": [
+    "c379eb94-7c2c-4fb7-a9b8-7bfb45e4fbe6"
+  ],
+  "answerOptions": [
+    {
+      "id": "6c33e639-39ec-43cc-8f65-992657d6eddd",
+      "content": "<p>are</p>"
+    },
+    {
+      "id": "76ca71ca-a4bd-479f-acfd-c8956703ae5f",
+      "content": "<p>have been</p>"
+    },
+    {
+      "id": "8563bffa-d8e5-4093-9079-ea215fa50a86",
+      "content": "<p>are being</p>"
+    },
+    {
+      "id": "c379eb94-7c2c-4fb7-a9b8-7bfb45e4fbe6",
+      "content": "<p>is</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is subject-verb agreement. The singular verb \"is credited\" agrees in number with the singular subject \"mathematician Grigori Perelman.\"</p><p>Choice A is incorrect because the plural verb \"are credited\" doesn&rsquo;t agree in number with the singular subject \"mathematician Grigori Perelman.\" Choice B is incorrect because the plural verb \"have been credited\" doesn&rsquo;t agree in number with the singular subject \"mathematician Grigori Perelman.\" Choice C is incorrect because the plural verb \"are being credited\" doesn&rsquo;t agree in number with the singular subject \"mathematician Grigori Perelman.\"</p>",
+  "externalid": "2fea820d-294a-42a9-ae07-e544fc69cdb9",
+  "correct_answer": [
+    "D"
+  ]
+}

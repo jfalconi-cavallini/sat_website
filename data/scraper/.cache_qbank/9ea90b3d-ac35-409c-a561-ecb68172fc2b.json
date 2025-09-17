@@ -1,0 +1,38 @@
+{
+  "vaultid": "319c0cb3-8aa1-4c68-88b0-486d19831e5f",
+  "keys": [
+    "131c861b-16fd-4651-a62c-58f244d2ff1d"
+  ],
+  "rationale": "<p>Choice D is the best answer. The sentence effectively summarizes the study, noting who conducted it, when it was conducted, and what its results showed: that auks&rsquo; landing success rate decreased as wind conditions intensified. </p><p>Choice A is incorrect. While the sentence presents the methodology of the study&mdash;that is, the approach taken by the researchers&mdash;it fails to summarize the study as a whole. Choice B is incorrect. While the sentence presents the aim, or goal, of the study, it fails to summarize the study as a whole. Choice C is incorrect. While the sentence indicates what Shepard studied, it fails to mention a key factor: the effect of wind. It thus fails to summarize the study as a whole. </p>",
+  "origin": "proteus",
+  "stem": "<p>The student wants to summarize the study. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "externalid": "9ea90b3d-ac35-409c-a561-ecb68172fc2b",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>In 2019, Emily Shepard and colleagues in the UK and Germany studied the effect of wind on auks&rsquo; success in landing at cliffside nesting sites.</li>\n<li>They found as wind conditions intensified, the birds needed more attempts in order to make a successful landing.</li>\n<li>When the wind was still, almost 100% of landing attempts were successful.</li>\n<li>In a strong breeze, approximately 40% of attempts were successful.</li>\n<li>In near-gale conditions, only around 20% of attempts were successful.</li>\n</ul>",
+  "templateclusterid": "88d66f26-87a2-4945-a657-020b07ab922f",
+  "parenttemplatename": "OSP-750-SYN",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "b936f111-574e-4eeb-b222-8c563b2cd2dd",
+      "content": "<p>For a 2019 study, researchers from the UK and Germany collected data on auks&rsquo; attempts to land at cliffside nesting sites in different wind conditions.</p>"
+    },
+    {
+      "id": "83dd8bfc-eb4e-4bfa-abed-17fa1366e445",
+      "content": "<p>Emily Shepard and her colleagues wanted to know the extent to which wind affected auks&rsquo; success in landing at cliffside nesting sites, so they conducted a study.</p>"
+    },
+    {
+      "id": "4c091cda-eff9-45b9-a661-921aab01de2f",
+      "content": "<p>Knowing that auks often need multiple attempts to land at their cliffside nesting sites, Emily Shepard studied the birds&rsquo; success rate, which was only around 20% in some conditions.</p>"
+    },
+    {
+      "id": "131c861b-16fd-4651-a62c-58f244d2ff1d",
+      "content": "<p>Emily Shepard&rsquo;s 2019 study of auks&rsquo; success in landing at cliffside nesting sites showed that as wind conditions intensified, the birds&rsquo; success rate decreased.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

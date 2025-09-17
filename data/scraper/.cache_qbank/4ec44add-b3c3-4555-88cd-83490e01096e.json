@@ -1,0 +1,31 @@
+{
+  "stem": "<p>The student wants to introduce Pauline Hopkins<em>&nbsp;</em>to an audience unfamiliar with her career. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Pauline Hopkins (1859-1930) was an African American writer.</li>\n<li>In her career, she created many genre-defining stories.</li>\n<li>Her serialized novel <em>Hagar&rsquo;s Daughter</em>&nbsp;was published from 1901 to 1902 in <em>The Colored American Magazine</em>.</li>\n<li>It is considered the first African American mystery novel.</li>\n</ul>",
+  "type": "mcq",
+  "keys": [
+    "3a6a7c9d-b06c-4398-9e8c-416cbde4079e"
+  ],
+  "answerOptions": [
+    {
+      "id": "4da3cd4d-0c81-461d-8c4c-68cee263faf7",
+      "content": "<p>Pauline Hopkins is the author of <em>Hagar&rsquo;s Daughter</em>, a serialized novel published from 1901 to 1902.</p>"
+    },
+    {
+      "id": "3a6a7c9d-b06c-4398-9e8c-416cbde4079e",
+      "content": "<p>African American writer Pauline Hopkins created many genre-defining stories during her career, including the first African American mystery novel, <em>Hagar&rsquo;s Daughter</em>.</p>"
+    },
+    {
+      "id": "31bd03f3-71e7-42e4-82f1-782b29bd4290",
+      "content": "<p>Published in <em>The Colored American Magazine </em>from 1901 to 1902<em>, Hagar&rsquo;s Daughter </em>is a serialized novel by Pauline Hopkins.</p>"
+    },
+    {
+      "id": "b7b28a84-f10e-40d7-a8b0-f8a738de9b02",
+      "content": "<p><em>Hagar&rsquo;s Daughter </em>by Pauline Hopkins is considered the first African American mystery novel.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The sentence introduces Pauline Hopkins to an audience unfamiliar with her career, identifying her as a genre-defining African American writer and noting a career accomplishment.</p><p>Choice A is incorrect. The sentence emphasizes that Pauline Hopkins wrote a serialized novel but doesn&rsquo;t introduce Hopkins to an audience unfamiliar with her career. Choice C is incorrect. The sentence introduces Hopkins&rsquo;s novel; it doesn&rsquo;t introduce Hopkins. Choice D is incorrect. The sentence explains that a novel written by Hopkins is considered the first African American mystery novel; it doesn&rsquo;t introduce Hopkins to an audience unfamiliar with her career.</p>",
+  "externalid": "4ec44add-b3c3-4555-88cd-83490e01096e",
+  "correct_answer": [
+    "B"
+  ]
+}

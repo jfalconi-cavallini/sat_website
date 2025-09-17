@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "stimulus": "<p>The following text is from Milan Kundera&rsquo;s 1984 novel <em>The Unbearable Lightness of Being</em> (translated by Michael Henry Heim in 1984). Karenin is a dog that belongs to Tomas and Tereza.</p>\n<blockquote>\n<p>Karenin was not overjoyed by the move to Switzerland [from Prague]. Karenin hated change. Dog time cannot be plotted along a straight line; it does not move on and on, from one thing to the next. It moves in a circle like the hands of a clock, which&mdash;they, too, unwilling to dash madly ahead&mdash;turn round and round the face, day in and day out following the same path. In Prague, when Tomas and Tereza bought a new chair or moved a flower pot, Karenin would look on in displeasure. It disturbed his sense of time. It was as though they were trying to dupe the hands of the clock by changing the numbers on its face.</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;1984 by Milan Kundera. Translation &copy;1984 by Harper &amp; Row, Publishers, Inc.</span></p>",
+  "type": "mcq",
+  "keys": [
+    "46e44a65-b0c1-42e1-b4f2-5919f0e7cdd6"
+  ],
+  "answerOptions": [
+    {
+      "id": "46e44a65-b0c1-42e1-b4f2-5919f0e7cdd6",
+      "content": "<p>As a dog, Karenin possesses a sense of time that involves a strong preference for predictability and an aversion to disruption.</p>"
+    },
+    {
+      "id": "c37fb2cf-c8c2-4402-9895-183c2b457f93",
+      "content": "<p>After he&rsquo;s moved to a new home, Karenin&rsquo;s negative response to changes has become more pronounced.</p>"
+    },
+    {
+      "id": "afc286ca-ea6c-4390-be02-ff18cdd745e1",
+      "content": "<p>Similar to Tomas and Tereza, Karenin comprehends time as circular rather than as a straightforward progression.</p>"
+    },
+    {
+      "id": "c7a2d308-4fea-45ca-a397-74b62192603c",
+      "content": "<p>As is the case for other dogs, Karenin&rsquo;s sense of time seems to accelerate depending on the objects and places that surround him.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately states the main idea of the text. The text begins by stating that Tomas and Tereza&rsquo;s dog Karenin felt disrupted by a recent move because of his dislike of change. The text then goes on to suggest that this is because the way a dog experiences time differs from the way humans experience time: time for a dog doesn&rsquo;t move linearly, going \"on and on, from one thing to the next,\" but instead moves circularly, \"like the hands of a clock.\" That is, time for a dog is experienced as a cyclical pattern characterized by routine and predictability, with each day \"following the same path.\" The text then concludes by providing examples of seemingly insignificant changes in routine that profoundly \"disturbed [Karenin&rsquo;s] sense of time,\" causing him to feel displeasure. Thus, the main idea of the text is that Karenin&rsquo;s sense of time as a dog involves a strong preference for predictability and an aversion to disruption.</p><p>Choice B is incorrect. Although the text emphasizes Karenin&rsquo;s displeasure with the recent move to a new home, it doesn&rsquo;t suggest that the move has made his negative responses more pronounced than they once were. Rather, in accounting for Karenin&rsquo;s displeasure with the move to Switzerland, the text explains that Karenin generally has a negative response to any kind of change. Choice C is incorrect because the text doesn&rsquo;t suggest that Karenin comprehends time similarly to how Tomas and Tereza comprehend it. On the contrary, the text strongly implies a contrast between dogs&rsquo; circular experience of time with the way humans experience time as a straightforward progression that can be \"plotted on a straight line.\" Choice D is incorrect because the text provides no indication that a change in the places and objects surrounding Karenin causes him to feel as though time is accelerating. Although the text does use the language of \"dash[ing] madly ahead\" in relation to time, the phrase appears in the context of a comparison illustrating how dogs experience time: time for a dog moves just as the hands of a clock do, in a circle and \"unwilling to dash madly ahead\"&mdash;that is, always in a regular and predictable way.</p>",
+  "externalid": "29cada86-74bb-41bb-a0dd-9a24a165a4e5",
+  "correct_answer": [
+    "A"
+  ]
+}

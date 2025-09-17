@@ -1,0 +1,38 @@
+{
+  "vaultid": "f9b5b523-7927-4efc-8531-64ec4f6f1d36",
+  "keys": [
+    "16e641c9-0080-4b9c-84a2-0ab55dfcf9e5"
+  ],
+  "rationale": "<p>Choice C is the best answer. &ldquo;By contrast&rdquo; logically signals that the information in this sentence&mdash;that dogs can see, hear, and smell by the end of two weeks&mdash;contrasts with the preceding information (that wolves can smell but not see or hear at the same age). </p><p>Choice A is incorrect because &ldquo;in other words&rdquo; illogically signals that the information about domesticated dogs in this sentence paraphrases the information about wolves in the previous sentence. Instead, the information about dogs contrasts with what came before. Choice B is incorrect because &ldquo;for instance&rdquo; illogically signals that the information about domesticated dogs in this sentence exemplifies the information about wolves in the previous sentence. Instead, the information about dogs contrasts with what came before. Choice D is incorrect because &ldquo;accordingly&rdquo; illogically signals that the information about domesticated dogs in this sentence is in accordance with, or results from, the information about wolves in the previous sentence. Instead, the information about dogs contrasts with what came before. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "361cfad2-26f4-4227-886d-d6f8b8d7147a",
+  "stimulus": "<p>At two weeks old, the time their critical socialization period begins, wolves can smell but cannot yet see or hear. Domesticated dogs, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> can see, hear, and smell by the end of two weeks. This relative lack of sensory input may help explain why wolves behave so differently around humans than dogs do: from a very young age, wolves are more wary and less exploratory.</p>",
+  "templateclusterid": "34ae1e9f-c5b1-4163-b77f-8eaf257f37ab",
+  "parenttemplatename": "OSP-214-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "f40a8510-97cd-4686-abaa-1ee3758e2ed0",
+      "content": "<p>in other words,</p>"
+    },
+    {
+      "id": "2d4645ca-f739-46e5-b64c-f9633cdfe673",
+      "content": "<p>for instance,</p>"
+    },
+    {
+      "id": "16e641c9-0080-4b9c-84a2-0ab55dfcf9e5",
+      "content": "<p>by contrast,</p>"
+    },
+    {
+      "id": "ac71ba3f-0a08-45b7-a079-6b0855768de8",
+      "content": "<p>accordingly,</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

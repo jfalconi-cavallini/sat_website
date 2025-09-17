@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>According to a team of neuroeconomists from the University of Zurich, ease of decision making may be linked to communication between two brain regions, the prefrontal cortex and the parietal cortex. Individuals tend to be more decisive if the information flow between the regions is intensified, whereas they make choices more slowly when information flow is <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>.</p>",
+  "type": "mcq",
+  "keys": [
+    "f5340b0b-3241-4a37-86cd-d330dbd48ace"
+  ],
+  "answerOptions": [
+    {
+      "id": "f5340b0b-3241-4a37-86cd-d330dbd48ace",
+      "content": "<p>reduced</p>"
+    },
+    {
+      "id": "2523f2a8-17d2-45ba-b347-c9262362d635",
+      "content": "<p>evaluated</p>"
+    },
+    {
+      "id": "b9da34f6-097d-45c4-8061-8370cf545488",
+      "content": "<p>determined</p>"
+    },
+    {
+      "id": "ae7143f9-99f1-41fe-83ad-797571aba4ba",
+      "content": "<p>acquired</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of how the flow of information between two regions of the brain may affect the ease of people&rsquo;s decision making. In this context, \"reduced\" means decreased. The text presents the finding from a team of neuroeconomists that decision making may be connected to communication between the prefrontal cortex and the parietal cortex. In presenting this finding, the text suggests a contrast between people who tend to be more decisive and people who make decisions more slowly. According to the text, people tend to be more decisive when the flow of information between the two brain regions is intensified, or strengthened. On the other hand, this context suggests that people make choices more slowly when the flow of information between the two brain regions is decreased.</p><p>Choice B is incorrect because \"evaluated\" means assessed, which wouldn&rsquo;t make sense in context. According to the text, people tend to be more decisive when the flow of information between two brain regions is intensified, or strengthened. This suggests that people&rsquo;s ease of decision making varies based on the rate of information traveling between the regions, not based on an effort to assess the information. Choice C is incorrect because \"determined\" means judged or influenced, neither of which would make sense in context. According to the text, people tend to be more decisive when the flow of information between two brain regions is intensified, or strengthened. This suggests that people&rsquo;s ease of decision making varies based on the rate of information traveling between the regions, not based on an effort to judge or influence the information. Choice D is incorrect because \"acquired\" means developed or attained, neither of which would make sense in context. According to the text, people tend to be more decisive when the flow of information between two brain regions is intensified, or strengthened. This suggests that people&rsquo;s ease of decision making varies based on the rate of information traveling between the regions, not based on the development or attainment of the information.</p>",
+  "externalid": "17cf0e64-e921-4dbb-9d07-4a2e021ff5b2",
+  "correct_answer": [
+    "A"
+  ]
+}

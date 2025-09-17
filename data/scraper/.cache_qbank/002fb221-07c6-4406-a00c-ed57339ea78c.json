@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>The algaita is a double reed wind instrument from West Africa. The reed of a wind instrument is the mouthpiece <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> A double reed contains two pieces of cane that vibrate and produce sound as air passes between them.</p>",
+  "type": "mcq",
+  "keys": [
+    "4401928d-2800-409b-baf3-475cbaac306e"
+  ],
+  "answerOptions": [
+    {
+      "id": "ded3cc27-dd60-44e1-912e-1b49d9f42258",
+      "content": "<p>where sound is made?</p>"
+    },
+    {
+      "id": "78968170-65e2-4474-9c42-d244e5fc0aa2",
+      "content": "<p>where is sound made.</p>"
+    },
+    {
+      "id": "4401928d-2800-409b-baf3-475cbaac306e",
+      "content": "<p>where sound is made.</p>"
+    },
+    {
+      "id": "2bee7168-0da1-4daf-8bfc-ef1cc5b1cfde",
+      "content": "<p>where is sound made?</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is end-of-sentence punctuation. This choice correctly uses a period to punctuate a declarative sentence (\"the reed of a wind instrument is the mouthpiece\") that ends with a prepositional phrase (\"where sound is made\").</p><p>Choice A is incorrect. It&rsquo;s unconventional to use a question mark to punctuate a declarative sentence. Choice B is incorrect. The structure requires that the sentence continue as a declarative clause, not end with an interrogative clause. Choice D is incorrect. The structure requires that the sentence continue as a declarative clause and end with a period, not end with an interrogative clause and a question mark.</p>",
+  "externalid": "002fb221-07c6-4406-a00c-ed57339ea78c",
+  "correct_answer": [
+    "C"
+  ]
+}

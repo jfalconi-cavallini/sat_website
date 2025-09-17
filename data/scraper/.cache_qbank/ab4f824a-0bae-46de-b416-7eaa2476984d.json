@@ -1,0 +1,38 @@
+{
+  "vaultid": "04c299d0-80ab-4b38-b62f-fd5b6cb9f3e2",
+  "keys": [
+    "1535b04d-2d64-4c12-96e7-c8d8e91243a2"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of Booker T. Whatley. In this context, &ldquo;hinder&rdquo; means hold back or obstruct. The text explains that Whatley encouraged farms to allow customers on site to pick their own produce for a fee. He did so despite critics&rsquo; concerns that the customers would never pay to do so. This context establishes that the critics&rsquo; concerns didn&rsquo;t hinder Whatley&rsquo;s efforts to promote the practice. </p><p>Choice A is incorrect. The text indicates that critics&rsquo; skepticism of the idea that customers would pay to pick their own produce didn&rsquo;t have some effect on Whatley&rsquo;s promotion of the practice. The text illustrates this assertion by describing Whatley&rsquo;s &ldquo;determined advocacy&rdquo; for the practice. This context suggests that critics&rsquo; concerns didn&rsquo;t obstruct Whatley&rsquo;s efforts, not that critics&rsquo; concerns didn&rsquo;t &ldquo;enhance,&rdquo; or increase or improve, Whatley&rsquo;s efforts.&nbsp;Choice C is incorrect because in this context, &ldquo;misrepresent&rdquo; would mean portray inaccurately, and the text includes no information relevant to the issue of how Whatley&rsquo;s efforts were portrayed by critics of the practice of charging customers to pick their own produce. Choice D is incorrect. The text indicates that critics&rsquo; skepticism of the idea that customers would pay to pick their own produce didn&rsquo;t have some effect on Whatley&rsquo;s promotion of the practice. The text illustrates this assertion by describing Whatley&rsquo;s &ldquo;determined advocacy&rdquo; for the practice. This context suggests that critics&rsquo; concerns didn&rsquo;t obstruct Whatley&rsquo;s efforts, not that critics&rsquo; concerns didn&rsquo;t &ldquo;aggravate,&rdquo; or irritate or make more severe, Whatley&rsquo;s efforts. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "ab4f824a-0bae-46de-b416-7eaa2476984d",
+  "stimulus": "<p>Although critics believed that customers would never agree to pay to pick their own produce on farms, such concerns didn&rsquo;t <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Booker T. Whatley&rsquo;s efforts to promote the practice. Thanks in part to Whatley&rsquo;s determined advocacy, farms that allow visitors to pick their own apples, pumpkins, and other produce can be found throughout the United States.</p>",
+  "templateclusterid": "675d63a7-4faa-4b22-a755-214788ee167b",
+  "parenttemplatename": "OSP-901-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "07173a73-daaa-4d93-af26-bc35e6cd11d2",
+      "content": "<p>enhance</p>"
+    },
+    {
+      "id": "1535b04d-2d64-4c12-96e7-c8d8e91243a2",
+      "content": "<p>hinder</p>"
+    },
+    {
+      "id": "efc17ed2-5cb3-44da-9f87-367387e7ea73",
+      "content": "<p>misrepresent</p>"
+    },
+    {
+      "id": "66e350a3-2f07-4f4d-bbbe-41cb4a92b9a3",
+      "content": "<p>aggravate</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

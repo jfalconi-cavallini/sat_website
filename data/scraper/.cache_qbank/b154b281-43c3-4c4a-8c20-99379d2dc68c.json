@@ -1,0 +1,38 @@
+{
+  "vaultid": "b25b0714-52ee-4dd1-982b-9fa59459ef9c",
+  "keys": [
+    "43b38cf1-9115-437a-822e-78e2e080b9e2"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of Juarez. In this context, &ldquo;important&rdquo; means marked by significant work or consequence. The text indicates that Juarez, who was the first president of Mexico from an Indigenous community, became a certain kind of figure in Mexico&rsquo;s history. It then supports that claim by describing some of the &ldquo;many significant accomplishments&rdquo; from Juarez&rsquo;s long tenure in office. This context conveys that Juarez is a significant and consequential figure in Mexico&rsquo;s history. </p><p>Choice A is incorrect because the text focuses on Juarez&rsquo;s role as the first president of Mexico from an Indigenous community and on his many major accomplishments during his lengthy time in office; nothing in the text suggests that Juarez was &ldquo;unpredictable,&rdquo; or tended to behave in ways that couldn&rsquo;t be predicted. Choice C is incorrect because nothing in the text suggests that Juarez was a particularly &ldquo;secretive&rdquo; figure, or that he tended to keep things private or hidden from others. Instead, the text focuses on things that are known about Juarez: that he was the first president of Mexico from an Indigenous community, that he had a lengthy tenure, and that his many major accomplishments included consolidating the national government&rsquo;s authority and advancing Indigenous rights. Choice D is incorrect because the text focuses on the idea that Juarez, who was the first president of Mexico from an Indigenous community, had many major accomplishments during his lengthy time in office. Rather than suggesting that Juarez was an &ldquo;ordinary,&rdquo; or common and typical, figure in Mexico&rsquo;s history, this context conveys that Juarez was instead a notable figure. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "b154b281-43c3-4c4a-8c20-99379d2dc68c",
+  "stimulus": "<p>As Mexico&rsquo;s first president from an Indigenous community, Benito Juarez became one of the most <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> figures in his country&rsquo;s history: among the many significant accomplishments of his long tenure in office (1858&ndash;1872), Juarez consolidated the authority of the national government and advanced the rights of Indigenous peoples.</p>",
+  "templateclusterid": "3c7c3582-99bf-43da-8267-baba718f5b77",
+  "parenttemplatename": "OSP-969-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d7b7f7ee-6a5c-40b1-abf8-24fbe0bc62de",
+      "content": "<p>unpredictable</p>"
+    },
+    {
+      "id": "43b38cf1-9115-437a-822e-78e2e080b9e2",
+      "content": "<p>important</p>"
+    },
+    {
+      "id": "a107a17b-5c41-483f-9d67-143642632552",
+      "content": "<p>secretive</p>"
+    },
+    {
+      "id": "496a19b6-dfe9-42ed-9e50-765f3bb77b4b",
+      "content": "<p>ordinary</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

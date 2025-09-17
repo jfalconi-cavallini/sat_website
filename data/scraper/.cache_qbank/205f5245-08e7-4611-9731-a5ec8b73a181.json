@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Latin America is known to have dozens, if not hundreds, of popular dance forms. Only five of these dances are included in international ballroom dance <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> rumba, samba, cha-cha-cha, paso doble, and jive&mdash;the last of which is grouped with the other Latin dances despite not having Latin roots.</p>",
+  "type": "mcq",
+  "keys": [
+    "2a2fc192-0cb1-4525-9fb7-b86108aa19a5"
+  ],
+  "answerOptions": [
+    {
+      "id": "2a2fc192-0cb1-4525-9fb7-b86108aa19a5",
+      "content": "<p>competitions, however:</p>"
+    },
+    {
+      "id": "ac908104-97ee-45e9-afab-b3131258cb55",
+      "content": "<p>competitions, however,</p>"
+    },
+    {
+      "id": "85352ab3-27f4-4d1c-9a34-fde93ba9cb16",
+      "content": "<p>competitions, however;</p>"
+    },
+    {
+      "id": "e93456a7-fa64-4a30-ba69-918f452057e0",
+      "content": "<p>competitions; however,</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the punctuation of supplementary elements within a sentence. This choice correctly uses a comma to separate the supplementary adverb \"however\" from the preceding main clause (\"only...competitions\"), and it uses a colon to introduce the list of dances that follows (\"rumba&hellip;jive\"). Further, placing the colon after \"however\" rather than before indicates that the information in the preceding main clause (only...competitions) is contrary to what might be assumed from the information in the previous sentence (Latin America has many more dance forms).</p><p>Choice B is incorrect. The comma after \"however\" can&rsquo;t be used in this way to introduce a series (\"rumba...jive\"). Choice C is incorrect because it isn&rsquo;t conventional to use a semicolon in this way to introduce a series of items, such as the list of dances. Choice D is incorrect because placing the semicolon after \"competitions\" illogically indicates that the following list of five Latin American dances (\"rumba...jive\") is contrary to the information in the previous clause (only five Latin American dances are included in international ballroom dance competitions).</p>",
+  "externalid": "205f5245-08e7-4611-9731-a5ec8b73a181",
+  "correct_answer": [
+    "A"
+  ]
+}

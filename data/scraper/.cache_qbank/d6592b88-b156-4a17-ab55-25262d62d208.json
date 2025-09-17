@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Featuring jagged peaks of black ink surrounded by hazy swirls of blue and green paint, Zhang Daqian&rsquo;s 1983 painting <em>Panorama of Mount Lu</em> is inspired by the tradition of <span lang=\"zh\"><em>qingl&uuml; shanshui</em></span>, a type of Chinese landscape painting <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> by the use of blue and green hues to depict ethereal, otherworldly landscapes.&nbsp;</p>",
+  "keys": [
+    "86e445d2-76cd-4955-b727-ff42076491b0"
+  ],
+  "answerOptions": [
+    {
+      "id": "272e642f-3f32-446e-a0ff-9594a205c9be",
+      "content": "<p>has been characterized</p>"
+    },
+    {
+      "id": "0f60a1d1-2b37-409f-a2d5-1aa6baba7e38",
+      "content": "<p>will be characterized</p>"
+    },
+    {
+      "id": "86e445d2-76cd-4955-b727-ff42076491b0",
+      "content": "<p>characterized</p>"
+    },
+    {
+      "id": "979fe6c3-c973-4b81-9af9-87c2962fd616",
+      "content": "<p>is characterized</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of verb forms within a sentence. The nonfinite past participle \"characterized\" is correctly used within a supplementary element that modifies the main clause \"Zhang...<em>shanshui</em>,\" defining <em>qingl&uuml; shanshui</em> and explaining some of its identifying traits.</p><p>Choice A is incorrect because it results in a comma splice. Using the finite present perfect tense verb \"has been characterized\" creates a second main clause in the sentence, and the two main clauses can&rsquo;t be joined in this way by only the comma before \"a type.\" Choice B is incorrect because it results in a comma splice. Using the finite future tense verb \"will be characterized\" creates a second main clause in the sentence, and the two main clauses can&rsquo;t be joined in this way by only the comma before \"a type.\" Choice D is incorrect because it results in a comma splice. Using the finite present tense verb \"is characterized\" creates a second main clause in the sentence, and the two main clauses can&rsquo;t be joined in this way by only the comma before \"a type.\"</p>",
+  "externalid": "d6592b88-b156-4a17-ab55-25262d62d208",
+  "correct_answer": [
+    "C"
+  ]
+}

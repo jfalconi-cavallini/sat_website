@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>Even with the widespread adoption of personal computers, many authors still choose to write and revise their novels by hand and only then transcribe the final version on a computer. It may be tempting to speculate about how a novel written this way would be affected if it had been exclusively typed instead, but each novel is a unique entity resulting from a specific set of circumstances. Therefore, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "fa8f3190-7584-436b-9509-ec6fab562abd"
+  ],
+  "answerOptions": [
+    {
+      "id": "a3305d78-1207-4178-8573-1e09427d2b16",
+      "content": "<p>in order to increase their efficiency, authors who currently write their novels largely by hand should instead work only on a computer.</p>"
+    },
+    {
+      "id": "34cd6963-1d90-4718-88bb-075fba175f26",
+      "content": "<p>authors who do most of their drafting and revising by hand likely have more success than those who work entirely on a computer.</p>"
+    },
+    {
+      "id": "bdae344d-a595-45c4-92c0-317735b46d22",
+      "content": "<p>novels written by hand take less time to produce, on average, than novels written on a computer do.</p>"
+    },
+    {
+      "id": "fa8f3190-7584-436b-9509-ec6fab562abd",
+      "content": "<p>there is no way to reasonably evaluate how a work would be different if it had been written by other means.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents the conclusion that most logically follows from the text&rsquo;s discussion of the means authors use to write and revise their novels. After stating that many authors still choose to draft novels by hand even though computers are now widely used, the text acknowledges the speculation that the opposite choice&mdash;using only a computer&mdash;would have had an effect on such novels. However, the text then points out that every novel is the singular result of a combination of the particular conditions surrounding its creation. This suggests that it isn&rsquo;t possible to determine the effect of any single condition (such as the means of writing) on its own; thus, there would be no way to reasonably evaluate how a novel would have turned out differently if it had been written by other means.</p><p>Choice A is incorrect because the text doesn&rsquo;t suggest that it&rsquo;s more efficient to write a novel on a computer than to write it by hand; it doesn&rsquo;t address efficiency at all. Therefore, it isn&rsquo;t logical to conclude that authors who currently choose to write novels largely by hand should instead work only on a computer to increase their efficiency. Choice B is incorrect because the text doesn&rsquo;t suggest anything about how successful authors are, regardless of the means by which they choose to write; therefore, it isn&rsquo;t logical to conclude that authors who write largely by hand are likely to be more successful than those who work only on a computer. Choice C is incorrect because the text makes no mention of the time it takes to produce a novel, regardless of the means by which it&rsquo;s written; therefore, it isn&rsquo;t logical to conclude that novels written by hand take less time on average to produce than those written on a computer do.</p>",
+  "externalid": "fd2ee2ec-9153-4c3d-8ba7-081ffdb687f7",
+  "correct_answer": [
+    "D"
+  ]
+}

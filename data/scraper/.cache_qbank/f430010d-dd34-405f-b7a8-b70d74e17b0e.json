@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>According to the table, in which year was the dolphin with the ID FB43 recorded with her calf?</p>",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Recordings of Female Bottlenose Dolphins with Their Calves</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Dolphin ID</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Recording year</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">FB07</th><td style=\"text-align: center;\">2012</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">FB25</th><td style=\"text-align: center;\">1989</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">FB43</th><td style=\"text-align: center;\">1992</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">FB79</th><td style=\"text-align: center;\">2018</td></tr></tbody></table></figure></p>\n<p>&nbsp;</p>\n<p>In a study of bottlenose dolphins, biologist Laela <span data-ssml-sub-alias=\"S\">S.</span> Sayigh and a team of researchers analyzed recordings of female bottlenose dolphins interacting with their calves.</p>",
+  "keys": [
+    "03c6aa6d-abf6-409a-8058-1aff3a90b40a"
+  ],
+  "answerOptions": [
+    {
+      "id": "5dc8541e-92fb-4bdb-81ae-79b10e9c5103",
+      "content": "<p>1999</p>"
+    },
+    {
+      "id": "af8b74be-ce59-47e7-af8c-8759062daae7",
+      "content": "<p>2012</p>"
+    },
+    {
+      "id": "3c4cc6b2-1526-4626-ac0c-f3752a31ee75",
+      "content": "<p>2020</p>"
+    },
+    {
+      "id": "03c6aa6d-abf6-409a-8058-1aff3a90b40a",
+      "content": "<p>1992</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it accurately reflects the data in the table. According to the table, the dolphin with ID FB43 has a recording year of 1992.</p><p>Choice A is incorrect. None of the dolphins in the table have a recording year of 1999. Choice B is incorrect. The table shows 2012 as the recording year for the dolphin with ID FB07, not ID FB43. Choice C is incorrect. None of the dolphins in the table have a recording year of 2020.</p>",
+  "externalid": "f430010d-dd34-405f-b7a8-b70d74e17b0e",
+  "correct_answer": [
+    "D"
+  ]
+}

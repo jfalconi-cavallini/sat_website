@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Paleontologists once thought that early apes lived in tropical forests, but recent research suggests that they may have actually lived in savannas. Tropical forests are humid and have many trees spaced close together. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> savannas are drier, and their trees are spaced further apart.</p>",
+  "type": "mcq",
+  "keys": [
+    "605c1f47-0ed2-491b-8c60-5b722b237271"
+  ],
+  "answerOptions": [
+    {
+      "id": "1c278495-fe98-443e-a712-9481cc94754f",
+      "content": "<p>For instance,</p>"
+    },
+    {
+      "id": "605c1f47-0ed2-491b-8c60-5b722b237271",
+      "content": "<p>In comparison,</p>"
+    },
+    {
+      "id": "31ab7665-d5ca-44f9-a0fc-4e64eb3489e7",
+      "content": "<p>Firstly,</p>"
+    },
+    {
+      "id": "3c981bbf-3c52-4d2e-add6-3e38a3bdb723",
+      "content": "<p>In conclusion,</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. \"In comparison\" logically signals that the description of savannas in this sentence&mdash;that they are drier and their trees are spaced further apart&mdash;forms a comparison with the description of tropical forests in the previous sentence.</p><p>Choice A is incorrect because \"for instance\" illogically signals that the description of savannas in this sentence exemplifies the description of tropical forests in the previous sentence. Instead, this description forms a comparison with the description of tropical forests. Choice C is incorrect because \"firstly\" illogically signals that the description of savannas in this sentence indicates the first in a series of things. Instead, this description forms a comparison with the description of tropical forests in the previous sentence. Choice D is incorrect because \"in conclusion\" illogically signals that the description of savannas in this sentence concludes or summarizes information in the previous sentences. Instead, this description forms a comparison with the description of tropical forests in the previous sentence.</p>",
+  "externalid": "d72a5a0b-bdd4-477d-a9f4-008853b581b1",
+  "correct_answer": [
+    "B"
+  ]
+}

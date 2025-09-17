@@ -1,0 +1,38 @@
+{
+  "vaultid": "4a58bc14-d95c-4792-b140-5d9980bef36f",
+  "keys": [
+    "0a45e770-171a-46b9-a016-cf5424c9f59e"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice uses a semicolon in a conventional way to join the first main clause (&ldquo;In 2004&hellip;sampler&rdquo;) and the second main clause (&ldquo;in 2014&hellip;pillars&rdquo;). </p><p>Choice A is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses. The word &ldquo;later&rdquo; is an adverb and cannot be used to join two main clauses unless it is preceded by a conjunction. Choice C is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses. Choice D is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses. The word &ldquo;later&rdquo; is an adverb and cannot be used to join two main clauses unless it is preceded by a conjunction. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "7b252e1b-a372-439c-a47d-f11ea58fdf49",
+  "stimulus": "<p>Seneca sculptor Marie Watt&rsquo;s blanket art comes in a range of shapes and sizes. In 2004, Watt sewed strips of blankets together to craft a 10-by-13-inch <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in 2014, she arranged folded blankets into two large stacks and then cast them in bronze, creating two curving 18-foot-tall blue-bronze pillars.</p>",
+  "templateclusterid": "1ab895eb-e5ee-44bd-82a4-8b8856601f42",
+  "parenttemplatename": "OSP-605-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "2676d200-5ec7-40c9-a9c9-5837ffeb29e6",
+      "content": "<p>sampler later,</p>"
+    },
+    {
+      "id": "0a45e770-171a-46b9-a016-cf5424c9f59e",
+      "content": "<p>sampler;&nbsp;</p>"
+    },
+    {
+      "id": "06b77e96-d1f6-470a-be31-aff5b922556f",
+      "content": "<p>sampler,&nbsp;</p>"
+    },
+    {
+      "id": "eca5b7f8-41f3-4424-8527-eacc51943ea7",
+      "content": "<p>sampler, later,</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

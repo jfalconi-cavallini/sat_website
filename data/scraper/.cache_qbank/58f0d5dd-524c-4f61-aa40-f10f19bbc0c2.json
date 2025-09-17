@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Mountain climbing routes that incorporate metal rungs and cables are known as via ferratas, from the Italian phrase for &ldquo;iron path.&rdquo; As climbing these routes has shifted from a mode of travel to a sporting activity, modern via ferratas are rarely designed to simply reach a summit. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> new routes favor recreation over utility, aiming to provide a challenging climb or showcase dramatic scenery.</p>",
+  "keys": [
+    "eedb6881-822f-46a2-a39a-77507898a947"
+  ],
+  "answerOptions": [
+    {
+      "id": "4cdf3d37-74f8-474b-8587-154718257fc9",
+      "content": "<p>Additionally,</p>"
+    },
+    {
+      "id": "098b6225-d296-42f3-9026-edac4c729da1",
+      "content": "<p>On the other hand,</p>"
+    },
+    {
+      "id": "eedb6881-822f-46a2-a39a-77507898a947",
+      "content": "<p>More often,</p>"
+    },
+    {
+      "id": "12efaabc-ce8d-4def-9236-278862d3b660",
+      "content": "<p>Nonetheless,</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. \"More often\" logically signals that the claim in this sentence&mdash;that new via ferratas favor recreation over utility&mdash;explains a difference between the new \"sporting activity\" routes and the older \"mode of travel\" routes. In so doing, it emphasizes and reinforces the previous claim (\"modern via ferratas are rarely designed to simply reach a summit\").</p><p>Choice A is incorrect because \"additionally\" illogically signals that this sentence&rsquo;s claim about new via ferratas adds a new, separate point to the previous claim (\"modern via ferratas are rarely designed to simply reach a summit\"). Instead, the second claim&mdash;that new routes favor recreation over utility&mdash;emphasizes and reinforces the previous one. Choice B is incorrect because \"on the other hand\" illogically signals that this sentence&rsquo;s claim about new via ferratas contrasts with or opposes the previous claim (\"modern via ferratas are rarely designed to simply reach a summit\").  Instead, the second claim&mdash;that new routes favor recreation over utility&mdash;emphasizes and reinforces the previous one. Choice D is incorrect because \"nonetheless\" illogically signals that this sentence&rsquo;s claim about new via ferratas is true despite the previous claim (\"modern via ferratas are rarely designed to simply reach a summit\"). Instead, the second claim&mdash;that new routes favor recreation over utility&mdash;emphasizes and reinforces the previous one.</p>",
+  "externalid": "58f0d5dd-524c-4f61-aa40-f10f19bbc0c2",
+  "correct_answer": [
+    "C"
+  ]
+}

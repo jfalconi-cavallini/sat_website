@@ -1,0 +1,38 @@
+{
+  "vaultid": "bee4d55f-256e-4004-a547-6516049f6177",
+  "keys": [
+    "6e97d429-2a09-4d4d-8594-9dbeddf666b2"
+  ],
+  "rationale": "<p>Choice C is the best answer. The sentence emphasizes both the duration (the length of time) and the purpose of Cohen&rsquo;s and Rodrigues&rsquo;s work by noting that the women have been working since 2003 to preserve Gullah culture.&nbsp;</p><p>Choice A is incorrect. While the sentence emphasizes what visitors to Cohen&rsquo;s and Rodrigues&rsquo;s museums can learn, it doesn&rsquo;t mention the duration or purpose of the women&rsquo;s work. Choice B is incorrect. While the sentence emphasizes the purpose of Cohen&rsquo;s and Rodrigues&rsquo;s work, it doesn&rsquo;t mention the duration of that work (the length of time the women have been working to preserve Gullah culture).&nbsp;Choice D is incorrect. While the sentence emphasizes where and when Gullah culture developed, it doesn&rsquo;t mention the duration or purpose of Cohen&rsquo;s and Rodrigues&rsquo;s work. </p>",
+  "origin": "proteus",
+  "stem": "<p>The student wants to emphasize the duration and purpose of Cohen&rsquo;s and Rodrigues&rsquo;s work. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "externalid": "d245bdf2-d209-40aa-a94a-fd9d8eac1fd6",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>The Gullah are a group of African Americans who have lived in parts of the southeastern United States since the 18th century.</li>\n<li>Gullah culture is influenced by West African and Central African traditions.</li>\n<li>Louise Miller Cohen is a Gullah historian, storyteller, and preservationist.</li>\n<li>She founded the Gullah Museum of Hilton Head Island, South Carolina, in 2003.</li>\n<li>Vermelle Rodrigues is a Gullah historian, artist, and preservationist.</li>\n<li>She founded the Gullah Museum of Georgetown, South Carolina, in 2003.</li>\n</ul>",
+  "templateclusterid": "c86121d5-5b81-4ebc-9975-7c2683665879",
+  "parenttemplatename": "OSP-709-SYN",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "407e51f8-9343-4cf4-bdab-53c8154a98f5",
+      "content": "<p>At the Gullah Museums in Hilton Head Island and Georgetown, South Carolina, visitors can learn more about the Gullah people who have lived in the region for centuries.</p>"
+    },
+    {
+      "id": "2e4c1232-9256-4dee-98d3-c9797079affb",
+      "content": "<p>Louise Miller Cohen and Vermelle Rodrigues have worked to preserve the culture of the Gullah people, who have lived in the United States since the 18th century.</p>"
+    },
+    {
+      "id": "6e97d429-2a09-4d4d-8594-9dbeddf666b2",
+      "content": "<p>Since 2003, Louise Miller Cohen and Vermelle Rodrigues have worked to preserve Gullah culture through their museums.</p>"
+    },
+    {
+      "id": "531b4a30-781a-41c8-8ae3-a5fc204030b5",
+      "content": "<p>Influenced by the traditions of West and Central Africa, Gullah culture developed in parts of the southeastern United States in the 18th century.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

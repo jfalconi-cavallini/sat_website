@@ -1,0 +1,38 @@
+{
+  "vaultid": "4a4791ff-cb0d-4fb4-8e3a-7e5e98738ae0",
+  "keys": [
+    "3b81e49c-bab2-4624-9586-ba87b31311cb"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of plural and possessive nouns. The plural nouns &ldquo;stories&rdquo; and &ldquo;immigrants&rdquo; correctly indicate that the memoir tells multiple stories of multiple immigrants. </p><p>Choice A is incorrect because the context requires the plural noun &ldquo;stories,&rdquo; not the singular possessive noun &ldquo;story&rsquo;s.&rdquo; Choice B is incorrect because the context requires the plural nouns &ldquo;stories&rdquo; and &ldquo;immigrants,&rdquo; not the singular possessive noun &ldquo;story&rsquo;s&rdquo; and the plural possessive noun &ldquo;immigrants&rsquo;.&rdquo; Choice D is incorrect because the context requires the plural nouns &ldquo;stories&rdquo; and &ldquo;immigrants,&rdquo; not the plural possessive noun &ldquo;stories&rsquo;&rdquo; and the singular possessive noun &ldquo;immigrant&rsquo;s.&rdquo; </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "025a5224-0751-4d35-861f-23e6d8499fb4",
+  "stimulus": "<p>In his groundbreaking book <em>Bengali Harlem and the Lost Histories of South Asian America</em>, Vivek Bald uses newspaper articles, census records, ships&rsquo; logs, and memoirs to tell the <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> who made New York City their home in the early twentieth century.</p>",
+  "templateclusterid": "d459c613-6061-4b56-b8b1-c16161e79984",
+  "parenttemplatename": "OSP-658-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "a641a9bb-20c2-452c-8d83-c62edd83426b",
+      "content": "<p>story&rsquo;s of the South Asian immigrants</p>"
+    },
+    {
+      "id": "c632a474-77d5-4934-bec1-2c07d96a58d3",
+      "content": "<p>story&rsquo;s of the South Asian immigrants&rsquo;</p>"
+    },
+    {
+      "id": "3b81e49c-bab2-4624-9586-ba87b31311cb",
+      "content": "<p>stories of the South Asian immigrants</p>"
+    },
+    {
+      "id": "baadc800-14f2-42d9-9079-15eda63d74ed",
+      "content": "<p>stories&rsquo; of the South Asian immigrant&rsquo;s</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

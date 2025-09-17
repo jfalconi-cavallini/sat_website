@@ -1,0 +1,38 @@
+{
+  "vaultid": "2de964b9-42a2-4b00-9d40-62102cff0e3d",
+  "keys": [
+    "677b1b7c-3ade-44e0-994c-845e71a682c4"
+  ],
+  "rationale": "<p>Choice D is the best answer. &ldquo;By contrast&rdquo; logically signals that the finding described in this sentence contrasts with the finding described in the previous sentence. That is, quicker blinks were associated with longer talking times, whereas slower blinks were associated with shorter talking times.&nbsp;</p><p>Choice A is incorrect because &ldquo;for example&rdquo; illogically signals that the finding described in this sentence is an example of the finding described in the previous sentence. Instead, it contrasts with that finding. Choice B is incorrect because &ldquo;specifically&rdquo; illogically signals that this sentence provides specific, precise details about the finding described in the previous sentence. Instead, it presents information that contrasts with that finding.&nbsp;Choice C is incorrect because &ldquo;firstly&rdquo; illogically signals that the finding described in this sentence is a first point or occurs first in a chronological sequence of events. Instead, it contrasts with the finding described in the previous sentence.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "7cb902b9-8d7e-4cdb-b081-96c1113c4978",
+  "stimulus": "<p>To explore how blinking affects social interactions, Dutch researchers observed interactions between human speakers and &ldquo;listeners&rdquo; (animated human faces on a screen). The researchers found that when the listeners blinked slowly, the speakers tended to talk for less time. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> quicker blinks were associated with longer talking times.</p>",
+  "templateclusterid": "48ff0fcc-251e-4ad2-bd80-25671c125fec",
+  "parenttemplatename": "OSP-249-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "9da19e18-f0fe-41d3-947a-f2090d1abc19",
+      "content": "<p>For example,</p>"
+    },
+    {
+      "id": "dfdf54e1-3677-4201-a2c2-78b33143c21f",
+      "content": "<p>Specifically,</p>"
+    },
+    {
+      "id": "6ed4ddba-1950-4557-afe0-8a4ba6d6112f",
+      "content": "<p>Firstly,</p>"
+    },
+    {
+      "id": "677b1b7c-3ade-44e0-994c-845e71a682c4",
+      "content": "<p>By contrast,</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "93b26a6e-5877-4d3e-9328-8a57e4cf7adc",
+  "keys": [
+    "40d6fba4-638a-4bbe-be2b-55b671f2f26e"
+  ],
+  "rationale": "<p>Choice D is the best answer. &ldquo;As a result&rdquo; logically signals that the claim in this sentence&mdash;that spiders can cling to and climb almost any surface&mdash;is because of the previous information about the bonding properties of spiders&rsquo; spatulae. </p><p>Choice A is incorrect because &ldquo;for instance&rdquo; illogically signals that the claim in this sentence exemplifies the information in the previous sentences. Instead, the claim is because of the previous information about the bonding properties of spiders&rsquo; spatulae. Choice B is incorrect because &ldquo;however&rdquo; illogically signals that the claim in this sentence contrasts with the information in the previous sentences. Instead, the claim is because of the previous information about the bonding properties of spiders&rsquo; spatulae. Choice C is incorrect because &ldquo;similarly&rdquo; illogically signals that the claim in this sentence is similar to, but separate from, the information in the previous sentences. Instead, the claim is because of the previous information about the bonding properties of spiders&rsquo; spatulae. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "c4246267-7754-4e8d-aff4-b2cb9a88db5f",
+  "stimulus": "<p>Small, flat structures called spatulae are found at the tips of the hairs on a spider&rsquo;s leg. These spatulae temporarily bond with the atoms of whatever they touch. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> spiders are able to cling to and climb almost any surface.</p>",
+  "templateclusterid": "38fbd87d-3c86-47a3-9bdf-6505ae9b2696",
+  "parenttemplatename": "OSP-225-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "0dd7c71c-c17d-4645-b3b1-36040f032a76",
+      "content": "<p>For instance,</p>"
+    },
+    {
+      "id": "06f95451-057d-4ff5-b5ce-714a315269c3",
+      "content": "<p>However,</p>"
+    },
+    {
+      "id": "9137cc7c-e312-42b6-81d7-542fe94c4ab8",
+      "content": "<p>Similarly,</p>"
+    },
+    {
+      "id": "40d6fba4-638a-4bbe-be2b-55b671f2f26e",
+      "content": "<p>As a result,</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

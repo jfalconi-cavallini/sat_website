@@ -1,0 +1,38 @@
+{
+  "vaultid": "f3d94934-cdb1-49d1-9c2a-54da925e63c8",
+  "keys": [
+    "a5a40444-f4a0-44a1-bdde-3752c8184aaa"
+  ],
+  "rationale": "<p>Choice D is the best answer.&nbsp;The convention being tested is the use of punctuation around noun phrases. No punctuation is needed because the noun phrase &ldquo;aluminum oxide&rdquo; is a restrictive appositive, meaning that it provides essential identifying information about the noun phrase before it, &ldquo;the chemical compound,&rdquo; and thus doesn&rsquo;t require punctuation around it. </p><p>Choice A is incorrect because no punctuation is needed. Choice B is incorrect because no punctuation is needed. Choice C is incorrect because&nbsp;the noun phrase &ldquo;aluminum oxide&rdquo; is a restrictive appositive. Setting the phrase off with punctuation suggests that it could be removed without affecting the coherence of the sentence, which isn&rsquo;t the case. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "7f6ba76f-bb2a-48dd-b99b-34aa8174eaa1",
+  "stimulus": "<p>When external forces are applied to common glass made from silicates, energy builds up around minuscule defects in the material, resulting in fractures. Recently, engineer Erkka Frankberg of Tampere University in Finland used the chemical <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> to make a glassy solid that can withstand higher strain than silicate glass can before fracturing.</p>",
+  "templateclusterid": "183e0fad-dbe3-43ea-b734-dabc4e07912e",
+  "parenttemplatename": "OSP-661-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d9779cc1-edb7-473e-9a1b-38e4e787d385",
+      "content": "<p>compound, aluminum oxide</p>"
+    },
+    {
+      "id": "e41d5504-dc94-4fa1-8ff1-09829b8c4cd2",
+      "content": "<p>compound aluminum oxide,</p>"
+    },
+    {
+      "id": "a88ec903-3d08-476e-8038-e9556763e9a4",
+      "content": "<p>compound, aluminum oxide,</p>"
+    },
+    {
+      "id": "a5a40444-f4a0-44a1-bdde-3752c8184aaa",
+      "content": "<p>compound aluminum oxide</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

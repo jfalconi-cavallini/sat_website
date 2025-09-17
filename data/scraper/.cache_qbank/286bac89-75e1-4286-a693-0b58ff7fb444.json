@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best describes the function of the underlined sentence in the text as a whole?</p>",
+  "stimulus": "<p><span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">Several studies have found negligible electoral consequences for governments that impose fiscal austerity measures, yet some European governments recently suffered electorally due to their austerity programs.</span> Evelyne Huebscher and colleagues attribute this incongruity to governments&rsquo; tendency&mdash;not followed in the recent European cases&mdash;to implement austerity programs strategically to avoid electoral costs (e.g., setting spending cuts to take effect only after the next election), which has obscured the inherent political risks of austerity measures in the election data scholars have examined.</p>",
+  "type": "mcq",
+  "keys": [
+    "3e2b883e-7558-4e7a-b595-bbb89c573572"
+  ],
+  "answerOptions": [
+    {
+      "id": "d212dcab-f626-4095-96c8-5425f61a8670",
+      "content": "<p>It explains a discrepancy between what has been observed in study settings and what has been observed in real-world settings that the text goes on to assert is attributable to the studies not using real-world data.&nbsp;</p>"
+    },
+    {
+      "id": "3e2b883e-7558-4e7a-b595-bbb89c573572",
+      "content": "<p>It identifies a conflict between research findings and recent events that the text goes on to suggest is a consequence of a complicating factor in the data used to generate those findings.</p>"
+    },
+    {
+      "id": "8ed0daa2-41d1-44b1-b7c8-ea9bb1a5c5a3",
+      "content": "<p>It presents a long-standing divergence in research findings that the text goes on to say is due to different groups of researchers using data that derive from different electoral circumstances.</p>"
+    },
+    {
+      "id": "a1ecf938-6315-488a-9afe-6de4250cc32f",
+      "content": "<p>It describes a recent exception to a general pattern in research findings that the text goes on to explain is a result of researchers underestimating the significance of inconsistencies in the data they&rsquo;ve analyzed.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it best describes how the underlined sentence functions in the text as a whole. The underlined sentence explains that contrary to what several studies would suggest, recent European governments suffered electorally after the launch of fiscal austerity programs. The text goes on to indicate that the researchers generated their findings from data that didn&rsquo;t reveal the true political risk of austerity measures because the data were based on cases in which governments had set austerity programs to take effect after the next election, a practice the European governments that recently suffered electorally didn&rsquo;t adhere to, thus introducing a complicating factor resulting in a conflict between the research findings and recent events.</p><p>Choice A is incorrect because the underlined sentence doesn&rsquo;t indicate that the discrepancy described in the text is between observations made in study settings and observations made in real-world settings. Rather, the underlined sentence indicates that the outcome of recent events is contrary to what would be expected based on the findings of several studies. Additionally, there is nothing in the text to suggest that the studies mentioned did not use real-world data; instead, the text indicates that the data used was generated under potentially different circumstances than the recent events. Choice C is incorrect because the underlined sentence doesn&rsquo;t present a long-standing divergence in research findings but rather a discrepancy between past research findings and recent events that the text goes on to attribute to researchers&rsquo; use of data that didn&rsquo;t reveal the true political risk of austerity measures. Choice D is incorrect because while the underlined sentence notes that there have been some recent exceptions to a general pattern observed in several research studies, it does not go on to attribute this exception to the researchers underestimating inconsistencies in the data. Rather, the text goes on to attribute this to a circumstance (fiscal austerity measures being implemented before an election rather than after) which adds a complicating factor into the data not accounted for in past studies.</p>",
+  "externalid": "286bac89-75e1-4286-a693-0b58ff7fb444",
+  "correct_answer": [
+    "B"
+  ]
+}

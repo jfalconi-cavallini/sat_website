@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>According to the text, how did Richard Wagner achieve moments of extremely high volume in his operas?</p>",
+  "stimulus": "<p>In the 1700s and 1800s, European composers experimented with volume in their musical works. They did so by increasing the number of musicians playing in the orchestra. For example, in some of his operas, German composer Richard Wagner added more horns, trombones, and tubas to the orchestra. With more instruments playing at the same time, the orchestra could play extremely loudly at key moments in his operas.&nbsp;</p>",
+  "keys": [
+    "9b16bc87-6896-4690-964a-e6b83d96a0ad"
+  ],
+  "answerOptions": [
+    {
+      "id": "0298dfbc-9159-4758-b721-925ea742f3ac",
+      "content": "<p>By moving the performances of his operas from outdoor stages to indoor ones&nbsp;</p>"
+    },
+    {
+      "id": "9b16bc87-6896-4690-964a-e6b83d96a0ad",
+      "content": "<p>By increasing the number of musicians playing horns, trombones, and tubas in the orchestra</p>"
+    },
+    {
+      "id": "ffe4bb4b-0f28-4a4f-9d4a-ba66e8948d77",
+      "content": "<p>By building a concert hall whose shape would cause sounds to echo</p>"
+    },
+    {
+      "id": "d43444c8-a4a0-4918-a5d0-ca6d8375cfeb",
+      "content": "<p>By insisting that the singers undergo special training to sing for extended periods of time</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it presents a statement about how Richard Wagner achieved moments of extremely high volume in his operas that is supported by the text. The text states that European composers experimented with volume in their works by increasing the number of musicians in the orchestra and provides the example of Wagner, who \"added more horns, trombones, and tubas to the orchestra.\" The text explains that by having more of these instruments playing at the same time, the overall volume of the orchestra could be dramatically increased at key moments in Wagner&rsquo;s operas.</p><p>Choice A is incorrect because the text never indicates that Wagner moved his operas indoors to achieve moments of extremely high volume, nor does it indicate that his operas were previously performed outdoors. The only technique discussed in the text for achieving extremely high volume is Wagner&rsquo;s addition of more instruments to create a bigger, louder orchestra. Choice C is incorrect because the text never says that Wagner built or used a specially designed concert hall to increase volume through echoes. The only technique discussed in the text is Wagner&rsquo;s addition of more instruments to create a bigger, louder orchestra. Choice D is incorrect because the text never mentions any special training for singers related to volume or singing for extended periods. The text&rsquo;s focus is entirely on the orchestra and how Wagner and other European composers used instruments to experiment with volume in their musical works.</p>",
+  "externalid": "3ef60e7e-2222-4c2c-80a1-2d4eec7abb4a",
+  "correct_answer": [
+    "B"
+  ]
+}

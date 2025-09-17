@@ -1,0 +1,38 @@
+{
+  "vaultid": "0dec599a-7c57-4697-b4d5-3e32081c50db",
+  "keys": [
+    "5a21637c-6103-4608-9d31-9fcb6f153dbb"
+  ],
+  "rationale": "<p>Choice A is the best answer because it accurately states the main purpose of the text. The text begins by discussing the promise of the future, with positive references to renewal such as &ldquo;new roads,&rdquo; &ldquo;new beating of the drum,&rdquo; and &ldquo;fresh seeing.&rdquo; But with the &ldquo;new sun,&rdquo; the text continues, there will still be &ldquo;the same backs bending&rdquo; and &ldquo;the same sad feet&rdquo; drumming, indicating that these difficulties will follow people into this new day. The poem thus considers both the rewards and challenges associated with the repetitiveness of human life. </p><p>Choice B is incorrect because the text doesn&rsquo;t say anything about how memorable activities are, let alone compare the memorability of activities completed at different times of the day. Choice C is incorrect. Although the text contrasts hope with difficulty, it does not compare the relative frequency of joyful feelings with that of sad feelings.&nbsp;Choice D is incorrect because the text makes no distinction between the experiences of individuals and the experiences of their communities. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "externalid": "974b9c60-47e6-4642-bb02-bdbca4f56fd4",
+  "stimulus": "<p>The following text is from the 1924 poem &ldquo;Cycle&rdquo; by D&rsquo;Arcy McNickle, who was a citizen of the Confederated Salish and Kootenai Tribes.</p>\n<p style=\"padding-left:1em;\">There shall be new roads wending,<br>A new beating of the drum&mdash;<br>Men&rsquo;s eyes shall have fresh seeing,<br>Grey lives reprise their span&mdash;<br>But under the new sun&rsquo;s being,<br>Completing what night began,<br>There&rsquo;ll be the same backs bending,<br>The same sad feet shall drum&mdash;<br>When this night finds its ending<br>And day shall have come.....</p>",
+  "templateclusterid": "8304f511-2f5c-4bed-9f97-859c69acb020",
+  "parenttemplatename": "OSP-028-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "5a21637c-6103-4608-9d31-9fcb6f153dbb",
+      "content": "<p>To consider how the repetitiveness inherent in human life can be both rewarding and challenging</p>"
+    },
+    {
+      "id": "7b47f7fe-76a4-4983-8e11-9c00e9b8fabf",
+      "content": "<p>To question whether activities completed at one time of day are more memorable than those completed at another time of day</p>"
+    },
+    {
+      "id": "08590421-958c-4900-8ad9-97726db0a87e",
+      "content": "<p>To refute the idea that joy is a more commonly experienced emotion than sadness is</p>"
+    },
+    {
+      "id": "45fc6cab-00ef-45ff-ae0e-a353eaa4aeaa",
+      "content": "<p>To demonstrate how the experiences of individuals relate to the experiences of their communities</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

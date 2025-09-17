@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best describes the function of the underlined sentence?</p>",
+  "stimulus": "<p>The following text is adapted from Cynthia Kadohata&rsquo;s 2004 novel <em>Kira-Kira</em>.</p>\n<blockquote>\n<p><span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">[Uncle Katsuhisa] was as loud as my father was quiet.</span> Even when he wasn&rsquo;t talking, he made a lot of noise, clearing his throat and sniffing and tapping his fingers.</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;2004 by Cynthia Kadohata</span></p>",
+  "keys": [
+    "8e2163c3-8f41-4fed-b998-7a2600344e45"
+  ],
+  "answerOptions": [
+    {
+      "id": "1e2fb520-6f31-45e7-a1f2-d0e25b3e5c2d",
+      "content": "<p>It lists the kinds of topics Uncle Katsuhisa enjoys discussing.</p>"
+    },
+    {
+      "id": "6322269b-82c2-4f44-99ec-34bd4228ad78",
+      "content": "<p>It suggests that Uncle Katsuhisa dislikes meeting new people.</p>"
+    },
+    {
+      "id": "8e2163c3-8f41-4fed-b998-7a2600344e45",
+      "content": "<p>It contrasts Uncle Katsuhisa with the narrator&rsquo;s father.</p>"
+    },
+    {
+      "id": "80ae878f-6a2a-444b-9a4d-51ba7bbdac91",
+      "content": "<p>It describes a conversation between the narrator and the narrator&rsquo;s father.&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most accurately describes how the underlined sentence functions in the text as a whole. The underlined sentence establishes a difference between Uncle Katsuhisa and the narrator&rsquo;s father by describing Uncle Katsuhisa as \"loud\" and the narrator&rsquo;s father as \"quiet.\" The text then elaborates on that contrast, describing some ways Uncle Katsuhisa is very noisy even when he isn&rsquo;t speaking.</p><p>Choice A is incorrect because the text doesn&rsquo;t indicate what kinds of topics Uncle Katsuhisa enjoys discussing, only that he is loud even when he isn&rsquo;t speaking. Choice B is incorrect because the text never indicates how Uncle Katsuhisa feels about meeting new people, only how loud he is. Choice D is incorrect because the text never describes a conversation occurring between any people; it refers to talking only when stating that Uncle Katsuhisa is loud even when he isn&rsquo;t speaking.</p>",
+  "externalid": "3ec391b1-5631-41ab-8f96-831f600e0aa8",
+  "correct_answer": [
+    "C"
+  ]
+}

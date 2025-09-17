@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>The term &ldquo;retroflex&rdquo; derives from Latin and means &ldquo;bent back,&rdquo; an apt descriptor for the branch of consonants&mdash;retroflex consonants&mdash;pronounced with the tongue curling up and back in the mouth. In many languages, including English, these consonants are <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in some dialects of Mandarin, however, four such consonants (&ldquo;ch,&rdquo; &ldquo;sh,&rdquo; &ldquo;zh,&rdquo; and &ldquo;r&rdquo;) are relatively common.</p>",
+  "keys": [
+    "5bfcb3b0-7326-4d71-bead-193d597d65c0"
+  ],
+  "answerOptions": [
+    {
+      "id": "4ab2520f-1558-4616-ba5c-522f6c6ec8f8",
+      "content": "<p>rare and</p>"
+    },
+    {
+      "id": "b98ae0b9-91d3-4dbd-ae79-1d2f84ef3c4d",
+      "content": "<p>rare<span data-ssml-say-as=\"characters\">,</span></p>"
+    },
+    {
+      "id": "0d41def8-8083-4b10-8f88-dc99e1ceb5ca",
+      "content": "<p>rare</p>"
+    },
+    {
+      "id": "5bfcb3b0-7326-4d71-bead-193d597d65c0",
+      "content": "<p>rare<span data-ssml-say-as=\"characters\">;</span></p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the use of punctuation within a sentence. This choice uses a semicolon in a conventional way to join the first main clause (\"In many&hellip;rare\") and the second main clause (\"in some&hellip;common\") in this sentence.</p><p>Choice A is incorrect. Joining the first main clause (\"In many&hellip;rare\") and the second main clause (\"in some...common\") with the conjunction \"and\" conflicts with the use of \"however\" later in the sentence, resulting in a confusing and illogical sentence. Choice B is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses. Choice C is incorrect because it results in a run-on sentence. The two main clauses are fused without punctuation and/or a conjunction.</p>",
+  "externalid": "27e6a792-7dd0-4c78-ae6f-67d2960ac1ac",
+  "correct_answer": [
+    "D"
+  ]
+}

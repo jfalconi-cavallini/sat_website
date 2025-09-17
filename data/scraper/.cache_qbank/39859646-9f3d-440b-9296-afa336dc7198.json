@@ -1,0 +1,38 @@
+{
+  "vaultid": "45cc3817-7601-42d4-b23b-99d1009f2823",
+  "keys": [
+    "2e965ed0-b2b8-4d67-a6c4-6adea216590f"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most effectively uses data from the table to complete the example of the high cost and low popularity of world&rsquo;s fairs. The text presents Chow&rsquo;s argument that the United States hasn&rsquo;t hosted a world&rsquo;s fair since 1984 because people think these exhibitions are overly expensive and insufficiently popular. The text then cites the 1984 World&rsquo;s Fair as an example, noting that it cost $350 million. Since the example should illustrate both high cost and insufficient popularity, the best completion of the example is the information from the table that the 1984 World&rsquo;s Fair had 7.35 million visitors. </p><p>Choice B is incorrect because it misrepresents data from the table. The table indicates that the 1984 World&rsquo;s Fair, which is the world&rsquo;s fair used as an example in the text, had 7.35 million, not 9.60 million, visitors.&nbsp;Choice C is incorrect because it misrepresents data from the table. The table indicates that the 1984 World&rsquo;s Fair, which is the world&rsquo;s fair used as an example in the text, had 7.35 million, not 6.40 million, visitors.&nbsp;Choice D is incorrect because it misrepresents data from the table. The table indicates that the 1984 World&rsquo;s Fair, which is the world&rsquo;s fair used as an example in the text, had 7.35 million, not 5.60 million, visitors.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most effectively uses data from the table to complete the example?</p>",
+  "externalid": "39859646-9f3d-440b-9296-afa336dc7198",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Attendance and Cost of Hosting for Past Four US World&rsquo;s Fairs</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">World&rsquo;s fairs held in the US</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Cost (in US dollars)</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Number of visitors</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">Century 21 Exposition (1962)</th><td>$47 million</td><td>9.60 million</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">HemisFair &rsquo;68</th><td>$156 million</td><td>6.40 million</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">1984 World&rsquo;s Fair</th><td>$350 million</td><td>7.35 million</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Expo &rsquo;74</th><td>$78 million</td><td>5.60 million</td></tr></tbody></table></figure></p>\n<p>Huge international exhibitions known as world&rsquo;s fairs have been held since 1851, but the United States hasn&rsquo;t hosted one since 1984. Architecture expert Mina Chow argues that this is because some people think the events are too expensive and not popular enough. For example, the 1984 World&rsquo;s Fair cost $350 million and had only <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "a320453e-b49d-465b-a0c7-bc4d50550a54",
+  "parenttemplatename": "OSP-544-QUA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "2e965ed0-b2b8-4d67-a6c4-6adea216590f",
+      "content": "<p>7.35 million visitors.</p>"
+    },
+    {
+      "id": "266c8b74-46b5-43e4-9baf-01831690110e",
+      "content": "<p>9.60 million visitors.</p>"
+    },
+    {
+      "id": "c86d7cdf-4b0c-4036-94de-ea0f2ee8df6c",
+      "content": "<p>6.40 million visitors.</p>"
+    },
+    {
+      "id": "71ac4e2d-9ce5-435b-959f-5f2b8d9b2156",
+      "content": "<p>5.60 million visitors.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

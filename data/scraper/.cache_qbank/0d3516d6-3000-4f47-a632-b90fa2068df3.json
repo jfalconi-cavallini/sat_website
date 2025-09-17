@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Roughly once an hour, a torrent of boiling water shoots up 100 feet or more from Yellowstone&rsquo;s Old Faithful geyser before plunging back to the surface&mdash;a cycle seemingly inhospitable to life. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> as microbiologist Eric Boyd attests, &ldquo;the geyser is&hellip;almost like a cradle for biodiversity,&rdquo; home to numerous bacteria species that thrive in its sulfurous waters.</p>",
+  "keys": [
+    "3dd119c6-0c79-4bfd-a91d-11738c28e8c7"
+  ],
+  "answerOptions": [
+    {
+      "id": "93113fe5-3562-43b6-94f4-8d5823300bd4",
+      "content": "<p>Thus,</p>"
+    },
+    {
+      "id": "f86c28e4-c9c9-418e-abcd-3454194e3362",
+      "content": "<p>Specifically,</p>"
+    },
+    {
+      "id": "3dd119c6-0c79-4bfd-a91d-11738c28e8c7",
+      "content": "<p>Still,</p>"
+    },
+    {
+      "id": "e6d4e710-9f36-4dfa-a49a-61296decb126",
+      "content": "<p>In other words,</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. \"Still\" logically signals that the information in this sentence about Old Faithful&rsquo;s thriving bacteria species is true despite the previous claim that conditions at the geyser seem as if they would be inhospitable to life.</p><p>Choice A is incorrect because \"thus\" illogically signals that the information in this sentence is a result or consequence of the previous claim about Old Faithful&rsquo;s seemingly inhospitable conditions. Instead, this information about the geyser&rsquo;s many thriving bacteria species is true despite the previous claim. Choice B is incorrect because \"specifically\" illogically signals that the information in this sentence provides specific, precise details elaborating on the previous claim about Old Faithful&rsquo;s seemingly inhospitable conditions. Instead, this information about the geyser&rsquo;s many thriving bacteria species is true despite the previous claim. Choice D is incorrect because \"in other words\" illogically signals that the information in this sentence serves as a paraphrase or restatement of the previous claim about Old Faithful&rsquo;s seemingly inhospitable conditions. Instead, this information about the geyser&rsquo;s many thriving bacteria species is true despite the previous claim.</p>",
+  "externalid": "0d3516d6-3000-4f47-a632-b90fa2068df3",
+  "correct_answer": [
+    "C"
+  ]
+}

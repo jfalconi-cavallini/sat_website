@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Economist Elinor Ostrom&rsquo;s studies of communities around the world have empirically demonstrated that common pool resources, such as grazing lands, can be sustainably managed by the people who use them (rather than through private entities or centralized governments). <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Ostrom&rsquo;s work is a repudiation of the &ldquo;tragedy of the commons,&rdquo; the view that individuals will inevitably overexploit a finite shared resource if given unfettered access to it. &nbsp;</p>",
+  "keys": [
+    "7d0cd248-abd1-46f1-9c17-6cae2981b7f0"
+  ],
+  "answerOptions": [
+    {
+      "id": "932a9e38-3b92-4973-ade3-49df42a1e9a1",
+      "content": "<p>By contrast,</p>"
+    },
+    {
+      "id": "d14a5403-2089-4c96-904e-15a60729eb77",
+      "content": "<p>For example,</p>"
+    },
+    {
+      "id": "1b705354-a161-4e38-89b7-62c0d03b6d00",
+      "content": "<p>That said,&nbsp;</p>"
+    },
+    {
+      "id": "7d0cd248-abd1-46f1-9c17-6cae2981b7f0",
+      "content": "<p>As such,</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. \"As such\" correctly signals that the claim in this sentence&mdash;that Ostrom&rsquo;s work is a repudiation of the \"tragedy of the commons\" view&mdash;follows logically from the information about Ostrom&rsquo;s studies in the previous sentence. According to that sentence, Ostrom&rsquo;s studies demonstrate that common pool resources can in fact be sustainably managed by the people who use them.</p><p>Choice A is incorrect because \"by contrast\" illogically signals that the information in this sentence contrasts with the information about Ostrom&rsquo;s studies in the previous sentence. Instead, the claim that Ostrom&rsquo;s work repudiates the \"tragedy of the commons\" view follows logically from that information. Choice B is incorrect because \"for example\" illogically signals that the claim in this sentence exemplifies the information about Ostrom&rsquo;s studies in the previous sentence. Instead, the claim that Ostrom&rsquo;s work repudiates the \"tragedy of the commons\" view follows logically from that information. Choice C is incorrect because \"that said\" illogically signals that the information in this sentence is an exception or caveat to the information about Ostrom&rsquo;s studies in the previous sentence. Instead, the claim that Ostrom&rsquo;s work repudiates the \"tragedy of the commons\" view follows logically from that information.</p>",
+  "externalid": "fa45fdd1-8a89-477b-be0c-783d930d6e6b",
+  "correct_answer": [
+    "D"
+  ]
+}

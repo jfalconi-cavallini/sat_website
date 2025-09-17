@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best states the function of the underlined portion of the text?</p>",
+  "stimulus": "<p>The majority of plastics today wind up in landfills or are, at best, recycled into materials that have a very limited range of applications. To address this problem, chemist Guoliang Liu and colleagues designed a reactor that melts polyethylene and polypropylene&mdash;two widely used plastics&mdash;into a wax. The wax can then be transformed into a surfactant (<span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">a chemical compound usable as a detergent</span>). With this promising new method, plastic waste could be turned into a range of useful cleaning products.</p>",
+  "keys": [
+    "f0767ffc-d173-4a7b-b692-9fc0ab46f717"
+  ],
+  "answerOptions": [
+    {
+      "id": "f0767ffc-d173-4a7b-b692-9fc0ab46f717",
+      "content": "<p>It clarifies the meaning of a scientific term.</p>"
+    },
+    {
+      "id": "9f9c1f17-11c8-454d-ae08-3e8b4a9194bd",
+      "content": "<p>It describes an environmental concern.</p>"
+    },
+    {
+      "id": "03a18dfc-54ce-44b9-8c84-4cedcc2f871d",
+      "content": "<p>It explains the significance of a scientific discovery.</p>"
+    },
+    {
+      "id": "1c6400b1-58aa-4cf3-9619-91dd96346a1e",
+      "content": "<p>It identifies a result that confused the team.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately describes how the underlined phrase functions in the text as a whole. The text states that the wax produced by Liu and colleagues&rsquo; reactor can be turned into a surfactant. The underlined phrase, which is set off with parentheses, then provides a definition for the term \"surfactant,\" explaining that it&rsquo;s a chemical compound that can be used as a detergent. Thus, the underlined portion of the text functions to clarify the meaning of a scientific term.</p><p>Choice B is incorrect. Though the text as a whole focuses broadly on an environmental concern, the underlined phrase does not; it simply indicates what a surfactant is. Choice C is incorrect. Though the text as a whole focuses on a scientific discovery (Liu and colleagues&rsquo; solution to the problem of plastic recycling), the underlined phrase does not explain its significance; it simply defines a scientific term used in the discussion. Choice D is incorrect. Though the text as a whole includes discussion of the result found by Liu and colleagues, the underlined phrase does not discuss it; it simply defines a scientific term used in the discussion. Additionally, at no point in the text is it mentioned that the team was confused.</p>",
+  "externalid": "14ae6d0e-38ba-4602-8f74-5dedc287f6bc",
+  "correct_answer": [
+    "A"
+  ]
+}

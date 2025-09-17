@@ -1,0 +1,38 @@
+{
+  "vaultid": "7aacc1ca-9c43-40af-abc1-be1cfdb06298",
+  "keys": [
+    "f57fd940-58b9-44ee-8dda-cbec03a42208"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice correctly uses a comma and the coordinating conjunction &ldquo;but&rdquo; to join the first main clause (&ldquo;Human-made...fibers&rdquo;) and the second main clause (&ldquo;the manufacture...water&rdquo;). </p><p>Choice A is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses. Choice B is incorrect because when coordinating two longer main clauses such as these, it&rsquo;s conventional to use a comma before the coordinating conjunction. Choice C is incorrect because it results in a run-on sentence. The two main clauses are fused without punctuation and/or a conjunction.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "607efa95-e3e3-4977-8e7b-f0388cebb5b5",
+  "stimulus": "<p>Human-made (synthetic) fibers used in clothes and many other consumer products are more durable than most natural plant <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the manufacture of synthetic fibers requires toxic chemical solvents that can pollute air and water.</p>",
+  "templateclusterid": "9d49f659-41b8-45cb-86df-e0cd8b8fd188",
+  "parenttemplatename": "OSP-712-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "7b016f3d-1710-41f6-b3ac-41d87f1d4403",
+      "content": "<p>fibers,</p>"
+    },
+    {
+      "id": "2e8163cc-7b94-4d59-a342-90c55c40d24e",
+      "content": "<p>fibers but</p>"
+    },
+    {
+      "id": "01660b8f-964d-400b-abcc-825e4428393d",
+      "content": "<p>fibers</p>"
+    },
+    {
+      "id": "f57fd940-58b9-44ee-8dda-cbec03a42208",
+      "content": "<p>fibers, but</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

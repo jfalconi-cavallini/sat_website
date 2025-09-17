@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best describes the function of the third sentence in the overall structure of the text?</p>",
+  "stimulus": "<p>The mimosa tree evolved in East Asia, where the beetle <em>Bruchidius terrenus</em> preys on its seeds. In <span data-ssml-say-as=\"date\">1785</span>, mimosa trees were introduced to North America, far from any <em><span data-ssml-sub-alias=\"B\">B.</span> terrenus</em>. <span role=\"region\" aria-label=\"Referenced Content\"><u>But evolutionary links between predators and their prey can persist across centuries and continents.</u></span> Around 2001, <em><span data-ssml-sub-alias=\"B\">B.</span> terrenus</em> was introduced in southeastern North America near where botanist Shu-Mei Chang and colleagues had been monitoring mimosa trees. Within a year, 93 percent of the trees had been attacked by the beetles.</p>",
+  "keys": [
+    "1372dc73-cd63-485c-8e53-5b9a8481c41b"
+  ],
+  "answerOptions": [
+    {
+      "id": "1b6e3124-af9d-4905-993d-23fa94c5eb03",
+      "content": "<p>It states the hypothesis that Chang and colleagues had set out to investigate using mimosa trees and <em><span data-ssml-sub-alias=\"B\">B.</span> terrenus</em>.</p>"
+    },
+    {
+      "id": "1372dc73-cd63-485c-8e53-5b9a8481c41b",
+      "content": "<p>It presents a generalization that is exemplified by the discussion of the mimosa trees and <em><span data-ssml-sub-alias=\"B\">B.</span> terrenus</em>.</p>"
+    },
+    {
+      "id": "4d42c844-5fd9-409c-ac1f-6ea96dc144fc",
+      "content": "<p>It provides context that clarifies why the species mentioned spread to new locations.&nbsp;</p>"
+    },
+    {
+      "id": "6a1d2f40-a952-43d9-b870-ee21b4d99cc2",
+      "content": "<p>It offers an alternative explanation for the findings of Chang and colleagues.&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most accurately describes the function of the third sentence within the overall structure of the text. The third sentence makes a generalization, asserting that evolutionary links between predators and prey can persist across great expanses of time and distance. This generalization is exemplified by the text&rsquo;s discussion of the relationship between mimosa trees and <em>B. terrenus</em> beetles. When mimosa trees were introduced to North America in 1785, no <em>B. terrenus</em> beetles were present, so the relationship between the trees and the beetles that exists in their native East Asia was disrupted. When the beetles were introduced to North America more than 200 years later, however, they quickly attacked mimosa trees, illustrating the generalization that links between predators and prey \"can persist across centuries and continents.\"</p><p>Choice A is incorrect because the third sentence doesn&rsquo;t indicate that Chang and colleagues were investigating any hypothesis. According to the text, Chang and colleagues were simply monitoring mimosa trees when the beetles happened to be introduced to the area. Choice C is incorrect because the third sentence doesn&rsquo;t discuss any particular species, let alone the species mentioned elsewhere in the text, nor does the sentence explain why species spread to new locations. Choice D is incorrect because the third sentence offers a generalization about the relationship between predators and prey, not an explanation for the findings by Chang and colleagues that&rsquo;s an \"alternative\" to an explanation presented elsewhere in the text.</p>",
+  "externalid": "c05cd444-d000-4a40-8bbc-7229da22f4f4",
+  "correct_answer": [
+    "B"
+  ]
+}

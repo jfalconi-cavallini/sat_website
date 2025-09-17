@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "stimulus": "<p>In 1935 Hallie Flanagan was chosen to lead the Federal Theatre Project (FTP). This project was part of the new Works Progress Administration (WPA), a program created by President Franklin D. Roosevelt to provide jobs for unemployed people during the Great Depression. As the director of the FTP, Flanagan created jobs for over 12,500 performers, designers, and other theater professionals across the country. She also kept ticket prices low for the shows they staged, which meant that many people could afford to experience theater for the first time.</p>",
+  "type": "mcq",
+  "keys": [
+    "948f8f2f-4222-47c7-8582-1b341657feec"
+  ],
+  "answerOptions": [
+    {
+      "id": "926acbff-1347-4185-96d6-047872e57985",
+      "content": "<p>Jobs provided by the FTP were intended mainly for performers, designers, and other theater professionals.</p>"
+    },
+    {
+      "id": "e5cb5c6a-da8d-46b2-8418-fe85863bf530",
+      "content": "<p>President Roosevelt created the WPA to provide jobs for unemployed people.</p>"
+    },
+    {
+      "id": "bfb9c3a3-9387-4112-b925-8aa37f9fca42",
+      "content": "<p>During the Great Depression, many people couldn&rsquo;t afford to buy theater tickets.</p>"
+    },
+    {
+      "id": "948f8f2f-4222-47c7-8582-1b341657feec",
+      "content": "<p>As the director of the FTP, Flanagan succeeded in creating many jobs and introducing people to theater.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most accurately states the main idea of the text. The text begins by stating that Flanagan was chosen in 1935 to lead the Federal Theatre Project (FTP), which was part of a program created by President Franklin D. Roosevelt. The text then explains that as the director of the FTP, Flanagan created jobs for more than 12,500 theater professionals and ensured that ticket prices stayed low so that many people could afford to experience theater for the first time. Thus, the main idea of the text is that as the FTP&rsquo;s director, Flanagan succeeded in creating many jobs and introducing people to theater.</p><p>Choice A is incorrect. The text does suggest that jobs provided by the FTP were intended mainly for theater professionals, but this isn&rsquo;t the text&rsquo;s main idea. The focus of the text is Hallie Flanagan&rsquo;s work as the director of the FTP, with the text&rsquo;s main point being that Flanagan succeeded in creating many jobs and introducing people to theater. Choice B is incorrect. The text does state that President Roosevelt created the WPA to provide jobs for unemployed people, but this is supporting information, not the text&rsquo;s main idea. The focus of the text is Hallie Flanagan&rsquo;s work as the director of the FTP, which was part of the WPA, and the text&rsquo;s main point is that Flanagan succeeded in creating many jobs and introducing people to theater. Choice C is incorrect. It&rsquo;s true that many people couldn&rsquo;t afford to buy theater tickets during the Great Depression, but this isn&rsquo;t the text&rsquo;s main idea. The focus of the text is Hallie Flanagan&rsquo;s work as the director of the FTP, with the text&rsquo;s main point being that Flanagan succeeded in creating many jobs and introducing people to theater.</p>",
+  "externalid": "1b252562-3bec-43c2-ac49-bb173f19ca83",
+  "correct_answer": [
+    "D"
+  ]
+}

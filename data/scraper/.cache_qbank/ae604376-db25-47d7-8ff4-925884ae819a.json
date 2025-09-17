@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "stimulus": "<p>The following text is adapted from Jean Webster&rsquo;s 1912 novel <em>Daddy-Long-Legs. </em>The narrator is a young college student writing letters detailing her weekly experiences.</p>\n<blockquote>\n<p>[The college is] organizing the Freshman basket-ball team and there&rsquo;s just a chance that I shall make it. I&rsquo;m little of course, but terribly quick and wiry and tough. While the others are hopping about in the air, I can dodge under their feet and grab the ball.&nbsp;</p>\n</blockquote>",
+  "type": "mcq",
+  "keys": [
+    "388d5b91-a1fb-45d3-822c-249c0d579d00"
+  ],
+  "answerOptions": [
+    {
+      "id": "93f056f9-4ac6-401b-902a-6bd1be3e8757",
+      "content": "<p>To compare basketball with other sports</p>"
+    },
+    {
+      "id": "a021a661-a217-4cfe-9c05-037b303506d2",
+      "content": "<p>To provide details of how to play basketball</p>"
+    },
+    {
+      "id": "d93c5ea2-3891-462a-abfe-d843f6d1a9b5",
+      "content": "<p>To state how players will be chosen for the basketball team</p>"
+    },
+    {
+      "id": "388d5b91-a1fb-45d3-822c-249c0d579d00",
+      "content": "<p>To explain why the narrator thinks she might make the basketball team</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most accurately describes the main purpose of the text. In the first sentence of the text, the narrator states that she thinks there&rsquo;s a chance she will become part of the basketball team at her college. She goes on to explain that she is \"quick\" and \"tough.\" Based on these characteristics, she thinks she has a chance to join the team. Thus, the main purpose of the text is to explain why the narrator thinks she might make the basketball team.</p><p>Choice A is incorrect because the text focuses solely on basketball and doesn&rsquo;t mention any other kinds of sports. Choice B is incorrect because the text doesn&rsquo;t describe aspects of the game of basketball. Instead, it provides the narrator&rsquo;s reasoning for thinking that she might make her school basketball team. Choice C is incorrect. Although the narrator explains why she thinks she will be chosen for the basketball team at her school, the text doesn&rsquo;t go into the general decision-making process or the requirements for being picked for the team.</p>",
+  "externalid": "ae604376-db25-47d7-8ff4-925884ae819a",
+  "correct_answer": [
+    "D"
+  ]
+}

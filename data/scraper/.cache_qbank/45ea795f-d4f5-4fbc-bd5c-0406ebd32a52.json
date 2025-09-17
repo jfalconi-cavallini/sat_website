@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>In 2009, researchers determined that pottery fragments from a cave in China were close to 18,000 years old. These are some of the oldest <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> of pottery ever found.</p>",
+  "type": "mcq",
+  "keys": [
+    "60c4d186-a0ea-4f7c-9ea9-4e34ba350cd2"
+  ],
+  "answerOptions": [
+    {
+      "id": "68ee3c62-5a2c-47c5-9e47-e24305da68d6",
+      "content": "<p>pieces:</p>"
+    },
+    {
+      "id": "a2956a3f-3f8c-486b-97c7-d1256023335e",
+      "content": "<p>pieces,</p>"
+    },
+    {
+      "id": "60c4d186-a0ea-4f7c-9ea9-4e34ba350cd2",
+      "content": "<p>pieces</p>"
+    },
+    {
+      "id": "58026ec7-662d-4540-9444-ffe604c52e0d",
+      "content": "<p>pieces&mdash;</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is punctuation use between a noun and a prepositional phrase. No punctuation is needed between the noun \"pieces\" and the prepositional phrase \"of pottery.\" The prepositional phrase provides essential information about what kind of pieces were found, so it shouldn&rsquo;t be separated from the rest of the noun phrase (\"some of the oldest pieces\") with punctuation.</p><p>Choice A is incorrect because no punctuation is needed between the noun phrase \"some of the oldest pieces\" and the prepositional phrase \"of pottery.\" Choice B is incorrect because no punctuation is needed between the noun phrase \"some of the oldest pieces\" and the prepositional phrase \"of pottery.\" Choice D is incorrect because no punctuation is needed between the noun phrase \"some of the oldest pieces\" and the prepositional phrase \"of pottery.\"</p>",
+  "externalid": "45ea795f-d4f5-4fbc-bd5c-0406ebd32a52",
+  "correct_answer": [
+    "C"
+  ]
+}

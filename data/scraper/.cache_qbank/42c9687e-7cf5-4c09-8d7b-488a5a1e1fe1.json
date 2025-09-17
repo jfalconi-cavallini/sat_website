@@ -1,0 +1,38 @@
+{
+  "vaultid": "02ba7e8f-a752-46d5-a227-701c4592d465",
+  "keys": [
+    "66ae1713-ab73-43b8-89d3-73891fc17028"
+  ],
+  "rationale": "<p>Choice B is the best answer. &ldquo;By contrast&rdquo; logically signals that the information in this sentence&mdash;that a firefly&rsquo;s glow ceases when it stops drawing in oxygen&mdash;contrasts with the previous sentence&rsquo;s discussion of the processes that cause a firefly to begin to glow. </p><p>Choice A is incorrect because &ldquo;for instance&rdquo; illogically signals that the information in the sentence exemplifies the previous sentence&rsquo;s discussion of how a firefly begins to glow. Instead, it contrasts with the previous sentence&rsquo;s discussion. Choice C is incorrect because &ldquo;specifically&rdquo; illogically signals that the information in the sentence provides specific details elaborating on the previous sentence&rsquo;s discussion of how a firefly begins to glow. Instead, it contrasts with the previous sentence&rsquo;s discussion.&nbsp;Choice D is incorrect because &ldquo;in conclusion&rdquo; illogically signals that the information in the sentence sums up the previous sentence&rsquo;s discussion of how a firefly begins to glow. Instead, it contrasts with the previous sentence&rsquo;s discussion.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "42c9687e-7cf5-4c09-8d7b-488a5a1e1fe1",
+  "stimulus": "<p>A firefly uses specialized muscles to draw oxygen into its lower abdomen through narrow tubes, triggering a chemical reaction whereby the oxygen combines with chemicals in the firefly&rsquo;s abdomen to produce a glow. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> when the firefly stops drawing in oxygen, the reaction&mdash;and the glow&mdash;cease.</p>",
+  "templateclusterid": "6777926d-275a-4d7d-99a0-033165ec3e38",
+  "parenttemplatename": "OSP-226-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "5c008ff0-28ab-46b0-a29d-898c8b24ebdf",
+      "content": "<p>For instance,</p>"
+    },
+    {
+      "id": "66ae1713-ab73-43b8-89d3-73891fc17028",
+      "content": "<p>By contrast,</p>"
+    },
+    {
+      "id": "57ff7297-046d-4f0c-8d25-e473fb9f8ab8",
+      "content": "<p>Specifically,</p>"
+    },
+    {
+      "id": "1c933139-6171-42f5-b25f-701229e07dc8",
+      "content": "<p>In conclusion,</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

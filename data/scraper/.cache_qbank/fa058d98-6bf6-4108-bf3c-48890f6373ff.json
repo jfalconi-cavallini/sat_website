@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "stimulus": "<p>To understand how Paleolithic artists navigated dark caves, archaeologist M&ordf; &Aacute;ngeles Medina-Alcaide and her team tested different lighting methods in a cave in Spain using replicas of artifacts found in European caves with art. They used three different Paleolithic light sources&mdash;torches, animal-fat lamps, and fireplaces&mdash;determining that each likely had a specific purpose. For instance, the team learned that the animal-fat lamps were less useful than torches while walking because the lamps didn&rsquo;t illuminate the cave floor.</p>",
+  "type": "mcq",
+  "keys": [
+    "030fb3f2-4279-4c14-8dac-93b063128136"
+  ],
+  "answerOptions": [
+    {
+      "id": "11748b27-d5cd-4cb8-bf5b-380d7b72a4f1",
+      "content": "<p>Medina-Alcaide and her team&rsquo;s study demonstrated that fireplaces were essential to the creators of Paleolithic cave art.</p>"
+    },
+    {
+      "id": "68d833eb-9fa8-4118-bf56-dfbcad5c8320",
+      "content": "<p>Medina-Alcaide and her team discovered that Paleolithic cave artists in Spain used animal-fat lamps more often than they used torches.</p>"
+    },
+    {
+      "id": "6f7856f3-c023-429b-96bb-8c559fbd5469",
+      "content": "<p>Medina-Alcaide and her team were reluctant to draw many conclusions from their study because of the difficulty they had replicating light sources based on known artifacts.</p>"
+    },
+    {
+      "id": "030fb3f2-4279-4c14-8dac-93b063128136",
+      "content": "<p>Medina-Alcaide and her team tested Paleolithic light sources and learned some details about how Paleolithic artists traveled within dark caves.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most accurately states the main idea of the text. The text indicates that archaeologist M&ordf; &Aacute;ngeles Medina-Alcaide and her team used replicas of Paleolithic light sources to understand how Paleolithic artists moved through dark caves. The researchers learned, for example, that torches were more helpful for moving through caves than animal-fat lamps were. Thus, the main idea of the text is that Medina-Alcaide and her team tested Paleolithic light sources and learned some details about how Paleolithic artists traveled within dark caves.</p><p>Choice A is incorrect because the text doesn&rsquo;t address the usefulness of fireplaces for Paleolithic cave artists; it only mentions fireplaces briefly as one of the three lighting methods the researchers tested. Choice B is incorrect because the text doesn&rsquo;t discuss how often Paleolithic cave artists used each kind of light source tested. Although the text does compare animal-fat lamps with another lighting method, the point of that comparison is that animal-fat lamps were less useful than torches when walking, not that one method was used more often than another. Choice C is incorrect because the text doesn&rsquo;t discuss either how difficult it was for Medina-Alcaide and her team to replicate light sources or how the team felt about drawing conclusions from their study. Instead, the text reveals that the team was able to conclude that each light source likely had a distinct purpose.</p>",
+  "externalid": "fa058d98-6bf6-4108-bf3c-48890f6373ff",
+  "correct_answer": [
+    "D"
+  ]
+}

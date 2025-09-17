@@ -1,0 +1,38 @@
+{
+  "vaultid": "e1ccd171-70d1-415c-b72e-b743462299d3",
+  "keys": [
+    "d0bfb104-4354-4428-980c-3b660a59bf98"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of a relationship between the dodder plant and its host plant. As used in this context, &ldquo;synchronization&rdquo; means the act of things happening at the same time. The text indicates that the dodder and its host plant flower in unison and that this synchronization occurs because the dodder makes use of a protein produced by the host shortly before flowering. </p><p>Choice B is incorrect because referring to &ldquo;hibernation,&rdquo; or the state of being dormant or inactive, wouldn&rsquo;t make sense in context. The text focuses on something the dodder plant actively engages in&mdash;making use of a protein and producing flowers. Choice C is incorrect because stating that the dodder plant and its host engage together in &ldquo;prediction,&rdquo; or the act of declaring or indicating something in advance, wouldn&rsquo;t make sense in context. Rather than indicating that the dodder plant and its host plant make a prediction about flowering activity, the text suggests that the host produces a protein as part of its regular flowering process and that the dodder then absorbs and uses that protein to flower at the same time. Choice D is incorrect because referring to &ldquo;moderation,&rdquo; or the act of causing something to become less intense or extreme, wouldn&rsquo;t make sense in context. Although the text states that the dodder plant absorbs and uses a protein made by its host plant, it doesn&rsquo;t suggest that the dodder lessens the host plant&rsquo;s flowering activity; the two plants simply flower in unison. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "20fbf413-7cdc-4095-9049-97cfda456a48",
+  "stimulus": "<p>The parasitic dodder plant increases its reproductive success by flowering at the same time as the host plant it has latched onto. In 2020, Jianqiang Wu and his colleagues determined that the tiny dodder achieves this <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> with its host by absorbing and utilizing a protein the host produces when it is about to flower.</p>",
+  "templateclusterid": "f9207e9e-ead6-415d-8341-d79c49a347aa",
+  "parenttemplatename": "OSP-903-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d0bfb104-4354-4428-980c-3b660a59bf98",
+      "content": "<p><strong> </strong>synchronization</p>"
+    },
+    {
+      "id": "08aa1c56-cdcc-4945-8908-8b9146413216",
+      "content": "<p>hibernation</p>"
+    },
+    {
+      "id": "fa679281-cefb-4740-bf63-548ac35ac857",
+      "content": "<p>prediction</p>"
+    },
+    {
+      "id": "92488a29-7b12-4358-89b7-ad886cf85b69",
+      "content": "<p>moderation</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "e97f55c3-dc8d-4c30-8d20-1fd75a3d89d6",
+  "keys": [
+    "c680ce38-b5bd-4829-adb5-922a7cf5725d"
+  ],
+  "rationale": "<p>Choice B is the best answer because it describes the most likely way that Graeber and Wengrow (Text 2) would respond to the &ldquo;conventional wisdom&rdquo; presented in Text 1. According to Text 1, the conventional wisdom about human social systems is that they developed through stages, beginning with hunter-gatherer bands, then moving to clan associations, then chiefdoms, and finally arriving at states with bureaucratic structures. Text 2 indicates that Graeber and Wengrow believe that human social systems have been flexible, shifting between different types of structures, including both hierarchical and collective systems, and that these shifts may have even occurred seasonally. This suggests that Graeber and Wengrow would dispute the idea that developments in social structures have followed a linear progression through distinct stages.&nbsp;</p><p>Choice A is incorrect because nothing in Text 2 suggests that Graeber and Wengrow believe that decentralized collective societies are more significant than hierarchical systems. Text 2 is focused on Graeber and Wengrow&rsquo;s view that humans have flexibly shifted among various social structures, not on the importance of particular structures relative to others.&nbsp;Choice C is incorrect because Text 2 doesn&rsquo;t include any information suggesting that Graeber and Wengrow believe that hierarchies didn&rsquo;t emerge until after the rise of agriculture. In fact, Text 2 indicates that Graeber and Wengrow cite evidence suggesting that some hunter-gatherer groups formed social structures with hierarchical elements (&ldquo;communities that included esteemed individuals&rdquo;) 50,000 years ago, long before the rise of agriculture, which Text 1 says occurred around 12,000 years ago.&nbsp;Choice D is incorrect because there&rsquo;s no information in Text 2 suggesting that Graeber and Wengrow would challenge the assumption that groupings of hunter-gatherers were among the earliest forms of social structure. Although Text 1 does indicate that hunter-gatherer groups are assumed to be the earliest human social system, Text 2 says only that Graeber and Wengrow believe that some hunter-gatherer groups made use of different social structures at different times. Text 2 doesn&rsquo;t imply that Graeber and Wengrow doubt that hunter-gatherer groups preceded most other social structures. </p>",
+  "origin": "proteus",
+  "stem": "<p>Based on the texts, how would Graeber and Wengrow (Text 2) most likely respond to the &ldquo;conventional wisdom&rdquo; presented in Text 1?</p>",
+  "externalid": "621c701a-7357-403e-812b-cafcc28f7c1f",
+  "stimulus": "<p>&nbsp;</p><p><span aria-level=\"2\" role=\"heading\"><strong>Text 1</strong></span></p>\n<p>Conventional wisdom long held that human social systems evolved in stages, beginning with hunter-gatherers forming small bands of members with roughly equal status. The shift to agriculture about 12,000 years ago sparked population growth that led to the emergence of groups with hierarchical structures: associations of clans first, then chiefdoms, and finally, bureaucratic states.</p>\n<p>&nbsp;</p><p><span aria-level=\"2\" role=\"heading\"><strong>Text 2</strong></span></p>\n<p>In a 2021 book, anthropologist David Graeber and archaeologist David Wengrow maintain that humans have always been socially flexible, alternately forming systems based on hierarchy and collective ones with decentralized leadership. The authors point to evidence that as far back as 50,000 years ago some hunter-gatherers adjusted their social structures seasonally, at times dispersing in small groups but also assembling into communities that included esteemed individuals.</p>",
+  "templateclusterid": "91b4dbcd-0157-4c3e-82dd-8c32cc74f24d",
+  "parenttemplatename": "OSP-008-CTC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "1c89d318-819c-4de4-b109-055cc1da13ed",
+      "content": "<p>By conceding the importance of hierarchical systems but asserting the greater significance of decentralized collective societies</p>"
+    },
+    {
+      "id": "c680ce38-b5bd-4829-adb5-922a7cf5725d",
+      "content": "<p>By disputing the idea that developments in social structures have followed a linear progression through distinct stages</p>"
+    },
+    {
+      "id": "26877652-ca85-4eca-9dd5-83426d7e2b60",
+      "content": "<p>By acknowledging that hierarchical roles likely weren&rsquo;t a part of social systems before the rise of agriculture</p>"
+    },
+    {
+      "id": "586c8436-b166-4ce8-885a-10abcffbd89a",
+      "content": "<p>By challenging the assumption that groupings of hunter-gatherers were among the earliest forms of social structure</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

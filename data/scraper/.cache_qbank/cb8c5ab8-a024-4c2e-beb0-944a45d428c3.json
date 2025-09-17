@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>In 1949, Frank Zamboni developed an ice rink resurfacing machine. As Zamboni&rsquo;s machine moved along the rink&rsquo;s surface, it first scraped off the top layer of ice. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> it sprayed water into the deep grooves left behind by customers&rsquo; skates. Lastly, it smoothed over the newly formed ice.</p>",
+  "type": "mcq",
+  "keys": [
+    "c883f677-ce0d-4324-9f33-d45637159ab8"
+  ],
+  "answerOptions": [
+    {
+      "id": "bf34ac3d-9080-4def-a0c4-22f8adc96599",
+      "content": "<p>For example,</p>"
+    },
+    {
+      "id": "c883f677-ce0d-4324-9f33-d45637159ab8",
+      "content": "<p>Next,</p>"
+    },
+    {
+      "id": "ffeb8324-1970-4ec5-9e45-191ddb200fff",
+      "content": "<p>Similarly,</p>"
+    },
+    {
+      "id": "935616c8-210b-4af0-890e-909e3b33702b",
+      "content": "<p>In contrast,</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. \"Next\" logically signals that the action in this sentence&mdash;the water spraying&mdash;is the next step in the resurfacing process, following the ice scraping mentioned in the previous sentence.</p><p>Choice A is incorrect because \"for example\" illogically signals that the action in this sentence is an example of the action in the previous sentence. Instead, the water spraying is the next step in a process that begins with the ice scraping. Choice C is incorrect because \"similarly\" illogically signals that the action in this sentence is similar to the action in the previous sentence. Instead, the water spraying is the next step in a process that begins with the ice scraping. Choice D is incorrect because \"in contrast\" illogically signals that the action in this sentence contrasts with the action in the previous sentence. Instead, the water spraying is the next step in a process that begins with the ice scraping.</p>",
+  "externalid": "cb8c5ab8-a024-4c2e-beb0-944a45d428c3",
+  "correct_answer": [
+    "B"
+  ]
+}

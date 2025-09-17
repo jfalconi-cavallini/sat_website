@@ -1,0 +1,38 @@
+{
+  "vaultid": "0484a5ba-18e1-4166-ab13-1e39e610de94",
+  "keys": [
+    "f4690fe4-ed34-4943-97e5-cca5279b3980"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of Jung and her team&rsquo;s study of acts of kindness. In this context, &ldquo;foster&rdquo; means encourage or promote the development of. The text indicates that Jung and her team found that seeing a helpful (or prosocial) act makes a bystander more likely to help someone else, which can in turn inspire additional people to help others. That is, the team showed that single acts of kindness can foster additional prosocial acts across a group. </p><p>Choice A is incorrect because nothing in the text suggests that Jung and her team found that single acts of kindness &ldquo;require,&rdquo; or depend on or make obligatory, broader prosocial (or helpful) behavior across a group. There&rsquo;s no suggestion in the text that individual acts of kindness can only occur if other prosocial acts have already occurred, and the text indicates only that an act of kindness <em>can </em>inspire additional helpful acts, not that it necessarily will do so. Choice B is incorrect because the text focuses on a possible direct effect of individual acts of kindness, or single helpful actions, and it wouldn&rsquo;t make sense to suggest that actions can &ldquo;remember,&rdquo; or hold a memory of, something. Choice D is incorrect because the text doesn&rsquo;t indicate that Jung and her team found that single acts of kindness can &ldquo;discourage,&rdquo; or hinder, prosocial (or helpful) behavior across a group. On the contrary, the text states that Jung and her team found that seeing a helpful act makes a bystander <em>more</em> likely to help someone else, which can in turn inspire even more people to help others. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "48f58e5b-56ce-4765-8efd-ee56f9003796",
+  "stimulus": "<p>Researcher Haesung Jung led a 2020 study showing that individual acts of kindness can <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> prosocial behavior across a larger group. Jung and her team found that bystanders who witness a helpful act become more likely to offer help to someone else, and in doing so, can inspire still others to act.</p>",
+  "templateclusterid": "b053308a-6db7-4360-8fd2-0c82fadec735",
+  "parenttemplatename": "OSP-966-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "b78498fd-ff93-4842-aedc-b67ee4f840af",
+      "content": "<p>require</p>"
+    },
+    {
+      "id": "f6282eee-f279-4b52-af3d-60852ab7e9c6",
+      "content": "<p>remember</p>"
+    },
+    {
+      "id": "f4690fe4-ed34-4943-97e5-cca5279b3980",
+      "content": "<p>foster</p>"
+    },
+    {
+      "id": "0d715e68-92de-4083-934a-25dc451b74a0",
+      "content": "<p>discourage</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

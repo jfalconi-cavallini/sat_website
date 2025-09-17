@@ -1,0 +1,38 @@
+{
+  "vaultid": "2c3ae76c-9b83-4b98-aacc-8cf0943a9662",
+  "keys": [
+    "d46fe3e7-d5d8-43be-9211-a9fb29423717"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most effectively uses data from the table to complete the statement about the depth at which the highest number of tools made from clamshells that Neanderthals collected from the beach was found. The table presents the depths at which Neanderthal clamshell tools were found, and, for each depth, the number of those tools made from clamshells that washed up on the beach and the number made from clamshells harvested from the seafloor. The table indicates that the highest number made from clamshells collected from the beach was 99 and that these tools were found at a depth of 3&ndash;4 meters. </p><p>Choice A is incorrect because the table indicates that 18 tools made from clamshells collected from the beach were found at a depth of 5&ndash;6 meters, which is fewer than the 99 tools found at a depth of 3&ndash;4 meters. Choice B is incorrect because the table indicates that 2 tools made from clamshells collected from the beach were found at a depth of 4&ndash;5 meters, which is fewer than the 99 tools found at a depth of 3&ndash;4 meters. Choice D is incorrect because the table indicates that 1 tool made from clamshells collected from the beach was found at a depth of 6&ndash;7 meters, which is fewer than the 99 tools found at a depth of 3&ndash;4 meters. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most effectively uses data from the table to complete the text?</p>",
+  "externalid": "5ad79e33-9613-4f29-9933-9caaa3d9a62d",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Number and Origin of Clamshell Tools Found at Different Depths below the Surface in Neanderthal Cave</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Depth of tools found below surface in cave (meters)</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Clamshells that Neanderthals collected from the beach</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Clamshells that Neanderthals harvested from the seafloor</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: center;\">2&ndash;3</th><td style=\"text-align: center;\">7</td><td style=\"text-align: center;\">0</td></tr><tr><th scope=\"row\" style=\"text-align: center;\">3&ndash;4</th><td style=\"text-align: center;\">99</td><td style=\"text-align: center;\">33</td></tr><tr><th scope=\"row\" style=\"text-align: center;\">4&ndash;5</th><td style=\"text-align: center;\">2</td><td style=\"text-align: center;\">0</td></tr><tr><th scope=\"row\" style=\"text-align: center;\">5&ndash;6</th><td style=\"text-align: center;\">18</td><td style=\"text-align: center;\">7</td></tr><tr><th scope=\"row\" style=\"text-align: center;\">6&ndash;7</th><td style=\"text-align: center;\">1</td><td style=\"text-align: center;\">0</td></tr></tbody></table></figure></p>\n<p>Two kinds of clamshell tools used by Neanderthals were dug up in a cave on the western coast of Italy. Archaeologist Paola Villa and her colleagues studied the tools and determined that Neanderthals either collected clams that had washed onto the beach or harvested clams from the seafloor and then sharpened the shells to make tools. The highest number of tools made from clamshells that were collected from the beach was found at a depth of <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "79ebe409-7a3c-436a-87ee-b85e5a0cc6e3",
+  "parenttemplatename": "OSP-530-QUA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "e6de0450-ffc4-4c5e-a257-09d51388289f",
+      "content": "<p>5&ndash;6 meters below the surface.</p>"
+    },
+    {
+      "id": "ddce950e-2991-43a3-935f-c37166d294ab",
+      "content": "<p>4&ndash;5 meters below the surface.&nbsp;</p>"
+    },
+    {
+      "id": "d46fe3e7-d5d8-43be-9211-a9fb29423717",
+      "content": "<p>3&ndash;4 meters below the surface.</p>"
+    },
+    {
+      "id": "b385c2b2-b9be-4ab3-97eb-289bfec332b1",
+      "content": "<p>6&ndash;7 meters below the surface.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

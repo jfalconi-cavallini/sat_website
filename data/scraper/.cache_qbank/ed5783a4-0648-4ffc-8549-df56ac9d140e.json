@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>The Nacional tree is a rare variety of cacao. Nacionals were thought to have gone extinct by the twentieth century due to a fungus. This fungus can spread from tree to nearby tree through the air and causes disease. But around 2013, cacao expert Servio Pachard located some of these Nacional trees. The trees were in the Piedra de Plata coastal forest, within a hard-to-reach valley in Ecuador. Conservationists inferred that the Nacional trees in Piedra de Plata might have avoided the diseases that wiped out the other Nacionals because <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "a2fb467f-8e75-489d-a981-3d73306b7a2f"
+  ],
+  "answerOptions": [
+    {
+      "id": "a79959de-e501-4445-9ff4-d25249052193",
+      "content": "<p>early twentieth-century scientists did not know why so many Nacionals were becoming infected.</p>"
+    },
+    {
+      "id": "2ce5bc83-5898-41c9-855f-60812c4c06e8",
+      "content": "<p>the ability of the fungus to travel through the air was only recently discovered.</p>"
+    },
+    {
+      "id": "a2fb467f-8e75-489d-a981-3d73306b7a2f",
+      "content": "<p>they were too far from the other Nacional trees infected by the fungus to become infected themselves.</p>"
+    },
+    {
+      "id": "afbed78c-8ec2-4042-9680-ee6126f868fb",
+      "content": "<p>the chocolate made from their pods was highly valued.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of the Nacional trees&rsquo; survival in Piedra de Plata. The text states that the fungus that caused Nacional trees elsewhere to become diseased spreads from tree to nearby tree through the air. The text also mentions that the surviving Nacional trees were found in a hard-to-reach valley in Ecuador. Given this information, it&rsquo;s logical to conclude that these trees might have avoided infection because they were geographically isolated from infected Nacional trees, which prevented the airborne fungus from reaching them.</p><p>Choice A is incorrect because early twentieth-century scientists&rsquo; lack of knowledge about the infection that affected many Nacionals doesn&rsquo;t explain how the trees in the Piedra de Plata coastal forest survived. The text is concerned with the physical factors that allowed certain trees to avoid infection, not with scientists&rsquo; understanding of the disease. Choice B is incorrect. Although the text mentions that the fungus spreads through the air, it doesn&rsquo;t indicate when this ability was discovered. Moreover, even if the ability to move through the air was recently discovered, that wouldn&rsquo;t explain how the trees in Piedra de Plata avoided infection in the past. Choice D is incorrect because the value of the chocolate made from Nacional pods doesn&rsquo;t explain how the trees in the Piedra de Plata coastal forest avoided disease. The text focuses on the physical spread of the fungus that caused most Nacionals to become diseased, not on economic factors related to the trees&rsquo; products.</p>",
+  "externalid": "ed5783a4-0648-4ffc-8549-df56ac9d140e",
+  "correct_answer": [
+    "C"
+  ]
+}

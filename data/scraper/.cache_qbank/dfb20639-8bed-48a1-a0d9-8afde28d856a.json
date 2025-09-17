@@ -1,0 +1,38 @@
+{
+  "vaultid": "52c40110-9c24-4e6a-963f-350f60872e4a",
+  "keys": [
+    "6f34494f-f8e3-40d2-a521-bf7f77fbc2ed"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most effectively uses data from the table to complete the text&rsquo;s discussion of Attari and her team&rsquo;s survey results. The text states that the team asked respondents to identify the most effective action people can take to save energy, with the team classifying each action as either an efficiency or a curtailment. According to the text, respondents named curtailments more often than they did efficiencies. The text then offers an example that begins by citing a curtailment, turning off the lights, that was selected by a relatively high percentage of respondents (19.6%). Given that the example is presented in support of the idea that more respondents selected curtailments than efficiencies, the most effective way to complete the example is by citing an efficiency, using efficient light bulbs, that was selected by a relatively low percentage of respondents (only 3.6%). </p><p>Choice A is incorrect because it inaccurately describes data in the table. The data indicate that 6.3% of respondents said the most effective action was to change the thermostat setting, not to use efficient cars or hybrids. Choice B is incorrect because it inaccurately describes data in the table. The data indicate that 2.8% of respondents said the most effective action was to use efficient cars/hybrids, not to change the thermostat setting. Choice C is incorrect because it mentions a curtailment (using a bike or public transportation) and not an efficiency. The text states that a research team asked respondents to identify the most effective action people can take to save energy, with the team classifying each action as either an efficiency or a curtailment. According to the text, respondents named curtailments more often than they did efficiencies. The text then offers an example that begins by citing a curtailment, turning off the lights, that was selected by a relatively high percentage of respondents (19.6%). Given that the example is presented in support of the idea that more people selected curtailments than efficiencies, the most effective way to complete the example is not by referring to another curtailment but rather by referring to an efficiency that was selected by a relatively low percentage of respondents. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most effectively uses data from the table to complete the text?</p>",
+  "externalid": "dfb20639-8bed-48a1-a0d9-8afde28d856a",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Five of the Responses to Survey about Actions to Conserve Energy</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Action</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Action category</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Percentage of respondents selecting action (%)</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">Use efficient cars/hybrids</th><td>efficiency</td><td style=\"text-align: center;\">2.8</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Change thermostat setting</th><td>curtailment</td><td style=\"text-align: center;\">6.3</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Use bike or public transportation instead of car</th><td>curtailment</td><td style=\"text-align: center;\">12.9</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Use efficient light bulbs</th><td>efficiency</td><td style=\"text-align: center;\">3.6</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Turn off lights</th><td>curtailment</td><td style=\"text-align: center;\">19.6</td></tr></tbody></table></figure></p>\n<p>In a survey of public perceptions of energy use, researcher Shahzeen Attari and her team asked respondents to name the most effective action ordinary people can take to conserve energy. The team categorized each action as either an efficiency<em>&nbsp;</em>or a curtailment and found that respondents tended to name curtailments more often than they did efficiencies. For example, 19.6% of respondents stated that the most effective way to conserve energy is to turn off the lights, while only <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "79e47dbe-b8f2-4ef5-a789-9e62d30c7cd3",
+  "parenttemplatename": "OSP-546-QUA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "89a81546-b771-40e0-bc16-c88e86f715d5",
+      "content": "<p>6.3% of respondents said it was most effective to use efficient cars or hybrids.</p>"
+    },
+    {
+      "id": "4d5c5a86-d3a7-4873-a9f0-66dde9058781",
+      "content": "<p>2.8% of respondents said it was most effective to change the thermostat setting.</p>"
+    },
+    {
+      "id": "7365706b-18fe-4a90-b509-4bfbf2d62b0f",
+      "content": "<p>12.9% of respondents said it was most effective to use a bike or public transportation.</p>"
+    },
+    {
+      "id": "6f34494f-f8e3-40d2-a521-bf7f77fbc2ed",
+      "content": "<p>3.6% of respondents said it was most effective to use efficient light bulbs.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "5905eed5-41ea-42ee-8cd4-b3a88dfc46e1",
+  "keys": [
+    "26e0b6c4-6b92-49f9-93d3-6ab71414e13e"
+  ],
+  "rationale": "<p>Choice C is the best answer because it presents a finding that, if true, would weaken the astronomers&rsquo; claim about the makeup of host stars and their planets. The text explains that because stars and planets begin forming from the same gas and dust, astronomers believe planets should be composed of the same materials as their host stars, but in equal or smaller quantities. The finding that the amount of iron in some rocky planets is much higher than the amount in their host star would weaken the astronomers&rsquo; claim because it would show that some planets contain the same material as their host star, but in higher quantities. </p><p>Choice A is incorrect because a finding only about the makeup of stars, whether they&rsquo;ve cooled or not, would provide no information about the makeup of planets. Thus, it wouldn&rsquo;t have any bearing on the claim that planets and their host stars are composed of the same materials in differing quantities. Choice B is incorrect because a finding about two host stars having similar proportions of certain materials wouldn&rsquo;t provide any information about the makeup of planets. Thus, it wouldn&rsquo;t be relevant to the claim that planets and their host stars are composed of the same materials in differing quantities. Choice D is incorrect because the text indicates that the astronomers&rsquo; claim is based on a fact&mdash;that stars and planets begin forming from the same gas and dust in space&mdash;which would remain true regardless of the effectiveness of a method for analysis of compositions. The text does cite analysis of rocky planets in our solar system and the Sun, but only as a single piece of evidence that is consistent with the claim and not as the source of the claim; the finding that the method used for that analysis is less effective in other scenarios wouldn&rsquo;t weaken a claim that&rsquo;s based on knowledge of how stars and planets initially form. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which finding, if true, would most directly weaken the astronomers&rsquo; claim?</p>",
+  "externalid": "de524c7e-6530-4cc4-889d-5f33fb362adc",
+  "stimulus": "<p>Given that stars and planets initially form from the same gas and dust in space, some astronomers have posited that host stars (such as the Sun) and their planets (such as those in our solar system) are composed of the same materials, with the planets containing equal or smaller quantities of the materials that make up the host star. This idea is also supported by evidence that rocky planets in our solar system are composed of some of the same materials as the Sun.</p>",
+  "templateclusterid": "41779965-3f31-4197-8af5-ffa5a17bfae1",
+  "parenttemplatename": "OSP-320-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "76d16ef9-21e6-4f2a-b39c-d0716b83528d",
+      "content": "<p>Most stars are made of hydrogen and helium, but when cooled they are revealed to contain small amounts of iron and silicate.</p>"
+    },
+    {
+      "id": "1089547d-ad67-4563-a2d9-db71371bd3ed",
+      "content": "<p>A nearby host star is observed to contain the same proportion of hydrogen and helium as that of the Sun.</p>"
+    },
+    {
+      "id": "26e0b6c4-6b92-49f9-93d3-6ab71414e13e",
+      "content": "<p>Evidence emerges that the amount of iron in some rocky planets is considerably higher than the amount in their host star.</p>"
+    },
+    {
+      "id": "d2e51c97-295a-47f6-9111-34a038569286",
+      "content": "<p>The method for determining the composition of rocky planets is discovered to be less effective when used to analyze other kinds of planets.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

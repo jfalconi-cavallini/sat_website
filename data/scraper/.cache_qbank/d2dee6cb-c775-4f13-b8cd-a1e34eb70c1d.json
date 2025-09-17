@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Recently unearthed Neronian tools in France dating to 54,000 years ago and attributed to <em>Homo sapiens</em>&nbsp;may provide evidence that interactions between Neanderthals and modern humans occurred 10,000 years earlier than was previously <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> finding that, if true, would overturn current theories about <em><span data-ssml-sub-alias=\"H\">H.</span> sapiens</em> migration during the Upper Paleolithic.</p>",
+  "keys": [
+    "c2f33dc1-7204-41fa-96d7-bfc17148450b"
+  ],
+  "answerOptions": [
+    {
+      "id": "aaf62559-6640-4c0f-8969-2c62f29f96cb",
+      "content": "<p>supposed<span data-ssml-say-as=\"characters\">;</span> a</p>"
+    },
+    {
+      "id": "284d115f-5d4d-45f5-a094-1b99c4514e7f",
+      "content": "<p>supposed<span data-ssml-say-as=\"characters\">.</span> A</p>"
+    },
+    {
+      "id": "96eb3982-30b5-4a2c-9b21-ff6fac9faef2",
+      "content": "<p>supposed a</p>"
+    },
+    {
+      "id": "c2f33dc1-7204-41fa-96d7-bfc17148450b",
+      "content": "<p>supposed<span data-ssml-say-as=\"characters\">,</span> a</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the use of punctuation within a sentence. This choice correctly uses a comma to mark the boundary between the main clause (\"Recently...supposed\") and the supplementary element (\"a finding...Paleolithic\") that provides additional information about the implications of the Neronian tool discovery.</p><p>Choice A is incorrect because a semicolon can&rsquo;t be used in this way to join the main clause (\"Recently...supposed\") and the supplementary element (\"a finding...Paleolithic\"). Choice B is incorrect because it results in a rhetorically unacceptable sentence fragment beginning with \"a finding.\" Choice C is incorrect because it results in a run-on sentence. The main clause (\"Recently...supposed\") and the supplementary element (\"a finding...Paleolithic\") are fused without punctuation and/or a conjunction.</p>",
+  "externalid": "d2dee6cb-c775-4f13-b8cd-a1e34eb70c1d",
+  "correct_answer": [
+    "D"
+  ]
+}

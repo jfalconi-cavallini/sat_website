@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Cuttlefish appear to be surprisingly <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> at exercising self-control: in a 2021 study conducted by behavioral ecologist Alexandra Schnell, these cephalopods routinely demonstrated restraint by delaying gratification, waiting for a favorite treat instead of instantly devouring a readily available meal.&nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "77fb4d11-653f-4143-b81b-9c969e14b061"
+  ],
+  "answerOptions": [
+    {
+      "id": "ef9c24f0-cb5b-4413-89cc-07d4981aad63",
+      "content": "<p>awkward</p>"
+    },
+    {
+      "id": "de07d830-ce60-48c1-9177-d81e9e6dd5fd",
+      "content": "<p>imaginative</p>"
+    },
+    {
+      "id": "b48473b4-483c-4645-90d3-b012ee048a17",
+      "content": "<p>manageable</p>"
+    },
+    {
+      "id": "77fb4d11-653f-4143-b81b-9c969e14b061",
+      "content": "<p>competent</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of self-control in cuttlefish. In this context, \"competent\" means capable. The text describes a study in which cuttlefish demonstrated an ability to exercise restraint by waiting for a favorite treat instead of eating a meal that was already available to them. That is, by delaying gratification, the cuttlefish in the study demonstrated that they were capable of, or competent at, exercising self-control.</p><p>Choice A is incorrect because nothing in the text suggests that in demonstrating self-control, cuttlefish are \"awkward,\" or lacking skill or grace. If anything, the text indicates that cuttlefish appear to be surprisingly skilled at exercising self-control. Choice B is incorrect because in this context, \"imaginative\" would mean creative, and there&rsquo;s nothing in the text to suggest that cuttlefish demonstrate creativity. Instead, the text focuses on the fact that cuttlefish seem to be capable of exercising restraint and self-control. Choice C is incorrect because in this context, \"manageable\" would mean capable of being controlled. Although the text indicates that the cuttlefish in the study demonstrated restraint by waiting for a favorite treat instead of devouring a readily available meal (which suggests their ability to control themselves), it doesn&rsquo;t suggest that cuttlefish are thus also able to be managed or controlled by others.</p>",
+  "externalid": "e6a89c32-d946-45e3-a460-50ba2c3c8868",
+  "correct_answer": [
+    "D"
+  ]
+}

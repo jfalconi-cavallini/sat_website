@@ -1,0 +1,38 @@
+{
+  "vaultid": "b3156fde-bf09-4938-a621-20fe3f540118",
+  "keys": [
+    "c89a837f-ebed-43db-9fa3-a2689e26648c"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is subject-verb agreement. The singular verb \"sweeps\" agrees in number with the singular subject \"she,\" which refers to Alice Coltrane.</p><p>Choice A is incorrect because the plural verb \"sweep\" doesn&rsquo;t agree in number with the singular subject \"she.\" Choice B is incorrect because the plural verb \"are sweeping\" doesn&rsquo;t agree in number with the singular subject \"she.\" Choice C is incorrect because the plural verb \"were sweeping\" doesn&rsquo;t agree in number with the singular subject \"she.\"</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "d9ad9716-d123-456c-8e83-a43bf63d78d8",
+  "stimulus": "<p>Midway through her 1968 jazz album <em>A Monastic Trio</em>, Alice Coltrane switches instruments, swapping the piano for the harp. With the same fluid style that Coltrane was famous for on piano, she <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> her fingers across the harp strings and creates a radiant sound.</p>",
+  "templateclusterid": "281d3676-954f-48c4-b21d-c9b8c911cbba",
+  "parenttemplatename": "OSP-758-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "ba377fcd-dfa5-42af-a91b-ea86ed806e28",
+      "content": "<p>sweep</p>"
+    },
+    {
+      "id": "0be08c93-e5a3-4a63-8723-5255db18a46c",
+      "content": "<p>are sweeping</p>"
+    },
+    {
+      "id": "7db3dd0d-3f16-4ff5-9477-7315e9919857",
+      "content": "<p>were sweeping</p>"
+    },
+    {
+      "id": "c89a837f-ebed-43db-9fa3-a2689e26648c",
+      "content": "<p>sweeps</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

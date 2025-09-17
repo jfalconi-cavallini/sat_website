@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>The student wants to contrast the two styles of tiles. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>The Royal Alc&aacute;zar of Seville is a historic royal palace in Andaluc&iacute;a, Spain.</li>\n<li>The palace is famous for its intricate tilework.</li>\n<li>The palace features majolica and arista tiles.</li>\n<li>In the majolica style, designs are painted directly on the ceramic tiles.</li>\n<li>In the arista style, designs are stamped into the ceramic tiles.</li>\n</ul>",
+  "keys": [
+    "b7e3a5ce-ba96-4e94-99e4-b33d4253130a"
+  ],
+  "answerOptions": [
+    {
+      "id": "89f862b9-1696-4ab0-84f7-f1bebd4a8c42",
+      "content": "<p>Tiles in the majolica and arista styles can be found in the Royal Alc&aacute;zar of Seville in Andaluc&iacute;a, Spain.</p>"
+    },
+    {
+      "id": "64626aa7-ddae-460a-b24d-83b3c3e6378f",
+      "content": "<p>Featuring tiles in the majolica and arista styles, the Royal Alc&aacute;zar of Seville in Spain is famous for its intricate tilework.</p>"
+    },
+    {
+      "id": "b7e3a5ce-ba96-4e94-99e4-b33d4253130a",
+      "content": "<p>In the arista style, designs are stamped into the ceramic tiles, whereas in the majolica style, the designs are painted directly on them.</p>"
+    },
+    {
+      "id": "7d55db0c-8d97-4f51-8256-481384a978ae",
+      "content": "<p>Among the famous tilework of the Royal Alc&aacute;zar of Seville are majolica style tiles, made by painting designs directly on the ceramic tiles.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The sentence contrasts the two styles of tiles, noting that tiles in the arista style have designs stamped into them, whereas tiles in the majolica style have designs painted directly on them.</p><p>Choice A is incorrect because the sentence indicates that the two styles of tile can be found in the same location; it doesn&rsquo;t contrast the two styles of tile. Choice B is incorrect because the sentence indicates that the Royal Alc&aacute;zar of Seville features tiles in both the majolica and arista styles; it doesn&rsquo;t contrast the two styles of tile. Choice D is incorrect because the sentence indicates that the tilework of the Royal Alc&aacute;zar of Seville includes tiles in the majolica style; it doesn&rsquo;t contrast tiles in the majolica style with tiles in the arista style.</p>",
+  "externalid": "489d0e8e-1669-4e1e-9164-ea2f62fbead7",
+  "correct_answer": [
+    "C"
+  ]
+}

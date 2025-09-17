@@ -1,0 +1,31 @@
+{
+  "stem": "<p>The student wants to emphasize the order in which the two marches occurred. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>In the early 1900s, suffragists organized marches for women&rsquo;s voting rights.</li>\n<li>Suffragists in the United Kingdom marched from Edinburgh to London.</li>\n<li>This march began on October 12, 1912, and ended on November 16, 1912.</li>\n<li>Suffragists in the United States marched from New York City to Albany, New York.</li>\n<li>This march began on December 16, 1912, and ended on December 28, 1912.</li>\n</ul>",
+  "type": "mcq",
+  "keys": [
+    "79ab9184-d108-4b92-810c-63a201f81aab"
+  ],
+  "answerOptions": [
+    {
+      "id": "79ab9184-d108-4b92-810c-63a201f81aab",
+      "content": "<p>After suffragists in the UK marched from Edinburgh to London, suffragists in the US marched from New York City to Albany, New York.&nbsp;</p>"
+    },
+    {
+      "id": "7fd5de75-0f6d-4f9d-92d2-33758d9ad3da",
+      "content": "<p>In the early 1900s, suffragists in the UK and the US marched for women&rsquo;s voting rights.</p>"
+    },
+    {
+      "id": "4e0df8ed-075f-4e65-9f07-2eaf885c46d4",
+      "content": "<p>A march from New York City to Albany, New York, was followed by one that began in Edinburgh and ended in London. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>"
+    },
+    {
+      "id": "541dc5ad-9706-41bc-bd93-28303b198dcb",
+      "content": "<p>From October 12 to November 16, 1912, suffragists in the UK marched from Edinburgh to London.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The sentence emphasizes the order in which the two marches occurred, correctly indicating that the US march (December 16 to December 28, 1912) occurred after the march in the UK (October 12 to November 16, 1912).</p><p>Choice B is incorrect. While the sentence mentions that both marches took place in the early 1900s, it doesn&rsquo;t emphasize the order in which the two marches occurred. Choice C is incorrect. While the sentence does emphasize the order in which the two marches occurred, the order is incorrect. The UK march took place from October 12 to November 16, 1912, which was before the US march (December 1912). Choice D is incorrect. While the sentence specifies the dates of the UK march, it doesn&rsquo;t mention the US march or emphasize the order in which the two marches occurred.</p>",
+  "externalid": "fc10c5d1-890e-4de3-b3ca-9260ae5befb3",
+  "correct_answer": [
+    "A"
+  ]
+}

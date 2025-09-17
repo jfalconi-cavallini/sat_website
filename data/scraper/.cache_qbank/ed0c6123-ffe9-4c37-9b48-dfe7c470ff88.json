@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "stimulus": "<p>Artificial leaves are a developing renewable energy technology that mimics the process of photosynthesis in plants. These devices are silicon-based solar cells coated in chemical catalysts that activate reactions that split water molecules into hydrogen and oxygen gas. The technology, while generating lots of interest, is not yet commercially viable as a large-scale energy source. To meet this challenge, scientists from many fields are researching ways to store, transport, and distribute the energy the devices produce while other scientists are working to improve the cost and efficiency of the devices. &nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "e5e4889c-2a25-4780-99a5-f5d71a1c0645"
+  ],
+  "answerOptions": [
+    {
+      "id": "e5e4889c-2a25-4780-99a5-f5d71a1c0645",
+      "content": "<p>Continued research and development in artificial-leaf technology is needed before the devices can be widely used as an energy source.&nbsp;</p>"
+    },
+    {
+      "id": "5c6a122f-6471-4875-84eb-748c272d5774",
+      "content": "<p>The recent increase in the commercial use of artificial leaves as an energy source has encouraged many scientists to research ways to improve the technology.&nbsp;</p>"
+    },
+    {
+      "id": "6212d7fd-a091-457f-9d6b-9cc640d3c283",
+      "content": "<p>Artificial leaves split water molecules into oxygen and hydrogen gas using catalysts more efficiently than plants do using the process of photosynthesis.</p>"
+    },
+    {
+      "id": "19457871-fa6f-4fa5-8b63-55c16aaf2ca8",
+      "content": "<p>Artificial leaves were developed to mimic the natural process of photosynthesis in plants in order to store energy for long-term commercial use.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately states the main idea of the text. According to the text, artificial leaves are a renewable energy technology that&rsquo;s in development and generating interest. The text goes on to state that artificial-leaf technology \"is not yet commercially viable as a large-scale energy source\" and that scientists from several fields are doing additional research to refine the technology. Thus, the main idea is that continued research and development in artificial-leaf technology is needed before the devices can be widely used as an energy source.</p><p>Choice B is incorrect. While the text does state that scientists from many fields are researching artificial leaves, they&rsquo;re doing so to address the fact that the leaves are not yet commercially viable, rather than in response to an increase in commercial use. Choice C is incorrect. Although the text does explain that artificial leaves help split water molecules into oxygen and hydrogen gas using catalysts, it doesn&rsquo;t argue that this process is more efficient than photosynthesis. This is merely a detail of the text and not the main idea, which is about the additional research needed to improve the cost and efficiency of these artificial leaves. Choice D is incorrect. Although the text indicates that artificial leaves mimic photosynthesis in plants, this is an incidental detail in support of the main idea that additional research is needed to make artificial leaves commercially viable.</p>",
+  "externalid": "ed0c6123-ffe9-4c37-9b48-dfe7c470ff88",
+  "correct_answer": [
+    "A"
+  ]
+}

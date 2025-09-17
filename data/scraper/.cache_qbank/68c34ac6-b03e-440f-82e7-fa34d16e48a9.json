@@ -1,0 +1,38 @@
+{
+  "vaultid": "d1391838-1518-46ca-9f6f-6988e4c03ba1",
+  "keys": [
+    "a75d0898-5e2e-4ce5-a16c-17daa72c886d"
+  ],
+  "rationale": "<p>Choice D is the best answer because it provides the most direct support from the table for the claim that the plants growing in close proximity to other plants gained an advantage at an early developmental stage. The table shows the total number of juvenile plants from five species that were found growing on bare ground and in patches of vegetation as well as the percentage of the total number of each species that were growing in patches of vegetation. For each of the five species, more than 50% of the juvenile plants were growing in patches of vegetation. The text notes, however, that a random distribution of plants across the landscape should result in only about 15% of the plants being found in patches of vegetation. In other words, for each of the five species, the percentage of juvenile plants found growing in patches of vegetation was substantially higher than could be explained by chance alone. This finding supports the claim in the text: if plants growing in patches are overrepresented among plants that have survived to the juvenile stage, as the data show they are, then it suggests that it&rsquo;s advantageous for plants at an early stage of development to grow in patches of vegetation.&nbsp;&nbsp;</p><p>Choice A is incorrect because the statement that less than 75% of juvenile plants were found growing in patches of vegetation, while true, doesn&rsquo;t clearly support the claim that the plants growing in close proximity to other plants gained an advantage at an early developmental stage. Saying that less than 75% of plants were found in patches doesn&rsquo;t indicate how the percentage growing in patches compares with the percentage that would be expected to grow in patches on the basis of chance alone, which is the information necessary to evaluate whether the claim in the text has support in the table. Put another way, if the percentage of plants found growing in patches was 15% or less, it would be true that less than 75% were found in patches, but the data would in fact weaken the claim in the text, not strengthen it, since the data would show that growing in patches wasn&rsquo;t advantageous.&nbsp;Choice B is incorrect because only 12 plants of this species were found growing in patches, which was the lowest number of any species, not the greatest number. Additionally, even if it were true that this species had the greatest number of plants growing in patches, the finding would be irrelevant to the claim that plants of all five species gained an advantage by growing in close proximity to other plants.&nbsp;Choice C is incorrect because 59.1% of the plants of these species were found growing in patches, which is a far greater percentage, not a lower percentage, than what would be expected if plants were randomly distributed (around 15%). Additionally, if it were true that the percentage of plants growing in patches was lower for these species than what would be expected from chance alone, that finding would weaken, not strengthen, the claim that growing in patches is advantageous.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes data from the table that support the researchers&rsquo; claim?</p>",
+  "externalid": "68c34ac6-b03e-440f-82e7-fa34d16e48a9",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Juvenile Plants Found Growing on Bare Ground and in Patches of Vegetation for Five Species</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Species</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Bare ground</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Patches of vegetation</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Total</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Percent found in patches of vegetation</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\"><em>T. moroderi</em></th><td style=\"text-align: center;\">9</td><td style=\"text-align: center;\">13</td><td style=\"text-align: center;\">22</td><td style=\"text-align: center;\">59.1%</td></tr><tr><th scope=\"row\" style=\"text-align: left;\"><em>T. libanitis</em></th><td style=\"text-align: center;\">83</td><td style=\"text-align: center;\">120</td><td style=\"text-align: center;\">203</td><td style=\"text-align: center;\">59.1%<em></em></td></tr><tr><th scope=\"row\" style=\"text-align: left;\"><em>H. syriacim</em></th><td style=\"text-align: center;\">95</td><td style=\"text-align: center;\">106</td><td style=\"text-align: center;\">201</td><td style=\"text-align: center;\">52.7%</td></tr><tr><th scope=\"row\" style=\"text-align: left;\"><em>H. squamatum</em></th><td style=\"text-align: center;\">218</td><td style=\"text-align: center;\">321</td><td style=\"text-align: center;\">539</td><td style=\"text-align: center;\">59.6%</td></tr><tr><th scope=\"row\" style=\"text-align: left;\"><em>H. stoechas</em></th><td style=\"text-align: center;\">11</td><td style=\"text-align: center;\">12</td><td style=\"text-align: center;\">23</td><td style=\"text-align: center;\">52.2%</td></tr></tbody></table></figure></p>\n<p>Alicia Montesinos-Navarro, Isabelle Storer, and Roc&iacute;o Perez-Barrales recently examined several plots within a diverse plant community in southeast Spain. The researchers calculated that if individual plants were randomly distributed on this particular landscape, only about 15% would be with other plants in patches of vegetation. They counted the number of juvenile plants of five species growing in patches of vegetation and the number growing alone on bare ground and compared those numbers to what would be expected if the plants were randomly distributed. Based on these results, they claim that plants of these species that grow in close proximity to other plants gain an advantage at an early developmental stage.</p>",
+  "templateclusterid": "47f76262-eb75-49c7-bddc-966375bc35af",
+  "parenttemplatename": "OSP-518-QUA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "23732c87-bfa1-4d30-bef9-d49a09c308e9",
+      "content": "<p>For all five species, less than 75% of juvenile plants were growing in patches of vegetation.</p>"
+    },
+    {
+      "id": "7855151b-5c02-4009-9825-bcebc9f20a07",
+      "content": "<p>The species with the greatest number of juvenile plants growing in patches of vegetation was <em>H. stoechas</em>.</p>"
+    },
+    {
+      "id": "9e9b6e92-f98a-495e-9036-4cc8afbacc70",
+      "content": "<p>For <em>T. libanitis</em> and <em>T. moroderi</em>, the percentage of juvenile plants growing in patches of vegetation was less than what would be expected if plants were randomly distributed.</p>"
+    },
+    {
+      "id": "a75d0898-5e2e-4ce5-a16c-17daa72c886d",
+      "content": "<p>For each species, the percentage of juvenile plants growing in patches of vegetation was substantially higher than what would be expected if plants were randomly distributed.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

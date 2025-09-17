@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>For its 1974 work <em>Instant Mural</em>, the Chicano art collective Asco taped members Patssi Valdez and Humberto Sandoval to an outdoor wall in East Los Angeles. The work is manifestly a commentary on constraint, but many critics focus on Valdez and the social constraints women faced at the time, which is understandable but leaves the presence of Valdez&rsquo;s male collaborator Sandoval unexplained. We should instead consider that in 1974, the art establishment&rsquo;s recognition of Chicano artists was (and had long been) restricted to sociohistorical muralists, leaving nonmuralist Chicano artists&mdash;like Asco&rsquo;s members&mdash;struggling to even exhibit their work; attending to this context opens an interpretation that accounts for all the evidence, allowing us to conclude that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "6f274bf1-efea-42fc-98cf-781b88508d6b"
+  ],
+  "answerOptions": [
+    {
+      "id": "d0427043-06e6-47a7-924a-4c48810d66ba",
+      "content": "<p>while Valdez&rsquo;s presence in <em>Instant Mural</em> represents the social constraints placed on women at the time, Sandoval&rsquo;s presence represents Chicano muralists&rsquo; frustration at their lack of recognition by the art establishment.</p>"
+    },
+    {
+      "id": "476fd933-38e4-437e-b4ad-916a744afe36",
+      "content": "<p>the main subject of <em>Instant Mural</em> is female Chicano artists&rsquo; experience of being doubly constrained by gender-role expectations and the marginalization of certain types of art.</p>"
+    },
+    {
+      "id": "6f274bf1-efea-42fc-98cf-781b88508d6b",
+      "content": "<p><em>Instant Mural</em> is a reflection on the constraining aesthetic expectations placed on Chicano artists in general rather than on the social constraints placed on women specifically.</p>"
+    },
+    {
+      "id": "3b508791-c1bf-4d53-89f3-307571295e93",
+      "content": "<p><em>Instant Mural</em> is best understood not as a critique of the social constraints placed on women but rather as a critique of sociohistorical muralists&rsquo; depictions of Chicano culture.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of <em>Instant Mural</em>. According to the text, the 1974 work <em>Instant Mural</em> involved taping two Asco members (Patssi Valdez and Humberto Sandoval) to an outdoor wall as a direct commentary on constraint (limitation or restriction). The text suggests that instead of focusing on Valdez&rsquo;s role in the work and on social limitations women faced at the time&mdash;an approach that fails to explain the role of Sandoval, a man&mdash;people should consider that in 1974 (and long before) the art establishment limited recognition of Chicano artists to those who created murals with social and historical subjects, making it challenging for nonmuralist Chicano artists (such as Asco&rsquo;s members) to show their work. The text suggests that considering the situation with the art establishment leads to a conclusion that accounts for the fact that <em>Instant Mural</em> is explicitly about constraint and features both a woman and a man taped to the wall: <em>Instant Mural</em> isn&rsquo;t a reflection of the social constraints placed on women specifically but instead is a reflection on the constraining aesthetic expectations placed on Chicano artists in general (that is, the limits resulting from the lack of recognition of Chicano artists of any gender who did not create sociohistorical murals).</p><p>Choice A is incorrect. The text indicates that the art establishment in 1974 (and earlier) did recognize Chicano muralists to the exclusion of other Chicano artists, so there&rsquo;s no reason to assume Asco&rsquo;s work <em>Instant Mural</em> was intended to represent Chicano muralists&rsquo; frustration; it&rsquo;s far more likely that Asco&rsquo;s members&mdash;described as Chicano nonmuralists&mdash;were representing their own frustration at being unrecognized by the art establishment. Choice B is incorrect. The text emphasizes that while a common approach to <em>Instant Mural</em> focuses on Valdez and the social limitations women faced in 1974 but fails to account for the presence of a man in the work, there is a conclusion that explains Sandoval&rsquo;s role. But concluding that <em>Instant Mural</em> represents a double constraint experienced specifically by female Chicano artists would still fail to account for the inclusion of a man in the work. Choice D is incorrect. Although the text suggests that <em>Instant Mural</em> can be understood as something other than a commentary on social constraints women faced in 1974, it doesn&rsquo;t suggest that the work is best understood as a critique of the content of any other artworks. The text doesn&rsquo;t address how Chicano culture is depicted in sociohistorical murals; it discusses such murals only to make the point that in 1974 (and earlier) the art establishment recognized Chicano artists who produced them to the exclusion of Chicano nonmuralists, indicating a constraint all of Asco&rsquo;s members faced, regardless of gender.</p>",
+  "externalid": "803cff0c-4ba0-4ec3-b690-1fe2486e401e",
+  "correct_answer": [
+    "C"
+  ]
+}

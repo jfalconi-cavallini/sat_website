@@ -1,0 +1,38 @@
+{
+  "vaultid": "955b6b95-66ab-43e9-938c-c0a29ded6cfb",
+  "keys": [
+    "95f180e2-a3e3-4338-af09-494de92e6a0f"
+  ],
+  "rationale": "<p>Choice C is the best answer because it reflects how Putirka and Xu (Text 2) would likely characterize the conclusion presented in Text 1. Text 1 discusses a study by Mark Holland and colleagues in which they detected traces of lithium and sodium in the atmospheres of four white dwarf stars. The team claims that this supports the idea that exoplanets with continental crusts like Earth&rsquo;s once orbited these stars. Text 2 introduces Putirka and Xu, who indicate that sodium and lithium are present in several different minerals and that some of those minerals might exist in types of rock that are not found on Earth. Therefore, Putirka and Xu would likely describe the conclusion in Text 1 as questionable because it does not consider that lithium and sodium are also found in rocks that are not like Earth&rsquo;s continental crust. </p><p>Choice A is incorrect because the texts do not indicate how widely held any of the viewpoints described are.&nbsp;Choice B is incorrect because neither text discusses how new this area of study is. Choice D is incorrect because neither text discusses how likely lithium and sodium are to be detected by analyzing wavelengths of light.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Based on the texts, how would Putirka and Xu (Text 2) most likely characterize the conclusion presented in Text 1?</p>",
+  "externalid": "2b57698d-356d-421f-be23-218f93c7aa09",
+  "stimulus": "<p>&nbsp;</p><p><span aria-level=\"2\" role=\"heading\"><strong>Text 1</strong></span></p>\n<p>Astronomer Mark Holland and colleagues examined four white dwarfs&mdash;small, dense remnants of past stars&mdash;in order to determine the composition of exoplanets that used to orbit those stars. Studying wavelengths of light in the white dwarf atmospheres, the team reported that traces of elements such as lithium and sodium support the presence of exoplanets with continental crusts similar to Earth&rsquo;s.</p>\n\n<p>&nbsp;</p><p><span aria-level=\"2\" role=\"heading\"><strong>Text 2</strong></span></p>\n<p>Past studies of white dwarf atmospheres have concluded that certain exoplanets had continental crusts. Geologist Keith Putirka and astronomer Siyi Xu argue that those studies unduly emphasize atmospheric traces of lithium and other individual elements as signifiers of the types of rock found on Earth. The studies don&rsquo;t adequately account for different minerals made up of various ratios of those elements, and the possibility of rock types not found on Earth that contain those minerals.</p>",
+  "templateclusterid": "8362028d-a140-4169-bb7f-8b7b62b14581",
+  "parenttemplatename": "OSP-005-CTC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "f9c1b570-1bb5-43f9-89b8-534c7356fd54",
+      "content": "<p>As unexpected, because it was widely believed at the time that white dwarf exoplanets lack continental crusts</p>"
+    },
+    {
+      "id": "809fab2f-c44b-4813-bd15-c0be15dd4c09",
+      "content": "<p>As premature, because researchers have only just begun trying to determine what kinds of crusts white dwarf exoplanets had</p>"
+    },
+    {
+      "id": "95f180e2-a3e3-4338-af09-494de92e6a0f",
+      "content": "<p>As questionable, because it rests on an incomplete consideration of potential sources of the elements detected in white dwarf atmospheres</p>"
+    },
+    {
+      "id": "d66e4a2e-4811-41bb-916c-64646c594368",
+      "content": "<p>As puzzling, because it&rsquo;s unusual to successfully detect lithium and sodium when analyzing wavelengths of light in white dwarf atmospheres</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

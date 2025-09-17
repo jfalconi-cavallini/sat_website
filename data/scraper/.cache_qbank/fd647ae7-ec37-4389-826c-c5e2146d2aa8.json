@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>By analyzing the level of radioactive decay within a fossil specimen, scientists can establish the age of that fossil with a high degree of precision. When radioactive elements aren&rsquo;t present, scientists turn to <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> analysis of Earth&rsquo;s sediment layers (strata)&mdash;to estimate how old a fossil is based on the age of the strata in which the fossil is found.</p>",
+  "type": "mcq",
+  "keys": [
+    "5789abda-d57f-4e4b-aae6-9edaaaf24968"
+  ],
+  "answerOptions": [
+    {
+      "id": "5789abda-d57f-4e4b-aae6-9edaaaf24968",
+      "content": "<p>stratigraphy&mdash;the</p>"
+    },
+    {
+      "id": "04e48166-dbce-4938-b08e-4c17a7c16437",
+      "content": "<p>stratigraphy (the</p>"
+    },
+    {
+      "id": "450c698c-524c-454b-9ede-85154b31e7dd",
+      "content": "<p>stratigraphy: the</p>"
+    },
+    {
+      "id": "9a3f3558-e983-48c2-8425-0fd54322c3e2",
+      "content": "<p>stratigraphy, the</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of punctuation within a sentence. The dash after \"stratigraphy\" pairs with the dash after \"(strata)\" to separate the supplementary element \"the analysis of Earth&rsquo;s sediment layers (strata)\" from the rest of the sentence. This supplementary element functions to define the term \"stratigraphy,\" and the pair of dashes indicates that this element could be removed without affecting the grammatical coherence of the sentence.</p><p>Choice B is incorrect because a parenthesis can&rsquo;t be paired with a dash in this way to separate the supplementary element from the rest of the sentence. Choice C is incorrect because a colon can&rsquo;t be paired with a dash in this way to separate the supplementary element from the rest of the sentence. Choice D is incorrect because a comma can&rsquo;t be paired with a dash in this way to separate the supplementary element from the rest of the sentence.</p>",
+  "externalid": "fd647ae7-ec37-4389-826c-c5e2146d2aa8",
+  "correct_answer": [
+    "A"
+  ]
+}

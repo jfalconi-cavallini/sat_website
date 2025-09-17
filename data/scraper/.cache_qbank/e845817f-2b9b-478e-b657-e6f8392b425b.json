@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Researchers Amit Kumar and Nicholas Epley investigated how <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> In a series of experiments conducted in <span data-ssml-say-as=\"date\">2022</span>, they found that people performing small acts of kindness underestimated the positive effect their actions had on others. &nbsp;</p>",
+  "keys": [
+    "5841eec4-39b4-4f8e-8302-5776daa42ccd"
+  ],
+  "answerOptions": [
+    {
+      "id": "92e6f5a5-e3f5-49ae-9a99-75550291de42",
+      "content": "<p>do people perceive acts of kindness<span data-ssml-say-as=\"characters\">.</span></p>"
+    },
+    {
+      "id": "ac929aa5-07bc-477c-bd1d-971169f489ac",
+      "content": "<p>do people perceive acts of kindness<span data-ssml-say-as=\"characters\">?</span> &nbsp;</p>"
+    },
+    {
+      "id": "3784d777-0839-43a3-9046-ac9b6c283787",
+      "content": "<p>people perceive acts of kindness<span data-ssml-say-as=\"characters\">?</span></p>"
+    },
+    {
+      "id": "5841eec4-39b4-4f8e-8302-5776daa42ccd",
+      "content": "<p>people perceive acts of kindness<span data-ssml-say-as=\"characters\">.</span></p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is end-of-sentence punctuation. This choice correctly uses a period to punctuate a declarative sentence that asks an indirect question (\"Researchers Amit Kumar and Nicholas Epley investigated how people perceive acts of kindness\").</p><p>Choice A is incorrect. The structure of the sentence requires a declarative clause at the end of the sentence that states what Kumar and Epley did, not an interrogative clause that asks a direct question, such as \"how do people perceive acts of kindness.\" Choice B is incorrect. The structure of the sentence requires a declarative clause at the end of the sentence that states what Kumar and Epley did, not an interrogative clause that asks a direct question, such as \"how do people perceive acts of kindness?\" Choice C is incorrect. It&rsquo;s unconventional to use a question mark in this way to punctuate a declarative sentence that asks an indirect question, such as \"Researchers&hellip;kindness.\"</p>",
+  "externalid": "e845817f-2b9b-478e-b657-e6f8392b425b",
+  "correct_answer": [
+    "D"
+  ]
+}

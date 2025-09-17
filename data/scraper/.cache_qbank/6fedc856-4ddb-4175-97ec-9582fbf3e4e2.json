@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>The 435 state districts in the US House of Representatives are designed to be roughly equal in population. These districts average around 760,000 people in size. However, only about 730,000 people live in the state of Alaska. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Alaska has just one House district, encompassing the entire state.&nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "62feaa8b-4f36-46ff-b589-d07480158273"
+  ],
+  "answerOptions": [
+    {
+      "id": "62feaa8b-4f36-46ff-b589-d07480158273",
+      "content": "<p>As a result,</p>"
+    },
+    {
+      "id": "60de4272-c609-4d61-801f-ce0d79fddbd7",
+      "content": "<p>Instead,</p>"
+    },
+    {
+      "id": "2d3d3843-f659-4d43-8a6c-0f2544fd4aca",
+      "content": "<p>Finally,</p>"
+    },
+    {
+      "id": "d2ff5979-f7c4-43f3-84cd-c1f498838fb1",
+      "content": "<p>For instance,</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. \"As a result\" logically signals that the information in the sentence&mdash;that, in the US House of Representatives, the entire state of Alaska has just one district&mdash;is the result or consequence of Alaska having only about 730,000 people. This is slightly below the average for House districts, which are designed to have roughly equal populations.</p><p>Choice B is incorrect because \"instead\" illogically signals that Alaska having just one state district is an alternative to the information about the state&rsquo;s population in the previous sentence. Rather, the fact that Alaska has just one district is a result or consequence of the entire state having slightly fewer people than an average-sized district. Choice C is incorrect because \"finally\" illogically signals that the information in this sentence about Alaska having just one district indicates a last step in a process or a concluding summary. Instead, the fact that Alaska has just one district is a result or consequence of the entire state having slightly fewer people than an average-sized district. Choice D is incorrect because \"for instance\" illogically signals that the information in this sentence about Alaska having just one district exemplifies the information about the state&rsquo;s population in the previous sentence. Instead, the fact that Alaska has just one district is a result or consequence of the entire state having slightly fewer people than an average-sized district.</p>",
+  "externalid": "6fedc856-4ddb-4175-97ec-9582fbf3e4e2",
+  "correct_answer": [
+    "A"
+  ]
+}

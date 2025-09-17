@@ -1,0 +1,38 @@
+{
+  "vaultid": "77061068-b09c-4f8d-bddb-82987e969378",
+  "keys": [
+    "28d1a0bc-9c68-4589-aa72-d9ab08bccef9"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most effectively illustrates the claim in the text that in describing the teenaged girl, Mansfield contrasts the character&rsquo;s pleasant appearance with her unpleasant attitude. In the quotation, Mansfield describes the teenager as having a &ldquo;lovely nose&rdquo; (a compliment about her appearance) but also as treating her makeup puff &ldquo;as though she loathed it&rdquo; (a judgment suggesting her unpleasant attitude). </p><p>Choice A is incorrect because the teenager&prime;s reaction to the flowers doesn&rsquo;t make it clear that she has an unpleasant attitude, and nothing in the quotation indicates that any part of her appearance is pleasant.&nbsp;Choice C is incorrect because the quotation suggests that the teenager has an unpleasant attitude (being upset with the location and leaving the table before the narrator has paid for the meal) but doesn&rsquo;t give any indication that she has a pleasant appearance. Choice D is incorrect because the quotation suggests that the teenager may have an unpleasant attitude (lowering her eyes, wincing, and sitting in silence) but doesn&rsquo;t give any indication that any part of her appearance is pleasant. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which quotation from &ldquo;The Young Girl&rdquo; most effectively illustrates the claim?</p>",
+  "externalid": "a69e4082-0554-4a04-b36b-7fa6f918ebbc",
+  "stimulus": "<p>&ldquo;The Young Girl&rdquo; is a 1920 short story by Katherine Mansfield. In the story, the narrator takes an unnamed seventeen-year-old girl and her younger brother out for a meal. In describing the teenager, Mansfield frequently contrasts the character&rsquo;s pleasant appearance with her unpleasant attitude, as when Mansfield writes of the teenager, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "73b7334a-1408-44e5-a69c-19fe28c98365",
+  "parenttemplatename": "OSP-419-LIT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "44a88e96-36e0-47b9-8e7f-5eaaee74da09",
+      "content": "<p>&ldquo;I heard her murmur, &lsquo;I can&rsquo;t bear flowers on a table.&rsquo; They had evidently been giving her intense pain, for she positively closed her eyes as I moved them away.&rdquo;</p>"
+    },
+    {
+      "id": "28d1a0bc-9c68-4589-aa72-d9ab08bccef9",
+      "content": "<p>&ldquo;While we waited she took out a little, gold powder-box with a mirror in the lid, shook the poor little puff as though she loathed it, and dabbed her lovely nose.&rdquo;</p>"
+    },
+    {
+      "id": "0a00ee6c-af71-489f-952d-98028aed4395",
+      "content": "<p>&ldquo;I saw, after that, she couldn&rsquo;t stand this place a moment longer, and, indeed, she jumped up and turned away while I went through the vulgar act of paying for the tea.&rdquo;</p>"
+    },
+    {
+      "id": "20162780-8837-4bbc-8d57-569897cd6097",
+      "content": "<p>&ldquo;She didn&rsquo;t even take her gloves off. She lowered her eyes and drummed on the table. When a faint violin sounded she winced and bit her lip again. Silence.&rdquo;</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

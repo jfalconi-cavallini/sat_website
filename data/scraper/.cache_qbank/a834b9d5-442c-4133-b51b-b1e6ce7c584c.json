@@ -1,0 +1,38 @@
+{
+  "vaultid": "acae706c-4104-460b-b0b9-1aa42f967087",
+  "keys": [
+    "1d766d7a-bacd-4230-bf7e-59eda279181e"
+  ],
+  "rationale": "<p>Choice B is the best answer because it presents a finding that, if true, would most directly support the arts journalist&rsquo;s claim about Enwezor&rsquo;s work as a curator and art historian. In the text, the arts journalist asserts that Enwezor wished not just to focus on modern African artists but also to show &ldquo;how their work fits into the larger context of global modern art and art history,&rdquo; or how their work relates to artistic developments and work by other artists elsewhere in the world. The description of <em>Postwar: Art Between the Pacific and the Atlantic, 1945&ndash;1965</em> indicates that Enwezor and Siegel&rsquo;s exhibition brought works by African artists together with works by artists from other countries, thus supporting the arts journalist&rsquo;s claim that Enwezor sought to show works by African artists in a context of global modern art and art history. </p><p>Choice A is incorrect because it describes a retrospective that wouldn&rsquo;t support the arts journalist&rsquo;s claim that Enwezor wanted to show how works by modern African artists fit into the larger context of global modern art and art history. The description of <em>El Anatsui: Triumphant Scale</em> indicates that the retrospective focused only on the work of a single African artist, El Anatsui. The description doesn&rsquo;t suggest that the exhibition showed how El Anatsui&rsquo;s works fit into a global artistic context. Choice C is incorrect because it describes an exhibition that wouldn&rsquo;t support the arts journalist&rsquo;s claim that Enwezor wanted to show how works by modern African artists relate to the larger context of global modern art and art history. The description of <em>The Short Century: Independence and Liberation Movements in Africa, 1945&ndash;1994 </em>indicates that the exhibition showed how African artists were influenced by movements for independence from European colonial powers following the Second World War. Although this suggests that Enwezor intended the exhibition to place works by African artists in a political context, it doesn&rsquo;t indicate that the works were placed in a global artistic context. Choice D is incorrect because it describes an exhibition that wouldn&rsquo;t support the arts journalist&rsquo;s claim that Enwezor wanted to show how works by modern African artists relate to the larger context of global modern art and art history. The description of <em>In/sight: African Photographers, 1940 to the Present </em>indicates that the exhibition was intended to reveal the broad range of approaches taken by African photographers, not that the exhibition showed how photography by African artists fits into a global artistic context. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which finding, if true, would most directly support the journalist&rsquo;s claim?</p>",
+  "externalid": "a834b9d5-442c-4133-b51b-b1e6ce7c584c",
+  "stimulus": "<p>While attending school in New York City in the 1980s, Okwui Enwezor encountered few works by African artists in exhibitions, despite New York&rsquo;s reputation as one of the best places to view contemporary art from around the world. According to an arts journalist, later in his career as a renowned curator and art historian, Enwezor sought to remedy this deficiency, not by focusing solely on modern African artists, but by showing how their work fits into the larger context of global modern art and art history. </p>",
+  "templateclusterid": "f1992164-1340-4dda-9b05-04beb576b2a3",
+  "parenttemplatename": "OSP-312-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "4e684add-7618-4037-b15e-066a4c356d23",
+      "content": "<p>As curator of the Haus der Kunst in Munich, Germany, Enwezor organized a retrospective of Ghanaian sculptor El Anatsui&rsquo;s work entitled <em>El Anatsui: Triumphant Scale</em>, one of the largest art exhibitions devoted to a Black artist in Europe&rsquo;s history.&nbsp;</p>"
+    },
+    {
+      "id": "1d766d7a-bacd-4230-bf7e-59eda279181e",
+      "content": "<p>In the exhibition <em>Postwar: Art Between the Pacific and the Atlantic, 1945&ndash;1965</em>, Enwezor and cocurator Katy Siegel brought works by African artists such as Malangatana Ngwenya together with pieces by major figures from other countries, like US artist Andy Warhol and Mexico&rsquo;s David Siqueiros.</p>"
+    },
+    {
+      "id": "7e5a164f-5a60-4ac1-8a12-c6f8ca0e9380",
+      "content": "<p>Enwezor&rsquo;s work as curator of the 2001 exhibition <em>The Short Century: Independence and Liberation Movements in Africa, 1945&ndash;1994</em> showed how African movements for independence from European colonial powers following the Second World War profoundly influenced work by African artists of the period, such as Kamala Ibrahim Ishaq and Thomas Mukarobgwa.</p>"
+    },
+    {
+      "id": "9236d221-fbbc-4a5d-b8e3-211335ec271a",
+      "content": "<p>Enwezor organized the exhibition <em>In/sight: African Photographers, 1940 to the Present</em> not to emphasize a particular aesthetic trend but to demonstrate the broad range of ways in which African artists have approached the medium of photography.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

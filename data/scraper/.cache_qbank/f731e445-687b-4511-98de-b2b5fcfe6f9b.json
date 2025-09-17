@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Recent pollen analyses of the Aran Islands have led some researchers to propose that the now treeless islands were once wooded. This hypothesis <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> that certain trees, such as <em><span data-ssml-sub-alias=\"P\">P.</span> sylvestris</em>, survived without interruption or human intervention throughout the Holocene cannot stand, researchers Michael O&rsquo;Connell and Karen Molloy counter, unless other explanations can first be ruled out.</p>",
+  "keys": [
+    "ccbeb693-fdbb-4d38-bc91-5a7ce2d7e18c"
+  ],
+  "answerOptions": [
+    {
+      "id": "ccbeb693-fdbb-4d38-bc91-5a7ce2d7e18c",
+      "content": "<p>suggesting</p>"
+    },
+    {
+      "id": "58ac6344-7c92-4da8-82ff-eb38ed1bd807",
+      "content": "<p>suggested</p>"
+    },
+    {
+      "id": "a4a2d241-9dad-4e52-9a35-c4058cb77543",
+      "content": "<p>suggests</p>"
+    },
+    {
+      "id": "d900eec3-2aea-48b9-b05e-f1e37d676a06",
+      "content": "<p>has suggested</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of verb forms within a sentence. The nonfinite present participle \"suggesting\" is correctly used to form a restrictive participial phrase (\"suggesting...Holocene\") within the main clause (\"This hypothesis...cannot stand...\"). This participial phrase functions as part of the sentence&rsquo;s subject (\"This...Holocene\"), providing essential identifying information about what the hypothesis states&mdash;namely, that certain trees survived without interruption or human intervention throughout the Holocene.</p><p>Choice B is incorrect because it results in an ungrammatical sentence. The finite verb \"suggested\" can&rsquo;t be used in this way within the subject of the sentence. Choice C is incorrect because it results in an ungrammatical sentence. The finite verb \"suggests\" can&rsquo;t be used in this way within the subject of the sentence. Choice D is incorrect because it results in an ungrammatical sentence. The finite verb \"has suggested\" can&rsquo;t be used in this way within the subject of the sentence.</p>",
+  "externalid": "f731e445-687b-4511-98de-b2b5fcfe6f9b",
+  "correct_answer": [
+    "A"
+  ]
+}

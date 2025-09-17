@@ -1,0 +1,38 @@
+{
+  "vaultid": "ffacff34-b4b8-4003-82ae-db1a6bb6c15b",
+  "keys": [
+    "a2216bb4-4cfb-4789-b16d-7118a2bc69e1"
+  ],
+  "rationale": "<p>Choice A is the best answer because it presents the finding that, if true, would most strongly support the research team&rsquo;s idea about the effect of iridescence, or colors that appear to shimmer and change. The text indicates that although some scientists have assumed that iridescence could attract predators, Kjernsmo&rsquo;s team wondered if iridescent insects might be harder for other animals to see. The team tested this idea by asking human participants to look for both iridescent beetle wings and beetle wings that weren&rsquo;t iridescent but that had been painted colors such as purple or blue. If participants located most of the purple or blue wings but far fewer of the iridescent wings, that finding would support the team&rsquo;s idea since it would suggest that noniridescent wings are easier to see than iridescent wings. </p><p>Choice B is incorrect because if participants located the iridescent wings more quickly than the purple or blue wings, that finding would weaken the team&rsquo;s idea, not support the team&rsquo;s idea, since it would suggest that the iridescent wings were easier to see than the noniridescent wings. Choice C is incorrect because finding that some participants believed that the purple wings were easier to see than the blue wings would be irrelevant to the team&rsquo;s idea. The purple and blue wings were both noniridescent, so any difference in how easy those two colors were to see would have nothing to do with the idea that iridescent insects are harder to see than noniridescent insects. Choice D is incorrect because if some participants found all the wings, that wouldn&rsquo;t support the team&rsquo;s idea that iridescent insects may be harder to see than noniridescent insects. If anything, this finding might weaken the team&rsquo;s idea since it could suggest that iridescence had no effect on how difficult the wings were to see.&nbsp;&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which finding, if true, would most directly support the team&rsquo;s idea?</p>",
+  "externalid": "6e972f93-6967-44f3-9281-9b7ea1a1cfdb",
+  "stimulus": "<p>Many insects are iridescent, or have colors that appear to shimmer and change when seen from different angles. Scientists have assumed that this feature helps to attract mates but could also attract predators. But biologist Karin Kjernsmo and a team had the idea that the shifting appearance of colors might actually make it harder for other animals to see iridescent insects. To test this idea, the team put beetle forewings on leaves along a forest path and then asked human participants to look for them. Some of the wings were naturally iridescent. Others were painted with a nonchanging color from the iridescent spectrum, such as purple or blue.</p>",
+  "templateclusterid": "206c8a4a-9236-464a-a687-a920b846c083",
+  "parenttemplatename": "OSP-318-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "a2216bb4-4cfb-4789-b16d-7118a2bc69e1",
+      "content": "<p>On average, participants found most of the purple wings and blue wings and far fewer of the iridescent wings.</p>"
+    },
+    {
+      "id": "472ad049-5a99-4866-802d-ba59be7b4dfe",
+      "content": "<p>On average, participants found the iridescent wings faster than they found the purple wings or blue wings.</p>"
+    },
+    {
+      "id": "131dc170-e158-4291-a6fe-3a36c72c3528",
+      "content": "<p>Some participants reported that the purple wings were easier to see than the blue wings.</p>"
+    },
+    {
+      "id": "59e75778-2e32-405e-9c78-bf75a77322b1",
+      "content": "<p>Some participants successfully found all of the wings on the leaves.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

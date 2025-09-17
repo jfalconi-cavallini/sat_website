@@ -1,0 +1,38 @@
+{
+  "vaultid": "50d792dc-f4e8-421b-b9c7-1bed55c0071f",
+  "keys": [
+    "688ebd35-ff37-4b02-9cc0-23d3714334c4"
+  ],
+  "rationale": "<p>Choice C is the best answer because it presents a finding that, if true, would most directly support the scholars&rsquo; claim about the board game. The text explains that the remains of a 4,000-year-old board game were found in Oman. The text then states that scholars claim this board game was played mostly by traders. If the other known examples of this board game from the same time period were discovered along routes that seem to have been used primarily by traders, this finding would directly support the scholars&rsquo; claim because it suggests that the game was largely played by traders who brought it with them for entertainment as they traveled. </p><p>Choice A is incorrect because this finding would suggest only that a single trader may have possessed examples of the board game, perhaps for the purpose of trading or selling the game to residents of Oman. For this reason, the finding wouldn&rsquo;t directly support the scholars&rsquo; claim that the majority of the game&rsquo;s players were traders. Choice B is incorrect because this finding doesn&rsquo;t mention the board game at all, referring only to similar games found at other sites, and would therefore provide no direct support for the scholars&rsquo; claim about the board game. Choice D is incorrect because this finding doesn&rsquo;t mention the board game at all, referring only to the remains of other goods found at the site in Oman, and would therefore provide no direct support for the scholars&rsquo; claim about the board game. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which finding, if true, would most directly support the scholars&rsquo; claim?</p>",
+  "externalid": "79e4ee43-9828-46ac-afcb-d3678e7e0d1c",
+  "stimulus": "<p>An archaeological team led by Piotr Bieliński and Sultan al-Bakri found remnants of a 4,000-year-old Bronze Age board game at a site in Oman. Little is left of the game except a stone board, which is carved with a grid and has places to hold game pieces. Some scholars claim that the game was largely played by traders.</p>",
+  "templateclusterid": "e2fe4399-c965-4c86-8f60-3c38e78622c2",
+  "parenttemplatename": "OSP-333-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "3cf96b6b-6959-413f-ab7e-113b3042a1ec",
+      "content": "<p>Other examples of the game dating to the same period have been found in the remains of several homes in the region, including in one home that may have belonged to a trader.</p>"
+    },
+    {
+      "id": "1c257f8c-7b0f-4bbb-ba1c-91a0e3050bbb",
+      "content": "<p>Similar games have been found in other sites dating to the same period that were connected to the site in Oman via trade routes.</p>"
+    },
+    {
+      "id": "688ebd35-ff37-4b02-9cc0-23d3714334c4",
+      "content": "<p>The other known examples of the game dating to the same period have been found along routes that seem to have been used primarily by traders at the time.&nbsp;</p>"
+    },
+    {
+      "id": "50693ec8-c555-436f-8f02-7268e71e9cab",
+      "content": "<p>Remnants of other goods have been found at the site in Oman that probably also reached the location through trade.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

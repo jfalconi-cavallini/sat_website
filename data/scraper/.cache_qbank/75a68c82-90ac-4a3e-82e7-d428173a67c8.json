@@ -1,0 +1,38 @@
+{
+  "vaultid": "3183055f-32ba-4f9d-9964-7653e609ad74",
+  "keys": [
+    "aede1895-f66c-4a09-9330-f26a55e4cc0c"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of finite and nonfinite verb forms within a sentence. The nonfinite present participle &ldquo;forcing&rdquo; is correctly used to form a participial phrase that supplements the main clause &ldquo;those...cover,&rdquo; describing the effects on monkeys of the lack of food sources. </p><p>Choice A is incorrect because the finite present tense verb &ldquo;forces&rdquo; can&rsquo;t be used in this way to supplement the main clause (&ldquo;those...cover&rdquo;). Choice B is incorrect. While the nonfinite to-infinitive &ldquo;to force&rdquo; could be used to form a subordinate clause that supplements the main clause (&ldquo;those...cover&rdquo;), to-infinitives conventionally express purpose, and nothing in the sentence suggests that the food sources become unavailable for the purpose of forcing monkeys to hunt marine animals. Choice D is incorrect because the finite past tense verb &ldquo;forced&rdquo; can&rsquo;t be used in this way to supplement the main clause (&ldquo;those...cover&rdquo;). </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "75a68c82-90ac-4a3e-82e7-d428173a67c8",
+  "stimulus": "<p>In winter, the diets of Japanese macaques, also known as snow monkeys, are influenced more by food availability than by food preference. Although the monkeys prefer to eat vegetation and land-dwelling invertebrates, those food sources may become unavailable because of extensive snow and ice cover, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the monkeys to hunt for marine animals in any streams that have not frozen over.</p>",
+  "templateclusterid": "55a96e52-98b9-4387-9d93-b1fb6aaa2629",
+  "parenttemplatename": "OSP-687-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "ec1f663b-65b7-4d85-b094-71fffd109f32",
+      "content": "<p>forces</p>"
+    },
+    {
+      "id": "72eec95b-a42c-4b13-a1b7-09acc27b61af",
+      "content": "<p>to force</p>"
+    },
+    {
+      "id": "aede1895-f66c-4a09-9330-f26a55e4cc0c",
+      "content": "<p>forcing</p>"
+    },
+    {
+      "id": "7dac44da-55d4-4fde-b18b-73df65310cb2",
+      "content": "<p>forced</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

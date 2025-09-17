@@ -1,0 +1,38 @@
+{
+  "vaultid": "fd72433a-0513-43c5-872d-66f2b7a56a3e",
+  "keys": [
+    "63eeec20-26cb-468a-93fe-226bea4d93d9"
+  ],
+  "rationale": "<p>Choice A is the best answer because it presents an explanation that is directly stated in the text for why ecologists are worried about Pando. The text states that Pando is a colony of about 47,000 quaking aspen trees that represents one of the largest organisms on Earth. According to the text, ecologists are worried that Pando&rsquo;s growth is declining, partly because animals are feeding on the trees. In other words, the ecologists are worried that Pando isn&rsquo;t growing at the same rate it used to. </p><p>Choice B is incorrect. Rather than indicating that Pando isn&rsquo;t producing young trees anymore, the text reveals that Pando is indeed producing young trees, stating that those trees can be protected from grazing deer by strong fences. Choice C is incorrect because the text states that fences can be used to prevent deer from eating Pando&rsquo;s young trees, not that Pando itself can&rsquo;t grow in new areas because it&rsquo;s blocked by fences.&nbsp;Choice D is incorrect because the text offers no evidence that Pando&rsquo;s root system is incapable of supporting new trees or is otherwise a cause of worry for ecologists. </p>",
+  "origin": "proteus",
+  "stem": "<p>According to the text, why are ecologists worried about Pando?</p>",
+  "externalid": "e5ffa0e4-1fea-42ae-b997-44eed4a8e733",
+  "stimulus": "<p>Utah is home to Pando, a colony of about 47,000 quaking aspen trees that all share a single root system. Pando is one of the largest single organisms by mass on Earth, but ecologists are worried that its growth is declining in part because of grazing by animals. The ecologists say that strong fences could prevent deer from eating young trees and help Pando start thriving again.</p>",
+  "templateclusterid": "0de6e51d-fbcb-4174-bd3e-62f7a751d1c6",
+  "parenttemplatename": "OSP-017-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "63eeec20-26cb-468a-93fe-226bea4d93d9",
+      "content": "<p>It isn&rsquo;t growing at the same rate it used to.</p>"
+    },
+    {
+      "id": "0d87344b-1a32-49f5-91d7-be38af7e1252",
+      "content": "<p>It isn&rsquo;t producing young trees anymore.</p>"
+    },
+    {
+      "id": "9142bdc7-87b4-4fb8-beca-8a024274d05f",
+      "content": "<p>It can&rsquo;t grow into new areas because it is blocked by fences.</p>"
+    },
+    {
+      "id": "10379e4a-2806-4c04-b033-8b8c1e05b214",
+      "content": "<p>Its root system can&rsquo;t support many more new trees.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "7ad0ec02-1860-4667-98e7-b741531f4a82",
+  "keys": [
+    "45e23f62-a1fe-43a5-bec3-b7c6b843738c"
+  ],
+  "rationale": "<p>Choice C is the best answer. The conventions being tested are punctuation use between titles and proper nouns and between verbs and integrated quotations. No punctuation is needed to set off the proper noun &ldquo;Stina Chyn&rdquo; from the title that describes Chyn, &ldquo;critic.&rdquo; Because &ldquo;Stina Chyn&rdquo; is essential information identifying the &ldquo;critic,&rdquo; no punctuation is necessary. Further, no punctuation is needed between the verb &ldquo;claims&rdquo; and the following quotation because the quotation is integrated into the structure of the sentence. </p><p>Choice A is incorrect because no punctuation is needed before or after the proper noun &ldquo;Stina Chyn.&rdquo; Setting the critic&rsquo;s name off with commas suggests that it could be removed without affecting the coherence of the sentence, which isn&rsquo;t the case. Choice B is incorrect because no punctuation is needed before or after the proper noun &ldquo;Stina Chyn.&rdquo; Setting the critic&rsquo;s name off with commas suggests that it could be removed without affecting the coherence of the sentence, which isn&rsquo;t the case. Additionally, no punctuation is needed between &ldquo;claims&rdquo; and the integrated quotation. Choice D is incorrect because no punctuation is needed between the verb &ldquo;claims&rdquo; and its subject, &ldquo;critic Stina Chyn.&rdquo; Additionally, no punctuation is needed between the verb &ldquo;claims&rdquo; and the integrated quotation. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "194d3a74-1fe8-40f1-9cf1-f2ea63dfa463",
+  "stimulus": "<p>In 1937, Chinese American screen actor Anna May Wong, who had portrayed numerous villains and secondary characters but never a heroine, finally got a starring role in Paramount Pictures&rsquo; <em>Daughter of Shanghai</em>, a film that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> &ldquo;expanded the range of possibilities for Asian images on screen.&rdquo;</p>",
+  "templateclusterid": "e5fedede-b23e-492b-a68a-3d5aa896a62d",
+  "parenttemplatename": "OSP-680-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "cfb3da2c-e201-44bc-8f39-db4b16ee8d1c",
+      "content": "<p>critic, Stina Chyn, claims</p>"
+    },
+    {
+      "id": "341afd2c-88d2-4b45-bfd0-ebf1bdcdf496",
+      "content": "<p>critic, Stina Chyn, claims,</p>"
+    },
+    {
+      "id": "45e23f62-a1fe-43a5-bec3-b7c6b843738c",
+      "content": "<p>critic Stina Chyn claims</p>"
+    },
+    {
+      "id": "ca7ce00d-16ed-4d89-ab07-c033d04fe858",
+      "content": "<p>critic Stina Chyn, claims,</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

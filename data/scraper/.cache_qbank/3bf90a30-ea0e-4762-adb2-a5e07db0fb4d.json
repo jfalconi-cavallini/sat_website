@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>What is the correct pronunciation of Kiribati? In the Gilbertese language spoken by residents of the island nation, the letter combination -ti makes the -s sound; as a result, the country&rsquo;s name <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> pronounced &ldquo;Kiribas.&rdquo;</p>",
+  "type": "mcq",
+  "keys": [
+    "cff8b8a3-a073-40d6-afe3-4e40ace314fc"
+  ],
+  "answerOptions": [
+    {
+      "id": "ff237006-8c1a-46f5-afd2-61ae81ef3374",
+      "content": "<p>are</p>"
+    },
+    {
+      "id": "6b90b181-e3eb-4ff1-97d5-c82f84e78261",
+      "content": "<p>have been</p>"
+    },
+    {
+      "id": "8dd2c271-cd07-43b4-a11f-01bc86ad05aa",
+      "content": "<p>are being</p>"
+    },
+    {
+      "id": "cff8b8a3-a073-40d6-afe3-4e40ace314fc",
+      "content": "<p>is</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is subject-verb agreement. The singular verb \"is\" agrees in number with the singular subject \"the country&rsquo;s name.\"</p><p>Choice A is incorrect because the plural verb \"are\" doesn&rsquo;t agree in number with the singular subject \"the country&rsquo;s name.\" Choice B is incorrect because the plural verb \"have been\" doesn&rsquo;t agree in number with the singular subject \"the country&rsquo;s name.\" Choice C is incorrect because the plural verb \"are being\" doesn&rsquo;t agree in number with the singular subject \"the country&rsquo;s name.\"</p>",
+  "externalid": "3bf90a30-ea0e-4762-adb2-a5e07db0fb4d",
+  "correct_answer": [
+    "D"
+  ]
+}

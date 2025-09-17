@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which finding from the study, if true, would most directly support the researchers&rsquo; conclusion?</p>",
+  "stimulus": "<p>Almost all works of fiction contain references to the progression of time, including the time of day when events in a story take place. In a 2020 study, Allen Kim, Charuta Pethe, and Steven Skiena claim that an observable pattern in such references reflects a shift in human behavior prompted by the spread of electric lighting in the late nineteenth century. The researchers drew this conclusion from an analysis of more than 50,000 novels spanning many centuries and cultures, using software to recognize and tally both specific time references&mdash;that is, clock phrases, such as 7 <span data-ssml-sub-alias=\"a m\">a.m.</span> or 2:30 <span data-ssml-sub-alias=\"p m\">p.m.</span>&mdash;and implied ones, such as mentions of meals typically associated with a particular time of day.</p>",
+  "keys": [
+    "097b9496-6862-47bc-b714-3279cc7c58a8"
+  ],
+  "answerOptions": [
+    {
+      "id": "f638bcf7-d650-4c7d-9887-ef75445f6052",
+      "content": "<p>Novels published after the year 1800 include the clock phrase 10 <span data-ssml-sub-alias=\"a m\">a.m.</span> less often than novels published before the year 1800 do.</p>"
+    },
+    {
+      "id": "097b9496-6862-47bc-b714-3279cc7c58a8",
+      "content": "<p>Novels published after <span data-ssml-say-as=\"date\">1880</span> contain significantly more references to activities occurring after 10 <span data-ssml-sub-alias=\"p m\">p.m.</span> than do novels from earlier periods.</p>"
+    },
+    {
+      "id": "a7045e9f-e281-439f-a84d-7b24679d8cd0",
+      "content": "<p>Among novels published in the nineteenth century, implied time references become steadily more common than clock phrases as publication dates approach 1900.</p>"
+    },
+    {
+      "id": "a79baa50-b421-4069-a35a-f28971e9366e",
+      "content": "<p>The time references of noon (12 <span data-ssml-sub-alias=\"p m\">p.m.</span>) and midnight (12 <span data-ssml-sub-alias=\"a m\">a.m.</span>) are used with roughly the same frequency in the novels.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it presents a finding that, if true, would most directly support the researchers&rsquo; conclusion that an observable pattern in time references in novels reflects a shift in human behavior prompted by the spread of electric lighting in the late nineteenth century. If novels published after 1880 contain significantly more references to activities occurring after 10 p.m. than novels from earlier periods do, this would suggest a change in human behavior and daily routines enabled by the availability of electric lighting. Before electric lighting&mdash;which provided illumination more easily than other available forms of light&mdash;many activities ceased after nightfall, so references to late-night activities would be less common in earlier novels. An increase in such references after 1880 would align with the researchers&rsquo; conclusion, reflecting an increase in late-night activities made possible by electric lighting.</p><p>Choice A is incorrect because a decrease in references to 10 a.m. after the year 1800 would not support the researchers&rsquo; conclusion involving a shift in human behavior prompted by the spread of electric lighting toward the end of the 1800s. The time of 10 a.m. is in the morning and, in most places, characterized by daylight, so a change in references to that time would not be clearly linked to the impact of electric lighting. Choice C is incorrect because while an increase in implied time references relative to clock phrases in nineteenth-century novels could suggest a change in writing style or conventions, it does not directly support the conclusion involving a shift in human behavior prompted by the spread of electric lighting. The text indicates that the researchers&rsquo; conclusion is based on the content of the time references themselves, not the phrasing used. Choice D is incorrect. If references to noon and midnight are used with roughly the same frequency in all the novels analyzed by the researchers, this would reflect a lack of change in human behavior with regard to time and therefore would not support the researchers&rsquo; conclusion involving a shift in human behavior that occurred in response to the spread of electric lighting.</p>",
+  "externalid": "76c41880-b3cd-4f49-86f6-2e9fb2b14aa9",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "a9e3dd29-279c-4d88-8a3a-1cfd56e5504f",
+  "keys": [
+    "4da1bd96-7c35-46b0-84f6-5e8ba2a014d5"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is punctuation between a supplementary phrase and a main clause. This choice correctly uses a comma to mark the boundary between the introductory supplementary phrase (&ldquo;By linking the Hudson River to Lake Erie&rdquo;), which identifies how the canal reduced transport time, and the main clause (&ldquo;the canal reduced transport time to nine days and cut costs to six dollars per ton&rdquo;). </p><p>Choice A is incorrect because a semicolon can&rsquo;t be used in this way to mark the boundary between a supplementary phrase (&ldquo;By&hellip;Erie&rdquo;) and the main clause (&ldquo;the canal...ton&rdquo;). Choice B is incorrect because an open parenthesis can&rsquo;t be used in this way to mark the boundary between a supplementary phrase (&ldquo;By&hellip;Erie&rdquo;) and the main clause (&ldquo;the canal...ton&rdquo;). Choice D is incorrect because a colon can&rsquo;t be used in this way to mark the boundary between an introductory supplementary phrase (&ldquo;By&hellip;Erie&rdquo;) and the main clause (&ldquo;the canal...ton&rdquo;). </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "4ef8ef57-da46-45e4-8761-ac1b2742b33d",
+  "stimulus": "<p>Before the Erie Canal was completed in 1825, transporting goods by wagon between New York City and the Midwest took up to forty-five days and cost one hundred dollars per ton. By linking the Hudson River to Lake <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> canal reduced transport time to nine days and cut costs to six dollars per ton.</p>",
+  "templateclusterid": "fcfb1165-7ae2-4722-a819-d38c7c4cbf2e",
+  "parenttemplatename": "OSP-775-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "1a7c44ff-b2e6-4e62-8394-8fc04f4de958",
+      "content": "<p>Erie; the</p>"
+    },
+    {
+      "id": "e7d2c102-ed9e-4f49-bae4-84b19aaf8541",
+      "content": "<p>Erie (the</p>"
+    },
+    {
+      "id": "4da1bd96-7c35-46b0-84f6-5e8ba2a014d5",
+      "content": "<p>Erie, the</p>"
+    },
+    {
+      "id": "b24fd9c4-27a8-430c-8a84-024cd9bac504",
+      "content": "<p>Erie: the</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

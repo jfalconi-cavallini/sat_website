@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>The element carbon has the highest melting point <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> all the elements on the periodic table&mdash;3,500 degrees Celsius.</p>",
+  "type": "mcq",
+  "keys": [
+    "12121d26-f43c-4bd9-958a-f671fef14076"
+  ],
+  "answerOptions": [
+    {
+      "id": "12121d26-f43c-4bd9-958a-f671fef14076",
+      "content": "<p>of</p>"
+    },
+    {
+      "id": "4278f4d0-dfff-4bd9-be5b-327c24639924",
+      "content": "<p>of&mdash;</p>"
+    },
+    {
+      "id": "a491b2cb-fe52-4600-8923-e23df0bcc827",
+      "content": "<p>of,</p>"
+    },
+    {
+      "id": "0f738e57-a2e7-45d4-95c2-2ca721c5beb4",
+      "content": "<p>of:</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is punctuation use between a preposition and its complement. No punctuation is needed between the preposition \"of\" and its complement \"all the elements on the periodic table.\" The complement completes the meaning of the preposition in the phrase \"the highest melting point of all the elements on the periodic table,\" and using punctuation to separate the complement from the preposition results in an ungrammatical sentence.</p><p>Choice B is incorrect because no punctuation is needed between the preposition and its complement. Choice C is incorrect because no punctuation is needed between the preposition and its complement. Choice D is incorrect because no punctuation is needed between the preposition and its complement.</p>",
+  "externalid": "5e58fdff-e882-4add-a135-ba9fbcd54abf",
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "stimulus": "<p>Today composer Scott Joplin is mainly celebrated for his catchy ragtime pieces &ldquo;Maple Leaf Rag&rdquo; and &ldquo;The Entertainer.&rdquo; However, by overlooking his less famous works, listeners will miss the full range of Joplin&rsquo;s creativity. For instance, his waltz &ldquo;Pleasant Moments&rdquo; and his opera <em>Treemonisha</em> skillfully blend ragtime and classical music. These masterpieces deserve as much fame as Joplin&rsquo;s biggest hits.</p>",
+  "type": "mcq",
+  "keys": [
+    "36e238df-45a5-4869-99ef-195f0fcafb3c"
+  ],
+  "answerOptions": [
+    {
+      "id": "304fdf40-3905-47c3-8270-87d4b8afaf9d",
+      "content": "<p>To describe the similarities and differences between ragtime music and opera</p>"
+    },
+    {
+      "id": "36e238df-45a5-4869-99ef-195f0fcafb3c",
+      "content": "<p>To argue that more attention should be given to Joplin&rsquo;s lesser-known works</p>"
+    },
+    {
+      "id": "72eb399f-14f5-43ca-ad29-020c7afce111",
+      "content": "<p>To encourage music lovers to listen to music by many different composers</p>"
+    },
+    {
+      "id": "9f780935-47ba-4647-882c-f4e7eab98557",
+      "content": "<p>To explain how Joplin learned to compose and perform ragtime music</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it best states the main purpose of the text, which is to make a case for the importance of Scott Joplin&rsquo;s less famous works. The text begins by introducing Joplin&rsquo;s most popular works and then goes on to assert that gaining a full understanding of Joplin&rsquo;s creativity requires a consideration of his lesser-known pieces as well. The text concludes by characterizing the lesser-known works \"Pleasant Moments\" and <em>Treemonisha</em> as masterpieces that deserve to be famous. These details indicate that the text&rsquo;s main purpose is to argue that more attention should be given to Joplin&rsquo;s lesser-known works.</p><p>Choice A is incorrect. Although the text discusses some of the ragtime music and an opera that Joplin composed, it does not compare the two types of music in general. Instead, the text argues that Joplin&rsquo;s lesser-known works, including his opera, deserve as much attention as his more famous ragtime pieces receive. Choice C is incorrect because the text discusses only Joplin&rsquo;s music and does not ask music lovers to listen to a variety of composers. Instead, the text encourages listeners to pay attention to Joplin&rsquo;s lesser-known works in order to gain a full understanding of his creativity. Choice D is incorrect because the text does not discuss how Joplin learned to compose and perform ragtime music. Instead, the text focuses on Joplin&rsquo;s less famous works and makes a case for their importance.</p>",
+  "externalid": "086ba4d2-8f92-425d-ae4f-c95cecbd3a60",
+  "correct_answer": [
+    "B"
+  ]
+}

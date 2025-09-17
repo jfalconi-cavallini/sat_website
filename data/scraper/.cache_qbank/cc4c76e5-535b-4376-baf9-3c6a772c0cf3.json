@@ -1,0 +1,31 @@
+{
+  "stem": "<p>As used in the text, what does the word &ldquo;disputing&rdquo; most nearly mean?</p>",
+  "stimulus": "<p>The following text is adapted from James Baldwin&rsquo;s 1956 novel <em>Giovanni&rsquo;s Room</em>. The narrator is riding in a taxi down a street lined with food vendors and shoppers in Paris, France.</p>\n<blockquote>\n<p>The multitude of Paris seems to be dressed in blue every day but Sunday, when, for the most part, they put on an unbelievably festive black. Here they were now, in blue, <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">disputing</span>, every inch, our passage, with their wagons, handtrucks, their bursting baskets carried at an angle steeply self-confident on the back.</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;1956 by James Baldwin</span></p>",
+  "type": "mcq",
+  "keys": [
+    "753db0a8-e07b-4228-922c-4473ddad51df"
+  ],
+  "answerOptions": [
+    {
+      "id": "ada26ef9-55bb-462d-9865-0034e4a689fb",
+      "content": "<p>Arguing about</p>"
+    },
+    {
+      "id": "b78912bd-adb3-4417-8f71-a97820099988",
+      "content": "<p>Disapproving of</p>"
+    },
+    {
+      "id": "e15d63f1-f3a3-4ff2-948a-ec3d551981fd",
+      "content": "<p>Asserting possession of</p>"
+    },
+    {
+      "id": "753db0a8-e07b-4228-922c-4473ddad51df",
+      "content": "<p>Providing resistance to</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because as used in the text, \"disputing\" most nearly means providing resistance to. The narrator is in a taxi as it drives down a street lined with so many food vendors and shoppers that the narrator describes them as \"the multitude of Paris,\" meaning an immense group of people. The street is essentially a large open-air market, and there are so many people pushing small wagons of goods and carrying shopping baskets that \"every inch\" of the taxi&rsquo;s progress is impeded. In other words, the people are providing resistance to the taxi&rsquo;s attempt to drive down the street.</p><p>Choice A is incorrect. Although in some contexts, \"disputing\" can mean arguing, the narrator doesn&rsquo;t portray the shoppers and vendors as arguing with the driver of the taxi or, indeed, arguing at all. Choice B is incorrect. Although in some contexts, \"disputing\" can mean expressing disapproval, the narrator doesn&rsquo;t suggest that the shoppers and vendors necessarily disapprove of the taxi&rsquo;s attempt to drive down the street. Instead, their combined presence along the street has the effect of impeding the taxi&rsquo;s progress. Choice C is incorrect because, as the narrator explains, both the multitude of people and the taxi are using a public space (a street) at the same time. The narrator doesn&rsquo;t go so far as to suggest that the people feel that they, and not the taxi, possess exclusive access to the street.</p>",
+  "externalid": "cc4c76e5-535b-4376-baf9-3c6a772c0cf3",
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>As used in the text, what does the phrase &ldquo;reaching across to&rdquo; most nearly mean?</p>",
+  "stimulus": "<p>The following text is adapted from Elizabeth von Arnim&rsquo;s 1922 novel <em>The Enchanted April</em>. Mrs. Wilkins and her friend Rose are traveling in Italy.</p>\n<blockquote>\n<p>&ldquo;I&rsquo;m going to have one of these gorgeous oranges,&rdquo; said Mrs. Wilkins, staying where she was and <span role=\"region\" aria-label=\"Referenced Content\"><u>reaching across to</u></span> a black bowl piled with them. &ldquo;Rose, how can you resist them. Look&mdash;have this one. Do have this beauty&mdash;&rdquo; And she held out a big one.</p>\n</blockquote>",
+  "type": "mcq",
+  "keys": [
+    "de913284-579a-4527-9b42-83da2a3e71be"
+  ],
+  "answerOptions": [
+    {
+      "id": "fde57469-6e2f-483e-9e74-74448fe7f7cc",
+      "content": "<p>Joining with</p>"
+    },
+    {
+      "id": "593d4a7c-52f8-4080-8b1d-d7ff060d2afd",
+      "content": "<p>Gaining on</p>"
+    },
+    {
+      "id": "de913284-579a-4527-9b42-83da2a3e71be",
+      "content": "<p>Stretching toward</p>"
+    },
+    {
+      "id": "79b6af02-567b-4267-b419-80f5006bf1fd",
+      "content": "<p>Arriving at</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because as used in the text \"reaching across to\" most nearly means stretching toward. The text begins with Mrs. Wilkins stating that she wants to have one of the oranges that she&rsquo;s admiring. The text then indicates that Mrs. Wilkins, staying where she is, holds out a big orange to her friend. This context suggests that when the text describes Mrs. Wilkins as reaching across to the bowl of oranges, it means that she is stretching toward the bowl.</p><p>Choice A is incorrect because the text never suggests that Mrs. Wilkins is joining with, or becoming attached to, the bowl of oranges. Rather, the text indicates that she is stretching toward the bowl so she can pick out oranges for herself and her friend Rose to eat. Choice B is incorrect because the text never suggests that Mrs. Wilkins is gaining on, or overtaking in a competition or race, the bowl of oranges. The text suggests instead that the bowl is sitting still on a surface and that Mrs. Wilkins is extending her arm toward the bowl so she can pick out oranges for herself and her friend Rose to eat. Choice D is incorrect because the text doesn&rsquo;t indicate that Mrs. Wilkins is arriving at the bowl of oranges. In fact, the text states that Mrs. Wilkins stays where she is when reaching across to the bowl, meaning that she remains at a distance from it.</p>",
+  "externalid": "6e6dadd5-84d8-4351-ab87-72d752a07fcb",
+  "correct_answer": [
+    "C"
+  ]
+}

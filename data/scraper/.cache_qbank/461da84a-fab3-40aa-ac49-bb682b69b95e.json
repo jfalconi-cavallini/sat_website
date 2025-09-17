@@ -1,0 +1,38 @@
+{
+  "vaultid": "2fa50d88-e5ea-4283-b3fc-ef929f2cfea1",
+  "keys": [
+    "0cf30e9b-6da6-40bf-b3f5-5f24011c92d0"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of verbs to express tense in a sentence. In this choice, the future tense verb &ldquo;will learn,&rdquo; used in conjunction with the phrase &ldquo;in a later chapter,&rdquo; correctly indicates that &ldquo;you&rdquo; (the reader) are going to learn about obsidian&rsquo;s structure at some point in the future. </p><p>Choice A is incorrect because the past perfect verb &ldquo;had learned&rdquo; doesn&rsquo;t indicate that the subject is going to learn about obsidian&rsquo;s structure in the future. Choice B is incorrect because the past perfect progressive verb &ldquo;had been learning&rdquo; doesn&rsquo;t indicate that the subject is going to learn about obsidian&rsquo;s structure in the future. Choice D is incorrect because the present perfect verb &ldquo;have learned&rdquo; doesn&rsquo;t indicate that the subject is going to learn about obsidian&rsquo;s structure in the future. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "461da84a-fab3-40aa-ac49-bb682b69b95e",
+  "stimulus": "<p>Obsidian is a kind of volcanic glass formed when lava cools so quickly that the atoms inside it cannot arrange themselves in a crystalline structure. You <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> more about obsidian&rsquo;s structure, which is classified as amorphous, in a later chapter.</p>",
+  "templateclusterid": "55f93536-b3a0-46ea-a749-b054bdfc5e8d",
+  "parenttemplatename": "OSP-748-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "b1de9794-79b2-4969-93ec-e94a28c2e909",
+      "content": "<p>had learned</p>"
+    },
+    {
+      "id": "4bb5c9bb-0364-44e9-a801-ab45dedb97aa",
+      "content": "<p>had been learning</p>"
+    },
+    {
+      "id": "0cf30e9b-6da6-40bf-b3f5-5f24011c92d0",
+      "content": "<p>will learn</p>"
+    },
+    {
+      "id": "03673a13-e9f5-4613-ab57-e8353ac286c8",
+      "content": "<p>have learned</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

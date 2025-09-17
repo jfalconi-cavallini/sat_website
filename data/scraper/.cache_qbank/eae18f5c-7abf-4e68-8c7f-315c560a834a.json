@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>In a rural area along the border between Oklahoma and Texas, amateur astronomers gather each year to observe the night sky at the Okie-Tex Star Party. Like most star parties, Okie-Tex takes place in an area with low light pollution, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> dark skies and ideal stargazing conditions.</p>",
+  "type": "mcq",
+  "keys": [
+    "9d6b798d-12b6-44ae-9886-71dd8d19c0cc"
+  ],
+  "answerOptions": [
+    {
+      "id": "9d6b798d-12b6-44ae-9886-71dd8d19c0cc",
+      "content": "<p>ensuring</p>"
+    },
+    {
+      "id": "283d0ea1-08bc-4b19-b619-d1e3f394f950",
+      "content": "<p>this will ensure</p>"
+    },
+    {
+      "id": "ce0b520b-4861-45fe-bdc0-f2364abbc6be",
+      "content": "<p>ensures</p>"
+    },
+    {
+      "id": "8ee544f9-43a3-4967-8067-017caf291793",
+      "content": "<p>it ensures</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of verb forms within a sentence. The nonfinite present participle \"ensuring\" is correctly used to form a supplementary element that modifies the main clause \"Okie-Tex takes place in an area with low light pollution,\" describing the viewing conditions of the star party.</p><p>Choice B is incorrect because it results in a comma splice. The pronoun \"this\" and the finite future tense verb \"will ensure\" would add an additional main clause to this sentence, and the comma after \"pollution\" can&rsquo;t be used in this way to join two main clauses. Choice C is incorrect because it results in an ungrammatical sentence. The finite present tense verb \"ensures\" can&rsquo;t be used in this way to form a supplementary element to modify the main clause. Choice D is incorrect because it results in a comma splice. The pronoun \"it\" and the finite present tense verb \"ensures\" would add an additional main clause to this sentence, and the comma after \"pollution\" can&rsquo;t be used in this way to join two main clauses.</p>",
+  "externalid": "eae18f5c-7abf-4e68-8c7f-315c560a834a",
+  "correct_answer": [
+    "A"
+  ]
+}

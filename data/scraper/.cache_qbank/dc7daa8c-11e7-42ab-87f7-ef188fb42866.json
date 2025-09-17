@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Entomologists Yash Sondhi and Samuel Fabian have tried to explain why moths fly erratically around light sources at night. Knowing that flying insects keep their backs pointed toward sunlight during the day, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "5f8eb44f-c232-45bc-91a9-1db88e989df4"
+  ],
+  "answerOptions": [
+    {
+      "id": "5f8eb44f-c232-45bc-91a9-1db88e989df4",
+      "content": "<p>the researchers theorize that moths, mistaking nighttime lights for the Sun, continually try to reorient their bodies while flying near such lights.</p>"
+    },
+    {
+      "id": "306fe37c-e505-4a25-b084-c046af4c8628",
+      "content": "<p>the researchers&rsquo; theory is that moths mistake nighttime lights for the Sun, continually trying to reorient their bodies while flying near such lights.</p>"
+    },
+    {
+      "id": "045dfd07-f3ee-4b29-aec1-46882f19c0c3",
+      "content": "<p>moths mistake nighttime lights for the Sun and continually try to reorient their bodies while flying near such lights, the researchers theorize.&nbsp;</p>"
+    },
+    {
+      "id": "34afed3c-a17a-45fd-a9ff-fdee991c06c0",
+      "content": "<p>moths continually try to reorient their bodies while flying near nighttime lights, the researchers theorize, mistaking such lights for the Sun.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is subject-modifier placement. This choice makes the noun phrase \"the researchers\" the subject of the sentence and places it immediately after the modifying phrase \"knowing&hellip;day.\" In doing so, this choice clearly establishes that the researchers&mdash;and not another noun in the sentence&mdash;know that flying insects keep their backs pointed toward sunlight during the day.</p><p>Choice B is incorrect because it results in a dangling modifier. The placement of the noun phrase \"the researchers&rsquo; theory\" immediately after the modifying phrase illogically suggests that the researchers&rsquo; theory knows that flying insects keep their backs pointed toward sunlight during the day. Choice C is incorrect because it results in a dangling modifier. The placement of the noun \"moths\" immediately after the modifying phrase illogically suggests that moths know that flying insects keep their backs pointed toward sunlight during the day. Choice D is incorrect because it results in a dangling modifier. The placement of the noun \"moths\" immediately after the modifying phrase illogically suggests that moths know that flying insects keep their backs pointed toward sunlight during the day.</p>",
+  "externalid": "dc7daa8c-11e7-42ab-87f7-ef188fb42866",
+  "correct_answer": [
+    "A"
+  ]
+}

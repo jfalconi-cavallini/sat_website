@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>Zines are small-scale, self-printed magazines. They have been around since the Black literary zine <em>Fire!!</em> was created in the 1920s. Since then, zines have appealed to creators looking for an inexpensive form of expression to share with a select audience. Zine creators often mix art with social commentary and challenge mainstream culture. At first, the internet appeared to replace the zine, but this old form persists. Today, there are enough zines in the United States to support annual zine festivals. This suggests that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "8cf24ab5-d0b8-4b8f-92f1-008d4c299aff"
+  ],
+  "answerOptions": [
+    {
+      "id": "0309cb2f-cde7-4c05-992e-210b72f3b543",
+      "content": "<p>creators can reach a larger audience by posting online.</p>"
+    },
+    {
+      "id": "8cf24ab5-d0b8-4b8f-92f1-008d4c299aff",
+      "content": "<p>zines are still a meaningful form of expression.</p>"
+    },
+    {
+      "id": "04da2fbc-6d1f-4ffb-8afe-37474083480e",
+      "content": "<p>creators can continue to explore new art forms.</p>"
+    },
+    {
+      "id": "c48facdf-7e46-4eaa-bd70-6699dcdf91c6",
+      "content": "<p>zines are good sources of mainstream culture.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically follows from the text&rsquo;s point about zines today. The text describes zines as a form of expression that goes back to the 1920s and asserts that \"this old form persists.\" The text then indicates that multiple zines exist in the US today and that they are popular enough to support annual festivals, a point that suggests that people continue to view zines as a meaningful form of expression.</p><p>Choice A is incorrect because the text&rsquo;s point about current interest in zines in the US doesn&rsquo;t logically suggest that zine creators can reach a larger audience by posting online. The text indicates that zines have long had an audience, and there&rsquo;s no indication that online posts have caused that audience to grow; there&rsquo;s no mention of zine creators&rsquo; use of the internet at all. Choice C is incorrect because the idea that zine creators can explore new art forms&mdash;while objectively true&mdash;isn&rsquo;t logically connected to the text&rsquo;s discussion of zines as an existing form of expression (one that often includes art) or the point that zines are still popular enough in the US to support annual festivals. Choice D is incorrect because the point that zines are popular enough in the US today to support annual festivals doesn&rsquo;t logically suggest that zines present mainstream culture (or are themselves mainstream); moreover, the text states that zine creators often \"challenge mainstream culture.\"</p>",
+  "externalid": "d7eb8d46-2dbb-4753-8598-3fce4bbc9cff",
+  "correct_answer": [
+    "B"
+  ]
+}

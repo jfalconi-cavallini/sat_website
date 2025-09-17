@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>As discussed by scholar Anna Mladentseva, many artworks produced in the mid-1990s to the early 2000s exclusively for exhibition on the internet, such as Sinae Kim&rsquo;s <em>Genesis </em>(2001), have become inaccessible because viewing them requires the use of <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> software (most notably Adobe Flash, discontinued in 2021).</p>",
+  "type": "mcq",
+  "keys": [
+    "00c9c035-bf32-4db7-b1d5-0e66f409c904"
+  ],
+  "answerOptions": [
+    {
+      "id": "00c9c035-bf32-4db7-b1d5-0e66f409c904",
+      "content": "<p>defunct</p>"
+    },
+    {
+      "id": "a0f4b726-7c3a-4b19-8894-97688a491885",
+      "content": "<p>arcane</p>"
+    },
+    {
+      "id": "b5ec70de-950e-4497-823f-87504d5d6159",
+      "content": "<p>ubiquitous</p>"
+    },
+    {
+      "id": "1e34cd76-6b1f-46f7-b624-a91bd40183dc",
+      "content": "<p>extraneous</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of artworks that were produced for exhibition on the internet. In this context, \"defunct\" means no longer existing or functioning. According to the text, many artworks that were produced in the mid-1990s to the early 2000s for exhibition on the internet have become inaccessible due to their reliance on certain software. As an example, the text cites Sinae Kim&rsquo;s <em>Genesis</em>, which relied on software that was discontinued in 2021. This context supports the idea that the software is defunct.</p><p>Choice B is incorrect because the text indicates that viewing artworks produced in the mid-1990s to the early 2000s for exhibition on the internet requires the use of software. Artists generally want their works to be seen by many people, so it wouldn&rsquo;t make sense for creators of internet art to require the use of software that is \"arcane,\" or known or knowable to only a few people. Moreover, the text states that a prominent example of software used to view these artworks is Adobe Flash, which was discontinued in 2021, meaning it&rsquo;s now defunct. Choice C is incorrect because \"ubiquitous\" would mean found everywhere, which wouldn&rsquo;t make sense in this context. The text indicates that the reason why many artworks that were produced in the mid-1990s to the early 2000s for exhibition on the internet have become inaccessible has to do with the software required for viewing them. According to the text, one example of such software is Adobe Flash, which was discontinued in 2021, meaning it&rsquo;s now defunct. Choice D is incorrect because nothing in the text suggests that the software used to view artworks produced in the mid-1990s to the early 2000s for exhibition on the internet is \"extraneous,\" or irrelevant. Instead, the text indicates that use of specific software is required to view certain artworks from this period and that the discontinuation of the software renders the works inaccessible.</p>",
+  "externalid": "ca82da8c-c2b9-45b2-8f62-1aff0d7b4de2",
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "5ba1f2a8-9609-42fe-9b05-3d36dfe5b42e",
+  "keys": [
+    "dcb001e3-7f7e-4b1e-85a7-3afbd445da1d"
+  ],
+  "rationale": "<p>Choice A is the best answer. &ldquo;Currently&rdquo; logically signals that the archaeologists&rsquo; use of drones (a current technology) to photograph the lines is the present-day continuation of the ongoing archaeological research described in the previous sentence. </p><p>Choice B is incorrect because &ldquo;in comparison&rdquo; illogically signals that the action described in this sentence offers a comparison to the ongoing archaeological research described in the previous sentence. Instead, the use of drones is the present-day continuation of that research. Choice C is incorrect because &ldquo;still&rdquo; illogically signals that the action described in this sentence occurs despite the ongoing archaeological research described in the previous sentence. Instead, the use of drones is the present-day continuation of that research. Choice D is incorrect because &ldquo;however&rdquo; illogically signals that the action described in this sentence occurs either despite or in contrast to the ongoing archaeological research described in the previous sentence. Instead, the use of drones is the present-day continuation of that research. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "db0c09d4-1861-4717-ab9d-e1839b45041b",
+  "stimulus": "<p>Etched into Peru&rsquo;s Nazca Desert are line drawings so large that they can only be fully seen from high above. Archaeologists have known of the lines since the 1920s, when a researcher spotted some from a nearby foothill, and they have been studying the markings ever since. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> archaeologists&rsquo; efforts are aided by drones that capture high-resolution aerial photographs of the lines.</p>",
+  "templateclusterid": "85b60d24-a897-40c0-a79d-622b0f1d5251",
+  "parenttemplatename": "OSP-219-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "dcb001e3-7f7e-4b1e-85a7-3afbd445da1d",
+      "content": "<p>Currently,</p>"
+    },
+    {
+      "id": "0afd615c-6eb3-41df-8cc5-b4153864c9d4",
+      "content": "<p>In comparison,</p>"
+    },
+    {
+      "id": "15fb8e84-6117-4243-ba99-ce379a4ab0da",
+      "content": "<p>Still,</p>"
+    },
+    {
+      "id": "22d3e18a-efcb-4450-98e3-b7bfb65a8fb0",
+      "content": "<p>However,</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

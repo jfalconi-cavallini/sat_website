@@ -1,0 +1,38 @@
+{
+  "vaultid": "b7652157-91a4-4584-925b-4ba0fbf4be4f",
+  "keys": [
+    "4e7f49b5-109e-4e10-97f0-774abcc0aef2"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most accurately describes the overall structure of the text. First, the speaker describes observing a &ldquo;most beautiful&rdquo; sight: a tree (&ldquo;black cypress&rdquo;) standing out from the golden sky behind it, looking like a person&rsquo;s finger &ldquo;pointing upwards&rdquo; and appearing &ldquo;sensitive&rdquo; and &ldquo;exquisite.&rdquo; Then the speaker wonders about the image&rsquo;s meaning, asking why the finger is black and why it&rsquo;s pointing upward. Thus, the text moves from the speaker&rsquo;s description of a distinctive sight in nature to her pondering about what meaning to attribute to that sight. </p><p>Choice A is incorrect because the speaker assesses a natural sight&mdash;a &ldquo;black cypress&rdquo; tree standing &ldquo;against a gold, gold sky&rdquo; like a pointed finger&mdash;but doesn&rsquo;t question the accuracy of her own assessment. Although she wonders why the finger, which is really a tree, is black and why it&rsquo;s pointing, the speaker doesn&rsquo;t suggest that her belief that the tree resembles a finger is wrong. Choice C is incorrect. Although the speaker describes seeing a &ldquo;black cypress&rdquo; tree standing &ldquo;against a gold, gold sky&rdquo; like a pointed finger, she wonders about that natural image (asking why the finger, which is really a tree, is black and why it&rsquo;s pointing) and doesn&rsquo;t give any indication that any people are present in the scene. Choice D is incorrect. Although the speaker examines and wonders about one thing in her surroundings&mdash;a &ldquo;black cypress&rdquo; tree standing &ldquo;against a gold, gold sky&rdquo; like a pointed finger&mdash;she doesn&rsquo;t address her own emotional state or consider how it&rsquo;s affected by her surroundings. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes the overall structure of the text?</p>",
+  "externalid": "5f5ee9b3-7025-41ae-ac00-71afc199772b",
+  "stimulus": "<p>The following text is from the 1923 poem &ldquo;Black Finger&rdquo; by Angelina Weld Grimk&eacute;, a Black American writer. A cypress is a type of evergreen tree.</p>\n\n<p style=\"padding-left:1em;\">I have just seen a most beautiful thing,<br>Slim and still,<br>&ensp;Against a gold, gold sky,<br>&ensp;A straight black cypress,<br>Sensitive,<br>Exquisite,<br>A black finger<br>Pointing upwards.<br>Why, beautiful still finger, are you black?<br>And why are you pointing upwards?</p>",
+  "templateclusterid": "8025312b-7c0f-4f97-9930-239c881a7f91",
+  "parenttemplatename": "OSP-030-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "ba40b8ab-740b-4359-8252-988146a38a2d",
+      "content": "<p>The speaker assesses a natural phenomenon, then questions the accuracy of her assessment.</p>"
+    },
+    {
+      "id": "4e7f49b5-109e-4e10-97f0-774abcc0aef2",
+      "content": "<p>The speaker describes a distinctive sight in nature, then ponders what meaning to attribute to that sight.</p>"
+    },
+    {
+      "id": "4a9c7205-7720-41fb-b081-6086d2061afb",
+      "content": "<p>The speaker presents an outdoor scene, then considers a human behavior occurring within that scene.</p>"
+    },
+    {
+      "id": "2c8872fd-dc57-4ff2-8b3c-38834e575ea7",
+      "content": "<p>The speaker examines her surroundings, then speculates about their influence on her emotional state.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

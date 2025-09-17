@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>While recent scholarship has undermined claims that the works of twelfth-century Islamic philosopher Ibn Rushd were <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> other Muslim philosophers of his time, it is indisputable that his location in the Muslim-ruled area of what is now Spain meant that his works were primarily available thousands of miles west of the era&rsquo;s center of Islamic thought.&nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "1d5f1a3d-84f1-4669-a345-0c4f7e8b4a72"
+  ],
+  "answerOptions": [
+    {
+      "id": "e85b0a0d-f31d-4e97-a809-56b35ebee3e9",
+      "content": "<p>controversial among</p>"
+    },
+    {
+      "id": "3f2e8216-b231-41e6-a6a1-1501af42af48",
+      "content": "<p>antagonistic toward</p>"
+    },
+    {
+      "id": "c848db49-6ac0-4f62-b04e-065d6aa16202",
+      "content": "<p>imitated by</p>"
+    },
+    {
+      "id": "1d5f1a3d-84f1-4669-a345-0c4f7e8b4a72",
+      "content": "<p>inconsequential to</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the twelfth-century Islamic philosopher Ibn Rushd. As used in this context, \"inconsequential to\" means not significant to. According to the text, Ibn Rushd&rsquo;s works were primarily available in Spain, where he lived, far from central areas of the Muslim world, a fact that could support the conclusion that his influence on Muslim contemporaries was limited. The text implies, however, that recent scholarship has shown that his works still had an impact on other Muslim philosophers of his time. This context supports the idea that his works weren&rsquo;t inconsequential to Islamic thought in this period.</p><p>Choice A is incorrect because the issue under consideration in the text is whether other Muslim philosophers of Ibn Rushd&rsquo;s time had access to his works, not whether his works were \"controversial among,\" or causing dispute among, other philosophers. Choice B is incorrect. The text implies that other Muslim philosophers of Ibn Rushd&rsquo;s era were aware of his works, not that they were \"antagonistic toward,\" or hostile toward, them. There is no suggestion that Ibn Rushd&rsquo;s writings elicited hostility from his contemporaries. Choice C is incorrect because in this context, \"imitated by\" would mean followed as a model by. Although the text implies that Ibn Rushd&rsquo;s works were at least somewhat available in regions that were at the center of Islamic thought during the period, it doesn&rsquo;t specifically address in what ways his works influenced contemporary Muslim philosophers. Thus, the text doesn&rsquo;t support the idea that other philosophers modeled their own works after Ibn Rushd&rsquo;s works.</p>",
+  "externalid": "56a6e247-3219-43b9-8ec1-3e5b2c20ad60",
+  "correct_answer": [
+    "D"
+  ]
+}

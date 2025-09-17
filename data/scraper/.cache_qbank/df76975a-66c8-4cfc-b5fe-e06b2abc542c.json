@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>To perform a quad axel, a figure skater must leap into the air and complete four and a half rotations before landing, an extreme feat. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in 2022, when 17-year-old Ilia Malinin landed the first quad axel&mdash;considered the most difficult quad jump&mdash;in a high-level competition, the audience was left awestruck.</p>",
+  "type": "mcq",
+  "keys": [
+    "38a5271d-f83d-4787-852e-fb92d9446d26"
+  ],
+  "answerOptions": [
+    {
+      "id": "e343c1ab-047b-4b17-9b3f-71e3215340c7",
+      "content": "<p>Moreover,</p>"
+    },
+    {
+      "id": "38a5271d-f83d-4787-852e-fb92d9446d26",
+      "content": "<p>Fittingly,</p>"
+    },
+    {
+      "id": "8f463a06-d0bc-44fb-ae7d-582bbf9a3bb0",
+      "content": "<p>Next,</p>"
+    },
+    {
+      "id": "5d281a78-e24f-4924-a00b-9b8430bc1392",
+      "content": "<p>However,</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. \"Fittingly\" logically signals that the information in this sentence&mdash;that the audience was amazed when Malinin landed the first quad axel&mdash;describes a suitable or appropriate reaction to the completion of this extremely difficult jump.</p><p>Choice A is incorrect. \"Moreover\" illogically signals that the information in this sentence merely adds to the previous information about the difficulty of completing a quad axel. Instead, the audience&rsquo;s amazement is a suitable or appropriate reaction to this accomplishment. Choice C is incorrect. \"Next\" illogically signals that the information in this sentence is simply the next step in a process. Instead, the audience&rsquo;s amazement is a suitable or appropriate reaction to the accomplishment. Choice D is incorrect. \"However\" illogically signals that the information in this sentence is in contrast or an exception to the difficulty of completing a quad axel. Instead, the audience&rsquo;s amazement is a suitable or appropriate reaction to this accomplishment.</p>",
+  "externalid": "df76975a-66c8-4cfc-b5fe-e06b2abc542c",
+  "correct_answer": [
+    "B"
+  ]
+}

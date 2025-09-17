@@ -1,0 +1,38 @@
+{
+  "vaultid": "2690e87e-ca16-4d34-9efe-bfc1aa20b0d8",
+  "keys": [
+    "145fa42a-c8eb-49ce-922b-09d079ac2da5"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is subject-modifier placement. This choice makes the noun phrase &ldquo;the bioswales&rdquo; the subject of the sentence and places it immediately after the modifying phrase &ldquo;By reducing&hellip;sewers.&rdquo; In doing so, this choice clearly establishes that the bioswales&mdash;and not another noun in the sentence&mdash;are reducing runoff flowing into city sewers. </p><p>Choice A is incorrect because it results in a dangling modifier. The placement of the noun phrase &ldquo;the mitigation&hellip;waterways&rdquo; immediately after the modifying phrase results in unclear modification. The resulting sentence makes it hard to determine what is responsible for &ldquo;reducing the runoff&rdquo;: the bioswales or some other noun in the sentence. Choice C is incorrect because it results in a dangling modifier. The placement of the noun phrase &ldquo;the bioswales&rsquo; mitigation&hellip;waterways&rdquo; &nbsp;immediately after the modifying phrase results in unclear modification. The resulting sentence makes it hard to determine what is responsible for &ldquo;reducing the runoff&rdquo;: the bioswales or some other noun in the sentence. Choice D is incorrect because it results in a dangling modifier. The placement of the noun phrase &ldquo;street flooding and the resulting pollution&rdquo; immediately after the modifying phrase illogically suggests that the &ldquo;flooding and pollution&rdquo; are reducing runoff flowing into city sewers. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "e941b046-f212-43a5-9e8f-2301a133cef6",
+  "stimulus": "<p>In 2016, engineer Vanessa Galvez oversaw the installation of 164 bioswales, vegetated channels designed to absorb and divert stormwater, along the streets of Queens, New York. By reducing the runoff flowing into city sewers, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "bced425e-44f1-46c5-9396-fced022f6e3f",
+  "parenttemplatename": "OSP-645-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "0c67d7c2-d3ff-4cb7-adaf-ce7b210eb324",
+      "content": "<p>the mitigation of both street flooding and the resulting pollution of nearby waterways has been achieved by bioswales.</p>"
+    },
+    {
+      "id": "145fa42a-c8eb-49ce-922b-09d079ac2da5",
+      "content": "<p>the bioswales have mitigated both street flooding and the resulting pollution of nearby waterways.</p>"
+    },
+    {
+      "id": "b2980b7f-3604-413d-a94e-730cd978179c",
+      "content": "<p>the bioswales&rsquo; mitigation of both street flooding and the resulting pollution of nearby waterways has been achieved.</p>"
+    },
+    {
+      "id": "3f814773-30b1-4967-99da-40161e793641",
+      "content": "<p>both street flooding and the resulting pollution of nearby waterways have been mitigated by bioswales.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

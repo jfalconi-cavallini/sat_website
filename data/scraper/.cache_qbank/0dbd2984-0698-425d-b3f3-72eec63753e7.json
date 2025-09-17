@@ -1,0 +1,38 @@
+{
+  "vaultid": "1dd884fd-e085-4b54-948e-f7563c5f6e93",
+  "keys": [
+    "e0981b74-b4b8-468d-bdd3-60abe828326f"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is punctuation between a subordinate clause and a main clause. This choice correctly uses a comma to mark the boundary between the subordinate clause (&ldquo;Because...content&rdquo;) and the main clause (&ldquo;scientists...settlements&rdquo;). </p><p>Choice A is incorrect. Joining the subordinate clause (&ldquo;Because...content&rdquo;) and the clause that follows (&ldquo;scientists...settlements&rdquo;) with the conjunction &ldquo;and&rdquo; results in an ungrammatical sentence that lacks a main clause. Choice C is incorrect because it fails to mark the boundary between the subordinate clause and the main clause with appropriate punctuation. Choice D is incorrect. Joining the subordinate clause (&ldquo;Because...content&rdquo;) and the clause that follows (&ldquo;scientists...settlements&rdquo;) with a comma and the conjunction &ldquo;and&rdquo; results in an ungrammatical sentence that lacks a main clause. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "0dbd2984-0698-425d-b3f3-72eec63753e7",
+  "stimulus": "<p>The fine, powdery substance that covers the Moon&rsquo;s surface is called regolith. Because regolith is both readily available and high in oxygen <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> scientists have wondered whether it could be used as a potential source of oxygen for future lunar settlements.</p>",
+  "templateclusterid": "4fbb188d-6200-4881-b17a-6fb782a48d7b",
+  "parenttemplatename": "OSP-713-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "4a71b22c-abe4-4a43-ac3c-be1428f8bf9c",
+      "content": "<p>content and</p>"
+    },
+    {
+      "id": "e0981b74-b4b8-468d-bdd3-60abe828326f",
+      "content": "<p>content,</p>"
+    },
+    {
+      "id": "901117d6-45bb-469a-a36c-a46208a1a285",
+      "content": "<p>content</p>"
+    },
+    {
+      "id": "e9c4c7fe-98a1-4811-ab38-a265847dcbba",
+      "content": "<p>content, and</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

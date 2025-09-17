@@ -1,0 +1,38 @@
+{
+  "vaultid": "5f746365-df99-4e4a-84b9-b6f506e5c501",
+  "keys": [
+    "55e37fdc-a384-479a-a47f-ad332ac217bb"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the punctuation of items in a series. The comma after &ldquo;variables&rdquo; is used conventionally to separate the first and second items in the series, and the comma after &ldquo;depths&rdquo; is used conventionally to separate the second and third items. </p><p>Choice A is incorrect because a colon can&rsquo;t be used in this way to separate items in a simple series. Choice C is incorrect because a comma is needed after &ldquo;variables&rdquo; to separate the first and second items in the series. Choice D is incorrect because a semicolon can&rsquo;t be used in this way to separate items in a simple series. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "dcb7a16b-f736-4733-af9b-04a8b4f35eb2",
+  "stimulus": "<p>A standard Argo float, a type of autonomous robot, measures temperature and salinity in the upper regions of ice-free oceans. More advanced floats can measure a wider range of <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> and monitor seasonal ice zones. </p>",
+  "templateclusterid": "e8513e3e-e344-4549-a27c-848c952e8acc",
+  "parenttemplatename": "OSP-663-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "078b13c5-36b2-4291-a908-f8dfe960cabf",
+      "content": "<p>variables: travel to greater depths</p>"
+    },
+    {
+      "id": "55e37fdc-a384-479a-a47f-ad332ac217bb",
+      "content": "<p>variables, travel to greater depths,</p>"
+    },
+    {
+      "id": "e870cd3d-a9b6-4819-b72c-eead6b265ccf",
+      "content": "<p>variables travel to greater depths,</p>"
+    },
+    {
+      "id": "c25cb845-f540-4a52-8c20-b4494651e3c2",
+      "content": "<p>variables, travel to greater depths;</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

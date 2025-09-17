@@ -1,0 +1,38 @@
+{
+  "vaultid": "6b7b3fce-b1e3-40ce-87d1-e7f54c575452",
+  "keys": [
+    "5325c1ef-cb01-4d45-ae1c-2778a2199f29"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is punctuation use between a main clause and two supplementary elements. In this choice, the commas after &ldquo;nickname&rdquo; and &ldquo;however&rdquo; are correctly used to separate the supplementary adverb &ldquo;however&rdquo; from the main clause (&ldquo;Scott-Heron&hellip;nickname&rdquo;) on one side and the supplementary participial phrase (&ldquo;feeling&hellip;bluesologist&rdquo;) on the other. </p><p>Choice A is incorrect because it fails to mark the boundary between the supplementary adverb &ldquo;however&rdquo; and the supplementary phrase (&ldquo;feeling&hellip;bluesologist&rdquo;).&nbsp;Choice B is incorrect because a semicolon can&rsquo;t be used in this way to join the supplementary adverb &ldquo;however&rdquo; and the supplementary phrase (&ldquo;feeling&hellip;bluesologist&rdquo;). Choice D is incorrect because a semicolon can&rsquo;t be used in this way to join the main clause (&ldquo;Scott-Heron&hellip;nickname&rdquo;) and the supplementary word and phrase (&ldquo;however&rdquo; and &ldquo;feeling&hellip;bluesologist&rdquo;). Moreover, placing the semicolon after &ldquo;nickname&rdquo; illogically signals that the following information (Scott-Heron&rsquo;s feeling that the nickname didn&rsquo;t encapsulate his devotion to the blues tradition) is contrary to the information in the previous clause (Scott-Heron&rsquo;s resistance to the nickname). </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "f60eab77-bd60-4227-a0f7-3a92bc6547e2",
+  "stimulus": "<p>Journalists have dubbed Gil Scott-Heron the &ldquo;godfather of rap,&rdquo; a title that has appeared in hundreds of articles about him since the 1990s. Scott-Heron himself resisted the godfather <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> feeling that it didn&rsquo;t encapsulate his devotion to the broader African American blues music tradition as well as &ldquo;bluesologist,&rdquo; the moniker he preferred. </p>",
+  "templateclusterid": "8c3dd402-6b1b-4cd7-85a9-273834df14d5",
+  "parenttemplatename": "OSP-671-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "424050e8-2bb1-4738-af57-5b7975bc3677",
+      "content": "<p>nickname, however</p>"
+    },
+    {
+      "id": "c575db7e-ec4c-488e-b2c9-9b0298aa29d5",
+      "content": "<p>nickname, however;</p>"
+    },
+    {
+      "id": "5325c1ef-cb01-4d45-ae1c-2778a2199f29",
+      "content": "<p>nickname, however,</p>"
+    },
+    {
+      "id": "0cf54446-7ec0-4ea8-bb3b-c21b86ad06d6",
+      "content": "<p>nickname; however,</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

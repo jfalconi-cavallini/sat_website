@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Several advantages&mdash;the ability to react strongly with chip components, to avoid interference from other waves, and to be confined within tiny circuits&mdash;<span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> acoustic waves as a promising alternative to electrical waves for transmitting data on computer chips; as a result, researchers are invested in developing more acoustic wave&ndash;based chips.</p>",
+  "type": "mcq",
+  "keys": [
+    "5d4d4044-0eda-4618-bd24-7bbc4792a1cb"
+  ],
+  "answerOptions": [
+    {
+      "id": "5d4d4044-0eda-4618-bd24-7bbc4792a1cb",
+      "content": "<p>have positioned</p>"
+    },
+    {
+      "id": "d5b7861f-ba59-4d85-b374-349b226cd5d5",
+      "content": "<p>positioning</p>"
+    },
+    {
+      "id": "fba5f788-d6ff-4472-8f45-a22f94ea5d6d",
+      "content": "<p>by positioning</p>"
+    },
+    {
+      "id": "8371232d-31b7-4fdc-95b1-174192c39218",
+      "content": "<p>having positioned</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of verb forms within a sentence. A main clause requires a finite (tensed) verb to perform the action of the subject. In this case, the subject is \"several advantages,\" and the present perfect tense verb \"have positioned\" supplies the finite verb to indicate what has made acoustic waves a promising alternative to electrical waves.</p><p>Choice B is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"positioning\" doesn&rsquo;t supply the main clause with a finite verb. Choice C is incorrect because it results in an ungrammatical sentence. The prepositional phrase \"by positioning\" doesn&rsquo;t supply the main clause with a finite verb. Choice D is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"having positioned\" doesn&rsquo;t supply the main clause with a finite verb.</p>",
+  "externalid": "328ab8a3-7315-4722-b40d-a7d0944ccde3",
+  "correct_answer": [
+    "A"
+  ]
+}

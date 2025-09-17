@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>While constructing the Limyra Bridge, ancient Roman builders relied on temporary wooden beams to support the stone and brick structure. These temporary supports, a construction system known as <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> were removed when the bridge was completed.</p>",
+  "type": "mcq",
+  "keys": [
+    "68b79222-27e9-4853-8ffe-0b76a7f4c76e"
+  ],
+  "answerOptions": [
+    {
+      "id": "bafb5297-8659-4b6e-a2d1-6d4f0bc4c42e",
+      "content": "<p>falsework;</p>"
+    },
+    {
+      "id": "eb3e3829-ffef-40c0-9649-335c81154c53",
+      "content": "<p>falsework</p>"
+    },
+    {
+      "id": "68b79222-27e9-4853-8ffe-0b76a7f4c76e",
+      "content": "<p>falsework,</p>"
+    },
+    {
+      "id": "ef5b045a-6b05-477b-9bce-a0f671971c82",
+      "content": "<p>falsework:</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of punctuation within a sentence. The comma after \"falsework\" pairs with the comma after \"supports\" to separate the supplementary element \"a construction system known as falsework\" from the rest of the sentence. This supplementary element functions to clarify the term \"these temporary supports,\" and the pair of commas indicates that this element could be removed without affecting the grammatical coherence of the sentence.</p><p>Choice A is incorrect because a semicolon can&rsquo;t be paired with a comma in this way to separate the supplementary element from the rest of the sentence. Choice B is incorrect because it fails to use appropriate punctuation to separate the supplemental element from the rest of the sentence. Choice D is incorrect because a colon can&rsquo;t be paired with a comma in this way to separate the supplementary element from the rest of the sentence.</p>",
+  "externalid": "c8a945e1-d008-4cac-a824-603075e8000d",
+  "correct_answer": [
+    "C"
+  ]
+}

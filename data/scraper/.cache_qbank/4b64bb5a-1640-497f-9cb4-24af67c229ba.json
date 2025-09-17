@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "stimulus": "<p>In the late 1800s, Spanish-language newspapers flourished in cities across Texas. San Antonio alone produced eleven newspapers in Spanish between 1890 and 1900. But El Paso surpassed all other cities in the state. This city produced twenty-two newspapers in Spanish during that period. El Paso is located on the border with Mexico and has always had a large population of Spanish speakers. Thus, it is unsurprising that this city became such a rich site for Spanish-language journalism.</p>",
+  "type": "mcq",
+  "keys": [
+    "2b7c8906-f309-49e1-8fda-134cd0034238"
+  ],
+  "answerOptions": [
+    {
+      "id": "2f02d7f5-5ac4-48f5-a790-3e4a1ff8d229",
+      "content": "<p>To compare Spanish-language newspapers published in Texas today with ones published there during the late 1800s</p>"
+    },
+    {
+      "id": "2b7c8906-f309-49e1-8fda-134cd0034238",
+      "content": "<p>To explain that Spanish-language newspapers thrived in Texas and especially in El Paso during the late 1800s</p>"
+    },
+    {
+      "id": "72939f16-2173-42e8-991f-92175bf21900",
+      "content": "<p>To argue that Spanish-language newspapers published in El Paso influenced the ones published in San Antonio during the late 1800s</p>"
+    },
+    {
+      "id": "3f32bd76-6ba3-4079-a220-f93be0b65353",
+      "content": "<p>To explain why Spanish-language newspapers published in Texas were so popular in Mexico during the late 1800s</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most accurately describes the main purpose of the text. The text begins by stating that there were many Spanish-language newspapers in cities across Texas in the late 1800s, citing San Antonio as a city that produced eleven such newspapers. The text then goes on to note that in El Paso, there were twenty-two newspapers published in Spanish in the late 1800s, more than any other Texas city. The text then concludes by explaining that the reason for this large number of Spanish-language newspapers was likely El Paso&rsquo;s location near Mexico and its large population of Spanish speakers. Therefore, the main purpose of the text is to explain that Spanish-language newspapers thrived in Texas cities, especially in El Paso, in the late 1800s.</p><p>Choice A is incorrect because the text doesn&rsquo;t discuss Spanish-language newspapers published in Texas today, let alone compare them with newspapers that were published in the 1800s. Choice C is incorrect. Although the text characterizes El Paso as a particularly rich site for Spanish-language journalism in the late 1800s, the text doesn&rsquo;t discuss whether newspapers published in El Paso influenced the newspapers published in other cities across Texas, including San Antonio. Choice D is incorrect because the text doesn&rsquo;t mention whether Spanish-language newspapers published in Texas were also widely read in Mexico. The text only focuses on the popularity of Spanish-language newspapers within Texas, and especially in El Paso.</p>",
+  "externalid": "4b64bb5a-1640-497f-9cb4-24af67c229ba",
+  "correct_answer": [
+    "B"
+  ]
+}

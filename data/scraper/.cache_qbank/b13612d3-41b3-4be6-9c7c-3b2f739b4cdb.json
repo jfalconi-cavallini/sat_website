@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>The Lim&oacute;n technique, developed by Mexican-born dancer and choreographer Jose Lim&oacute;n, is known for its emphasis on breath control and its interplay of weight and <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> dancers may explore, for example, the moment of mid-air suspension at the top of a jump.</p>",
+  "type": "mcq",
+  "keys": [
+    "424b4d15-5533-4c8c-9cfb-423fb4f170dc"
+  ],
+  "answerOptions": [
+    {
+      "id": "ba1286f3-cc4a-49f3-bc24-70a0f1bbe313",
+      "content": "<p>weightlessness</p>"
+    },
+    {
+      "id": "25140d56-f301-401e-bd38-3255fb099813",
+      "content": "<p>weightlessness which</p>"
+    },
+    {
+      "id": "a2159a5e-b392-426e-8fe2-7e0ea94e9d6b",
+      "content": "<p>weightlessness,</p>"
+    },
+    {
+      "id": "424b4d15-5533-4c8c-9cfb-423fb4f170dc",
+      "content": "<p>weightlessness;</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the use of punctuation within a sentence. This choice uses a semicolon in a conventional way to join the first main clause (\"The Lim&oacute;n&hellip;weightlessness\") and the second main clause (\"dancers&hellip;jump\").</p><p>Choice A is incorrect because it results in a run-on sentence. The two main clauses are fused without punctuation and/or a conjunction. Choice B is incorrect. The relative pronoun \"which\" can&rsquo;t be used in this way to join two main clauses. Choice C is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses.</p>",
+  "externalid": "b13612d3-41b3-4be6-9c7c-3b2f739b4cdb",
+  "correct_answer": [
+    "D"
+  ]
+}

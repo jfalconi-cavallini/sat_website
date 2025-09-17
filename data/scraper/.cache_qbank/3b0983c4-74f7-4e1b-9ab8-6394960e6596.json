@@ -1,0 +1,38 @@
+{
+  "vaultid": "0b210f11-90bb-4aa5-9791-c332800bc9c5",
+  "keys": [
+    "9d862104-9bfb-47f0-a2a9-b0fb6ff88e7f"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of the relationship between Indigenous languages and knowledge of the medicinal uses of plants. The text states that Indigenous cultures possess special knowledge of the medicinal uses of plants, which is reflected in their vocabulary. The text then discusses how tribal nations are working to preserve their languages, whose daily use is declining as globally dominant languages become increasingly dominant in Indigenous communities. Given that the languages of tribal nations in what is now the United States function as repositories of knowledge about plants&rsquo; medicinal uses, it logically follows that continued use of those languages will assist with passing on knowledge about the medicinal value of plants native to the tribal nations&rsquo; lands. </p><p>Choice A is incorrect because the text states that preserving Indigenous languages will increase the knowledge, not the number, of medicinal plants.&nbsp;Choice B is incorrect because the text is concerned with how vocabulary about the medicinal value of plants can be preserved through the continued daily use of Indigenous languages, not with how such vocabulary can be incorporated into globally dominant, non-Indigenous languages. Moreover, the text explains that the exclusive use of globally dominant languages in Indigenous communities comes at an expense to the continued daily use of those communities&rsquo; languages. Given this relationship, it is unlikely globally dominant languages would borrow Indigenous vocabulary pertaining to &nbsp;plants&rsquo; medicinal uses. Choice D is incorrect because the text doesn&rsquo;t discuss physical access to medicinal plants, instead focusing on Indigenous knowledge and language surrounding the medicinal uses of plants. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "3b0983c4-74f7-4e1b-9ab8-6394960e6596",
+  "stimulus": "<p>Indigenous cultures possess unique knowledge of the medicinal uses of plants. According to a 2021 study, 73 percent of the medicinal uses of plants native to North America are reflected in the vocabulary of a single Indigenous language. However, as more and more Indigenous people exclusively speak a globally dominant language, such as English, their ancestral languages fade from daily use. These facts lend added importance to tribal nations&rsquo; efforts to preserve their languages. By ensuring the continued use of Cherokee, Ojibwe, and the hundreds of other Indigenous languages in what is now the United States, tribal nations are also <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "9e14969a-db18-463c-adcb-45649109f6bb",
+  "parenttemplatename": "OSP-048-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "aeee2152-a91b-4ac4-b6e6-1078c3cd8b2e",
+      "content": "<p>increasing the number of medicinal plants represented in the vocabularies of Indigenous languages.</p>"
+    },
+    {
+      "id": "0ca2adf7-6cf9-48f8-b3bc-975ff3a4ac10",
+      "content": "<p>transmitting terms for medicinal plants from Indigenous languages to globally dominant languages.</p>"
+    },
+    {
+      "id": "9d862104-9bfb-47f0-a2a9-b0fb6ff88e7f",
+      "content": "<p>preserving knowledge about the medicinal value of plants native to the tribal nations&rsquo; lands.</p>"
+    },
+    {
+      "id": "ffdd7e23-8d44-4f6c-b7d3-4668d4fa3e2b",
+      "content": "<p>ensuring that citizens of tribal nations have physical access to medicinal plants.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

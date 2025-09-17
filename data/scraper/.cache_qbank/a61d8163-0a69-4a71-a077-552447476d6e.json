@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Every last second of space shuttle mission STS-79, which lasted ten days and three hours, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> carefully monitored by a team of experts.</p>",
+  "keys": [
+    "f8cbf571-486b-41bc-a194-c79074b5d893"
+  ],
+  "answerOptions": [
+    {
+      "id": "7d5b2c76-7738-4a3f-860d-cb48d98edf0c",
+      "content": "<p>have been</p>"
+    },
+    {
+      "id": "53e39787-215b-4165-89b6-4c3d5ad2354d",
+      "content": "<p>are</p>"
+    },
+    {
+      "id": "f8cbf571-486b-41bc-a194-c79074b5d893",
+      "content": "<p>was</p>"
+    },
+    {
+      "id": "a6087a49-a4e4-406c-ac7b-71193da28663",
+      "content": "<p>were</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is subject-verb agreement. The singular verb \"was\" agrees in number with the singular subject \"every last second.\"</p><p>Choice A is incorrect because the plural verb \"have been\" doesn&rsquo;t agree in number with the singular subject \"every last second.\" Choice B is incorrect because the plural verb \"are\" doesn&rsquo;t agree in number with the singular subject \"every last second.\" Choice D is incorrect because the plural verb \"were\" doesn&rsquo;t agree in number with the singular subject \"every last second.\"</p>",
+  "externalid": "a61d8163-0a69-4a71-a077-552447476d6e",
+  "correct_answer": [
+    "C"
+  ]
+}

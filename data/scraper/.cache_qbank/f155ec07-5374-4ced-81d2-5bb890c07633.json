@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>The relationship between genomes and epigenomes reveals how cells with identical DNA develop different <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> whereas the genome in each cell contains a complete DNA sequence, the epigenome consists of chemical compounds that determine which traits in the sequence will be expressed.</p>",
+  "type": "mcq",
+  "keys": [
+    "3b701497-32f3-43cf-891a-56645679089e"
+  ],
+  "answerOptions": [
+    {
+      "id": "eccb9301-645d-486c-b17d-efe3bff56d81",
+      "content": "<p>functions</p>"
+    },
+    {
+      "id": "48f58b39-5388-45bf-8609-939e45fb976d",
+      "content": "<p>functions,</p>"
+    },
+    {
+      "id": "70abaefc-2957-4e68-8753-e3390f98b69d",
+      "content": "<p>functions and,</p>"
+    },
+    {
+      "id": "3b701497-32f3-43cf-891a-56645679089e",
+      "content": "<p>functions:</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the use of a colon within a sentence. In this choice, the colon correctly introduces the following explanation of the different functions of genomes and epigenomes.</p><p>Choice A is incorrect because it results in a run-on sentence. The two main clauses (\"The relationship&hellip;functions\" and \"whereas&hellip;expressed\") are fused without punctuation and/or a conjunction. Choice B is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to join two main clauses (\"The relationship&hellip;functions\" and \"whereas&hellip;expressed\"). Choice C is incorrect. Without a comma preceding it, the conjunction \"and\" can&rsquo;t be used in this way to join two main clauses. Furthermore, \"and\" fails to indicate that what follows is an explanation of how cells with identical DNA develop different functions.</p>",
+  "externalid": "f155ec07-5374-4ced-81d2-5bb890c07633",
+  "correct_answer": [
+    "D"
+  ]
+}

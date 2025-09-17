@@ -1,0 +1,38 @@
+{
+  "vaultid": "30a2597d-c902-4825-ba68-16481853b2a5",
+  "keys": [
+    "8dd367ad-c1fa-44d6-949f-cf5fc959717f"
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents a statement about the site discovered by the researchers that is supported by the text. The text discusses Fiorelli and colleagues&rsquo; discovery of egg clutches, single eggs, and eggshells in a Brazilian mine. According to the text, the presence of these eggs, which are from the Late Cretaceous period, led the researchers to conclude that the location was once a nesting and breeding site for titanosaurs. The text then explains that the finding is important because of the &ldquo;previous lack of known nesting sites in northern regions of South America.&rdquo; If there haven&rsquo;t been any other discoveries of a nesting site in South America&rsquo;s northern regions and the site in the Brazilian mine is the first, then the text strongly suggests that the site is farther north than other nesting sites that have been discovered in South America.&nbsp;</p><p>Choice A is incorrect because the text doesn&rsquo;t suggest that the site discovered by Fiorelli and colleagues is the earliest titanosaur nesting and breeding site known to paleontologists but rather that it&rsquo;s the first nesting site found in northern regions of South America. Moreover, the text doesn&rsquo;t suggest how the timeline of the newly discovered site compares with that of other titanosaur nesting and breeding sites.&nbsp;Choice B is incorrect because there is no mention in the text about any difficulties that Fiorelli and colleagues faced when they were excavating the nesting and breeding site in the Brazilian mine.&nbsp;Choice C is incorrect because the text doesn&rsquo;t support the idea that the nesting and breeding site in the Brazilian mine was occupied by sauropods other than titanosaurs. The text simply mentions that titanosaurs are sauropod dinosaurs and presents the researchers&rsquo; conclusion that the site they discovered was for titanosaurs.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>What does the text most strongly suggest about the site discovered by the researchers?</p>",
+  "externalid": "4cdeef3b-c252-41b9-b816-e4e258e8d8e4",
+  "stimulus": "<p>Paleontologist Lucas E. Fiorelli and colleagues have reported the discovery at a mine in Brazil of several egg clutches, partially preserved single eggs, and egg shells from the Late Cretaceous period. The researchers have concluded that the area was once a nesting and breeding site for titanosaurs, a group of sauropod dinosaurs. The finding is significant given the previous lack of known nesting sites in northern regions of South America, which led many paleontologists to assume that titanosaurs migrated south to lay eggs.</p>",
+  "templateclusterid": "6553192c-cc70-471c-a4b8-f2d71d3c6779",
+  "parenttemplatename": "OSP-035-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "cf73bcde-05fe-4a61-a02a-1e96a0c72ba8",
+      "content": "<p>It is the earliest known example of a titanosaur nesting and breeding site.</p>"
+    },
+    {
+      "id": "b5e12ec7-cc08-424f-b401-83c3ae97a89e",
+      "content": "<p>It was very difficult to excavate given that it was discovered in a mine.</p>"
+    },
+    {
+      "id": "2c18f6ff-88d9-44a1-bae0-389ec891405e",
+      "content": "<p>It may have been occupied by other sauropods in addition to titanosaurs.</p>"
+    },
+    {
+      "id": "8dd367ad-c1fa-44d6-949f-cf5fc959717f",
+      "content": "<p>It is farther north than any other nesting site discovered in South America.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Oyster mushrooms typically get their nutrients from the damp logs on which they grow, but the fungi are also carnivorous, with the ability to kill and consume microscopic worms known as nematodes. As researcher Yen-Ping Hsueh has shown, the mushrooms release a toxin that is deadly to nematodes that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in contact with it.</p>",
+  "type": "mcq",
+  "keys": [
+    "f122927d-25bf-4bc9-91d3-367e43a04a4e"
+  ],
+  "answerOptions": [
+    {
+      "id": "9f2dedad-67b8-4f78-9122-ee693fe624e7",
+      "content": "<p>has come</p>"
+    },
+    {
+      "id": "1cffaf0c-4f0f-4d2d-8b9f-3134b4fdae74",
+      "content": "<p>comes</p>"
+    },
+    {
+      "id": "02989c88-513b-4125-880d-58d54f445a8f",
+      "content": "<p>is coming</p>"
+    },
+    {
+      "id": "f122927d-25bf-4bc9-91d3-367e43a04a4e",
+      "content": "<p>come</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is subject-verb agreement. The plural verb \"come\" agrees in number with the plural subject \"nematodes.\"</p><p>Choice A is incorrect because the singular verb \"has come\" doesn&rsquo;t agree in number with the plural subject \"nematodes.\" Choice B is incorrect because the singular verb \"comes\" doesn&rsquo;t agree in number with the plural subject \"nematodes.\" Choice C is incorrect because the singular verb \"is coming\" doesn&rsquo;t agree in number with the plural subject \"nematodes.\"</p>",
+  "externalid": "8b0bce49-5316-42bc-b1e7-fda3fa0cc7af",
+  "correct_answer": [
+    "D"
+  ]
+}

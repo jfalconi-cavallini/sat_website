@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Painter Alma <span data-ssml-sub-alias=\"W\">W.</span> Thomas was fascinated by the colors and shapes found in nature. The flowers and trees in the garden at her home in Washington, DC, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> her work. For example, Thomas&rsquo;s use of broken brushstrokes was inspired by the way that light would shine through the leaves of a tree in front of her house.&nbsp;</p>",
+  "keys": [
+    "c618cad0-0cb9-4763-9400-c5c111d73df5"
+  ],
+  "answerOptions": [
+    {
+      "id": "7258ecdb-ff86-415c-a9ce-a5255eac7130",
+      "content": "<p>restricted</p>"
+    },
+    {
+      "id": "9d74b01c-301c-4f9a-bb7d-0b7810dddbdd",
+      "content": "<p>announced</p>"
+    },
+    {
+      "id": "0420c3c5-d1af-439a-a5fd-0f1c1b957bc4",
+      "content": "<p>distracted</p>"
+    },
+    {
+      "id": "c618cad0-0cb9-4763-9400-c5c111d73df5",
+      "content": "<p>influenced</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of painter Alma <span data-ssml-sub-alias=\"W\">W.</span> Thomas&rsquo;s work. In this context, \"influenced\" means to have had an effect on something&rsquo;s development. The text indicates that there is a connection between Thomas&rsquo;s work and the flowers and trees in her home&rsquo;s garden, giving the example of Thomas&rsquo;s brushstrokes being inspired by light shining through the leaves of a tree in front of her house. This context conveys that Thomas&rsquo;s work was influenced by the flowers and trees in the garden.</p><p>Choice A is incorrect because the text conveys that Thomas drew inspiration for her work from the plants in her garden, which suggests that the flowers and trees contributed positively to her work, not that they \"restricted,\" or limited, her work. Choice B is incorrect because it wouldn&rsquo;t make sense to suggest that flowers and trees in a garden could have \"announced,\" or made known, a painter&rsquo;s work. Choice C is incorrect because the text conveys that Thomas drew inspiration for her work from the plants in her garden, which suggests that the flowers and trees contributed positively to her work, not that they were a distraction. Further, it&rsquo;s not clear how an artist&rsquo;s work could itself be \"distracted.\"</p>",
+  "externalid": "ed64f415-992e-4d5f-b6d6-b247388e46db",
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "90ed4926-4ebc-4169-9fef-9d6fed506252",
+  "keys": [
+    "52d57e53-00ef-4d7f-b225-f7baca42f781"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is punctuation between a subordinate clause and a main clause. This choice correctly uses a comma to mark the boundary between the subordinate clause (&ldquo;While&hellip;lifelike&rdquo;) and the main clause (&ldquo;others look to the past&rdquo;). </p><p>Choice A is incorrect because it results in an incomplete sentence with no main clause. Choice B is incorrect because it fails to mark the boundary between the subordinate clause (&ldquo;While&hellip;lifelike&rdquo;) and the main clause (&ldquo;others&hellip;past&rdquo;). Choice D is incorrect because it results in an incomplete sentence with no main clause. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "1994ba6f-374f-4566-a712-99b952ed2646",
+  "stimulus": "<p>While many video game creators strive to make their graphics ever more <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> others look to the past, developing titles with visuals inspired by the &ldquo;8-bit&rdquo; games of the 1980s and 1990s. (The term &ldquo;8-bit&rdquo; refers to a console whose processor could only handle eight bits of data at once.)</p>",
+  "templateclusterid": "bdf3905f-63a0-44cd-8106-0698bba87f3f",
+  "parenttemplatename": "OSP-642-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "06458010-9410-4db2-bf11-89dd25b143d3",
+      "content": "<p>lifelike but</p>"
+    },
+    {
+      "id": "d460493c-9c96-41ac-adba-d1b06a9f575b",
+      "content": "<p>lifelike</p>"
+    },
+    {
+      "id": "52d57e53-00ef-4d7f-b225-f7baca42f781",
+      "content": "<p>lifelike,</p>"
+    },
+    {
+      "id": "ffea5b8b-2b2e-4df2-837a-06614d92cb55",
+      "content": "<p>lifelike, but</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

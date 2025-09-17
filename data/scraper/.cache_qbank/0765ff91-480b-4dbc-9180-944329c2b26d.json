@@ -1,0 +1,38 @@
+{
+  "vaultid": "f8b29d31-679d-4e38-8f35-326b4a9878b1",
+  "keys": [
+    "4f6b7b1a-7695-49b6-8fe0-78d3e20d51cd"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of finite and nonfinite verb forms within a sentence. A main clause requires a finite verb to perform the action of the subject (in this case, &ldquo;a recent study&rdquo;), and this choice supplies the finite present tense verb &ldquo;explains&rdquo; to indicate that the study explains why plants that attract bats have evolved to produce moderately sweet nectar.&nbsp;</p><p>Choice B is incorrect because the nonfinite participle &ldquo;explaining&rdquo; doesn&rsquo;t supply the main clause with a finite verb.&nbsp;Choice C is incorrect because the nonfinite participle &ldquo;having explained&rdquo; doesn&rsquo;t supply the main clause with a finite verb. Choice D is incorrect because the nonfinite to-infinitive &ldquo;to explain&rdquo; doesn&rsquo;t supply the main clause with a finite verb. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "0765ff91-480b-4dbc-9180-944329c2b26d",
+  "stimulus": "<p>Even though bats prefer very sweet nectar, the plants that attract them have evolved to produce nectar that is only moderately sweet. A recent study <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> why: making sugar is energy-intensive, and it is more advantageous for plants to make a large amount of low-sugar nectar than a small amount of high-sugar nectar.</p>",
+  "templateclusterid": "d85195fd-16c1-4631-b5bc-af568e6e6e28",
+  "parenttemplatename": "OSP-708-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "4f6b7b1a-7695-49b6-8fe0-78d3e20d51cd",
+      "content": "<p>explains</p>"
+    },
+    {
+      "id": "52e62e6c-dd06-401c-8427-385472b0ebbf",
+      "content": "<p>explaining</p>"
+    },
+    {
+      "id": "b432d356-d63c-4fcc-937c-303af25ebccd",
+      "content": "<p>having explained</p>"
+    },
+    {
+      "id": "92caecd4-0d99-42b1-91d4-9ed57879c36a",
+      "content": "<p>to explain</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

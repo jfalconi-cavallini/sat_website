@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which finding, if true, would most directly support the researchers&rsquo; hypothesis?</p>",
+  "stimulus": "<p>Under normal atmospheric pressure at Earth&rsquo;s surface, water molecules form a tetrahedral network stabilized by hydrogen bonds between adjacent molecules. Extreme high pressure, such as can be found in deep ocean waters, destabilizes these bonds and compresses water&rsquo;s structure, allowing water molecules within organisms to permeate proteins and impede crucial biological functions; yet deep-sea organisms known as piezophiles have adapted to extreme pressure. Studies have found a positive correlation between the depths that various piezophiles inhabit and concentrations of a compound called trimethylamine N-oxide (TMAO) in their muscle tissues, which has led a team of researchers to hypothesize that TMAO reduces water&rsquo;s compressibility.</p>",
+  "type": "mcq",
+  "keys": [
+    "1fa1110a-0e52-429a-bfa3-3ff7a5331824"
+  ],
+  "answerOptions": [
+    {
+      "id": "c446b92c-6435-4259-b26a-7151a58e637e",
+      "content": "<p>Water molecules are found to be impervious to TMAO even when the water molecules&rsquo; tetrahedral configuration has been distorted by high pressure.&nbsp;</p>"
+    },
+    {
+      "id": "02397f14-70ea-43f6-96e4-6519a62984bd",
+      "content": "<p>Examination of TMAO&rsquo;s molecular structure shows that TMAO molecules retain their shape even as pressure increases.</p>"
+    },
+    {
+      "id": "ce045fbd-7f23-4160-8750-ced4c9ae7052",
+      "content": "<p>A positive correlation is found between concentrations of TMAO and the rate at which water&rsquo;s molecular structure compresses as pressure increases.</p>"
+    },
+    {
+      "id": "1fa1110a-0e52-429a-bfa3-3ff7a5331824",
+      "content": "<p>Analysis of water&rsquo;s molecular structure under high pressure reveals that hydrogen bonds are more stable when TMAO is present than when it is not.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents a finding that, if true, would support the researchers&rsquo; hypothesis that TMAO reduces water&rsquo;s compressibility. The text explains that at great depths in the ocean, extreme pressure compresses the molecular structure of water by destabilizing the hydrogen bonds between adjacent molecules, thereby allowing water to penetrate proteins and harm the associated organisms. However, deep-sea organisms called piezophiles have adapted to live at these depths and previous studies show a positive correlation between the depth at which a piezophile species lives and the species&rsquo; level of the compound TMAO. Because this hypothesis links TMAO levels with reduced compressibility of water&rsquo;s tetrahedral molecular structure, a finding that TMAO helps maintain the hydrogen bonds between water molecules under high pressure would strongly support that hypothesis.</p><p>Choice A is incorrect. Although the researchers&rsquo; hypothesis suggests a relationship between TMAO and water molecules&rsquo; tetrahedral molecular structure, that relationship involves TMAO helping maintain water&rsquo;s tetrahedral molecular structure under high pressure; as presented in the text, the hypothesis doesn&rsquo;t contend that water molecules are impervious to, or incapable of being penetrated by, TMAO. Choice B is incorrect because the text discusses how the molecular structure of water, not TMAO, is compressed under extreme pressure and never addresses how TMAO might be affected by such pressure. Choice C is incorrect because the researchers&rsquo; hypothesis holds that water under extreme pressure is more resistant, not less, to being compressed when TMAO concentrations are higher. Moreover, the positive correlation mentioned in the text is between TMAO concentrations and the depths at which piezophiles live, not between concentrations of TMAO and the rate at which water&rsquo;s molecular structure compresses as pressure increases.</p>",
+  "externalid": "704122ea-86c8-4130-a534-dde9ec1a52b1",
+  "correct_answer": [
+    "D"
+  ]
+}

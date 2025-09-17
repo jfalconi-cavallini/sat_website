@@ -1,0 +1,31 @@
+{
+  "stem": "<p>According to the text, what is one way that Vargas differed from other ranchera singers?</p>",
+  "stimulus": "<p>In the 1960s, Chavela Vargas became an unlikely star in ranchera, a style of traditional Mexican music. Most ranchera singers had clear, polished voices and performed with a full band. But Vargas accompanied her raspy voice with just her guitar. Dressed in men&rsquo;s trousers and a poncho, she would perform classic songs that had been written from a male point of view and were usually sung by men. She also altered those songs by performing them much more slowly than other ranchera singers did. The slower tempo allowed her to express the emotional quality of the lyrics more fully.</p>",
+  "type": "mcq",
+  "keys": [
+    "9f358f6c-fc56-4f81-99da-2d960d05bd31"
+  ],
+  "answerOptions": [
+    {
+      "id": "ea681883-5241-4ca6-8bfa-b76444e051c4",
+      "content": "<p>She possessed a voice that was clear and polished.</p>"
+    },
+    {
+      "id": "a724eaee-e2e6-4fb2-9b1c-517c8757ef72",
+      "content": "<p>She avoided singing songs written from a male point of view.</p>"
+    },
+    {
+      "id": "6a278a59-237a-47e7-9f13-32b0baa2253b",
+      "content": "<p>She disliked performing classic songs.</p>"
+    },
+    {
+      "id": "9f358f6c-fc56-4f81-99da-2d960d05bd31",
+      "content": "<p>She altered classic songs by slowing them down.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it accurately describes an aspect of Chavela Vargas that the text indicates is unusual among ranchera artists. According to the text, Vargas differed from other ranchera singers by slowing the tempo of classic songs, which allowed her to express the emotional quality of the lyrics more fully.</p><p>Choice A is incorrect because the text states that Vargas possessed an unusually raspy voice for a ranchera singer, not a clear and polished voice. Choice B is incorrect because the text indicates that Vargas was known to perform songs written from a male point of view, not that she avoided such songs. Choice C is incorrect because nothing in the text suggests that Vargas disliked performing classic songs. Rather, it suggests that she found innovative ways of performing them to emphasize their emotional content, which seems to suggest an affinity for such songs, not dislike.</p>",
+  "externalid": "b65b6bb1-ed51-4028-8bea-421ff84c160b",
+  "correct_answer": [
+    "D"
+  ]
+}

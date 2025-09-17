@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Urban planning expert Francisco Lara-Valencia and colleagues have argued that managing environmental matters along the US-Mexico border <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> coordination between the two countries&rsquo; governments. Since ecosystems extend across the border, actions taken on one side can have environmental effects on the other side, making international cooperation essential.&nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "2d624118-f0b6-41d1-84f2-5d1749229269"
+  ],
+  "answerOptions": [
+    {
+      "id": "2d624118-f0b6-41d1-84f2-5d1749229269",
+      "content": "<p>requires</p>"
+    },
+    {
+      "id": "239977e0-0d48-4b97-90d2-d26302f57cf3",
+      "content": "<p>praises</p>"
+    },
+    {
+      "id": "da01e3ad-d555-4ba6-b2ed-8de32a01b2de",
+      "content": "<p>reports</p>"
+    },
+    {
+      "id": "89a7f3e5-72cf-474e-9504-24f46631835d",
+      "content": "<p>advises</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of environmental management along the US and Mexican border. In this context, \"requires\" means needs in order to perform a task. The text indicates that because ecosystems span the border, actions taken by the government on one side of the border can affect the environment in the nation on the other side of the border, which makes international cooperation crucial. In other words, because actions on one side of the US and Mexican border can affect the other side of the border, managing environmental matters along the border requires coordination between the two governments.</p><p>Choice B is incorrect because \"praises\" in this context would mean to express a favorable judgment, but the text doesn&rsquo;t describe approval expressed by anyone, and it wouldn&rsquo;t make sense to say that environmental management itself praises intergovernmental coordination. Choice C is incorrect. In this context, \"reports\" would mean gives an account. Although coordination between the US and Mexican governments likely would involve some sort of reporting, the text doesn&rsquo;t describe any such practice. Choice D is incorrect. In this context, \"advises\" would mean recommends a course of action, and although governments can advise one another, it wouldn&rsquo;t make sense to say that environmental management itself makes recommendations.</p>",
+  "externalid": "c518470f-82cc-4e18-994d-a1186ef6afbc",
+  "correct_answer": [
+    "A"
+  ]
+}

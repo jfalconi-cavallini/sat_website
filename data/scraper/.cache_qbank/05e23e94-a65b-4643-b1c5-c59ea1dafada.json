@@ -1,0 +1,38 @@
+{
+  "vaultid": "d2670e33-8193-4fe0-bd4e-19d1503cde35",
+  "keys": [
+    "bb69c4ac-0684-4e89-9596-062845986713"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is subject-verb agreement. The singular verb \"occurs\" agrees in number with the singular subject \"radiation.\"</p><p>Choice B is incorrect because the plural verb \"have occurred\" doesn&rsquo;t agree in number with the singular subject \"radiation.\" Choice C is incorrect because the plural verb \"occur\" doesn&rsquo;t agree in number with the singular subject \"radiation.\" Choice D is incorrect because the plural verb \"are occurring\" doesn&rsquo;t agree in number with the singular subject \"radiation.\"</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "05e23e94-a65b-4643-b1c5-c59ea1dafada",
+  "stimulus": "<p>The radiation that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> during the decay of radioactive atomic nuclei is known as gamma radiation.</p>",
+  "templateclusterid": "b13e7a2b-aa16-4d3a-8bec-b03c5be4d49d",
+  "parenttemplatename": "OSP-764-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "bb69c4ac-0684-4e89-9596-062845986713",
+      "content": "<p>occurs</p>"
+    },
+    {
+      "id": "edff45d4-8b28-41af-b822-667324d32956",
+      "content": "<p>have occurred</p>"
+    },
+    {
+      "id": "543162d9-cf03-49db-acf0-7f1c26d5085e",
+      "content": "<p>occur</p>"
+    },
+    {
+      "id": "593e716c-92bf-4121-934c-6e9ce0ba66e6",
+      "content": "<p>are occurring</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

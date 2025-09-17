@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>In his <em>Naturalis historia</em>, Pliny the Elder praised Hipparchus&rsquo;s star catalog, a second-century BCE list of roughly 850 different stars&rsquo; celestial positions. For centuries, scholars dreamed about locating a copy of this legendary lost <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> fantasy (partially) became reality in 2022, when researchers uncovered traces of the star catalog on a palimpsest, a reused parchment.</p>",
+  "keys": [
+    "9326969d-38bb-494d-952b-40db9e03af7c"
+  ],
+  "answerOptions": [
+    {
+      "id": "3922e76b-4d9c-4403-a71c-f61e9241dc0f",
+      "content": "<p>work<span data-ssml-say-as=\"characters\">,</span> that</p>"
+    },
+    {
+      "id": "c7a5c91f-0d41-4df3-b447-c3208be07bad",
+      "content": "<p>work that</p>"
+    },
+    {
+      "id": "9326969d-38bb-494d-952b-40db9e03af7c",
+      "content": "<p>work<span data-ssml-say-as=\"characters\">.</span> That</p>"
+    },
+    {
+      "id": "12708730-0499-445e-88ed-0a78b98a4bd3",
+      "content": "<p>work and that</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between one sentence (\"For&hellip;work\") and another (\"That&hellip;parchment\").</p><p>Choice A is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to mark the boundary between sentences. Choice B is incorrect because it results in a run-on sentence. The sentences (\"For&hellip;work\" and \"that&hellip;parchment\") are fused without punctuation and/or a conjunction. Choice D is incorrect. Without a comma preceding it, the conjunction \"and\" can&rsquo;t be used in this way to join sentences.</p>",
+  "externalid": "d99f186d-1906-41f6-a1df-00cd641b8ca2",
+  "correct_answer": [
+    "C"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "5d6e7ba8-b288-4ec9-9bb4-cd0778628a5d",
+  "keys": [
+    "2e924614-8396-480f-946b-e603b119e111"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most accurately describes the moon with the eccentric orbit. The text indicates that three of the 20 newly discovered moons have prograde orbits, meaning that they orbit Saturn in the same direction as the planet&rsquo;s spin, while the other 17 moons have retrograde orbits, meaning that they orbit Saturn in the opposite direction of the planet&rsquo;s spin. The text then states that 19 of the 20 moons appear to be the remains of earlier bodies that orbited Saturn but were broken apart in collisions. The one exception is a moon that orbits Saturn in the same direction as the planet&rsquo;s spin, meaning that the exceptional moon&rsquo;s orbit is prograde. The text goes on to state that the exceptional moon&rsquo;s orbit is so eccentric that the moon may have formed through a different process than the other 19 moons. The moon with the eccentric orbit, therefore, has a prograde orbit and may not be a remnant of an earlier body that orbited Saturn. </p><p>Choice A is incorrect because nothing in the text supports the idea that the moon with the eccentric orbit likely has the same origin as the moons with retrograde orbits. Although it&rsquo;s true that the moon has a prograde orbit (and thus doesn&rsquo;t have a retrograde orbit), the only information the text provides about the moon&rsquo;s origin is that it may be different than the origin of the other 19 moons. Choice B is incorrect because the text states that the moon in question orbits Saturn in the same direction as the planet&rsquo;s spin, meaning that the moon&rsquo;s orbit is prograde, not that its orbit is neither prograde nor retrograde. Choice C is incorrect because the text merely notes that the moon in question has a prograde orbit without giving any indication of what likely caused that orbit. </p>",
+  "origin": "proteus",
+  "stem": "<p>Based on the text, which choice best describes the moon with the eccentric orbit?</p>",
+  "externalid": "b7b895db-15c3-4714-912a-fbc70f8d95ce",
+  "stimulus": "<p>In 2019, 20 previously unknown moons were confirmed to be orbiting Saturn. Three of the moons have prograde orbits (orbiting in the direction the planet spins), and the other 17 have retrograde orbits (orbiting in the opposite direction of the planet&rsquo;s spin). All but one of the 20 moons are thought to be remnants of bodies that orbited Saturn until they broke apart in collisions. Although the one exceptional moon orbits in the same direction as the planet&rsquo;s spin, its orbit is highly eccentric compared to the rest, which may suggest that it has a different origin than the other 19 moons.</p>",
+  "templateclusterid": "e9a61b24-7fbd-4b13-858a-9749e1c4e2ec",
+  "parenttemplatename": "OSP-038-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "db4c727e-3649-459b-bd8e-8796cdad271f",
+      "content": "<p>It doesn&rsquo;t have a retrograde orbit, but it likely has the same origin as the moons with retrograde orbits.</p>"
+    },
+    {
+      "id": "a2eba5f3-22a1-4820-b98d-d151deead12c",
+      "content": "<p>Its orbit is so tilted with respect to the other moons&rsquo; orbits that it&rsquo;s neither prograde nor retrograde.</p>"
+    },
+    {
+      "id": "8c88030e-1462-4875-8fa6-ee2086448cca",
+      "content": "<p>It has a prograde orbit that is likely the result of having collided with another body orbiting Saturn.&nbsp;</p>"
+    },
+    {
+      "id": "2e924614-8396-480f-946b-e603b119e111",
+      "content": "<p>It has a prograde orbit and may not be a remnant of an earlier body that orbited Saturn.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

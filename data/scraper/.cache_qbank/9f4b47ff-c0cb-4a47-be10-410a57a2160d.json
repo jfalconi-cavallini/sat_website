@@ -1,0 +1,38 @@
+{
+  "vaultid": "f2755f3c-4b96-4ce4-bca3-e445b5c9d093",
+  "keys": [
+    "506d6115-4f43-4263-a24a-3ea582a765c0"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of Ulysses Jenkins&rsquo;s video art. As used in this context, &ldquo;newfound&rdquo; means recently discovered or established. The text indicates that in the 1970s, video cameras became cheaper and therefore more widely available than they had been in the past. The text goes on to say that this development provided Jenkins and other artists with capabilities that they previously didn&rsquo;t have. As a result, Jenkins began producing groundbreaking works of video art. This context supports the idea that Jenkins took advantage of newfound access to video cameras. </p><p>Choice B is incorrect because &ldquo;delicate&rdquo; means fine in texture or structure or easily broken, neither of which would make sense in this context. The text doesn&rsquo;t focus on describing what video art looks like or whether it&rsquo;s breakable. Choice C is incorrect because &ldquo;inevitable&rdquo; means impossible to avoid, which wouldn&rsquo;t make sense in this context. The text doesn&rsquo;t discuss the likelihood of artists, or anyone else, gaining access to video cameras. Choice D is incorrect because &ldquo;habitual&rdquo; means doing something regularly or repeatedly. Although the text does suggest that Jenkins created multiple pieces of video art, its focus is on the fact that video cameras had only just become widely available to artists in the 1970s. Jenkins&rsquo;s ability to take advantage of video cameras to make art was therefore newfound, not habitual, at the time. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "9f4b47ff-c0cb-4a47-be10-410a57a2160d",
+  "stimulus": "<p>In the 1970s, video cameras became increasingly affordable for ordinary consumers and gave Ulysses Jenkins and other artists capabilities that were previously unavailable except to television broadcasters. Jenkins recognized and took full advantage of this <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> access to powerful technology to create groundbreaking works of video art, such as <em>Mass of Images</em> (1978).</p>",
+  "templateclusterid": "f4c1360b-1314-46da-ba19-bc2a69ca48ea",
+  "parenttemplatename": "OSP-046-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "506d6115-4f43-4263-a24a-3ea582a765c0",
+      "content": "<p>newfound</p>"
+    },
+    {
+      "id": "2bdf9252-421a-4bca-8774-fc961115505d",
+      "content": "<p>delicate</p>"
+    },
+    {
+      "id": "f37ffdaf-5a74-4fc4-be8e-0c6906f43bbf",
+      "content": "<p>inevitable</p>"
+    },
+    {
+      "id": "577db509-4009-409f-a9f1-fc2823e5bbad",
+      "content": "<p>habitual</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

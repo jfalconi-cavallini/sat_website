@@ -1,0 +1,38 @@
+{
+  "vaultid": "ab40ba12-49bb-4ce3-82a6-8e2990b2d235",
+  "keys": [
+    "79085794-445d-4ceb-b05d-0896e870de7c"
+  ],
+  "rationale": "<p>Choice A is the best answer. &ldquo;Still&rdquo; logically signals that the information about Sher-Gil in this sentence&mdash;that she longed to leave Paris and return to India&mdash;contrasts with what one would expect after reading about Sher-Gil&rsquo;s experiences in Paris in the previous sentences.&nbsp;</p><p>Choice B is incorrect because &ldquo;therefore&rdquo; illogically signals that the information about Sher-Gil in this sentence is a result or consequence of the descriptions in the previous sentences. Instead, this information contrasts with what one would expect after reading about Sher-Gil&rsquo;s experiences in Paris. Choice C is incorrect because &ldquo;indeed&rdquo; illogically signals that the information about Sher-Gil in this sentence offers additional emphasis in support of the descriptions in the previous sentences. Instead, this information contrasts with what one would expect after reading about Sher-Gil&rsquo;s experiences in Paris. Choice D is incorrect because &ldquo;furthermore&rdquo; illogically signals that the information about Sher-Gil in this sentence offers additional support for or confirmation of the descriptions in the previous sentences. Instead, this information contrasts with what one would expect after reading about Sher-Gil&rsquo;s experiences in Paris. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "6cd41d96-3454-462f-8b1b-c2293ecdbde2",
+  "stimulus": "<p>In November 1934, Amrita Sher-Gil was living in what must have seemed like the ideal city for a young artist: Paris. She was studying firsthand the color-saturated style of France&rsquo;s modernist masters and beginning to make a name for herself as a painter. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Sher-Gil longed to return to her childhood home of India; only there, she believed, could her art truly flourish.</p>",
+  "templateclusterid": "b893ac0a-2a65-431d-96a4-3f55f1f7fd69",
+  "parenttemplatename": "OSP-212-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "79085794-445d-4ceb-b05d-0896e870de7c",
+      "content": "<p>Still,</p>"
+    },
+    {
+      "id": "a259d760-c73f-49b0-b830-4a3ca72c0c7d",
+      "content": "<p>Therefore,</p>"
+    },
+    {
+      "id": "b7f12ebd-6c19-4334-be3b-30efec2ce4e1",
+      "content": "<p>Indeed,</p>"
+    },
+    {
+      "id": "b364b112-f77e-40e0-941c-7a714c2220e1",
+      "content": "<p>Furthermore,</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

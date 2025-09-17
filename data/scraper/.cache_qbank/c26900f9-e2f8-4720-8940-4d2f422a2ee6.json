@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which finding from the experiment, if true, would most directly support Bernal and de Silva&rsquo;s conclusion?</p>",
+  "stimulus": "<p>Male t&uacute;ngara frogs make complex calls to attract mates, but their calls also attract frog-biting midges, insects that feed on the frogs&rsquo; blood. Researchers Ximena Bernal and Priyanka de Silva wondered if the calls alone are sufficient for midges to locate the frogs or if midges use carbon dioxide emitted by frogs as an additional cue to their prey&rsquo;s whereabouts, like mosquitoes do. In an experiment, the researchers placed two midge traps in a t&uacute;ngara frog breeding area. One trap played recordings of t&uacute;ngara frog calls and the other released carbon dioxide along with playing the calls. Bernal and de Silva concluded that carbon dioxide does not serve as an additional cue to frog-biting midges.</p>",
+  "type": "mcq",
+  "keys": [
+    "0977459e-7cf4-4b3d-9e11-a22cb5e724f3"
+  ],
+  "answerOptions": [
+    {
+      "id": "e7bfc942-bb9a-483f-b127-8a0a46a1425f",
+      "content": "<p>Only a small number of midges were found in the traps, though the majority were found in the trap that played calls and released carbon dioxide.</p>"
+    },
+    {
+      "id": "735ac17d-2d56-4aba-ae95-9839682cba22",
+      "content": "<p>Midges entered the trap that released carbon dioxide and played calls only during or immediately after periods of carbon dioxide release.&nbsp;</p>"
+    },
+    {
+      "id": "0977459e-7cf4-4b3d-9e11-a22cb5e724f3",
+      "content": "<p>More midges were found in the trap that only played calls than in the trap that played calls and released carbon dioxide.&nbsp;</p>"
+    },
+    {
+      "id": "e8a435eb-48d6-4845-b404-4885ac5cc5c5",
+      "content": "<p>The trap that released carbon dioxide and played calls attracted few midges when carbon dioxide concentrations were low but attracted many midges when carbon dioxide concentrations were high.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it presents a finding that, if true, would most directly support the researchers&rsquo; conclusion that carbon dioxide does not serve as an additional cue to frog-biting midges regarding the location of male t&uacute;ngara frogs. The text begins by stating that the mating call of the male t&uacute;ngara frogs also attracts frog-biting midges, which prey on the frogs&rsquo; blood. Researchers Bernal and de Silva were curious if the mating calls were sufficient signals for the midges to locate the frogs or if midges also used carbon dioxide emitted by the frogs to locate their prey. The text then details the procedure the researchers used to investigate their question and summarizes their conclusion&mdash;that carbon dioxide does not serve as an additional cue to the midges. Thus, if more midges were found in the researchers&rsquo; trap that only played calls than in the trap that played calls and released carbon dioxide, it follows that the frog calls seem sufficient without the carbon dioxide cue. This finding supports the researchers&rsquo; conclusion that carbon dioxide does not serve as an additional cue to frog-biting midges.</p><p>Choice A is incorrect because finding that the majority of frog-biting midges were found in the traps that both played the mating call and released carbon dioxide would present evidence that directly refutes the researchers&rsquo; conclusion&mdash;that carbon dioxide does not serve as an additional cue to the frog-biting midges regarding the location of t&uacute;ngara frogs. Choice B is incorrect because if the midges entered the trap that played calls and released carbon dioxide only during or immediately after carbon dioxide was released, that would suggest that the midges used the carbon dioxide as a way to locate their prey, a finding that would contradict the researchers&rsquo; conclusion that carbon dioxide was not an additional cue to the midges. Choice D is incorrect because a trap attracting larger numbers of midges with high carbon dioxide concentrations than a trap with low carbon dioxide concentrations suggests that carbon dioxide might serve as an additional cue to the midges as to the location on the frogs, a finding contrary to the researchers&rsquo; conclusion.</p>",
+  "externalid": "c26900f9-e2f8-4720-8940-4d2f422a2ee6",
+  "correct_answer": [
+    "C"
+  ]
+}

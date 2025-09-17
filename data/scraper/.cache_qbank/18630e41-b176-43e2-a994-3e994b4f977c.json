@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>In the Inca Empire (1438&ndash;1533), ayllus <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> family clans that ranged in size from small groups to thousands of people.</p>",
+  "type": "mcq",
+  "keys": [
+    "fd8fdf78-b8e5-4b18-a7d4-b0858fb6b391"
+  ],
+  "answerOptions": [
+    {
+      "id": "b33b6761-f576-4867-95d5-84f055e523e5",
+      "content": "<p>is</p>"
+    },
+    {
+      "id": "2b3f41a9-2092-42ad-801c-f55ac6d7d535",
+      "content": "<p>was</p>"
+    },
+    {
+      "id": "614729d8-e6f1-4ab7-b1ef-7a5c00f62c34",
+      "content": "<p>has been</p>"
+    },
+    {
+      "id": "fd8fdf78-b8e5-4b18-a7d4-b0858fb6b391",
+      "content": "<p>were</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is subject-verb agreement. The plural verb \"were\" agrees in number with the plural subject \"ayllus,\" which are described as plural \"family clans.\"</p><p>Choice A is incorrect because the singular verb \"is\" doesn&rsquo;t agree in number with the plural subject \"ayllus.\" Choice B is incorrect because the singular verb \"was\" doesn&rsquo;t agree in number with the plural subject \"ayllus.\" Choice C is incorrect because the singular verb \"has been\" doesn&rsquo;t agree in number with the plural subject \"ayllus.\"</p>",
+  "externalid": "18630e41-b176-43e2-a994-3e994b4f977c",
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>It would be a mistake to <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the exhibit that artist and curator Joe Baker, who is a member of the Lenape (Delaware) people, has organized at the Brooklyn Public Library. The exhibit, which includes Lenape beadwork from the 1850s as well as modern works that use traditional patterns, is essential viewing.</p>",
+  "type": "mcq",
+  "keys": [
+    "6b9a2af8-95df-44be-8c49-8941d0950250"
+  ],
+  "answerOptions": [
+    {
+      "id": "5576641f-4321-4475-b0c5-017e06f1e0c6",
+      "content": "<p>complicate</p>"
+    },
+    {
+      "id": "81db8eab-90f5-4746-a161-b7d519ec4b01",
+      "content": "<p>amplify</p>"
+    },
+    {
+      "id": "6b9a2af8-95df-44be-8c49-8941d0950250",
+      "content": "<p>overlook</p>"
+    },
+    {
+      "id": "48983c27-df29-4825-a80e-b1cbfb6107b1",
+      "content": "<p>assemble</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of an exhibit at the Brooklyn Public Library. In this context, \"overlook\" means to ignore or to miss. The text states that artist and curator Joe Baker organized an exhibit that features Lenape beadwork in historical and modern works. The text describes the exhibit as \"essential viewing,\" suggesting that it&rsquo;s an important exhibit that people should make an effort to visit; this context conveys that it would be a mistake to overlook the exhibit.</p><p>Choice A is incorrect. In this context, \"complicate\" would mean to add difficulty, and there&rsquo;s no reason to think the text would need to directly caution against complicating Baker&rsquo;s exhibit; the text focuses on the idea that the exhibit is \"essential viewing,\" not on the idea of a potential difficulty that could be raised. Choice B is incorrect. In this context, \"amplify\" means to increase, and there&rsquo;s no reason to believe the text would indicate that it would be a mistake to increase an exhibit the text describes as \"essential viewing.\" Choice D is incorrect because it wouldn&rsquo;t make sense to say that it would be a mistake to \"assemble,\" or put together, Baker&rsquo;s exhibit: the text makes it clear that the exhibit has already been put together and, further, praises the exhibit as \"essential viewing.\"</p>",
+  "externalid": "33281590-ff75-47d2-8820-e0840888f7c8",
+  "correct_answer": [
+    "C"
+  ]
+}

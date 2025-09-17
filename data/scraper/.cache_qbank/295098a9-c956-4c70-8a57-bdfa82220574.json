@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>At the turn of the twentieth century, Black residents of Richmond, Virginia, had few formal options for banking and other financial services. To <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> this situation, Maggie Lena Walker chartered the <span data-ssml-sub-alias=\"St\">St.</span> Luke Penny Savings Bank in 1903. The bank went on to provide home loans and savings opportunities to thousands of Black families over the following decades.&nbsp;</p>",
+  "keys": [
+    "7668009c-be8f-4783-839b-b6fbbda61b09"
+  ],
+  "answerOptions": [
+    {
+      "id": "84edcdbe-6a57-4d70-9be5-b490a29a1f24",
+      "content": "<p>prolong</p>"
+    },
+    {
+      "id": "7668009c-be8f-4783-839b-b6fbbda61b09",
+      "content": "<p>rectify</p>"
+    },
+    {
+      "id": "835e78ac-c06f-42c0-9456-853b6bfa5030",
+      "content": "<p>retain</p>"
+    },
+    {
+      "id": "e21fbf60-508f-48d9-9d72-c1341f65ee0e",
+      "content": "<p>highlight</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of how Maggie Lena Walker addressed the lack of financial services available to Black residents in Richmond, Virginia, at the turn of the twentieth century. In this context, \"rectify\" means to correct or remedy something undesirable. The text indicates that by chartering the St. Luke Penny Savings Bank in 1903, Walker took action to provide local Black residents with greater access to financial services like home loans and savings opportunities. This context supports the idea that she aimed to rectify the undesirable situation affecting these residents.</p><p>Choice A is incorrect because in this context, \"prolong\" would mean to lengthen something in time. The text indicates that at the turn of the twentieth century, Black residents in Richmond, Virginia, were faced with a lack of formal banking options. The text then states that Walker founded a new bank that provided these residents with financial services. Therefore, instead of prolonging the situation, she took steps to rectify, or correct, it. Choice C is incorrect because in this context, \"retain\" would mean to continue to have or to keep something. According to the text, at the turn of the twentieth century, Black residents in Richmond, Virginia, had few formal banking options, and Walker chartered a new institution to provide these residents with expanded financial services; therefore, she took steps to rectify, not retain, the situation. Choice D is incorrect because in this context, \"highlight\" would mean to emphasize or call attention to something, but the text indicates that Walker took concrete steps beyond merely drawing attention to the situation Black residents were facing in Richmond, Virginia, at the turn of the twentieth century. According to the text, Walker worked to rectify, or correct, the lack of formal banking options that were available to these residents by establishing a bank that provided them with home loans and savings opportunities.</p>",
+  "externalid": "295098a9-c956-4c70-8a57-bdfa82220574",
+  "correct_answer": [
+    "B"
+  ]
+}

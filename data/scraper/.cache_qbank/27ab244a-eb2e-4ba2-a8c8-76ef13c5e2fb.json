@@ -1,0 +1,38 @@
+{
+  "vaultid": "8416dfb9-931f-49e9-ad35-07ec1b0ec6c5",
+  "keys": [
+    "5d06ba6b-4fad-4bd2-9272-9bab6f3449db"
+  ],
+  "rationale": "<p>Choice C is the best answer because it best describes how the underlined sentence functions in the text as a whole. The first sentence presents the implications of Veeraraghavan&rsquo;s team&rsquo;s study: sunshine exposure during work hours can cause overly optimistic behavior. The underlined sentence then describes the data the team consulted and how they were used (comparing predictions about earnings to what the companies actually earned), and the final sentence presents what the team found in their examination of the data. Thus, the underlined sentence mainly functions to explain part of the methodology used in the team&rsquo;s study. </p><p>Choice A is incorrect because the underlined sentence explains in part how the team conducted their analysis of the effect of sunshine but doesn&rsquo;t address what the team found; a broad summary is instead given in the other two sentences. Choice B is incorrect because the underlined sentence doesn&rsquo;t present any specific examples from the team&rsquo;s comparisons of 29,000 earnings predictions to actual earnings; it simply explains in part how the team conducted their analysis.&nbsp;Choice D is incorrect because the underlined sentence simply explains in part how the team conducted their analysis; the text never mentions any challenges that the team encountered in their study. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the function of the underlined sentence in the overall structure of the text?</p>",
+  "externalid": "27ab244a-eb2e-4ba2-a8c8-76ef13c5e2fb",
+  "stimulus": "<p>A study by a team including finance professor Madhu Veeraraghavan suggests that exposure to sunshine during the workday can lead to overly optimistic behavior. <span role=\"region\" aria-label=\"Referenced Content\"><u>Using data spanning from 1994 to 2010 for a set of US companies, the team compared over 29,000 annual earnings forecasts to the actual earnings later reported by those companies.</u></span> The team found that the greater the exposure to sunshine at work in the two weeks before a manager submitted an earnings forecast, the more the manager&rsquo;s forecast exceeded what the company actually earned that year.</p>",
+  "templateclusterid": "01a0c315-8350-4690-9c23-96dba6a58e9c",
+  "parenttemplatename": "OSP-011-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "37fe9c63-64a6-46e1-bf28-a5e75c4d6bac",
+      "content": "<p>To summarize the results of the team&rsquo;s analysis</p>"
+    },
+    {
+      "id": "d50015f7-b196-4a0a-a9cd-af459c056b35",
+      "content": "<p>To present a specific example that illustrates the study&rsquo;s findings</p>"
+    },
+    {
+      "id": "5d06ba6b-4fad-4bd2-9272-9bab6f3449db",
+      "content": "<p>To explain part of the methodology used in the team&rsquo;s study</p>"
+    },
+    {
+      "id": "2468c244-cfb0-4a9f-9e87-28557746f197",
+      "content": "<p>To call out a challenge the team faced in conducting its analysis</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

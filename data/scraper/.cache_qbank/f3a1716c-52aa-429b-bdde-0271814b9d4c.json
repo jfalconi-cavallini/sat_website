@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>In a three-year study of parasitic infections by <em>Anomotaenia brevis</em> tapeworms in <em>Temnothorax nylanderi</em> ants, entomologist Susanne Foitzik and colleagues found something unexpected: rather than reducing its host&rsquo;s fitness, as is typical of parasites, <em>A. brevis</em> greatly extends the lifespan of a <em>T. nylanderi</em> worker ant and seems to halt the effects of aging. Furthermore, those infected receive special treatment, ceasing their share of labor to sustain the colony and remaining in the nest as uninfected workers feed, groom, and transport them. By contrast, the researchers observed that uninfected workers in parasitized colonies have shortened lifespans, most likely because the <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "5c54ef48-0288-4a14-99c1-c21556241c5a"
+  ],
+  "answerOptions": [
+    {
+      "id": "8c8fb5ef-5646-4710-a776-3775e2037363",
+      "content": "<p>uninfected workers are at high risk for direct exposure to <em>A. brevis</em> in the course of providing social care to the infected workers in the nest.</p>"
+    },
+    {
+      "id": "5c54ef48-0288-4a14-99c1-c21556241c5a",
+      "content": "<p>need to compensate for reduced contributions within the colony while also caring for infected workers is burdensome to the uninfected workers.</p>"
+    },
+    {
+      "id": "d27f6ef9-db5d-40e2-bfff-2b194e6db28c",
+      "content": "<p>high level of activity maintained by the uninfected workers makes them better able than infected workers to quickly disperse when the nest is attacked by a predator.</p>"
+    },
+    {
+      "id": "927a9cbe-060d-46cb-8109-6f0dc1fda6eb",
+      "content": "<p>average lifespan of <em>T. nylanderi</em> worker ants in colonies without parasitic activity typically falls well below three years, the range covered by the study.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The text describes a study examining the relationship between a species of parasitic tapeworm, <em>A. brevis</em>, and its host insect, the <em>T. nylanderi</em> ant. According to the text, researchers were surprised to find that the tapeworm extends the life of its ant host, rather than reducing it. The text goes on to state that the infected ants end up doing less work to sustain the colony and that as a result, the uninfected ants take on the infected ants&rsquo; share of labor in addition to caring for them in their infected state. The study&rsquo;s researchers also observed that the uninfected ants have shorter lifespans than expected. If the infected ants, who are doing less work in the colony, have longer lifespans, it can be inferred that the less an ant works, the longer it will live. The opposite of this statement can also be inferred: the more an ant works, the shorter its life. So, since the workload within the colony is being redistributed so that the infected ants work less while the uninfected ants work more (as they take on the neglected duties of the infected ants and also care for those ants), then it can be inferred that the lifespans of the uninfected ants are shortened because the need to compensate for reduced contributions within the colony while also caring for infected workers is burdensome to the uninfected workers.</p><p>Choice A is incorrect because the text does not indicate how <em>A. brevis</em> is transmitted to the ants or assert that uninfected ants are more likely to be directly exposed to <em>A. brevis</em> while caring for infected ants. Choice C is incorrect because the text makes no mention of the relative abilities of infected and uninfected ants to escape predators: in fact, predators are not mentioned in the text at all. Choice D is incorrect because the text does not supply any information about the average lifespans of the ants in colonies without parasitic activity; the text only indicates factors that lengthen and shorten the lifespans of ants in parasitized colonies.</p>",
+  "externalid": "f3a1716c-52aa-429b-bdde-0271814b9d4c",
+  "correct_answer": [
+    "B"
+  ]
+}

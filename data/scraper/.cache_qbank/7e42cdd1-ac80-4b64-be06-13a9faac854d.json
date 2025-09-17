@@ -1,0 +1,38 @@
+{
+  "vaultid": "4b1f7e8e-bb59-4252-b934-323cc1672e92",
+  "keys": [
+    "eb91ae2f-6691-4605-a05f-aee246c1c9fb"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of nonfinite verb forms within a sentence. Working together with the finite verb \"need,\" the nonfinite to-infinitive verb \"to digest\" is correctly used to form a subordinate clause that describes what the reindeer need.</p><p>Choice A is incorrect because the verb \"digest\" (in either its finite or nonfinite form) can&rsquo;t be used in this way with the finite verb \"need.\" Choice B is incorrect because the finite verb \"will digest\" can&rsquo;t be used in this way with the finite verb \"need.\" Choice D is incorrect because the nonfinite participle \"digesting\" can&rsquo;t be used in this way with the finite verb \"need.\"</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "7e42cdd1-ac80-4b64-be06-13a9faac854d",
+  "stimulus": "<p>The sun never sets during the Arctic summer in the Far North. In response, reindeer in this region must change their sleep habits. Instead of resting when it gets dark, they rest when they need <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> their food.</p>",
+  "templateclusterid": "b0e66b58-4bcd-4149-b251-3f801806354d",
+  "parenttemplatename": "OSP-756-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "bd1a03c3-7a2c-428a-817c-c413c1e29a1f",
+      "content": "<p>digest</p>"
+    },
+    {
+      "id": "1bc71909-4b8b-4881-a38a-0aced598a3ab",
+      "content": "<p>will digest</p>"
+    },
+    {
+      "id": "eb91ae2f-6691-4605-a05f-aee246c1c9fb",
+      "content": "<p>to digest</p>"
+    },
+    {
+      "id": "ac1c9bbc-d444-4fe8-923c-0ae01f12d8fc",
+      "content": "<p>digesting</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

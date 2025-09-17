@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>In the early 1970s, Albert Popa took up graffiti art, spraying his work onto what was at the time an unconventional surface: concrete. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Albert&rsquo;s son David has chosen an unusual canvas for his new art project, <em>Fractured</em>. In this remarkable work, the artist draws charcoal faces onto fragmented ice floes in Finland, creating the visual effect of a face slowly fracturing.</p>",
+  "type": "mcq",
+  "keys": [
+    "a076da0f-4d16-4925-8d17-552ed8e47261"
+  ],
+  "answerOptions": [
+    {
+      "id": "2f8ae770-e9c5-4844-bad1-9f140db24e5f",
+      "content": "<p>However,</p>"
+    },
+    {
+      "id": "26b47257-be18-4807-b87b-6ce1e3ebb1fb",
+      "content": "<p>Indeed,</p>"
+    },
+    {
+      "id": "0b243d35-99a7-4efb-b552-2a25bee88f67",
+      "content": "<p>Second,</p>"
+    },
+    {
+      "id": "a076da0f-4d16-4925-8d17-552ed8e47261",
+      "content": "<p>Likewise,</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. \"Likewise\" logically signals that the information about Albert&rsquo;s son David is similar to the previous information about Albert Popa. Both artists have used unconventional surfaces for their work: Albert used concrete, and David is using ice floes.</p><p>Choice A is incorrect because \"however\" illogically signals that the information about David contrasts with the previous information about Albert Popa. Instead, it is similar to the previous information about Albert Popa. Choice B is incorrect because \"indeed\" illogically signals that the information about David emphasizes or strengthens the previous point about Albert Popa. Instead, it is similar to the previous information; it highlights a similarity between father and son. Choice C is incorrect because \"second\" illogically signals that the information about David is a second point or reason separate from the previous information about Albert Popa. Instead, it is similar to the previous information; it highlights a similarity between father and son.</p>",
+  "externalid": "5ed926eb-3044-40cb-8edd-c39c901a8b19",
+  "correct_answer": [
+    "D"
+  ]
+}

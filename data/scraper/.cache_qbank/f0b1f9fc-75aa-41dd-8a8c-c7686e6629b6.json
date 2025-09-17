@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Radar and sonar can detect objects or people through walls, but they are too costly for consumer use. Researchers Fadel Adib and Dina Katabi have shown, however, that there may be a comparatively <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> alternative: small changes to the Wi-Fi technology used in smartphones can give users a cheap way to count people or even identify their gestures through walls.</p>",
+  "type": "mcq",
+  "keys": [
+    "ad706728-e742-4995-8793-af6f759d0a19"
+  ],
+  "answerOptions": [
+    {
+      "id": "34783b63-3e5d-4170-8e17-4e04ca9eb635",
+      "content": "<p>infrequent</p>"
+    },
+    {
+      "id": "ad706728-e742-4995-8793-af6f759d0a19",
+      "content": "<p>inexpensive</p>"
+    },
+    {
+      "id": "d3002e3e-9580-4647-bd51-fe680c3ed038",
+      "content": "<p>unmistakable</p>"
+    },
+    {
+      "id": "5a573417-f90b-4a72-bcec-dfc17ee696c7",
+      "content": "<p>impractical</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of ways to detect people through walls. In this context, \"inexpensive\" means less costly or low in price. The passage describes two kinds of methods that can be used to \"detect objects or people through walls\": radar and sonar, and changes to the Wi-Fi technology used in smartphones. The word \"comparatively\" before the blank indicates that the best answer would be one that helps to describe a comparison between the two. Radar and sonar are described as \"costly,\" while the method that uses Wi-Fi technology is described as \"cheap\"; therefore, it would be comparatively affordable, or inexpensive.</p><p>Choice A is incorrect because the text indicates that a small modification to the smartphones that many consumers already own would presumably result in consumers using that technology to detect objects or people through walls more regularly, or frequently; therefore, it would not be true that such technology would be comparatively infrequent, or uncommon. Choice C is incorrect because there is nothing in the text to indicate that either radar and sonar or changes to smartphone Wi-Fi technology are capable of being misunderstood or mistaken for something else; therefore, it would not make sense to describe changes to Wi-Fi smartphone technology as comparatively unmistakable, or indisputable. Choice D is incorrect because the text indicates that a small modification to the smartphones that many consumers already own and carry with them would be more functional or practical than radar and sonar, not more impractical, or unrealistic.</p>",
+  "externalid": "f0b1f9fc-75aa-41dd-8a8c-c7686e6629b6",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>In the search for extraterrestrial life, astrobiologists Stuart Bartlett and Michael L. Wong propose that scientists avoid using the term &ldquo;life.&rdquo; <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> researchers should use another word: &ldquo;lyfe.&rdquo; This new term, they argue, could be used to draw distinctions between the known characteristics of life on Earth and the potentially differing characteristics of lyfe on other planets.</p>",
+  "type": "mcq",
+  "keys": [
+    "e82bc787-c63d-4bbb-8914-bea0b8abaf2d"
+  ],
+  "answerOptions": [
+    {
+      "id": "7898d576-ebe7-4877-99a0-b3c56b580653",
+      "content": "<p>Previously,</p>"
+    },
+    {
+      "id": "94b71a0a-c91d-47e4-a8ce-470afae312b7",
+      "content": "<p>Regardless,</p>"
+    },
+    {
+      "id": "c48d63ff-a4af-425c-8e70-66d0715dc818",
+      "content": "<p>There,</p>"
+    },
+    {
+      "id": "e82bc787-c63d-4bbb-8914-bea0b8abaf2d",
+      "content": "<p>Instead,</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. \"Instead\" logically signals that the idea in this sentence&mdash;that researchers should use the word \"lyfe\"&mdash;is an alternative to the idea mentioned in the previous sentence (scientists&rsquo; use of the word \"life\").</p><p>Choice A is incorrect because \"previously\" illogically signals that the idea in this sentence occurs before the action in the first sentence. Instead, the use of \"lyfe\" is an alternative to the previously mentioned use of \"life.\" Choice B is incorrect because \"regardless\" illogically signals that the idea in this sentence is true despite the information in the first sentence. Instead, the use of \"lyfe\" is an alternative to the previously mentioned use of \"life.\" Choice C is incorrect because \"there\" illogically signals that the idea in this sentence occurs in a place mentioned in the previous sentence. Instead, the use of \"lyfe\" is an alternative to the previously mentioned use of \"life.\"</p>",
+  "externalid": "556b6a32-dc40-4eec-96c0-5389bcae5626",
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "ad136a34-f4e9-411c-8e3f-49e0eb2ca97f",
+  "keys": [
+    "f03d0142-8570-4c78-9c61-16d90630bc2b"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is subject&ndash;verb agreement. The singular verb &ldquo;allows&rdquo; agrees in number with the singular subject &ldquo;landing.&rdquo; </p><p>Choice B is incorrect because the plural verb &ldquo;are allowing&rdquo; doesn&rsquo;t agree in number with the singular subject &ldquo;landing.&rdquo; Choice C is incorrect because the plural verb &ldquo;have allowed&rdquo; doesn&rsquo;t agree in number with the singular subject &ldquo;landing.&rdquo; Choice D is incorrect because the plural verb &ldquo;allow&rdquo; doesn&rsquo;t agree in number with the singular subject &ldquo;landing.&rdquo; </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "cf0c5d1f-d0c9-4136-8b34-dcc2ebaf79e2",
+  "stimulus": "<p>The classic children&rsquo;s board game Chutes and Ladders is a version of an ancient Nepalese game, Paramapada Sopanapata<em>.</em> In both games, players encounter &ldquo;good&rdquo; or &ldquo;bad&rdquo; spaces while traveling along a path; landing on one of the good spaces <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> a player to skip ahead and arrive closer to the end goal.</p>",
+  "templateclusterid": "9d0c6b48-d23c-44a5-9007-f52da5071e2e",
+  "parenttemplatename": "OSP-621-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "f03d0142-8570-4c78-9c61-16d90630bc2b",
+      "content": "<p>allows</p>"
+    },
+    {
+      "id": "a829d8c1-87ff-4133-af5b-c730848eaa87",
+      "content": "<p>are allowing</p>"
+    },
+    {
+      "id": "d162f00b-861b-4164-a2f4-9c103a1bbddb",
+      "content": "<p>have allowed</p>"
+    },
+    {
+      "id": "56aeba4d-a75b-42ae-8bc1-4c1dc9678edf",
+      "content": "<p>allow</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

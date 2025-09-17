@@ -1,0 +1,38 @@
+{
+  "vaultid": "d6c90b8e-6669-43cf-8982-7739e998cff0",
+  "keys": [
+    "c6001397-9897-472e-bf4d-1ad4f51413ac"
+  ],
+  "rationale": "<p>Choice A is the best answer. By noting that Selvon is a Trinidadian author and indicating that <em>The Lonely Londoners</em>, published in 1956, is about a group of men who emigrate from the Caribbean to Great Britain after World War II, the sentence effectively introduces Samuel Selvon and his novel to a new audience. </p><p>Choice B is incorrect. The sentence indicates the order in which two of Selvon&rsquo;s novels were written; it doesn&rsquo;t introduce Samuel Selvon and <em>The Lonely Londoners</em> to a new audience. Choice C is incorrect. While the sentence describes the novel <em>The Lonely Londoners</em>, it doesn&rsquo;t mention its author, Samuel Selvon, by name and thus doesn&rsquo;t effectively introduce him to a new audience. Choice D is incorrect. The sentence indicates that two of Selvon&rsquo;s novels include the same characters; it doesn&rsquo;t introduce Samuel Selvon and <em>The Lonely Londoners</em> to a new audience. </p>",
+  "origin": "proteus",
+  "stem": "<p>The student wants to introduce Samuel Selvon and his novel <em>The Lonely Londoners </em>to a new audience. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "externalid": "77881421-3e40-4139-8342-2d1cb10f3af0",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Samuel Selvon was a Trinidadian author.</li>\n<li><em>The Lonely Londoners </em>is one of his most celebrated novels.</li>\n<li>Selvon published the novel in 1956.</li>\n<li>It is about a group of men who emigrate from the Caribbean to Great Britain after World War II.</li>\n<li>Some of <em>The Lonely Londoners</em>&rsquo; characters also appear in Selvon&rsquo;s later novel <em>Moses Ascending</em>.</li>\n</ul>",
+  "templateclusterid": "952e71f8-3db6-48a7-903e-fcb9f6edfaaa",
+  "parenttemplatename": "OSP-769-SYN",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "c6001397-9897-472e-bf4d-1ad4f51413ac",
+      "content": "<p>In 1956, Trinidadian author Samuel Selvon published one of his most celebrated novels, <em>The Lonely Londoners, </em>which is about a group of men who emigrate from the Caribbean to Great Britain after World War II.</p>"
+    },
+    {
+      "id": "ba05df17-68ac-4a81-81c7-0be1011d5738",
+      "content": "<p>Samuel Selvon wrote the novel&nbsp;<em>Moses Ascending&nbsp;</em>after he wrote&nbsp;<em>The Lonely Londoners.&nbsp;</em></p>"
+    },
+    {
+      "id": "6cd19d5d-45c7-4c5f-88ef-4efaade211d6",
+      "content": "<p><em>The Lonely Londoners</em>, a celebrated novel that was published in 1956, depicts post&ndash;World War II Caribbean migration from the perspective of a Trinidadian author.</p>"
+    },
+    {
+      "id": "3faa8930-6006-4ed5-b0a3-e95f504d90a1",
+      "content": "<p>Some of the characters who appear in Samuel Selvon&rsquo;s <em>Moses Ascending </em>also appear in <em>The Lonely Londoners. </em></p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

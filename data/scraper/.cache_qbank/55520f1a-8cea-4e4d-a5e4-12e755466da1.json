@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>In the text, which point does Prospero most directly make about Miranda and her memories?</p>",
+  "stimulus": "<p>The following text is from William Shakespeare&rsquo;s play <em>The Tempest</em>, first performed in 1611. Miranda has lived on an island with her father, Prospero, since she was three years old. Prospero has stated that Miranda likely does not remember anything other than her life on the island.</p>\n<blockquote>\n<p>MIRANDA: &rsquo;Tis far off,</p>\n<p>And rather like a dream than an assurance</p>\n<p>That my remembrance warrants. Had I not</p>\n<p>Four or five women once that tended me?</p>\n<p>&nbsp;</p>\n<p>PROSPERO: Thou hadst, and more, Miranda. But how is it</p>\n<p>That this lives in thy mind? What seest thou else</p>\n<p>In the dark backward and abysm of time?</p>\n<p>If thou remember&rsquo;st ought ere thou camest here,</p>\n<p>How thou camest here thou mayst.</p>\n</blockquote>",
+  "keys": [
+    "cc80656d-61f2-48e7-9ff6-7ef7948573a8"
+  ],
+  "answerOptions": [
+    {
+      "id": "85487af3-1b14-4b42-a7a1-24e6acf94388",
+      "content": "<p>Miranda&rsquo;s reminiscences about her early childhood have a melancholy quality that betrays her discontented view of her current circumstances.</p>"
+    },
+    {
+      "id": "ed1d40ac-ac11-4456-b54b-c100c0dbf93c",
+      "content": "<p>Miranda&rsquo;s doubts about the accuracy of one recollection of a place other than the island are clouding her judgment and seem to be making her reluctant to explore her recollection of traveling to the island.</p>"
+    },
+    {
+      "id": "cc80656d-61f2-48e7-9ff6-7ef7948573a8",
+      "content": "<p>Miranda&rsquo;s ability to summon details of an experience she had before arriving on the island suggests that she may also be able to summon details of her arrival on the island.</p>"
+    },
+    {
+      "id": "da56863c-9d53-4853-b317-8c271f7c034b",
+      "content": "<p>Miranda&rsquo;s impression of a scene is vague because she is remembering a scenario she had daydreamed about as a child rather than a scenario that had occurred in reality.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it presents a point that Prospero makes about Miranda. The text begins with Miranda responding to Prospero&rsquo;s claim that she probably doesn&rsquo;t remember her life before the island. She describes a distant memory, asking if she had \"four or five women\" caring for her. Prospero confirms this (\"thou hadst\") and then asks what else she can recall, stating that because she remembers one thing from the time before she lived on the island (\"ought ere thou camest here\"), she might also remember arriving on the island (\"how thou camest here\"). That is, Prospero indicates that Miranda&rsquo;s ability to summon details of an experience from before her arrival on the island suggests that she may also be able to summon details of her arrival.</p><p>Choice A is incorrect because Prospero doesn&rsquo;t say anything about how Miranda presents her early childhood memory of having several people care for her&mdash;he indicates only his surprise that she remembers something from so long ago (\"the dark backward and abysm of time\") and his thought that she may also be able to recall another childhood event: her arrival on the island. Further, Prospero doesn&rsquo;t suggest that he believes Miranda is discontent in her current circumstances. Choice B is incorrect. Although Miranda suggests some doubt about her recollection of a place other than the island, in that she describes it as \"like a dream\" she can&rsquo;t be certain of, Prospero doesn&rsquo;t mention her uncertainty&mdash;though he himself wonders how it is possible that she correctly recalls something from so long ago (\"abysm of time\"). Rather than indicating that doubt is making Miranda reluctant, Prospero simply states that Miranda may have the ability to remember traveling to the island. Choice D is incorrect. Although Miranda describes a vague impression of several people who cared for her as a young child and states that it is \"rather like a dream\" instead of something she is certain is real, Prospero doesn&rsquo;t indicate that Miranda is remembering a childhood daydream. Instead, he confirms that what Miranda remembers actually happened, answering her question about having had caregivers with \"thou hadst,\" and asks her what else she can remember from long ago.</p>",
+  "externalid": "55520f1a-8cea-4e4d-a5e4-12e755466da1",
+  "correct_answer": [
+    "C"
+  ]
+}

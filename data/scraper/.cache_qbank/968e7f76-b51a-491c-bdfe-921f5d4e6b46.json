@@ -1,0 +1,38 @@
+{
+  "vaultid": "7a081498-2a46-421f-a5bc-be102b7c7804",
+  "keys": [
+    "a30b4875-15a0-45e9-8cf2-2439bd84ffee"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of the fossilized bones of the hominin known as Little Foot. As used in this context, &ldquo;comparable to&rdquo; would mean similar to. The text indicates that the relationship between the fossilized clavicle and shoulder bones of Little Foot and the clavicle and shoulder bones of &ldquo;frequent climbers,&rdquo; such as chimpanzees and gorillas, suggests that Little Foot had adapted to moving around in trees. This context suggests that the relationship between the fossilized bones of Little Foot and the bones of chimpanzees and gorillas is one of similarity&mdash;the Little Foot fossils are likely comparable to the modern ape bones.&nbsp;</p><p>Choice A is incorrect because if the fossilized bones of Little Foot were &ldquo;surpassed by,&rdquo; or exceeded by or made inferior to, the bones of modern apes that are frequent climbers, it wouldn&rsquo;t suggest, as the text says, that Little Foot was adapted to moving around in trees. If anything, learning that Little Foot&rsquo;s clavicle and shoulder bones were surpassed by those of chimpanzees and gorillas would suggest that Little Foot was poorly adapted to climbing.&nbsp;Choice C is incorrect because if Little Foot&rsquo;s fossilized clavicle and shoulder bones were &ldquo;independent of,&rdquo; or not influenced by or affiliated with, the bones of modern apes that climb often, it wouldn&rsquo;t suggest, as the text says, that Little Foot was adapted to moving around in trees.&nbsp;Choice D is incorrect because the text indicates that Little Foot&rsquo;s fossilized bones date to 3.6 million years ago, so they couldn&rsquo;t have been &ldquo;obtained from,&rdquo; or acquired from, the bones of modern apes.&nbsp; &nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "968e7f76-b51a-491c-bdfe-921f5d4e6b46",
+  "stimulus": "<p>Anthropologist Kristian J. Carlson and colleagues examined the fossilized clavicle and shoulder bones of a 3.6-million-year-old early hominin known as &ldquo;Little Foot.&rdquo; They found that these bones were <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the clavicle and shoulder bones of modern apes that are frequent climbers, such as gorillas and chimpanzees, suggesting that Little Foot had adapted to life in the trees.</p>",
+  "templateclusterid": "5d87c92c-0017-4b4e-8355-93e2aab3d592",
+  "parenttemplatename": "OSP-923-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "6d10143c-e050-4e2c-96bb-a9a9c15097d0",
+      "content": "<p>surpassed by</p>"
+    },
+    {
+      "id": "a30b4875-15a0-45e9-8cf2-2439bd84ffee",
+      "content": "<p>comparable to</p>"
+    },
+    {
+      "id": "a73a7eb6-8ed9-42e4-9069-43447d9174a0",
+      "content": "<p>independent of</p>"
+    },
+    {
+      "id": "a164df75-222b-41b8-acfc-d74a4dcad81c",
+      "content": "<p>obtained from</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

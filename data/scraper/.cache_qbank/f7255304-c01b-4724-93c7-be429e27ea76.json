@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>During the English neoclassical period (1660&ndash;1789), many writers imitated the epic poetry and satires of ancient Greece and Rome. They were not the first in England to adopt the literary modes of classical <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> some of the most prominent figures of the earlier Renaissance period were also influenced by ancient Greek and Roman literature.</p>",
+  "keys": [
+    "97c49433-7f57-4040-a796-184301a14b29"
+  ],
+  "answerOptions": [
+    {
+      "id": "cd0f37b4-a216-48be-ad06-4240f9a43d12",
+      "content": "<p>antiquity<span data-ssml-say-as=\"characters\">,</span> however</p>"
+    },
+    {
+      "id": "8c23a99e-a31c-4634-a659-85e6f59d302f",
+      "content": "<p>antiquity<span data-ssml-say-as=\"characters\">,</span> however<span data-ssml-say-as=\"characters\">,</span></p>"
+    },
+    {
+      "id": "97c49433-7f57-4040-a796-184301a14b29",
+      "content": "<p>antiquity<span data-ssml-say-as=\"characters\">,</span> however<span data-ssml-say-as=\"characters\">;</span></p>"
+    },
+    {
+      "id": "e81ec5af-39ca-43f3-b31d-a72f17a53f48",
+      "content": "<p>antiquity<span data-ssml-say-as=\"characters\">;</span> however<span data-ssml-say-as=\"characters\">,</span></p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the punctuation of a supplementary phrase following a clause. This choice uses a comma to separate the supplementary adverb phrase \"however\" from the independent clause it modifies (\"They...antiquity\") and uses a semicolon to join the first independent clause (\"They...antiquity\") and the second independent clause (\"some...literature\"). Further, placing the semicolon after \"however\" indicates that the information in the clause that this is part of (that neoclassical writers were not the first to adopt classical literary modes) is contrary to what might be assumed from the information in the previous sentence (that the neoclassical writers were unique in imitating classical epic poetry and satires).</p><p>Choice A is incorrect because it fails to mark the boundary after \"however\" between the two independent clauses with appropriate punctuation. Choice B is incorrect because the comma after \"however\" can&rsquo;t be used in this way to mark the boundary between the two independent clauses. Choice D is incorrect because placing the semicolon after \"antiquity\" illogically indicates that the information in the clause that this is part of (that prominent Renaissance figures were also influenced by classical literature) is contrary to the information in the previous clause (that neoclassical writers were not the first to adopt classical literary modes).</p>",
+  "externalid": "f7255304-c01b-4724-93c7-be429e27ea76",
+  "correct_answer": [
+    "C"
+  ]
+}

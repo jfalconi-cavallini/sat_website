@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most effectively uses data from the table to complete the statement?</p>",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Annual Car Production in the United States, 1910&ndash;1925</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Year</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Number of cars produced</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Number of companies producing cars</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: center;\">1910</th><td style=\"text-align: center;\">123,990</td><td style=\"text-align: center;\">320</td></tr><tr><th scope=\"row\" style=\"text-align: center;\">1915</th><td style=\"text-align: center;\">548,139</td><td style=\"text-align: center;\">224</td></tr><tr><th scope=\"row\" style=\"text-align: center;\">1920</th><td style=\"text-align: center;\">1,651,625</td><td style=\"text-align: center;\">197</td></tr><tr><th scope=\"row\" style=\"text-align: center;\">1925</th><td style=\"text-align: center;\">3,185,881</td><td style=\"text-align: center;\">80</td></tr></tbody></table></figure></p>\n<p>A student is using the table as part of a social studies class presentation on the US auto industry in the early twentieth century. The student notes that, according to the table, from 1910 to 1925 <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "abcf72f0-d6ac-4d1e-bad3-d98d72a797ec"
+  ],
+  "answerOptions": [
+    {
+      "id": "abcf72f0-d6ac-4d1e-bad3-d98d72a797ec",
+      "content": "<p>the number of cars produced increased but the number of companies producing cars decreased.</p>"
+    },
+    {
+      "id": "77bece04-c7d6-4b87-8373-ade3b0e11d26",
+      "content": "<p>both the number of cars produced and the number of companies producing cars remained unchanged.</p>"
+    },
+    {
+      "id": "498cfa2c-a267-472e-9bfb-5a2c5f3c4ad9",
+      "content": "<p>the number of cars produced decreased but the number of companies producing cars remained unchanged.</p>"
+    },
+    {
+      "id": "27dfaf0a-bbbe-4d33-bfc9-dc38fe3dc1e2",
+      "content": "<p>both the number of cars produced and the number of companies producing cars increased.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most effectively uses data from the table to complete the statement about the US auto industry in the early twentieth century. The table shows the number of cars produced annually and number of companies producing cars in the United States between 1910 and 1925 in increments of five years. According to the table, the number of cars produced consistently increased from one increment to the next, going from 123,990 cars in 1910 to 3,185,881 cars in 1925. At the same time, the table shows that the number of companies producing cars consistently decreased, going from 320 companies in 1910 to only 80 companies in 1925. Thus, the table shows that the number of cars produced increased from 1910 to 1925, even as the number of companies producing cars decreased.</p><p>Choice B is incorrect. The table shows that the number of cars produced in the US increased, going from 123,990 in 1910 to 3,185,881 in 1925, instead of remaining unchanged, and the table also shows that the number of companies producing cars decreased from 320 to 80 instead of remaining unchanged. Choice C is incorrect because the table indicates that the number of cars produced consistently increased from 1910 to 1925, going from 123,990 cars to 3,185,881 cars, instead of decreasing; moreover, the table shows that the number of companies producing cars from 1910 to 1925 declined from 320 to 80 instead of remaining unchanged. Choice D is incorrect because the table indicates that the number of companies producing cars consistently decreased from 1910 to 1925, going from 320 companies to only 80 companies.</p>",
+  "externalid": "8ede9e22-1466-42a3-b2ec-3c9983b93ef3",
+  "correct_answer": [
+    "A"
+  ]
+}

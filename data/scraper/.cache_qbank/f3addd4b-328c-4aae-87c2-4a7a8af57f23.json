@@ -1,0 +1,38 @@
+{
+  "vaultid": "c9c8e171-e8b3-45f8-b24f-51662442b1da",
+  "keys": [
+    "3cac8400-4561-40db-82e4-8b09d1efee2e"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most accurately describes the main purpose of the text, which is to summarize a finding suggesting that some mechanisms in the brains of certain insects resemble mechanisms in mammalian brains. The text begins by explaining that feelings such as pleasure and displeasure are linked to chemical processes in the brain, such as the release of dopamine when one receives a reward. The text then indicates that such processes have been seen in mammals but that researchers have recently observed similar processes involving dopamine in honeybees. Taken together, this information serves to sum up the discovery that some mechanisms in the brains of certain insects may resemble mechanisms linked to feelings such as pleasure and displeasure in mammals. </p><p>Choice A is incorrect because the text doesn&rsquo;t describe any experiments or experimental methods. Instead, the text describes a phenomenon that has been observed in mammals and then presents the recent observations of Huang and colleagues that this phenomenon is also seen in honeybees. Choice B is incorrect because there&rsquo;s nothing in the text to suggest that certain insects can express how they&rsquo;re feeling through particular processes. The text does indicate that certain honeybee behaviors such as foraging are linked to dopamine, but it doesn&rsquo;t suggest that these behaviors enable honeybees to communicate feelings or sensations. Choice D is incorrect because the text presents research showing that certain honeybee behaviors such as foraging are linked to dopamine and therefore may be motivated by similar mechanisms to those in mammalian brains, not that honeybees and mammals behave similarly when there is the possibility of reward for their actions. </p>",
+  "origin": "proteus",
+  "stem": "<p>What choice best describes the main purpose of the text?</p>",
+  "externalid": "f3addd4b-328c-4aae-87c2-4a7a8af57f23",
+  "stimulus": "<p>The field of study called affective neuroscience seeks instinctive, physiological causes for feelings such as pleasure or displeasure. Because these sensations are linked to a chemical component (for example, the release of the neurotransmitter dopamine in the brain when one receives or expects a reward), they can be said to have a partly physiological basis. These processes have been described in mammals, but Jingnan Huang and his colleagues have recently observed that some behaviors of honeybees (such as foraging) are also motivated by a dopamine-based signaling process.</p>",
+  "templateclusterid": "0a145177-886d-4974-98cc-988738090109",
+  "parenttemplatename": "OSP-052-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "a6b32c5b-1417-4bcc-8745-133c2d34f623",
+      "content": "<p>It describes an experimental method of measuring the strength of physiological responses in humans.</p>"
+    },
+    {
+      "id": "131eb252-3005-4adc-a9e9-e7fd27006c5b",
+      "content": "<p>It illustrates processes by which certain insects can express how they are feeling.</p>"
+    },
+    {
+      "id": "3cac8400-4561-40db-82e4-8b09d1efee2e",
+      "content": "<p>It summarizes a finding suggesting that some mechanisms in the brains of certain insects resemble mechanisms in mammalian brains.</p>"
+    },
+    {
+      "id": "5352895e-e4a1-484d-abf8-b0d944f4913a",
+      "content": "<p>It presents research showing that certain insects and mammals behave similarly when there is a possibility of a reward for their actions.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

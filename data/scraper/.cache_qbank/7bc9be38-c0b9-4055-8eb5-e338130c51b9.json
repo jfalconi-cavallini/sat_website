@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best describes the overall purpose of the text?</p>",
+  "stimulus": "<p>The following text is adapted from Pam Mu&ntilde;oz Ryan&rsquo;s 2020 novel <em>Ma&ntilde;analand</em>. In the village where Max lives, there is an old fortress called La Reina. Children in the village say that the fortress is haunted.</p>\n<blockquote>\n<p>For as long as he could remember, Max had begged Pap&aacute; [his father] to take him to see La Reina and the ruins up close. He&rsquo;d be a hero among his friends if he was the first boy to cross the haunted gates! Just because Pap&aacute; didn&rsquo;t believe in ghosts didn&rsquo;t mean they weren&rsquo;t there. Maybe this summer Pap&aacute; would finally take him. He <em>was</em> almost twelve.</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;2020 by Pam Mu&ntilde;oz Ryan</span></p>",
+  "keys": [
+    "402afa18-59c1-4f1d-8d74-483b42d2e81b"
+  ],
+  "answerOptions": [
+    {
+      "id": "16271243-0be3-48d5-a3ed-38183dc73e72",
+      "content": "<p>To portray how proud Max&rsquo;s father is of Max</p>"
+    },
+    {
+      "id": "2ea4d038-5d52-4bfe-b273-3b96f3f9a18c",
+      "content": "<p>To explain why Max doesn&rsquo;t want to grow up yet</p>"
+    },
+    {
+      "id": "11b07a75-a6f0-4057-9df1-86aed0ad66ab",
+      "content": "<p>To criticize Max for disliking summer</p>"
+    },
+    {
+      "id": "402afa18-59c1-4f1d-8d74-483b42d2e81b",
+      "content": "<p>To show how much Max wants to visit La Reina</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most accurately describes the overall purpose of the text. The text indicates that \"for as long as he could remember,\" Max had \"begged\" his father to take him to La Reina. This point is later emphasized in the text by indicating that \"this summer\" his father might \"finally take\" Max to visit La Reina. Thus, the purpose of the text as a whole is to show how much Max wants to visit La Reina.</p><p>Choice A is incorrect. The text does not discuss Papa&rsquo;s feelings toward Max. Rather, it mentions that Max has long wanted Papa to take him to La Reina and that, unlike Max and some other children, Papa does not believe that La Reina is haunted. Choice B is incorrect. The text mentions that Max is \"almost twelve\" at the time, which suggests anticipation of growing up rather than refusal to. Choice C is incorrect. The text indicates that Max hopes to visit La Reina during the current summer, but nothing suggests that Max dislikes summer.</p>",
+  "externalid": "7bc9be38-c0b9-4055-8eb5-e338130c51b9",
+  "correct_answer": [
+    "D"
+  ]
+}

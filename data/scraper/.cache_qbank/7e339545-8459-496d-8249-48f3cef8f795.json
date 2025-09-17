@@ -1,0 +1,38 @@
+{
+  "vaultid": "47f7027a-ac54-407c-ad07-8ae4e43c71f4",
+  "keys": [
+    "9c9892ad-864d-4ed2-b8bd-f0a24735bee4"
+  ],
+  "rationale": "<p>Choice D is the best answer. The sentence contrasts Minnesota&rsquo;s definition of a lake with Wisconsin&rsquo;s, explaining that Minnesota&rsquo;s definition (which takes size into account) is more restrictive than Wisconsin&rsquo;s definition (which doesn&rsquo;t). </p><p>Choice A is incorrect. While the sentence notes that Wisconsin&rsquo;s definition of a lake doesn&rsquo;t take size into account, it doesn&rsquo;t contrast Minnesota&rsquo;s definition with Wisconsin&rsquo;s. Choice B is incorrect. The sentence states that Wisconsin&rsquo;s definition of a lake is different from Minnesota&rsquo;s, but it doesn&rsquo;t clarify how they differ. In other words, it doesn&rsquo;t contrast Minnesota&rsquo;s definition with Wisconsin&rsquo;s. Choice C is incorrect. The sentence indicates how many lakes Wisconsin has according to Minnesota&rsquo;s definition of a lake, but it doesn&rsquo;t clarify how the states&rsquo; definitions differ. In other words, it doesn&rsquo;t contrast Minnesota&rsquo;s definition with Wisconsin&rsquo;s. </p>",
+  "origin": "proteus",
+  "stem": "<p>The student wants to contrast Minnesota&rsquo;s definition of a lake with Wisconsin&rsquo;s. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "externalid": "7e339545-8459-496d-8249-48f3cef8f795",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Minnesota defines a lake as an inland body of water of at least 10 acres.</li>\n<li>Wisconsin&rsquo;s definition of a lake doesn&rsquo;t take size into account.</li>\n<li>By its own definition, Wisconsin has over 15,000 lakes, many smaller than 10 acres.</li>\n<li>By Minnesota&rsquo;s definition, Wisconsin has only about 6,000 lakes.</li>\n</ul>",
+  "templateclusterid": "e58b3929-7d8a-45a4-95fe-cec99eb56154",
+  "parenttemplatename": "OSP-755-SYN",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "f515fd43-9094-44b0-b6ac-9c0155ea6c64",
+      "content": "<p>Wisconsin, which doesn&rsquo;t take size into account in defining a lake, claims that it has over 15,000 lakes.</p>"
+    },
+    {
+      "id": "61f2a874-0bd9-41e4-8af9-78ed19f148ba",
+      "content": "<p>Because its definition of a lake is different from Minnesota&rsquo;s, it is unclear how many lakes Wisconsin really has.</p>"
+    },
+    {
+      "id": "a786885f-9772-485c-93ad-a68e745f50fa",
+      "content": "<p>According to Minnesota&rsquo;s definition of a lake&mdash;an inland body of water of at least 10 acres&mdash;Wisconsin has about 6,000 lakes.</p>"
+    },
+    {
+      "id": "9c9892ad-864d-4ed2-b8bd-f0a24735bee4",
+      "content": "<p>Minnesota&rsquo;s definition of a lake&mdash;an inland body of water of at least 10 acres&mdash;is more restrictive than Wisconsin&rsquo;s, which doesn&rsquo;t take size into account.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

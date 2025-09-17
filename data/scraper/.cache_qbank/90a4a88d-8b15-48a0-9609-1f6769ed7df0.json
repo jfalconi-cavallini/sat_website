@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Based on the texts, how would the author of Text 2 most likely respond to the overall argument presented in Text 1?</p>",
+  "stimulus": "<p>&nbsp;</p><p><span aria-level=\"2\" role=\"heading\"><strong>Text 1</strong></span></p>\n<p>Graphic novels are increasingly popular in bookstores and libraries, but they shouldn&rsquo;t be classified as literature. By definition, literature tells a story or conveys meaning through language only; graphic novels tell stories through illustrations and use language only sparingly, in captions and dialogue. Graphic novels are experienced as series of images and not as language, making them more similar to film than to literature.</p>\n<p>&nbsp;</p><p><span aria-level=\"2\" role=\"heading\"><strong>Text 2</strong></span></p>\n<p>Graphic novels present their stories through both language and images. Without captions and dialogue, readers would be unable to understand what is depicted in the illustrations: the story results from the interaction of text and image. Moreover, Alison Bechdel&rsquo;s <em>Fun Home</em> and many other graphic novels feature text that is as beautifully written as the prose found in many standard novels. Therefore, graphic novels qualify as literary texts.</p>",
+  "type": "mcq",
+  "keys": [
+    "90b8e8b9-aa03-463b-82be-9b71ebb2d5cd"
+  ],
+  "answerOptions": [
+    {
+      "id": "90b8e8b9-aa03-463b-82be-9b71ebb2d5cd",
+      "content": "<p>By asserting that language plays a more important role in graphic novels than the author of Text 1 recognizes</p>"
+    },
+    {
+      "id": "1a2bd4fc-c8fd-415c-b67f-74df939dc216",
+      "content": "<p>By acknowledging that the author of Text 1 has identified a flaw that is common to all graphic novels</p>"
+    },
+    {
+      "id": "44beb725-e879-4269-9767-710a0ab684a8",
+      "content": "<p>By suggesting that the story lines of certain graphic novels are more difficult to understand than the author of Text 1 claims</p>"
+    },
+    {
+      "id": "1b07e188-d3f4-46fb-8442-27623c540ff1",
+      "content": "<p>By agreeing with the author of Text 1 that most graphic novels aren&rsquo;t as well crafted as most literary works are</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately states how the author of Text 2 would most likely respond to the argument presented in Text 1. In arguing that graphic novels shouldn&rsquo;t be classified as literature and are more comparable to film, Text 1 claims that language plays a relatively limited role in graphic novels: images, not language, are the primary means by which graphic novels tell their stories, and language is used \"only sparingly\"&mdash;that is, comparatively very little&mdash;in the form of captions and dialogue. However, the author of Text 2 asserts that language in graphic novels is as equally vital for conveying meaning as images are, since without captions and dialogue, readers wouldn&rsquo;t be able to make sense of the narrative. Moreover, the author of Text 2 argues that there are many graphic novels that are \"beautifully written\" and whose use of language is as accomplished as any standard novel. Because Text 1 argues that language is subordinate to images in graphic novels, whereas Text 2 highlights how language is an essential component of a graphic novel&rsquo;s storytelling, it can reasonably be inferred that the author of Text 2 would say that language plays a more important role in graphic novels than the author of Text 1 recognizes.</p><p>Choice B is incorrect. Although Text 1 indicates that graphic novels shouldn&rsquo;t be classified as literature based on their limited use of language, there&rsquo;s no indication that the author of Text 1 considers this limited use of language as a flaw, just that it doesn&rsquo;t fit the particular definition of \"literature\" proposed in the text. Even if Text 1 had suggested that their use of language was a common flaw of graphic novels, the author of Text 2 emphasizes how many graphic novels are \"beautifully written,\" and would therefore say that their use of language is exemplary, not that it is flawed. Choice C is incorrect because Text 1 doesn&rsquo;t claim that the story lines of graphic novels are generally relatively easy to understand; in addition, Text 2 argues that given their dependence on the interaction of image and text, the stories of graphic novels would be incomprehensible if their captions and dialogue were removed, not that the story lines of some graphic novels are more difficult to understand than Text 1 acknowledges. Choice D is incorrect because the author of Text 1 doesn&rsquo;t imply that graphic novels aren&rsquo;t well crafted, only that they use language too sparingly to fit the definition of \"literature,\" and that their use of images to convey stories makes them more comparable to film than to literature. Even if the author of Text 1 had implied that most graphic novels aren&rsquo;t well crafted, Text 2 refers to the fact that many graphic novels are as beautifully written&mdash;that is, well crafted&mdash;as many standard novels; thus, it wouldn&rsquo;t be accurate to say that the author of Text 2 would agree with the author of Text 1 that most graphic novels aren&rsquo;t well crafted.</p>",
+  "externalid": "90a4a88d-8b15-48a0-9609-1f6769ed7df0",
+  "correct_answer": [
+    "A"
+  ]
+}

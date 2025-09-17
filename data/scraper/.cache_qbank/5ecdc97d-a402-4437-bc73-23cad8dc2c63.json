@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Based on the texts, how would the author of Text 2 most likely respond to the underlined claim in Text 1?</p>",
+  "stimulus": "<p><span role=\"heading\" aria-level=\"2\"><strong>Text 1</strong></span></p>\n<p>An excavation in Chiquihuite Cave in central Mexico has upended the belief that approximately 13,000 years ago, a group known as the Clovis people were the first human inhabitants of North America. More than 200 crude stone tools were found embedded in a layer of earth that is up to 33,150 years old, <span role=\"region\" aria-label=\"Referenced Content\"><u>revealing that humans occupied the cave thousands of years before the Clovis people reached the continent.</u></span></p>\n<p>&nbsp;</p>\n<p><span role=\"heading\" aria-level=\"2\"><strong>Text 2</strong></span></p>\n<p>The objects uncovered in Chiquihuite Cave are intriguing, but it is premature to characterize them as tools. The stone pieces are so roughly shaped that they may have simply fractured from rocks during natural geological activity in the cave. Moreover, their unearthing has thus far not been accompanied by discoveries of other signs of human activity or even traces of human DNA from surfaces.</p>",
+  "type": "mcq",
+  "keys": [
+    "5f396358-bbb9-47d4-9614-927544b71ec7"
+  ],
+  "answerOptions": [
+    {
+      "id": "6f60cc7b-4784-49b7-b609-67920ebecf3d",
+      "content": "<p>By suggesting that it draws a plausible connection between two groups of people but will need to be confirmed with further study</p>"
+    },
+    {
+      "id": "5f396358-bbb9-47d4-9614-927544b71ec7",
+      "content": "<p>By asserting that it rests on an assumption about the stone pieces that is not sufficiently supported by available evidence</p>"
+    },
+    {
+      "id": "e3aed420-a63e-4afe-a155-1c78f6f310e9",
+      "content": "<p>By acknowledging that it will most likely be proved correct when the stone pieces undergo more detailed analysis</p>"
+    },
+    {
+      "id": "128e9d77-968e-452d-995b-91e16ba9bf07",
+      "content": "<p>By pointing out that it fails to account for evidence that the Clovis people were active on the continent as early as is commonly thought</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it reflects how the author of Text 2 would most likely respond to the underlined claim about the Clovis people in Text 1. Text 1 explains that the idea that the Clovis people were the first human inhabitants of North America has been overturned by the unearthing of stone tools in Chiquihuite Cave in Mexico. The tools were found in a layer of earth that is over 33,000 years old&mdash;much older than the Clovis people&rsquo;s arrival 13,000 years ago. The text ends with the claim that the tools reveal that humans lived in the cave long before the Clovis people reached the continent. Text 2, on the other hand, disputes the idea that the stone pieces are definitely tools. Text 2 states that the pieces are so roughly shaped that they may have simply naturally broken off from rocks and, moreover, that no other signs of human activity have been found in the cave. In other words, Text 2 argues that there is no proof yet that humans made the pieces as tools or were even present in the cave. Therefore, the author of Text 2 would most likely say that the claim that humans occupied Chiquihuite Cave long before the Clovis people reached North America rests on an assumption about the stone pieces&mdash;that they are human-made tools&mdash;that is not sufficiently supported by available evidence.</p><p>Choice A is incorrect because Text 1 doesn&rsquo;t claim that human inhabitants of Chiquihuite Cave and the Clovis people had any connection; the author of Text 1 focuses only on the timing of each group&rsquo;s presence in North America. Further, the author of Text 2 makes no mention of the Clovis people and indicates that it isn&rsquo;t clear yet that any human group did inhabit Chiquihuite Cave. Choice C is incorrect because nothing in Text 2 suggests that the author believes the stone pieces probably are human-made tools and will be confirmed as such by further analysis; instead, the author of Text 2 emphasizes the current lack of evidence of human activity in the cave. Choice D is incorrect because Text 2 focuses on the issue of characterizing the stone pieces as tools made by humans, not on the timing of any particular group&rsquo;s activity in North America; further, Text 1 seems to support the common belief that the Clovis people reached North America 13,000 years ago and challenges only the idea that they were the continent&rsquo;s first inhabitants. Therefore, there&rsquo;s no reason to think the author of Text 2 would say that the author of Text 1 overlooks evidence that the Clovis people were active as early as is commonly thought.</p>",
+  "externalid": "5ecdc97d-a402-4437-bc73-23cad8dc2c63",
+  "correct_answer": [
+    "B"
+  ]
+}

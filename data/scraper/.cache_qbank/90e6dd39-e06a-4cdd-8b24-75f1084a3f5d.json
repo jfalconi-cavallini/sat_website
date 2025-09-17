@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>In his 1963 exhibition <em>Exposition of Music&mdash;Electronic Television</em>, Korean American artist Nam June Paik showed how television images could be manipulated to express an artist&rsquo;s perspective. Today, Paik <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> considered the first video artist.</p>",
+  "keys": [
+    "05b748be-6933-4917-87ee-1fa6d13cfc1a"
+  ],
+  "answerOptions": [
+    {
+      "id": "9ee541ae-83f5-4ee2-8a7a-4a405a1ede1b",
+      "content": "<p>will be</p>"
+    },
+    {
+      "id": "b8068937-f6ad-4949-8443-04abab59f094",
+      "content": "<p>had been</p>"
+    },
+    {
+      "id": "bf39024b-3012-4314-8bff-df4c730a50c0",
+      "content": "<p>was</p>"
+    },
+    {
+      "id": "05b748be-6933-4917-87ee-1fa6d13cfc1a",
+      "content": "<p>is</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the use of verbs to express tense. In this choice, the present tense verb \"is,\" used in conjunction with the word \"today,\" correctly indicates that Paik is currently considered the first video artist.</p><p>Choice A is incorrect because the future tense verb \"will be\" doesn&rsquo;t indicate that Paik is currently considered the first video artist. Choice B is incorrect because the past perfect tense verb \"had been\" doesn&rsquo;t indicate that Paik is currently considered the first video artist. Choice C is incorrect because the past tense verb \"was\" doesn&rsquo;t indicate that Paik is currently considered the first video artist.</p>",
+  "externalid": "90e6dd39-e06a-4cdd-8b24-75f1084a3f5d",
+  "correct_answer": [
+    "D"
+  ]
+}

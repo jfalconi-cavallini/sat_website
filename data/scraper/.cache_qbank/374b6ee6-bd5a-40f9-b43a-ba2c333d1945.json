@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>In modern plays, actors typically won&rsquo;t acknowledge the <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> do so breaks the fourth wall, a metaphorical barrier between actors and audiences that allows viewers to suspend the knowledge that they&rsquo;re watching a staged performance.</p>",
+  "type": "mcq",
+  "keys": [
+    "35559212-65f3-4061-92a1-d45c85155b12"
+  ],
+  "answerOptions": [
+    {
+      "id": "47480644-33ea-4d07-94b8-933f40dab4c6",
+      "content": "<p>audience. As to</p>"
+    },
+    {
+      "id": "54c19b96-adaa-48e5-9585-ce7e70dd4d61",
+      "content": "<p>audience to</p>"
+    },
+    {
+      "id": "35559212-65f3-4061-92a1-d45c85155b12",
+      "content": "<p>audience. To</p>"
+    },
+    {
+      "id": "935c9758-7ada-4dc3-ba01-8352e6ce6b1e",
+      "content": "<p>audience, to</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used correctly to mark the boundary between one sentence (\"In modern&hellip;audience\") and another (\"To do&hellip;performance\").</p><p>Choice A is incorrect because it results in a rhetorically unacceptable sentence fragment beginning with \"as.\" Choice B is incorrect because it results in a run-on sentence. The sentences (\"In modern&hellip;audience\" and \"To do&hellip;performance\") are fused without punctuation and/or a conjunction. Choice D is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to mark the boundary between sentences.</p>",
+  "externalid": "374b6ee6-bd5a-40f9-b43a-ba2c333d1945",
+  "correct_answer": [
+    "C"
+  ]
+}

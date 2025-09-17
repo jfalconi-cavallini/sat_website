@@ -1,0 +1,31 @@
+{
+  "stem": "<p>As used in the text, what does the word &ldquo;mingled&rdquo; most nearly mean?</p>",
+  "stimulus": "<p>The following text is adapted from Mercedes de Acosta&rsquo;s 1921 poem &ldquo;Spring and You.&rdquo;</p>\n<blockquote class=\"dap_poemexcerpt\">\n<p>Now, Love and April, and the gold of your</p>\n<p>&ensp;&ensp;&ensp;&ensp;hair,</p>\n<p>Are all <span role=\"region\" aria-label=\"Referenced Content\"><u>mingled</u></span> together</p>\n<p>Like the blending of an exotic dream plant</p>\n<p>With the fragrant perfume of a strange, frail</p>\n<p>&ensp;&ensp;&ensp;&ensp;flower.</p>\n</blockquote>",
+  "type": "mcq",
+  "keys": [
+    "4bbe0475-1f37-4176-96f6-c3c51b439035"
+  ],
+  "answerOptions": [
+    {
+      "id": "a19fcd42-f4f1-4f8b-8486-1ad034148fa2",
+      "content": "<p>Identified</p>"
+    },
+    {
+      "id": "4bbe0475-1f37-4176-96f6-c3c51b439035",
+      "content": "<p>Combined</p>"
+    },
+    {
+      "id": "2603b2c0-30f8-4897-b970-3b27c1bbecc8",
+      "content": "<p>Remembered</p>"
+    },
+    {
+      "id": "4b615bb1-084c-4496-b427-de2f8f30dead",
+      "content": "<p>Celebrated</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because as used in the text, \"mingled\" most nearly means combined. In the text, the speaker refers to several concepts mingling together and then compares this to \"the blending of\" two other things (an exotic plant and the fragrance of a strange flower). This comparison conveys that the speaker views the concepts of love, April, and the gold of someone&rsquo;s hair as being blended together, or combined.</p><p>Choice A is incorrect because \"mingled\" means combined, not identified. The speaker names several concepts (love, April, and the gold color of someone&rsquo;s hair) and then moves to a comparison of their mingling together to \"the blending of\" a plant and the scent of a flower, conveying the idea that the speaker views the concepts as blended together, or combined. Choice C is incorrect. The text as a whole may refer to a memory, but the comparison of the mingling of several concepts (love, April, and the gold color of someone&rsquo;s hair) to \"the blending of\" a plant and the scent of a flower conveys that the speaker views those concepts as actually blended together, or combined, and not simply remembered at the same time. Choice D is incorrect. The speaker refers to several concepts (love, April, and the gold color of someone&rsquo;s hair) and then compares the mingling together of those concepts to \"the blending of\" a plant and the scent of a flower; rather than suggesting that the concepts are celebrated, this comparison conveys that the speaker views the concepts as blended together, or combined.</p>",
+  "externalid": "87db806c-1c2d-4f5c-ae29-5a904de96673",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "2d6ae191-3a4e-4c02-85a5-af8ce2eca322",
+  "keys": [
+    "19dd41d4-6221-49de-b26a-d552054f3484"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of the work of particle physicists. In this context, &ldquo;inspecting&rdquo; means viewing closely in order to examine. The text indicates that as particle physicists, Arce and El-Khadra&rsquo;s work involves using advanced technology to &ldquo;closely examine&rdquo; subatomic particles. In other words, they use technology to inspect small parts of matter that can&rsquo;t be seen by the naked eye. </p><p>Choice A is incorrect because nothing in the text suggests that Arce and El-Khadra spend time &ldquo;selecting,&rdquo; or choosing, subatomic particles for some purpose; the text simply states that the particle physicists use advanced technology to see and study the behavior of those tiny parts of matter. Choice C is incorrect because nothing in the text suggests that Arce and El-Khadra spend time &ldquo;creating&rdquo; subatomic particles, or bringing them into existence; the text simply states that the particle physicists use advanced technology to see and study the behavior of those tiny parts of matter. Choice D is incorrect. In this context, &ldquo;deciding&rdquo; would mean making a final choice or judgment about something. It wouldn&rsquo;t make sense to say that particle physicists get to choose what is and isn&rsquo;t visible to the naked eye, especially when the text presents it as fact that subatomic particles are &ldquo;the smallest detectable parts of matter&rdquo; and would therefore be invisible. The text focuses on Arce and El-Khadra&rsquo;s close observation of those particles, not on any decisions they might make.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "73f9ca81-f6b5-49ab-9b9e-7b80671f70cd",
+  "stimulus": "<p>Particle physicists like Ayana Holloway Arce and Aida El-Khadra spend much of their time <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> what is invisible to the naked eye: using sophisticated technology, they closely examine the behavior of subatomic particles, the smallest detectable parts of matter.</p>",
+  "templateclusterid": "34b796ca-ca60-4e16-8442-8ae2b166f161",
+  "parenttemplatename": "OSP-956-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "f27a88fb-e1f4-4fae-82e7-b80df99904ea",
+      "content": "<p>selecting</p>"
+    },
+    {
+      "id": "19dd41d4-6221-49de-b26a-d552054f3484",
+      "content": "<p>inspecting</p>"
+    },
+    {
+      "id": "2a5ae72b-8dc2-4b93-813e-1410870a15a4",
+      "content": "<p>creating</p>"
+    },
+    {
+      "id": "5d20f537-a0ae-4994-97c6-6f54db252080",
+      "content": "<p>deciding</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

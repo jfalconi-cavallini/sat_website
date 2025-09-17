@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Manul cats are small, shy felines. They live mostly alone in out-of-the-way parts of Asia, such as on Mount Everest. These cats have been difficult to research because their habitats are so <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> large populations of humans.</p>",
+  "type": "mcq",
+  "keys": [
+    "aceaadb2-2878-49a6-befd-dc4444b2845d"
+  ],
+  "answerOptions": [
+    {
+      "id": "c8027248-b76b-4098-981c-feb4d4bef769",
+      "content": "<p>full of</p>"
+    },
+    {
+      "id": "5598e170-3903-486d-baef-088d58e28d6b",
+      "content": "<p>drawn to</p>"
+    },
+    {
+      "id": "20cd04eb-de1b-41eb-a909-58193d33b052",
+      "content": "<p>responsible for</p>"
+    },
+    {
+      "id": "aceaadb2-2878-49a6-befd-dc4444b2845d",
+      "content": "<p>distant from</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of manul cats. The text states that manul cats live in \"out-of-the-way parts of Asia\" (citing the famously remote Mount Everest as an example) and indicates that it is difficult to research the cats because of the location of their habitats. By emphasizing that the habitats are remote in relation to humans, the text conveys that being \"distant from,\" or far from, large groups of humans makes manul cats challenging to study.</p><p>Choice A is incorrect because saying that the habitats of manul cats are \"full of large populations of humans\" would indicate that the cats cohabitate with many humans, which would directly contradict the text&rsquo;s claim that the cats live in \"out-of-the-way\" areas. Choice B is incorrect because the missing words describe an aspect of manul cats&rsquo; habitats, or the areas where they live, and it wouldn&rsquo;t make sense to say that areas could be \"drawn to,\" or attracted by, large groups of humans. Choice C is incorrect. In this context, \"responsible for\" would mean either having an obligation to care for something or being the cause of something, and it wouldn&rsquo;t make sense to say that the habitats of manul cats (the areas where the cats live) would need to care for humans or that the habitats somehow created large human populations.</p>",
+  "externalid": "11826936-eafe-4e3e-bffc-413f20fc3a51",
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>As used in the text, what does the word &ldquo;determine&rdquo; most nearly mean?</p>",
+  "stimulus": "<p>The following text is from the 1989 novel <em>The Ancient Child</em> by Kiowa writer N. Scott Momaday. The main character has achieved tremendous commercial success as a painter.</p>\n<blockquote>\n<p>More and more often he was asked to compromise his art or himself in one way or another, and more often than not he did so, for he was inclined to be passive and na&iuml;ve; it was difficult for him to say no. Those who exhibited his work, who praised and purchased it, and who demanded its proliferation began to <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">determine</span> it.</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;1989 by N. Scott Momaday</span></p>",
+  "type": "mcq",
+  "keys": [
+    "751b6c8b-a79c-4999-b04b-fa5a5a693659"
+  ],
+  "answerOptions": [
+    {
+      "id": "f1ee04af-c6af-4620-9301-c3d715d039a1",
+      "content": "<p>Conclude</p>"
+    },
+    {
+      "id": "751b6c8b-a79c-4999-b04b-fa5a5a693659",
+      "content": "<p>Dictate</p>"
+    },
+    {
+      "id": "187f3a71-42f2-480e-b036-de68bfece448",
+      "content": "<p>Evaluate</p>"
+    },
+    {
+      "id": "cb033321-362f-4cc1-a8ee-eec52d0a48f4",
+      "content": "<p>Select</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because as used in the text \"determine\" most nearly means \"dictate.\" The text describes the relationship between the main character and those who exhibit, praise, and purchase his artwork. The text states that the main character is often asked to change his art or himself based on outside influences, and he usually acquiesces. Because the main character admits that those who support his work often shape it based on their demands, it follows that those outside influences dictate, or guide or dominate, the direction his work takes.</p><p>Choice A is incorrect because the text doesn&rsquo;t suggest that outside influences \"conclude,\" or end, the main character&rsquo;s work. The text states that many supporters of the main character&rsquo;s art \"demand its proliferation,\" not its conclusion. Choice C is incorrect because the text doesn&rsquo;t suggest that outside influences are \"evaluating,\" or judging the main character&rsquo;s work. According to the text, the main character&rsquo;s art has already achieved great commercial success, with many people exhibiting, purchasing, and praising his work. Thus, outsiders have already supported the main character&rsquo;s work and are not questioning or evaluating its success or worth. They are instead influencing its initial direction. Choice D is incorrect because the text doesn&rsquo;t suggest that outside influences \"select,\" or choose the main character&rsquo;s work. According to the text, the main character&rsquo;s art has already achieved great commercial success, with many people exhibiting, purchasing, and praising his work. Thus, outsiders have already supported the main character&rsquo;s work and are not selecting it. They are instead influencing its initial direction.</p>",
+  "externalid": "6580ca6a-cfd2-4b81-8c28-03ae9d76318f",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice most effectively uses data from the table to complete the statement?</p>",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Video Game Availability by Initial Release Years</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Initial release years</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Percentage of games still available</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: center;\">1975&ndash;1979</th><td style=\"text-align: center;\">0.89</td></tr><tr><th scope=\"row\" style=\"text-align: center;\">1980&ndash;1984</th><td style=\"text-align: center;\">3.65</td></tr><tr><th scope=\"row\" style=\"text-align: center;\">1985&ndash;1989</th><td style=\"text-align: center;\">15.38</td></tr><tr><th scope=\"row\" style=\"text-align: center;\">1990&ndash;1994</th><td style=\"text-align: center;\">19.33</td></tr><tr><th scope=\"row\" style=\"text-align: center;\">1995&ndash;1999</th><td style=\"text-align: center;\">14.22</td></tr></tbody></table></figure></p>\n<p>&nbsp;</p>\n<p>In a recent study, researchers found that relatively few video games released over the decades remain available today. For example, only 14.22 percent of games are still available that were initially released in <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "21003d8a-6c70-4128-b11c-5198ca655ba2"
+  ],
+  "answerOptions": [
+    {
+      "id": "0e456259-b320-42c5-9109-21a4ed8e1558",
+      "content": "<p>2000&ndash;2004.</p>"
+    },
+    {
+      "id": "21003d8a-6c70-4128-b11c-5198ca655ba2",
+      "content": "<p>1995&ndash;1999.</p>"
+    },
+    {
+      "id": "79717482-2fe9-46cc-8f14-c02e110b161e",
+      "content": "<p>1970&ndash;1974.</p>"
+    },
+    {
+      "id": "54a4c064-c415-4583-9709-deaa9d1016a8",
+      "content": "<p>1985&ndash;1989.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most effectively uses data from the table to complete the statement about video game availability. The text states that just a few games released in the past are available today and then indicates that there is a period of years from which only 14.22 percent of the games released are available. The table shows that 14.22 percent of games are still available from the years 1995&ndash;1999.</p><p>Choice A is incorrect because the years 2000&ndash;2004 are not represented in the table. Choice C is incorrect because the years 1970&ndash;1974 are not represented in the table. Choice D is incorrect because the years 1985&ndash;1989 correspond to a percentage of games still available of 15.38 percent, not 14.22 percent.</p>",
+  "externalid": "a9165713-4da8-48bf-91b0-7def09cee451",
+  "correct_answer": [
+    "B"
+  ]
+}

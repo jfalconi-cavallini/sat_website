@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Dolores Huerta&rsquo;s advocacy on behalf of farmworkers was rooted in her experience as a schoolteacher in Stockton, California, in the early 1950s. Hoping to help her students and their families outside the <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Huerta left teaching to start the Stockton chapter of the Community Service Organization, a group focused on the needs of local farmworkers.</p>",
+  "type": "mcq",
+  "keys": [
+    "4f50681f-270c-4cf1-beba-fac6729a7a05"
+  ],
+  "answerOptions": [
+    {
+      "id": "f3e95e7e-a6ab-465a-970e-f4531bd2a942",
+      "content": "<p>classroom.</p>"
+    },
+    {
+      "id": "018f0868-4d9b-402f-8be8-31eabfaafb0f",
+      "content": "<p>classroom;</p>"
+    },
+    {
+      "id": "4f50681f-270c-4cf1-beba-fac6729a7a05",
+      "content": "<p>classroom,</p>"
+    },
+    {
+      "id": "225ccfb2-280e-4d3d-bcee-a9f351876bf8",
+      "content": "<p>classroom</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of punctuation within a sentence. This choice correctly uses a comma to mark the boundary between the introductory participial phrase (\"Hoping&hellip;classroom\") and the main clause (\"Huerta&hellip;farmworkers\").</p><p>Choice A is incorrect because it results in a rhetorically unacceptable sentence fragment beginning with \"hoping.\" Choice B is incorrect because a semicolon can&rsquo;t be used in this way to mark the boundary between the participial phrase (\"Hoping&hellip;classroom\") and the main clause (\"Huerta&hellip;farmworkers\"). Choice D is incorrect because it fails to mark the boundary between the participial phrase (\"Hoping&hellip;classroom\") and the main clause (\"Huerta&hellip;farmworkers\").</p>",
+  "externalid": "415cb7f4-e324-4f77-b0c2-e3968e90bc06",
+  "correct_answer": [
+    "C"
+  ]
+}

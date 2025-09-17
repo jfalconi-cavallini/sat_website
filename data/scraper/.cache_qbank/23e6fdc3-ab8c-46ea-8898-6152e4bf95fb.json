@@ -1,0 +1,38 @@
+{
+  "vaultid": "e4e5fe5f-51d4-4764-95e3-d9a20432d88c",
+  "keys": [
+    "8415e452-37ca-46b2-a284-17a250a4b49d"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the fashion resale market&rsquo;s continued growth. As used in this context, &ldquo;predicted&rdquo; means forecast, or indicated that something would happen in the future. The text indicates that the fashion resale market made a lot of money in 2019 and that some analysts expected the market to continue to grow. This context suggests that the analysts believed that the fashion resale market was going to make more money than it had already made, with the analysts indicating that revenues would more than double by 2028. </p><p>Choice A is incorrect because it wouldn&rsquo;t make sense in context to say that some analysts &ldquo;produced,&rdquo; or manufactured or brought about, the increase in future revenues of the fashion resale market. The analysts themselves couldn&rsquo;t have brought about the future revenue growth, since, as the text suggests, they were merely in the position of drawing conclusions about future fashion resale market revenue based on 2019 revenue. Choice B is incorrect because the text indicates that some analysts expected the fashion resale market to continue to grow in the future, not that they &ldquo;denied,&rdquo; or rejected, this notion. Nothing in the text supports the idea that these analysts thought the revenues wouldn&rsquo;t grow. Choice C is incorrect because the text indicates that some analysts expected the fashion resale market to continue to grow in the future, not that they &ldquo;worried,&rdquo; or felt concerned, that revenue would significantly increase by 2028. Nothing in the text suggests that the analysts felt concerned about the increase; rather, the text suggests that the increase would represent a favorable outcome, since it would mean that the fashion resale market grew to generate even more revenue. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "23e6fdc3-ab8c-46ea-8898-6152e4bf95fb",
+  "stimulus": "<p>The fashion resale market, in which consumers purchase secondhand clothing from stores and online sellers, generated nearly $30 billion globally in 2019. Expecting to see continued growth, some analysts <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> that revenues will more than double by 2028. </p>",
+  "templateclusterid": "816328df-f22d-422f-b1b7-697c06b068b1",
+  "parenttemplatename": "OSP-967-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "468baff5-bdca-4739-87a4-7b6702d92c59",
+      "content": "<p>produced</p>"
+    },
+    {
+      "id": "7d9d1743-1762-4411-b5fa-41f5f01e8769",
+      "content": "<p>denied</p>"
+    },
+    {
+      "id": "700eba34-ad2a-4777-9002-dd99a68f5e9f",
+      "content": "<p>worried</p>"
+    },
+    {
+      "id": "8415e452-37ca-46b2-a284-17a250a4b49d",
+      "content": "<p>predicted</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

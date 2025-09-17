@@ -1,0 +1,38 @@
+{
+  "vaultid": "870d3f5a-c52f-4a64-a0b4-a2a7eaffd852",
+  "keys": [
+    "c088144b-8cc8-494f-a401-ca642b74914c"
+  ],
+  "rationale": "<p>Choice C is the best answer because as used in the text, &ldquo;simply&rdquo; most nearly means easily, or involving minimal difficulty or effort. The text first provides Alice&rsquo;s reflections on her plan to gain access to a garden and then offers commentary on her plan by the novel&rsquo;s narrator. The text indicates that a reason Alice likes her plan despite not being fully thought through is that she nonetheless believes it can be efficiently arranged. In other words, the text indicates that one of the supposed benefits of Alice&rsquo;s plan is that it can be easily arranged. </p><p>Choice A is incorrect because the text describes how Alice&rsquo;s plan can be arranged, and it wouldn&rsquo;t make sense to say that it can be arranged &ldquo;faintly,&rdquo; or with little strength or not strongly. Instead, the text indicates that the plan can be arranged with little difficulty.&nbsp;Choice B is incorrect. Although in some contexts &ldquo;simply&rdquo; can mean quickly, hastily, or hurriedly, the word &ldquo;hastily&rdquo; indicates that something is done too quickly. Although it may be true that Alice&rsquo;s plan was made in haste, the text doesn&rsquo;t focus on this aspect of her plan. Instead, the text focuses on the plan&rsquo;s seemingly good qualities, saying that Alice thinks of it as &ldquo;the best,&rdquo; and the narrator refers to it as &ldquo;excellent&rdquo; and &ldquo;neatly,&rdquo; or efficiently, arranged. Choice D is incorrect. Although in some contexts &ldquo;simply&rdquo; can mean foolishly, or lacking good sense, it doesn&rsquo;t have this meaning in this context. Although the text says that Alice doesn&rsquo;t know how to go about her plan, it begins by presenting her plan in a positive light: Alice describes her plan as &ldquo;the best,&rdquo; and the narrator refers to the plan as &ldquo;excellent&rdquo; and &ldquo;neatly,&rdquo; or efficiently, arranged. </p>",
+  "origin": "proteus",
+  "stem": "<p>As used in the text, what does the word &ldquo;simply&rdquo; most nearly mean?</p>",
+  "externalid": "adaad827-47ac-4562-bba0-852ef6d03236",
+  "stimulus": "<p>The following text is adapted from Lewis Carroll&rsquo;s 1865 novel <em>Alice&rsquo;s Adventures in Wonderland</em>.</p>\n<blockquote>\n<p>&ldquo;The second thing is to find my way into that lovely garden. I think that will be the best plan.&rdquo; It sounded like an excellent plan, no doubt, and very neatly and <span role=\"region\" aria-label=\"Referenced Content\"><u>simply</u></span> arranged; the only difficulty was, that Alice had not the smallest idea how to set about it.</p>\n</blockquote>",
+  "templateclusterid": "be5b3add-983c-4de7-84ed-d853eefa9025",
+  "parenttemplatename": "OSP-034-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "78ce1266-0b7f-403f-b2c6-512e880a5f00",
+      "content": "<p>Faintly</p>"
+    },
+    {
+      "id": "7bcc3b57-a1c9-430e-be91-d8a2ce2ff1c5",
+      "content": "<p>Hastily</p>"
+    },
+    {
+      "id": "c088144b-8cc8-494f-a401-ca642b74914c",
+      "content": "<p>Easily</p>"
+    },
+    {
+      "id": "e221329a-eeb4-448d-8d3b-5319c23be575",
+      "content": "<p>Foolishly</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

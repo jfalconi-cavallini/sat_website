@@ -1,0 +1,38 @@
+{
+  "vaultid": "b9062a7d-895b-44eb-8eb9-dba5da3485da",
+  "keys": [
+    "d113a2df-45b4-4fe4-bc14-5b5aa53037ac"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the use of verb forms within a sentence. The nonfinite present participle verb &ldquo;looking&rdquo; is correctly used to form a subordinate clause that describes the intent behind how L&rsquo;Engle begins her novel. </p><p>Choice A is incorrect because the finite past tense verb &ldquo;looked&rdquo; can&rsquo;t be used in this way to form a subordinate clause. Choice B is incorrect because the finite present tense verb &ldquo;looks&rdquo; can&rsquo;t be used in this way to form a subordinate clause. Choice C is incorrect because the finite present progressive tense verb &ldquo;is looking&rdquo; can&rsquo;t be used in this way to form a subordinate clause. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "f6bd4a4e-3f11-428d-82e6-e1619b5be11c",
+  "stimulus": "<p>Author Madeline L&rsquo;Engle, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> to create a suspenseful tone that draws the reader in, begins her novel <em>A Wrinkle in Time</em> with descriptions of &ldquo;wraithlike shadows&rdquo; and &ldquo;the frenzied lashing of the wind.&rdquo;</p>",
+  "templateclusterid": "4f5d0c18-48be-46f7-8f63-6ae144c5d9cf",
+  "parenttemplatename": "OSP-728-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "19a596ff-1add-49f9-ade7-10c51db227ea",
+      "content": "<p>looked</p>"
+    },
+    {
+      "id": "0a269a3c-c964-4f54-91fd-4195a8aba70d",
+      "content": "<p>looks</p>"
+    },
+    {
+      "id": "4a88490b-84a6-408d-90aa-ab9af5a9df6f",
+      "content": "<p>is looking</p>"
+    },
+    {
+      "id": "d113a2df-45b4-4fe4-bc14-5b5aa53037ac",
+      "content": "<p>looking</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

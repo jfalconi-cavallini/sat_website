@@ -1,0 +1,38 @@
+{
+  "vaultid": "fa7b8f89-523b-4a74-984c-5a5aa2c933e9",
+  "keys": [
+    "6752f11a-8fde-4cad-9a3d-e7f900365237"
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents the conclusion that most logically follows from the text&rsquo;s discussion of leafy spurge and engineered DNA. The text establishes that using chemical herbicides to control leafy spurge in North America can also harm other plants nearby. The text then indicates that it might be possible to use engineered DNA to prevent plants from reproducing, which would be useful for &ldquo;exclusively targeting&rdquo; leafy spurge. If it&rsquo;s possible to exclusively target leafy spurge with engineered DNA&mdash;meaning that only leafy spurge is affected by the engineered DNA&mdash;and prevent the plant from reproducing, then leafy spurge numbers could be reduced &ldquo;without harming other organisms.&rdquo; </p><p>Choice A is incorrect because the text raises the possibility of using engineered DNA to prevent leafy spurge from reproducing, not to make individual leafy spurge plants more vulnerable to chemical herbicides that already exist.&nbsp;Choice B is incorrect because the text doesn&rsquo;t describe any ecological benefits of leafy spurge in North America; instead, the text is focused on using engineered DNA to prevent leafy spurge from reproducing and thereby reduce its numbers. The only ecological effects of leafy spurge in North America that are described in the text are harmful.&nbsp;Choice C is incorrect because the text describes the possibility of using engineered DNA to prevent leafy spurge from reproducing; it doesn&rsquo;t offer a way to enable cattle to eat leafy spurge without becoming sick.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "6d69ca0b-7396-4810-a1bf-106bf87f045a",
+  "stimulus": "<p><em>Euphorbia esula</em> (leafy spurge) is a Eurasian plant that has become invasive in North America, where it displaces native vegetation and sickens cattle. <em>E. esula</em> can be controlled with chemical herbicides, but that approach can also kill harmless plants nearby. Recent research on introducing engineered DNA into plant species to inhibit their reproduction may offer a path toward exclusively targeting <em>E. esula</em>, consequently <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "5a876bfe-6622-49f9-8167-c332267f2e93",
+  "parenttemplatename": "OSP-001-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "2b9c7657-7ab7-4b3b-94b8-f7b09815a496",
+      "content": "<p>making individual <em>E. esula</em> plants more susceptible to existing chemical herbicides.</p>"
+    },
+    {
+      "id": "9e4a0298-4daf-46be-bd7e-4a4174cee624",
+      "content": "<p>enhancing the ecological benefits of <em>E. esula</em> in North America.</p>"
+    },
+    {
+      "id": "4dd1b85d-7bd4-4461-8abc-50518e2804e9",
+      "content": "<p>enabling cattle to consume <em>E. esula&nbsp;</em>without becoming sick.</p>"
+    },
+    {
+      "id": "6752f11a-8fde-4cad-9a3d-e7f900365237",
+      "content": "<p>reducing invasive <em>E. esula</em> numbers without harming other organisms.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

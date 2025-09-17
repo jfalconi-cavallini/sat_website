@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>The morphological novelty of echinoderms&mdash;marine invertebrates with radial symmetry, usually starlike, around a central point&mdash;impedes comparisons with most other animals, in which bilateral symmetry on an anterior-posterior (head to tail) axis through a trunk is typical. Particularly puzzling are sea stars, thought to have evolved a headless layout from a known bilateral origin. Applying genomic knowledge of <em>Saccoglossus kowalevskii</em> acorn worms (close relatives of sea stars, and thus expected to have similar markers for corresponding anatomical regions) to the body patterning genes of <em>Patiria miniata</em> sea stars, Laurent Formery <span data-ssml-sub-alias=\"et al\">et al.</span> observed activity only in anterior genes across <em><span data-ssml-sub-alias=\"P\">P.</span> miniata</em>&rsquo;s entire body and some posterior genes limited to the edges, suggesting that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "47dfeffb-82c7-4a0c-9384-14f92af9a0ad"
+  ],
+  "answerOptions": [
+    {
+      "id": "4180cf85-c572-4011-a51e-49d8cde13e5f",
+      "content": "<p>despite the greater prevalence of anterior genes in sea stars&rsquo; genetic makeup, posterior genes active at the body&rsquo;s perimeter are primarily responsible for the starlike layout that distinguishes sea stars&rsquo; radial symmetry from that of other echinoderms.</p>"
+    },
+    {
+      "id": "9d2012ba-875c-449e-a22f-ce98cd07e68d",
+      "content": "<p>contrary to the belief that they evolved from early ancestors with the bilateral form typical of many other animals, sea stars instead originated with an atypical body layout that was neither bilaterally nor radially symmetrical.</p>"
+    },
+    {
+      "id": "883b1069-8080-4363-86fe-41574c1ce527",
+      "content": "<p>although the two species are closely related, there is only minimal correspondence in the genetic markers for head, tail, and trunk region development in <em><span data-ssml-sub-alias=\"P\">P.</span> miniata</em> sea stars and <em><span data-ssml-sub-alias=\"S\">S.</span> kowalevskii</em> acorn worms.</p>"
+    },
+    {
+      "id": "47dfeffb-82c7-4a0c-9384-14f92af9a0ad",
+      "content": "<p>rather than undergoing changes resulting in the eventual elimination of a head region in their radial body plan, as previously assumed, sea stars&rsquo; morphology evolved to completely lack a trunk and consist primarily of a head region.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the morphology (form and structure) of sea stars, a type of echinoderm. The text indicates that echinoderms have radially symmetrical body plans (symmetrical around a central point, usually in the form of a star), whereas most animals have bilaterally symmetrical body plans (symmetrical along an axis running from head to tail through a trunk). According to the text, sea stars are unusual echinoderms because, despite their radial body plan, they descended from known bilateral ancestors. This shift in body plan was thought to be a process of losing the genetic markers associated with the head region. The text explains that by comparing the genes of one sea star species (<em>P.</em> <em>miniata</em>) to those of a close relative, the acorn worm, researchers determined that instead, anterior (head) genes are active across the sea star&rsquo;s entire body, posterior (tail) genes are active in limited, peripheral locations of the body, and no trunk-related genes are active. This finding strongly suggests that, rather than becoming \"headless\" as they evolved from a bilateral ancestor, sea stars developed a body plan consisting almost entirely of a head region with a minimal tail region and no trunk region present.</p><p>Choice A is incorrect because the text doesn&rsquo;t identify how any particular region of sea stars&rsquo; bodies influences the layout of sea stars&rsquo; radial symmetry. Moreover, the text indicates that the radial symmetry of echinoderms is \"usually starlike,\" not that a starlike layout distinguishes sea stars from other echinoderms. Choice B is incorrect because the text doesn&rsquo;t suggest that the idea that sea stars evolved from an ancestor with bilateral symmetry is incorrect (describing the bilateral origin as \"known\") and doesn&rsquo;t address any body plans other than those with radial or bilateral symmetry. The text strongly suggests that rather than revealing something about sea stars&rsquo; origin, Formery et al.&rsquo;s findings contradict the assumption that the current body plan of sea stars is \"headless.\" Choice C is incorrect because the text suggests that Formery et al. were able to make determinations about <em>P. miniata</em> sea stars&rsquo; body plan based on the comparability of genetic markers between <em>P. miniata </em>and <em>S. kowalevskii </em>acorn worms. The text indicates only that little or no activity was observed in certain types of genes associated with body development in <em>P. miniata</em>, not that those genes turned out to largely differ from body-development genes in <em>S. kowalevskii</em>.</p>",
+  "externalid": "350515f3-0f56-40e1-b5ce-af122f093fe5",
+  "correct_answer": [
+    "D"
+  ]
+}

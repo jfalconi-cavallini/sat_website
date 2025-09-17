@@ -1,0 +1,38 @@
+{
+  "vaultid": "d3c8559f-29cc-4f61-b9b9-9477f4cfa0c9",
+  "keys": [
+    "28f918f4-38bd-4062-bc9e-27d9ade24d93"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the punctuation of a restrictive coordinated noun phrase. No punctuation is needed within or around the coordinated noun phrase &ldquo;researchers Roberto Scandone and Christopher Kilburn&rdquo; because it would create an illogical separation between the noun &ldquo;researchers&rdquo; and the coordinated noun phrase &ldquo;Roberto Scandone and Christopher Kilburn.&rdquo; </p><p>Choice A is incorrect because no punctuation is needed. Placing a pair of commas around the coordinated noun phrase &ldquo;Roberto Scandone and Christopher Kilburn&rdquo; creates an illogical separation between the noun &ldquo;researchers&rdquo; and the aforementioned coordinated noun phrase. In this case, it illogically suggests that researchers in general bear the specific names Roberto Scandone and Christopher Kilburn. Choice B is incorrect because no punctuation is needed between the noun &ldquo;researchers&rdquo; and the coordinated noun phrase &ldquo;Roberto Scandone and Christopher Kilburn.&rdquo; Choice D is incorrect because no punctuation is needed within the coordinated noun phrase &ldquo;Roberto Scandone and Christopher Kilburn.&rdquo; </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "ac4962dd-95b7-4b55-a625-8e38af6f3f37",
+  "stimulus": "<p>The city of Pompeii, which was buried in ash following the eruption of Mount Vesuvius in 79 CE, continues to be studied by archaeologists. Unfortunately, as <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> attest, archaeological excavations have disrupted ash deposits at the site, causing valuable information about the eruption to be lost. &nbsp; &nbsp;</p>",
+  "templateclusterid": "cca44d3b-1c19-4c32-986f-62bedbd4d9ee",
+  "parenttemplatename": "OSP-652-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "4998f609-9805-4740-ba12-07dbf2fbd647",
+      "content": "<p>researchers, Roberto Scandone and Christopher Kilburn,</p>"
+    },
+    {
+      "id": "2ee5d643-fa2d-4e78-9ec3-21516872ebc2",
+      "content": "<p>researchers, Roberto Scandone and Christopher Kilburn</p>"
+    },
+    {
+      "id": "28f918f4-38bd-4062-bc9e-27d9ade24d93",
+      "content": "<p>researchers Roberto Scandone and Christopher Kilburn</p>"
+    },
+    {
+      "id": "a8b10737-142e-47ac-89b0-ea53c09d59a2",
+      "content": "<p>researchers Roberto Scandone, and Christopher Kilburn</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "9cfae9cf-72f1-400f-8edc-d8deb7daf480",
+  "keys": [
+    "971e5f9c-a415-467a-a2d8-10d113b3ec5a"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of verbs to express tense in a sentence. In this choice, the present tense verb &ldquo;get&rdquo; is consistent with the other present tense verbs (&ldquo;are,&rdquo; &ldquo;travel,&rdquo; and &ldquo;pack&rdquo;) used to describe the Sherpas and their activities. </p><p>Choice B is incorrect. The past perfect verb &ldquo;had gotten&rdquo; isn&rsquo;t consistent with the other present tense verbs used to describe the Sherpas and their activities. Choice C is incorrect. The past tense verb &ldquo;got&rdquo; isn&rsquo;t consistent with the other present tense verbs used to describe the Sherpas and their activities. Choice D is incorrect. The past progressive verb &ldquo;were getting&rdquo; isn&rsquo;t consistent with the other present tense verbs used to describe the Sherpas and their activities. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "5ee14bc4-965c-432e-90ad-8f3144cd7889",
+  "stimulus": "<p>Led by Syrian American astronomer Shadia Habbal, the Solar Wind Sherpas are an intrepid team of scientists who travel the globe to study solar winds, the streams of particles emanating from the Sun that are only visible from certain locations during a total solar eclipse. When such an eclipse is imminent, the Sherpas pack up their telescopes and <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> ready.</p>",
+  "templateclusterid": "882c5fda-f95a-4e1b-b6a6-3a81f4a044b8",
+  "parenttemplatename": "OSP-761-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "971e5f9c-a415-467a-a2d8-10d113b3ec5a",
+      "content": "<p>get</p>"
+    },
+    {
+      "id": "be4fc678-e8c0-4ab9-be10-8b0d6144fa80",
+      "content": "<p>had gotten</p>"
+    },
+    {
+      "id": "2c290468-9a2f-4158-8c31-c2d9e84273a7",
+      "content": "<p>got</p>"
+    },
+    {
+      "id": "d84174d5-6f31-4106-8b90-c267aeb36544",
+      "content": "<p>were getting</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

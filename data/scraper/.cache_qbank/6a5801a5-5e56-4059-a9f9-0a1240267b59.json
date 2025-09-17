@@ -1,0 +1,38 @@
+{
+  "vaultid": "61dc09ce-0054-44af-8827-475dea1b43bc",
+  "keys": [
+    "81624dc0-e6f5-4af0-b84b-7b922ec9b299"
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents a statement about microbes with which Fierer&rsquo;s team (Text 1) and the author of Text 2 would most likely agree. Text 1 states that microbes usually thrive in very harsh conditions, and so Fierer&rsquo;s team was surprised when samples collected from an extremely cold and dry area of Antarctica didn&rsquo;t appear to contain any life. Fierer&rsquo;s team says that though this doesn&rsquo;t conclusively prove there are no microbes in the area, it suggests that microbes would have a notably difficult time surviving in the environment. The author of Text 2 says it&rsquo;s unlikely that there would be no microbes at all in the Antarctic study site from which Fierer&rsquo;s team retrieved soil samples and that there may have been hard-to-detect microbes in the samples. However, the presence of only a few microbes in the Antarctic samples rather than the billions found in a typical soil sample (which would presumably be much easier to detect) would illustrate conditions in the Antarctic soil that make it difficult for microbes to thrive. Since Fierer&rsquo;s team says that the seeming absence of microbes in the Antarctic samples suggests an unusually harsh environment and the author of Text 2 says that even if there are a few undetectable microbes in the samples, the relatively tiny number of microbes would also suggest an unusually harsh environment, then Fierer&rsquo;s team and the author of Text 2 would most likely agree that most microbes are unable to withstand the soil conditions at the Antarctic study site. </p><p>Choice A is incorrect. The samples taken by Fierer&rsquo;s team were from an area of Antarctica that is described in part as extremely dry, and these samples didn&rsquo;t appear to have any life. Therefore, even though these samples also came from an extremely cold area, Fierer&rsquo;s team wouldn&rsquo;t argue based on the evidence available that microbes were better able to survive in dry conditions than in areas with harsh temperatures. Moreover, the author of Text 2 says that microbes are found in virtually every environment on Earth but doesn&rsquo;t compare dry environments and harsh environments. Choice B is incorrect. Nothing in Text 1 indicates that another collection of samples from the Antarctic study site might yield different results from the samples already taken by Fierer&rsquo;s team. The author of Text 2 does state that microbes are found in virtually every environment on Earth and suggests that new technology may be better able to detect so few microbes in a soil sample, but the author of Text 2 concludes that the unusual absence of microbes in the Antarctic samples is evidence of the harsh Antarctic environment. Therefore, there is no reason to believe that the author of Text 2 thinks that another sample drawn from that same harsh environment would yield a much higher number of microbes. Choice C is incorrect. The author of Text 2 does speculate that there may have been so few microbes in the Antarctic samples that current technology couldn&rsquo;t detect them, but the author doesn&rsquo;t speculate that this is due to the size of the microbes. Moreover, nothing that Fierer&rsquo;s team says suggests that they are speculating that their samples might have microbes that are smaller than microbes in typical soil samples. </p>",
+  "origin": "proteus",
+  "stem": "<p>Based on the texts, Fierer&rsquo;s team and the author of Text 2 would most likely agree with which statement about microbes?</p>",
+  "externalid": "6a5801a5-5e56-4059-a9f9-0a1240267b59",
+  "stimulus": "<p><span role=\"heading\" aria-level=\"2\"><strong>Text 1</strong></span></p>\n<p>Microbes are tiny organisms in the soil, water, and air all around us. They thrive even in very harsh conditions. That&rsquo;s why Noah Fierer and colleagues were surprised when soil samples they collected from an extremely cold, dry area in Antarctica didn&rsquo;t seem to contain any life. The finding doesn&rsquo;t prove that there are no microbes in that area, but the team says it does suggest that the environment severely restricts microbes&rsquo; survival.</p>\n<p>&nbsp;</p>\n<p><span role=\"heading\" aria-level=\"2\"><strong>Text 2</strong></span></p>\n<p>Microbes are found in virtually every environment on Earth. So it&rsquo;s unlikely they would be completely absent from Fierer&rsquo;s team&rsquo;s study site, no matter how extreme the environment is. There were probably so few organisms in the samples that current technology couldn&rsquo;t detect them. But since a spoonful of typical soil elsewhere might contain billions of microbes, the presence of so few in the Antarctic soil samples would show how challenging the conditions are.</p>",
+  "templateclusterid": "dcf77a1a-cbb1-4643-b82c-56297df59a1e",
+  "parenttemplatename": "OSP-014-CTC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "e5979a11-7c56-4aaa-92a0-51d9f36b2f2c",
+      "content": "<p>Most microbes are better able to survive in environments with extremely dry conditions than in environments with harsh temperatures.</p>"
+    },
+    {
+      "id": "dfb5af88-189b-4dd8-afa7-13764b177bb4",
+      "content": "<p>A much higher number of microbes would probably be found if another sample of soil were taken from the Antarctic study site.</p>"
+    },
+    {
+      "id": "e01dbb78-55ac-4f99-977a-ef7c78a1b998",
+      "content": "<p>Microbes are likely difficult to detect in the soil at the Antarctic study site because they tend to be smaller than microbes found in typical soil elsewhere.</p>"
+    },
+    {
+      "id": "81624dc0-e6f5-4af0-b84b-7b922ec9b299",
+      "content": "<p>Most microbes are probably unable to withstand the soil conditions at the Antarctic study site.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

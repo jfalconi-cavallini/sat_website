@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which quotation from <em>Happy House</em> most effectively illustrates the claim?</p>",
+  "stimulus": "<p><em>Happy House</em> is a 1920 novel by Jane Abbott. The narrator presents a young woman as being unimpressed with the house she is visiting: <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "3085293d-7665-442b-bf9c-6ea581895790"
+  ],
+  "answerOptions": [
+    {
+      "id": "3085293d-7665-442b-bf9c-6ea581895790",
+      "content": "<p>&ldquo;Her first feeling was of disappointment; in the square lines of the house there was little claim to beauty.&rdquo;</p>"
+    },
+    {
+      "id": "ee7d5b64-4307-49b7-b5a3-10ff4017b8cb",
+      "content": "<p>&ldquo;Someone had opened one of the blinds so here there was more light.&rdquo;</p>"
+    },
+    {
+      "id": "350f5084-90a4-486a-a55a-c0f4caee091d",
+      "content": "<p>&ldquo;The door, built squarely in the middle of the house, opened almost directly upon a stone-flagged path that led in a straight line to the road.&rdquo;</p>"
+    },
+    {
+      "id": "3e58a27c-dcbe-46da-b8c4-6ddbc9c60516",
+      "content": "<p>&ldquo;She tip-toed through the hall and opened the door on the right.&rdquo;</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most effectively uses a quotation from <em>Happy House</em> to illustrate the claim that the young woman is unimpressed with the house she is visiting. In the quotation, it says the young woman&rsquo;s \"first feeling was of disappointment\" and that \"there was little claim to beauty\" when referring to the house. This disappointment and the overall lack of beauty in the house suggest that the young woman isn&rsquo;t impressed by the house she is visiting.</p><p>Choice B is incorrect because the quotation doesn&rsquo;t describe what the young woman thinks about the house. Instead, it indicates that there is more light because window blinds have been opened. Choice C is incorrect because the quotation describes a door and a path outside of the house but doesn&rsquo;t include anything to indicate the young woman&rsquo;s feelings about the house. Choice D is incorrect because the quotation states what the young woman did in the house (\"tip-toed through the hall\" and \"opened the door\"), but it doesn&rsquo;t show what she thinks about it.</p>",
+  "externalid": "6a7567bd-5e99-4a4d-9a43-78b9caf58754",
+  "correct_answer": [
+    "A"
+  ]
+}

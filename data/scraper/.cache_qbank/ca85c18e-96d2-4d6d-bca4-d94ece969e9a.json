@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>Parthenogenesis is a form of reproduction in which a female reproduces without mating. She produces an egg containing a single offspring whose DNA, or genetic material, comes entirely from its mother. Among birds, parthenogenesis has been found in a handful of species, including pigeons and turkeys. When scientists at the San Diego Zoo analyzed the DNA of the zoo&rsquo;s California condors (a species of vulture), they discovered that two individuals weren&rsquo;t genetically similar enough to any of the males in the condor enclosure to be their offspring. However, both had hatched from eggs laid by females in the enclosure. Thus, the scientists concluded that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "7844e3cc-b317-411a-82d3-8af7e10b0391"
+  ],
+  "answerOptions": [
+    {
+      "id": "8bd80e7b-3bc6-4ea3-a1d8-a32f053cefef",
+      "content": "<p>at least one of those individuals&rsquo; mothers was born as a result of parthenogenesis.</p>"
+    },
+    {
+      "id": "e3599585-b983-4dc7-87cb-c7fa0d4590ba",
+      "content": "<p>California condors may reproduce through parthenogenesis in zoos but not in the wild.</p>"
+    },
+    {
+      "id": "7844e3cc-b317-411a-82d3-8af7e10b0391",
+      "content": "<p>the mothers of the two individuals probably reproduced through parthenogenesis.</p>"
+    },
+    {
+      "id": "c0835442-d638-4465-9196-7ce12963096d",
+      "content": "<p>California condors reproduce through parthenogenesis only if females lack sufficient access to males.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of parthenogenesis as it relates to two California condors at the San Diego Zoo. The text explains that parthenogenesis is a form of reproduction in which a female reproduces without mating, producing an egg containing an offspring with DNA that comes entirely from its mother. After noting examples of parthenogenesis among birds, the text then reports on a discovery at the San Diego Zoo. According to the text, scientists at the zoo found that two of the zoo&rsquo;s California condors weren&rsquo;t similar enough to any of the zoo&rsquo;s male condors to be their offspring. Given that parthenogenesis occurs without mating and results in an offspring with DNA entirely from its mother, it can reasonably be inferred that the scientists concluded that the mothers of the two condors probably didn&rsquo;t mate with any of the male condors at the zoo, reproducing through parthenogenesis instead.</p><p>Choice A is incorrect because the text never suggests that at least one of the condors&rsquo; mothers was born as a result of parthenogenesis. Rather, the text suggests that the two condors were themselves both probably born as a result of parthenogenesis, which would account for their lack of strong genetic resemblance to any of the male condors in the zoo&rsquo;s condor enclosure. Choice B is incorrect because the text never discusses wild California condors, only California condors living at the San Diego Zoo. For this reason, the text doesn&rsquo;t support a conclusion that distinguishes between how California condors reproduce in zoos and how they reproduce in the wild. Choice D is incorrect because the text never suggests that the zoo&rsquo;s female condors lacked sufficient access to males or that this would be a cause of parthenogenesis, indicating only that the condor enclosure included males.</p>",
+  "externalid": "ca85c18e-96d2-4d6d-bca4-d94ece969e9a",
+  "correct_answer": [
+    "C"
+  ]
+}

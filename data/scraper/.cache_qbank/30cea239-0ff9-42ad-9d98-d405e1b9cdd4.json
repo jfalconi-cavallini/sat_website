@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which quotation from &ldquo;The Bet&rdquo; most effectively illustrates the claim?</p>",
+  "stimulus": "<p>&ldquo;The Bet&rdquo; is an 1889 short story by Anton Chekhov. In the story, a banker is described as being very upset about something: <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "7f26e865-f725-4c09-83da-e4d0301975c2"
+  ],
+  "answerOptions": [
+    {
+      "id": "92681853-5745-44cf-ab98-2baa08e0b93c",
+      "content": "<p>&ldquo;Then the banker cautiously broke the seals off the door and put the key in the keyhole.&rdquo;</p>"
+    },
+    {
+      "id": "4b6db149-990d-469b-aa8f-364c6e110143",
+      "content": "<p>&ldquo;It struck three o&rsquo;clock, the banker listened; everyone was asleep in the house and nothing could be heard outside but the rustling of the chilled trees.&rdquo;</p>"
+    },
+    {
+      "id": "3e0862fe-78c9-4f59-b857-d835bdb072a4",
+      "content": "<p>&ldquo;The banker, spoilt and frivolous, with millions beyond his reckoning, was delighted at the bet.&rdquo;</p>"
+    },
+    {
+      "id": "7f26e865-f725-4c09-83da-e4d0301975c2",
+      "content": "<p>&ldquo;When [the banker] got home he lay on his bed, but his tears and emotion kept him for hours from sleeping.&rdquo;</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most effectively uses a quotation from \"The Bet\" to illustrate the claim that the banker was very upset about something. The quotation indicates that the banker shed tears, which suggests that he was likely unhappy about something, and that his emotions were so strong that they kept him from sleeping for hours. These details suggest that the banker was very upset.</p><p>Choice A is incorrect because this quotation mainly describes the banker cautiously unlocking a door; it doesn&rsquo;t suggest that he was particularly upset about anything. Choice B is incorrect because this quotation doesn&rsquo;t mention whether the banker was experiencing any particularly strong negative feelings; instead, the quotation focuses on the quietness of the setting. Choice C is incorrect because this quotation states that the banker was feeling \"delighted,\" not that he was upset.</p>",
+  "externalid": "30cea239-0ff9-42ad-9d98-d405e1b9cdd4",
+  "correct_answer": [
+    "D"
+  ]
+}

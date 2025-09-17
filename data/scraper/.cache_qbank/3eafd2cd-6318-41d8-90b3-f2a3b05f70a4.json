@@ -1,0 +1,38 @@
+{
+  "vaultid": "e903f7c7-3231-4914-8c2d-f37ce364089f",
+  "keys": [
+    "65abb54e-e824-4e3a-8ec9-bca64f4cc9a3"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of Sam Gilliam&rsquo;s artworks. As used in this context, &ldquo;creating&rdquo; means producing or bringing something into existence. The text indicates that Gilliam is an artist who made draped canvases and, later, quilt-like paintings. This context supports the idea that Gilliam explored different styles in his art by creating special types of paintings. </p><p>Choice A is incorrect because the text indicates that Gilliam actually explored and pursued the creation of quilt-like paintings; he wasn&rsquo;t just &ldquo;predicting,&rdquo; or declaring in advance, the existence of these paintings. Choice B is incorrect because in this context &ldquo;refusing&rdquo; would mean rejecting, and there is nothing in the text to suggest that Gilliam rejected his quilt-like paintings. Instead, the text indicates that he was exploring and pursuing a new art style in these paintings. Choice C is incorrect because in this context &ldquo;hiding&rdquo; would mean concealing from view, and there is nothing in the text to suggest that Gilliam attempted to conceal his quilt-like paintings. Instead, the text indicates that he was exploring and pursuing a new art style in these paintings.&nbsp;&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "3eafd2cd-6318-41d8-90b3-f2a3b05f70a4",
+  "stimulus": "<p>In the 1960s, Sam Gilliam, a Black painter from the southern United States, became the first artist to drape painted canvases into flowing shapes. He later explored a different style, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> quilt-like paintings inspired by the patchwork quilting tradition of Black communities in the South.</p>",
+  "templateclusterid": "6f7e8e5b-d3a7-47cb-afdf-42f6736727a5",
+  "parenttemplatename": "OSP-056-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "956a0ff4-14a3-4106-acaa-46de441a75fd",
+      "content": "<p>predicting</p>"
+    },
+    {
+      "id": "44f47ed3-22ec-4f8d-bff4-aa5792b759be",
+      "content": "<p>refusing</p>"
+    },
+    {
+      "id": "af8ab3e6-dd3c-4807-a951-d8631d12688f",
+      "content": "<p>hiding</p>"
+    },
+    {
+      "id": "65abb54e-e824-4e3a-8ec9-bca64f4cc9a3",
+      "content": "<p>creating</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

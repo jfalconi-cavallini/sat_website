@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most effectively uses data from the table to complete the statement?</p>",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Average Prices Received by US Growers for Citrus Fruits, 2020–2021 (dollars per box)</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Fruit</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">June 2020</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">June 2021</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">July 2020</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">July 2021</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">Grapefruits</th><td style=\"text-align: center;\">$13.80</td><td style=\"text-align: center;\">$23.72</td><td style=\"text-align: center;\">$16.13</td><td style=\"text-align: center;\">$22.98</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Oranges</th><td style=\"text-align: center;\">$16.15</td><td style=\"text-align: center;\">$11.09</td><td style=\"text-align: center;\">$15.53</td><td style=\"text-align: center;\">$13.79</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Lemons</th><td style=\"text-align: center;\">$19.50</td><td style=\"text-align: center;\">$28.94</td><td style=\"text-align: center;\">$21.01</td><td style=\"text-align: center;\">$31.78</td></tr></tbody></table></figure></p>\n<p>An employee of a citrus grower in the United States is analyzing the prices of several varieties of fruit over the course of a growing season. The employee wishes to know how much a grower could have expected to receive on average for a box of lemons in July 2021. Consulting the table, the employee finds that this amount is <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "7168ac35-00b5-414d-b7ab-3c047b1f6b31"
+  ],
+  "answerOptions": [
+    {
+      "id": "7168ac35-00b5-414d-b7ab-3c047b1f6b31",
+      "content": "<p>$31.78.</p>"
+    },
+    {
+      "id": "513e11f5-2a0c-4623-971c-6a869ff74ab5",
+      "content": "<p>$23.72.</p>"
+    },
+    {
+      "id": "33b1f5cb-12f3-41ed-a287-a7937b5fb217",
+      "content": "<p>$22.98.</p>"
+    },
+    {
+      "id": "b0443617-7e0a-4af2-8a54-aa6ef1a31fe6",
+      "content": "<p>$28.94.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most effectively uses data from the table to complete the text&rsquo;s discussion of how much a grower could have expected to receive on average for a box of lemons in July 2021. The table lists the average prices received by US citrus growers in dollars per box for grapefruits, oranges, and lemons in June 2020, June 2021, July 2020, and July 2021. According to the table, the average price of a box of lemons in July 2021 was $31.78.</p><p>Choice B is incorrect because the text indicates that the employee of a citrus grower wishes to know the average price for a box of lemons in July 2021. According to the table, $23.72 was the average price for a box of grapefruits in June 2021, not for a box of lemons in July 2021. Choice C is incorrect because the text indicates that the employee of a citrus grower wishes to know the average price for a box of lemons in July 2021. According to the table, $22.98 was the average price for a box of grapefruits in July 2021, not for a box of lemons in July 2021. Choice D is incorrect because the text indicates that the employee of a citrus grower wishes to know the average price for a box of lemons in July 2021. According to the table, $28.94 was the average price for a box of lemons in June 2021, not in July 2021.</p>",
+  "externalid": "9880402d-54d4-416f-b6fd-14bf44015e73",
+  "correct_answer": [
+    "A"
+  ]
+}

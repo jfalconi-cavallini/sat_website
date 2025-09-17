@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>The widespread use of social media enables linguists to study changes in language usage in real time. A notable recent example is the proliferation of the affix&nbsp;<em>meng</em>- among speakers of Bahasa Indonesia, the official language of Indonesia. Linguists observed&nbsp;<em>meng</em>- originate as an onomatopoetic tag that social-media users applied to images of cats they posted; over time, users increasingly applied it as a prefix to existing words (e.g., <span lang=\"id\"><em>mengsedih</em></span> affixes&nbsp;<em>meng</em>- to the word for&nbsp;<em>sad</em>) in text that they posted. From there, it has begun to move into spoken Bahasa Indonesia. Linguists have noted many similar examples of this phenomenon occurring in other languages, suggesting that social media <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "4f2b82dc-a1a1-4ab4-8467-7579df142876"
+  ],
+  "answerOptions": [
+    {
+      "id": "1c85fcdf-c83a-41a0-b450-9036c1165ac6",
+      "content": "<p>is more useful for studying informal language than for studying formal or official language.</p>"
+    },
+    {
+      "id": "941c2b46-9ca2-4030-8e91-4c160c27a929",
+      "content": "<p>appears to be exerting an exceptionally strong influence on the evolution of Bahasa Indonesia.</p>"
+    },
+    {
+      "id": "e6b96185-09fa-4e98-bcff-bdc5d37af8f8",
+      "content": "<p>may give linguists a somewhat misleading sense of how languages are changing.</p>"
+    },
+    {
+      "id": "4f2b82dc-a1a1-4ab4-8467-7579df142876",
+      "content": "<p>does not merely register changes in language usage but can facilitate such changes.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of linguists using social media to study changes in language usage in real time, providing the specific example of the affix <em>meng</em>- in Bahasa Indonesia. The text states that linguists first observed <em>meng</em>- being used as an onomatopoeic tag on social media, which then spread to being affixed to existing words in text posted on social media; from there, it has begun to move into spoken Bahasa Indonesia. As presented in the text, this progression from online usage to spoken language suggests that social media does more than just register or reflect changes in language&mdash;it can actively drive such changes. In the case of <em>meng</em>-, the text suggests, social media facilitated the movement of the affix from an online tag to part of spoken Bahasa Indonesia.</p><p>Choice A is incorrect because the text doesn&rsquo;t differentiate between social media&rsquo;s usefulness for studying informal versus formal or official language; it merely notes that Bahasa Indonesia is an official language. Choice B is incorrect because while the example given in the text focuses on changes in Bahasa Indonesia, the text doesn&rsquo;t provide any evidence that social media is exerting an exceptionally strong influence on the evolution of this particular language compared to others. In fact, the text states that \"linguists have noted many similar examples of this phenomenon occurring in other languages,\" suggesting that social media&rsquo;s influence is evident across multiple languages and not unique to Bahasa Indonesia. Choice C is incorrect because the text never suggests that social media provides a somewhat misleading sense of how languages are changing. Rather, the text suggests that by allowing linguists to directly observe linguistic changes, social media offers a clear window into language evolution.</p>",
+  "externalid": "23993529-d849-4518-af11-b7139f5f038b",
+  "correct_answer": [
+    "D"
+  ]
+}

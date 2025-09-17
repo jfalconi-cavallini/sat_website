@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Mary Ellen Pleasant, a successful entrepreneur during the gold rush era, earned the moniker &ldquo;Mother of Human Rights in California&rdquo; after successfully challenging discrimination in the state. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in 1866, she sued a streetcar company for denying her and other Black riders service, a suit she eventually won when the California Supreme Court declared it illegal for carriers to exclude passengers based on race.</p>",
+  "type": "mcq",
+  "keys": [
+    "1d8a0f43-1f95-4b45-9fb2-8193d552278e"
+  ],
+  "answerOptions": [
+    {
+      "id": "8f89de97-2a4f-4e81-89a1-afbbaa7dca32",
+      "content": "<p>For this reason,</p>"
+    },
+    {
+      "id": "14187df2-4c40-45c0-a9f6-2c4d8fe04038",
+      "content": "<p>Then,</p>"
+    },
+    {
+      "id": "ace078c2-c6d4-41e3-acf1-367d957e521e",
+      "content": "<p>In addition,</p>"
+    },
+    {
+      "id": "1d8a0f43-1f95-4b45-9fb2-8193d552278e",
+      "content": "<p>Specifically,</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. \"Specifically\" logically signals that the information about Pleasant&rsquo;s 1866 lawsuit provides specific, precise details elaborating on the previous point that Pleasant successfully challenged discrimination in California.</p><p>Choice A is incorrect because \"for this reason\" illogically signals that Pleasant&rsquo;s 1866 lawsuit was a result of her successful challenge to discrimination in California. Instead, this sentence provides specific details elaborating on her challenge to discrimination in the state. Choice B is incorrect because \"then\" illogically signals that Pleasant&rsquo;s 1866 lawsuit was subsequent to or resulted from her successful challenge to discrimination in California. Instead, this sentence provides specific, precise details elaborating on how she challenged discrimination in the state. Choice C is incorrect because \"in addition\" illogically signals that the information about Pleasant&rsquo;s 1866 lawsuit is merely additional to the previous point that Pleasant successfully challenged discrimination in California. Instead, this sentence provides specific details elaborating on how she did so.</p>",
+  "externalid": "caa9e207-e30f-41ec-b353-c35b7b9b9175",
+  "correct_answer": [
+    "D"
+  ]
+}

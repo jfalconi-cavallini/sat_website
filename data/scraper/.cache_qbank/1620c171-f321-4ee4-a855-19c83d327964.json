@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best describes the function of the underlined statement in the text as a whole?</p>",
+  "stimulus": "<p><span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">Individual elephants and Arctic herbivores such as caribou tend to have fixed geographic ranges throughout their lifetimes,</span> which had prompted some researchers to speculate that the Arctic woolly mammoth, an extinct elephantid, might have exhibited similar behavior. Mammoth tusks grew in sequential layers, incorporating ingested minerals and organics, and so each ivory stratum reflects the ratio of strontium isotopes (<sup>87</sup><span data-ssml-say-as=\"characters\">Sr</span>/<sup>86</sup><span data-ssml-say-as=\"characters\">Sr</span>) in the local environment; thus, the sequence of strata shows where the animal roamed during life. Recent analysis of the strontium ratios in the strata of one Arctic woolly mammoth tusk in relation to the geographic distribution of strontium ratios in the environment shows the animal&rsquo;s range begin to expand as it reached sexual maturity, only to contract again in its final 1.5 years.</p>",
+  "keys": [
+    "35ca57b6-898d-4b5a-b5e5-fbff49412d0f"
+  ],
+  "answerOptions": [
+    {
+      "id": "35ca57b6-898d-4b5a-b5e5-fbff49412d0f",
+      "content": "<p>It discusses a characteristic shared by certain animals in order to explain why researchers raised a possibility that turned out not to be supported by data described later in the text.</p>"
+    },
+    {
+      "id": "a7e2d659-5432-4ced-a17e-2dd80144cc75",
+      "content": "<p>It illustrates a pattern of behavior among certain animals in order to present a theory about exceptions to that pattern that is weakened by a finding described later in the text.</p>"
+    },
+    {
+      "id": "12b24a0c-b9a6-43d7-9a66-8e940881873b",
+      "content": "<p>It describes a similarity in the behavior of certain animals in order to show why a method described later in the text did not reveal whether another animal also showed that behavior.</p>"
+    },
+    {
+      "id": "f6d4bff3-d1a6-4928-abb8-e26b1c2aaa73",
+      "content": "<p>It introduces a trait shared by certain animals in order to contextualize a hypothesis about the origin of that trait that is advanced later in the text.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately describes how the underlined statement functions in the text as a whole. The underlined statement mentions a category of animals that have a feature in common: they tend to have fixed geographic ranges throughout their lifetimes. The text then presents the speculation of some researchers that the Arctic woolly mammoth might also share this characteristic. However, an examination of the content of strontium in the strata (or layers) of a woolly mammoth tusk indicated that contrary to the researchers&rsquo; hypothesis, the mammoth had an expanding range in its environment that contracted in its last 1.5 years of life. Thus, the underlined statement discusses a characteristic shared by certain animals in order to explain why researchers raised a possibility that turned out not to be supported by data described later in the text.</p><p>Choice B is incorrect. Though the underlined statement presents a pattern of behavior (the habit of certain animals of staying within a fixed geographic range), the rest of the text does not present a theory of exceptions to that pattern; rather, the researchers are merely concerned with whether one particular animal has behavior consistent with the pattern. Choice C is incorrect. Though the underlined statement does describe a similarity in the behavior of certain animals (their tendency to stay within a fixed geographic range), this is not done in order to show why a method described later in the text failed to show whether another animal showed that behavior; rather, the method of analysis of strata of a woolly mammoth tusk showed that the mammoth&rsquo;s behavior was different from that of the animals mentioned in the underlined statement. Choice D is incorrect. Though the underlined statement mentions a trait shared by a number of animals (their fixed geographic range), the rest of the text does not present a hypothesis regarding the origin of that trait; rather, the researchers are concerned with whether another particular animal shares that trait.</p>",
+  "externalid": "1620c171-f321-4ee4-a855-19c83d327964",
+  "correct_answer": [
+    "A"
+  ]
+}

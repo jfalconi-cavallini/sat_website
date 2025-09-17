@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "stimulus": "<p>Jazz tap is a dance form that was first developed in African American communities. Jazz tap was heavily influenced by jazz music, which became widely popular in the United States in the 1920s. Tap dancers were inspired by jazz music&rsquo;s quick rhythms and by the way jazz musicians would make up melodies as they played. As jazz music continued to develop in the 1930s and 1940s, jazz tap evolved with it. Because of jazz music&rsquo;s influence, jazz tap quickly developed into a dance form that was very different from earlier kinds of tap dance.</p>",
+  "keys": [
+    "aef780f0-f30f-48ea-b249-419fb98a0f19"
+  ],
+  "answerOptions": [
+    {
+      "id": "0ad1595c-c3ed-4aa6-8ecc-65ba241cbac9",
+      "content": "<p>It explains why audiences prefer some kinds of music over others.</p>"
+    },
+    {
+      "id": "aef780f0-f30f-48ea-b249-419fb98a0f19",
+      "content": "<p>It discusses the development of a dance form.</p>"
+    },
+    {
+      "id": "fe4e5dc8-8f56-403e-811f-5f748d5328b3",
+      "content": "<p>It describes how to play a musical instrument.</p>"
+    },
+    {
+      "id": "5d211800-99fa-4469-85c2-623b217f3eb2",
+      "content": "<p>It emphasizes the popularity of a famous dancer.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it best describes the main purpose of the text. The text indicates where and when jazz tap first developed (in African American communities in the 1920s) and what influenced it (the quick rhythms and improvisations in jazz music) and then explains that it evolved alongside jazz music in the 1930s and 1940s, resulting in a very different form of tap dance than had existed before. Therefore, the main purpose of the text is to discuss jazz tap&rsquo;s development.</p><p>Choice A is incorrect. Although the text indicates that jazz music became widely popular in the US in the 1920s and describes some of jazz music&rsquo;s qualities, the text never explains why audiences prefer some kinds of music&mdash;jazz or otherwise&mdash;over others. Choice C is incorrect because the text never mentions any musical instruments and doesn&rsquo;t describe how to play one. Choice D is incorrect because the text discusses jazz tap generally and never identifies a particular dancer, famous or otherwise.</p>",
+  "externalid": "4df2302b-b51f-452c-89ac-da7978924c29",
+  "correct_answer": [
+    "B"
+  ]
+}

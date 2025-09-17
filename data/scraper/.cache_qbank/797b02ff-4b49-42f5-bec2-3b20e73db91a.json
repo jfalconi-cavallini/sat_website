@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>The soundtrack to Mira Nair&rsquo;s 1991 film <em>Mississippi Masala</em> expressively captures the clashing of cultures that happens when <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> (a young Indian woman from Uganda and a young African American man from Mississippi) meet. Featured throughout the film are songs from Uganda&rsquo;s Afrigo Band, the Indian composer L. Subramaniam, and the Mississippi blues musician Sam Chatmon.</p>",
+  "type": "mcq",
+  "keys": [
+    "4564dbab-e688-494b-aed3-cfbcda0e10b8"
+  ],
+  "answerOptions": [
+    {
+      "id": "4d12d082-142a-4c22-ae24-3994d69a8086",
+      "content": "<p>it&rsquo;s two protagonists</p>"
+    },
+    {
+      "id": "2ffc95b3-77aa-4533-acf4-3f758e1ec26b",
+      "content": "<p>its two protagonist&rsquo;s</p>"
+    },
+    {
+      "id": "75cf7b5d-5f52-4ce8-92d2-e77e1c73751f",
+      "content": "<p>it&rsquo;s two protagonist&rsquo;s</p>"
+    },
+    {
+      "id": "4564dbab-e688-494b-aed3-cfbcda0e10b8",
+      "content": "<p>its two protagonists</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The conventions being tested are the use of possessive determiners and the use of plural nouns. The singular possessive determiner \"its\"&mdash;which agrees in number with the singular noun phrase \"Mira Nair&rsquo;s 1991 film <em>Mississippi Masala</em>\"&mdash;and the plural noun \"protagonists\" correctly indicate that Nair&rsquo;s film has multiple protagonists.</p><p>Choice A is incorrect because \"it&rsquo;s\" is the contraction for \"it is,\" not a possessive determiner. Choice B is incorrect because the context requires the plural noun \"protagonists,\" not the singular possessive noun \"protagonist&rsquo;s.\" Choice C is incorrect because the context requires the possessive determiner \"its\" and the plural noun \"protagonists,\" not the contraction \"it&rsquo;s\" or the singular possessive noun \"protagonist&rsquo;s.\"</p>",
+  "externalid": "797b02ff-4b49-42f5-bec2-3b20e73db91a",
+  "correct_answer": [
+    "D"
+  ]
+}

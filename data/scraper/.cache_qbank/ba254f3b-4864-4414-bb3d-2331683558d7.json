@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Upon first approaching artist Kurt Wenner&rsquo;s <em>Dies Irae</em>, a colorful scene painted on the surface of a cobblestone street in Mantua, Italy, one might assume a deep hole filled with life-sized, classically styled sculptures had opened up in the street. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> by expertly applying the principles of perspective, Wenner created merely the illusion of depth.</p>",
+  "keys": [
+    "d131670f-77b4-4230-8565-a8ef5c5cdc2a"
+  ],
+  "answerOptions": [
+    {
+      "id": "49b4e70b-012f-49fa-86f8-1a0a0a829f19",
+      "content": "<p>Additionally,</p>"
+    },
+    {
+      "id": "d131670f-77b4-4230-8565-a8ef5c5cdc2a",
+      "content": "<p>On the contrary,</p>"
+    },
+    {
+      "id": "e86aedf9-f2a4-4453-be50-10f170fdcdb9",
+      "content": "<p>As a result,</p>"
+    },
+    {
+      "id": "d8d8aacf-541d-48dc-a943-9d0d0c924f90",
+      "content": "<p>Next,</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. \"On the contrary\" logically signals that the information in this sentence&mdash;that <em>Dies Irae</em>&rsquo;s appearance of depth is merely an illusion&mdash;contrasts with the previous statement about a viewer&rsquo;s possible assumption regarding the street painting.</p><p>Choice A is incorrect because \"additionally\" illogically signals that this sentence is simply additional information about a viewer&rsquo;s possible assumption regarding the street painting. Instead, the information about how Wenner achieved the illusion of depth contrasts with the previous sentence&rsquo;s description of the illusion. Choice C is incorrect because \"as a result\" illogically signals that the information in this sentence is a result of, or caused by, a viewer&rsquo;s possible assumption regarding the street painting. Instead, the information about how Wenner achieved the illusion of depth contrasts with the previous sentence&rsquo;s description of the illusion. Choice D is incorrect because \"next\" illogically signals that the information in this sentence is the next step in a process. Instead, the information about how Wenner achieved the illusion of depth contrasts with the previous sentence&rsquo;s description of the illusion.</p>",
+  "externalid": "ba254f3b-4864-4414-bb3d-2331683558d7",
+  "correct_answer": [
+    "B"
+  ]
+}

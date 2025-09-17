@@ -1,0 +1,38 @@
+{
+  "vaultid": "7681851c-f4a9-40f3-966e-a2493c80a4d7",
+  "keys": [
+    "b7ae82d7-cb6d-412d-bd38-56d07df689eb"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of verbs to express tense. Simple present tense verbs can be used to describe actions that tend to occur, including in a hypothetical or future scenario. In this case, the simple present tense verb &ldquo;produce&rdquo; indicates what the air exchange systems might be able to do in the future (produce oxygen for astronauts). </p><p>Choice A is incorrect. The present progressive tense verb &ldquo;are producing&rdquo; suggests that the oxygen is currently being produced, not that it might be produced in the future. Choice B is incorrect because the past tense verb &ldquo;produced&rdquo; suggests that the oxygen was produced in the past, not that it might be produced in the future. Choice D is incorrect because the present perfect tense verb &ldquo;have produced&rdquo; suggests that the oxygen has been produced from a point in the past up to the present, not that it might be produced in the future. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "68710ed9-7d5e-4481-a404-a05d65bf8a01",
+  "stimulus": "<p>The alga species <em>Chlorella&nbsp;vulgaris</em> is very efficient at making oxygen. For this reason, scientists are currently exploring ways to use this species in space. <em>C. vulgaris</em> might be used, for example, to build future biological air exchange systems that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> oxygen for astronauts.&nbsp;</p>",
+  "templateclusterid": "784fbd8e-464e-436e-a0f2-4979eabc1630",
+  "parenttemplatename": "OSP-715-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "42faf7ac-25a7-455f-bad9-fd535361f665",
+      "content": "<p>are producing</p>"
+    },
+    {
+      "id": "4e747732-00fe-4381-b645-0c24515102f2",
+      "content": "<p>produced</p>"
+    },
+    {
+      "id": "b7ae82d7-cb6d-412d-bd38-56d07df689eb",
+      "content": "<p>produce</p>"
+    },
+    {
+      "id": "76939e6b-2953-4917-bc16-e50a9952d50c",
+      "content": "<p>have produced</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

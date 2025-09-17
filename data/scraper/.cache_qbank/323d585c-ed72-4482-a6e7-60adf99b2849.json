@@ -1,0 +1,38 @@
+{
+  "vaultid": "91867c29-41cd-4339-be20-8585e22a9874",
+  "keys": [
+    "9896723b-fe8c-427f-9149-664df3acf5f8"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most effectively illustrates the claim that Lowell describes an element of nature as an active participant in the experience of a nighttime scene on a body of water. The quotation presents the image of the moon shining on a body of water. However, instead of describing the moon in passive terms or simply stating that it reflects through the water and onto the sandy shore, the quotation portrays the moon as being engaged in the humanlike action of writing a legend. In other words, the moon is participating actively in the nighttime scene. </p><p>Choice B is incorrect. Although the quotation describes a nighttime scene on a body of water, the element of nature in these lines&mdash;the waves&mdash;isn&rsquo;t portrayed as an active participant in an experience; instead, the waves merely ripple softly against a canoe, as waves would normally do. Choice C is incorrect because the quotation doesn&rsquo;t present a nighttime scene on a body of water; instead, it describes petals falling from a rose.&nbsp;Choice D is incorrect. Although the quotation presents an image of an element of nature&mdash;the moon&mdash;it doesn&rsquo;t mention a body of water; moreover, it portrays the moon not as an active participant in a scene but instead as static or unchanging (&ldquo;ever and always the same&rdquo;). </p>",
+  "origin": "proteus",
+  "stem": "<p>Which quotation from &ldquo;Loon Point&rdquo; most effectively illustrates the claim?</p>",
+  "externalid": "323d585c-ed72-4482-a6e7-60adf99b2849",
+  "stimulus": "<p>&ldquo;Loon Point&rdquo; is a 1912 poem by Amy Lowell. In the poem, which presents a nighttime scene on a body of water, Lowell describes an element of nature as an active participant in the experience, writing, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "08383265-ae45-4297-ad8e-23ddf856024a",
+  "parenttemplatename": "OSP-401-LIT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "9896723b-fe8c-427f-9149-664df3acf5f8",
+      "content": "<p>&ldquo;Through the water the moon writes her legends / In light, on the smooth, wet sand.&rdquo;</p>"
+    },
+    {
+      "id": "73b52aa0-e0b4-4313-bb3c-d42da9af4131",
+      "content": "<p>&ldquo;Softly the water ripples / Against the canoe&rsquo;s curving side.&rdquo;</p>"
+    },
+    {
+      "id": "417cbaf4-4573-4e7c-bd2b-c00d5c31a58c",
+      "content": "<p>&ldquo;Or like the snow-white petals / Which drop from an overblown rose.&rdquo;</p>"
+    },
+    {
+      "id": "ad742a7b-47b7-4969-9597-3740354ed9e5",
+      "content": "<p>&ldquo;But the moon in her wayward beauty / Is ever and always the same.&rdquo;</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

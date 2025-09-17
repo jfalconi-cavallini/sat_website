@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>If an animal has been extinct for a long time, how can scientists learn what color it was? One group of scientists came up with a possible answer. When the scientists examined the fossilized feather of an extinct bird, they found melanosomes in it. Melanosomes produce pigment, or grains of color, inside cells. Because melanosomes are shaped differently depending on which colors they produce, the scientists hypothesized that they could <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "868a3190-122b-4703-9823-332d4acbd041"
+  ],
+  "answerOptions": [
+    {
+      "id": "89f42f1b-0fbc-46ad-a51a-61ad68ca6bb1",
+      "content": "<p>show how melanosomes can be found in fossils belonging to animals from other extinct species.</p>"
+    },
+    {
+      "id": "868a3190-122b-4703-9823-332d4acbd041",
+      "content": "<p>determine the colors of the bird based on the appearance of the melanosomes in the feather.</p>"
+    },
+    {
+      "id": "bb94f7aa-680b-4ac8-87e0-0570180d82e2",
+      "content": "<p>explain why the melanosomes in the feather were so well preserved.</p>"
+    },
+    {
+      "id": "175bdb83-8ccd-470d-8188-c3c7fbb6301c",
+      "content": "<p>identify the colors of extinct animals whose fossils lack melanosomes.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of a hypothesis by one group of scientists about how to determine the colors of a long-extinct animal.  The text explains that the scientists found melanosomes in the fossilized feather of an extinct bird and that melanosomes are responsible for producing color inside cells. The text also explains that melanosomes have different shapes depending on the colors they produce. Given this information, it follows that the scientists hypothesized that they could determine the colors of the extinct bird by examining the shapes of the melanosomes in the feather.</p><p>Choice A is incorrect because the text never suggests that the scientists were seeking to show how melanosomes can be found in fossils belonging to animals from other extinct species. Rather, the text indicates that the scientists were seeking to identify an extinct bird&rsquo;s colors, and the text strongly suggests that the scientists hypothesized that they could achieve their goal by examining the shapes of the melanosomes in the bird&rsquo;s fossilized feather. Choice C is incorrect because the text never suggests that the scientists were seeking to explain why the melanosomes in the feather were so well preserved. Rather, the text indicates that the scientists were seeking to identify an extinct bird&rsquo;s colors, and the text strongly suggests that the scientists hypothesized that they could achieve their goal by examining the shapes of the melanosomes in the bird&rsquo;s fossilized feather. Choice D is incorrect because the text suggests only one method of identifying the colors of extinct animals: by examining the shapes of melanosomes found in fossils. The text doesn&rsquo;t discuss other methods for learning the colors of extinct animals and therefore provides no support for the idea that the scientists could identify the colors of extinct animals whose fossils lack melanosomes.</p>",
+  "externalid": "a0bf3e39-c2be-4285-97d2-9668dc0fdbc2",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "9b8579c1-2ba0-45a4-bb2f-bd97e8091b45",
+  "keys": [
+    "014dc337-62f9-44f9-8487-1d9511b1020c"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most effectively uses data from the table to complete the claim about the tracks left by two therapods. The table indicates that the set of tracks labeled La Torre 6A has an estimated footprint length of 32.8 centimeters, an average stride length of 5.23 meters, and an estimated mean speed of 6.5&ndash;10.3 meters per second. For the set of tracks labeled La Torre 6B, on the other hand, the estimated footprint length is 28.9 centimeters, the average stride length is 5.57 meters, and the estimated mean speed is 8.8&ndash;12.4 meters per second. Therefore, the therapod that left the La Torre 6B tracks had a shorter footprint and a longer average stride than the one that left the La Torre 6A tracks.</p><p>Choice A is incorrect. While it is true that of the two therapods, the one that left the La Torre 6B tracks had a longer average stride, it didn&rsquo;t have a longer footprint: the table shows that its estimated footprint length is 28.9 centimeters, while La Torre 6A&rsquo;s estimated footprint length is 32.8 centimeters. Choice B is incorrect because the table shows that of the two therapods, the one that left the La Torre 6B tracks had a footprint length estimated at 28.9 centimeters, which is shorter than the 32.8 centimeters estimated for the other set of tracks. Moreover, the therapod that left the La Torre 6B tracks had a longer average stride, not shorter: 5.57 meters, compared with 5.23 meters for the other set of tracks. Choice D is incorrect. While it is true that of the two therapods, the one that left the La Torre 6B tracks had a shorter footprint, it didn&rsquo;t have a shorter average stride: the table shows that its average stride length is 5.57 meters, while La Torre 6A&rsquo;s average stride length is 5.23 meters.</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most effectively uses data from the table to complete the claim?</p>",
+  "externalid": "3b249e65-a66a-456e-8e49-c4382ffdef99",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Results of Footprint Analysis for Two Sets of Theropod Tracks</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Tracks</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Estimated footprint length (centimeters)</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Average stride length (meters)</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Estimated mean speed (meters per second)</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">La Torre 6A</th><td style=\"text-align: center;\">32.8</td><td style=\"text-align: center;\">5.23</td><td style=\"text-align: center;\">6.5&ndash;10.3</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">La Torre 6B</th><td style=\"text-align: center;\">28.9</td><td style=\"text-align: center;\">5.57</td><td style=\"text-align: center;\">8.8&ndash;12.4</td></tr></tbody></table></figure></p>\n<p>The table shows data from paleontologist Ang&eacute;lica Torices and colleagues&rsquo; 2021 study of two sets of dinosaur tracks preserved in a fossilized lake bed in Spain. The tracks, referred to as La Torre 6A and La Torre 6B, were left by two individual theropods (dinosaurs that walked on two legs). The team&rsquo;s findings suggest that of the two theropods, the one that left the La Torre 6B tracks had a higher maximum mean speed, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "cf0e6ae1-aa99-4468-b3a5-e086faa0c4bf",
+  "parenttemplatename": "OSP-533-QUA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "422771f7-5834-406b-b554-719c3738f274",
+      "content": "<p>a longer footprint, and a longer average stride.</p>"
+    },
+    {
+      "id": "80d82833-2a96-40e0-8968-53bb7ab9847c",
+      "content": "<p>a longer footprint, and a shorter average stride.</p>"
+    },
+    {
+      "id": "014dc337-62f9-44f9-8487-1d9511b1020c",
+      "content": "<p>a shorter footprint, and a longer average stride.</p>"
+    },
+    {
+      "id": "61e92a92-10b1-418f-82a6-0f765583876f",
+      "content": "<p>a shorter footprint, and a shorter average stride.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

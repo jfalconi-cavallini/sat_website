@@ -1,0 +1,38 @@
+{
+  "vaultid": "bfce9a3d-c7b1-4f47-98cd-207e9e9afeb4",
+  "keys": [
+    "9784353f-4a61-4c7f-970f-b77f646b66a0"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is punctuation between a subject and a verb. No punctuation is needed when the subject of a sentence is immediately followed by a main verb. In this case, the sentence&rsquo;s subject (&ldquo;the innovative works of Congolese sculptor and architect Bodys Isek Kingelez&rdquo;) is followed by the main verb &ldquo;were featured,&rdquo; and no punctuation should come between them. </p><p>Choice A is incorrect because no punctuation is needed between the subject and the verb. Choice B is incorrect because no punctuation is needed between the subject and the verb.&nbsp;Choice D is incorrect because no punctuation is needed between the subject and the verb. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "af8c6ab9-7395-46cf-8f90-531ef0739c5d",
+  "stimulus": "<p>In 2018, the innovative works of Congolese sculptor and architect Bodys Isek <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> were featured in <em>City Dreams</em>, a solo exhibition at New York&rsquo;s Museum of Modern Art.</p>",
+  "templateclusterid": "ce039395-7563-4515-bbac-f046e15485f4",
+  "parenttemplatename": "OSP-745-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "9059cff6-e9a7-4f91-a196-ad29e1010cb6",
+      "content": "<p>Kingelez;</p>"
+    },
+    {
+      "id": "da326b9e-cba3-4fa0-934f-295500cc50a9",
+      "content": "<p>Kingelez,</p>"
+    },
+    {
+      "id": "9784353f-4a61-4c7f-970f-b77f646b66a0",
+      "content": "<p>Kingelez</p>"
+    },
+    {
+      "id": "c6ccb0cf-d1d9-4fb1-8bf6-2d2ee067e211",
+      "content": "<p>Kingelez:</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

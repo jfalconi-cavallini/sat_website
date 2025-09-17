@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "stimulus": "<p>The following text is adapted from Louise Erdrich&rsquo;s 2020 novel <em>The Night Watchman</em>. Louis Pipestone is collecting signatures for a petition from fellow members of the Turtle Mountain Band of Chippewa on the tribe&rsquo;s reservation in North Dakota.</p>\n<blockquote>\n<p>Louis Pipestone tended the petition like a garden. He kept it with him at all times. In town, his eyes sharpened when he noticed a tribal member who hadn&rsquo;t yet signed. Wherever they were&mdash;at the gas pump, mercantile [general store], at Henry&rsquo;s [Caf&eacute;], on the road, or outside the clinic and hospital&mdash;Louis cornered them. If they were waiting for a baby to be born, he&rsquo;d have them sign. If they were laughing, if they were arguing. If they were taking a child home from school, they signed.</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;2020 by Louise Erdrich</span></p>",
+  "type": "mcq",
+  "keys": [
+    "9d629080-3248-4e41-9040-a242a72cdff2"
+  ],
+  "answerOptions": [
+    {
+      "id": "142bebcd-7dfc-4b53-a49e-671599351c38",
+      "content": "<p>To suggest that some tribal members refuse to sign the petition because they dislike Louis Pipestone</p>"
+    },
+    {
+      "id": "9fe54e5b-1df0-4877-9ccf-c15b7851cb16",
+      "content": "<p>To show that attitudes toward the petition within the tribal community change over time</p>"
+    },
+    {
+      "id": "d1db0285-e054-4687-9b97-b389b9bb6015",
+      "content": "<p>To demonstrate that most tribal members are enthusiastic about signing the petition</p>"
+    },
+    {
+      "id": "9d629080-3248-4e41-9040-a242a72cdff2",
+      "content": "<p>To portray Louis Pipestone&rsquo;s strong commitment to collecting signatures for the petition</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most accurately states the text&rsquo;s main purpose. The text indicates that Louis always had his petition with him, asked everyone he encountered to sign it if they hadn&rsquo;t already, and lists several comical circumstances in which he might try to get someone to sign. Thus, the main purpose of the text is to illustrate Louis&rsquo;s dedicated focus on getting people to sign the petition.</p><p>Choice A is incorrect. Although the text suggests that Louis was aggressive in seeking signatures for the petition&mdash;for example, saying that he \"cornered\" people&mdash;nothing in the text addresses how those people feel toward Louis, let alone that they are refusing his request. Choice B is incorrect because, other than portraying Louis&rsquo;s commitment to gathering signatures, the text doesn&rsquo;t discuss community members&rsquo; attitudes toward Louis or the petition. Choice C is incorrect because the text never mentions the attitudes of the people Louis approaches toward the petition, but the text does indicate that he \"cornered\" prospective signatories, strongly suggesting that their enthusiasm was neither needed nor considered.</p>",
+  "externalid": "8349ae46-df73-4387-9c4e-704a441d362e",
+  "correct_answer": [
+    "D"
+  ]
+}

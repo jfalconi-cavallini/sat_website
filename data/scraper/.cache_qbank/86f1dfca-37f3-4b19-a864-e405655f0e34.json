@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best describes the main purpose of the text?</p>",
+  "stimulus": "<p>A study by Dr. Paul Hanel and colleagues concluded that people are more likely to behave politely when listening to ideas they disagree with if they think about values before they engage in a discussion. Study participants were assigned to one of two groups. The experimental group spent a few minutes writing about one of their personal values before they had a group discussion on a controversial topic. And the control group spent a few minutes writing about a drink (tea, milk, etc.) before their group discussion on that topic. Hanel and colleagues found that the experimental group&rsquo;s discussion was more civil than the control group&rsquo;s discussion was.&nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "0d00ee00-f469-4937-ab63-aeefbef1c5ea"
+  ],
+  "answerOptions": [
+    {
+      "id": "e0630551-3c04-4c23-b200-51aeed316fb1",
+      "content": "<p>To describe a widely held belief and how a study&rsquo;s results support that belief</p>"
+    },
+    {
+      "id": "bee5b768-9d9c-4b8c-be98-6a2696e5f36b",
+      "content": "<p>To argue that researchers were surprised by the results of a certain study</p>"
+    },
+    {
+      "id": "9a0dc679-89c9-4821-9c7f-2a050d7ff937",
+      "content": "<p>To suggest ways to improve a certain study&rsquo;s experimental design</p>"
+    },
+    {
+      "id": "0d00ee00-f469-4937-ab63-aeefbef1c5ea",
+      "content": "<p>To explain a study&rsquo;s conclusion and how a research team arrived at that conclusion</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most accurately describes the main purpose of the text, which is to explain a study&rsquo;s conclusion and how researchers involved in the study arrived at that conclusion. The text begins by summarizing the main conclusion of the study conducted by Paul Hanel and colleagues: when confronted with ideas they disagree with in discussions about controversial topics, people are more likely to respond politely if they think about their personal values before engaging in such discussions. The text then goes on to describe the design of Hanel and colleagues&rsquo; experiment. By comparing interactions between members of an experimental group (who had been prompted to write about their personal values beforehand) to those between members of a control group (who had been prompted to write about a beverage), the team found that people in the experimental group behaved more civilly, or politely, than people in the control group did during discussions about a controversial topic. This finding led to the conclusion described at the beginning of the text.</p><p>Choice A is incorrect. Although the text discusses the results of a study, it doesn&rsquo;t provide any indication that the conclusion the study supported&mdash;that when facing disagreement, people behave more politely when they have thought about their values&mdash;is a belief that is widely held. Choice B is incorrect because the text doesn&rsquo;t indicate that the researchers found the results of their study to be surprising, or contrary to what they expected. In fact, there&rsquo;s no indication provided in the text about how the researchers felt about the study&rsquo;s results or that the results should be considered surprising. Choice C is incorrect. Although the text discusses the experimental design of a study, it doesn&rsquo;t suggest any improvements to that design; instead, it focuses on how the design enabled the researchers to draw a particular conclusion.</p>",
+  "externalid": "86f1dfca-37f3-4b19-a864-e405655f0e34",
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "0daba22f-844c-4dbc-a8c1-2819119d90d2",
+  "keys": [
+    "92555368-f45c-403d-8bae-7bb598490d67"
+  ],
+  "rationale": "<p>Choice C is the best answer because it is the choice that most logically completes the text. The text mentions a dialect of Spanish spoken in New Mexico, which was colonized by Spain in the 1600s. The text then states that the New Mexican dialect differs greatly from other Spanish dialects in that it still has characteristics of an older Spanish that other dialects eventually lost. After asking why this might be, the text points out that the New Mexico colony was distant from Spain&rsquo;s other colonies, making it less attractive to colonists after the initial colonization. This geographic isolation limited the colony&rsquo;s exposure to other Spanish colonists who would have otherwise introduced the changes to the Spanish language that occurred in their respective colonies. It can therefore be inferred that this isolation is a reason why the New Mexican dialect still has characteristics of an older Spanish, while the Spanish dialects spoken in less isolated areas that have more interaction with speakers of other dialects would lose those characteristics over time. Thus, the most logical completion of the text is that geographical isolation can influence how a language develops. </p><p>Choice A is incorrect because the text discusses different dialects of Spanish, not different languages altogether. Choice B is incorrect because the text focuses on how the New Mexican dialect has stayed the same over time in some ways, not on how it has changed from one generation to the next. Choice D is incorrect because though the text discusses how the New Mexican dialect of Spanish is different from others, it does not discuss how speakers of different dialects are able to understand each other. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "358eea05-3758-4b38-bc77-3a13ab40ab16",
+  "stimulus": "<p>Colonized by Spain in the 1600s, New Mexico is home to a dialect of Spanish that differs significantly from dialects spoken in Spain&rsquo;s other former colonies in the Americas. Most notably, the New Mexican dialect retains older features of the language that other dialects lost in later centuries. But why would it have done so? New Mexico was so distant from population centers in Spain&rsquo;s other colonies that it attracted few colonists after its initial colonization. Geographical isolation in turn would have limited the exposure of New Mexican colonists to changes occurring to Spanish grammar and vocabulary elsewhere in the empire. Thus, the present-day uniqueness of the New Mexican dialect suggests the extent to which <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "df0950d9-bcda-4aac-973b-bc5244bcea27",
+  "parenttemplatename": "OSP-058-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "0fc59639-3e14-4d74-8073-c7ffde8d5dc8",
+      "content": "<p>a language can protect itself from being influenced by other languages.</p>"
+    },
+    {
+      "id": "d8c5e884-1dba-4be5-a68d-d00e082dfeed",
+      "content": "<p>the grammar and vocabulary of any given language change from one generation to the next.&nbsp;</p>"
+    },
+    {
+      "id": "92555368-f45c-403d-8bae-7bb598490d67",
+      "content": "<p>geographical isolation can influence how a language develops.</p>"
+    },
+    {
+      "id": "b9b2bb50-f34f-4331-a1f8-348d8363c24a",
+      "content": "<p>speakers of one dialect of a language can understand speakers of another dialect of that language.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

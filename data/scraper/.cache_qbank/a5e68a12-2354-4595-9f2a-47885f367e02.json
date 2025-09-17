@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Roughly 300 nights a year, when the cold air descending from the Andes Mountains meets the warm air rising from Venezuela&rsquo;s coastal Lake Maracaibo, the result is a spectacular lightning storm, its strikes so bright, so localized, and so <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> that it has become known as &ldquo;Maracaibo&rsquo;s Lighthouse.&rdquo;</p>",
+  "type": "mcq",
+  "keys": [
+    "b97cab64-c03b-4d68-8173-eaf572ec7f8e"
+  ],
+  "answerOptions": [
+    {
+      "id": "3e0e3ce1-3ad4-48ef-b5dd-a395dc5a35ff",
+      "content": "<p>dependable:&nbsp;</p>"
+    },
+    {
+      "id": "45d51593-3fc7-461b-ad63-3f17f2cf629d",
+      "content": "<p>dependable;&nbsp;</p>"
+    },
+    {
+      "id": "b97cab64-c03b-4d68-8173-eaf572ec7f8e",
+      "content": "<p>dependable&nbsp;</p>"
+    },
+    {
+      "id": "05bb8643-e6be-468a-9a2f-37fec1baa3df",
+      "content": "<p>dependable,&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the punctuation of an integrated relative clause. No punctuation is needed before the relative clause beginning with \"that\" because the content of the relative clause (\"that...Lighthouse\") is integral to the meaning of the coordinated adjectival phrase (\"so bright, so localized, and so dependable\") that it modifies.</p><p>Choice A is incorrect because no punctuation is needed between the coordinated adjectival phrase (\"so bright...dependable\") and the integrated relative clause that modifies it. Choice B is incorrect because no punctuation is needed between the coordinated adjectival phrase (\"so bright...dependable\") and the integrated relative clause that modifies it. Choice D is incorrect because no punctuation is needed between the coordinated adjectival phrase (\"so bright...dependable\") and the integrated relative clause that modifies it.</p>",
+  "externalid": "a5e68a12-2354-4595-9f2a-47885f367e02",
+  "correct_answer": [
+    "C"
+  ]
+}

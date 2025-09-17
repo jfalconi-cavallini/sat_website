@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>English poet and Shakespeare contemporary John Donne&rsquo;s <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> much admired during his lifetime (1572&ndash;1631) and in the decades that followed, had, at the time of their enthusiastic rediscovery by the early twentieth-century modernists, been essentially gathering dust for the intervening 250 years.</p>",
+  "keys": [
+    "ebc20a91-3797-4781-914d-f10ad285cd6d"
+  ],
+  "answerOptions": [
+    {
+      "id": "bddfd4f1-1c0d-426c-ac9e-8b241887eadb",
+      "content": "<p>works were</p>"
+    },
+    {
+      "id": "7e08abbd-d858-42a3-bc23-e13ca6307d55",
+      "content": "<p>works<span data-ssml-say-as=\"characters\">,</span> were</p>"
+    },
+    {
+      "id": "ebc20a91-3797-4781-914d-f10ad285cd6d",
+      "content": "<p>works<span data-ssml-say-as=\"characters\">,</span>&nbsp;</p>"
+    },
+    {
+      "id": "0c8d69ba-e7c6-477b-88f7-36d6f6866303",
+      "content": "<p>works had been</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of punctuation and verb forms within a sentence. This choice leaves the verb \"admired\" in its nonfinite past participle form to function within a supplementary element (\"much&hellip;followed\"). Offset by commas after \"works\" and \"followed,\" this supplementary element interrupts the main clause (\"English poet and Shakespeare contemporary John Donne&rsquo;s works&hellip;had&hellip;been essentially gathering dust&hellip;\") with additional information about the works&rsquo; reception during Donne&rsquo;s lifetime.</p><p>Choice A is incorrect because it fails to offset the supplementary element (\"much&hellip;followed\") with appropriate punctuation, and using the finite verb \"were much admired\" results in an ungrammatical sentence. Choice B is incorrect because using the finite verb \"were much admired\" results in an ungrammatical sentence. Choice D is incorrect because it fails to offset the supplementary element (\"much&hellip;followed\") with appropriate punctuation, and using the finite verb \"had been much admired\" results in an ungrammatical sentence.</p>",
+  "externalid": "a7dc218f-7af4-4a81-8a3e-dc36da41b8e2",
+  "correct_answer": [
+    "C"
+  ]
+}

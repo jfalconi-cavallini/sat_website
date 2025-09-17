@@ -1,0 +1,38 @@
+{
+  "vaultid": "fd883d98-eb3c-46dd-bb28-67daa354c214",
+  "keys": [
+    "8fe2d56b-ba31-4baa-a0ef-42d1296f05ef"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of artifacts and Kuulo Kataa&rsquo;s founding date. If it were true both that Kuulo Kataa was founded in the fourteenth century CE and that artifacts found in excavations of the settlement are from the thirteenth century CE, it would be reasonable to conclude that the artifacts weren&rsquo;t created in the Kuulo Kataa settlement. That would suggest, then, that the artifacts originated somewhere else and eventually reached the settlement through trading or as people migrated. </p><p>Choice A is incorrect because the existence of thirteenth-century CE artifacts recovered during excavations of a settlement founded in the fourteenth century CE isn&rsquo;t logically connected to artifacts from one century being more commonly recovered than artifacts from another century. Rather than suggesting anything about how frequently artifacts from different times are found, the existence of artifacts confirmed as predating the settlement&rsquo;s founding suggests that those items arrived in Kuulo Kataa during or after its establishment. Choice C is incorrect because the text focuses on time periods and says nothing about which region the founders of Kuulo Kataa have been thought to come from; similarly, the text doesn&rsquo;t suggest anything about where the thirteenth-century CE artifacts originated other than not from Kuulo Kataa. Therefore, it isn&rsquo;t logical to conclude that the mere existence of artifacts confirmed as predating the Kuulo Kataa settlement suggests that the founders of the settlement came from a particular region other than one previously assumed. Choice D is incorrect because the existence of artifacts from the thirteenth century CE at a site dated to the fourteenth century CE doesn&rsquo;t imply that fourteenth-century objects were damaged during excavations. There&rsquo;s nothing in the text to suggest that any objects were damaged; rather, the existence of artifacts confirmed as predating the settlement&rsquo;s founding suggests that those items were brought to Kuulo Kataa during or after its establishment.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "b4910d45-076d-4ab9-9b26-f729e19c7a3b",
+  "stimulus": "<p>If some artifacts recovered from excavations of the settlement of Kuulo Kataa, in modern Ghana, date from the thirteenth century CE, that may lend credence to claims that the settlement was founded before or around that time. There is other evidence, however, strongly supporting a fourteenth century CE founding date for Kuulo Kataa. If both the artifact dates and the fourteenth century CE founding date are correct, that would imply that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "eee70288-825f-4e80-87bc-afc1ac859618",
+  "parenttemplatename": "OSP-006-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "27b4bfbc-4945-4d82-b7fc-d24c7f2e67af",
+      "content": "<p>artifacts from the fourteenth century CE are more commonly recovered than are artifacts from the thirteenth century CE.&nbsp;</p>"
+    },
+    {
+      "id": "8fe2d56b-ba31-4baa-a0ef-42d1296f05ef",
+      "content": "<p>the artifacts originated elsewhere and eventually reached Kuulo Kataa through trade or migration.</p>"
+    },
+    {
+      "id": "b0e576a7-ae5c-41c8-bc95-7f0f5ac8843e",
+      "content": "<p>Kuulo Kataa was founded by people from a different region than had previously been assumed.</p>"
+    },
+    {
+      "id": "b10c4c41-2a57-4c8a-af87-851299988b5f",
+      "content": "<p>excavations at Kuulo Kataa may have inadvertently damaged some artifacts dating to the fourteenth century CE.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

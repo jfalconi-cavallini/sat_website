@@ -1,0 +1,38 @@
+{
+  "vaultid": "b6ce0eb3-8019-464b-bedd-2d402e38d451",
+  "keys": [
+    "eb880d77-8c02-4540-98de-036a5fcafac2"
+  ],
+  "rationale": "<p>Choice C is the best answer. &ldquo;Next&rdquo; logically signals that the egg laying in this sentence is the next step in the sequence of events described in the other sentences. </p><p>Choice A is incorrect because &ldquo;by contrast&rdquo; illogically signals that the egg laying in this sentence contrasts with the nest digging in the previous sentence. Instead, the egg laying follows the nest digging as the next step in the sequence of events. Choice B is incorrect because &ldquo;similarly&rdquo; illogically signals that the egg laying in this sentence is similar to the nest digging in the previous sentence. Though the two actions are related, they are not similar. Instead, the egg laying follows the nest digging as the next step in the sequence of events. Choice D is incorrect because &ldquo;for example&rdquo; illogically signals that the egg laying in this sentence is an example of the nest digging in the previous sentence. Instead, the egg laying follows the nest digging as the next step in the sequence of events. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "646459cd-e5c2-497c-a3f1-a2dd38fd1867",
+  "stimulus": "<p>In June, female loggerhead sea turtles will swim back to the sandy beaches where they were born to lay eggs of their own. First, the turtle will dig her nest in the sand. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> she will lay up to 100 eggs in the nest. Finally, she will cover it all with sand, before returning to the ocean.</p>",
+  "templateclusterid": "27da2d02-358c-4331-bf5c-06c3d668664a",
+  "parenttemplatename": "OSP-241-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "b980eba3-cc40-4f05-9bac-0e7674155386",
+      "content": "<p>By contrast,</p>"
+    },
+    {
+      "id": "d8435ad3-4e30-4c4d-b961-712e502e8a58",
+      "content": "<p>Similarly,</p>"
+    },
+    {
+      "id": "eb880d77-8c02-4540-98de-036a5fcafac2",
+      "content": "<p>Next,</p>"
+    },
+    {
+      "id": "91562746-ad33-4798-8afd-e6bbb84877d4",
+      "content": "<p>For example,</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

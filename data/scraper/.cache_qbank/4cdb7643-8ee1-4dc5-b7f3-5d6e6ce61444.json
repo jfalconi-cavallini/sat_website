@@ -1,0 +1,38 @@
+{
+  "vaultid": "f22a069e-1e86-43a7-a1b3-da74154dcccc",
+  "keys": [
+    "9351899c-b712-421f-8cbe-7686dc7f3ac7"
+  ],
+  "rationale": "<p>Choice C is the best answer because it characterizes how Maddux would most likely respond to the conclusion Sharif reached after her research. Text 1 describes Sharif&rsquo;s study of the benefits of free time, saying that the reported sense of satisfaction plateaued at two hours per day and began to decline at five hours per day. Further research led Sharif to conclude that time spent doing tasks she defines as unproductive, such as watching TV or playing games, correlated with a drop in life satisfaction. &nbsp;However, in Text 2 Maddux says that there is no objective definition of what constitutes productive behavior, giving the example that reading a book might be considered productive by some but unproductive by others. It can be inferred that Maddux would also assert that whether watching TV or playing games is productive or unproductive is a matter of subjective judgment. Thus, Maddux would most likely caution against making an overly broad assumption, as there is no clear consensus in distinguishing between productive and unproductive activities. </p><p>Choice A is incorrect because Maddux asserts that individuals have unique needs for life satisfaction: some may want to spend that time productively, others unproductively, and what counts as productive is subjective. Therefore, Maddux would likely not consider it universally true that free time is more likely to enhance life satisfaction when it is spent productively. Choice B is incorrect because the study described in Text 1 concerns whether free time contributes to life satisfaction, not whether productivity contributes to life satisfaction. The dip in life satisfaction that Sharif claims to observe in Text 1 happens only after five hours, and mainly if the time is spent unproductively&mdash;that is, two hours of free time spent productively might increase life satisfaction just as much as two hours spent unproductively. Choice D is incorrect because Maddux holds the opinion that whether an activity is productive or unproductive is subjective and depends on the individual; therefore, he would most likely claim that watching TV or playing games might be productive for some and unproductive for others. </p>",
+  "origin": "proteus",
+  "stem": "<p>Based on the texts, how would Maddux (Text 2) most likely respond to the conclusion Sharif (Text 1) reached after her further research?</p>",
+  "externalid": "4cdb7643-8ee1-4dc5-b7f3-5d6e6ce61444",
+  "stimulus": "<p>&nbsp;</p><p><span aria-level=\"2\" role=\"heading\"><strong>Text 1</strong></span></p>\n<p>In a study of the benefits of having free time, Marissa Sharif found that the reported sense of life satisfaction tended to plateau when participants had two hours of free time per day and actually began to fall when they had five hours of free time per day. After further research, Sharif concluded that this dip in life satisfaction mainly occurred when individuals spent all their free time unproductively, such as by watching TV or playing games.</p>\n<p>&nbsp;</p><p><span aria-level=\"2\" role=\"heading\"><strong>Text 2</strong></span></p>\n<p>Psychologist James Maddux cautions against suggesting an ideal amount of free time. The human desire for both free time and productivity is universal, but Maddux asserts that individuals have unique needs for life satisfaction. Furthermore, he points out that there is no objective definition for what constitutes productivity; reading a book might be considered a productive activity by some, but idleness by others.</p>",
+  "templateclusterid": "faca7399-ae96-422b-a17d-a427f707465f",
+  "parenttemplatename": "OSP-010-CTC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "c8a40848-6b94-4538-9011-536faeb13b1e",
+      "content": "<p>By acknowledging that free time is more likely to enhance life satisfaction when it is spent productively than when it is spent unproductively</p>"
+    },
+    {
+      "id": "c470d641-3ee6-42c1-ba2a-c82dbb166a6f",
+      "content": "<p>By challenging the reasoning in Text 1, as it has not been proved that productivity commonly contributes to individuals&rsquo; life satisfaction</p>"
+    },
+    {
+      "id": "9351899c-b712-421f-8cbe-7686dc7f3ac7",
+      "content": "<p>By warning against making an overly broad assumption, as there is no clear consensus in distinguishing between productive and unproductive activities</p>"
+    },
+    {
+      "id": "dbe23c03-3d3c-406a-ba82-4eeb17a05b73",
+      "content": "<p>By claiming that the specific activities named in Text 1 are actually examples of productive activities rather than unproductive ones</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

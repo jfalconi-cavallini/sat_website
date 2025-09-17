@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Barring major archaeological discoveries, we are unlikely to ever have <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> account of ancient Egypt under the female pharaoh Hatshepsut, as much of the evidence of her reign was deliberately destroyed by her successors.&nbsp;</p>",
+  "keys": [
+    "669dfa0e-75f1-4c11-9463-585138b93965"
+  ],
+  "answerOptions": [
+    {
+      "id": "25a12bf8-2fde-4702-8b8d-e8b1ab409e7b",
+      "content": "<p>an imaginative</p>"
+    },
+    {
+      "id": "b85b76aa-4865-42ec-bd16-5e9203231e0c",
+      "content": "<p>a superficial</p>"
+    },
+    {
+      "id": "669dfa0e-75f1-4c11-9463-585138b93965",
+      "content": "<p>an exhaustive</p>"
+    },
+    {
+      "id": "46aa1087-2bfa-44b3-978a-8b3e017795d4",
+      "content": "<p>a questionable</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of historical evidence about ancient Egypt under the reign of the pharaoh Hatshepsut. In this context, \"an exhaustive\" account would be a thorough one. The text states that much of the evidence from her reign was purposely destroyed&mdash;in other words, there is a lack of surviving records. This context conveys that unless there are major new archaeological discoveries, an exhaustive account of Hatshepsut&rsquo;s reign is unlikely.</p><p>Choice A is incorrect because in this context, \"an imaginative\" account would be an account based on imagination, or ideas and speculation, rather than facts. The text indicates that much of the evidence of Hatshepsut&rsquo;s reign was deliberately destroyed, and a lack of evidence actually makes it more likely that accounts will be imaginative to some degree and not strictly factual. Choice B is incorrect because in this context, \"a superficial\" account would be one that is lacking in depth or concerned only with what is obvious. The text indicates that most evidence of Hatshepsut&rsquo;s reign was purposely destroyed, which suggests that accounts of that time are likely already somewhat superficial, since there is little information available to support deeper knowledge. Further, it would be illogical to suggest that discovering major new evidence would make it more likely that accounts would be superficial. Choice D is incorrect because \"a questionable\" account would be one likely to be challenged or doubted, and since the text suggests that little evidence of Hatshepsut&rsquo;s reign has survived, accounts of that time probably involve some speculation and thus may already be open to doubt. Further, it would be illogical to suggest that discovering major new evidence would make it more likely that accounts would be questionable.</p>",
+  "externalid": "a4391066-927e-4668-af32-7c66692cdac0",
+  "correct_answer": [
+    "C"
+  ]
+}

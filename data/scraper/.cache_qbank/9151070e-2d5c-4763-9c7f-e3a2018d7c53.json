@@ -1,0 +1,38 @@
+{
+  "vaultid": "84c607ba-c2b2-4d32-b2d4-a63a3d8752b4",
+  "keys": [
+    "8f6618b7-12d9-4e78-8b7a-d34833b1a211"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most accurately describes the main purpose of the text, which is to explain different ways in which Julius was helpful. The text begins with the narrator stating that Julius was very helpful to him and his wife when they moved to their new residence. The narrator then provides a list of examples to illustrate Julius&rsquo;s helpfulness. For instance, the narrator states that Julius was familiar with the neighborhood&rsquo;s roads, which suggests that he was helpful in navigating them, and that Julius helped manage the horses and dogs. The text&rsquo;s many examples of Julius&rsquo;s usefulness reinforce just how helpful he was and in how many different ways. </p><p>Choice A is incorrect because the text doesn&rsquo;t portray either the narrator&rsquo;s or his wife&rsquo;s reaction to their new home. Rather, the text focuses on how Julius was useful to the narrator and his wife in their new home. Choice B is incorrect. Although the text states that Julius was knowledgeable about the soil, this is one of several supporting details that illustrate how helpful Julius was. Moreover, the text merely states that Julius was knowledgeable about soil; it doesn&rsquo;t provide an example of that knowledge. Choice C is incorrect because there&rsquo;s nothing in the text to suggest the frequency with which the narrator and Julius hunted and fished together. In fact, it&rsquo;s unclear from the text whether the narrator and Julius hunted and fished together at all. The text merely indicates that Julius knew the best places to hunt and fish&mdash;a detail that supports the text&rsquo;s main purpose by conveying Julius&rsquo;s usefulness. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "externalid": "9151070e-2d5c-4763-9c7f-e3a2018d7c53",
+  "stimulus": "<p>The following text is adapted from Charles Chesnutt&rsquo;s 1899 short story &ldquo;Mars Jeems&rsquo;s Nightmare.&rdquo; The narrator and his wife have recently moved to the southern United States, and Julius is their carriage driver.</p>\n<blockquote>\n<p>Julius [was] very useful when we moved to our new residence. He had a thorough knowledge of the neighborhood, was familiar with the roads and the watercourses, knew the qualities of the various soils and what they would produce, and where the best hunting and fishing were to be had. He was a marvelous hand in the management of horses and dogs.</p>\n</blockquote>",
+  "templateclusterid": "322d08c5-ab8f-4603-a9fe-5318905dc247",
+  "parenttemplatename": "OSP-045-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "37c70264-5d22-474b-9367-f89e50d164d3",
+      "content": "<p>To compare the narrator&rsquo;s reaction to a new home with his wife&rsquo;s reaction</p>"
+    },
+    {
+      "id": "5a7008ef-39b0-4330-8b9b-c46afd37f37e",
+      "content": "<p>To give an example of Julius&rsquo;s knowledge about soil</p>"
+    },
+    {
+      "id": "9c1c2ca3-4713-4fbb-bc6e-677438945e66",
+      "content": "<p>To show that the narrator and Julius often hunt and fish together</p>"
+    },
+    {
+      "id": "8f6618b7-12d9-4e78-8b7a-d34833b1a211",
+      "content": "<p>To explain different ways in which Julius was helpful</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

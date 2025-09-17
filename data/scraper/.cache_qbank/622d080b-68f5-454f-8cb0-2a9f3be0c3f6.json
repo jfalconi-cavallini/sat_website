@@ -1,0 +1,38 @@
+{
+  "vaultid": "3abdef0e-8c1b-4a61-b0f9-f14d9a40ac06",
+  "keys": [
+    "62943c2d-baeb-4873-b23a-07dda05d76d5"
+  ],
+  "rationale": "<p>Choice B is the best answer because as used in the text, &ldquo;disturbed&rdquo; most nearly means alarmed. The text portrays the narrator traveling in a carriage as wolves howl in the surrounding darkness. The text contrasts the reaction of both the narrator and the horses pulling the carriage with that of the driver of the carriage: the narrator and horses are &ldquo;dreadfully afraid,&rdquo; but the driver is &ldquo;not in the least disturbed.&rdquo; In other words, the driver is not alarmed by the wolves nearby. </p><p>Choice A is incorrect. Although in some contexts, &ldquo;disturbed&rdquo; can mean disorganized, the text doesn&rsquo;t portray a character acting in a disorganized manner; instead, the driver continues to drive the carriage, even though the horses pulling it are alarmed.&nbsp;Choice C is incorrect. Although in some contexts, &ldquo;disturbed&rdquo; can mean offended, the text doesn&rsquo;t portray one character feeling offended, or upset, by another&rsquo;s actions; instead, it contrasts the fear felt by the narrator with another character&rsquo;s lack of fear.&nbsp;Choice D is incorrect. Although in some contexts, &ldquo;disturbed&rdquo; can mean interrupted, the text doesn&rsquo;t portray an action being interrupted; indeed, the travel depicted in the scene continues despite the threat of the wolves outside the carriage. </p>",
+  "origin": "proteus",
+  "stem": "<p>As used in the text, what does the word &ldquo;disturbed&rdquo; most nearly mean?</p>",
+  "externalid": "622d080b-68f5-454f-8cb0-2a9f3be0c3f6",
+  "stimulus": "<p>The following text is from Bram Stoker&rsquo;s 1897 novel <em>Dracula</em>. The narrator is being driven in a carriage through a remote region at night.</p>\n<blockquote>\n<p>The baying of the wolves sounded nearer and nearer, as though they were closing round on us from every side. I grew dreadfully afraid, and the horses shared my fear. The driver, however, was not in the least <span role=\"region\" aria-label=\"Referenced Content\"><u>disturbed</u></span>; he kept turning his head to left and right, but I could not see anything through the darkness.</p>\n</blockquote>",
+  "templateclusterid": "3905bc5f-99cb-48ed-85ce-e53fc1ec7865",
+  "parenttemplatename": "OSP-040-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "bcdb6b6b-d4e6-4c34-8628-9fb463ceecc1",
+      "content": "<p>Disorganized</p>"
+    },
+    {
+      "id": "62943c2d-baeb-4873-b23a-07dda05d76d5",
+      "content": "<p>Alarmed</p>"
+    },
+    {
+      "id": "6d7fc0bb-5c14-4215-b6b0-943f018199d5",
+      "content": "<p>Offended</p>"
+    },
+    {
+      "id": "a36e6764-0ad8-40b8-a322-5a794b73e26d",
+      "content": "<p>Interrupted</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "da94b648-1176-4631-b54d-0f5a22b736ab",
+  "keys": [
+    "87893737-513e-4ac8-9ecc-33e0e7997b9b"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of Ikeguchi&rsquo;s model of bicycle supply. In this context, &ldquo;saturated with&rdquo; means thoroughly or completely supplied with. The text explains a problem encountered by some bicycle-sharing programs: users can return bicycles to different locations than where the users picked up the bicycles to start, which can result in a mismatch between bicycle supply (that is, where the bicycles are currently located) and user demand (that is, the locations where users are hoping to pick up bicycles). The text goes on to explain that Ikeguchi developed a way to identify when this mismatch is likely to occur. This context suggests that Ikeguchi&rsquo;s method will show when it is likely that some locations have an insufficient supply and other locations, by implicit contrast, are saturated with bicycles.&nbsp;</p><p>Choice A is incorrect because nothing in the text suggests that some locations are &ldquo;susceptible to,&rdquo; or sensitive to or easily influenced by, bicycles. The text describes the phenomenon of bicycles being redistributed away from locations where users want them, not anything about those locations being influenced by the bicycles.&nbsp;Choice B is incorrect because the text describes situations in which some locations have an insufficient supply of bicycles because the bicycles have been relocated elsewhere, which suggests that the other locations have many bicycles, not that the other locations are &ldquo;contingent on,&rdquo; or dependent on, the bicycles. Nothing in the text suggests that the locations themselves depend on the bicycles for anything.&nbsp;Choice D is incorrect because it would not make sense in context to say that some locations are &ldquo;depleted of,&rdquo; or empty of, bicycles while others have an insufficient supply. The text describes situations in which bicycles have been relocated such that there is a mismatch between bicycle supply and user demand&mdash;the bicycles are no longer at the locations where users want to pick them up. This means that some locations do not have enough bicycles, while other locations must have many bicycles, not be depleted of bicycles.&nbsp;\n&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "5ab9e25c-d33b-480e-a713-c128b553594a",
+  "stimulus": "<p>Bicycle sharing systems allow users to rent a bicycle at one location within a city and return it to any other designated location in that city, which can cause serious problems of bicycle supply and user demand within the city&rsquo;s system. Tohru Ikeguchi uses open-source data and statistical modeling to identify when a high number of users making one-way trips is likely to leave some locations within the system <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> bicycles and other areas with insufficient supply.</p>",
+  "templateclusterid": "0d1c8519-c4ba-4b9b-a0ad-6ca9f979d255",
+  "parenttemplatename": "OSP-054-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "173a4d5b-21b4-4a00-ae2a-6b5986f5d582",
+      "content": "<p>susceptible to</p>"
+    },
+    {
+      "id": "c4466057-b46e-418a-b20c-5dcd5db90903",
+      "content": "<p>contingent on</p>"
+    },
+    {
+      "id": "87893737-513e-4ac8-9ecc-33e0e7997b9b",
+      "content": "<p>saturated with</p>"
+    },
+    {
+      "id": "bdd44ec1-bc0f-4469-9849-ab6c8cbe16ad",
+      "content": "<p>depleted of</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "c1d2e578-b2c2-4ac6-80a6-c40337fe33f8",
+  "keys": [
+    "30990ddf-b04f-4eb1-a2d4-e5e5dab0584c"
+  ],
+  "rationale": "<p>Choice A is the best answer. &ldquo;Afterward&rdquo; logically signals that the events described in this sentence&mdash;the CEO&rsquo;s public acknowledgment and apology&mdash;occurred after the rocket booster&rsquo;s failure and are part of a chronological sequence of events. </p><p>Choice B is incorrect because &ldquo;additionally&rdquo; illogically signals that the events described in this sentence merely occurred in addition to the rocket booster&rsquo;s failure. Instead, they occurred after the rocket booster&rsquo;s failure and are part of a chronological sequence of events. Choice C is incorrect because &ldquo;indeed&rdquo; illogically signals that the events described in this sentence emphasize or strengthen a statement made in the previous sentence. Instead, they occurred after the rocket booster&rsquo;s failure and are part of a chronological sequence of events. Choice D is incorrect because &ldquo;similarly&rdquo; illogically signals that the events described in this sentence are similar to the rocket booster&rsquo;s failure. Instead, they occurred after the rocket booster&rsquo;s failure and are part of a chronological sequence of events. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "f93a02d8-826b-49c5-aed8-a019e194a3ad",
+  "stimulus": "<p>During a 2021 launch, Rocket Labs&rsquo; Electron rocket experienced an unexpected failure: its second-stage booster shut down suddenly after ignition. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> instead of downplaying the incident, Rocket Labs&rsquo; CEO publicly acknowledged what happened and apologized for the loss of the rocket&rsquo;s payload, which had consisted of two satellites.</p>",
+  "templateclusterid": "ffe959c7-26cf-44e9-b5d9-490264304409",
+  "parenttemplatename": "OSP-209-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "30990ddf-b04f-4eb1-a2d4-e5e5dab0584c",
+      "content": "<p>Afterward,</p>"
+    },
+    {
+      "id": "c1fccbed-e6dd-4060-bd10-d5e5cd92950c",
+      "content": "<p>Additionally,</p>"
+    },
+    {
+      "id": "dd02a62d-82de-483c-b0f7-4d9be3eca716",
+      "content": "<p>Indeed,</p>"
+    },
+    {
+      "id": "34c46831-717c-4f51-bd8d-07de0344e9d1",
+      "content": "<p>Similarly,</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "f66dc93c-5973-4205-b2c9-a9a1838c608f",
+  "keys": [
+    "a6e8eb8c-05be-402e-bc32-6389116ceafd"
+  ],
+  "rationale": "<p>Choice A is the best answer. The conventions being tested are the use of possessive determiners and plural nouns. The singular possessive determiner \"its\" and the plural noun \"wings\" correctly indicate that the butterfly has multiple wings.</p><p>Choice B is incorrect because the context requires the plural noun \"wings,\" not the plural possessive noun \"wings&rsquo;.\" Choice C is incorrect because the context requires the singular possessive determiner \"its\" and the plural noun \"wings,\" not the contraction \"it&rsquo;s\" and the singular possessive noun \"wing&rsquo;s.\" Choice D is incorrect because the context requires the singular possessive determiner \"its\" and the plural noun \"wings,\" not the contraction \"it&rsquo;s\" and the plural possessive noun \"wings&rsquo;.\"</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "4013bf79-48e1-43dc-b34f-7b74a15c2005",
+  "stimulus": "<p>Mathematician and meteorologist Edward Lorenz used the metaphor of the &ldquo;butterfly effect&rdquo; to explain how seemingly minor events can have major impacts on future weather. According to Lorenz&rsquo;s metaphor, the wind from a butterfly flapping <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in Brazil might eventually grow into a storm elsewhere across the globe.</p>",
+  "templateclusterid": "2bd368f9-a19b-42b6-a7bd-2643ba2f5cf6",
+  "parenttemplatename": "OSP-760-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "a6e8eb8c-05be-402e-bc32-6389116ceafd",
+      "content": "<p>its wings</p>"
+    },
+    {
+      "id": "9a6dc76f-2f7a-4544-aff0-a695b6f8d2ed",
+      "content": "<p>its wings&rsquo;</p>"
+    },
+    {
+      "id": "f876f835-7c17-46df-9086-7dbd7d4210a9",
+      "content": "<p>it&rsquo;s wing&rsquo;s</p>"
+    },
+    {
+      "id": "4439b4eb-18dd-48d6-963f-dd9257dddfa5",
+      "content": "<p>it&rsquo;s wings&rsquo;</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

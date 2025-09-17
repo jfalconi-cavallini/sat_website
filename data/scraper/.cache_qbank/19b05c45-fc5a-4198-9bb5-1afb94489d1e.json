@@ -1,0 +1,38 @@
+{
+  "vaultid": "8b0603a1-cc84-41b7-b9f4-af86827f25b4",
+  "keys": [
+    "1fd2b43a-8e38-46be-ae82-2696355ae9b8"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the use of finite and nonfinite verb forms within a sentence. The nonfinite to-infinitive &ldquo;to tell&rdquo; is correctly used to form a nonfinite (infinitive) clause that explains the reason Engle uses poetry in her novel. </p><p>Choice A is incorrect because the finite present tense verb &ldquo;tells&rdquo; can&rsquo;t be used in this way to explain the reason that Engle uses poetry in her novel.&nbsp;Choice B is incorrect because the finite past tense verb &ldquo;told&rdquo; can&rsquo;t be used in this way to explain the reason that Engle uses poetry in her novel. Choice C is incorrect because the finite present progressive tense verb &ldquo;is telling&rdquo; can&rsquo;t be used in this way to explain the reason that Engle uses poetry in her novel.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "19b05c45-fc5a-4198-9bb5-1afb94489d1e",
+  "stimulus": "<p>In the historical novel <em>The Surrender Tree</em>, Cuban American author Margarita Engle uses poetry rather than prose <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the true story of Cuban folk hero Rosa La Bayamesa.</p>",
+  "templateclusterid": "8c8ffa78-d41a-44eb-a6bf-96f02afe9978",
+  "parenttemplatename": "OSP-701-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "2ba07b9f-b514-4ab5-9a28-11219b768c5f",
+      "content": "<p>tells</p>"
+    },
+    {
+      "id": "9498122d-cfb1-4c52-8d9a-88b099bdb015",
+      "content": "<p>told</p>"
+    },
+    {
+      "id": "3754534e-f0be-454b-a4aa-7e443d6e348d",
+      "content": "<p>is telling</p>"
+    },
+    {
+      "id": "1fd2b43a-8e38-46be-ae82-2696355ae9b8",
+      "content": "<p>to tell</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

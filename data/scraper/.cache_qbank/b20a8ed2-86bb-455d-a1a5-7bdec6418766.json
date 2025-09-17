@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>That the geographic center of North America lay in the state of North Dakota was conceded by all <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> establishing its precise coordinates proved more divisive.</p>",
+  "keys": [
+    "9db825c3-fe2d-4b91-b554-6de1464c124f"
+  ],
+  "answerOptions": [
+    {
+      "id": "f7611c35-f081-4e3c-8b8b-692e4c2bf2c1",
+      "content": "<p>involved<span data-ssml-say-as=\"characters\">:</span></p>"
+    },
+    {
+      "id": "7ea461a8-6aca-45f5-8910-9ceb22e816d2",
+      "content": "<p>involved<span data-ssml-say-as=\"characters\">,</span></p>"
+    },
+    {
+      "id": "d2324ad5-cb70-415b-9b07-ba2edc249453",
+      "content": "<p>involved</p>"
+    },
+    {
+      "id": "9db825c3-fe2d-4b91-b554-6de1464c124f",
+      "content": "<p>involved<span data-ssml-say-as=\"characters\">;</span></p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the use of punctuation within a sentence. This choice uses a semicolon in a conventional way to join the first main clause (\"That the...involved\") and the second main clause (\"establishing...divisive\"). Further, the semicolon is the most appropriate choice when joining two separate, parallel statements, such as here, where the information following the semicolon contrasts with the information before.</p><p>Choice A is incorrect because placing a colon after \"involved\" illogically indicates that the information in the second main clause (the precise location was the subject of disagreement) explains or amplifies the information in the previous main clause (the general location was agreed upon by all). Instead, the information in the second clause contrasts with the previous information. Choice B is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses. Choice C is incorrect because it results in a run-on sentence. The two main clauses are fused without punctuation and/or a conjunction.</p>",
+  "externalid": "b20a8ed2-86bb-455d-a1a5-7bdec6418766",
+  "correct_answer": [
+    "D"
+  ]
+}

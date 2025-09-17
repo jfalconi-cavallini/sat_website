@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>With a blend of traditional design elements, such as arched Gothic ceilings, and modern ones, such as floor-to-ceiling <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> design splits the difference between old and new, a mixture that is increasingly seen in home interiors in the US.</p>",
+  "keys": [
+    "7e6e11be-43ef-4cf8-9f3d-cadf89fb694c"
+  ],
+  "answerOptions": [
+    {
+      "id": "7fa3a196-246e-4c08-a50b-2039ec668b21",
+      "content": "<p>windows<span data-ssml-say-as=\"characters\">;</span> transitional</p>"
+    },
+    {
+      "id": "18e63d12-e3c6-4a5c-8bd7-4efbdca4dc76",
+      "content": "<p>windows<span data-ssml-say-as=\"characters\">&mdash;</span>transitional</p>"
+    },
+    {
+      "id": "871d44a6-1cd6-493b-a19b-a26b67a34ef8",
+      "content": "<p>windows<span data-ssml-say-as=\"characters\">.</span> Transitional</p>"
+    },
+    {
+      "id": "7e6e11be-43ef-4cf8-9f3d-cadf89fb694c",
+      "content": "<p>windows<span data-ssml-say-as=\"characters\">,</span> transitional</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the use of punctuation within a sentence. This choice correctly uses a comma to mark the boundary between the introductory subordinate clause (\"With&hellip;windows\") and the main clause (\"transitional design splits the difference between old and new\").</p><p>Choice A is incorrect because a semicolon can&rsquo;t be used in this way to separate the subordinate clause (\"With&hellip;windows\") from the main clause (\"transitional&hellip;new\"). Choice B is incorrect because a dash can&rsquo;t be used in this way to separate the subordinate clause (\"With&hellip;windows\") from the main clause (\"transitional&hellip;new\"). Choice C is incorrect because it results in a rhetorically unacceptable sentence fragment beginning with \"with.\"</p>",
+  "externalid": "a760f97a-cad4-405b-85a2-3ddd2319a971",
+  "correct_answer": [
+    "D"
+  ]
+}

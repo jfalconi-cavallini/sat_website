@@ -1,0 +1,38 @@
+{
+  "vaultid": "ae978922-c3e6-4b41-a284-50c3c7175a14",
+  "keys": [
+    "56896059-82bb-441a-8009-7c15c7122d9b"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of the writing system created by Sequoyah. In this context, &ldquo;widespread&rdquo; means widely accepted or practiced. The text indicates that because Sequoyah&rsquo;s script accurately represented the spoken sounds of the Cherokee language and was easy to learn, nearly all Cherokee people were able to read and write it soon after it was created. This context demonstrates that the script was widely used by the Cherokee people. </p><p>Choice B is incorrect. In this context, &ldquo;careful&rdquo; would mean exercised with care and attentive concern. Although the work of creating a writing system likely involved great care, the text indicates that the system was &ldquo;easy to learn,&rdquo; which conflicts with the idea that using this system requires a noteworthy amount of care. Choice C is incorrect because in this context &ldquo;unintended&rdquo; means not deliberate. The idea that using Sequoyah&rsquo;s script was unintentional conflicts directly with the claim that it was easy to learn and used by &ldquo;over 90% of the Cherokee people&rdquo; by 1830. In fact, because one had to learn this system, it&rsquo;s not clear how one could use it unintentionally.&nbsp;Choice D is incorrect because in this context &ldquo;infrequent&rdquo; means rare or not occurring often, which conflicts directly with the claim that &ldquo;over 90% of the Cherokee people&rdquo; were using Sequoyah&rsquo;s script by 1830. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "5c87b72d-e67b-4861-bd6c-49c722059c99",
+  "stimulus": "<p>In the early 1800s, the Cherokee scholar Sequoyah created the first script, or writing system, for an Indigenous language in the United States. Because it represented the sounds of spoken Cherokee so accurately, his script was easy to learn and thus quickly achieved <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> use: by 1830, over 90 percent of the Cherokee people could read and write it.</p>",
+  "templateclusterid": "b7ff5eb8-1c7c-49ed-9d2e-10a5932a18cb",
+  "parenttemplatename": "OSP-973-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "56896059-82bb-441a-8009-7c15c7122d9b",
+      "content": "<p>widespread</p>"
+    },
+    {
+      "id": "d9f5af1e-dd68-46ed-a755-dbdbc703db2e",
+      "content": "<p>careful</p>"
+    },
+    {
+      "id": "67f44715-acb7-4520-ae75-044a708a1b6e",
+      "content": "<p>unintended</p>"
+    },
+    {
+      "id": "87cd2369-5cb8-4487-89de-36013382780f",
+      "content": "<p>infrequent</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

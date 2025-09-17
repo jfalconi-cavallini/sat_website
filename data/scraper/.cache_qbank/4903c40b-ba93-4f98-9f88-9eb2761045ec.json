@@ -1,0 +1,38 @@
+{
+  "vaultid": "90402771-565e-482f-a35a-477762c6b4a1",
+  "keys": [
+    "a43baabd-93df-439d-97c5-d82a1a5f13a8"
+  ],
+  "rationale": "<p>Choice D is the best answer because as used in the text, &ldquo;answers&rdquo; most nearly means fulfills. In the text, Fabry and Busman claim that the robots manufactured by their company are more efficient than human workers, which they refer to as &ldquo;the human machine.&rdquo; Fabry observes that the human machine &ldquo;no longer answers the requirements of <em>modern engineering</em>.&rdquo; That is, human workers are incapable of meeting the rigorous needs of modern, industrialized workplaces. </p><p>Choice A is incorrect. Although in some contexts &ldquo;answers&rdquo; can mean explains, it doesn&rsquo;t have that meaning in this context because the topic under discussion is human beings&rsquo; inability to perform labor efficiently, not their inability to engage in discussion or explanation.&nbsp;Choice B is incorrect. Although in some contexts &ldquo;answers&rdquo; can mean rebuts, or proves a claim or argument to be false, it wouldn&rsquo;t make sense to speak of proving<em> </em>requirements<em> </em>to be false; requirements might or might not be reasonable, but they can&rsquo;t be verified as truthful or untruthful, as claims or accusations can.&nbsp;Choice C is incorrect. Although in some contexts, &ldquo;answers&rdquo; can mean defends against criticism, or justifies, it doesn&rsquo;t have that meaning in this context because the opinion that Fabry expresses is that human workers can no longer fulfill the requirements of modern workplaces, not that they have ceased to justify those requirements or to defend them against criticism; indeed, there is no suggestion in the text that workers ever defended those requirements.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>As used in the text, what does the word &ldquo;answers&rdquo; most nearly mean?</p>",
+  "externalid": "4903c40b-ba93-4f98-9f88-9eb2761045ec",
+  "stimulus": "<p>The following text is adapted from Karel Čapek&rsquo;s 1920 play <em>R.U.R. (Rossum&rsquo;s Universal Robots</em>), translated by Paul Selver and Nigel Playfair in 1923. Fabry and Busman are telling Miss Glory why their company manufactures robots.</p>\n<p style=\"padding-left:1em\">FABRY: One Robot can replace two and a half&nbsp;<em>workmen</em>. The human machine, Miss Glory, was terribly&nbsp;<em>imperfect</em>. It had to be removed sooner or later.</p>\n<p style=\"padding-left:1em\">BUSMAN: It was too expensive.</p>\n<p style=\"padding-left:1em\">FABRY: It was not <em>effective</em>. It no longer <span role=\"region\" aria-label=\"Referenced Content\"><u>answers</u></span> the requirements of&nbsp;<em>modern engineering</em>. Nature has no idea of keeping pace with&nbsp;<em>modern labor</em>.&nbsp;</p>",
+  "templateclusterid": "dff50a65-b58b-4970-9a3d-0c58bae2d59a",
+  "parenttemplatename": "OSP-033-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "febedb21-15a1-4eb2-a3b4-5c8aa1d611b5",
+      "content": "<p>Explains</p>"
+    },
+    {
+      "id": "6c560069-7c1d-439f-ada4-1e16df138226",
+      "content": "<p>Rebuts</p>"
+    },
+    {
+      "id": "8b0175cf-1a52-4db2-9c57-3e0c6311669a",
+      "content": "<p>Defends</p>"
+    },
+    {
+      "id": "a43baabd-93df-439d-97c5-d82a1a5f13a8",
+      "content": "<p>Fulfills</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

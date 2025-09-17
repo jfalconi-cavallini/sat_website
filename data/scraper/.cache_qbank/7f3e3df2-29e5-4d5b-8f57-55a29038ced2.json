@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>In his painting <em>At the Cycle-Race Track</em>, Jean Metzinger aims to depict a bike race in four-dimensional space. Of course, Metzinger&rsquo;s painting doesn&rsquo;t technically represent a fourth dimension; humans can only see in three dimensions. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> by depicting the race through multiple, simultaneous perspectives, Metzinger offers a fascinating glimpse at what this other universe might look like.</p>",
+  "keys": [
+    "a9059ddc-f24e-4416-9b9c-a28bfc3b3545"
+  ],
+  "answerOptions": [
+    {
+      "id": "dfb3a3c4-a554-4d0e-abea-b9a139fb82ff",
+      "content": "<p>Moreover,</p>"
+    },
+    {
+      "id": "a9059ddc-f24e-4416-9b9c-a28bfc3b3545",
+      "content": "<p>That said,</p>"
+    },
+    {
+      "id": "ca466328-f7e8-4a54-84e8-63d21efe34fc",
+      "content": "<p>In other words,</p>"
+    },
+    {
+      "id": "18b63aac-6dc4-4fe6-869e-caaeeab2dae1",
+      "content": "<p>For example,</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. \"That said\" logically signals that the statement in this sentence&mdash;that Metzinger offers a glimpse of four-dimensional space by depicting multiple, simultaneous perspectives&mdash;is true despite the point in the previous sentence (that Metzinger&rsquo;s painting doesn&rsquo;t technically represent a fourth dimension because humans can only see in three dimensions).</p><p>Choice A is incorrect because \"moreover\" illogically signals that the information in this sentence merely adds to the previous point about Metzinger&rsquo;s painting. Instead, it provides information that is true despite that previous point. Choice C is incorrect because \"in other words\" illogically signals that the information in this sentence is a paraphrase or restatement of the previous point about Metzinger&rsquo;s painting. Instead, it provides information that is true despite that previous point. Choice D is incorrect because \"for example\" illogically signals that the information in this sentence provides an example that supports the previous point about Metzinger&rsquo;s painting. Instead, it provides information that is true despite that previous point.</p>",
+  "externalid": "7f3e3df2-29e5-4d5b-8f57-55a29038ced2",
+  "correct_answer": [
+    "B"
+  ]
+}

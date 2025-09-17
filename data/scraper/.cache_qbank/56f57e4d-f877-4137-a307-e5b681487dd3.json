@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>There are three basic steps you should follow when planning a scientific inquiry. First, thoroughly research the question you wish to answer. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> come up with a prediction (also called a hypothesis) about the answer to your question. Third, develop an experiment that can test the accuracy of your hypothesis.</p>",
+  "keys": [
+    "1ca1cc0c-5b1a-441c-903a-72a79248a52a"
+  ],
+  "answerOptions": [
+    {
+      "id": "ed5ba619-1b92-446f-8c2b-f2129f04191f",
+      "content": "<p>Therefore,</p>"
+    },
+    {
+      "id": "364334ab-0505-48f4-9cf1-266de0671a6d",
+      "content": "<p>Instead,</p>"
+    },
+    {
+      "id": "962dada8-dbf3-4141-85d6-f471d55df516",
+      "content": "<p>For example,</p>"
+    },
+    {
+      "id": "1ca1cc0c-5b1a-441c-903a-72a79248a52a",
+      "content": "<p>Second,</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. \"Second\" logically signals that the activity described in this sentence&mdash;coming up with a prediction&mdash;is the next step in the three-part sequence of steps described in the text.</p><p>Choice A is incorrect because \"therefore\" illogically signals that coming up with a prediction is a result or consequence of the activity described in the previous sentence: researching a question. While a prediction may be influenced by prior research, these activities are distinct steps in planning a scientific inquiry. Coming up with a prediction is the next step in the three-part sequence of steps described in the text. Choice B is incorrect because \"instead\" illogically signals that coming up with a prediction is an alternative to the activity described in the previous sentence: researching a question. Rather, coming up with a prediction is the next step in the three-part sequence of steps described in the text. Choice C is incorrect because \"for example\" illogically signals that coming up with a prediction is an example of the activity described in the previous sentence: researching a question. Instead, coming up with a prediction is the next step in the three-part sequence of steps described in the text.</p>",
+  "externalid": "56f57e4d-f877-4137-a307-e5b681487dd3",
+  "correct_answer": [
+    "D"
+  ]
+}

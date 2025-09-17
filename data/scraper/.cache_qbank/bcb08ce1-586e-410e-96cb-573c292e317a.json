@@ -1,0 +1,38 @@
+{
+  "vaultid": "ded4c7e5-8c13-42c2-8f91-d9f87ecf9309",
+  "keys": [
+    "206ec460-8ba5-4677-ad95-26878f2a212e"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the discussion of the artist Diego Vel&aacute;zquez&rsquo;s influence outside Spain. As used in this context, &ldquo;confined to&rdquo; means restricted to. The text says that Vel&aacute;zquez was the leading artist in the Spanish court during the seventeenth century, but it also notes that other painters around the world were influenced by his techniques and style. Thus, Vel&aacute;zquez&rsquo;s influence was hardly (or almost not) confined to, or restricted to, Spain. </p><p>Choice A is incorrect because if Vel&aacute;zquez was a leading artist in Spain, it doesn&rsquo;t make logical sense to claim that his influence was hardly (or almost not) derived from, or obtained from, Spain. Moreover, the other painters around the world who employed Vel&aacute;zquez&rsquo;s techniques would by definition be influenced by Spanish style. Choice B is incorrect because if Vel&aacute;zquez was a leading artist in the court of King Philip IV of Spain, then his influence must have been widely recognized, or acknowledged, rather than being hardly (or almost not) recognized. Choice D is incorrect because the text gives no indication that deliberately limiting Vel&aacute;zquez&rsquo;s influence outside Spain was ever considered by anyone. Thus, even if it is true that his influence was not repressed, or restrained, it doesn&rsquo;t make logical sense to say so in this context. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "bcb08ce1-586e-410e-96cb-573c292e317a",
+  "stimulus": "<p>Diego Vel&aacute;zquez was the leading artist in the court of King Philip IV of Spain during the seventeenth century, but his influence was hardly <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Spain: realist and impressionist painters around the world employed his techniques and echoed elements of his style.</p>",
+  "templateclusterid": "247d681c-c525-4d52-a8f6-f122f6b4c577",
+  "parenttemplatename": "OSP-909-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "3e64c055-d31a-459f-888a-246e8c674f4c",
+      "content": "<p>derived from</p>"
+    },
+    {
+      "id": "d32f9875-45da-453d-a133-53a4bb104730",
+      "content": "<p>recognized in</p>"
+    },
+    {
+      "id": "206ec460-8ba5-4677-ad95-26878f2a212e",
+      "content": "<p>confined to</p>"
+    },
+    {
+      "id": "3dc99845-bd0b-4d45-9505-53b896e53ecc",
+      "content": "<p>repressed by</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

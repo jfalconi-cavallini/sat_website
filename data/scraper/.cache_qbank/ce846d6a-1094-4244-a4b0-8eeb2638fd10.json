@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>In 2021, a model developed by astrophysicist Catherine Zucker and her research team revealed that the same supernovas responsible for the creation and ongoing expansion of the Local Bubble&mdash;a 14-million-year-old cavity in the Milky Way&mdash;are likely responsible for the formation of new stars. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> this model detailed how the bubble&rsquo;s expansion trapped interstellar clouds of gas and dust that became stars upon their eventual collapse.</p>",
+  "keys": [
+    "7443f9b4-0001-4026-bce2-ee35bd6f8012"
+  ],
+  "answerOptions": [
+    {
+      "id": "c7b5c78e-c11d-4aaf-982f-a737092b6ddf",
+      "content": "<p>Hence,</p>"
+    },
+    {
+      "id": "ab6ca2d3-2591-4654-9c2d-b5497c4c8269",
+      "content": "<p>However,</p>"
+    },
+    {
+      "id": "c849bfa8-ee14-477b-9e23-ed8bbde28199",
+      "content": "<p>Admittedly,</p>"
+    },
+    {
+      "id": "7443f9b4-0001-4026-bce2-ee35bd6f8012",
+      "content": "<p>Specifically,</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. \"Specifically\" logically signals that the information in this sentence&mdash;that the Local Bubble&rsquo;s expansion trapped clouds of gas and dust that formed new stars&mdash;provides specific, precise details elaborating on the more general information in the previous sentence about the relationship between the Local Bubble&rsquo;s expansion and the formation of new stars.</p><p>Choice A is incorrect because \"hence\" illogically signals that the information in this sentence is a result of the information in the previous sentence about the relationship between the Local Bubble&rsquo;s expansion and the formation of new stars. Instead, this sentence provides specific, precise details elaborating on that information. Choice B is incorrect because \"however\" illogically signals that the information in this sentence contrasts with the information in the previous sentence about the relationship between the Local Bubble&rsquo;s expansion and the formation of new stars. Instead, this sentence provides specific, precise details elaborating on that information. Choice C is incorrect because \"admittedly\" illogically signals that the information in this sentence provides an exception or caveat to the previous information about the relationship between the Local Bubble&rsquo;s expansion and the formation of new stars. Instead, this sentence provides specific, precise details elaborating on that information.</p>",
+  "externalid": "ce846d6a-1094-4244-a4b0-8eeb2638fd10",
+  "correct_answer": [
+    "D"
+  ]
+}

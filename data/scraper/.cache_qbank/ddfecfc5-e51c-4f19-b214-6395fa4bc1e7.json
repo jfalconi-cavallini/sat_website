@@ -1,0 +1,38 @@
+{
+  "vaultid": "ea15197c-2f2a-42a6-b59e-6980761f36bd",
+  "keys": [
+    "778d0767-41dc-45b7-8fa9-f8d731bbdb70"
+  ],
+  "rationale": "<p>Choice D is the best answer. &ldquo;Specifically&rdquo; logically signals that the information in this sentence about Sauer&rsquo;s argument&mdash;that, according to Sauer, cultures play a role in their own development, as opposed to being shaped solely by natural surroundings&mdash;provides specific, precise details elaborating on the more general information in the previous sentence about how Sauer challenged prevailing views about how natural landscapes influence human cultures. </p><p>Choice A is incorrect because &ldquo;similarly&rdquo; illogically signals that the information in this sentence about Sauer&rsquo;s argument is similar to, but separate from, the more general information in the previous sentence. Instead, it provides specific, precise details elaborating on that information. Choice B is incorrect because &ldquo;finally&rdquo; illogically signals that the information in this sentence about Sauer&rsquo;s argument indicates a last step in a process or a concluding summary. Instead, it provides specific, precise details elaborating on the general information in the previous sentence. Choice C is incorrect because &ldquo;therefore&rdquo; illogically signals that the information in this sentence about Sauer&rsquo;s argument is a result of the more general information in the previous sentence. Instead, it provides specific, precise details elaborating on that information. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "ddfecfc5-e51c-4f19-b214-6395fa4bc1e7",
+  "stimulus": "<p>In his 1925 book <em>The Morphology of Landscape</em>,<em> </em>US geographer<em> </em>Carl Sauer challenged prevailing views about how natural landscapes influence human cultures. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Sauer argued that instead of being shaped entirely by their natural surroundings, cultures play an active role in their own development by virtue of their interactions with the environment.</p>",
+  "templateclusterid": "a6e60f11-10c3-4745-94f4-f12b51c52c69",
+  "parenttemplatename": "OSP-228-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "757f161c-cc63-40fc-97a6-d9cf6860223c",
+      "content": "<p>Similarly,</p>"
+    },
+    {
+      "id": "1d6f4fe5-0178-42e9-a2d0-d1fb47218295",
+      "content": "<p>Finally,</p>"
+    },
+    {
+      "id": "abaf4f02-5e10-4ebf-a4d9-402aba089f24",
+      "content": "<p>Therefore,</p>"
+    },
+    {
+      "id": "778d0767-41dc-45b7-8fa9-f8d731bbdb70",
+      "content": "<p>Specifically,</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

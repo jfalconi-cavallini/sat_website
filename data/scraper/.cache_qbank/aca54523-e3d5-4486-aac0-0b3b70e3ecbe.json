@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>How did whales, once no bigger than seals, evolve to become the largest animals on Earth? Brazilian biologist Mariana Nery believes the answer might be found in whales&rsquo; DNA. In January 2023, Nery and her colleagues <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> a study showing changes over time in four whale genes associated with body size.</p>",
+  "type": "mcq",
+  "keys": [
+    "664e7eb6-c566-45e9-affb-6ca2036f8a9a"
+  ],
+  "answerOptions": [
+    {
+      "id": "664e7eb6-c566-45e9-affb-6ca2036f8a9a",
+      "content": "<p>published</p>"
+    },
+    {
+      "id": "740e8d59-795d-4dcd-9bed-26ff4679c9c5",
+      "content": "<p>publishing</p>"
+    },
+    {
+      "id": "641acfeb-420f-4320-9885-302818a1b88f",
+      "content": "<p>having published</p>"
+    },
+    {
+      "id": "c917b569-b893-4649-b2d4-9d113a008396",
+      "content": "<p>to publish</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of verb forms within a sentence. A main clause requires a finite (tensed) verb to perform the action of the subject (in this case, Nery and her colleagues), and this choice supplies the finite past tense verb \"published\" to indicate that these biologists shared their findings about changes in whale genes associated with body size.</p><p>Choice B is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"publishing\" doesn&rsquo;t supply the main clause with a finite verb. Choice C is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"having published\" doesn&rsquo;t supply the main clause with a finite verb. Choice D is incorrect because it results in an ungrammatical sentence. The nonfinite to-infinitive \"to publish\" doesn&rsquo;t supply the main clause with a finite verb.</p>",
+  "externalid": "aca54523-e3d5-4486-aac0-0b3b70e3ecbe",
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "stimulus": "<p>Elizabeth Asiedu has identified a negative correlation between the share of developing countries&rsquo; economies derived from natural-resource extraction and those countries&rsquo; receipts of foreign investment. This may appear counterintuitive&mdash;resource extraction requires initial investments (in extractive technology, for instance) at scales best met by multinational corporations&mdash;but Asiedu notes that natural-resource industries&rsquo; boom-bust cycle can destabilize local currencies and increase developing countries&rsquo; vulnerability to external shocks, creating levels of uncertainty to which foreign investors are typically averse.</p>",
+  "type": "mcq",
+  "keys": [
+    "fb642109-7216-4692-860f-670ef46dec44"
+  ],
+  "answerOptions": [
+    {
+      "id": "2059d26c-45a2-40b8-ac22-2f37da0ea508",
+      "content": "<p>Although it may seem surprising that foreign investment declines in developing countries as natural-resource extraction makes up a larger share of those countries&rsquo; economies, that decline happens because resource extraction requires initial investments too large for foreign investors to supply.&nbsp;</p>"
+    },
+    {
+      "id": "062cbc77-4d0f-4aee-a7d7-4bbdbfe11fbb",
+      "content": "<p>Although developing countries tend to become less dependent on foreign investment as natural-resource industries make up a larger share of their economies, this change may not occur if the boom-bust cycle of those industries destabilizes local currencies or increases countries&rsquo; vulnerability to external shocks.&nbsp;</p>"
+    },
+    {
+      "id": "fb642109-7216-4692-860f-670ef46dec44",
+      "content": "<p>Although one might expect that foreign investment would increase as natural-resource extraction makes up a larger share of developing countries&rsquo; economies, the opposite happens because heavy reliance on natural resources can lead to unattractive conditions for investors.&nbsp;&nbsp;</p>"
+    },
+    {
+      "id": "2b6d19f5-31b3-4cbd-b10e-1996db8ae2f8",
+      "content": "<p>Although foreign investors tend to avoid initial investments in natural-resource industries in developing countries, foreign investment may increase significantly as those industries stabilize and the risks associated with them decline.&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it accurately states the main idea of the text. According to the text, contrary to what some might expect, foreign investment is typically lower in developing countries whose economies are more dependent on natural-resource extraction. The text explains that high reliance on natural-resource extraction can subject a developing country to economic shocks that can destabilize the local currency and introduce economic uncertainty that tends to keep investors away. In other words, although we may think otherwise, foreign investors are less willing to invest in projects in developing countries whose economies are heavily dependent on natural-resource extraction because those economies tend to exhibit instability that investors want to avoid.</p><p>Choice A is incorrect. The text does indicate that foreign investment is typically lower in developing countries whose economies are more dependent on natural-resource extraction; the text further indicates that natural-resource extraction requires substantial initial investments (to acquire things like required technologies) for which there are fewer investors willing to participate at this stage than one might think. But the text does not implicate the cost of these initial investments as a reason why foreign investment is less widely available than some might think. Choice B is incorrect. The text indicates that greater dependence on natural-resource extraction makes a developing country less appealing to foreign investors because of associated economic instability. Rather than arguing that the goal of developing countries is to become less dependent on foreign investment, as the phrasing of choice B suggests, the text focuses only on why foreign investors become less involved with such countries, which suggests that more investment would be preferable. Choice D is incorrect. Although the text indicates that natural-resource extraction requires substantial initial investments (to acquire things like required technologies) and that there are fewer likely investors willing to participate at this stage than one might think, the text does not address what investors are likely to do over time as the industry stabilizes itself.</p>",
+  "externalid": "c62128d3-85ec-4b5a-8f7e-cedfc5850c29",
+  "correct_answer": [
+    "C"
+  ]
+}

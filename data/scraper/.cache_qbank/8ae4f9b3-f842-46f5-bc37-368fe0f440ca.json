@@ -1,0 +1,38 @@
+{
+  "vaultid": "efe7cccc-0277-49e6-aaab-67d1df41fb4f",
+  "keys": [
+    "29497cbf-73aa-40e0-bfe7-89748af7fb00"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most accurately states the main idea of the text. After establishing that Buck views most people &ldquo;as nothing,&rdquo; the text explains that Buck won&rsquo;t acknowledge people other than Thornton unless they appear friendly toward Thornton, and even then he&rsquo;s only reluctantly accepting. Thus, the text focuses on the idea that Thornton has a special status in Buck&rsquo;s mind, with Buck holding him in higher regard than other people. </p><p>Choice A is incorrect because the text conveys that Buck isn&rsquo;t social with people other than Thornton but doesn&rsquo;t address Buck&rsquo;s life or temperament before he lived with Thornton. Choice B is incorrect because the text conveys that Buck doesn&rsquo;t really care about people other than Thornton and is aloof toward them. However, there&rsquo;s no indication that Buck mistrusts and avoids people generally; indeed, he accepts Thornton, who is a human. Choice C is incorrect because the text refers to random travelers praising and petting Buck and Thornton&rsquo;s partners giving Buck favors, but there&rsquo;s no indication that any of these people are Thornton&rsquo;s friends or that they have a particular fondness for Buck. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "externalid": "8ae4f9b3-f842-46f5-bc37-368fe0f440ca",
+  "stimulus": "<p>The following text is adapted from Jack London&rsquo;s 1903 novel <em>The Call of the Wild</em>. Buck is a sled dog living with John Thornton in Yukon, Canada.</p>\n<p style='padding-left: 1em;'>Thornton alone held [Buck]. The rest of mankind was as nothing. Chance travellers might praise or pet him; but he was cold under it all, and from a too demonstrative man he would get up and walk away. When Thornton&rsquo;s partners, Hans and Pete, arrived on the long-expected raft, Buck refused to notice them till he learned they were close to Thornton; after that he tolerated them in a passive sort of way, accepting favors from them as though he favored them by accepting. </p>",
+  "templateclusterid": "d751946a-b6e1-4766-b6f9-d4eb5cb73d36",
+  "parenttemplatename": "OSP-020-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "383d6e55-4f9b-4fb0-89a2-b8385aae3ce9",
+      "content": "<p>Buck has become less social since he began living with Thornton.</p>"
+    },
+    {
+      "id": "fa969027-81a0-4011-b8af-ef7e4fb08ace",
+      "content": "<p>Buck mistrusts humans and does his best to avoid them.</p>"
+    },
+    {
+      "id": "f408ec59-1050-488f-abd4-a8c72727a99d",
+      "content": "<p>Buck has been especially well liked by most of Thornton&rsquo;s friends.</p>"
+    },
+    {
+      "id": "29497cbf-73aa-40e0-bfe7-89748af7fb00",
+      "content": "<p>Buck holds Thornton in higher regard than any other person.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

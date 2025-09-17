@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>To illustrate Albert Einstein&rsquo;s special theory of relativity, picture two jugglers: one juggling on a steadily moving parade float, the other juggling while standing still on a sidewalk. The laws of physics are identical for both <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> motion relative to each other. But what, Einstein wondered, about the speed of light?</p>",
+  "type": "mcq",
+  "keys": [
+    "b16df6a9-af65-4cdd-b082-793ddf1670e7"
+  ],
+  "answerOptions": [
+    {
+      "id": "4d06d14d-905b-449a-90cf-22692d5bfddb",
+      "content": "<p>jugglers&rsquo;, regardless of they&rsquo;re</p>"
+    },
+    {
+      "id": "f9dd019b-ff96-44e6-a192-21497b81a5dc",
+      "content": "<p>jugglers, regardless of there</p>"
+    },
+    {
+      "id": "f34ce214-b1d9-442b-9fbc-fa15f5fb5cb5",
+      "content": "<p>juggler&rsquo;s, regardless of their</p>"
+    },
+    {
+      "id": "b16df6a9-af65-4cdd-b082-793ddf1670e7",
+      "content": "<p>jugglers, regardless of their</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the use of plural nouns and possessive determiners. The plural noun \"jugglers\" and the plural possessive determiner \"their\" correctly indicate that there are multiple jugglers whose motion is being discussed.</p><p>Choice A is incorrect because the context requires the plural noun \"jugglers\" and the plural possessive determiner \"their,\" not the plural possessive noun \"jugglers&rsquo;\" and the contraction \"they&rsquo;re.\" Choice B is incorrect because the context requires the plural possessive determiner \"their,\" not the word \"there,\" which means \"in that place.\" Choice C is incorrect because the context requires the plural noun \"jugglers,\" not the singular possessive noun \"juggler&rsquo;s.\"</p>",
+  "externalid": "7a063e82-5711-4ff4-998d-9e1431f4d16c",
+  "correct_answer": [
+    "D"
+  ]
+}

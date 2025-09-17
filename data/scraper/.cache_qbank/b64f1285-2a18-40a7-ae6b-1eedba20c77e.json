@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>With residents from Mexico, China, El Salvador, and many other countries, Los Angeles has long been a city of cultural diversity. Even back in the 1860s, nearly 30% of the city&rsquo;s population <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> from outside the United States.</p>",
+  "type": "mcq",
+  "keys": [
+    "97b84fbd-ea90-408c-b3d5-dbcf447cfdcf"
+  ],
+  "answerOptions": [
+    {
+      "id": "c1772eb2-64b0-4ffb-b9f5-a0c64dab5780",
+      "content": "<p>is being</p>"
+    },
+    {
+      "id": "97b84fbd-ea90-408c-b3d5-dbcf447cfdcf",
+      "content": "<p>was</p>"
+    },
+    {
+      "id": "6ffd5077-d93c-406a-bb51-a07ad544be6b",
+      "content": "<p>is</p>"
+    },
+    {
+      "id": "f7204749-1070-4473-a616-bcfb6191e241",
+      "content": "<p>will be</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the use of verbs to express tense in a sentence. In this choice, the past tense verb \"was,\" used in conjunction with the prepositional phrase \"from outside the United States,\" correctly indicates that in the 1860s nearly 30% of the population in Los Angeles wasn&rsquo;t from the US.</p><p>Choice A is incorrect because the present progressive tense verb \"is being\" doesn&rsquo;t indicate that the claim about Los Angeles&rsquo;s population refers to the population back in the 1860s. Choice C is incorrect because the present tense verb \"is\" doesn&rsquo;t indicate that the claim about Los Angeles&rsquo;s population refers to the population back in the 1860s. Choice D is incorrect because the future tense verb \"will be\" doesn&rsquo;t indicate that the claim about Los Angeles&rsquo;s population refers to the population back in the 1860s.</p>",
+  "externalid": "b64f1285-2a18-40a7-ae6b-1eedba20c77e",
+  "correct_answer": [
+    "B"
+  ]
+}

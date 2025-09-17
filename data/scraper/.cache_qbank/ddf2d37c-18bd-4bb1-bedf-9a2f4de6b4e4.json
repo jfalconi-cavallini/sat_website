@@ -1,0 +1,38 @@
+{
+  "vaultid": "df5a6b96-8c5a-4125-a942-28cff137ebea",
+  "keys": [
+    "b605e3d1-9d80-421a-8e4a-5832f8f02f73"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the punctuation of elements in a complex series. It&rsquo;s conventional to use a semicolon to separate items in a complex series with internal punctuation, and in this choice, the semicolon after \"time\" is conventionally used to separate the first item (\"offered&hellip;time\") and the second (\"celebrated&hellip;holiday\") in the series of activities that librarian Pura Belpr&eacute; offered. Moreover, the semicolon after \"time\" matches the semicolon used later to separate the second item (\"celebrated...holiday\") and the third (\"and...folktales\") in the series.</p><p>Choice A is incorrect because it fails to use appropriate punctuation to separate the first item and the second item in the complex series. Furthermore, a comma isn&rsquo;t needed between the noun \"practice\" and the prepositional phrase \"at the time\" because the prepositional phrase is essential to the full meaning of the phrase \"an uncommon practice at the time.\" Choice C is incorrect because a comma after \"time\" doesn&rsquo;t match the semicolon used later to separate the second (\"celebrated...holiday\") and third (\"and...folktales\") items in the series. Furthermore, a comma isn&rsquo;t needed between the noun \"practice\" and the prepositional phrase \"at the time\" because the prepositional phrase is essential to the full meaning of the phrase \"an uncommon practice at the time.\" Choice D is incorrect because a comma after \"time\" doesn&rsquo;t match the semicolon used later to separate the second (\"celebrated...holiday\") and third (\"and...folktales\") items in the series.</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "ddf2d37c-18bd-4bb1-bedf-9a2f4de6b4e4",
+  "stimulus": "<p>To serve local families during the Great Depression, innovative New York City librarian Pura Belpr&eacute; offered storytelling in both English and Spanish, an uncommon <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> celebrated <em>el D&iacute;a de los Tres Reyes Magos</em>,<em> </em>an important community holiday; and put on puppet shows dramatizing Puerto Rican folktales.</p>",
+  "templateclusterid": "c76a3c6c-a1fa-41a7-acd1-ad46a7242720",
+  "parenttemplatename": "OSP-795-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "dfddf6ee-b014-4eb3-a820-a954d1abfb07",
+      "content": "<p>practice, at the time</p>"
+    },
+    {
+      "id": "b605e3d1-9d80-421a-8e4a-5832f8f02f73",
+      "content": "<p>practice at the time;</p>"
+    },
+    {
+      "id": "c114e903-b081-4add-a5a3-a233d0a3a224",
+      "content": "<p>practice, at the time,</p>"
+    },
+    {
+      "id": "483e912b-5312-4224-af94-dff79c10fbf1",
+      "content": "<p>practice at the time,</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

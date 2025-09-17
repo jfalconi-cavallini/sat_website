@@ -1,0 +1,31 @@
+{
+  "stem": "<p>As used in the text, what does the word &ldquo;invent&rdquo; most nearly mean?</p>",
+  "stimulus": "<p>The following text is adapted from Frances Hodgson Burnett&rsquo;s 1905 novel <em>A Little Princess</em>. Sara is a young student at a school in London.</p>\n<blockquote>\n<p>Sara not only could tell stories, but she adored telling them. When she sat or stood in the midst of a circle and began to <span role=\"region\" aria-label=\"Referenced Content\"><u>invent</u></span> wonderful things, her green eyes grew big and shining, her cheeks flushed, and, without knowing that she was doing it, she began to act and made what she told lovely or alarming by the raising or dropping of her voice.</p>\n</blockquote>",
+  "type": "mcq",
+  "keys": [
+    "f323a61c-637c-49c7-913c-9a5c007bb857"
+  ],
+  "answerOptions": [
+    {
+      "id": "e2c9cbc8-fb10-41fe-8a1b-d4ae027db03a",
+      "content": "<p>Mislead</p>"
+    },
+    {
+      "id": "de063c02-7fe2-432f-952a-6092ffc41650",
+      "content": "<p>Disguise</p>"
+    },
+    {
+      "id": "f323a61c-637c-49c7-913c-9a5c007bb857",
+      "content": "<p>Create</p>"
+    },
+    {
+      "id": "cecfa0fc-f146-4358-af9f-d48c172ded2d",
+      "content": "<p>Discover</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because as used in the text, \"invent\" most nearly means create or make up. The text begins by stating that Sara likes to tell stories and thoroughly enjoys telling them. The rest of the text describes how she looks and acts when she invents, or creates, \"wonderful things\" in her stories (\"what she told\").</p><p>Choice A is incorrect. Although the text suggests that Sara makes up \"wonderful things,\" nothing suggests that she does so to mislead, or intentionally deceive, others; there is no reason to assume that Sara&rsquo;s listeners don&rsquo;t know that she&rsquo;s creating the stories she shares. Choice B is incorrect because nothing in the text suggests that Sara is disguising, or trying to cover up or conceal, \"wonderful things\" when she tells stories; rather, she is creating them and presenting them in ways that make them \"lovely or alarming\" for her listeners. Choice D is incorrect because nothing in the text suggests that Sara is discovering, or unexpectedly finding, \"wonderful things\" in the stories she loves to tell; rather, that she is making things up as she tells the stories.</p>",
+  "externalid": "b867f47a-68a4-4c84-a661-e10ad53f6c12",
+  "correct_answer": [
+    "C"
+  ]
+}

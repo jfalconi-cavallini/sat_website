@@ -1,0 +1,38 @@
+{
+  "vaultid": "0b273599-157e-4ada-bcae-9dd0d32ae59a",
+  "keys": [
+    "1844afeb-f4b0-409b-b934-47dfabd8f04f"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of letters allegedly exchanged between President Lincoln and Rutledge. In this context, &ldquo;validate&rdquo; means to confirm that something is real or correct. According to the text, it was alleged, or claimed, that the newly discovered letters had been written by Lincoln and Rutledge. The text also indicates that historians ultimately decided the letters were a hoax, or fraudulent. This context suggests that the historians couldn&rsquo;t confirm that the letters were authentic. </p><p>Choice B is incorrect. The text focuses on the authenticity of the letters, which were claimed to have been written by Lincoln and Rutledge and were then quickly dismissed as fraudulent by historians. Rather than conveying that the historians simply weren&rsquo;t able to &ldquo;interpret,&rdquo; or explain in an understandable way, the letters&rsquo; authenticity, the text suggests that the historians decided the letters lacked authenticity altogether. Choice C is incorrect. The text states that the historians quickly dismissed the letters claimed to have been written by Lincoln and Rutledge as fraudulent; this suggests that rather than being unable to &ldquo;relate,&rdquo; or tell others about, the letters&rsquo; authenticity, the historians were able to share what they&rsquo;d decided about the letters. Choice D is incorrect because it wouldn&rsquo;t make sense to suggest that the historians couldn&rsquo;t &ldquo;accommodate,&rdquo; or give consideration to, the authenticity of the letters claimed to have been written by Lincoln and Rutledge; the text states that the historians decided that the letters were fraudulent, which indicates that they <em>did </em>consider whether the letters were authentic. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "50dae82d-91e1-489c-ab31-8af664bc9707",
+  "stimulus": "<p>In 1929 the<em> Atlantic Monthly </em>published several articles based on newly discovered letters allegedly exchanged between President Abraham Lincoln and a woman named Ann Rutledge. Historians were unable to <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the authenticity of the letters, however, and quickly dismissed them as a hoax.</p>",
+  "templateclusterid": "334effdf-eb20-498d-8d2a-d10bf80dd2c4",
+  "parenttemplatename": "OSP-965-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "1844afeb-f4b0-409b-b934-47dfabd8f04f",
+      "content": "<p>validate</p>"
+    },
+    {
+      "id": "49eef0ad-0375-419e-b743-e1445753617c",
+      "content": "<p>interpret</p>"
+    },
+    {
+      "id": "6ae92e72-db02-4120-bae7-646de0c758e5",
+      "content": "<p>relate</p>"
+    },
+    {
+      "id": "4169d29b-f3b2-4c6b-9b5f-3ed83ceffd22",
+      "content": "<p>accommodate</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "4ea83ada-5bce-4102-b1d4-8672581ec5e1",
+  "keys": [
+    "f132f364-4416-4f06-8351-ee6635558388"
+  ],
+  "rationale": "<p>Choice C is the best answer because it presents the conclusion that most logically follows from the text&rsquo;s discussion of scholars&rsquo; understanding of Maya ecology and agricultural marketplaces. The text indicates that scholars used to believe that during the Classic period, the Maya civilization didn&rsquo;t have agricultural marketplaces. According to the text, scholars held this view because they misunderstood the ecology of areas where the Maya lived. The text points out that people tend to create marketplaces in order to acquire resources they don&rsquo;t otherwise control. Agricultural marketplaces would have allowed farmers who produced one type of crop to trade that crop for other types of crops that they didn&rsquo;t produce. The text goes on to say, however, that scholars underestimated the ecological diversity of the Maya areas, meaning that scholars thought that the Maya landscape produced a smaller range of resources than it actually produced. Taken together, then, this information suggests that scholars assumed that marketplaces wouldn&rsquo;t have allowed Maya people to acquire products different from the products they already produced: that is, if everyone produced the same array of crops, as scholars mistakenly believed, then there wouldn&rsquo;t have been any need for marketplaces where people could trade those crops. </p><p>Choice A is incorrect because the text doesn&rsquo;t say anything about trade between the Maya and people from outside the regions controlled by the Maya. Although scholars&rsquo; mistaken belief that the Maya lands weren&rsquo;t very ecologically diverse would give those scholars a reason to think that the Maya didn&rsquo;t have marketplaces, it wouldn&rsquo;t lead scholars to assume that traders from outside Maya lands were uninterested in acquiring resources produced by the Maya. Even if the Maya actually did produce only a small array of resources throughout their lands, there is no reason to believe from the text that people outside Maya lands also produced these same resources and thus would have no need to trade with the Maya people. Choice B is incorrect because the text indicates that scholars underestimated the ecological diversity of the Maya lands, which suggests that they mistakenly believed that the Maya produced a relatively small array of resources throughout their territory, not that the crops the Maya produced varied significantly throughout the Maya lands. Although the scholars might have assumed that a lack of ecological diversity suggests that Maya farming practices were largely the same everywhere, the text does not support that they also assumed there was a lot of variation in the crops that Maya people produced. In fact, the text states that marketplaces emerge when people want to obtain resources they don&rsquo;t already control. If it were the case that scholars assumed that the crops Maya people produced varied significantly, this would have led them to conclude that Maya people likely established marketplaces so they could trade for resources they didn&rsquo;t already possess, not that the Maya civilization lacked marketplaces. Choice D is incorrect because nothing in the text suggests that scholars assumed that farmers wouldn&rsquo;t trade their agricultural products unless they had already met their own needs with those products. Instead, the text says that scholars thought that the Maya lands produced a smaller array of resources than they actually did, which the text suggests led scholars to assume that the Maya didn&rsquo;t have any need for marketplaces. The scholars&rsquo; mistaken belief has no bearing on the issue of whether farmers met their own needs before trading their products. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "d15c6de5-ed37-4abd-b581-ad392b36c426",
+  "stimulus": "<p>Archaeologists and historians used to believe that the Maya civilization during its Classic period (roughly 250&ndash;900) lacked agricultural marketplaces. One reason for this belief was that these scholars misunderstood the ecology of the regions the Maya inhabited. Marketplaces typically emerge because different individuals or groups want to trade resources they control for resources they don&rsquo;t control. Scholars seriously underestimated the ecological diversity of the Maya landscape and thus assumed that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "ba9b0527-7faa-4f01-a59c-94782261b9ed",
+  "parenttemplatename": "OSP-049-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "8f9674b3-ce4c-4234-958f-6965230825ad",
+      "content": "<p>marketplaces likely would not have attracted many traders from outside the regions controlled by the Maya.</p>"
+    },
+    {
+      "id": "af539123-79bc-4b25-a090-65cd058b2d38",
+      "content": "<p>farming practices would have been largely the same throughout Maya lands even if the crops people produced varied significantly.&nbsp;</p>"
+    },
+    {
+      "id": "f132f364-4416-4f06-8351-ee6635558388",
+      "content": "<p>marketplaces would not have enabled Maya people to acquire many products different from those they already produced.</p>"
+    },
+    {
+      "id": "34827347-7ce6-4333-945b-62dd0bac03de",
+      "content": "<p>farmers would trade agricultural products only if they had already produced enough to meet their own needs.&nbsp;</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

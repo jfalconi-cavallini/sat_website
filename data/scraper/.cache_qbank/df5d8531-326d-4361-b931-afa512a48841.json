@@ -1,0 +1,38 @@
+{
+  "vaultid": "1e8054e9-b620-4fe2-9d5c-59bbaf98d72d",
+  "keys": [
+    "b024f5e7-6ff6-4489-8acb-b8f3cc5f1c4c"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of Marilyn Dingle&rsquo;s baskets. In this context, to say that Dingle&rsquo;s baskets are &ldquo;handmade from&rdquo; particular plants means that Dingle creates baskets herself using those plants but without using machines. The text says that Dingle &ldquo;skillfully winds&rdquo; parts of palmetto palm plants around sweetgrass plants to make baskets with an appearance that &ldquo;no factory can reproduce.&rdquo; This context suggests that Dingle&rsquo;s baskets are handmade from sweetgrass and palmetto palm.&nbsp;</p><p>Choice A is incorrect because the text describes how Dingle uses sweetgrass and palmetto palm to create her baskets, not how her baskets are &ldquo;indicated by,&rdquo; or signified by, sweetgrass and palmetto palm. Choice C is incorrect. Although Dingle&rsquo;s baskets are described as being made using sweetgrass and palm, there&rsquo;s nothing in the text to suggest that the baskets are &ldquo;represented by,&rdquo; or exemplified or portrayed by, sweetgrass and palmetto palm. Instead, the focus of the text is on Dingle&rsquo;s use of sweetgrass and palmetto palm and the impossibility of replicating the appearance of her baskets using machines. Choice D is incorrect because there&rsquo;s nothing in the text to suggest that Dingle&rsquo;s baskets are &ldquo;collected with,&rdquo; or brought together in a group with, sweetgrass and palmetto palm. Instead, the text describes how Dingle uses those plants to make her baskets. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "df5d8531-326d-4361-b931-afa512a48841",
+  "stimulus": "<p>Artist Marilyn Dingle&rsquo;s intricate, coiled baskets are <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> sweetgrass and palmetto palm. Following a Gullah technique that originated in West Africa, Dingle skillfully winds a thin palm frond around a bunch of sweetgrass with the help of a &ldquo;sewing bone&rdquo; to create the basket&rsquo;s signature look that no factory can reproduce.</p>",
+  "templateclusterid": "0479c35f-1088-470a-ad9e-fed6cf806d70",
+  "parenttemplatename": "OSP-977-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "c4a524e4-fd33-4ed3-b1de-490bc4c7d02b",
+      "content": "<p>indicated by</p>"
+    },
+    {
+      "id": "b024f5e7-6ff6-4489-8acb-b8f3cc5f1c4c",
+      "content": "<p>handmade from</p>"
+    },
+    {
+      "id": "a73d6f87-1e4e-477b-a133-84802940cd70",
+      "content": "<p>represented by</p>"
+    },
+    {
+      "id": "58a22376-aa4e-41da-a392-6183d70ad2fa",
+      "content": "<p>collected with</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

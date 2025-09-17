@@ -1,0 +1,38 @@
+{
+  "vaultid": "3c2189b4-4391-4445-b557-0d6c182c213a",
+  "keys": [
+    "d6908c5e-d019-4db5-ad93-4e7644ad41c4"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of ectomycorrhizae relationships. In this context, &ldquo;reciprocates&rdquo; means responds in kind or degree. The text indicates that the relationship between certain fungi and trees in some habitats is &ldquo;mutually beneficial&rdquo; and involves a &ldquo;symbiotic exchange&rdquo; in which each organism helps the other access an important nutrient. In other words, each organism provides the same kind of benefit it receives: the tree provides a nutrient (carbon) for the fungus and the fungus reciprocates by helping the tree to absorb more of another nutrient (nitrogen). </p><p>Choice A is incorrect because the text emphasizes that the relationship between certain fungi and trees in some habitats involves a &ldquo;symbiotic exchange&rdquo; in which each organism helps the other access an important nutrient. Nothing in the text suggests that the fungus &ldquo;overreacts,&rdquo; or responds too strongly, by allowing the tree to be better able to absorb a beneficial nutrient. Choice C is incorrect because &ldquo;retaliates&rdquo; means responds to a harmful action with a similarly harmful action. The text indicates that the relationship between certain fungi and trees in some habitats is &ldquo;mutually beneficial&rdquo; and involves a &ldquo;symbiotic exchange&rdquo; in which each organism helps the other, not that the relationship is one in which the organisms harm one another.&nbsp;Choice D is incorrect. In this context, &ldquo;deviates&rdquo; would mean departs from an established course or norm. The text explains that the relationship between certain fungi and trees in some habitats involves a &ldquo;symbiotic exchange&rdquo; in which each organism helps the other access an important nutrient. Because the relationship involves benefits for both the fungus and the tree, it wouldn&rsquo;t make sense to say that the fungus deviates by helping the tree be better able to absorb a beneficial nutrient. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "ea2589eb-9e1f-4005-a0c7-0b5721317471",
+  "stimulus": "<p>In habitats with limited nutrients, certain fungus species grow on the roots of trees, engaging in mutually beneficial relationships known as ectomycorrhizae: in this symbiotic exchange, the tree provides the fungus with carbon, a nutrient necessary for both species, and the fungus <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> by enhancing the tree&rsquo;s ability to absorb nitrogen, another key nutrient, from the soil.</p>",
+  "templateclusterid": "c7240a94-79f5-4df6-b3a4-cea5866acdc1",
+  "parenttemplatename": "OSP-959-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "3208ecc7-1eb8-462d-9d99-6d9dd3b8690f",
+      "content": "<p>overreacts</p>"
+    },
+    {
+      "id": "d6908c5e-d019-4db5-ad93-4e7644ad41c4",
+      "content": "<p>reciprocates</p>"
+    },
+    {
+      "id": "6eba76cc-5ba6-4a3c-ac1a-3742f9b1f5ab",
+      "content": "<p>retaliates</p>"
+    },
+    {
+      "id": "6bc14c62-5b82-45cb-b398-2eb5bdf1f6ee",
+      "content": "<p>deviates</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

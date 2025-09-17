@@ -1,0 +1,38 @@
+{
+  "vaultid": "b4eb2a34-04ef-4b7e-addb-1f640f8dae86",
+  "keys": [
+    "6197162c-fb4d-4031-91d5-390ac0a41d40"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is subject-modifier placement. This choice makes the noun phrase &ldquo;Anna Behrensmeyer&rdquo; the subject of the sentence and places it immediately after the modifying phrase &ldquo;a pioneer&hellip;fossils.&rdquo; In doing so, this choice clearly establishes that Anna Behrensmeyer&mdash;and not another noun in the sentence&mdash;is a pioneer in the field of taphonomy. </p><p>Choice A is incorrect because it results in a dangling modifier. The placement of the noun phrase &ldquo;fossils of thin-shelled organisms&rdquo; immediately after the modifying phrase illogically suggests that the &ldquo;fossils&rdquo; are a pioneer in the field of taphonomy.&nbsp;Choice C is incorrect because it results in a dangling modifier. The placement of the pronoun &ldquo;it&rdquo; immediately after the modifying phrase illogically suggests that &ldquo;it&rdquo; is a pioneer in the field of taphonomy. Choice D is incorrect because it results in a dangling modifier. The placement of the noun phrase &ldquo;a 2005 analysis&rdquo; immediately after the modifying phrase illogically suggests that &ldquo;a 2005 analysis&rdquo; is a pioneer in the field of taphonomy.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "8a266ac5-b158-488c-95a5-77d25a72d299",
+  "stimulus": "<p>A pioneer in the field of taphonomy (the study of how organic remains become fossils), <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> may be just as prevalent in the fossil record as those of thick-shelled organisms.</p>",
+  "templateclusterid": "e0921d43-22fd-4d22-8256-c76556f915e6",
+  "parenttemplatename": "OSP-742-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "fb3b709d-5802-4df5-892a-b51cb1ce90d9",
+      "content": "<p>fossils of thin-shelled organisms, Anna Behrensmeyer demonstrated in a 2005 analysis,</p>"
+    },
+    {
+      "id": "6197162c-fb4d-4031-91d5-390ac0a41d40",
+      "content": "<p>Anna Behrensmeyer demonstrated in a 2005 analysis that fossils of thin-shelled organisms</p>"
+    },
+    {
+      "id": "cf7e5506-0b04-445d-ba2d-2f58894171b2",
+      "content": "<p>it was demonstrated in a 2005 analysis by Anna Behrensmeyer that fossils of thin-shelled organisms</p>"
+    },
+    {
+      "id": "dd6b6e59-3020-4219-aa22-7c912308ecc9",
+      "content": "<p>a 2005 analysis&mdash;by Anna Behrensmeyer&mdash;demonstrated that fossils of thin-shelled organisms</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

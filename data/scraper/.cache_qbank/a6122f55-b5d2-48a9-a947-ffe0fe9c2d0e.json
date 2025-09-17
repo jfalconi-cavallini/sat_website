@@ -1,0 +1,38 @@
+{
+  "vaultid": "7cd56aab-21cf-4b54-96c0-3cc18f8723ae",
+  "keys": [
+    "7d88025b-01d9-406a-ac5b-e3c74fda8434"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the use of verbs to express tense. In this choice, the present tense verb &ldquo;survives&rdquo; correctly indicates that the wood frog regularly survives subfreezing temperatures by producing large amounts of glucose. </p><p>Choice A is incorrect because the past perfect verb &ldquo;had survived&rdquo; doesn&rsquo;t indicate that the wood frog regularly survives subfreezing temperatures by producing large amounts of glucose. Choice B is incorrect because the past tense verb &ldquo;survived&rdquo; doesn&rsquo;t indicate that the wood frog regularly survives subfreezing temperatures by producing large amounts of glucose. Choice C is incorrect because the conditional verb &ldquo;would survive&rdquo; doesn&rsquo;t indicate that the wood frog regularly survives subfreezing temperatures by producing large amounts of glucose. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "a6122f55-b5d2-48a9-a947-ffe0fe9c2d0e",
+  "stimulus": "<p>Like other amphibians, the wood frog (<em>Rana sylvatica</em>) is unable to generate its own heat, so during periods of subfreezing temperatures, it <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> by producing large amounts of glucose, a sugar that helps prevent damaging ice from forming inside its cells.</p>",
+  "templateclusterid": "ac9532d6-81eb-4604-9884-289a5ca3554a",
+  "parenttemplatename": "OSP-666-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "e17ee63c-ecb4-43f5-a5e1-434ff2332559",
+      "content": "<p>had survived</p>"
+    },
+    {
+      "id": "5d8c9d3e-43c3-4884-9831-8a72e53856c2",
+      "content": "<p>survived</p>"
+    },
+    {
+      "id": "36bb31b0-1e45-4f62-a38d-d9ba4e622c26",
+      "content": "<p>would survive</p>"
+    },
+    {
+      "id": "7d88025b-01d9-406a-ac5b-e3c74fda8434",
+      "content": "<p>survives</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

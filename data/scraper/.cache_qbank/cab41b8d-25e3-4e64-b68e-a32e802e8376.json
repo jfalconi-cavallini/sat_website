@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Preston Singletary is a Tlingit glass artist who often collaborates with other artists. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> he has worked with Tewa pottery artist Jody Naranjo several times. Together, Singletary and Naranjo have created pottery-inspired glass pieces such as <em>Sunset Stampede</em> and <em>Kiva Steps</em>.</p>",
+  "type": "mcq",
+  "keys": [
+    "d64e4976-6a02-4129-9f8a-8cd837507240"
+  ],
+  "answerOptions": [
+    {
+      "id": "d26b63a9-30a9-4e29-acf6-7debe2f72f04",
+      "content": "<p>In conclusion,&nbsp;</p>"
+    },
+    {
+      "id": "d64e4976-6a02-4129-9f8a-8cd837507240",
+      "content": "<p>For example,</p>"
+    },
+    {
+      "id": "b569030e-45e5-45a3-85e6-d65aad58fbfc",
+      "content": "<p>However,</p>"
+    },
+    {
+      "id": "683264db-ae0e-44bb-9892-d74132c2ab08",
+      "content": "<p>In comparison,&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. \"For example\" logically signals that this sentence&mdash;noting Singletary&rsquo;s work with Jody Naranjo&mdash;provides an example supporting the previous point about Singletary&rsquo;s collaborations with other artists.</p><p>Choice A is incorrect because \"in conclusion\" illogically signals that the information in this sentence concludes or summarizes the previous point about Singletary&rsquo;s collaborations with other artists. Instead, it provides an example in support of that point. Choice C is incorrect because \"however\" illogically signals that the information in this sentence contrasts with the previous point about Singletary&rsquo;s collaborations with other artists. Instead, it provides an example in support of that point. Choice D is incorrect because \"in comparison\" illogically signals that the information in this sentence is being compared to the previous point about Singletary&rsquo;s collaborations with other artists. Instead, it provides an example in support of that point.</p>",
+  "externalid": "cab41b8d-25e3-4e64-b68e-a32e802e8376",
+  "correct_answer": [
+    "B"
+  ]
+}

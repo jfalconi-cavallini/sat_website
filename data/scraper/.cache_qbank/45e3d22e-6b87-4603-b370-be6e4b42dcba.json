@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>The life spans of rockfish vary greatly by species. For instance, the colorful calico rockfish (<em>Sebastes dallii</em>) can survive for a little over a <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the rougheye rockfish (<em>Sebastes aleutianus</em>) boasts a maximum life span of about two centuries.&nbsp;</p>",
+  "keys": [
+    "522f3a0a-536f-488f-b1a9-fa7b5872ade2"
+  ],
+  "answerOptions": [
+    {
+      "id": "8eb2200c-c187-41ea-b467-35aeef54e308",
+      "content": "<p>decade<span data-ssml-say-as=\"characters\">:</span> while</p>"
+    },
+    {
+      "id": "ac0f4405-1c4c-43ca-a1a2-5bdd1402a718",
+      "content": "<p>decade<span data-ssml-say-as=\"characters\">.</span> While</p>"
+    },
+    {
+      "id": "cdb12309-5fea-41da-9e23-eb2be5b825c9",
+      "content": "<p>decade<span data-ssml-say-as=\"characters\">;</span> while</p>"
+    },
+    {
+      "id": "522f3a0a-536f-488f-b1a9-fa7b5872ade2",
+      "content": "<p>decade<span data-ssml-say-as=\"characters\">,</span> while</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is punctuation between a main clause and a subordinate clause. This choice correctly uses a comma to mark the boundary between the main clause (\"the colorful&hellip;decade\") and the subordinate clause (\"while&hellip;centuries\") that provides contrasting information about the life span of rougheye rockfish.</p><p>Choice A is incorrect because a colon can&rsquo;t be used in this way to join a main clause and a subordinate clause. Choice B is incorrect because it results in a rhetorically unacceptable sentence fragment beginning with \"while.\" Choice C is incorrect because a semicolon can&rsquo;t be used in this way to join a main clause and a subordinate clause.</p>",
+  "externalid": "45e3d22e-6b87-4603-b370-be6e4b42dcba",
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which finding, if true, would most directly support the researchers&rsquo; conclusion?</p>",
+  "stimulus": "<p>Early Earth is thought to have been characterized by a stagnant lid tectonic regime, in which the upper lithosphere (the outer rocky layer) was essentially immobile and there was no interaction between the lithosphere and the underlying mantle. Researchers investigated the timing of the transition from a stagnant lid regime to a tectonic plate regime, in which the lithosphere is fractured into dynamic plates that in turn allow lithospheric and mantle material to mix. Examining chemical data from lithospheric and mantle-derived rocks ranging from 285 million to 3.8 billion years old, the researchers dated the transition to 3.2 billion years ago.&nbsp;</p>",
+  "keys": [
+    "541420dc-d9e8-4607-b7ff-ba9d6076b056"
+  ],
+  "answerOptions": [
+    {
+      "id": "fc690c31-3acb-42b8-86f9-84bd53b88d19",
+      "content": "<p>Among rocks known to be older than 3.2 billion years, significantly more are mantle derived than lithospheric, but the opposite is true for the rocks younger than 3.2 billion years.&nbsp;</p>"
+    },
+    {
+      "id": "4b38b1d4-02f9-4f4f-adb4-7b428a9ad72e",
+      "content": "<p>Mantle-derived rocks older than 3.2 billion years show significantly more compositional diversity than lithospheric rocks older than 3.2 billion years do.&nbsp;</p>"
+    },
+    {
+      "id": "fd3ab33e-388d-4fd0-bc4c-f1540ada8fc7",
+      "content": "<p>There is a positive correlation between the age of lithospheric rocks and their chemical similarity to mantle-derived rocks, and that correlation increases significantly in strength at around 3.2 billion years old.&nbsp;</p>"
+    },
+    {
+      "id": "541420dc-d9e8-4607-b7ff-ba9d6076b056",
+      "content": "<p>Mantle-derived rocks younger than 3.2 billion years contain some material that is not found in older mantle-derived rocks but is found in older and contemporaneous lithospheric rocks.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents a finding that, if true, would most directly support the researchers&rsquo; conclusion that the transition from a stagnant lid regime to a tectonic plate regime occurred around 3.2 billion years ago. The text explains that early in Earth&rsquo;s history, Earth exhibited a stagnant lid regime in which there&rsquo;s no interaction between the lithosphere and the underlying mantle. The text further explains that, by contrast, once Earth began to exhibit a tectonic plate regime, its lithospheric and mantle material began to mix. If mantle-derived rocks younger than 3.2 billion years contain material not found in older mantle-derived rocks, that material must have originated somewhere other than the mantle. And if this material is found in both older and contemporaneous lithospheric rocks, that would imply that the lithosphere was able to mix with mantle material beginning around 3.2 billion years ago, as the researchers concluded.</p><p>Choice A is incorrect. The text gives no basis for comparing the quantities of lithospheric and mantle-derived rocks. Choice B is incorrect. The text gives no basis for comparing the material makeup of lithospheric rocks to that of mantle-derived rocks. Choice C is incorrect. A positive correlation between the age of lithospheric rocks and these rocks&rsquo; chemical similarity to mantle-derived rocks would mean that the oldest rocks would be the most similar, which contradicts the text&rsquo;s claim that lithospheric and mantle-derived rocks were completely separate until 3.2 billion years ago. If the researchers&rsquo; conclusion about the onset of tectonics on Earth is correct, then younger lithospheric rocks would show greater chemical similarity to mantle-derived rocks than older lithospheric rocks do.</p>",
+  "externalid": "1952d001-606f-4761-96e6-f22a2bd7b6c1",
+  "correct_answer": [
+    "D"
+  ]
+}

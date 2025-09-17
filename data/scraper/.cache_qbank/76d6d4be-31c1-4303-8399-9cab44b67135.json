@@ -1,0 +1,38 @@
+{
+  "vaultid": "f9e006d4-97dd-4699-b315-46fa4533b693",
+  "keys": [
+    "1d07a6f2-5619-468a-bd06-478fda3158a2"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of climate activity in Earth&rsquo;s distant past. In this context, to &ldquo;simulate&rdquo; most nearly means to represent a natural process using computer models. According to the text, understanding Earth&rsquo;s early climate is difficult because we cannot make direct observations of the distant past. Instead, scientists must create computer models that approximate early climate conditions, based on the physical evidence that those conditions left behind on Earth&rsquo;s surface. This context supports the idea that computer models simulate Earth&rsquo;s climate in the distant past. </p><p>Choice A is incorrect because scientists use existing physical evidence&nbsp;as a basis for developing computer models that describe what Earth&rsquo;s actual past climate might have been like. The models are not being used to &ldquo;invent,&rdquo; or imagine, a completely fictional climate. Choice C is incorrect because the computer models are being used in an attempt to describe as accurately as possible what Earth&rsquo;s past climate might have been like. They are not attempting to &ldquo;exaggerate,&rdquo; or distort, those features. Choice D is incorrect because the computer models do not &ldquo;preserve,&rdquo; or protect from deterioration, Earth&rsquo;s early climate; instead, they attempt to reproduce the characteristics of that climate, based on the remaining physical evidence of that climate. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "76d6d4be-31c1-4303-8399-9cab44b67135",
+  "stimulus": "<p>While we can infer information about climate activity in Earth&rsquo;s distant past from physical evidence, we of course cannot observe past climates directly. To study early Earth&rsquo;s climate in action, we must <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> that climate using computer models that represent various climate conditions consistent with the physical evidence.</p>",
+  "templateclusterid": "77af84a3-7611-4dd0-921b-bae43296a53f",
+  "parenttemplatename": "OSP-911-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d26e69bc-0ea0-4f00-ad0c-c3f3baee5662",
+      "content": "<p>invent</p>"
+    },
+    {
+      "id": "1d07a6f2-5619-468a-bd06-478fda3158a2",
+      "content": "<p>simulate</p>"
+    },
+    {
+      "id": "055df5d7-a680-4669-97f5-b8e1684cfda6",
+      "content": "<p>exaggerate</p>"
+    },
+    {
+      "id": "89ba798f-f8b6-471a-9977-2961b319012d",
+      "content": "<p>preserve</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

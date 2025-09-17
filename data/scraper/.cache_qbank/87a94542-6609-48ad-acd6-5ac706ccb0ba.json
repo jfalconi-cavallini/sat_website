@@ -1,0 +1,38 @@
+{
+  "vaultid": "8fbe6ef9-9826-4c67-9ca1-e3b0b2276073",
+  "keys": [
+    "c4e01405-6508-4c23-b890-dd71865764c6"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most accurately states the main idea of the text. The text begins by explaining that wild animals can be studied in their natural habitat or in a laboratory setting, with each setting offering unique advantages to researchers. The text then highlights an instance in which Western scrub-jays were studied in both settings but with conflicting results, indicating that one or both studies may have failed to account for the disadvantages of its research setting. Thus, the main idea of the text is that while wild animals can be effectively studied in natural or lab settings, there are drawbacks to each that need to be considered to ensure accurate results. </p><p>Choice A is incorrect because the text does not position one study setting (natural or lab) as superior to the other; rather, the text states that each one has advantages over the other.&nbsp;Choice B is incorrect. The text provides a hypothetical example of two studies in different environments with conflicting results, but this single example cannot be extrapolated to a general claim about the likelihood that results of studies in different environments will conflict. Additionally, the text does not assert anything about how researchers can or cannot resolve conflicting study results. Choice D is incorrect because the text does not state that discrepancies between natural-habitat and lab-based animal behavior studies are due to both of the designs being flawed. Rather, the text states that the conflict in results can be the consequence of one or both of the studies having failed to account for some factor.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "externalid": "87a94542-6609-48ad-acd6-5ac706ccb0ba",
+  "stimulus": "<p>Some animal-behavior studies involve observing wild animals in their natural habitat, and some involve capturing wild animals and observing them in a laboratory. Each approach has advantages over the other. In wild studies, researchers can more easily presume that the animals are behaving normally, and in lab studies, researchers can more easily control factors that might affect the results. But if, for example, the results from a wild study and a lab study of Western scrub-jays (<em>Aphelocoma californica</em>) contradict each other, one or both of the studies must have failed to account for some factor that was relevant to the birds&rsquo; behavior.</p>",
+  "templateclusterid": "93b9bbfd-2181-4bf9-9f11-5bbc828133c7",
+  "parenttemplatename": "OSP-023-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "aef33125-b69b-4fc8-9dfb-9e258c51ec12",
+      "content": "<p>When the results of a natural-habitat study and those from a lab study of a wild animal such as the Western scrub-jay conflict, the study in the natural habitat is more likely than the lab study to have accurate results.</p>"
+    },
+    {
+      "id": "cf7007db-6d8e-489b-8a5a-944149ad6a2b",
+      "content": "<p>Studying wild animals such as the Western scrub-jay in both their natural habitat and lab settings is likely to yield conflicting results that researchers cannot fully resolve.</p>"
+    },
+    {
+      "id": "c4e01405-6508-4c23-b890-dd71865764c6",
+      "content": "<p>Wild animals such as the Western scrub-jay can be effectively studied in their natural habitat and in the lab, but each approach has drawbacks that could affect the accuracy of the findings.</p>"
+    },
+    {
+      "id": "c1039ee7-c4e9-4333-8dd5-d09bbdcfa048",
+      "content": "<p>Differing results between natural-habitat and lab studies of wild animals such as the Western scrub-jay are a strong indication that both of the studies had design flaws that affected the accuracy of their results.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

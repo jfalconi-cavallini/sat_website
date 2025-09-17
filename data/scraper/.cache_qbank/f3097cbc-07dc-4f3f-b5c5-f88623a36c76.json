@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>The First Folio, published in 1623, is the first collection of William Shakespeare&rsquo;s plays. The collection <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> 18 plays that might otherwise have been lost, such as <em>Julius Caesar</em> and <em>Macbeth</em>.</p>",
+  "type": "mcq",
+  "keys": [
+    "7aa193c6-dbe5-4dfb-bbee-3fff6baaeb84"
+  ],
+  "answerOptions": [
+    {
+      "id": "20e36092-a86d-4ca6-9bdb-d9ca20bc21e5",
+      "content": "<p>to be including</p>"
+    },
+    {
+      "id": "4222b38c-2572-47d6-815c-9e9ccc4cbd22",
+      "content": "<p>including</p>"
+    },
+    {
+      "id": "35205716-202c-40a9-b256-31d47253d3a7",
+      "content": "<p>to include</p>"
+    },
+    {
+      "id": "7aa193c6-dbe5-4dfb-bbee-3fff6baaeb84",
+      "content": "<p>includes</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the use of verb forms within a sentence. A main clause requires a finite (tensed) verb to perform the action of the subject (in this case, \"the collection\"), and this choice supplies the finite present tense verb \"includes\" to indicate what is in the collection.</p><p>Choice A is incorrect because it results in an ungrammatical sentence. The nonfinite to-infinitive \"to be including\" doesn&rsquo;t supply the main clause with a finite verb. Choice B is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"including\" doesn&rsquo;t supply the main clause with a finite verb. Choice C is incorrect because it results in an ungrammatical sentence. The nonfinite to-infinitive \"to include\" doesn&rsquo;t supply the main clause with a finite verb.</p>",
+  "externalid": "f3097cbc-07dc-4f3f-b5c5-f88623a36c76",
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Zydeco music originated in the French Creole community of southwest Louisiana. One instrument that gives zydeco its unique sound is the vest frottoir. The vest frottoir <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> a wearable washboard that is played by rubbing spoons or bottle openers against it.</p>",
+  "keys": [
+    "2e2ff336-bf1f-48ad-9cb9-b1a3a9ad9ce1"
+  ],
+  "answerOptions": [
+    {
+      "id": "1a2ab45c-7993-4bdd-8b1f-8ec56ea70200",
+      "content": "<p>have been&nbsp;</p>"
+    },
+    {
+      "id": "2e2ff336-bf1f-48ad-9cb9-b1a3a9ad9ce1",
+      "content": "<p>is</p>"
+    },
+    {
+      "id": "fef756f6-03f5-40f7-9b9a-9cc3593d7674",
+      "content": "<p>were</p>"
+    },
+    {
+      "id": "e4b90ea4-9dcc-41a9-aca8-3191398fddfc",
+      "content": "<p>are</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is subject-verb agreement. The singular verb \"is\" agrees in number with the singular subject \"vest frottoir.\"</p><p>Choice A is incorrect because the plural verb \"have been\" doesn&rsquo;t agree in number with the singular subject \"vest frottoir.\" Choice C is incorrect because the plural verb \"were\" doesn&rsquo;t agree in number with the singular subject \"vest frottoir.\" Choice D is incorrect because the plural verb \"are\" doesn&rsquo;t agree in number with the singular subject \"vest frottoir.\"</p>",
+  "externalid": "b16da3dc-d20a-4b91-99b6-084363d6ac60",
+  "correct_answer": [
+    "B"
+  ]
+}

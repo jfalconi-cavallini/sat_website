@@ -1,0 +1,38 @@
+{
+  "vaultid": "f37d1966-4c78-4e5c-a898-909e286aefbb",
+  "keys": [
+    "e635cbdd-690b-4d53-a1ba-d73e145754ef"
+  ],
+  "rationale": "<p>Choice D is the best answer because it provides a quotation that effectively supports the student&rsquo;s claim about the film <em>One Night in Miami&hellip;</em>. The quotation states that in researching the play on which the film was based, Kemp Powers only found superficial details about what actually happened during the 1964 meeting in Miami between four leading Civil Rights leaders, meaning that there is very little information about the meeting in the historical record. In the absence of greater details, it wouldn&rsquo;t have been possible for the film to be a precise retelling of the historical events it depicts. The quotation explains that to compensate for this lack of information about the meeting, Powers did extensive research into the four figures and how they thought at the time in order to speculate in an informed way about what they might have said or what might have occurred between them. Therefore, the quotation effectively supports the claim that the film is best understood not as a precise retelling of a historical event but as a deeply informed imaginative rendering of that event.&nbsp;</p><p>Choice A is incorrect. Although the quotation discusses how on learning about the 1964 meeting in Miami, Powers was inspired to write a play and, later, to adapt it into a screenplay, it doesn&rsquo;t discuss Powers&rsquo;s approach to representing what had occurred in the meeting. Instead, it states that Powers didn&rsquo;t initially plan to write a story only &ldquo;focusing on the meeting itself&rdquo; but rather had considered writing a &ldquo;much longer&rdquo; and more expansive work about the meeting&rsquo;s four participants. Choice B is incorrect because the quotation doesn&rsquo;t discuss Powers&rsquo;s approach to representing historical events in his play and in the film; instead, the quotation focuses on the film&rsquo;s positive critical reception by mentioning that it received numerous awards and nominations. Choice C is incorrect. Although the quotation references historical events that are discussed directly in the play and film by explaining how the four historical figures featured in the story engage in political debates about contemporary issues, it doesn&rsquo;t specify to what extent Powers&rsquo;s representation of what occurred during the 1964 meeting in Miami is a factual retelling of what happened and how much is an imaginative rendering of what might have happened. Rather, the quotation focuses on Powers&rsquo;s description of the film&rsquo;s basic premise and how the characters engage with the historical context of its setting. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which quotation from an article about <em>One Night in Miami... </em>would be the most effective evidence for the student to include in support of this claim?</p>",
+  "externalid": "24f0aa79-c7cc-4438-84e1-bec4e8d2a77f",
+  "stimulus": "<p>A student is writing a paper about <em>One Night in Miami...</em>, a 2020 film directed by Regina King and written by Kemp Powers. Powers adapted the film&rsquo;s screenplay from his 2013 play, which he wrote after learning about a 1964 meeting that took place in Miami, Florida, between four prominent figures of the Civil Rights movement: Malcolm X, Muhammad Ali, Jim Brown, and Sam Cooke. The student claims that although Powers was inspired by this meeting, the film is best understood not as a precise retelling of historical events but rather as a largely imagined but informed representation of them.</p>",
+  "templateclusterid": "c7d40537-52fa-4985-af67-4fd0af1dfebe",
+  "parenttemplatename": "OSP-345-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "716e7c54-bc90-4155-9e31-7eae2f41d9a3",
+      "content": "<p>&ldquo;When Powers learned of the meeting, he initially planned to write a much longer work about its four famous participants rather than focusing on the meeting itself.&rdquo;</p>"
+    },
+    {
+      "id": "5a3c5d24-f16c-46ba-ad68-a628de32461c",
+      "content": "<p>&ldquo;<em>One Night in Miami...</em> received numerous awards and nominations, including an Academy Award nomination for Powers for Best Adapted Screenplay.&rdquo;</p>"
+    },
+    {
+      "id": "aa3cc34a-ba68-4dcd-b8ab-dd03b4930d4d",
+      "content": "<p>&ldquo;Powers has described <em>One Night in Miami... </em>as the story of four friends encouraging and supporting one another while engaged in a crucial political debate about how best to achieve equality for Black people in the United States.&rdquo;</p>"
+    },
+    {
+      "id": "e635cbdd-690b-4d53-a1ba-d73e145754ef",
+      "content": "<p>&ldquo;Powers could find only the most superficial historical details about the meeting, so he read extensively about the four individuals and their thinking at the time in an effort to portray what might have happened between them.&rdquo;</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

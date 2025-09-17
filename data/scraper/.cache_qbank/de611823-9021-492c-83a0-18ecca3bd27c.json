@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>A 2022 study by researchers Hala Altamimi and Qiaozhen Liu investigated the relationship between nonprofit arts organizations&rsquo; spending and performance. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the researchers examined the correlation between how much 22,328 US arts nonprofits spent on overhead&mdash;operational costs such as equipment and fundraising&mdash;and how many people attended their events (a measure of overall success).</p>",
+  "type": "mcq",
+  "keys": [
+    "cbfcac9b-5def-43a2-9083-da5c699216d2"
+  ],
+  "answerOptions": [
+    {
+      "id": "f75e3c50-276f-46a9-b878-cd566f6579fa",
+      "content": "<p>Thus,</p>"
+    },
+    {
+      "id": "2cdae2ef-2aa9-48da-a9da-ea07abaa194f",
+      "content": "<p>In addition,&nbsp;</p>"
+    },
+    {
+      "id": "3f62fa2f-5a5d-4e2d-b769-7e62b357719f",
+      "content": "<p>By comparison,&nbsp;</p>"
+    },
+    {
+      "id": "cbfcac9b-5def-43a2-9083-da5c699216d2",
+      "content": "<p>Specifically,&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. \"Specifically\" logically signals that the information in this sentence&mdash;that the researchers examined the overhead costs and attendance at events of 22,328 nonprofits&mdash;provides specific, precise details elaborating on how the researchers investigated the relationship between nonprofits&rsquo; spending and performance.</p><p>Choice A is incorrect. \"Thus\" illogically signals that the information in this sentence is a result or consequence of the researchers&rsquo; investigation of nonprofits&rsquo; spending and performance. Instead, it specifies how they examined that correlation. Choice B is incorrect. \"In addition\" illogically signals that the information in this sentence is merely an additional fact about the researchers&rsquo; investigation of nonprofits&rsquo; spending and performance. Instead, it specifies how they examined that correlation. Choice C is incorrect. \"By comparison\" illogically signals that the information in this sentence is being compared to the researchers&rsquo; investigation of nonprofits&rsquo; spending and performance. Instead, it specifies how they examined that correlation.</p>",
+  "externalid": "de611823-9021-492c-83a0-18ecca3bd27c",
+  "correct_answer": [
+    "D"
+  ]
+}

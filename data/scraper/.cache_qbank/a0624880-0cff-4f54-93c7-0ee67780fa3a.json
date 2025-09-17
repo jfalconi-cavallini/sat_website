@@ -1,0 +1,38 @@
+{
+  "vaultid": "ea24875f-3216-4486-93bf-98d4848e96e4",
+  "keys": [
+    "8d5607dd-0f2d-4c9e-86b0-d447cb98efac"
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents a finding that, if true, would support Gardner and colleagues&rsquo; conclusion that segments of the Missouri River flowing into lakes tend to carry more sediment than do segments of the river flowing out of lakes. The text says that rivers appear yellow when they contain a lot of sediment and appear red when they contain a lot of algae. It goes on to explain that Gardner and colleagues measured the wavelengths of light for different segments of rivers in the United States and classified those wavelength measurements into colors: red for wavelengths of 495 nanometers and below, blue for wavelengths between 495 and 560 nanometers, and yellow for wavelengths of 560 nanometers and above. Combined with the earlier information about river colors, this suggests that rivers rich in sediment will have wavelengths of 560 nanometers and above (since such rivers appear yellow). If researchers found that Missouri River segments flowing into lakes tend to have wavelengths above 560 nanometers and segments flowing out of lakes tend to have wavelengths below 560 nanometers, this finding would support Gardner and colleagues&rsquo; conclusion, since it would suggest that the river tends to carry more sediment when it flows into lakes than when it flows out of lakes.&nbsp;</p><p>Choice A is incorrect because finding that sections of the Missouri River with high chlorophyll-a levels have wavelengths between 490 and 560 nanometers would be irrelevant to the researchers&rsquo; conclusion that segments of the river flowing into lakes are richer in sediment than are segments of the river flowing out of lakes. This finding would not indicate anything about segments flowing into or out of lakes.&nbsp;Choice B is incorrect because finding that lakes through which the Missouri River passes have higher wavelengths near their shores than in the center would not support the researchers&rsquo; conclusion that segments of the river flowing into lakes have more sediment than segments flowing out of lakes. This finding would suggest only that there is more sediment around the edges of lakes than in their centers, which does not have any direct bearing on the researchers&rsquo; conclusion about river segments flowing into and out of lakes.&nbsp;Choice C is incorrect because finding that most segments of the Missouri River have wavelengths significantly higher than 560 nanometers would suggest that most segments of the river are high in sediment, not that segments flowing into lakes are higher in sediment than segments flowing out of lakes. Only a comparison of river segments flowing into lakes with segments flowing out of lakes can support the researchers&rsquo; conclusion.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which finding, if true, would most directly support the researchers&rsquo; conclusion?</p>",
+  "externalid": "a0624880-0cff-4f54-93c7-0ee67780fa3a",
+  "stimulus": "<p>Rivers rich in sediment appear yellow, while increases in red algae make rivers appear red. To track things like the sediment or algae content of large US rivers, John R. Gardner and colleagues used satellite data to determine the dominant visible wavelengths of light measured for various segments of these rivers. The researchers classified wavelengths of 495 nanometers (nm) and below as red, wavelengths between 495 and 560 nm as blue, and wavelengths of 560 nm and above as yellow. The researchers concluded that for the Missouri River, segments flowing into lakes tend to carry more sediment than those flowing out of lakes.  &nbsp;</p>",
+  "templateclusterid": "8e1b3715-b654-4c5d-bb7a-3200eb80c3f9",
+  "parenttemplatename": "OSP-330-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d9b0edc8-bfe0-4406-9848-53a29a84311c",
+      "content": "<p>The segments of the Missouri River that had higher levels of chlorophyll-a, which contributes to the green color of photosynthetic organisms, have dominant wavelengths of light between 490 and 560 nm.</p>"
+    },
+    {
+      "id": "1b9d6d58-43df-444c-a61e-827247c6b2b1",
+      "content": "<p>In lakes through which segments of the Missouri River pass, the dominant wavelength of light tended to be above 560 nm near the lakes&rsquo; shores and below 560 nm in the lakes&rsquo; centers.</p>"
+    },
+    {
+      "id": "045af686-c342-4bb5-96dc-a4a817a70028",
+      "content": "<p>The majority of the segments of the Missouri River were found to have dominant wavelengths of light significantly higher than 560 nm.&nbsp;&nbsp;</p>"
+    },
+    {
+      "id": "8d5607dd-0f2d-4c9e-86b0-d447cb98efac",
+      "content": "<p>Segments of the Missouri River flowing into lakes typically had dominant wavelengths of light above 560 nm, while segments flowing out of lakes typically had dominant wavelengths below 560 nm.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

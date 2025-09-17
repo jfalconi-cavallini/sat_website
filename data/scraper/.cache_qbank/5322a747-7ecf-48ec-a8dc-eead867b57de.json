@@ -1,0 +1,38 @@
+{
+  "vaultid": "ffcab899-a813-485b-b0c3-77f2c2292472",
+  "keys": [
+    "42a4f81e-1436-4a29-9b05-137ffc7c1fb2"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion about recycling plastics. In this context, &ldquo;inadequate&rdquo; means not satisfactory. The text indicates that the mechanical plastic-recycling process affects the environment and causes &ldquo;the loss of material quality.&rdquo; The text contrasts that with Chazovachii&rsquo;s chemical plastic-recycling process, which is cleaner and produces a desirable product. The text&rsquo;s emphasis on the negative aspects of mechanical recycling suggests that it is inadequate in terms of environmental impact and the quality of the material the process yields. </p><p>Choice A is incorrect because in this context &ldquo;resilient&rdquo; would mean able to withstand difficulty and the text does not characterize the plastic-recycling process as having this quality or describe any difficulties that these processes might need to overcome. Choice C is incorrect because in this context &ldquo;dynamic&rdquo; would mean constantly changing. Although the text suggests that there have been changes in the field of recycling, as is the case with the advent of Chazovachii&rsquo;s chemical recycling process, there is nothing to suggest that the mechanical process itself has changed or is prone to change. Choice D is incorrect because in this context &ldquo;satisfactory&rdquo; would mean acceptable but not perfect. The text mentions only shortcomings of the mechanical process (environmental effects and lower material quality), so the text more strongly supports a negative view of this process and provides no evidence that it would be considered satisfactory. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "5322a747-7ecf-48ec-a8dc-eead867b57de",
+  "stimulus": "<p>The process of mechanically recycling plastics is often considered <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> because of the environmental impact and the loss of material quality that often occurs. But chemist Takunda Chazovachii has helped develop a cleaner process of chemical recycling that converts superabsorbent polymers from diapers into a desirable reusable adhesive.</p>",
+  "templateclusterid": "25befa61-fe88-42ba-a666-31ea16287c9c",
+  "parenttemplatename": "OSP-932-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "29a420d2-7f63-4324-980b-a3ce266bd962",
+      "content": "<p>resilient</p>"
+    },
+    {
+      "id": "42a4f81e-1436-4a29-9b05-137ffc7c1fb2",
+      "content": "<p>inadequate</p>"
+    },
+    {
+      "id": "e88c569d-4c81-4127-9a35-8053e46bce7c",
+      "content": "<p>dynamic</p>"
+    },
+    {
+      "id": "05969ce2-c042-4059-bf68-835b9170d2d7",
+      "content": "<p>satisfactory</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

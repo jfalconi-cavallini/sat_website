@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p><em>Butterfly</em> is a 1988 painting by the Japanese artist Ay-O. Like many of Ay-O&rsquo;s paintings, <em>Butterfly</em>, which portrays a swimmer performing the butterfly stroke, attempts to make use of the entire visual light <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> sporting rainbow-striped goggles, the rainbow-hued swimmer splashes through a wavy rainbow of water.</p>",
+  "type": "mcq",
+  "keys": [
+    "a345cf36-7587-4a8b-97fa-32440a98997b"
+  ],
+  "answerOptions": [
+    {
+      "id": "7af9948b-6bfa-40cb-98d8-b69b3de92f22",
+      "content": "<p>spectrum</p>"
+    },
+    {
+      "id": "a345cf36-7587-4a8b-97fa-32440a98997b",
+      "content": "<p>spectrum:</p>"
+    },
+    {
+      "id": "0fbe5579-8a28-4359-8722-2db6f7594144",
+      "content": "<p>spectrum while</p>"
+    },
+    {
+      "id": "974f1d21-ab29-4850-a77a-4b5c6402f949",
+      "content": "<p>spectrum, while</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the use of a colon within a sentence. In this choice, the colon correctly introduces the following description of how the painting makes use of the entire visual light spectrum by depicting a rainbow-hued swimmer.</p><p>Choice A is incorrect because it results in a run-on sentence. The main clauses (\"Like&hellip;spectrum\" and \"sporting&hellip;water\") are fused without punctuation and/or a conjunction. Choice C is incorrect because it results in a run-on sentence. The main clauses (\"Like&hellip;spectrum\" and \"while&hellip;water\") are fused without punctuation. Furthermore, the conjunction \"while\" fails to indicate that what follows is a description of how the painting makes use of the entire visual light spectrum. Choice D is incorrect because it results in a logically confusing sentence. The conjunction \"while,\" which suggests that what follows is occurring at the same time as or despite what came before, fails to indicate that what follows is a description of how the painting makes use of the entire visual light spectrum.</p>",
+  "externalid": "e03f7485-ceab-4c91-bc83-0288f4fc1e97",
+  "correct_answer": [
+    "B"
+  ]
+}

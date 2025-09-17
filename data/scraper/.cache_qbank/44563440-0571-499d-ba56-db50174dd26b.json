@@ -1,0 +1,38 @@
+{
+  "vaultid": "f54aba88-a597-4059-90d0-e76111ef44fe",
+  "keys": [
+    "413b29c5-6597-41e3-ab4b-ef224aa2fe17"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately describes the main purpose of the text. The text begins by stating that the new picture &ldquo;failed to fit in&rdquo; with the other items that the shop owner has. The text goes on to illustrate that point by describing the other pictures the shop owner has, indicating that the shop owner is fuming because he doesn&rsquo;t think the new picture belongs in the store. In the second paragraph, however, the text indicates that the shop owner is &ldquo;secretly proud of his acquisition.&rdquo; The main purpose of the text is thus to reveal the shop owner&rsquo;s conflicted feelings about the new picture. </p><p>Choice B is incorrect because the text doesn&rsquo;t suggest that the shop owner resents the young man who sold him the new picture; in fact, the text gives no indication of the owner&rsquo;s feelings about the young man at all. Choice C is incorrect. Although the text indicates that the new picture is different from the other items in the shop, there&rsquo;s no suggestion that the shop owner prizes either the new picture or the pictures of the city, pets, and landscapes more than he prizes any other items. Choice D is incorrect because the text doesn&rsquo;t describe what the new picture looks like; rather, the text identifies some of the other kinds of images that the shop owner has and states that they&rsquo;re different from the new picture without explaining how they&rsquo;re different.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "externalid": "44563440-0571-499d-ba56-db50174dd26b",
+  "stimulus": "<p>The following text is adapted from Susan Glaspell&rsquo;s 1912 short story &ldquo;&lsquo;Out There.&rsquo;&rdquo; An elderly shop owner is looking at a picture that he recently acquired and hopes to sell.</p>\n<p style='padding-left: 1em;'>It did seem that the picture failed to fit in with the rest of the shop. A persuasive young fellow who claimed he was closing out his stock let the old man have it for what he called a song. It was only a little out-of-the-way store which subsisted chiefly on the framing of pictures. The old man looked around at his views of the city, his pictures of cats and dogs, his flaming bits of landscape. &ldquo;Don&rsquo;t belong in here,&rdquo; he fumed.</p>\n<p style='padding-left: 1em;'>And yet the old man was secretly proud of his acquisition. There was a hidden dignity in his scowling as he shuffled about pondering the least ridiculous place for the picture.</p>",
+  "templateclusterid": "9b7983fc-7df4-4c53-b3a3-1bd0e1de22b7",
+  "parenttemplatename": "OSP-036-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "413b29c5-6597-41e3-ab4b-ef224aa2fe17",
+      "content": "<p>To reveal the shop owner&rsquo;s conflicted feelings about the new picture</p>"
+    },
+    {
+      "id": "1936f5a1-6832-49d4-bf3f-28468fe689db",
+      "content": "<p>To convey the shop owner&rsquo;s resentment of the person he got the new picture from</p>"
+    },
+    {
+      "id": "3ae1456e-c791-4adc-b989-7538bda7506b",
+      "content": "<p>To describe the items that the shop owner most highly prizes</p>"
+    },
+    {
+      "id": "f4e5b3dc-e4a8-4ec0-a682-40017551abc6",
+      "content": "<p>To explain differences between the new picture and other pictures in the shop</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "832c7c33-4d29-4b2c-b707-09ead941d39e",
+  "keys": [
+    "fef3e067-dc7a-44ed-b6de-d08110114d0c"
+  ],
+  "rationale": "<p>Choice A is the best answer because it presents a finding that, if true, would most strongly support the claim in the underlined sentence. The text begins by explaining that the portrayal of Mexican American culture in Sandra Cisneros&rsquo;s <em>The House on Mango Street</em> inspired later authors to explore their own heritage. Noting that Cisneros&rsquo;s novella was also influential for its depiction of a formative year in a female character&rsquo;s youth, the text then claims that this depiction inspired other Latina authors to use fiction to explore their own experiences of youth. Since this claim addresses how Cisneros encouraged Latina authors specifically to portray their youthful experiences, it would be directly supported by such authors stating that her novella influenced them to write about their own adolescence, or the transitional period between childhood and adulthood. </p><p>Choice B is incorrect. The text states that with its portrayal of Mexican American culture, <em>The House on Mango Street</em> inspired later authors to explore their own heritage, and since this statement isn&rsquo;t limited to only Latina authors, it can be inferred that authors who aren&rsquo;t Latina were also likely influenced by the novella. But because the claim in the underlined sentence concerns the novella&rsquo;s influence on Latina authors specifically, the finding that the book also influenced authors who weren&rsquo;t Latina would fail to provide support for the claim. Choice C is incorrect because the finding that <em>The House on Mango Street</em> has sold millions of copies and is widely read among students in the US doesn&rsquo;t relate directly to the text&rsquo;s claim that the novella has influenced Latina authors specifically. Choice D is incorrect. While comparisons of new novels about young Latina characters by Latina authors to Cisneros&rsquo;s <em>The House on Mango Stree</em>t would likely be founded on similarities between those novels and Cisneros&rsquo;s novella, such similarities wouldn&rsquo;t necessarily be evidence of the novella&rsquo;s influence; such similarities might arise if Cisneros and younger Latina authors alike depicted certain basic cultural and historical features of their communities. Testimony from younger Latina authors about how <em>The House on Mango Street</em> had inspired them would be far more persuasive evidence of the novella&rsquo;s influence.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which statement, if true, would most strongly support the claim in the underlined sentence?</p>",
+  "externalid": "130d0a84-b1b0-4f4b-9201-cd5cc26e4514",
+  "stimulus": "<p>Sandra Cisneros&rsquo;s 1984 novella <em>The House on Mango Street</em> made a lasting impact on US literature. Its depiction of Mexican American culture inspired later authors to examine their own heritage within their fictional works. Also influential was the book&rsquo;s portrayal of the main character, Esperanza, during a pivotal year of her youth. <span role=\"region\" aria-label=\"Referenced Content\"><u>This insightful depiction of a preteen girl encouraged authors who, like Cisneros herself, are Latina to use fictional works to examine experiences from their own youth.</u></span></p>",
+  "templateclusterid": "b6036d0f-7a8d-4226-8602-4d1488979bc1",
+  "parenttemplatename": "OSP-336-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "fef3e067-dc7a-44ed-b6de-d08110114d0c",
+      "content": "<p>In interviews, a number of Latina authors say that <em>The House on Mango Street </em>inspired them to write about their own adolescence in their novels.</p>"
+    },
+    {
+      "id": "b4f14f44-0ea1-433e-b1c2-abf938f19665",
+      "content": "<p>In published writings, several prominent authors who are not Latina say that reading <em>The House on Mango Street</em> influenced their approach to writing fiction.</p>"
+    },
+    {
+      "id": "cd315f01-e170-4402-86f3-b767d107bed1",
+      "content": "<p>The <em>House on Mango Street </em>has sold over six million copies and is one of the most commonly read books among high school and university students in the US.</p>"
+    },
+    {
+      "id": "ee3dee45-3be0-4f20-98d4-4bf81b004a76",
+      "content": "<p>Since 1984, new novels about young Latina characters by Latina authors have often been compared to <em>The House on Mango Street</em>.&nbsp;</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

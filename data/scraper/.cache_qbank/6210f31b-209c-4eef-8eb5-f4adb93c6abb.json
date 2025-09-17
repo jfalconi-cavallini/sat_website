@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Louise Bennett (1919&ndash;2006), also known as &ldquo;Miss Lou,&rdquo; was an influential Jamaican poet and folklorist. Her innovative poems <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the use of Jamaican Creole (a spoken language) in literature.</p>",
+  "type": "mcq",
+  "keys": [
+    "7601650b-68d8-4fdf-af9e-436ff2c9c8ba"
+  ],
+  "answerOptions": [
+    {
+      "id": "c2164deb-0262-4738-8028-b348174de44b",
+      "content": "<p>popularized;&nbsp;</p>"
+    },
+    {
+      "id": "19849e6e-8185-46ed-8956-0cd5ae59a22d",
+      "content": "<p>popularized,</p>"
+    },
+    {
+      "id": "7601650b-68d8-4fdf-af9e-436ff2c9c8ba",
+      "content": "<p>popularized</p>"
+    },
+    {
+      "id": "54b73edc-bd36-4495-a4aa-7110e519bfce",
+      "content": "<p>popularized:</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is punctuation use between a verb and an object. No punctuation is needed between the verb \"popularized\" and its object \"the use of Jamaican Creole.\" The object helps complete the idea of the verb&mdash;in this case, it explains what Louise Bennett popularized&mdash;and any punctuation between the two results in an ungrammatical sentence.</p><p>Choice A is incorrect because no punctuation is needed between the verb and its object. Choice B is incorrect because no punctuation is needed between the verb and its object. Choice D is incorrect because no punctuation is needed between the verb and its object.</p>",
+  "externalid": "6210f31b-209c-4eef-8eb5-f4adb93c6abb",
+  "correct_answer": [
+    "C"
+  ]
+}

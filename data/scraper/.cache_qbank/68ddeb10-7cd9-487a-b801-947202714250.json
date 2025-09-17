@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>In editor Lisa Yaszek&rsquo;s introduction to her anthology <em>The Future Is Female! More Classic Science Fiction Stories by Women</em>, Yaszek identifies an increasing sense of <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> feminist mode of writing in the 1970s, in contrast to many woman-authored science fiction stories of the 1920s to 1960s whose politics were less deliberately signaled.</p>",
+  "keys": [
+    "da5637d4-a1c8-49bf-b447-41ed735ce464"
+  ],
+  "answerOptions": [
+    {
+      "id": "c5b3cd2d-018e-4542-bc47-64c638f96d26",
+      "content": "<p>a prudently</p>"
+    },
+    {
+      "id": "da5637d4-a1c8-49bf-b447-41ed735ce464",
+      "content": "<p>an overtly</p>"
+    },
+    {
+      "id": "7a6c0c7c-1542-412e-8689-227569550a9e",
+      "content": "<p>a cordially</p>"
+    },
+    {
+      "id": "b0316cc3-1841-486e-bb91-a0559362f710",
+      "content": "<p>an inadvertently</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of Yaszek&rsquo;s introduction to her science fiction anthology. In this context \"overtly\" means openly or without concealment. The text draws a contrast between the lack of \"deliberately signaled\" political themes in woman-authored science fiction from the 1920s to the 1960s and what Yaszek notes about woman-authored science fiction from the 1970s. This contrast implies that the work from the 1970s did clearly reflect feminist political themes. In other words, the text indicates that unlike women who wrote science fiction in the 1920s to the 1960s, the women who wrote science fiction in the 1970s expressed overtly feminist themes.</p><p>Choice A is incorrect. In this context \"prudently\" would mean cautiously, which might plausibly describe the women who wrote science fiction from the 1920s to the 1960s, in that they tended to avoid revealing their political views; however, the text contrasts these authors with the women writing science fiction in the 1970s, thereby suggesting that the authors writing in the 1970s were not restrained in that way. Choice C is incorrect because in this context \"cordially\" would mean politely, and nothing in the text indicates that politeness was a significant factor for women writing science fiction either from the 1920s to the 1960s or in the 1970s. The text draws a contrast between the lack of \"deliberately signaled\" political themes in woman-authored science fiction from the 1920s to the 1960s and what Yaszek notes about woman-authored science fiction from the 1970s. It&rsquo;s unclear how \"less deliberately signaled\" politics and an increasing sense of politeness toward feminism would constitute a meaningful contrast. Choice D is incorrect because in this context, \"inadvertently\" would mean unintentionally, and nothing in the text suggests that Yaszek thought the feminist elements of the woman-authored science fiction from the 1970s arose without deliberate effort.</p>",
+  "externalid": "68ddeb10-7cd9-487a-b801-947202714250",
+  "correct_answer": [
+    "B"
+  ]
+}

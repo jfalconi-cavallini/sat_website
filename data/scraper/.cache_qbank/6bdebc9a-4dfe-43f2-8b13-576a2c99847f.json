@@ -1,0 +1,38 @@
+{
+  "vaultid": "c7b7a0e7-005c-4d52-8bf4-58bc0ef45246",
+  "keys": [
+    "f37e2d79-1294-4f8f-bbb6-a5e4ce8ff825"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of a colon within a sentence. In this choice, the colon is used in a conventional way to introduce the following description of how the number of jams available varied.&nbsp;</p><p>Choice B is incorrect because it creates a comma splice. A comma can&rsquo;t be used in this way to join two main clauses (&ldquo;the number&hellip;varied&rdquo; and &ldquo;some&hellip;six&rdquo;). Choice C is incorrect because it results in an illogical and confusing sentence. Using the conjunction &ldquo;while&rdquo; to join the main clause (&ldquo;the number&hellip;varied&rdquo;) with the following clause&rsquo;s description of the number of jams available suggests that the variation in the number of jams is in contrast to some shoppers having twenty-four options. Choice D is incorrect because it results in an illogical and confusing sentence. Using &ldquo;while&rdquo; in this way suggests that the number of jams available varied during the time in which some shoppers had twenty-four options and others had six. The sentence makes clear, however, that what follows &ldquo;varied&rdquo; is a description of the variation, not a separate, simultaneous occurrence. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "6bdebc9a-4dfe-43f2-8b13-576a2c99847f",
+  "stimulus": "<p>Over twenty years ago, in a landmark experiment in the psychology of choice, professor Sheena Iyengar set up a jam-tasting booth at a grocery store. The number of jams available for tasting <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> some shoppers had twenty-four different options, others only six. Interestingly, the shoppers with fewer jams to choose from purchased more jam.</p>",
+  "templateclusterid": "a2008fff-6eea-4f77-8984-b45ae1e8582c",
+  "parenttemplatename": "OSP-709-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "f37e2d79-1294-4f8f-bbb6-a5e4ce8ff825",
+      "content": "<p>varied:</p>"
+    },
+    {
+      "id": "f94bc372-5dca-4d35-842d-e2883dee191a",
+      "content": "<p>varied,&nbsp;</p>"
+    },
+    {
+      "id": "ed6efe68-7230-4fcd-86c1-734e373fef70",
+      "content": "<p>varied, while</p>"
+    },
+    {
+      "id": "495c908c-3a74-4156-a233-f8de1df99888",
+      "content": "<p>varied while</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

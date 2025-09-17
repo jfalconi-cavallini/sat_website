@@ -1,0 +1,38 @@
+{
+  "vaultid": "26208638-2254-44c6-8eae-140e489d5da8",
+  "keys": [
+    "df066ebe-6027-4a07-a2db-05de68de9d06"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately states the main idea of the text. The text begins by stating that Mar&iacute;a Izquierdo was an important figure in the history of twentieth-century Mexican art, but despite her importance, her work hasn&rsquo;t received widespread recognition in the United States. According to the text, one reason for this is that Frida Kahlo and Diego Rivera are so famous in the US that they overshadow other important Mexican artists, including Izquierdo. Thus, the main idea of the text is that Izquierdo&rsquo;s work is less well known in the US than it should be because Kahlo and Rivera draw most of the public&rsquo;s attention. </p><p>Choice B is incorrect because the text doesn&rsquo;t discuss the appearance of Izquierdo&rsquo;s paintings in galleries in the US during her lifetime, nor does it suggest that her paintings were displayed more frequently than paintings by Kahlo or Rivera were. Instead, the text focuses on the fact that Izquierdo has been overlooked in the US because of Kahlo&rsquo;s and Rivera&rsquo;s greater popularity. Choice C is incorrect because the text doesn&rsquo;t discuss either the subject matter of Izquierdo&rsquo;s paintings or the techniques she used, nor does it compare these aspects of her paintings with those of Kahlo&rsquo;s and Rivera&rsquo;s paintings. Choice D is incorrect because the text doesn&rsquo;t mention how many of Izquierdo&rsquo;s paintings appear in galleries today, nor does it state that she produced only a small number of paintings. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "externalid": "2be296a8-a297-4cb0-9d75-002f50e1111e",
+  "stimulus": "<p>The painter Mar&iacute;a Izquierdo played an important role in the development of twentieth-century Mexican art, but her work has never been well-known in the United States except among art historians. One reason for Izquierdo&rsquo;s relative obscurity is the enormous popularity of some of her peers. In particular, the painters Frida Kahlo and Diego Rivera have so captivated the interest of US audiences that Izquierdo and other Mexican artists from the period often get overlooked, despite the high quality of their work.</p>",
+  "templateclusterid": "9f21c323-3ec8-4fd9-9053-e3da39eb246a",
+  "parenttemplatename": "OSP-045-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "df066ebe-6027-4a07-a2db-05de68de9d06",
+      "content": "<p>Izquierdo&rsquo;s work is not as well-known in the United States as it should be because Kahlo and Rivera draw so much of the public&rsquo;s attention.</p>"
+    },
+    {
+      "id": "88aaf18a-a1de-4fa5-8f1f-6ad0fbd27bb7",
+      "content": "<p>During Izquierdo&rsquo;s lifetime, her paintings were displayed in galleries in the United States much more frequently than paintings by Kahlo and Rivera were.</p>"
+    },
+    {
+      "id": "9b3cb0a0-b2a8-4fd7-8610-883443bff8a4",
+      "content": "<p>Izquierdo painted some of the same subjects that Kahlo and Rivera painted but used different techniques than they used.&nbsp;</p>"
+    },
+    {
+      "id": "0e451720-66d2-4b44-a496-415601b7ac8c",
+      "content": "<p>Few of Izquierdo&rsquo;s works are in galleries today because she produced only a small number of paintings.&nbsp;</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

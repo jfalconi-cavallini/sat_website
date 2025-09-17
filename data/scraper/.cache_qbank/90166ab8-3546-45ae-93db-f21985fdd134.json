@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>In 2022, Crystal Reeck and colleagues studied whether the decision-making modes that guide consumers influence their choice between nonenvironmentally friendly standard electricity plans and environmentally friendly green plans that cap electricity usage. Study participants who self-reported using either an Affect Mode or Role Mode&mdash;which prioritize choices that have a stronger positive emotional or social impact, respectively&mdash;were more likely to select a green plan. Conversely, participants using a Calculation Mode&mdash;which aims to minimize both financial cost and personal inconvenience&mdash;were more likely to select a standard plan, even when the green option was cheaper. This finding suggests that participants using a Calculation Mode <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "63049c39-3ca1-4be2-9079-5d5815bf3415"
+  ],
+  "answerOptions": [
+    {
+      "id": "c61c6db9-c47d-43cc-8ed8-d783a85e0ffd",
+      "content": "<p>were equally unlikely to factor the financial savings of the green plan into their decision-making as were participants using either the Affect or Role Modes.</p>"
+    },
+    {
+      "id": "c2987f52-fb57-4b5b-8658-c27da13ca91d",
+      "content": "<p>may have been less strongly motivated to appear socially responsible with their choice of plan than they realized.</p>"
+    },
+    {
+      "id": "63049c39-3ca1-4be2-9079-5d5815bf3415",
+      "content": "<p>may have determined that the green plan imposed additional burdens on them that were not sufficiently offset by the potential financial savings.</p>"
+    },
+    {
+      "id": "f388a913-0234-484e-a7cf-43fa8ee7fe79",
+      "content": "<p>were less likely to believe that the green plan was truly cost-effective than were participants using either the Affect or Role Modes.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of the influence of decision-making modes on consumers&rsquo; choices of different electricity plans. The Affect Mode describes choices based on the decision-maker&rsquo;s preferred emotional outcome, the Role Mode describes choices based on the decision-maker&rsquo;s social motivations, and the Calculation Mode describes choices based on minimizing financial costs and maximizing the decision-maker&rsquo;s convenience. Thus, if those using a Calculation Mode disfavor the green plan, it would be due to some financial or convenience burden the green plan imposes that the other doesn&rsquo;t. The text indicates that the green plan had a lower financial cost but was nonetheless rejected by participants using the Calculation Mode. It therefore follows that the green plan likely imposed a convenience burden that outweighed potential financial savings for these participants.</p><p>Choice A is incorrect. According to the text, the Affect Mode involves the decision-maker&rsquo;s preferred emotional outcome, the Role Mode involves social motivations, and the Calculation Mode is oriented toward minimizing financial costs and maximizing the decision-maker&rsquo;s convenience. Thus, unlike the Affect or Role Modes, the Calculation Mode would almost certainly involve taking price differences into account. Choice B is incorrect. According to the text, the Affect Mode involves the decision-maker&rsquo;s preferred emotional outcome, the Role Mode involves social motivations, and the Calculation Mode is oriented toward minimizing financial costs and maximizing the decision-maker&rsquo;s convenience. Thus, there is no reason to think that participants using the Calculation Mode at any point took social responsibility into account, let alone think that they discovered a disparity between their expectations and reality. Choice D is incorrect. According to the text, the Affect Mode involves the decision-maker&rsquo;s preferred emotional outcome, the Role Mode involves social motivations, and the Calculation Mode is oriented toward minimizing financial costs and maximizing the decision-maker&rsquo;s convenience. Thus, the text doesn&rsquo;t indicate that cost-effectiveness is a factor for participants using the Affect or Role Modes, and there is no basis to compare their beliefs in the truthfulness of the green-plan description with those of the Calculation Mode users.</p>",
+  "externalid": "90166ab8-3546-45ae-93db-f21985fdd134",
+  "correct_answer": [
+    "C"
+  ]
+}

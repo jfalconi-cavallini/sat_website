@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Researchers studying the &ldquo;terra-cotta army,&rdquo; the thousands of life-size statues of warriors found interred near the tomb of Emperor Qin Shi Huang of China, were shocked to realize that the shape of each statue&rsquo;s ears, like the shape of each person&rsquo;s ears, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> unique.</p>",
+  "keys": [
+    "90d8ac93-ca5b-43b0-9b67-4d3a675fedda"
+  ],
+  "answerOptions": [
+    {
+      "id": "81e22b97-e2e8-4ff6-bdc6-d046514e0cb9",
+      "content": "<p>are</p>"
+    },
+    {
+      "id": "90d8ac93-ca5b-43b0-9b67-4d3a675fedda",
+      "content": "<p>&nbsp;is</p>"
+    },
+    {
+      "id": "852c4a81-22a6-44c6-b18d-6aea07026f89",
+      "content": "<p>were</p>"
+    },
+    {
+      "id": "03e726d7-22b1-4f52-98f1-a20b8de4d385",
+      "content": "<p>have been</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is subject-verb agreement. The singular verb \"is\" agrees in number with the singular subject \"the shape.\"</p><p>Choice A is incorrect because the plural verb \"are\" doesn&rsquo;t agree in number with the singular subject \"the shape.\" Choice C is incorrect because the plural verb \"were\" doesn&rsquo;t agree in number with the singular subject \"the shape.\" Choice D is incorrect because the plural verb \"have been\" doesn&rsquo;t agree in number with the singular subject \"the shape.\"</p>",
+  "externalid": "b0d3e5cc-34fc-41f9-9917-58fd11be3485",
+  "correct_answer": [
+    "B"
+  ]
+}

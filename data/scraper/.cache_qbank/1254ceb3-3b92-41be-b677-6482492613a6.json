@@ -1,0 +1,38 @@
+{
+  "vaultid": "3c363503-4318-4d9e-be32-5f002e31eea8",
+  "keys": [
+    "50d25523-eec2-43ca-8897-9b5d75552fb1"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of Olga Tokarczuk&rsquo;s novel <em>The Books of Jacob</em>. As used in this context, &ldquo;complexity&rdquo; means having many complicated parts that when taken as a whole are difficult to follow or explain. The text indicates that <em>The Books of Jacob</em> has a large cast of characters, a complicated and wandering plot (that is, a plot that is difficult to follow), and reverse page numbering. Together, these features make up a novel that&rsquo;s challenging to read and summarize. This context supports the idea that a brief book review can&rsquo;t do justice to the novel&rsquo;s complexity. </p><p>Choice A is incorrect. Although the word &ldquo;accuracy,&rdquo; or being free from error or falsehood, can sometimes be used to describe a novel, the text doesn&rsquo;t discuss whether Tokarczuk&rsquo;s novel has this quality. Instead, the text describes the novel as having a large cast of characters, a difficult-to-follow plot, and reverse page numbering. These features suggest complexity, not accuracy. Choice B is incorrect because &ldquo;inactivity&rdquo; means being in a state of idleness or doing nothing, neither of which would make sense in this context. The text describes Tokarczuk&rsquo;s novel, and although it&rsquo;s possible the novel could portray its characters as inactive, it wouldn&rsquo;t make sense to describe the novel itself as such.&nbsp;Choice D is incorrect because in this context &ldquo;restraint&rdquo; would mean holding back or showing self-control, and the text doesn&rsquo;t indicate that Tokarczuk&rsquo;s novel has either of these qualities. In fact, the features of the novel that the text describes, such as a large cast of characters, a complicated and wandering plot, and reverse page numbering, suggest excess and complexity, not restraint. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "1254ceb3-3b92-41be-b677-6482492613a6",
+  "stimulus": "<p>A brief book review cannot fully convey the <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> of Olga Tokarczuk&rsquo;s novel <em>The Books of Jacob</em>, with its enormous cast of characters, its complicated, wandering plot, and its page numbers that count backward (beginning at 965 and ending at 1).</p>",
+  "templateclusterid": "74ee2532-4409-4f87-8ea2-cbaf6e579d37",
+  "parenttemplatename": "OSP-025-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "b36901c7-0bac-468b-b239-4f5aa98bd54e",
+      "content": "<p>accuracy</p>"
+    },
+    {
+      "id": "37b89118-c4de-4d31-bcfa-a3c56bdf6a4a",
+      "content": "<p>inactivity</p>"
+    },
+    {
+      "id": "50d25523-eec2-43ca-8897-9b5d75552fb1",
+      "content": "<p>complexity</p>"
+    },
+    {
+      "id": "fa9ffd91-d3ae-4575-9cd5-239d823030bf",
+      "content": "<p>restraint</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

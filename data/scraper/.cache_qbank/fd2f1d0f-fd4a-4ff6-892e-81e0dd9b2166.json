@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "stimulus": "<p>Electronic music pioneer Wendy Carlos is credited with the music for three feature films: <em>A Clockwork Orange</em> (1971), <em>The Shining</em> (1980), and <em>Tron </em>(1982). However, her musical score for <em>A Clockwork Orange</em> is mostly made up of her arrangements of Ludwig van Beethoven&rsquo;s work. Also, almost all the music that she and Rachel Elkind composed for <em>The Shining</em> was unused by director Stanley Kubrick. It did not appear in the film. Of the three films, <em>Tron </em>is the one in which audiences can hear the most of Carlos&rsquo;s original compositions.</p>",
+  "type": "mcq",
+  "keys": [
+    "004ff262-b69b-4d84-a7ca-e7d6f49f4deb"
+  ],
+  "answerOptions": [
+    {
+      "id": "004ff262-b69b-4d84-a7ca-e7d6f49f4deb",
+      "content": "<p>Of the three films for which Carlos is credited, <em>Tron </em>features the most original music from her.</p>"
+    },
+    {
+      "id": "1388f176-01e8-4a3d-ab94-8105285b706c",
+      "content": "<p>The director of <em>The Shining</em> used most of the music that Carlos composed for it.</p>"
+    },
+    {
+      "id": "bc555ec6-b3b4-41b1-9014-dc7c0989ea02",
+      "content": "<p>Beethoven is widely considered to be a more important composer than Carlos.</p>"
+    },
+    {
+      "id": "037973a6-d040-4fa5-b1b7-a8561cba3ce0",
+      "content": "<p>Carlos is a notable innovator among film composers in the 1970s and 1980s.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it best states the main idea of the text. The text indicates that Wendy Carlos scored three feature films: <em>A Clockwork Orange</em>, <em>The Shining</em>, and <em>Tron</em>. It also indicates that Carlos&rsquo;s work on <em>A Clockwork Orange</em> consisted primarily of electronic arrangements of Beethoven compositions and that very little of what she and Rachel Elkind composed for <em>The Shining</em> was used in the film. But the soundtrack for <em>Tron</em> consists largely of music composed by Carlos, so it contains more of her original music than do the soundtracks for the other two films. Thus, the main idea of the text is that of the three films for which Carlos is credited, <em>Tron </em>features the most original music from her.</p><p>Choice B is incorrect because it directly contradicts the text&rsquo;s claim that \"very little of what she and Rachel Elkind composed for <em>The Shining</em> was used in the film.\" Choice C is incorrect because the text doesn&rsquo;t address the perceived quality of different composers, instead, it discusses how much of Carlos&rsquo;s original work was used in each of the three films she scored. Choice D is incorrect because it doesn&rsquo;t relate to any of the major themes of the text: the work Wendy Carlos did for three feature films, how much of that work was composed by Carlos, and how much of her original work was ultimately used in the film.</p>",
+  "externalid": "fd2f1d0f-fd4a-4ff6-892e-81e0dd9b2166",
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Sociologist Todd Gitlin co-opted the term &ldquo;recombinant,&rdquo; normally used in reference to genetic engineering, to describe serialized television shows of the 1980s. Gitlin&rsquo;s use of the term referenced TV studios&rsquo; practice of repackaging successful narrative formulas as new <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> even shows that varied only slightly from other shows still attracted sizeable audiences.</p>",
+  "keys": [
+    "6c5e9a52-8f58-4fb7-83c8-16bfe9a6f1fa"
+  ],
+  "answerOptions": [
+    {
+      "id": "e0c256fa-4b9f-4604-8dfb-4bf958974782",
+      "content": "<p>content<span data-ssml-say-as=\"characters\">,</span> in that era</p>"
+    },
+    {
+      "id": "6c5e9a52-8f58-4fb7-83c8-16bfe9a6f1fa",
+      "content": "<p>content<span data-ssml-say-as=\"characters\">;</span> in that era<span data-ssml-say-as=\"characters\">,</span></p>"
+    },
+    {
+      "id": "d52e4671-a4e5-46be-8181-8c14d02645bf",
+      "content": "<p>content in that era<span data-ssml-say-as=\"characters\">,</span></p>"
+    },
+    {
+      "id": "ce9141c6-db36-4d17-bcc1-7d99e9fdcb0c",
+      "content": "<p>content<span data-ssml-say-as=\"characters\">,</span> in that era<span data-ssml-say-as=\"characters\">,</span></p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the use of punctuation within a sentence. This choice uses a semicolon in a conventional way to join the first main clause (\"Gitlin&rsquo;s&hellip;content\") and the second main clause beginning with a supplementary phrase (\"in&hellip;audiences\"). Further, placing a comma after \"era\" separates the supplementary phrase \"in that era\" from the rest of the main clause that follows (\"even&hellip;audiences\").</p><p>Choice A is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses. Further, this choice fails to mark the boundary between the supplementary phrase \"in that era\" and the rest of the main clause that follows (\"even&hellip;audiences\"). Choice C is incorrect because it results in a run-on sentence. The two main clauses (\"Gitlin&rsquo;s&hellip;content\" and \"in&hellip;audiences\") are fused without punctuation and/or a conjunction. Choice D is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses.</p>",
+  "externalid": "7cdef224-4daf-47ec-bf14-b5559cb48809",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "0715b7c3-13b9-466c-baa2-23324064a855",
+  "keys": [
+    "93e15949-4577-4f4c-a8c9-206ae1071a6e"
+  ],
+  "rationale": "<p>Choice A is the best answer because it presents an explanation about a helicopter that is directly supported by the text. The text states that Mars&rsquo;s atmosphere is much less dense than Earth&rsquo;s, and as a result, the air on Mars doesn&rsquo;t provide the resistance required to support the blades of a helicopter built for Earth and to keep the helicopter aloft. In other words, a helicopter built for Earth can&rsquo;t fly on Mars because of the differences in the two planets&rsquo; atmospheres. </p><p>Choice B is incorrect because instead of stating that the blades of helicopters built for Earth are too large to work on Mars, the text indicates that the helicopter built to fly on Mars actually has even longer blades than a helicopter built for Earth. Choice C is incorrect because the text never addresses the role of gravity on Mars or on Earth; instead, it focuses on atmospheric conditions. Choice D is incorrect because the text doesn&rsquo;t indicate that helicopters built for Earth are too small to operate in the conditions on Mars. In fact, the text states that the size of the helicopter built to fly on Mars is the same size as a helicopter built for Earth, even though it has longer blades that rotate faster. </p>",
+  "origin": "proteus",
+  "stem": "<p>According to the text, why would a helicopter built for Earth be unable to fly on Mars?</p>",
+  "externalid": "b91c15bb-00cb-4f87-bb8f-d086405bf9d0",
+  "stimulus": "<p>In 2014, Amelia Quon and her team at NASA set out to build a helicopter capable of flying on Mars. Because Mars&rsquo;s atmosphere is only one percent as dense as Earth&rsquo;s, the air of Mars would not provide enough resistance to the rotating blades of a standard helicopter for the aircraft to stay aloft. For five years, Quon&rsquo;s team tested designs in a lab that mimicked Mars&rsquo;s atmospheric conditions. The craft the team ultimately designed can fly on Mars because its blades are longer and rotate faster than those of a helicopter of the same size built for Earth.</p>",
+  "templateclusterid": "08ba9df7-4628-4e49-9415-1d93702879bd",
+  "parenttemplatename": "OSP-018-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "93e15949-4577-4f4c-a8c9-206ae1071a6e",
+      "content": "<p>Because Mars and Earth have different atmospheric conditions</p>"
+    },
+    {
+      "id": "9a495c46-62b7-4655-bef3-767c5d357e5f",
+      "content": "<p>Because the blades of helicopters built for Earth are too large to work on Mars</p>"
+    },
+    {
+      "id": "0a7014d2-efe6-40b7-9c55-ebbbd8352d96",
+      "content": "<p>Because the gravity of Mars is much weaker than the gravity of Earth</p>"
+    },
+    {
+      "id": "93d4f215-1bca-498f-9b0a-e9e95b28b049",
+      "content": "<p>Because helicopters built for Earth are too small to handle the conditions on Mars</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most effectively uses data from the table to complete the statement?</p>",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Three Studies' Estimated Average Velocity of LMC</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Researchers</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Study year</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Estimated average velocity</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">Murai and Fujimoto</th><td style=\"text-align: center;\">1980</td><td style=\"text-align: center;\">344 km/s</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Kallivayalil and colleagues</th><td style=\"text-align: center;\">2006</td><td style=\"text-align: center;\">378 km/s</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Gardiner and colleagues</th><td style=\"text-align: center;\">1994</td><td style=\"text-align: center;\">297 km/s</td></tr></tbody></table></figure></p>\n<p>In 2006, Nitya Kallivayalil and colleagues calculated the most accurate estimate yet of the average velocity (in kilometers per second) of the Large Magellanic Cloud (LMC) galaxy. Before the 2006 study, estimates of the average velocity were low enough for the LMC to maintain an orbit around the Milky Way galaxy, but according to an analysis by Gurtina Besla and colleagues, the estimated velocity from the 2006 study is too high for the LMC to maintain such an orbit. Therefore, if Besla and colleagues are correct, the maximum average velocity for the LMC that would allow it to maintain orbit around the Milky Way is likely <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "83a03161-3ba0-44c9-9fd4-34a707f29e64"
+  ],
+  "answerOptions": [
+    {
+      "id": "83a03161-3ba0-44c9-9fd4-34a707f29e64",
+      "content": "<p>above 344 km/s but below 378 km/s.</p>"
+    },
+    {
+      "id": "64c87eff-9589-4aed-9d94-ed4e10a2f961",
+      "content": "<p>above 297 km/s but below 344 km/s.</p>"
+    },
+    {
+      "id": "29c61bee-f8de-4936-afd4-79a653876e4d",
+      "content": "<p>above 378 km/s.</p>"
+    },
+    {
+      "id": "be0af845-eea1-40ab-84a3-3ae555cf1c95",
+      "content": "<p>below 297 km/s.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it uses data from the table to give the range of velocities for the LMC from the 1980 value (344 km/s) to the 2006 value (378 km/s), thereby effectively completing the text. The text indicates that before 2006, all the estimated velocities of the LMC were within the range necessary to maintain orbit around the Milky Way galaxy. It then indicates that, according to Besla and colleagues, the 2006 estimate of 378 km/s is too high to maintain that orbit. This strongly implies that if the 1980 value (344 km/s) is below the orbital threshold, and if Besla and colleagues are correct that the 2006 value (378 km/s) is above that threshold, the maximum orbital velocity for the LMC must be somewhere in the range from above 344 km/s to below 378 km/s.</p><p>Choice B is incorrect. The text indicates that the 2006 velocity estimate for the LMC (378 km/s) was the first estimate that exceeded the velocity needed to maintain orbit around the Milky Way. Thus, the 1980 estimate of 344 km/s and the 1994 estimate of 297 km/s must both be below the maximum possible orbital velocity for the LMC. Choice C is incorrect. The text states that Besla and colleagues&rsquo; analysis found that the velocity from the 2006 study (378 km/s) was too high for the LMC to maintain orbit around the Milky Way. Therefore, if a velocity of 378 km/s is too high, an even higher velocity will also be too high. Choice D is incorrect. The text indicates that the 2006 velocity estimate for the LMC (378 km/s) was the first to exceed the velocity range required to maintain orbit around the Milky Way. Thus, the 1994 estimate of 297 km/s must be below the maximum possible orbital velocity for the LMC.</p>",
+  "externalid": "de7f8b22-30e6-43b1-ad24-4b6f6f7e025f",
+  "correct_answer": [
+    "A"
+  ]
+}

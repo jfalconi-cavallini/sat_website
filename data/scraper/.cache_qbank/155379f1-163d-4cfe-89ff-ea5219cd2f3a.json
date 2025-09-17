@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>By analyzing ice cores from Greenland and Antarctica, a research team at Sweden&rsquo;s Lund University discovered evidence of a solar storm that occurred 9,200 years ago. Scientists had previously thought the Sun to be in a relatively &ldquo;quiet&rdquo; phase at that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the Lund team&rsquo;s finding suggests otherwise.</p>",
+  "type": "mcq",
+  "keys": [
+    "345f492e-da1c-4065-9d76-2bef038aae6d"
+  ],
+  "answerOptions": [
+    {
+      "id": "a5a1e5fc-6290-4136-b174-ebc81397d32d",
+      "content": "<p>time but</p>"
+    },
+    {
+      "id": "345f492e-da1c-4065-9d76-2bef038aae6d",
+      "content": "<p>time, but</p>"
+    },
+    {
+      "id": "57b23aa6-7716-4ed9-975b-d70777ef008d",
+      "content": "<p>time,</p>"
+    },
+    {
+      "id": "015daf56-e413-4da6-9f56-b0822fed1979",
+      "content": "<p>time</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice correctly uses a comma and the coordinating conjunction \"but\" to join the first main clause (\"Scientists...time\") and the second main clause (\"the Lund...otherwise\").</p><p>Choice A is incorrect because when coordinating two longer main clauses such as these, it&rsquo;s conventional to use a comma before the coordinating conjunction. Choice C is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses. Choice D is incorrect because it results in a run-on sentence. The two main clauses are fused without punctuation and/or a conjunction.</p>",
+  "externalid": "155379f1-163d-4cfe-89ff-ea5219cd2f3a",
+  "correct_answer": [
+    "B"
+  ]
+}

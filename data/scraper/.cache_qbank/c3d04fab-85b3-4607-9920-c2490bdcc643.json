@@ -1,0 +1,38 @@
+{
+  "vaultid": "6e92c8dc-777a-47be-9e9f-24bc986531b3",
+  "keys": [
+    "64e0d244-872b-4447-bdff-ad4bb82ea6aa"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most effectively completes the example regarding the ablation rate of iron. The table shows the ablation rates for three elements&mdash;iron, potassium, and sodium&mdash;found in cosmic dust that comes from one of four sources. The text says that the ablation rate for a given element in slower-moving SPC and AST dust was lower than the ablation rate for that same element in faster-moving HTC or OCC dust. The text then presents the first part of an example of this pattern, describing an ablation rate of 28% for iron in AST dust. The information that iron from HTC dust had an ablation rate of 90% is therefore the most effective way to complete this example&mdash;the comparison of a relatively low ablation rate for iron in slower-moving AST dust with a relatively high ablation rate for iron in faster-moving HTC dust illustrates the tendency of ablation rates for a given element to be lower in slower-moving dust than in faster-moving dust. </p><p>Choice A is incorrect because the text indicates that SPC dust, like AST dust, moves relatively slowly; a comparison of the ablation rates of iron from two slower-moving dust sources could not be an example of the difference between ablation rates in slower-moving dust and faster-moving dust, which is the pattern that the example is supposed to illustrate. Choice B is incorrect because the example in the text is supposed to illustrate the difference in the ablation rates of the same element from slower-moving dust and faster-moving dust, and the first part of the example provides data about the ablation rate of iron, which means the second part of the example must also be about the ablation rate of iron, not the ablation rate of sodium. Choice D is incorrect because the example in the text is supposed to illustrate the difference in the ablation rates of the same element from slower-moving dust and faster-moving dust, and the first part of the example provides data about the ablation rate of iron, which means the second part of the example must also be about the ablation rate of iron, not the ablation rate of sodium. Additionally, any ablation rate from AST dust would be ineffective in this example since AST dust is referenced in the first part of the example and thus additional data focused on AST dust would not illustrate a variation across dust types. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most effectively uses data from the table to complete the example?</p>",
+  "externalid": "c3d04fab-85b3-4607-9920-c2490bdcc643",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Ablation Rates for Three Elements in Cosmic Dust, by Dust Source</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Element</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">SPC</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">AST</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">HTC</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">OCC</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">iron</th><td style=\"text-align: center;\">20%</td><td style=\"text-align: center;\">28%</td><td style=\"text-align: center;\">90%</td><td style=\"text-align: center;\">98%</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">potassium</th><td style=\"text-align: center;\">44%</td><td style=\"text-align: center;\">74%</td><td style=\"text-align: center;\">97%</td><td style=\"text-align: center;\">100%</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">sodium</th><td style=\"text-align: center;\">45%</td><td style=\"text-align: center;\">75%</td><td style=\"text-align: center;\">99%</td><td style=\"text-align: center;\">100%</td></tr></tbody></table></figure></p>\n<p>Earth&rsquo;s atmosphere is bombarded by cosmic dust originating from several sources: short-period comets (SPCs), particles from the asteroid belt (ASTs), Halley-type comets (HTCs), and Oort cloud comets (OCCs). Some of the dust&rsquo;s material vaporizes in the atmosphere in a process called ablation, and the faster the particles move, the higher the rate of ablation. Astrophysicist Juan Diego Carrillo-S&aacute;nchez led a team that calculated average ablation rates for elements in the dust (such as iron and potassium) and showed that material in slower-moving SPC or AST dust has a lower rate than the same material in faster-moving HTC or OCC dust. For example, whereas the average ablation rate for iron from AST dust is 28%, the average rate for <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>&nbsp;</p>",
+  "templateclusterid": "49762729-5f16-4572-9c30-0eef57f09861",
+  "parenttemplatename": "OSP-512-QUA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "49e98929-1bb2-4abe-add6-b390b89d4c2e",
+      "content": "<p>iron from SPC dust is 20%.</p>"
+    },
+    {
+      "id": "a466b8fa-5d21-4dc4-b6fc-8c8635361458",
+      "content": "<p>sodium from OCC dust is 100%.</p>"
+    },
+    {
+      "id": "64e0d244-872b-4447-bdff-ad4bb82ea6aa",
+      "content": "<p>iron from HTC dust is 90%.</p>"
+    },
+    {
+      "id": "5504723b-0429-4b45-821d-92f4fddec050",
+      "content": "<p>sodium from AST dust is 75%.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

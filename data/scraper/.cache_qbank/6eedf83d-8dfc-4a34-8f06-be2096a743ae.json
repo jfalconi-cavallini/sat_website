@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "stimulus": "<p>In 2020, rap artist and professor A.D. Carson published the first peer-reviewed rap album about his experiences with Black masculinity called &ldquo;i used to love to dream.&rdquo; Typically in peer review, experts evaluate scholarly articles prior to publication. For Carson&rsquo;s album, dubbed a &ldquo;mixtap/e/ssay,&rdquo; peer review involved both scholars and rap artists. In combining elements of a mixtape album with scholarly essays that connect Carson&rsquo;s lyrics to historical and contemporary contexts for listeners both inside and outside academia, Carson&rsquo;s album helped redefine how scholarship is created and shared.</p>",
+  "type": "mcq",
+  "keys": [
+    "32340fed-8fe6-4f56-898b-ff092a20c176"
+  ],
+  "answerOptions": [
+    {
+      "id": "4e5b4b7d-d55f-4f40-817a-36c75b1c6857",
+      "content": "<p>To compare the relative public impact of scholarly articles and albums</p>"
+    },
+    {
+      "id": "738f268b-6fb5-44de-975a-076cb79c9152",
+      "content": "<p>To capture one scholar&rsquo;s opinion of a new rap album</p>"
+    },
+    {
+      "id": "32340fed-8fe6-4f56-898b-ff092a20c176",
+      "content": "<p>To explain why a certain rap album is particularly innovative</p>"
+    },
+    {
+      "id": "0acf4c74-1782-4cbd-bfdc-e238f4be0b3b",
+      "content": "<p>To describe how each step of the peer review process unfolds</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it best describes the main purpose of the text, which is to explain why a certain rap album is particularly innovative. The text mentions rap artist and professor A.D. Carson, who published \"the first peer-reviewed rap album.\" The text also describes the unusual process of having the work evaluated by both scholars and rap artists before its release, and details how the album combines elements of a mixtape album with elements of scholarly essays. All of these characteristics of the album and the way in which it was developed help to demonstrate the album&rsquo;s novelty.</p><p>Choice A is incorrect because though the text mentions an album that combines elements of scholarly essays and mixtapes, it does not compare the relative public impact of scholarly articles and albums. Choice B is incorrect because the text does not present the opinion of a scholar regarding the rap album. Choice D is incorrect because though the text mentions that the album was peer reviewed, it does not detail the steps of the review.</p>",
+  "externalid": "6eedf83d-8dfc-4a34-8f06-be2096a743ae",
+  "correct_answer": [
+    "C"
+  ]
+}

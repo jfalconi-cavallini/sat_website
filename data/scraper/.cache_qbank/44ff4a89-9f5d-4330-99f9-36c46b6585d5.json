@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "stimulus": "<p>Conservationists worldwide are working to protect ecosystems from habitat destruction and biodiversity loss, and in many cases, initiatives that rely on natural features or processes can help address such challenges. In response to a rapidly dwindling population of blueback salmon, the Quinault Indian Nation (a tribe in Washington State) partnered with the conservation organization Wild Salmon Center to restore naturally occurring logjams in the Quinault River. The logjams create shady pools where the blueback salmon can rest and spawn, thus promoting blueback population recovery.</p>",
+  "keys": [
+    "d5916735-1e2d-4cdc-8481-13447ac49405"
+  ],
+  "answerOptions": [
+    {
+      "id": "a11167f6-4be0-45ef-a7e8-0943fa6cfabe",
+      "content": "<p>A partnership between the Quinault Indian Nation and Wild Salmon Center shows the importance of collaborative approaches to preserving biodiversity.</p>"
+    },
+    {
+      "id": "d5916735-1e2d-4cdc-8481-13447ac49405",
+      "content": "<p>Nature-based approaches can be effective ways to achieve conservation goals.</p>"
+    },
+    {
+      "id": "7a6dc250-98da-46e3-838f-9814d97b43a0",
+      "content": "<p>As indicated by a recent project, logjams help the blueback salmon thrive and reproduce.</p>"
+    },
+    {
+      "id": "412e33dd-ff71-4447-bd89-37a2139fcf25",
+      "content": "<p>Scientists now realize that nature-based conservation methods offer better long-term solutions to environmental issues than methods that are not nature-based do.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it best states the main idea of the text: that nature-based approaches can be effective for achieving conservation goals. The text indicates that in many cases where conservationists are trying to protect ecosystems, their methods depend on natural processes or features. The text then gives an example of this phenomenon, a project with the Quinault Indian Nation that allowed logjams to form naturally in a river, creating spawning habitats for blueback salmon.</p><p>Choice A is incorrect. Although the text does suggest that the partnership with the Quinault Indian Nation was beneficial, this is not the central aim of the text; the text primarily argues that nature-based approaches to conservation can be effective. Choice C is incorrect. Although the text indicates that logjams are helpful to blueback salmon, the example of the blueback salmon project is included to illustrate the larger point made earlier in the text: that nature-based approaches to conservation are often effective. Choice D is incorrect. There is no evidence in the text to support a direct comparison of the efficacy of nature-based conservation approaches to other types of approaches. The text merely indicates that nature-based approaches can often be effective.</p>",
+  "externalid": "44ff4a89-9f5d-4330-99f9-36c46b6585d5",
+  "correct_answer": [
+    "B"
+  ]
+}

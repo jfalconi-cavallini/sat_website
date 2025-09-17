@@ -1,0 +1,38 @@
+{
+  "vaultid": "6ab66e6f-88c1-4530-9733-2be7e5cfe768",
+  "keys": [
+    "ce8ba3e1-52b2-41f9-bb87-771d65afe930"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of nonfinite verb forms within a sentence. The nonfinite present participle \"including\" is correctly used to form a participial phrase that supplements the main clause \"he patented many inventions,\" listing several of Spikes&rsquo;s patented inventions.</p><p>Choice A is incorrect because the finite past tense verb \"included\" can&rsquo;t be used in this way to supplement the main clause \"he patented many inventions.\" Choice B is incorrect because the finite present tense verb \"includes\" can&rsquo;t be used in this way to supplement the main clause \"he patented many inventions.\" Choice D is incorrect because the finite future tense verb \"will include\" can&rsquo;t be used in this way to supplement the main clause \"he patented many inventions.\"</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "e0a588a4-5e5a-48bf-916c-83bd97366237",
+  "stimulus": "<p>Richard Spikes was a prolific African American inventor known for his contributions to automotive engineering. Between 1907 and 1946, he patented many inventions, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> an automobile turn signal, a safety brake, and&mdash;most famously&mdash;the first automatic gearshift.</p>",
+  "templateclusterid": "ab3c3649-6bef-4804-8c05-0034b22cea91",
+  "parenttemplatename": "OSP-759-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "bf627286-1cde-4414-86d2-f57868a4009d",
+      "content": "<p>included</p>"
+    },
+    {
+      "id": "c1a5e500-0c57-442a-8a8f-23f1fb362e29",
+      "content": "<p>includes</p>"
+    },
+    {
+      "id": "ce8ba3e1-52b2-41f9-bb87-771d65afe930",
+      "content": "<p>including</p>"
+    },
+    {
+      "id": "afe85b95-6af5-4e0b-872e-a9bf7b682795",
+      "content": "<p>will include</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

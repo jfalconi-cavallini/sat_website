@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>In the late nineteenth and early twentieth centuries, automobiles were commonly referred to as horseless carriages after the older technology they still resembled. Known as the Brass Era, this period in automotive design is remembered for its grandeur and artistry, its vehicles <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> by collectors for their ornate detailing and gleaming brass fittings.</p>",
+  "keys": [
+    "b9e0184e-0ca2-4ce2-a558-34adf216c006"
+  ],
+  "answerOptions": [
+    {
+      "id": "d9c87091-4818-4692-8c20-ebc72cb2cdb8",
+      "content": "<p>are highly prized</p>"
+    },
+    {
+      "id": "2aad20b4-76a6-41c3-86b1-cc89389549d0",
+      "content": "<p>had been highly prized</p>"
+    },
+    {
+      "id": "b9e0184e-0ca2-4ce2-a558-34adf216c006",
+      "content": "<p>highly prized</p>"
+    },
+    {
+      "id": "6493536c-09d5-4e89-adeb-1c22075da008",
+      "content": "<p>were highly prized</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of verb forms in a sentence. The nonfinite past participle phrase \"highly prized\" is correctly used to form a supplementary element that modifies the main clause \"this&hellip;artistry,\" describing memorable features of Brass Era automotive design.</p><p>Choice A is incorrect because it results in a comma splice. Using the finite present tense verb phrase \"are highly prized\" creates a second main clause in the sentence, and two main clauses can&rsquo;t be joined in this way with only a comma after \"artistry.\" Choice B is incorrect because it results in a comma splice. Using the finite past perfect tense verb phrase \"had been highly prized\" creates a second main clause in the sentence, and two main clauses can&rsquo;t be joined in this way with only a comma after \"artistry.\" Choice D is incorrect because it results in a comma splice. Using the finite past tense verb phrase \"were highly prized\" creates a second main clause in the sentence, and two main clauses can&rsquo;t be joined in this way with only a comma after \"artistry.\"</p>",
+  "externalid": "603b8a74-0a7b-4e5d-9456-729dc5f9c391",
+  "correct_answer": [
+    "C"
+  ]
+}

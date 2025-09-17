@@ -1,0 +1,38 @@
+{
+  "vaultid": "d8308dbd-59bf-43c1-a99b-75e6946c286e",
+  "keys": [
+    "5d7efa2e-f2fc-4772-92e5-f1f62ac523fc"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately describes the main purpose of the text. The narrator describes how Joe responds to being in &ldquo;the metropolis&rdquo;: he&rsquo;s excited and &ldquo;wild with enthusiasm.&rdquo; He also envies the young fellows who walk by because, dressed as they are, they look as if they have somewhere special to go. The text contrasts this new place with the place Joe comes from, where apparently there wasn&rsquo;t as much to do. Thus, the main purpose of the text is to illustrate Joe&rsquo;s reaction to a new environment. </p><p>Choice B is incorrect because the text makes no reference to why Joe has moved. The narrator indicates that Joe is enthusiastic about being in a city, but there&rsquo;s no explanation provided for the move.&nbsp;Choice C is incorrect because the text makes no reference to how Joe thinks about an event. The narrator describes young men passing by in the evening and then recalls places worth going to at home&mdash;church and a few people&rsquo;s houses&mdash;but there&rsquo;s no explicit comparison made nor is a time of day mentioned for these events back home. Choice D is incorrect because the text doesn&rsquo;t support the idea that Joe feels regret over leaving home. Instead, Joe is described as &ldquo;wild with enthusiasm&rdquo; at being in the city. Joe&rsquo;s home is mentioned, but only to compare it unfavorably with the city. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "externalid": "e7bb11cb-8c17-4290-bd1b-5ffba54bbdbe",
+  "stimulus": "<p>The following text is adapted from Paul Laurence Dunbar&rsquo;s 1902 novel <em>The Sport of the Gods</em>. Joe and some of his family members have recently moved to New York City.</p>\n<blockquote>\n<p>[Joe] was wild with enthusiasm and with a desire to be a part of all that the metropolis meant. In the evening he saw the young fellows passing by dressed in their spruce clothes, and he wondered with a sort of envy where they could be going. Back home there had been no place much worth going to, except church and one or two people&rsquo;s houses.</p>\n</blockquote>",
+  "templateclusterid": "cec851c5-2cf0-4374-a7d7-0951df5edd89",
+  "parenttemplatename": "OSP-047-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "5d7efa2e-f2fc-4772-92e5-f1f62ac523fc",
+      "content": "<p>It illustrates a character&rsquo;s reaction to a new environment.</p>"
+    },
+    {
+      "id": "0e5553a2-ec88-4a88-8e7b-e8c677002f28",
+      "content": "<p>It explains why a character has traveled to a city.</p>"
+    },
+    {
+      "id": "92332796-7860-4092-aa47-249ed2bb6077",
+      "content": "<p>It compares a character&rsquo;s thoughts about an event at two different times of day.</p>"
+    },
+    {
+      "id": "9276482c-ac16-458f-a0a3-c7b6667c20f8",
+      "content": "<p>It presents a character feeling regret over leaving home.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

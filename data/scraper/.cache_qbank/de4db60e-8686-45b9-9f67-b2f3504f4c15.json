@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Researcher Lucy Salazar is using radiocarbon dating to study Machu Picchu, an ancient Incan fortress in the Andes Mountains. She and her colleagues have found that the site&rsquo;s age differs from the <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> estimate: it is approximately 20 years older than scholars thought when first encountering Machu Picchu in 1911.</p>",
+  "type": "mcq",
+  "keys": [
+    "6e60bb1b-214e-488b-93ff-d4bf3d27405c"
+  ],
+  "answerOptions": [
+    {
+      "id": "db4b89ef-c777-447d-9647-860ec2b77e3a",
+      "content": "<p>genuine</p>"
+    },
+    {
+      "id": "4ed31e85-8b72-4337-bed5-d823aa9eb907",
+      "content": "<p>intentional</p>"
+    },
+    {
+      "id": "cf8f3c75-70f6-4bfa-bd9e-74699e8ae2ec",
+      "content": "<p>independent</p>"
+    },
+    {
+      "id": "6e60bb1b-214e-488b-93ff-d4bf3d27405c",
+      "content": "<p>original</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the dating of Machu Picchu. In this context, \"original\" means first or initial. The text indicates that Lucy Salazar and her colleagues have determined the age of Machu Picchu and that the age differs from another estimate of the site&rsquo;s age, explaining that the site is about 20 years older than scholars thought in 1911 when they initially encountered Machu Picchu. In other words, Salazar and her team found that the site&rsquo;s age differs from the first estimate.</p><p>Choice A is incorrect. The text&rsquo;s structure indicates that the missing word describes the estimate made by scholars when they first encountered Machu Picchu in 1911 in relation to the age determined by Salazar and her colleagues. It wouldn&rsquo;t make sense to suggest that the estimate by earlier scholars was \"genuine,\" or actual and true, while the one by Salazar&rsquo;s team wasn&rsquo;t, since the text treats the finding by Salazar&rsquo;s team as true and as invalidating the earlier estimate (\"it is approximately 20 years older than scholars thought\"). Choice B is incorrect. The text&rsquo;s structure indicates that the missing word describes the estimate made by scholars when they first encountered Machu Picchu in 1911 in relation to the age determined by Salazar and her colleagues. It wouldn&rsquo;t make sense to suggest that the estimate by earlier scholars was \"intentional,\" or done on purpose, while the one by Salazar&rsquo;s team wasn&rsquo;t; the text indicates that Salazar and her colleagues were deliberately using radiocarbon dating to study Machu Picchu. Choice C is incorrect. The text&rsquo;s structure indicates that the missing word describes the estimate made by scholars when they first encountered Machu Picchu in 1911 in relation to the age determined by Salazar and her colleagues. There&rsquo;s no reason to suggest that the estimate by earlier scholars was \"independent,\" or not controlled by or affiliated with others, while the one by Salazar&rsquo;s team wasn&rsquo;t; there&rsquo;s no mention of any outside influence on the work by Salazar and her team or by scholars in 1911.</p>",
+  "externalid": "de4db60e-8686-45b9-9f67-b2f3504f4c15",
+  "correct_answer": [
+    "D"
+  ]
+}

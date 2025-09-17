@@ -1,0 +1,31 @@
+{
+  "stem": "<p>As used in the text, what does the word &ldquo;featured&rdquo; most nearly mean?</p>",
+  "stimulus": "<p>The following text is from Darcie Little Badger&rsquo;s 2021 novel <em>A Snake Falls to Earth</em>. Nina is looking at old family photographs.</p>\n<blockquote>\n<p>Nina couldn&rsquo;t stop looking at the sepia-toned photograph in an oak frame. Propped on the window ledge, it <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">featured</span> a portrait of Great-Great-Grandmother Rosita as a young woman.</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;2021 by Darcie Little Badger</span></p>",
+  "type": "mcq",
+  "keys": [
+    "f95cc719-61df-4a03-8d95-d25600cc54c0"
+  ],
+  "answerOptions": [
+    {
+      "id": "f95cc719-61df-4a03-8d95-d25600cc54c0",
+      "content": "<p>Displayed</p>"
+    },
+    {
+      "id": "f6dbee95-1e86-46c2-ae6a-856930c12e99",
+      "content": "<p>Questioned</p>"
+    },
+    {
+      "id": "4451b81d-7e46-4b5f-9974-31b904616572",
+      "content": "<p>Approved</p>"
+    },
+    {
+      "id": "2ccbfb24-6984-4aa2-a9e1-76f7c7b5f0a6",
+      "content": "<p>Ignored</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because as used in the text, \"featured\" most nearly means displayed. The text describes Nina&rsquo;s fascination with a framed photograph. It then goes on to describe what the photograph showed, or displayed, which is a portrait of Nina&rsquo;s great-great-grandmother Rosita as a young woman. Thus, the text indicates that the photograph displayed a portrait of Rosita.</p><p>Choice B is incorrect because the text identifies the person shown in the photograph as Nina&rsquo;s great-great-grandmother; it gives no indication that the contents of the photograph were questioned, or asked about. Choice C is incorrect because approved means expressed a favorable opinion of, and there&rsquo;s nothing to suggest that the photograph of Nina&rsquo;s great-great-grandmother has received approval or been viewed favorably, only that Nina is unable to stop looking at it. Choice D is incorrect because nothing in the text suggests that the photograph Nina is fascinated with ignored, or refused to take notice of, Nina&rsquo;s great-great-grandmother Rosita. Rather, the text indicates that the photograph was a portrait of Rosita.</p>",
+  "externalid": "7a2c8836-7561-41d9-a391-1a2361cad7b6",
+  "correct_answer": [
+    "A"
+  ]
+}

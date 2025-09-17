@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>My interest in old public libraries has led me to seek them out whenever I visit a new part of the United States. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> I could visit every state in the US and still not find the oldest public library in the Western Hemisphere. That library, the Biblioteca Palafoxiana, is located in Puebla, Mexico.</p>",
+  "type": "mcq",
+  "keys": [
+    "165b9b68-34db-437e-bce1-e209c21bd348"
+  ],
+  "answerOptions": [
+    {
+      "id": "d54914c0-08e5-4143-a347-28dd7ee86269",
+      "content": "<p>As a result,</p>"
+    },
+    {
+      "id": "165b9b68-34db-437e-bce1-e209c21bd348",
+      "content": "<p>Nevertheless,</p>"
+    },
+    {
+      "id": "901698c2-2443-4ae4-a9ec-5c2e5a452364",
+      "content": "<p>Earlier,</p>"
+    },
+    {
+      "id": "d5818a5a-8ef5-4446-a660-f77c64e4d8d2",
+      "content": "<p>In other words,</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. \"Nevertheless\" logically signals that the claim in the sentence&mdash;that the speaker could visit every state in the US and not find the oldest public library in the Western Hemisphere&mdash;is true despite the previous claim about the speaker seeking out old public libraries.</p><p>Choice A is incorrect because \"as a result\" illogically signals that the claim in the sentence is a consequence of the previous claim about the speaker seeking out old public libraries. Instead, the claim is true despite the previous claim. Choice C is incorrect because \"earlier\" illogically signals that the claim in the sentence occurs earlier in a chronological sequence of events than the previous claim about the speaker seeking out old public libraries. Instead, the claim is true despite the previous claim. Choice D is incorrect because \"in other words\" illogically signals that the claim in the sentence is merely a paraphrase or restatement of the previous claim about the speaker seeking out old public libraries. Instead, the claim is true despite the previous claim.</p>",
+  "externalid": "61e4987d-fb06-4147-acf3-d01a7f3b36f2",
+  "correct_answer": [
+    "B"
+  ]
+}

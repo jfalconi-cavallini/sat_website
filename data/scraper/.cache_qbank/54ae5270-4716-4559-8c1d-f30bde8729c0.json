@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "stimulus": "<p>The following text is adapted from George Bernard Shaw&rsquo;s 1912 play <em>Pygmalion</em>. Henry Higgins has just arrived at the house of his mother (<span data-ssml-sub-alias=\"Mrs\">Mrs.</span> Higgins). She is expecting her friends to visit soon.</p>\n<blockquote>\n<p><span data-ssml-sub-alias=\"Mrs\">MRS.</span> HIGGINS: I&rsquo;m serious, Henry. You offend all my friends: they stop coming whenever they meet you.</p>\n<p>HIGGINS: Nonsense! I know I have no small talk; but people don&rsquo;t mind.</p>\n<p><span data-ssml-sub-alias=\"Mrs\">MRS.</span> HIGGINS: Oh! don&rsquo;t they? Small talk indeed! What about your large talk? Really, dear, you mustn&rsquo;t stay.</p>\n</blockquote>",
+  "keys": [
+    "41ea1e48-ac2b-4e93-af46-8cb53be907f2"
+  ],
+  "answerOptions": [
+    {
+      "id": "09bcae20-9f2f-455a-a3dc-7aebd8c74c69",
+      "content": "<p>To describe what Henry&rsquo;s mother does when she goes out with her friends&nbsp;</p>"
+    },
+    {
+      "id": "41ea1e48-ac2b-4e93-af46-8cb53be907f2",
+      "content": "<p>To show that Henry&rsquo;s mother wants him to leave</p>"
+    },
+    {
+      "id": "3e925ccc-d44d-4471-863d-7f42e1db925b",
+      "content": "<p>To present a detailed account of what Henry&rsquo;s home looks like</p>"
+    },
+    {
+      "id": "286ef822-73c5-4fa8-bee4-db1c12d327fb",
+      "content": "<p>To explain why Henry often visits his mother</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most accurately states the main purpose of the text, which is to show that Henry&rsquo;s mother, Mrs. Higgins, wants Henry to leave her house. In the text, Mrs. Higgins complains that Henry offends all her friends and that they stop coming when he&rsquo;s also visiting. She then tells him directly, \"you mustn&rsquo;t stay.\" The overall exchange conveys Mrs. Higgins&rsquo;s intention for Henry to leave so as not to drive away her friends with his behavior.</p><p>Choice A is incorrect because the text doesn&rsquo;t indicate what Henry&rsquo;s mother does when she&rsquo;s out with her friends. Instead, it focuses on what goes on when Henry and her friends visit her at the same time, indicating that since her friends find Henry&rsquo;s company disagreeable, she wishes him to leave before they arrive. Choice C is incorrect because the text doesn&rsquo;t contain an account of what Henry&rsquo;s home looks like. The setting is established as the house of Henry&rsquo;s mother, and the dialogue focuses solely on her wish that Henry should depart before her friends arrive. Choice D is incorrect because the text doesn&rsquo;t mention how often Henry visits his mother nor does it provide any explanation for why he visits his mother. Instead, it indicates that she thinks her friends dislike Henry and that she therefore wants him to depart before they arrive.</p>",
+  "externalid": "54ae5270-4716-4559-8c1d-f30bde8729c0",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Archaeologist Erika Karuzas works with the Confederated Salish and Kootenai Tribes of Montana to preserve culturally significant sites. In 2015 they decided that creating a new national trail connecting many of these sites would <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> their preservation efforts, because the US government provides some protections to national trails that aren&rsquo;t given to other areas.</p>",
+  "type": "mcq",
+  "keys": [
+    "fa8d0a1d-f5a4-4b7e-b196-135e32178257"
+  ],
+  "answerOptions": [
+    {
+      "id": "30e1e8c9-b7a1-4ac0-ac58-2bf4b1af4a3f",
+      "content": "<p>inspire</p>"
+    },
+    {
+      "id": "1808db8b-28a2-4846-903e-7b4a0084cb7b",
+      "content": "<p>ignore</p>"
+    },
+    {
+      "id": "fa8d0a1d-f5a4-4b7e-b196-135e32178257",
+      "content": "<p>promote</p>"
+    },
+    {
+      "id": "397cd3a8-9737-4542-827b-9acb089bcc1b",
+      "content": "<p>reduce</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of the preservation efforts undertaken by Erika Karuzas and the Confederated Salish and Kootenai Tribes of Montana. In this context, \"promote\" means play a part in the success or growth of something or someone. The text indicates that Karuzas and the Confederated Salish and Kootenai Tribes work to preserve culturally important sites. It goes on to say that their decision to create a national trail connecting the sites was motivated by the fact that such a trail would receive protections from the US government that the sites wouldn&rsquo;t otherwise receive. Thus, such a decision would promote the preservation efforts.</p><p>Choice A is incorrect because \"inspire\" means motivate or influence, which wouldn&rsquo;t make sense in context. The text establishes that Karuzas and the Confederated Salish and Kootenai Tribes of Montana work to preserve culturally significant sites and that their decision to create a new national trail occurred as a result of a desire to add protections to the sites that they wouldn&rsquo;t otherwise receive. Thus, creating the trail wouldn&rsquo;t inspire the efforts to preserve the sites; instead, it would promote the efforts. Choice B is incorrect because \"ignore\" means overlook, which wouldn&rsquo;t make sense in context. The text indicates that Karuzas and the Confederated Salish and Kootenai Tribes of Montana work to preserve culturally significant sites and that they decided to create a national trail connecting the sites because such a trail would receive protections from the US government that the sites wouldn&rsquo;t otherwise receive. Thus, the creation of the trail would promote, not ignore, the preservation efforts. Choice D is incorrect because \"reduce\" means decrease or restrict, which wouldn&rsquo;t make sense in context. The text indicates that Karuzas and the Confederated Salish and Kootenai Tribes of Montana work to preserve culturally significant sites and that they decided to create a national trail connecting the sites because such a trail would receive protections from the US government that the sites wouldn&rsquo;t otherwise receive. The decision would therefore promote, not reduce, the preservation efforts.</p>",
+  "externalid": "a31bc539-61e1-4832-8a73-3c1d92e98529",
+  "correct_answer": [
+    "C"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most effectively uses data from the table to complete the claim?</p>",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Dated Ages of Lunar Samples from Select Missions</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Mission name</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Year</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Landing site</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Approximate age of lunar samples (billions of years)</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">Apollo 11</th><td style=\"text-align: center;\">1969</td><td>Mare Tranquillitatis<em/></td><td style=\"text-align: center;\">3.6</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Apollo 15</th><td style=\"text-align: center;\">1971</td><td>Mare Imbrium</td><td style=\"text-align: center;\">3.3</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Apollo 17</th><td style=\"text-align: center;\">1972</td><td>Mare Serenitatis</td><td style=\"text-align: center;\">3.8</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Chang&rsquo;e 5</th><td style=\"text-align: center;\">2020</td><td>Oceanus Procellarum</td><td style=\"text-align: center;\">2.0</td></tr></tbody></table></figure></p>\n<p>&nbsp;</p>\n<p>The Apollo program missions were spaceflights to the moon led by the United States during the 1960s and 1970s during which astronauts collected some samples of the moon&rsquo;s surface. More recently, China launched the Chang&rsquo;e 5 mission, which returned additional lunar surface samples. Researchers have analyzed and dated each of the samples, concluding that the lunar samples collected during the Chang&rsquo;e 5 mission are significant because <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "7eb616cf-c5a2-4287-8e4d-a3fc0fcbbd5d"
+  ],
+  "answerOptions": [
+    {
+      "id": "7eb616cf-c5a2-4287-8e4d-a3fc0fcbbd5d",
+      "content": "<p>they are much younger than the samples brought back from any of the Apollo missions.</p>"
+    },
+    {
+      "id": "3e62af6c-2233-403f-a3ba-68dd23559985",
+      "content": "<p>they were collected from the same landing site as the Apollo 11 mission.</p>"
+    },
+    {
+      "id": "8267bae5-0fdc-41a8-a73c-97ed98bafed6",
+      "content": "<p>they are closest in age to the samples brought back by the Apollo 17 mission.</p>"
+    },
+    {
+      "id": "4498fde6-44f9-48c0-bfef-49d82c1a27c3",
+      "content": "<p>they helped confirm the predicted ages of the lunar samples from the Apollo missions.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it effectively uses data from the table to complete the claim about the significance of the Chang&rsquo;e 5 lunar samples. The table shows the approximate ages of lunar samples from four different missions: three Apollo missions and the Chang&rsquo;e 5 mission. The Chang&rsquo;e 5 samples are said to be approximately 2 billion years old, while the Apollo samples are each said to be more than 3 billion years old. In other words, based on the data in the table, the Chang&rsquo;e 5 samples are much younger than those from the Apollo missions.</p><p>Choice B is incorrect because the table shows that the Chang&rsquo;e 5 samples were taken from a landing site at Oceanus Procellarum, which none of the Apollo missions are shown to have visited. Choice C is incorrect because the table shows the Apollo 17 samples as approximately 3.8 billion years old, the Apollo 15 samples as approximately 3.3 billion years old, and the Chang&rsquo;e 5 samples as approximately 2 billion years old, and therefore, the Chang&rsquo;e samples are closer in age to the Apollo 15 samples than they are to the Apollo 17 samples. Choice D is incorrect because nothing in the text or table suggests that the Chang&rsquo;e 5 samples were used to confirm the ages of the Apollo samples.</p>",
+  "externalid": "ea1a64cf-daf1-4d0e-8070-3f1ad98f30d3",
+  "correct_answer": [
+    "A"
+  ]
+}

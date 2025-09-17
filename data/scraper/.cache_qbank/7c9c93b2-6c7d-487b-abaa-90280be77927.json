@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best describes the function of the underlined portion in the text as a whole?</p>",
+  "stimulus": "<p>The following text is from Annie Dillard&rsquo;s 1987 autobiographical novel <em>An American Childhood</em>. The narrator is a young girl living in Pittsburgh.</p>\n<blockquote>\n<p>I walked. My mother had given me the freedom of the streets as soon as I could say our telephone number. I walked and memorized the neighborhood. I made a mental map and located myself upon it. At night in bed I rehearsed the small world&rsquo;s scheme and set challenges: <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">Find the store using backyards only. Imagine a route from the school to my friend&rsquo;s house.</span></p>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;1987 by Annie Dillard</span></p>\n</blockquote>",
+  "type": "mcq",
+  "keys": [
+    "cc57a976-a332-4700-88fa-f26509209477"
+  ],
+  "answerOptions": [
+    {
+      "id": "b5adbc6b-1da1-4fa8-9fd8-99167da2e7db",
+      "content": "<p>It describes the narrator trying to memorize her telephone number.</p>"
+    },
+    {
+      "id": "cc57a976-a332-4700-88fa-f26509209477",
+      "content": "<p>It provides examples of what the narrator thinks about at night.</p>"
+    },
+    {
+      "id": "2670b7dc-35b4-4137-b236-49061c9df7bc",
+      "content": "<p>It gives directions to the narrator&rsquo;s favorite local store.</p>"
+    },
+    {
+      "id": "fdd2a523-3c38-43df-9f65-719db97d210f",
+      "content": "<p>It portrays the narrator&rsquo;s relationship with her mother.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it accurately describes how the underlined portion functions in the text as a whole. In the text, the narrator explains that she walks around her neighborhood, making a \"mental map\" of the area that she imagines herself navigating through. She then states that she rehearses \"the small world&rsquo;s scheme\"&mdash;that is, imagines moving through her mental map&mdash;and challenges herself to use the map in her mind while lying in bed at night. The underlined portion presents two such challenges (getting to the store through backyards and traveling from school to a friend&rsquo;s house) and thus provides examples of what the narrator thinks about at night.</p><p>Choice A is incorrect because the underlined portion makes no mention of memorizing a telephone number. Although the narrator mentions that she had to learn the home telephone number before her mother would give her permission to walk around the neighborhood, there is nothing in the underlined portion or the rest of the text about memorizing the telephone number. Choice C is incorrect. Although the underlined portion refers to navigation tasks like finding a route to a store only through backyards, the text contains no specific directions to any store, nor is any store identified as the narrator&rsquo;s favorite. Choice D is incorrect because the underlined portion makes no mention of the narrator&rsquo;s mother and doesn&rsquo;t address the narrator&rsquo;s relationship with her. Although the narrator mentions that her mother gave her permission as a child to walk around the neighborhood, there is nothing in the underlined portion or the rest of the text about the mother or her relationship to her child.</p>",
+  "externalid": "7c9c93b2-6c7d-487b-abaa-90280be77927",
+  "correct_answer": [
+    "B"
+  ]
+}

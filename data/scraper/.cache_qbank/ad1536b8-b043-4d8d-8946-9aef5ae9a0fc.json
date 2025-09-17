@@ -1,0 +1,38 @@
+{
+  "vaultid": "a0ec49fb-d3ed-4cda-a4d2-7c61610ac2e3",
+  "keys": [
+    "acc03747-ae54-464b-935c-933524f1d48a"
+  ],
+  "rationale": "<p>Choice D is the best answer because this quotation would be the most effective evidence to include in support of the claim that the Corporation for Public Broadcasting and NPR were inspired by the British Broadcasting System (BBC). The quotation states that the goal of the BBC was to support British democracy and that US legislators believed high-quality programming could accomplish the same goal for democracy in the United States. In other words, US legislators looked to the BBC as a model, taking direct inspiration from it when they created the Corporation for Public Broadcasting, which in turn created NPR. </p><p>Choice A is incorrect because this quotation provides historical information about the BBC, not information about the inspiration for the creation of the Corporation for Public Broadcasting and NPR. This quotation, therefore, is irrelevant to the student&rsquo;s claim that the BBC inspired the creation of the Corporation for Public Broadcasting, which in turn created NPR. Choice B is incorrect because this quotation contrasts the lack of competition faced by the BBC with the substantial competition faced by NPR, which has no bearing on the student&rsquo;s claim that the Corporation for Public Broadcasting and NPR were inspired by the BBC.&nbsp;Choice C is incorrect because this quotation focuses on a common belief among US politicians that inspired Congress&rsquo;s embrace of publicly funded broadcasting. The quotation doesn&rsquo;t say anything about the BBC and therefore doesn&rsquo;t support the claim that the BBC inspired Congress to create the Corporation for Public Broadcasting, which in turn created NPR. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which quotation from a work by a historian would be the most effective evidence for the student to include in support of this claim?</p>",
+  "externalid": "ad1536b8-b043-4d8d-8946-9aef5ae9a0fc",
+  "stimulus": "<p>In 1967 the US Congress created the Corporation for Public Broadcasting, which in turn created National Public Radio (NPR). NPR began producing and distributing high-quality news and cultural programming to affiliate stations across the United States in 1971. In a research paper, a student claims that the Corporation for Public Broadcasting and NPR were inspired by the British Broadcasting System (BBC), which had been established in the 1920s.</p>",
+  "templateclusterid": "e13c5062-4bb8-44f8-b67d-b4b9e974ddb3",
+  "parenttemplatename": "OSP-337-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "8b7a6ba0-4747-496d-a50c-60d58256d453",
+      "content": "<p>&ldquo;Although the BBC had begun as a private corporation, politicians successfully argued to make it a public company because they believed a public broadcaster could help build national unity in the aftermath of World War I.&rdquo;</p>"
+    },
+    {
+      "id": "a4e04d11-c1de-4115-b642-c19866707bb1",
+      "content": "<p>&ldquo;For many decades, the BBC had no competition since it held Britain&rsquo;s only broadcasting license, whereas in the United States, the Corporation for Public Broadcasting launched NPR in a broadcasting market already filled with competitors.&rdquo;</p>"
+    },
+    {
+      "id": "b3ab469d-9293-498b-960a-d265ccad5f4a",
+      "content": "<p>&ldquo;Congress&rsquo;s embrace of publicly funded broadcasting reflected a common belief among US politicians that the role of government was not only to ensure people&rsquo;s safety and liberty but also to enrich people&rsquo;s lives in other ways.&rdquo;</p>"
+    },
+    {
+      "id": "acc03747-ae54-464b-935c-933524f1d48a",
+      "content": "<p>&ldquo;The goal of the BBC was to support British democracy by promoting an informed citizenry, and US legislators believed that ensuring access to high-quality programming could do the same for democracy in the United States.&rdquo;</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>A study showed that a solar park caused nearby land to cool, though the ecological impact of this temperature decrease isn&rsquo;t yet known. Before the park&rsquo;s construction, the surface temperature 30 meters outside of the park boundary was 0.1&deg;C cooler than that of a control <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> construction, the temperature 30 meters outside of the boundary was 1.7&deg;C cooler than that of the control area.</p>",
+  "type": "mcq",
+  "keys": [
+    "c38efdf7-dec4-457e-ba64-23cfcfb83d4f"
+  ],
+  "answerOptions": [
+    {
+      "id": "b6701b9d-2cd0-474b-bf5d-5cbbbf7b6238",
+      "content": "<p>area after</p>"
+    },
+    {
+      "id": "d984379b-23ae-47e4-a347-bbe5307ac611",
+      "content": "<p>area after,</p>"
+    },
+    {
+      "id": "c38efdf7-dec4-457e-ba64-23cfcfb83d4f",
+      "content": "<p>area. After</p>"
+    },
+    {
+      "id": "27a5d37b-fc30-49f9-8e45-d7dfe0c44592",
+      "content": "<p>area, after</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period is used to correctly mark the boundary between one sentence (\"Before...area\") and another (\"After...area\"). The phrase \"After construction\" modifies the next sentence to indicate that the temperature was cooler after construction.</p><p>Choice A is incorrect because it results in a run-on sentence that fuses the two sentences (\"Before...area\" and \"after...area\") without punctuation and/or a conjunction. Choice B is incorrect because it results in a run-on sentence that connects the two sentences (\"Before...area\" and \"after...area\") without punctuation and/or a conjunction. Additionally, no punctuation is needed between \"after\" and \"construction.\" Choice D is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to mark the boundary between the two sentences (\"Before...area\" and \"after...area\").</p>",
+  "externalid": "6536f9e4-0474-46f2-9804-9baa25c5bea6",
+  "correct_answer": [
+    "C"
+  ]
+}

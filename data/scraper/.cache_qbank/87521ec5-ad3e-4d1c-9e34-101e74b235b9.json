@@ -1,0 +1,38 @@
+{
+  "vaultid": "e5e3e83b-aa5f-40e7-8323-aeff3228ab19",
+  "keys": [
+    "ca77298f-72ce-407d-a2da-8ff2f4126573"
+  ],
+  "rationale": "<p>Choice A is the best answer. &ldquo;Meanwhile&rdquo; logically signals that the action described in this sentence (Obinze&rsquo;s move to London to pursue a career) is simultaneous with the action described in the previous sentence (Ifemelu&rsquo;s move to the United States). The first sentence establishes that the actions take place around the same time, referring to the characters&rsquo; &ldquo;divergent experiences&rdquo; following high school. &nbsp;</p><p>Choice B is incorrect because &ldquo;nevertheless&rdquo; illogically signals that the information in this sentence about Obinze&rsquo;s move to London is true despite the previous information about Ifemelu&rsquo;s move to the United States. Instead, as the first sentence establishes, Obinze&rsquo;s move and Ifemelu&rsquo;s move are related, parallel experiences that occur around the same time.&nbsp;Choice C is incorrect because &ldquo;secondly&rdquo; illogically signals that the information in this sentence is a second point or reason separate from the previous information about Ifemelu&rsquo;s move to the United States. Instead, as the first sentence establishes, Obinze&rsquo;s move and Ifemelu&rsquo;s move are related, parallel experiences that occur around the same time.&nbsp;Choice D is incorrect because &ldquo;in fact&rdquo; illogically signals that the information in this sentence emphasizes, modifies, or contradicts the previous information about Ifemelu&rsquo;s move to the United States. Instead, as the first sentence establishes, Obinze&rsquo;s move and Ifemelu&rsquo;s move are related, parallel experiences that occur around the same time.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "87521ec5-ad3e-4d1c-9e34-101e74b235b9",
+  "stimulus": "<p>Chimamanda Ngozi Adichie&rsquo;s 2013 novel <em>Americanah</em> chronicles the divergent experiences of Ifemelu and Obinze, a young Nigerian couple, after high school. Ifemelu moves to the United States to attend a prestigious university. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Obinze travels to London, hoping to start a career there. However, frustrated with the lack of opportunities, he soon returns to Nigeria.</p>",
+  "templateclusterid": "e24dd4bc-33c8-426c-ae60-6b72999d32f8",
+  "parenttemplatename": "OSP-240-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "ca77298f-72ce-407d-a2da-8ff2f4126573",
+      "content": "<p>Meanwhile,</p>"
+    },
+    {
+      "id": "e287aff5-977f-454a-b7b8-bf0433ef039e",
+      "content": "<p>Nevertheless,</p>"
+    },
+    {
+      "id": "fd433526-8fc3-491f-aa94-436d78d12d91",
+      "content": "<p>Secondly,</p>"
+    },
+    {
+      "id": "81ffb764-f5e0-4740-8e53-e90c16801968",
+      "content": "<p>In fact,</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

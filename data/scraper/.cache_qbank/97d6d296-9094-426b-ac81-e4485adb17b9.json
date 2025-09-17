@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>While light is known as one of the fastest-moving substances, it slows down when passing through some types of matter. One such type of matter is a form of cooled, condensed gas called a Bose-Einstein condensate <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Dutch physicist Lene Hau famously used a BEC to slow a beam of light to a complete halt.</p>",
+  "type": "mcq",
+  "keys": [
+    "e6704d79-2585-4d99-809e-cff4c643633b"
+  ],
+  "answerOptions": [
+    {
+      "id": "0cc69636-39c9-4686-8bfb-89e7deb992b0",
+      "content": "<p>(BEC),</p>"
+    },
+    {
+      "id": "2ecf00fc-822d-4302-a452-08b2d820c220",
+      "content": "<p>(BEC) and</p>"
+    },
+    {
+      "id": "e6704d79-2585-4d99-809e-cff4c643633b",
+      "content": "<p>(BEC);</p>"
+    },
+    {
+      "id": "07ec3285-76ae-4a39-b218-baeedfafc6d4",
+      "content": "<p>(BEC)</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice correctly uses a semicolon to join the first main clause (\"One&hellip;(BEC)\") and the second main clause (\"Dutch&hellip;halt\").</p><p>Choice A is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses. Choice B is incorrect because it results in a run-on sentence. Without a comma preceding it, a conjunction can&rsquo;t be used in this way to join two main clauses. Choice D is incorrect because it results in a run-on sentence. The two main clauses are fused without punctuation and/or a conjunction.</p>",
+  "externalid": "97d6d296-9094-426b-ac81-e4485adb17b9",
+  "correct_answer": [
+    "C"
+  ]
+}

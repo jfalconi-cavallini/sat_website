@@ -1,0 +1,38 @@
+{
+  "vaultid": "a41c8c55-34f2-4866-a06f-52e6044f56e9",
+  "keys": [
+    "1f5290cc-1138-4db1-aafe-3a23129cdca3"
+  ],
+  "rationale": "<p>Choice C is the best answer because it illustrates the student&rsquo;s claim about some historians viewing Lumumba primarily as a symbol. This quotation argues that Lumumba &ldquo;warrants&rdquo; (or deserves) &ldquo;scholarly attention&rdquo; as a symbol and not for his &ldquo;practical accomplishments&rdquo;&mdash;that is, his actions as prime minister&mdash;which &ldquo;can be passed over quickly,&rdquo; or dismissed as being of comparatively little importance. Thus, the quotation expresses the view that the student criticizes some historians for holding. </p><p>Choice A is incorrect. Although this quotation touches on the difficulty of evaluating Lumumba&rsquo;s legacy, it doesn&rsquo;t address how historians of modern African politics view him as a symbol. Choice B is incorrect. While this quotation mentions Lumumba&rsquo;s political beliefs, it doesn&rsquo;t discuss historians viewing him as a symbol. Choice D is incorrect. This quotation touches on Lumumba&rsquo;s vision for his country, but it doesn&rsquo;t discuss historians viewing him as a symbol. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which quotation from a work by a historian would best illustrate the student&rsquo;s claim?</p>",
+  "externalid": "8ce518f3-dd51-4bc0-8eb6-72b9a8219145",
+  "stimulus": "<p>In a research paper, a student criticizes some historians of modern African politics, claiming that they have evaluated Patrice Lumumba, the first prime minister of what is now the Democratic Republic of the Congo, primarily as a symbol rather than in terms of his actions. </p>",
+  "templateclusterid": "159f2b96-276b-4f81-be19-704c3e97a497",
+  "parenttemplatename": "OSP-302-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "0016e186-bd95-482b-bed8-5d55908c036e",
+      "content": "<p>&ldquo;Lumumba is a difficult figure to evaluate due to the starkly conflicting opinions he inspired during his life and continues to inspire today.&rdquo;</p>"
+    },
+    {
+      "id": "e835e8ba-6a6f-4f7f-b1aa-8d18567b9627",
+      "content": "<p>&ldquo;The available information makes it clear that Lumumba&rsquo;s political beliefs and values were largely consistent throughout his career.&rdquo;</p>"
+    },
+    {
+      "id": "1f5290cc-1138-4db1-aafe-3a23129cdca3",
+      "content": "<p>&ldquo;Lumumba&rsquo;s practical accomplishments can be passed over quickly; it is mainly as the personification of Congolese independence that he warrants scholarly attention.&rdquo;</p>"
+    },
+    {
+      "id": "b0099e2a-099c-4169-bbcd-1c9e25059db1",
+      "content": "<p>&ldquo;Many questions remain about Lumumba&rsquo;s ultimate vision for an independent Congo; without new evidence coming to light, these questions are likely to remain unanswered.&rdquo;</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

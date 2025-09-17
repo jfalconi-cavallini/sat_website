@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice most effectively uses data from the table to complete the statement?</p>",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Housing Starts in the US, January<span data-ssml-sub-alias=\" to \">–</span>April 2022 (in thousands)</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Month</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Housing starts</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">January</th><td style=\"text-align: center;\">1,669</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">February</th><td style=\"text-align: center;\">1,771</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">March</th><td style=\"text-align: center;\">1,713</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">April</th><td style=\"text-align: center;\">1,803</td></tr></tbody></table></figure></p>\n<p>When construction of a single-family house begins, it is called a housing start. In the first four months of <span data-ssml-say-as=\"date\">2022</span>, the highest number of housing starts in the United States was in <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "6479262a-2d2f-4c56-bab9-d0169822fbe1"
+  ],
+  "answerOptions": [
+    {
+      "id": "6479262a-2d2f-4c56-bab9-d0169822fbe1",
+      "content": "<p>April.</p>"
+    },
+    {
+      "id": "393cc911-f8fe-42fd-b544-406ee4188ad4",
+      "content": "<p>March.</p>"
+    },
+    {
+      "id": "34c4ac7e-6d3f-4026-ad33-1d92ed0fd130",
+      "content": "<p>January.</p>"
+    },
+    {
+      "id": "33ba5ccb-84ec-4906-b9c7-8f433aeabb50",
+      "content": "<p>February.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it effectively uses data from the table to complete the statement, identifying the month in which the United States had the highest number of housing starts in 2022. According to the table, which shows the number of US housing starts from January to April 2022, the highest number of housing starts was 1,803 thousand, which occurred in April.</p><p>Choice B is incorrect because March had 1,713 thousand housing starts, which is lower than the number of starts in April and in February. Choice C is incorrect because January had 1,669 thousand housing starts, which is the lowest of all the months listed in the table. Choice D is incorrect because February had 1,771 thousand housing starts, which is lower than the number of starts in April.</p>",
+  "externalid": "df57beff-4a25-49d5-a337-ae6394867058",
+  "correct_answer": [
+    "A"
+  ]
+}

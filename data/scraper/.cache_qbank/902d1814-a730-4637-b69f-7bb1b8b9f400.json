@@ -1,0 +1,38 @@
+{
+  "vaultid": "ac9b0046-cd9a-4b2d-b5cb-9cad5328a056",
+  "keys": [
+    "affc36f2-9723-48a1-89be-c00fe1124ece"
+  ],
+  "rationale": "<p>Choice C is the best answer because it logically and precisely completes the text&rsquo;s discussion of <em>The Mule Bone</em>, a play that Zora Neale Hurston and Langston Hughes wrote together. In this context, &ldquo;collaboration&rdquo; means working together with someone to write a literary work. The text indicates that most writers prefer to work alone and that working together destroyed the friendship between Hurston and Hughes. This establishes that <em>The Mule Bone </em>is a relatively rare example of collaboration in literature. </p><p>Choice A is incorrect&nbsp;because in this context, &ldquo;characterization&rdquo; would mean a literary work&rsquo;s portrayal of characters&rsquo; psychological experiences and motivations, but the text doesn&rsquo;t discuss characterization in <em>The Mule Bone </em>specifically or in collaborative works more generally. Choice B is incorrect&nbsp;because in this context, &ldquo;interpretation&rdquo; would mean the explanation of a literary work&rsquo;s meaning or significance, but the text doesn&rsquo;t discuss how readers or critics have interpreted <em>The Mule Bone</em>; instead, the text discusses how the play was written collaboratively and how the writing process affected the two authors. Choice D is incorrect because in this context, &ldquo;commercialization&rdquo; would mean writing a literary work in such a way as to ensure its commercial appeal, but the text never discusses commercial appeal as a factor in the writing of <em>The Mule Bone </em>specifically or the writing of collaborative works more generally. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "902d1814-a730-4637-b69f-7bb1b8b9f400",
+  "stimulus": "<p><em>The Mule Bone</em>, a 1930 play written by Zora Neale Hurston and Langston Hughes, is perhaps the best-known of the few examples of <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in literature. Most writers prefer working alone, and given that working together cost Hurston and Hughes their friendship, it is not hard to see why.</p>",
+  "templateclusterid": "95c27926-7391-4957-abc5-4f8f83624ae2",
+  "parenttemplatename": "OSP-908-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "6da0afd3-a64a-41c5-96ff-438159b83175",
+      "content": "<p>characterization</p>"
+    },
+    {
+      "id": "e61b4a71-3437-43d0-a0f8-9b259e1a2643",
+      "content": "<p>interpretation</p>"
+    },
+    {
+      "id": "affc36f2-9723-48a1-89be-c00fe1124ece",
+      "content": "<p>collaboration</p>"
+    },
+    {
+      "id": "0d40d9e4-390e-4f53-9055-73347ee03aa8",
+      "content": "<p>commercialization</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

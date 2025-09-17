@@ -1,0 +1,38 @@
+{
+  "vaultid": "a52fd840-160c-4544-ab45-be9359535194",
+  "keys": [
+    "4532ebaf-1d6e-439e-a9de-e861ec5876ac"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of cucurbits. In this context, &ldquo;ensuring&rdquo; means guaranteeing, or making sure of, the cucurbits&rsquo; survival. The text states that cucurbits faced extinction in the past because their means of seed dispersal disappeared, but the ancestors of Indigenous peoples in North America began farming cucurbits around that same time, so the crops were no longer threatened. Therefore, the context supports the idea that the ancestors of Indigenous peoples in North America helped with ensuring the cucurbits&rsquo; survival. </p><p>Choice A is incorrect because in this context verifying means making sure that something is accurate. In the text, the ancestors of Indigenous peoples in North America were ensuring the survival, not the accuracy of, the cucurbits. Choice B is incorrect. Although the cucurbit crops themselves were multiplying, or growing in number, as a result of the work of the ancestors of Indigenous peoples in North America, it wouldn&rsquo;t make sense in context to say that the survival of the plants was multiplying. Choice C is incorrect because according to the text, in raising cucurbits as crops, the ancestors of Indigenous peoples in North America were attempting to help the plants grow and survive; they weren&rsquo;t attempting to comfort, or free the plants from pain. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "93e5ee6c-f243-4144-b2d4-35213665d0e7",
+  "stimulus": "<p>Cucurbits, a group of plants that includes squash and melons, relied on mastodons to spread their seeds in the Ice Age. When these animals died out, cucurbits faced extinction in turn, having lost their means of seed dispersal. Around this time, however, the ancestors of Indigenous peoples in North America began raising cucurbits as crops, thus <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the plants&rsquo; survival.</p>",
+  "templateclusterid": "012c3e66-ee3f-4005-9849-1a52c4c3584a",
+  "parenttemplatename": "OSP-057-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d4fde03d-d682-4f1f-bcde-2a2214ff1205",
+      "content": "<p>verifying</p>"
+    },
+    {
+      "id": "6a60ed46-1049-4db7-a2c0-c9353be49394",
+      "content": "<p>multiplying</p>"
+    },
+    {
+      "id": "9fd71a9d-28a7-49e8-a6c3-69fa0d305a95",
+      "content": "<p>comforting</p>"
+    },
+    {
+      "id": "4532ebaf-1d6e-439e-a9de-e861ec5876ac",
+      "content": "<p>ensuring</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>In her large-scale sculpture<em> Casa-Isla</em>, artist Edra Soto included references to her childhood in Puerto Rico. For example, the sculpture&rsquo;s steel panels have a crisscrossing pattern inspired by the iron gates <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "d0dc33de-71f3-4d9b-9017-9c665d9b696f"
+  ],
+  "answerOptions": [
+    {
+      "id": "058fcd58-e196-41e5-a994-a0f15c1d7eb6",
+      "content": "<p>Soto would see in her neighborhood?</p>"
+    },
+    {
+      "id": "d0dc33de-71f3-4d9b-9017-9c665d9b696f",
+      "content": "<p>Soto would see in her neighborhood.</p>"
+    },
+    {
+      "id": "029c1b53-c161-4cf7-9adc-e3a4d6f4438e",
+      "content": "<p>would Soto see in her neighborhood.</p>"
+    },
+    {
+      "id": "c616ab09-9db0-4ebf-af9b-34394f399524",
+      "content": "<p>would Soto see in her neighborhood?</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is end-of-sentence punctuation. This choice correctly uses a period to punctuate a declarative sentence (\"For example...neighborhood\").</p><p>Choice A is incorrect. It&rsquo;s unconventional to use a question mark in this way to punctuate a declarative sentence. Choice C is incorrect. The structure requires a declarative clause at the end of the sentence that states where Soto saw the steel panels, not an incomplete interrogative clause that asks a direct question, such as \"would Soto see in her neighborhood.\" Choice D is incorrect. The structure requires a period and a declarative clause at the end of the sentence that states where Soto saw the steel panels, not an incomplete interrogative clause asking a direct question, such as \"would Soto see in her neighborhood?\"</p>",
+  "externalid": "b3b3570a-d5e7-47c2-a583-aee897edbc4f",
+  "correct_answer": [
+    "B"
+  ]
+}

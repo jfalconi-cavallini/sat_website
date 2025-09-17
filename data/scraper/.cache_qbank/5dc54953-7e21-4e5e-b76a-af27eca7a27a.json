@@ -1,0 +1,38 @@
+{
+  "vaultid": "46fe1058-bce8-41a6-b020-f525497158a8",
+  "keys": [
+    "1a382b2d-1479-4863-8357-2a27cd121a64"
+  ],
+  "rationale": "<p>Choice C is the best answer. &ldquo;For example&rdquo; logically signals that the following information about Ky&mdash;that she once shaped her hair to look like Africa&mdash;is an example supporting the previous statement that she makes different shapes with her hair. </p><p>Choice A is incorrect because &ldquo;soon&rdquo; illogically signals that the event described in this sentence occurred soon after the statement about Ky making different shapes with her hair. Instead, the sentence provides an example of one of these shapes. Choice B is incorrect because &ldquo;elsewhere&rdquo; illogically signals that the event described in this sentence occurred in a different place than the statement about Ky making different shapes with her hair. Instead, the sentence provides an example of one of these shapes. Choice D is incorrect because &ldquo;however&rdquo; illogically signals that the information in this sentence contrasts with the statement that Ky makes different shapes with her hair. Instead, the sentence provides an example of one of these shapes. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "5dc54953-7e21-4e5e-b76a-af27eca7a27a",
+  "stimulus": "<p>Laetitia Ky&rsquo;s hair is her art. Inspired by hairstyles from various African tribes, the Ivorian artist uses wire and thread to sculpt her hair into all kinds of shapes. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> she once made her hair into the shape of the continent of Africa&mdash;including the island of Madagascar!</p>",
+  "templateclusterid": "cd9086ea-9343-4f16-9bfd-630fec03f4be",
+  "parenttemplatename": "OSP-258-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "6e2892e2-1125-4077-b7ab-5718fa52f52e",
+      "content": "<p>Soon,</p>"
+    },
+    {
+      "id": "41c2b20a-1357-4ce8-a99d-b44bb135383c",
+      "content": "<p>Elsewhere,</p>"
+    },
+    {
+      "id": "1a382b2d-1479-4863-8357-2a27cd121a64",
+      "content": "<p>For example,</p>"
+    },
+    {
+      "id": "e50660dd-3c8c-45da-ba36-85c346a7830c",
+      "content": "<p>However,</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

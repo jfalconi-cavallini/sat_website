@@ -1,0 +1,38 @@
+{
+  "vaultid": "36954c8d-25da-4db9-9713-5fba4536d8cd",
+  "keys": [
+    "a0f1861b-e8e7-4e80-a4cc-ce540cea8f35"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice correctly uses a comma and the coordinating conjunction \"and\" to join the first main clause (\"In 1919 Larrazolo was elected governor of New Mexico\") and the second main clause (\"in 1928 he became the nation&rsquo;s first Hispanic US Senator\").</p><p>Choice A is incorrect because when coordinating two longer main clauses such as these, it&rsquo;s conventional to use a comma before the coordinating conjunction. Choice B is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses. Choice D is incorrect because it results in a run-on sentence. The two main clauses are fused without punctuation and/or a conjunction.</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "12d17397-3221-4a0e-8894-52e43b3a51af",
+  "stimulus": "<p>After immigrating from Mexico and obtaining U.S. citizenship, Octaviano Ambrosio Larrazolo entered politics, earning a reputation for being a fervent defender of Hispanic civil rights. In 1919 Larrazolo was elected governor of <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in 1928 he became the nation&rsquo;s first Hispanic U.S. Senator.&nbsp;</p>",
+  "templateclusterid": "7b538a9d-7c03-4932-802a-cb871f21a8bf",
+  "parenttemplatename": "OSP-779-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "3ade7f6f-b374-4489-be01-d16a3ffcb925",
+      "content": "<p>New Mexico and</p>"
+    },
+    {
+      "id": "89cdbd81-d187-44d1-af13-43178938592a",
+      "content": "<p>New Mexico,</p>"
+    },
+    {
+      "id": "a0f1861b-e8e7-4e80-a4cc-ce540cea8f35",
+      "content": "<p>New Mexico, and</p>"
+    },
+    {
+      "id": "f54ccecf-03ac-4f94-9f14-4843eead3404",
+      "content": "<p>New Mexico</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

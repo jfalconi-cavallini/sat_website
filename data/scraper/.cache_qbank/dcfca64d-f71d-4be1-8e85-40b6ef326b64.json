@@ -1,0 +1,38 @@
+{
+  "vaultid": "42fe69a5-2772-41cd-bc33-fdc847d4ec58",
+  "keys": [
+    "5513d6f1-6526-4111-8593-31fcfb60b96a"
+  ],
+  "rationale": "<p>Choice A is the best answer because it best states the main idea of the text. According to the text, jalis&rsquo; traditional role has been to maintain information about families&rsquo; histories and significant events. The text goes on to say that although technological changes have altered jalis&rsquo; role somewhat, jalis are still valued for preserving the histories of their communities.&nbsp;</p><p>Choice B is incorrect because the text says nothing about jalis&rsquo; views of the various tasks they perform. There is no information to support the idea that many jalis prefer teaching to other tasks.&nbsp;Choice C is incorrect because the text doesn&rsquo;t describe jalis as being sources of entertainment. Rather, jalis are presented as valued sources of knowledge. Additionally, the text gives no indication of how long jalis have been serving their communities. Choice D is incorrect because the main focus of the text is on jalis&rsquo; role and their continued value despite the effects of technology, not on what technology can now do. Although the text indicates that jalis&rsquo; role has changed as a result of technological changes, the text doesn&rsquo;t present any specific information about technology performing tasks that jalis once performed.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main idea of the text?</p>",
+  "externalid": "dcfca64d-f71d-4be1-8e85-40b6ef326b64",
+  "stimulus": "<p>In West Africa, jalis have traditionally been keepers of information about family histories and records of important events. They have often served as teachers and advisers, too. New technologies may have changed some aspects of the role today, but jalis continue to be valued for knowing and protecting their peoples&rsquo; stories.</p>",
+  "templateclusterid": "08791777-0fd9-42ac-bdad-41ce4353e1b9",
+  "parenttemplatename": "OSP-003-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "5513d6f1-6526-4111-8593-31fcfb60b96a",
+      "content": "<p>Even though there have been some changes in their role, jalis continue to preserve their communities&rsquo; histories.</p>"
+    },
+    {
+      "id": "3998ae5d-1d6c-479f-b4b8-146f49557184",
+      "content": "<p>Although jalis have many roles, many of them like teaching best.</p>"
+    },
+    {
+      "id": "9ffac124-a673-46d6-9a42-a92b3bd9d93e",
+      "content": "<p>Jalis have been entertaining the people within their communities for centuries.</p>"
+    },
+    {
+      "id": "d0dee810-e86c-467b-8de8-ca8ea40af5d6",
+      "content": "<p>Technology can now do some of the things jalis used to be responsible for.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

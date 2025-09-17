@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Economists often assert that countries looking to increase their reliance on solar energy should expand their capacity for storage; having an ample reserve of stored energy can mitigate the effects of <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> solar energy collection caused by unpredictable shifts in cloud cover and haze.</p>",
+  "type": "mcq",
+  "keys": [
+    "84688071-6efa-4d8a-9c22-c3132014f246"
+  ],
+  "answerOptions": [
+    {
+      "id": "15e0596e-b0cc-4986-8b18-2dec1528b9ff",
+      "content": "<p>developments of</p>"
+    },
+    {
+      "id": "84688071-6efa-4d8a-9c22-c3132014f246",
+      "content": "<p><strong> </strong>fluctuations in</p>"
+    },
+    {
+      "id": "7b5286c0-5043-48de-ab40-2b63df842948",
+      "content": "<p>calibrations with</p>"
+    },
+    {
+      "id": "98e31b5e-baff-4c83-a9b9-d510bc6bc297",
+      "content": "<p>incentives for</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of solar energy collection and storage. In this context, \"fluctuations in\" means irregular changes in. The text notes that economists recommend that countries that want to rely more on solar energy (energy captured from sunlight) should attempt to expand their storage capacity. The text goes on to explain that having a large amount of stored solar energy can lessen the negative effect of \"unpredictable shifts in cloud cover and haze\"&mdash;that is, unpredictable changes in environmental conditions that at times limit sunlight. This context suggests that having ample solar energy stored and ready to use can mitigate the issue of fluctuations in solar energy collection caused by irregular patterns of sunlight availability.</p><p>Choice A is incorrect because in this context, \"developments of solar energy collection\" would most clearly refer to the creation of ways to collect solar energy (energy captured from sunlight). The text focuses on collection and the idea that having stored energy can mitigate, or make less bad, the effects of a problem caused by unpredictable changes that affect sunlight (\"cloud cover and haze\"); there&rsquo;s no reason to think that the creation of new collection methods would be viewed as a problem that would need to be mitigated. Choice C is incorrect because in this context, \"calibrations with\" would most clearly refer to precise adjustments for a particular purpose. The text focuses on the collection of solar energy (energy captured from sunlight) and the idea that having stored energy can mitigate, or make less bad, the effects of a problem caused by unpredictable changes that affect sunlight (\"cloud cover and haze\"); there&rsquo;s no reason to think that precision in something related to solar energy collection would be viewed as a problem that would need to be mitigated. Choice D is incorrect. The text focuses on the collection of solar energy (energy captured from sunlight) and the idea that having stored energy can mitigate, or make less bad, the effects of a problem caused by unpredictable changes that affect sunlight (\"cloud cover and haze\"); nothing in the text suggests that \"incentives for,\" or rewards for, solar energy collection would be viewed as a problem that would need to be mitigated, especially in countries that want to rely more on solar energy than they already do.</p>",
+  "externalid": "b4582e11-c0ed-4c17-a092-446a9806c811",
+  "correct_answer": [
+    "B"
+  ]
+}

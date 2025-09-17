@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which quotation from an article about Echelman&rsquo;s sculptures, if true, would most effectively illustrate the underlined claim?</p>",
+  "stimulus": "<p>Janet Echelman is a sculptor and fiber artist. She has installed giant sculptures all over the world. Echelman uses bright and flowing materials, which mimic the wind. <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">However, while her sculptures appear as delicate as a breeze, they are actually very durable.</span></p>",
+  "keys": [
+    "dd41e176-b1ce-48c4-abc3-66d3c3eca7da"
+  ],
+  "answerOptions": [
+    {
+      "id": "e07b7d63-af49-49e5-9717-5464ee30ffb2",
+      "content": "<p>&ldquo;Echelman uses a special program that makes a 3D model of the sculpture.&rdquo;</p>"
+    },
+    {
+      "id": "b79f33b7-bc3e-4a95-a7d4-a8a6a0c16f9c",
+      "content": "<p>&ldquo;The first part of planning a new sculpture is done using paper and pencil, and then a digital program is used to finalize the design.&rdquo;</p>"
+    },
+    {
+      "id": "dd41e176-b1ce-48c4-abc3-66d3c3eca7da",
+      "content": "<p>&ldquo;The materials that Echelman uses to build her sculptures are both flexible and strong.&rdquo;</p>"
+    },
+    {
+      "id": "fa2871d6-b327-4f15-bbb5-0aed2e07435e",
+      "content": "<p>&ldquo;Each sculpture is designed to reflect local landmarks from the area in which it is eventually installed.&rdquo;</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it presents the quotation that most effectively illustrates the claim that Echelman&rsquo;s sculptures appear delicate but are in fact quite durable. The text explains that Echelman&rsquo;s sculptures include flowing shapes that mimic the wind. If it is true that the materials she uses are both flexible and strong, that would help explain why the works are durable even though they appear delicate.</p><p>Choice A is incorrect because the claim in the text is not about how Echelman models her work before sculpting. Choice B is incorrect because the claim in the text is not about the planning and design phases of Echelman&rsquo;s work. Choice D is incorrect because the claim in the text is not about how the sculptures relate to their locations.</p>",
+  "externalid": "0609b216-e92c-4fcd-8833-8f8738ce30d0",
+  "correct_answer": [
+    "C"
+  ]
+}

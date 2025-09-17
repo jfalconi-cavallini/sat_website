@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Nowadays, tug-of-war is usually seen as an informal game one might play at a picnic or in gym class. Surprisingly, the Olympic committee once decided <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> tug-of-war as an official Olympic event! Nations competed in the event at the Olympic Games from 1900 to 1920.</p>",
+  "keys": [
+    "425f374d-a177-4ea9-b7ec-db78e8fa86c9"
+  ],
+  "answerOptions": [
+    {
+      "id": "bbdada05-1160-48c2-b814-9936ad1d8d12",
+      "content": "<p>included</p>"
+    },
+    {
+      "id": "6fa5eefe-c09f-41f8-bef7-7a7a54019b35",
+      "content": "<p>including</p>"
+    },
+    {
+      "id": "0d9a9189-8b19-4e5c-a2a2-a9d8502ca63e",
+      "content": "<p>include</p>"
+    },
+    {
+      "id": "425f374d-a177-4ea9-b7ec-db78e8fa86c9",
+      "content": "<p>to include</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the use of verb forms within a sentence. The nonfinite to-infinitive verb \"to include\" is correctly used to form a subordinate clause that indicates what the Olympic committee decided (to include tug-of-war as an Olympic event).</p><p>Choice A is incorrect because it results in an ungrammatical sentence. The finite verb \"included\" can&rsquo;t be used in this way to form a subordinate clause that indicates what the Olympic committee decided. Choice B is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"including\" can&rsquo;t be used in this way to form a subordinate clause that indicates what the Olympic committee decided. Choice C is incorrect because it results in an ungrammatical sentence. The finite verb \"include\" can&rsquo;t be used in this way to form a subordinate clause that indicates what the Olympic committee decided.</p>",
+  "externalid": "e0a47e80-b53e-4a80-a4c7-7e34a1a2ff52",
+  "correct_answer": [
+    "D"
+  ]
+}

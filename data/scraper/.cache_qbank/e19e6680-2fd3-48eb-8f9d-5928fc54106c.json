@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>In 1776, the United States sent Benjamin Franklin to France to try to win the country&rsquo;s support in the United States&rsquo; fight for independence from Great Britain. Franklin was very popular in France. This <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> surely helped him to convince France to assist the United States.</p>",
+  "keys": [
+    "96115c68-b8e0-4c2f-b1d4-84bb31b71f2d"
+  ],
+  "answerOptions": [
+    {
+      "id": "0a0544b8-141b-4cf7-9540-188d9770cbed",
+      "content": "<p>thoughtfulness</p>"
+    },
+    {
+      "id": "96115c68-b8e0-4c2f-b1d4-84bb31b71f2d",
+      "content": "<p>esteem</p>"
+    },
+    {
+      "id": "94ba7270-1c2e-4df1-8cff-7fe8db784aac",
+      "content": "<p>controversy</p>"
+    },
+    {
+      "id": "43fe11cf-1605-4741-8e41-49943cd828e4",
+      "content": "<p>sincerity</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of Benjamin Franklin&rsquo;s popularity in France. In this context, \"esteem\" means high regard. The text indicates that Franklin was very popular, or highly regarded, in France, where he sought the country&rsquo;s support for the United States in its fight for independence, and indicates that his status helped him achieve his goal. The context therefore suggests that being held in high regard by the people likely helped Franklin convince France to help the United States.</p><p>Choice A is incorrect because the text directly indicates that it was Franklin&rsquo;s popularity that likely helped him convince France to help the United States, not his \"thoughtfulness\" (which in this context would mean either his careful reasoning and attention or his kind consideration of others&rsquo; needs). Choice C is incorrect because the text doesn&rsquo;t suggest that there was any \"controversy,\" or dispute, about Franklin&rsquo;s presence in France; instead, the text states that Franklin was very popular in France and directly indicates that this status likely helped him convince France to help the United States. Choice D is incorrect because the text directly indicates that it was Franklin&rsquo;s popularity that likely helped him convince France to help the United States, not his \"sincerity,\" or his honesty.</p>",
+  "externalid": "e19e6680-2fd3-48eb-8f9d-5928fc54106c",
+  "correct_answer": [
+    "B"
+  ]
+}

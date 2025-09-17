@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>When they were first introduced to western Europe from Byzantium in the eleventh century, table forks were met with much resistance. The Bishop of Ostia, St. Peter Damian, condemned the eating utensils because he considered <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> dangerous and unnecessary luxury items.&nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "ace4ee4f-ea7c-46ff-ad57-660672496fd1"
+  ],
+  "answerOptions": [
+    {
+      "id": "ace4ee4f-ea7c-46ff-ad57-660672496fd1",
+      "content": "<p>them</p>"
+    },
+    {
+      "id": "0cba1e99-47f2-4957-bb04-cea8ced93ae7",
+      "content": "<p>this</p>"
+    },
+    {
+      "id": "b868ebdf-f14e-4a9f-b164-6af870487919",
+      "content": "<p>that</p>"
+    },
+    {
+      "id": "29531e7e-7087-4ee7-a277-f984edcbdf25",
+      "content": "<p>it</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is pronoun-antecedent agreement. The plural pronoun \"them\" agrees in number with the plural antecedent \"utensils.\"</p><p>Choice B is incorrect because the singular pronoun \"this\" doesn&rsquo;t agree in number with the plural antecedent \"utensils.\" Choice C is incorrect because the singular pronoun \"that\" doesn&rsquo;t agree in number with the plural antecedent \"utensils.\" Choice D is incorrect because the singular pronoun \"it\" doesn&rsquo;t agree in number with the plural antecedent \"utensils.\"</p>",
+  "externalid": "34dd93b4-638f-4154-a19d-02076e55e31e",
+  "correct_answer": [
+    "A"
+  ]
+}

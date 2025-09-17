@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best describes the main purpose of the text?</p>",
+  "stimulus": "<p>Pteropods are small swimming snails with thin, delicate calcium carbonate shells. These animals are thought to be especially vulnerable to ocean acidification due to calcium carbonate&rsquo;s susceptibility to dissolution at lower pH values. Victoria <span data-ssml-sub-alias=\"L\">L.</span> Peck and colleagues recently found that the periostracum (a protective coating on pteropods&rsquo; outer shells) prevents this dissolution when intact. Moreover, the team was surprised to discover that even when the periostracum is breached, pteropods can still mitigate damage by rebuilding the inner shell wall.</p>",
+  "keys": [
+    "48d511de-c04b-433c-a7d3-94f17d5c260c"
+  ],
+  "answerOptions": [
+    {
+      "id": "0783cd5b-a2ae-4367-aa48-ff395ddb5852",
+      "content": "<p>To call for additional research on biological mechanisms that improve pteropod survival rates</p>"
+    },
+    {
+      "id": "3ac0506f-ccea-4f87-94a7-78271d47e068",
+      "content": "<p>To discuss a conclusion drawn in a study of calcium carbonate&rsquo;s role in protecting the periostracum of pteropods</p>"
+    },
+    {
+      "id": "411b6e8d-5268-4b4a-ac2b-d78ac2cd1d8c",
+      "content": "<p>To address some of the ways ocean acidification has altered pteropod behavior over time</p>"
+    },
+    {
+      "id": "48d511de-c04b-433c-a7d3-94f17d5c260c",
+      "content": "<p>To present findings that suggest that a concern about the effects of ocean acidification on pteropod shells may be unwarranted&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most accurately describes the main purpose of the text, which is to present findings that suggest a previously held concern about the effects of ocean acidification on pteropod shells may be unwarranted. The text introduces the concern that pteropods are thought to be particularly vulnerable to ocean acidification, or lower pH levels, due to the susceptibility of their calcium carbonate shells to dissolution at lower pH levels. However, the text then describes findings from a recent study that suggest this concern may be unjustified, insofar as the protective periostracum coating on a pteropod&rsquo;s shell prevents dissolution, and even when the coating is breached, a pteropod can rebuild the inner shell wall, reducing the damage.</p><p>Choice A is incorrect because the text doesn&rsquo;t call for additional research or suggest that more research is needed on biological mechanisms that improve pteropod survival rates. Instead, the text discusses a recent study showing that pteropods may not be as vulnerable to ocean acidification as is feared. Choice B is incorrect because the study discussed in the text doesn&rsquo;t address calcium carbonate&rsquo;s role in protecting the periostracum of pteropods. According to the text, the study addresses the periostracum&rsquo;s role in protecting pteropods&rsquo; calcium carbonate shells from dissolution due to ocean acidification. Choice C is incorrect because the text doesn&rsquo;t address how ocean acidification has altered pteropod behavior over time. Instead, the text focuses on the potential effects of ocean acidification on pteropods&rsquo; shells and the mechanisms protecting against those effects.</p>",
+  "externalid": "b7ccd3ab-1793-4b91-a1a3-9a33c8095745",
+  "correct_answer": [
+    "D"
+  ]
+}

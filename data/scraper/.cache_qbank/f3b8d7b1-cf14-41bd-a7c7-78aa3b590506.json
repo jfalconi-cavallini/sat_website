@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Marcel Duchamp intended his 1917 so-called ready-made sculpture <em>Fountain</em> to challenge then-prevailing conceptions about the nature of art. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Duchamp&rsquo;s <em>Fountain</em> did just that, raising the question of whether displaying any object in an art gallery could be said to transform the object&mdash;even, as Duchamp&rsquo;s sculpture was, a urinal&mdash;into a legitimate work of art.</p>",
+  "keys": [
+    "5f57c6b4-47f5-4c81-a1c0-2984d7819852"
+  ],
+  "answerOptions": [
+    {
+      "id": "cc220360-2197-4d4d-a22c-d8b66fdd829b",
+      "content": "<p>Similarly,</p>"
+    },
+    {
+      "id": "5f57c6b4-47f5-4c81-a1c0-2984d7819852",
+      "content": "<p>Indeed,</p>"
+    },
+    {
+      "id": "3b781b61-cadd-4e78-9382-8b9038fa9ea7",
+      "content": "<p>Instead,</p>"
+    },
+    {
+      "id": "4fec5166-e9c5-4563-8702-56d0e553889e",
+      "content": "<p>In addition,</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. \"Indeed\" logically signals that the information in this sentence&mdash;that the sculpture raised the question of whether displaying any object in an art gallery transforms the object into a work of art&mdash;offers emphasis in support of the claim in the previous sentence that the sculpture was intended to challenge conceptions about the nature of art.</p><p>Choice A is incorrect because \"similarly\" illogically signals that information in this sentence is similar to the claim about the sculptor&rsquo;s intention in the previous sentence. Instead, the information about the question raised by the sculpture offers emphasis in support of that claim. Choice C is incorrect because \"instead\" illogically signals that the information in this sentence is an alternative to the claim about the sculptor&rsquo;s intention in the previous sentence. Rather, the information about the question raised by the sculpture offers emphasis in support of that claim. Choice D is incorrect because \"in addition\" illogically signals that the information in this sentence is merely an additional fact related to the claim about the sculptor&rsquo;s intention in the previous sentence. Instead, the information about the question raised by the sculpture offers emphasis in support of that claim.</p>",
+  "externalid": "f3b8d7b1-cf14-41bd-a7c7-78aa3b590506",
+  "correct_answer": [
+    "B"
+  ]
+}

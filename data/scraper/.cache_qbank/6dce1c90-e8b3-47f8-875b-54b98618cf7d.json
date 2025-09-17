@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which survey response from a bike rider in Queensland would best support the underlined claim?</p>",
+  "stimulus": "<p>Researchers Narelle Haworth and Amy Schramm studied bicycling behavior in Queensland, Australia. Haworth and Schramm asked adult bike riders questions about their level of experience, reasons for riding a bike, and route preferences. The researchers claim that <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">experienced riders who mainly bike to work tend to prefer routes that reduce their travel time</span>.</p>",
+  "type": "mcq",
+  "keys": [
+    "7298b2d9-fe86-4bc3-80e8-0ca865f2112f"
+  ],
+  "answerOptions": [
+    {
+      "id": "4ba37718-8462-488e-ad95-05ba150e8520",
+      "content": "<p>&ldquo;I have a bike, but I don&rsquo;t ride it very often. When the weather is nice, I sometimes use my bike to go into town to do some shopping.&rdquo;</p>"
+    },
+    {
+      "id": "51956b2e-0d56-4524-98d4-32aba9d81c86",
+      "content": "<p>&ldquo;I just got a new bike, and I&rsquo;m looking forward to going on rides with my friends soon.&rdquo;</p>"
+    },
+    {
+      "id": "7298b2d9-fe86-4bc3-80e8-0ca865f2112f",
+      "content": "<p>&ldquo;I bike to my job every day. There&rsquo;s a nice bike path that goes through a park, but I use the bike lane on the main road because it&rsquo;s faster.&rdquo;</p>"
+    },
+    {
+      "id": "cc445c72-f376-4fb6-8c5e-abe386941b66",
+      "content": "<p>&ldquo;I usually bike to work, but I&rsquo;m taking the bus now because my bike has a broken part that needs to be fixed.&rdquo;</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it presents a response that best supports the underlined claim that experienced riders who mainly bike to work tend to prefer routes that reduce their travel time. The bike rider responds that they bike to work every day and that they use the bike lane because it is faster; thus, it is reasonable to assume that they are an experienced rider who prefers routes that reduce their travel time to work.</p><p>Choice A is incorrect because this response does not address the claim. The claim is about experienced riders preferring to take routes that reduce their travel time on the way to work; however, this response is from an inexperienced rider who is discussing biking for personal reasons. Choice B is incorrect because this response is not related to the underlined claim. The response from this rider does not establish the level of experience they have with riding, nor does it state that the rider uses a bike to get to work. Choice D is incorrect. Although this response is from an experienced rider who mainly bikes to work, the response also mentions that the rider&rsquo;s bike is broken, which is not related to any route preference.</p>",
+  "externalid": "6dce1c90-e8b3-47f8-875b-54b98618cf7d",
+  "correct_answer": [
+    "C"
+  ]
+}

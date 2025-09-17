@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>L&ecirc; Lương Minh became the thirteenth secretary-general of the Association of Southeast Asian Nations (ASEAN) in January 2013, making <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the first time the organization would appoint a Vietnamese leader.</p>",
+  "type": "mcq",
+  "keys": [
+    "23c0b2d7-b524-43ab-895d-def516e5ce97"
+  ],
+  "answerOptions": [
+    {
+      "id": "1eb0afb6-5f22-4311-80eb-83f2eb53a33f",
+      "content": "<p>these</p>"
+    },
+    {
+      "id": "f5a6a8c6-1a10-4cf1-9b57-c9937656fd86",
+      "content": "<p>those</p>"
+    },
+    {
+      "id": "23c0b2d7-b524-43ab-895d-def516e5ce97",
+      "content": "<p>this</p>"
+    },
+    {
+      "id": "b3853456-b3dc-43a1-8cc7-188b7dce6c8b",
+      "content": "<p>some</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is pronoun-antecedent agreement. The singular pronoun \"this\" agrees in number with the singular antecedent \"L&ecirc; Lương Minh became the thirteenth secretary-general of the Association of Southeast Asian Nations (ASEAN) in January 2013.\" The pronoun \"this\" is referring back to the singular event described earlier in the sentence in which Minh became secretary-general of ASEAN.</p><p>Choice A is incorrect because the plural pronoun \"these\" doesn&rsquo;t agree in number with the singular antecedent \"L&ecirc; Lương Minh became the thirteenth secretary-general of the Association of Southeast Asian Nations (ASEAN) in January 2013.\" Choice B is incorrect because the plural pronoun \"those\" doesn&rsquo;t agree in number with the singular antecedent \"L&ecirc; Lương Minh became the thirteenth secretary-general of the Association of Southeast Asian Nations (ASEAN) in January 2013.\" Choice D is incorrect because the indefinite pronoun \"some\" is ambiguous in this context; the resulting sentence leaves unclear what marks the first time the organization appointed a Vietnamese leader.</p>",
+  "externalid": "2c5ae910-ddc7-449f-b570-d39c820b417b",
+  "correct_answer": [
+    "C"
+  ]
+}

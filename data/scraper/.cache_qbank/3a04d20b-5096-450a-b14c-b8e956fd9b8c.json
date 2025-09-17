@@ -1,0 +1,31 @@
+{
+  "stem": "<p>According to the text, what does the narrator do as she walks across the stage?</p>",
+  "stimulus": "<p>The following text is from Laila Lalami&rsquo;s 2019 novel <em>The Other Americans</em>. The narrator is a member of her middle school&rsquo;s jazz band.&nbsp;</p>\n<blockquote>\n<p>One day the jazz band was invited to perform at the Summer Festival in Palm Springs. Walking across the stage to the piano, I did what my teacher had advised. Pretend you&rsquo;re only playing for one person. That way you won&rsquo;t be so nervous. I glanced at my father, who sat in the front row, leaning his head just so, waiting. Then I closed my eyes, and began to play.</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;2019 by Laila Lalami</span></p>",
+  "type": "mcq",
+  "keys": [
+    "488f686a-b729-4f31-aedc-036761f95244"
+  ],
+  "answerOptions": [
+    {
+      "id": "5f7f2a89-d33e-478a-a3ca-fdeed957a348",
+      "content": "<p>She thinks about the differences between playing the piano alone and playing in a band.</p>"
+    },
+    {
+      "id": "90fff786-ba19-4f45-8eb7-436fd6e6f6fe",
+      "content": "<p>She feels excitement about playing in a music festival for the first time.&nbsp;</p>"
+    },
+    {
+      "id": "c54e8db2-12ef-4ac3-83f5-6e09198ab5d1",
+      "content": "<p>She remembers how hard she has practiced for the performance.&nbsp;</p>"
+    },
+    {
+      "id": "488f686a-b729-4f31-aedc-036761f95244",
+      "content": "<p>She follows her teacher&rsquo;s advice about managing her nervousness.&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents a statement about what the narrator is doing that is directly supported by the text. According to the text, as the narrator walks across the stage to her piano, she recalls her teacher&rsquo;s advice to pretend that she is playing for only one person. The text indicates that this advice was intended to help manage any nerves related to performing. Moreover, the text implies that the narrator follows this advice by deciding to focus on her father sitting in the audience. Thus, the text supports the idea that as she walks across the stage, the narrator follows her teacher&rsquo;s advice about managing her nervousness.</p><p>Choice A is incorrect because the text doesn&rsquo;t indicate that the narrator is thinking about how playing the piano alone is different from playing the piano in a band. Rather, the narrator thinks about her teacher&rsquo;s advice to pretend that she is playing the piano for only one person to help ease her nervousness about performing. Choice B is incorrect because the text provides no indication that this is the first music festival that the narrator has performed in. Furthermore, the text indicates that the narrator is nervous, not excited, to play the piano at the festival. Choice C is incorrect because the text doesn&rsquo;t suggest that the narrator is remembering how hard she practiced for the performance. Rather, she is thinking about what her teacher told her to do to help ease her nerves about playing the piano in front of an audience.</p>",
+  "externalid": "3a04d20b-5096-450a-b14c-b8e956fd9b8c",
+  "correct_answer": [
+    "D"
+  ]
+}

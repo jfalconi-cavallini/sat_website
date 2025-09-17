@@ -1,0 +1,38 @@
+{
+  "vaultid": "346fae91-b33d-46c8-b567-9773b68af3c9",
+  "keys": [
+    "aef526ca-4321-44b8-a950-eb8e7be508a4"
+  ],
+  "rationale": "<p>Choice A is the best answer because it presents the conclusion that most logically follows from the text&rsquo;s discussion of military veterans working in civilian government jobs in the United States. The text indicates that the proportion of military veterans working in civilian government jobs is considerably higher than the proportion of military veterans in the population as a whole. The text also notes that the unusually high representation of military veterans in these jobs may be a result of the organizational structures&nbsp; shared by civilian government entities and the military. Hence, it&rsquo;s reasonable to infer that it&rsquo;s the familiarity of the structures of civilian government that makes jobs there particularly attractive to military veterans.&nbsp;</p><p>Choice B is incorrect because the text doesn&rsquo;t address what a typical relationship between military service and later career preferences would be, and there&rsquo;s no indication that it&rsquo;s atypical for veterans to work in civilian government jobs after they&rsquo;ve left the military. On the contrary, the text suggests that many military veterans are drawn to such jobs. Choice C is incorrect because the text is focused on the high representation of military veterans in civilian government jobs and doesn&rsquo;t address nonveterans or their possible interest in military service.&nbsp;Choice D is incorrect because the text conveys that military veterans may be particularly interested in civilian government jobs due to the familiarity of organizational structures that are already in place, but there&rsquo;s no reason to think that this interest would mean that more civilian government jobs will start to require military experience. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "27983d00-7eb0-40fd-9ecc-733f78d21ce9",
+  "stimulus": "<p>Although military veterans make up a small proportion of the total population of the United States, they occupy a significantly higher proportion of the jobs in the civilian government. One possible explanation for this disproportionate representation is that military service familiarizes people with certain organizational structures that are also reflected in the civilian government bureaucracy, and this familiarity thus <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "3882fda8-783e-4606-8f4a-a7b35449267a",
+  "parenttemplatename": "OSP-008-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "aef526ca-4321-44b8-a950-eb8e7be508a4",
+      "content": "<p>makes civilian government jobs especially appealing to military veterans.</p>"
+    },
+    {
+      "id": "052d4329-9ad0-475c-8793-cfd9d462f127",
+      "content": "<p>alters the typical relationship between military service and subsequent career preferences.</p>"
+    },
+    {
+      "id": "f60391e4-1b65-465c-85d6-db0884e70d45",
+      "content": "<p>encourages nonveterans applying for civilian government jobs to consider military service instead.</p>"
+    },
+    {
+      "id": "0d053de1-c6a3-44c7-b7b4-5a085af6ecb6",
+      "content": "<p>increases the number of civilian government jobs that require some amount of military experience to perform.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

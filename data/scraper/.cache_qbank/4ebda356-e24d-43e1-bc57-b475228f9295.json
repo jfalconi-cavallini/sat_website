@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Based on the texts, what would the researchers in Text 2 most likely say about the claim underlined in Text 1?</p>",
+  "stimulus": "<p><span class=\"paired_passage\" role=\"heading\" aria-level=\"2\"><strong>Text 1</strong></span></p>\n<p><span role=\"region\" aria-label=\"Referenced Content\"><u>It seems clear that emotional contagion (the unintentional transfer of an emotional state from one person to another) requires physical interaction and the observation of body language.</u></span> After all, research shows that talking to someone who is smiling and expressing positive feelings often causes people to respond in a comparably positive way. Similarly, displays of nervous fidgeting have been found to prompt others to begin behaving more nervously, too.</p>\n<p>&nbsp;</p>\n<p><span class=\"paired_passage\" role=\"heading\" aria-level=\"2\"><strong>Text 2</strong></span></p>\n<p>In an experiment using a social networking service, Zeyao Yang and Emilio Ferrara found evidence of emotional contagion in text-based online interactions. The researchers discovered that reading social media posts that expressed a positive outlook led people to make more positive posts themselves, while posts with a negative emotional tone led people to make more negative posts.</p>",
+  "type": "mcq",
+  "keys": [
+    "ed0b9c3b-306f-4d43-b0b7-ec35a0a10605"
+  ],
+  "answerOptions": [
+    {
+      "id": "6e3dc71b-9790-4cd5-adef-4ca6d5338da2",
+      "content": "<p>It perpetuates a flawed understanding of emotional contagion, because there isn&rsquo;t enough evidence to suggest that smiling is a sign of emotional contagion.</p>"
+    },
+    {
+      "id": "ed0b9c3b-306f-4d43-b0b7-ec35a0a10605",
+      "content": "<p>It reflects an incomplete view of emotional contagion, because this phenomenon can occur even without in-person interaction.</p>"
+    },
+    {
+      "id": "be415b73-fe6f-4121-a064-bf0ac942c70f",
+      "content": "<p>It&rsquo;s fairly persuasive, because studies attempting to identify emotional contagion in situations without in-person interaction have thus far yielded unclear results.</p>"
+    },
+    {
+      "id": "2a013726-031e-46d2-b4e0-ffd0b2069722",
+      "content": "<p>It&rsquo;s mostly accurate, because the social networking study confirmed that emotional contagion primarily occurs in response to negative emotions like nervousness.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it represents how the researchers in Text 2 would most likely respond to the underlined claim in Text 1. Text 1 begins by asserting that the unintended transfer of feelings from one person to another, known as emotional contagion, seems to rely on both people being physically present and able to observe body language. Text 1 then references research that supports this assertion. Text 2 describes an experiment conducted by the researchers Yang and Ferrara in which they found evidence of emotional contagion in the absence of physical interaction, namely through text-based interactions on social media. The researchers in Text 2 wouldn&rsquo;t completely agree with what is asserted in the underlined portion of Text 1 (that emotional contagion seems to require physical proximity), because their study, which used a social media networking service, found that physical interaction isn&rsquo;t the only way that emotional contagion can take place. Thus, the researchers in Text 2 would most likely respond to the underlined claim in Text 1 by stating that it reflects an incomplete view of emotional contagion, because the phenomenon can occur without an in-person interaction.</p><p>Choice A is incorrect. Although the researchers in Text 2 would likely agree that the underlined statement in Text 1 perpetuates a flawed conclusion that emotional contagion requires physical interaction, Text 2 doesn&rsquo;t address what the researchers thought about smiling as a sign of emotional contagion. Choice C is incorrect because the researchers in Text 2 wouldn&rsquo;t say that the underlined claim in Text 1 is fairly persuasive. According to Text 2, the researchers conducted a study that found emotional contagion didn&rsquo;t require physical interaction, because they found evidence of it in text-based online interactions. Choice D is incorrect because neither of the texts claim that emotional contagion primarily occurs when a person is exposed to negativity. Instead, Text 1 claims that physical interaction is required for emotional contagion to occur, and Text 2 describes a study that suggests emotional contagion can occur in text-based online interactions.</p>",
+  "externalid": "4ebda356-e24d-43e1-bc57-b475228f9295",
+  "correct_answer": [
+    "B"
+  ]
+}

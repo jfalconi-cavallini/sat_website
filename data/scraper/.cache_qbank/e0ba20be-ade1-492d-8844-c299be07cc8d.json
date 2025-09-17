@@ -1,0 +1,31 @@
+{
+  "stem": "<p>The student wants to contrast first-class levers and second-class levers. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>A lever is a simple machine consisting of a rigid beam and a fulcrum.</li>\n<li>The fulcrum is the point about which the beam pivots.</li>\n<li>The input force (effort) is the force applied to the lever.</li>\n<li>The output force (load) is the force that the lever exerts on another object.</li>\n<li>In first-class levers, the fulcrum is located between the effort and the load.</li>\n<li>In second-class levers, the load is located between the effort and the fulcrum.</li>\n</ul>",
+  "type": "mcq",
+  "keys": [
+    "a97078fc-b786-42bc-9296-afdb3097ca84"
+  ],
+  "answerOptions": [
+    {
+      "id": "714cf316-9f28-4114-81b2-73221b939e0a",
+      "content": "<p>In levers, the effort is the force applied to the lever; the load, in contrast, is the force that the lever exerts on another object.</p>"
+    },
+    {
+      "id": "0c41b3b4-aed1-4d3b-92d6-d4f0843368be",
+      "content": "<p>In first-class and second-class levers, the fulcrum and the load are in different locations.</p>"
+    },
+    {
+      "id": "0542d1e0-54ae-4017-b9b2-f1649492a067",
+      "content": "<p>First-class levers are simple machines consisting of a rigid beam and a fulcrum, but then again, the same is true of second-class levers.</p>"
+    },
+    {
+      "id": "a97078fc-b786-42bc-9296-afdb3097ca84",
+      "content": "<p>In first-class levers, the fulcrum is located between the effort and the load, but in second-class levers, the load is located between the effort and the fulcrum.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The sentence contrasts first-class levers and second-class levers, explaining that the fulcrum in a first-class lever is between the effort and the load, whereas in a second-class lever the load is between the effort and the fulcrum.</p><p>Choice A is incorrect. The sentence defines two terms associated with levers; it doesn&rsquo;t contrast first-class levers and second-class levers. Choice B is incorrect. While the sentence seems to acknowledge a general difference in fulcrum and load locations between first-class and second-class levers, it does not specify what this difference is. Moreover, the sentence could be read as emphasizing a similarity&mdash;that in both types of levers, the fulcrum and load are in different locations. The sentence thus fails to effectively contrast the two types of levers. Choice C is incorrect. The sentence describes a similarity between first-class and second-class levers; it doesn&rsquo;t contrast them.</p>",
+  "externalid": "e0ba20be-ade1-492d-8844-c299be07cc8d",
+  "correct_answer": [
+    "D"
+  ]
+}

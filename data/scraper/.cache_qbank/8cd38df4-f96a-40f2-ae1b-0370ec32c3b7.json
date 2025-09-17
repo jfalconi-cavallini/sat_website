@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>In February <span data-ssml-say-as=\"date\">1919</span>, following the end of the First World War, women from ten countries around the world convened the Inter-Allied Women&rsquo;s Conference in Paris. The conference&rsquo;s goals were <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> ensure women&rsquo;s participation in the proceedings of the Paris Peace Conference, to secure the right of women to serve in the League of Nations, and to advocate for human rights.</p>",
+  "keys": [
+    "8ffd8971-0431-4b00-9b3e-0c76f289ec34"
+  ],
+  "answerOptions": [
+    {
+      "id": "8ffd8971-0431-4b00-9b3e-0c76f289ec34",
+      "content": "<p>threefold<span data-ssml-say-as=\"characters\">:</span> to</p>"
+    },
+    {
+      "id": "abdd9c7d-fd7b-4a52-a448-b407e9808d30",
+      "content": "<p>threefold<span data-ssml-say-as=\"characters\">.</span> To</p>"
+    },
+    {
+      "id": "f3b2a472-06c1-4101-afff-ccb5367cb063",
+      "content": "<p>threefold to</p>"
+    },
+    {
+      "id": "4dc33dae-d94f-4136-aed5-20bef302bbce",
+      "content": "<p>threefold<span data-ssml-say-as=\"characters\">;</span> to</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the use of punctuation within a sentence. In this choice, the colon correctly introduces the series of goals held by the 1919 Inter-Allied Women&rsquo;s Conference.</p><p>Choice B is incorrect because placing a period after \"threefold\" results in a rhetorically unacceptable sentence fragment beginning with \"To.\" Choice C is incorrect because it results in a run-on sentence. The main clause (\"The conference&rsquo;s goals were threefold\") and the series supplement (\"to&hellip;rights\") are fused without punctuation. Choice D is incorrect because a semicolon can&rsquo;t be used in this way to introduce a series. A semicolon is conventionally used to join two main clauses, whereas a colon is conventionally used to introduce a series, making the colon the better choice in this context.</p>",
+  "externalid": "8cd38df4-f96a-40f2-ae1b-0370ec32c3b7",
+  "correct_answer": [
+    "A"
+  ]
+}

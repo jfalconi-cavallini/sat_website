@@ -1,0 +1,38 @@
+{
+  "vaultid": "4f174fe0-5439-47e5-89af-897aa5014e54",
+  "keys": [
+    "bf3d98d1-b805-4a71-b979-a85a480d0bee"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of the Indus River valley civilization. The text establishes that archaeologists haven&rsquo;t been able to interpret the Indus River valley civilization&rsquo;s writing system but have nevertheless acquired information about the civilization through historical artifacts. The fact that archaeologists have been able to learn about the Indus River valley civilization&rsquo;s customs and community organization from historical artifacts suggests that it isn&rsquo;t necessary to understand an ancient civilization&rsquo;s language to learn about the civilization. </p><p>Choice A is incorrect because the text doesn&rsquo;t discuss how easy it is to investigate ancient civilizations with or without knowledge of the civilization&rsquo;s language; rather, it states that even though researchers have not yet deciphered the language of the Indus River valley civilization, they are still able to learn about it through historical artifacts.&nbsp;Choice C is incorrect because the text doesn&rsquo;t make any claims as to what the focus of archaeological research should be. Rather, the text discusses how archaeologists have been able to learn about an ancient civilization through historical artifacts despite not understanding the civilization&rsquo;s language.&nbsp;Choice D is incorrect because the text states that the civilization&rsquo;s language has not yet been interpreted; it makes no mention of a debate about the language. Instead, the text suggests that examination of the historical artifacts has allowed archaeologists to learn about the civilization but has not aided thus far in deciphering its language.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "bf6639e8-1ad9-4de8-a308-e9f22045c036",
+  "stimulus": "<p>The Indus River valley civilization flourished in South Asia from 3300 BCE to 1300 BCE. Many examples of the civilization&rsquo;s writing system exist, but researchers haven&rsquo;t yet deciphered it or identified which ancient language it represents. Nevertheless, archaeologists have found historical artifacts, such as clay figures and jewelry, that provide information about the civilization&rsquo;s customs and how its communities were organized. The archaeologists&rsquo; findings therefore suggest that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "97f4782f-d64d-466f-89dd-68f49aca7e90",
+  "parenttemplatename": "OSP-047-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "a3af9e8f-f99e-4bbc-b76b-6a33b1597bf2",
+      "content": "<p>investigating an ancient civilization is easier without knowledge of the civilization&rsquo;s language.</p>"
+    },
+    {
+      "id": "bf3d98d1-b805-4a71-b979-a85a480d0bee",
+      "content": "<p>knowing an ancient civilization&rsquo;s language isn&rsquo;t necessary in order to learn details about the civilization.</p>"
+    },
+    {
+      "id": "45f33a7b-ca30-4f0f-9e3e-f3c7845bd1b0",
+      "content": "<p>archaeological research should focus on finding additional artifacts rather than deciphering ancient languages.</p>"
+    },
+    {
+      "id": "5c59ba84-8092-4e0d-92c0-4a7006283e49",
+      "content": "<p>examining the civilization&rsquo;s historical artifacts has resolved the debate about this civilization&rsquo;s language.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

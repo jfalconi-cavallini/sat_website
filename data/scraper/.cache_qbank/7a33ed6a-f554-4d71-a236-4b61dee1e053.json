@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice most effectively uses data from the table to complete the statement?</p>",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Properties of Select Rotating Radio Transients</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Name</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Right ascension (hours)</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Period (seconds)</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Frequency (hertz)</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">J0545-03</th><td style=\"text-align: center;\">5<span data-ssml-say-as=\"characters\">:</span>45</td><td style=\"text-align: center;\">1.074</td><td style=\"text-align: center;\">0.931</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">J1654-2335</th><td style=\"text-align: center;\">16<span data-ssml-say-as=\"characters\">:</span>54<span data-ssml-say-as=\"characters\">:</span>03</td><td style=\"text-align: center;\">0.545</td><td style=\"text-align: center;\">1.834</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">J0103+54</th><td style=\"text-align: center;\">1<span data-ssml-say-as=\"characters\">:</span>03<span data-ssml-say-as=\"characters\">:</span>37</td><td style=\"text-align: center;\">0.354</td><td style=\"text-align: center;\">2.822</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">J0121+53</th><td style=\"text-align: center;\">1<span data-ssml-say-as=\"characters\">:</span>21</td><td style=\"text-align: center;\">2.725</td><td style=\"text-align: center;\">0.367</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">J0614-03</th><td style=\"text-align: center;\">6<span data-ssml-say-as=\"characters\">:</span>15</td><td style=\"text-align: center;\">0.136</td><td style=\"text-align: center;\">7.353</td></tr></tbody></table></figure></p>\n<p>A student is researching rotating radio transients (RRATs), a subclass of pulsar stars characterized by short pulses of radio waves. The time between consecutive pulses of an RRAT is referred to as a period. Looking at the table, the student determines that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "28b16a07-2331-41bd-a1b5-c6c4e444c9cd"
+  ],
+  "answerOptions": [
+    {
+      "id": "28b16a07-2331-41bd-a1b5-c6c4e444c9cd",
+      "content": "<p>J0614-03 has the shortest amount of time between consecutive pulses of all the RRATs in the table.</p>"
+    },
+    {
+      "id": "9a5ba297-2d3e-4adb-910f-a66822b5a2c1",
+      "content": "<p>J0545-03 and J0121+53 have the same amount of time between consecutive pulses.</p>"
+    },
+    {
+      "id": "d47a2ada-c1ac-484c-bb44-c8898ef25678",
+      "content": "<p>J1654-2335 has the longest amount of time between consecutive pulses of all the RRATs in the table.</p>"
+    },
+    {
+      "id": "c88a42e9-de03-4e13-8b76-0b6bca369aad",
+      "content": "<p>J0103+54 and J0121+53 both have more than one second of time between consecutive pulses.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately uses data from the table to complete the statement about certain rotating radio transients (RRATs). The table contains information about the right ascensions, periods, and frequencies of various pulsar stars called RRATs. According to the text, the period of an RRAT is defined as the time between consecutive pulses. The table shows that the period of RRAT J0614-03 is 0.136 seconds, which is the lowest number of all the periods of the RRATs listed in the table. If the period is the time between consecutive pulses, and J0614-03 has the shortest period, then J0614-03 has the shortest amount of time between consecutive pulses of all the RRATs in the table.</p><p>Choice B is incorrect because according to the table, J0545-03 has a period of 1.074 seconds and J0121+53 has a period of 2.725 seconds. According to the text, the period of an RRAT is the time between consecutive pulses. Therefore, since J0545-03 and J0121+53 have different periods, they do not have the same amount of time between consecutive pulses. Choice C is incorrect because according to the table, J1654-2335 has a period of 0.545 seconds, which is not the longest period of all the RRATs listed in the table. According to the text, the period of an RRAT is the time between consecutive pulses, and both J0545-03 and J0121+53 have longer periods than J1654-2335, so J1654-2335 does not have the longest time between consecutive pulses of all the RRATs in the table. Choice D is incorrect because according to the table, J0103+54 has a period of 0.354 seconds, and J0121+53 has a period of 2.725 seconds. According to the text, the period of an RRAT is the time between consecutive pulses, and only J0121+53 has more than one second of time between consecutive pulses, not J0103+54.</p>",
+  "externalid": "7a33ed6a-f554-4d71-a236-4b61dee1e053",
+  "correct_answer": [
+    "A"
+  ]
+}

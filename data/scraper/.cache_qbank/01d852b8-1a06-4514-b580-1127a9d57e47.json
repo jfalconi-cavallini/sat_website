@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Solarpunk is an art movement that imagines renewable energy&ndash;powered technology infused complementarily into nature. In Paolo Bacigalupi&rsquo;s solarpunk short story &ldquo;Efficiency,&rdquo; an artificial intelligence that absorbs sustainable energies, redistributing them through intricate networks of weights and generators, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Chicago&rsquo;s energy grid.</p>",
+  "type": "mcq",
+  "keys": [
+    "485c8f3b-de6d-4bf2-9b5c-88a7a8f73e33"
+  ],
+  "answerOptions": [
+    {
+      "id": "dd404784-e123-4fea-929e-4d9ce5b4c165",
+      "content": "<p>have been powering</p>"
+    },
+    {
+      "id": "ed7c1738-388f-4b46-82b2-648e303ad9c2",
+      "content": "<p>power</p>"
+    },
+    {
+      "id": "485c8f3b-de6d-4bf2-9b5c-88a7a8f73e33",
+      "content": "<p>powers</p>"
+    },
+    {
+      "id": "2c2e4817-1c1c-4383-aacf-99092bc6e9f7",
+      "content": "<p>are powering</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is subject-verb agreement. The singular verb \"powers\" agrees in number with the singular subject \"an artificial intelligence.\"</p><p>Choice A is incorrect because the plural verb \"have been powering\" doesn&rsquo;t agree in number with the singular subject \"an artificial intelligence.\" Choice B is incorrect because the plural verb \"power\" doesn&rsquo;t agree in number with the singular subject \"an artificial intelligence.\" Choice D is incorrect because the plural verb \"are powering\" doesn&rsquo;t agree in number with the singular subject \"an artificial intelligence.\"</p>",
+  "externalid": "01d852b8-1a06-4514-b580-1127a9d57e47",
+  "correct_answer": [
+    "C"
+  ]
+}

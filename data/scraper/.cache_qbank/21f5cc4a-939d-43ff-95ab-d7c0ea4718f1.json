@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>According to the text, how does the narrator feel about being at summer camp?</p>",
+  "stimulus": "<p>The following text is from David Barclay Moore&rsquo;s 2022 novel <em>Holler of the Fireflies</em>. The narrator has just arrived at summer camp, which is far away from his home.&nbsp;</p>\n<blockquote>\n<p>This place was different than I thought it would be. I&rsquo;d never been somewhere like this before. I did feel scared, but also excited.</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;2022 by David Barclay Moore</span></p>",
+  "keys": [
+    "1f5cade5-20f8-4f1e-957e-525de30a4691"
+  ],
+  "answerOptions": [
+    {
+      "id": "ea011bdb-abb4-4078-a9d8-a9d0aa452f7e",
+      "content": "<p>He feels overjoyed.</p>"
+    },
+    {
+      "id": "25c03493-2335-40f8-bd4f-a28370739f8f",
+      "content": "<p>He feels peaceful.</p>"
+    },
+    {
+      "id": "1f5cade5-20f8-4f1e-957e-525de30a4691",
+      "content": "<p>He feels both scared and excited.</p>"
+    },
+    {
+      "id": "9eedf155-7bc2-41b8-998f-e9f438e0a288",
+      "content": "<p>He feels both angry and jealous.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most accurately states how the narrator feels about being at summer camp. In the text, the narrator states that after arriving at the camp, he found it to be different than he&rsquo;d expected and that as a result, he felt \"scared, but also excited.\"</p><p>Choice A is incorrect. In the text, the narrator describes himself as \"excited.\" Although excitement is a positive emotion, it isn&rsquo;t as intensely positive as feeling overjoyed is. Moreover, the narrator also notes that he felt \"scared.\" In other words, his excitement (a positive emotion) is balanced with fear (a negative emotion). Given this mixture of positive and negative emotions, it would be inaccurate to characterize the narrator as overjoyed. Choice B is incorrect because in the text, the narrator describes himself as having felt both fear and excitement. Neither of these emotions can be thought of as peaceful and, in fact, are almost the opposite of a sense of peace. Choice D is incorrect because in the text, the narrator describes himself as both \"scared\" and \"excited,\" not angry and jealous.</p>",
+  "externalid": "21f5cc4a-939d-43ff-95ab-d7c0ea4718f1",
+  "correct_answer": [
+    "C"
+  ]
+}

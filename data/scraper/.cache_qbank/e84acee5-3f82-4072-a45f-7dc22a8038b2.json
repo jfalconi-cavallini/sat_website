@@ -1,0 +1,38 @@
+{
+  "vaultid": "491b9c30-6f53-4ffc-b254-5665ed8b2efa",
+  "keys": [
+    "569cfedf-fec4-4287-ad87-6aec6786c05e"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of the two types of stick tools used by New Caledonian crows. The text indicates that the more effective type of tool has a hook that the crows make themselves, while the other type of tool is simply a stick without a hook that the crows find and don&rsquo;t shape in any way. According to the text, Klump found that the crows keep hooked tools&mdash;but not the tools without hooks&mdash;in their grasp or in safe places when they aren&rsquo;t using the tools. If the hooked tools are more effective than the tools without hooks are and the crows are more protective of the hooked tools than they are of the tools without hooks, it&rsquo;s reasonable to conclude that the hooked tools are more valuable to the crows than the tools without hooks are. </p><p>Choice B is incorrect because the text gives no indication of how easy it is for the crows to hold either the hooked tools or the tools without hooks. The text does state that crows hold the hooked tools and not the tools without hooks when the tools aren&rsquo;t in use. However, the text also indicates that the hooked tools require work from the crows to make and are more useful for helping the crows catch prey than the tools without hooks are. This context suggests that the crows hold the hooked tools because they&rsquo;re more valuable to the crows than the tools without hooks are, not because the hooked tools are easier to hold. Choice C is incorrect because the text makes no mention of the crows sharing tools. Additionally, the text indicates that when the crows aren&rsquo;t using the hooked tools, they either grasp the tools or store them safely, which suggests that the crows try to maintain possession of the hooked tools, not that crows prefer to share those tools. Choice D is incorrect because the text says nothing about the crows using their claws to remove prey from holes, so there&rsquo;s no evidence that the crows perceive the stick tools to be less effective than their claws are. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "e84acee5-3f82-4072-a45f-7dc22a8038b2",
+  "stimulus": "<p>In the South Pacific, New Caledonian crows use two different kinds of stick tools. One tool is complex. The crows shape a stick from a rare plant into a hook. The other tool is basic. The crows find a stick without a hook on the ground. The hooked tool is harder to get but is much better than the basic tool at removing prey from holes. When studying New Caledonian crows, ecologist Barbara Klump found that they hold the hooked tools in their claws when not using them, or they carefully put them in a safe place. The crows don&rsquo;t do the same with the basic tools. This suggests to Klump that the <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "5292cf1b-d866-48c9-b086-a180930e25c8",
+  "parenttemplatename": "OSP-042-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "569cfedf-fec4-4287-ad87-6aec6786c05e",
+      "content": "<p>hooked stick tools are more valuable to the crows than the stick tools without hooks.</p>"
+    },
+    {
+      "id": "2c88f48b-362a-4d7f-bd65-c8533c5a525d",
+      "content": "<p>hooked stick tools are easier for most of the crows to hold than the stick tools without hooks.</p>"
+    },
+    {
+      "id": "83f3052b-664a-4a6c-97f0-bc8ba298b83c",
+      "content": "<p>crows prefer to share their hooked stick tools but don&rsquo;t share the stick tools without hooks.</p>"
+    },
+    {
+      "id": "a45d0f0e-1382-429f-9eb4-b4993f648a06",
+      "content": "<p>crows realize that both kinds of stick tools are less effective than their claws are at removing prey from holes.</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

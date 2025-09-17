@@ -1,0 +1,38 @@
+{
+  "vaultid": "dc5fc1ac-5ed7-4e71-aa42-4e008606e688",
+  "keys": [
+    "c9c986cb-882f-49ce-a57b-0caa7a3b33c9"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is subject-verb agreement. The singular verb \"evokes\" agrees in number with the singular subject \"Alexander&rsquo;s use.\"</p><p>Choice B is incorrect because the plural verb \"are evoking\" doesn&rsquo;t agree in number with the singular subject \"Alexander&rsquo;s use.\" Choice C is incorrect because the plural verb \"have evoked\" doesn&rsquo;t agree in number with the singular subject \"Alexander&rsquo;s use.\" Choice D is incorrect because the plural verb \"evoke\" doesn&rsquo;t agree in number with the singular subject \"Alexander&rsquo;s use.\"</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "3cb708e3-621b-462b-9a18-c1fb4a811d10",
+  "stimulus": "<p>&ldquo;Praise Song for the Day,&rdquo; Elizabeth Alexander&rsquo;s 2009 inaugural poem, asserts that &ldquo;We cross dirt roads and highways&hellip;to see what&rsquo;s on the other side.&rdquo; Alexander&rsquo;s use of &ldquo;we&rdquo; <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Americans&rsquo; collective efforts and shared desire to seek new opportunity.</p>",
+  "templateclusterid": "938a64bc-fd46-4f1a-9b56-ed333b5bcdea",
+  "parenttemplatename": "OSP-644-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "c9c986cb-882f-49ce-a57b-0caa7a3b33c9",
+      "content": "<p>evokes</p>"
+    },
+    {
+      "id": "c8311918-ab89-470e-ab88-88eccdf27f5f",
+      "content": "<p>are evoking</p>"
+    },
+    {
+      "id": "ae7bbf67-f3c5-4498-8583-5bbb18ca1e6d",
+      "content": "<p>have evoked</p>"
+    },
+    {
+      "id": "224b03cd-d20d-426e-bbeb-fcc624c70182",
+      "content": "<p>evoke</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Long attributed to Jacques-Louis David, the preeminent Neoclassical painter of his day, the 1801 painting <em>Marie Jos&eacute;phine Charlotte du Val d&rsquo;Ognes</em> gained fresh attention in the 1990s when art historians discovered that the painting&mdash;which depicts a solitary young woman sketching&mdash;was actually the work of little-known French portrait <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Marie-Denise Villers (1774&ndash;1821).</p>",
+  "type": "mcq",
+  "keys": [
+    "e9c1ff1f-7856-47c6-83e2-0afc8b1301a0"
+  ],
+  "answerOptions": [
+    {
+      "id": "126de9f6-175b-4873-94f5-5d1bbaae76fd",
+      "content": "<p>artist&mdash;</p>"
+    },
+    {
+      "id": "e9c1ff1f-7856-47c6-83e2-0afc8b1301a0",
+      "content": "<p>artist</p>"
+    },
+    {
+      "id": "46bf9b96-2612-4e21-af08-320077936119",
+      "content": "<p>artist:</p>"
+    },
+    {
+      "id": "de470a9d-d1cf-4678-a241-996c47fee740",
+      "content": "<p>artist,</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the use of punctuation between titles and proper nouns. No punctuation is needed to set off the proper noun \"Marie-Denise Villers\" from the title that describes Villers, \"little-known French portrait artist.\"</p><p>Choice A is incorrect because no punctuation is needed. Choice C is incorrect because no punctuation is needed. Choice D is incorrect because no punctuation is needed.</p>",
+  "externalid": "849dbfd4-a703-4e5f-9a77-444840ef8712",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which quotation from &ldquo;The Yellow Wallpaper&rdquo; most effectively illustrates the claim?</p>",
+  "stimulus": "<p>&ldquo;The Yellow Wallpaper&rdquo; is an 1892 short story by Charlotte Perkins Gilman. In the story, the narrator expresses mixed feelings about her surroundings: <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "c39af3b7-3d2a-4291-bd5c-8883d4ff793e"
+  ],
+  "answerOptions": [
+    {
+      "id": "c8868907-ffed-4bcc-ac70-ec995fc78fc6",
+      "content": "<p>&ldquo;This wallpaper has a kind of sub-pattern in a different shade, a particularly irritating one, for you can only see it in certain lights, and not clearly then.&rdquo;</p>"
+    },
+    {
+      "id": "0b0d4dd4-eb95-4ab8-9cd0-2d9a5a5bbf03",
+      "content": "<p>&ldquo;By moonlight&mdash;the moon shines in all night when there is a moon&mdash;I wouldn&rsquo;t know it was the same paper.&rdquo;</p>"
+    },
+    {
+      "id": "c39af3b7-3d2a-4291-bd5c-8883d4ff793e",
+      "content": "<p>&ldquo;I&rsquo;m really getting quite fond of the big room, all but that horrid [wall]paper.&rdquo;</p>"
+    },
+    {
+      "id": "d26d88a5-5ba7-4b59-97da-c9f5c1194fa5",
+      "content": "<p>&ldquo;The color is repellant, almost revolting; a smouldering, unclean yellow, strangely faded by the slow-turning sunlight.&rdquo;</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most effectively illustrates the claim that the narrator of \"The Yellow Wallpaper\" has mixed feelings about her surroundings. She says she is \"really getting quite fond of the big room,\" a positive sentiment, but also describes the room&rsquo;s wallpaper as \"horrid,\" a negative sentiment. Since some of her feelings about her surroundings are positive and others are negative, they are best described as mixed.</p><p>Choice A is incorrect because though the narrator describes the room&rsquo;s wallpaper as \"irritating,\" a negative sentiment, she does not mention a positive sentiment. Thus, the quotation does not effectively illustrate the claim that the narrator has mixed feelings about her surroundings. Choice B is incorrect because it describes how the appearance of the room&rsquo;s wallpaper changes at night but does not mention the narrator&rsquo;s feelings about her surroundings. Choice D is incorrect because though the narrator describes the room&rsquo;s wallpaper as \"repellant,\" a negative sentiment, she does not mention a positive sentiment. Thus, the quotation does not effectively illustrate the claim that the narrator has mixed feelings about her surroundings.</p>",
+  "externalid": "2d43925d-e0c3-44ec-b583-82c5c0d2a74e",
+  "correct_answer": [
+    "C"
+  ]
+}

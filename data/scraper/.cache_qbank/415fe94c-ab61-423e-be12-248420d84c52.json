@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "stimulus": "<p>The following text is adapted from Jason Reynolds&rsquo;s 2016 novel <em>Ghost</em>. The narrator, who is in middle school, is at a bus stop.</p>\n<blockquote>\n<p>I just go there [to the bus stop] to look at the people working out. See, the gym across the street has this big window&mdash;like the whole wall is a window&mdash;and they have those machines that make you feel like you walking up steps and so everybody just be facing the bus stop, looking all crazy like they&rsquo;re about to pass out. And trust me, there ain&rsquo;t nothing funnier than that. So I check that out for a little while like it&rsquo;s some kind of movie: <em>The About to Pass Out Show</em>, starring stair-stepper person one through ten.</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;2016 by Jason Reynolds</span></p>",
+  "type": "mcq",
+  "keys": [
+    "e8fe0be7-4237-4a97-9540-c0a110e4cde2"
+  ],
+  "answerOptions": [
+    {
+      "id": "35d2e592-3093-40df-bbd8-ac5ec1d9915f",
+      "content": "<p>To give a reason why the narrator is excited to start middle school</p>"
+    },
+    {
+      "id": "e8fe0be7-4237-4a97-9540-c0a110e4cde2",
+      "content": "<p>To describe an activity that the narrator finds amusing</p>"
+    },
+    {
+      "id": "8f9d5a6c-ef4e-44de-a127-d93f7fe432da",
+      "content": "<p>To explain a problem that the narrator has overcome</p>"
+    },
+    {
+      "id": "8ba7e6ad-5837-498f-9792-67a860fb5a94",
+      "content": "<p>To discuss a movie that the narrator saw in a theater</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most accurately describes the main purpose of the text. The text describes how the narrator watches people working out at a gym through a window near a bus stop. The narrator says that \"there ain&rsquo;t nothing funnier\" than watching people try to work out on the stair climber machine. Thus, the main purpose of the text is to describe an activity that the narrator finds amusing.</p><p>Choice A is incorrect because the text isn&rsquo;t about the narrator beginning middle school. The text describes how the narrator finds people working out at a gym amusing and makes no mention of school life. Choice C is incorrect because the text doesn&rsquo;t mention any problems that the narrator currently has or has overcome. It just describes how the narrator finds watching people work out amusing. Choice D is incorrect because the narrator invents the made-up movie mentioned in the text. The text doesn&rsquo;t indicate that the narrator has seen a movie in a theater. The focus of the text is on the narrator watching people at the gym, not watching a movie.</p>",
+  "externalid": "415fe94c-ab61-423e-be12-248420d84c52",
+  "correct_answer": [
+    "B"
+  ]
+}

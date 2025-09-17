@@ -1,0 +1,38 @@
+{
+  "vaultid": "78ec09f7-dae9-45ba-bf85-1346c5f6c406",
+  "keys": [
+    "50c01ca2-37b1-473d-b2cb-b954a7eb889d"
+  ],
+  "rationale": "<p>Choice A is the best answer. The convention being tested is the punctuation of a supplementary word or phrase between two main clauses. This choice correctly uses a comma to separate the supplementary adverb &ldquo;however&rdquo; from the preceding main clause (&ldquo;Okinaka doesn&rsquo;t&hellip;single-handedly&rdquo;) and a semicolon to join the next main clause (&ldquo;all&hellip;culture&rdquo;) to the rest of the sentence. Further, placing the semicolon after &ldquo;however&rdquo; correctly indicates that the information in the preceding main clause (Okinaka doesn&rsquo;t make such decisions single-handedly) is contrary to what might be assumed from the information in the previous sentence (Okinaka sits on the review board that adds new sites to the Hawaii Register of Historic Places). </p><p>Choice B is incorrect because placing the semicolon after &ldquo;single-handedly&rdquo; and the comma after &ldquo;however&rdquo; illogically indicates that the information in the next main clause (all historical designations must be approved by a group of experts) is contrary to the information in the previous clause (Okinaka doesn&rsquo;t make such decisions single-handedly).&nbsp;Choice C is incorrect because it results in a comma splice. Commas can&rsquo;t be used in this way to punctuate a supplementary word or phrase between two main clauses.&nbsp;Choice D is incorrect because it results in a run-on sentence. The two main clauses are fused without punctuation and/or a conjunction. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "a1fa2a51-c2ae-4892-8ffc-41238399100e",
+  "stimulus": "<p>Sociologist Alton Okinaka sits on the review board tasked with adding new sites to the Hawai&lsquo;i Register of Historic Places, which includes Pi&lsquo;ilanihale Heiau and the &lsquo;Ōpaeka&lsquo;a Road Bridge. Okinaka doesn&rsquo;t make such decisions <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> all historical designations must be approved by a group of nine other experts from the fields of architecture, archaeology, history, and Hawaiian culture.</p>",
+  "templateclusterid": "13bec23c-0059-4e2f-8264-28884a8ee9d1",
+  "parenttemplatename": "T0014",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "25",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "50c01ca2-37b1-473d-b2cb-b954a7eb889d",
+      "content": "<p>single-handedly, however;</p>"
+    },
+    {
+      "id": "f8176a6b-352c-4139-9730-002652787692",
+      "content": "<p>single-handedly; however,</p>"
+    },
+    {
+      "id": "8aa04568-b581-42a8-8a57-e87045f36886",
+      "content": "<p>single-handedly, however,</p>"
+    },
+    {
+      "id": "948e599e-ec1b-4d00-849f-58b1ab79e8cd",
+      "content": "<p>single-handedly however</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

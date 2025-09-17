@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best describes the function of the underlined sentence in the text as a whole?</p>",
+  "stimulus": "<p>Wakako Yamauchi is best known for <em>And the Soul Shall Dance</em>, her 1977 play about a Japanese American family in Southern California. The play is based on a short story Yamauchi had published three years earlier. Adapting the story wasn&rsquo;t easy. Theater relies on dialogue between characters, but the original story features little dialogue and instead describes its characters&rsquo; silent thoughts. <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">To transform the story into a play, Yamauchi created situations where characters reveal their thoughts by speaking them aloud during conversations with each other.</span></p>",
+  "keys": [
+    "1fd87098-53a7-4553-886e-2da678f11906"
+  ],
+  "answerOptions": [
+    {
+      "id": "1fd87098-53a7-4553-886e-2da678f11906",
+      "content": "<p>It offers information about how Yamauchi adapted her short story into a play.</p>"
+    },
+    {
+      "id": "a96be5fa-1ad2-45b0-8316-2e9a32e46cad",
+      "content": "<p>It argues that Yamauchi&rsquo;s play influenced later playwrights.</p>"
+    },
+    {
+      "id": "98d7a5ec-a37a-4163-bbcb-5c86ddfe14e0",
+      "content": "<p>It explains why Yamauchi&rsquo;s short story is better known than the play adaptation is.</p>"
+    },
+    {
+      "id": "5a34a004-b908-4da3-a44c-fb845bdd0be0",
+      "content": "<p>It describes how Yamauchi chose the actors who performed in the play.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it best describes how the underlined sentence functions in the text as a whole. According to the text, it was hard for Yamauchi to adapt her short story into the play <em>And the Soul Shall Dance</em> because the story had included little dialogue, instead describing the characters&rsquo; silent thoughts. The underlined sentence offers information about how Yamauchi ultimately succeeded in adapting the story into a play: it explains that Yamauchi created situations where the characters of the play could reveal their internal thoughts while speaking with each other.</p><p>Choice B is incorrect because neither the underlined sentence nor the text as a whole makes any mention of playwrights other than Yamauchi or how the play might have influenced them. Choice C is incorrect because the text states that Yamauchi is best known for her play <em>And the Soul Shall Dance</em>, which conveys that the play is better known than the short story it&rsquo;s based on is. Choice D is incorrect because neither the underlined sentence nor the text as a whole mentions the actors who performed in the play or Yamauchi&rsquo;s approach to choosing them.</p>",
+  "externalid": "1de2c5d1-3cf4-4e47-9172-c03d89d88880",
+  "correct_answer": [
+    "A"
+  ]
+}

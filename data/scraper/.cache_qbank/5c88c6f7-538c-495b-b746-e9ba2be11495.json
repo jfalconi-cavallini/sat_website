@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>When printing paper money for the colony of Pennsylvania in the 1730s, Benjamin Franklin&mdash;then a Philadelphia shop owner&mdash;took steps to combat the circulation of counterfeit notes, such as weaving blue threads and muscovite (a reflective mineral) into the paper he used. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> he stamped the notes with detailed imprints of sage leaves that proved difficult for forgers to replicate.</p>",
+  "keys": [
+    "5adc6b6e-6b2e-47d0-bccb-fc6a0b950cf3"
+  ],
+  "answerOptions": [
+    {
+      "id": "85c9351c-a7f1-4990-be15-c7d9deedc928",
+      "content": "<p>Specifically,</p>"
+    },
+    {
+      "id": "5b5cf0de-c459-45d5-beac-18e9fa5ac774",
+      "content": "<p>That said,</p>"
+    },
+    {
+      "id": "42c51bec-d835-41e5-954c-3b18d18f1f1d",
+      "content": "<p>For example,&nbsp;</p>"
+    },
+    {
+      "id": "5adc6b6e-6b2e-47d0-bccb-fc6a0b950cf3",
+      "content": "<p>Moreover,</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. \"Moreover\" logically signals that the information in this sentence&mdash;that Franklin stamped imprints on paper money to make forgery more difficult&mdash;adds to the previous information by describing Franklin&rsquo;s other strategy for combatting forgers: weaving materials into the paper used for printing money.</p><p>Choice A is incorrect because \"specifically\" illogically signals that the information in this sentence provides specific, precise details elaborating on the previous information about Franklin&rsquo;s other strategy for combatting forgers (weaving materials into paper). Instead, this information about stamping imprints on money adds new information. Choice B is incorrect because \"that said\" illogically signals that the information in this sentence is an exception to the previous information about Franklin&rsquo;s other strategy for combatting forgers (weaving materials into paper). Instead, this information about stamping imprints on money adds new information. Choice C is incorrect because \"for example\" illogically signals that the information in this sentence serves as an example of the previous information about Franklin&rsquo;s other strategy for combatting forgers (weaving materials into paper). Instead, this information about stamping imprints on money adds new information.</p>",
+  "externalid": "5c88c6f7-538c-495b-b746-e9ba2be11495",
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Based on the texts, how would the author of Text 2 most likely respond to the underlined claim in Text 1?</p>",
+  "stimulus": "<p><strong><span role=\"heading\" aria-level=\"2\">Text 1</span></strong></p>\n<p>In <span data-ssml-say-as=\"date\">1954</span> George Balanchine choreographed a production of <em>The Nutcracker</em>, a ballet by Pyotr Ilyich Tchaikovsky. It has since become a tradition for hundreds of dance companies in North America to stage <em>The Nutcracker</em> each year.&nbsp;<span role=\"region\" aria-label=\"Referenced Content\"><u>But the show is stuck in the past, with an old-fashioned story and references, so it should no longer be produced.</u></span> Ballet needs to create new traditions if it wants to stay relevant to contemporary audiences.</p>\n<p>&nbsp;</p>\n<p><strong><span role=\"heading\" aria-level=\"2\">Text 2</span></strong></p>\n<p><em>The Nutcracker</em> is outdated, but it should be kept because it&rsquo;s a holiday favorite and provides substantial income for some dance companies. Although it can be behind the times, there are creative ways to update the show. For example, Debbie Allen successfully modernized the story. Her show <em>Hot Chocolate Nutcracker</em> combines ballet, tap, hip-hop, and other styles, and it has been gaining in popularity since it opened in 2009.</p>",
+  "keys": [
+    "dda6483e-f214-4449-9c06-1c393ab2f67a"
+  ],
+  "answerOptions": [
+    {
+      "id": "4e96c22f-9adf-4aae-bc86-998fc044f899",
+      "content": "<p>By questioning the idea that the story of <em>The Nutcracker</em> is stuck in the past and by rejecting the suggestion that contemporary audiences would enjoy an updated version</p>"
+    },
+    {
+      "id": "aa5ea178-e984-4538-bca7-4fbd3180ebda",
+      "content": "<p>By agreeing that contemporary audiences have largely stopped going to see performances of <em>The Nutcracker</em> because it&rsquo;s so old-fashioned</p>"
+    },
+    {
+      "id": "6b538780-37ef-4122-aefb-b6dde2ad71ab",
+      "content": "<p>By pointing out that most dance companies could increase their incomes by offering modernized versions of <em>The Nutcracker</em></p>"
+    },
+    {
+      "id": "dda6483e-f214-4449-9c06-1c393ab2f67a",
+      "content": "<p>By suggesting that dance companies should consider offering revised versions of <em>The Nutcracker</em> instead of completely rejecting the show</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it reflects how the author of Text 2 would most likely respond to the underlined claim in Text 1. Text 1 begins by noting the success of <em>The Nutcracker</em> but then claims that the ballet is \"stuck in the past\" and should \"no longer be produced.\" Text 2 begins by conceding that <em>The Nutcracker</em> is indeed outdated but argues that it should continue to be performed, states that the show can be updated to include more contemporary dance styles, and provides an example of one such modernized version, <em>Hot Chocolate Nutcracker</em>. Hence, the author of Text 2 would most likely respond to the underlined claim in Text 1 by suggesting that dance companies should consider offering revised versions of <em>The Nutcracker</em> instead of completely rejecting the show.</p><p>Choice A is incorrect because the author of Text 2 advocates for using creative ways to update <em>The Nutcracker</em> and therefore wouldn&rsquo;t respond to the underlined claim by rejecting the suggestion that contemporary audiences would enjoy an updated version. Choice B is incorrect because although the authors of both texts claim that <em>The Nutcracker</em> is outdated, neither text suggests that contemporary audiences have largely stopped attending productions of the show. On the contrary, Text 2 states that <em>The Nutcracker</em> is a holiday favorite and generates substantial income for some dance companies. Choice C is incorrect because although Text 2 provides an example of a contemporized version of <em>The Nutcracker</em>, the text doesn&rsquo;t suggest that offering modernized versions is a way to increase income for most dance companies. Rather, the author of Text 2 suggests that offering modernized versions is a way to make the ballet discussed in Text 1 feel less outdated.</p>",
+  "externalid": "9441e822-13d8-4de1-a977-1b0093c0a5eb",
+  "correct_answer": [
+    "D"
+  ]
+}

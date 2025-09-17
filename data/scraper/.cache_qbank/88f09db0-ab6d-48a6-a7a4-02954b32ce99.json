@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>Aptamers&mdash;synthetic DNA or RNA molecules that bind to target molecules&mdash;can be used to test for foodborne bacterial pathogens, though their specificity (the probability of returning a negative result in the absence of the focal pathogen) in real-world foods has been unclear. Sandeep Somvanshi <span data-ssml-sub-alias=\"et al\">et al.</span> fabricated test paper incorporating aptamers targeting strain O157:H7 of the bacteria <em>Escherichia coli</em>; the paper shifts from pink to purple as the aptamers bind to target molecules. Somvanshi <span data-ssml-sub-alias=\"et al\">et al.</span> tested the paper in store-bought pear juice they treated with <em><span data-ssml-sub-alias=\"E\">E.</span> coli</em> O157:H7, other strains of <em><span data-ssml-sub-alias=\"E\">E.</span> coli</em>, or other bacteria species. Following exposure, the paper from the O157:H7 test was purple while papers from the other tests were pink, suggesting that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "0a59b720-4be1-4e79-ac9d-304fa2d5229f"
+  ],
+  "answerOptions": [
+    {
+      "id": "9daba7fa-94e8-4eb6-8460-b6c12633b5f3",
+      "content": "<p>aptamer-based tests in real-world foods are more likely to show a high degree of specificity if the focal pathogen is <em><span data-ssml-sub-alias=\"E\">E.</span> coli</em> O157:H7 than if the focal pathogen is another strain of <em><span data-ssml-sub-alias=\"E\">E.</span> coli</em> or another species.</p>"
+    },
+    {
+      "id": "e25f4c08-fe9c-4998-a396-c5c6d7eb9058",
+      "content": "<p>uncertainty about the specificity of aptamer-based tests for pathogens in real-world foods may be due to the similarity between <em><span data-ssml-sub-alias=\"E\">E.</span> coli</em> O157:H7 and other <em><span data-ssml-sub-alias=\"E\">E.</span> coli</em> strains.</p>"
+    },
+    {
+      "id": "f199fd05-3e2a-48d1-8a00-4ff1b33e8058",
+      "content": "<p>the specificity of the tests in a real-world food was unaffected by the aptamers&rsquo; tendency to bind to different strains of <em><span data-ssml-sub-alias=\"E\">E.</span> coli</em>.&nbsp;</p>"
+    },
+    {
+      "id": "0a59b720-4be1-4e79-ac9d-304fa2d5229f",
+      "content": "<p>the aptamers successfully bound to <em><span data-ssml-sub-alias=\"E\">E.</span>&nbsp;coli</em> O157:H7 and the tests displayed a high degree of specificity in a real-world food.&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of aptamers&rsquo; capacity to test for pathogens in food. The text explains that although synthetic aptamer molecules can be used to test for foodborne bacterial pathogens because they bind to target molecules, it hasn&rsquo;t been clear how likely it is that they will indicate a negative result when a target pathogen is absent in real-world foods. The text then indicates that Somvanshi et al. created test paper that changes from pink to purple when aptamers in it bind to a particular strain of <em>E. coli</em> bacteria, O157:H7, and tested it with store-bought pear juice (that is, a real-world food); the paper changed to purple when exposed to juice to which the target pathogen <em>E. coli</em> O157:H7 had been added, but it remained pink when exposed to juice treated with other <em>E. coli</em> strains or other bacteria species. Based on this result, it seems the aptamers in the paper successfully bound to the target (O157:H7) and the tests had a high degree of specificity (providing negative results for samples where the target was absent even though other bacteria were present) when applied to a real-world food.</p><p>Choice A is incorrect because nothing in the text suggests that <em>E. coli</em> O157:H7 differs from other pathogens in a way that makes it more suitable for aptamer-based testing of any kind and that specificity is likely to be lower when aptamer-based tests target other bacteria; the text simply indicates that Somvanshi et al. used O157:H7 as the target for aptamer-based test paper in their study and suggests that the paper had a high degree of specificity. Choice B is incorrect because the text indicates that the specificity of aptamer-based tests in real-world foods is uncertain for pathogens broadly, not just for <em>E. coli</em>, and similarity between strains (of <em>E. coli</em> or of other pathogens) isn&rsquo;t mentioned. Moreover, the results presented in the text suggest that aptamers are actually capable of distinguishing between strains of <em>E. coli</em>, since Somvanshi et al.&rsquo;s paper turned purple when exposed to <em>E. coli</em> O157:H7 and remained pink when exposed to other strains. Choice C is incorrect because the text suggests that the aptamers in the test papers didn&rsquo;t bind to different strains of <em>E. coli</em>. The text explains that the test papers turn purple when the aptamers bind to the targeted pathogen and that in the pear juice tests, the test papers turned purple when exposed to samples with the targeted strain of <em>E. coli</em> (O157:H7) but remained pink when exposed to samples with other strains of <em>E. coli</em>. In other words, the aptamers bound only to the targeted strain, not to the other strains. Further, specificity would be affected if the aptamers had bound to multiple strains and not just the targeted one; that result would cause the specificity to be low.</p>",
+  "externalid": "88f09db0-ab6d-48a6-a7a4-02954b32ce99",
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>On the basis of extensive calculations and models, astronomers in the 1990s predicted that the collision of two neutron stars or a neutron star and a black hole could release a massive burst of gamma rays in an event called a kilonova. This <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> was confirmed with observations in 2017.&nbsp;</p>",
+  "keys": [
+    "6fd38443-000c-4e4e-84fc-6bf4866b3711"
+  ],
+  "answerOptions": [
+    {
+      "id": "6fd38443-000c-4e4e-84fc-6bf4866b3711",
+      "content": "<p>theory</p>"
+    },
+    {
+      "id": "13cb4948-bd34-4c0f-800a-8304b3ae1e34",
+      "content": "<p>evidence</p>"
+    },
+    {
+      "id": "1f42485a-6c3a-4d35-9281-bad16638673f",
+      "content": "<p>constant</p>"
+    },
+    {
+      "id": "5bd163d4-feeb-4241-b878-d3b3dac376a3",
+      "content": "<p>experiment</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of a prediction about a kilonova. In this context, a \"theory\" is an explanation that is considered scientifically acceptable. The text states that astronomers predicted in the 1990s that a collision between a black hole and a neutron star or between two neutron stars could release a massive gamma ray burst called a kilonova, explaining that they determined this possibility based on their extensive work with existing data and simulations (\"calculations and models\"). In other words, the prediction was a theory&mdash;a well-supported explanation&mdash;that, as the text indicates, was later confirmed with observations in 2017.</p><p>Choice B is incorrect because the text indicates that it is the prediction made by astronomers in the 1990s that was confirmed in 2017, and a prediction of an event isn&rsquo;t \"evidence,\" or proof, of that event&rsquo;s existence, even when the prediction is based on extensive study. Further, there would be no need for later confirmation of something that was already recognized as evidence. Choice C is incorrect because in this context, a \"constant\" is a situation or factor that doesn&rsquo;t change. The text indicates that it is the prediction made by astronomers in the 1990s that was confirmed in 2017, and there is no reason to describe the prediction as a constant because the text doesn&rsquo;t suggest that the prediction was completely unchanged over time&mdash;it addresses only the making of the prediction and its later confirmation. Choice D is incorrect because the text indicates that it is the prediction made by astronomers in the 1990s that was confirmed in 2017; although a prediction might be informed by an \"experiment,\" or a controlled test, a prediction is an idea rather than a test.</p>",
+  "externalid": "275ad6c6-c431-4660-a1ce-0de13c039334",
+  "correct_answer": [
+    "A"
+  ]
+}

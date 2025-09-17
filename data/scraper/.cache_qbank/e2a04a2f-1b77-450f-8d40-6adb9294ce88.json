@@ -1,0 +1,31 @@
+{
+  "stem": "<p>The student wants to describe how scientific understanding about the glass&rsquo;s origin has evolved. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Scientists have long sought to determine the origin of glass in Chile&rsquo;s Atacama Desert.</li>\n<li>A 2017 study concluded that ancient grass fires had melted the area&rsquo;s sandy soil into glass.</li>\n<li>In 2021, a different study revealed that the mineral signatures of glass samples were consistent with the mineral signatures of comet samples collected by NASA.</li>\n<li>That study concluded that the glass had formed as a result of a cometary explosion close to the desert&rsquo;s surface.</li>\n</ul>",
+  "type": "mcq",
+  "keys": [
+    "d0dd20e2-44cf-483a-8ecb-de96f6e048d7"
+  ],
+  "answerOptions": [
+    {
+      "id": "ce478a92-1891-44c8-8b0d-5501dcb24fdd",
+      "content": "<p>Scientists have long sought to determine the origin of the glass, with one study concluding that it formed when ancient grass fires melted the area&rsquo;s sandy soil.</p>"
+    },
+    {
+      "id": "e2261361-2bc9-4f44-bba3-cbfbc8b69518",
+      "content": "<p>Studies in 2017 and 2021 offered different explanations for the origin of the glass.&nbsp;</p>"
+    },
+    {
+      "id": "31c2fb70-229e-42f8-9e5f-6f6f3c261b54",
+      "content": "<p>Mineral signatures of glass samples are consistent with those of comet samples collected by NASA, according to new research.</p>"
+    },
+    {
+      "id": "d0dd20e2-44cf-483a-8ecb-de96f6e048d7",
+      "content": "<p>A 2017 study concluded that ancient grass fires had caused the glass&rsquo;s formation, but new research suggests that the glass formed as a result of a cometary explosion close to the desert&rsquo;s surface.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The sentence describes how scientific understanding of the glass&rsquo;s origin has evolved, explaining that new research suggests the glass formed as a result of a cometary explosion instead of being caused by grass fires (as was previously believed).</p><p>Choice A is incorrect. The sentence explains the conclusion of the older study; it doesn&rsquo;t describe how scientific understanding of the glass&rsquo;s origin has evolved. Choice B is incorrect. While the sentence indicates that the two studies provided different explanations, it doesn&rsquo;t describe how scientific understanding of the glass&rsquo;s origin has evolved. Choice C is incorrect. The sentence references a recent finding but doesn&rsquo;t effectively describe how scientific understanding of the glass&rsquo;s origin has evolved.</p>",
+  "externalid": "e2a04a2f-1b77-450f-8d40-6adb9294ce88",
+  "correct_answer": [
+    "D"
+  ]
+}

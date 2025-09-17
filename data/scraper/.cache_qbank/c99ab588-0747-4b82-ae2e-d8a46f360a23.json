@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>According to the University of Hawaiʻi at Mānoa, <span lang=\"haw\">aloha ʻāina</span> is &ldquo;a recognition, commitment, and practice sustaining the ea&mdash;or life breath&rdquo; between the Hawaiian people and their natural environments. The concept has been proudly embodied <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Native Hawaiians for generations, contributing to the lush flora and renowned beauty of the islands.</p>",
+  "type": "mcq",
+  "keys": [
+    "453ee52a-828e-4255-8984-45251043f8dd"
+  ],
+  "answerOptions": [
+    {
+      "id": "68677fd4-5e96-442e-a6e3-c9049fff54bc",
+      "content": "<p>by;</p>"
+    },
+    {
+      "id": "9f4f6a3f-8033-4ee5-9849-47eea7afafc0",
+      "content": "<p>by:</p>"
+    },
+    {
+      "id": "b13844fa-1aff-43c1-bc5c-b1dd98fe6cae",
+      "content": "<p>by,</p>"
+    },
+    {
+      "id": "453ee52a-828e-4255-8984-45251043f8dd",
+      "content": "<p>by</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is punctuation use between a preposition and its complement. No punctuation is needed between the preposition \"by\" and its complement \"Native Hawaiians.\" The complement completes the meaning of the preposition in the phrase \"proudly embodied by Native Hawaiians,\" and any punctuation within it results in an ungrammatical sentence.</p><p>Choice A is incorrect because no punctuation is needed between the preposition and its complement. Choice B is incorrect because no punctuation is needed between the preposition and its complement. Choice C is incorrect because no punctuation is needed between the preposition and its complement.</p>",
+  "externalid": "c99ab588-0747-4b82-ae2e-d8a46f360a23",
+  "correct_answer": [
+    "D"
+  ]
+}

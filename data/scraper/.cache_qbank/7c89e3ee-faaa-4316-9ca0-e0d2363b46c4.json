@@ -1,0 +1,38 @@
+{
+  "vaultid": "9d1d23fc-e4bd-468e-a820-f9fdd10164ca",
+  "keys": [
+    "4194f6af-7355-4ddd-a0d6-93ff8b534344"
+  ],
+  "rationale": "<p>Choice C is the best answer because it best describes how the underlined sentence functions in the text as a whole. The text presents information about a map drawn by Blackfoot chief Ac Ko Mok Ki in 1801. The underlined sentence states that the map \"demonstrates a vast amount of topographic knowledge\" and mentions that it features the \"specific names of mountains and rivers\" and includes the first-known sketch of the Missouri River&rsquo;s drainage network. These are all characteristics that indicate that the map was executed with remarkable skill. Thus, the underlined sentence identifies some reasons why the map is impressive.</p><p>Choice A is incorrect. Though the sentence after the underlined sentence in the text mentions that Ac Ko Mok Ki included information about other tribes on his map, the underlined sentence itself does not address this topic. Choice B is incorrect because nothing in the underlined sentence indicates how Ac Ko Mok Ki became interested in mapmaking, only that his mapmaking skills are impressive. Choice D is incorrect because though the underlined sentence describes several features of the map, it does not specifically describe how the map was used.</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes the function of the underlined sentence in the text as a whole?</p>",
+  "externalid": "7c89e3ee-faaa-4316-9ca0-e0d2363b46c4",
+  "stimulus": "<p>In 1801, a Blackfoot chief named Ac Ko Mok Ki drew a finely detailed map of the Upper Missouri region. <span role=\"region\" aria-label=\"Referenced Content\"><u>This work demonstrates a vast amount of topographic knowledge, as the map features specific names of mountains and rivers, as well as the first-known sketch of the drainage network of the Missouri River.</u></span> The map is especially notable because Ac Ko Mok Ki also included details about the numerous tribes that lived in the area.</p>",
+  "templateclusterid": "ee3ae562-3023-4fb8-a3a4-97c7f20f642b",
+  "parenttemplatename": "OSP-039-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "e75e8079-b757-458e-b8a7-3e4a41158dba",
+      "content": "<p>It emphasizes Ac Ko Mok Ki&rsquo;s desire to represent other tribes on the map.</p>"
+    },
+    {
+      "id": "79a03986-d90f-4418-bdd8-8e0c82f67d11",
+      "content": "<p>It explains how Ac Ko Mok Ki developed an interest in mapmaking.</p>"
+    },
+    {
+      "id": "4194f6af-7355-4ddd-a0d6-93ff8b534344",
+      "content": "<p>It identifies some reasons why the map is impressive.</p>"
+    },
+    {
+      "id": "20119afb-88cb-4fde-b07d-db95abdc4c08",
+      "content": "<p>It details how the map was used for hunting and trading purposes.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

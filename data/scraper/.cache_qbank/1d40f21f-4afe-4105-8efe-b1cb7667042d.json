@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best describes the overall structure of the text?</p>",
+  "stimulus": "<p>Asteroid 6478 Gault has experienced intermittent mass loss since at least 2013, but in contrast to some other asteroids with repeated mass-loss episodes, 6478 Gault has not lost mass at its perihelion (the closest point of its orbit to the Sun), and thus the loss is not attributable to solar energy&ndash;driven ice vaporization. And as Jane X. Luu et al. point out, the singular nature of impact ejection makes it untenable as an account of multiple loss episodes of similar duration over several years. Instead, Luu et al. are likely correct that 6478 Gault is shedding mass due to rotational instability.</p>",
+  "type": "mcq",
+  "keys": [
+    "2b19f9ff-de30-40d5-b6a0-9da31ce13cbc"
+  ],
+  "answerOptions": [
+    {
+      "id": "18268884-e455-47b8-9271-c7a83d21cdf8",
+      "content": "<p>It presents a scientific observation, describes a contrast between that observation and other observations, and then explains why those other observations should not be considered credible. &nbsp;</p>"
+    },
+    {
+      "id": "91176b27-2e0a-4f65-bc9f-16a9dfc3c631",
+      "content": "<p>It describes an astronomical finding, discusses competing theories about that finding that the author regards as flawed, and then describes new evidence that supports an alternative theory.</p>"
+    },
+    {
+      "id": "2b19f9ff-de30-40d5-b6a0-9da31ce13cbc",
+      "content": "<p>It introduces a natural phenomenon, refutes two potential explanations for that phenomenon, and then presents a third explanation for that phenomenon that the author regards as plausible.</p>"
+    },
+    {
+      "id": "16729b0c-f6b7-47d1-b413-6519fa85aa38",
+      "content": "<p>It discusses a physical process, evaluates possible causes of that process, and then states that a persuasive account of the process has yet to be put forward.</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most accurately describes the overall structure of the text. The text begins by introducing the natural phenomenon of intermittent mass loss with regard to Asteroid 6478 Gault and notes that it curiously has not lost mass at its perihelion like other asteroids typically do. The text then refutes \"solar energy&ndash;driven ice vaporization\" and \"the singular nature of impact ejection\" as two possible explanations for Asteroid 6478 Gault&rsquo;s intermittent mass loss. Finally, the text presents Luu et al.&rsquo;s explanation that \"6478 Gault is shedding mass due to rotational instability,\" which the author says is \"likely correct.\" Thus, the overall structure of the text is that it introduces a natural phenomenon, refutes two potential explanations for that phenomenon, and then presents a third explanation for that phenomenon that the author regards as plausible.</p><p>Choice A is incorrect because the text doesn&rsquo;t distinguish between multiple observations. It focuses on the single observation that Asteroid 6478 Gault is losing mass and evaluates multiple explanations for the phenomenon. The text also asserts that Luu et al.&rsquo;s explanation is credible and \"likely correct.\" Choice B is incorrect because the text describes a natural phenomenon, not a specific astronomical finding. In addition, although the text does note flawed reasons for Asteroid 6478 Gault&rsquo;s intermittent mass loss, it doesn&rsquo;t mention that Asteroid 6478 Gault&rsquo;s intermittent mass loss is based on new evidence. Choice D is incorrect. Although the text does evaluate explanations for the cause of Asteroid 6478 Gault&rsquo;s intermittent mass loss, the text also asserts that Luu et al.&rsquo;s explanation that they have put forth is persuasive and \"likely correct.\"</p>",
+  "externalid": "1d40f21f-4afe-4105-8efe-b1cb7667042d",
+  "correct_answer": [
+    "C"
+  ]
+}

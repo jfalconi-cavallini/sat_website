@@ -1,0 +1,38 @@
+{
+  "vaultid": "c829c6df-fe0d-4a67-82e7-04f88278bd1f",
+  "keys": [
+    "c9979039-61a5-4051-bcec-5cd526ea0e91"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most accurately describes how the underlined portion functions in the text as a whole. The first sentence presents the general claim that industrial activity is not always a threat to wildlife. The underlined portion of the sentence that follows suggests that the silver-studded blue butterfly is an example of wildlife thriving in areas of industrial activity: active limestone quarries. Thus, the function of the underlined portion is to introduce a specific example in support of the general claim in the previous sentence. </p><p>Choice A is incorrect. Although the first sentence indicates that &ldquo;industrial activity is often assumed&rdquo; to harm wildlife, in the case of the silver-studded blue butterfly the text mentions neither an assumption about this species nor any challenge to such an assumption. Choice C is incorrect because the text mentions only one study: the &ldquo;survey.&rdquo; Additional studies are not mentioned in the text. Choice D is incorrect because neither the underlined portion nor any other portion of the text provides a definition for any of the terms used in the text&rsquo;s argument. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes the function of the underlined portion in the text as a whole?</p>",
+  "externalid": "5ad6a8d1-72f4-46c4-a14a-7776f9c916f6",
+  "stimulus": "<p>Industrial activity is often assumed to be a threat to wildlife, but that isn&rsquo;t always so. <span role=\"region\" aria-label=\"Referenced Content\"><u>Consider the silver-studded blue butterfly (<em>Plebejus argus</em>)</u></span>: as forest growth has reduced grasslands in northern Germany, many of these butterflies have left meadow habitats and are now thriving in active limestone quarries. In a survey of multiple active quarries and patches of maintained grassland, an ecologist found silver-studded blue butterflies in 100% of the quarries but only 57% of the grassland patches. Moreover, butterfly populations in the quarries were four times larger than those in the meadows.</p>",
+  "templateclusterid": "c547c69d-b911-42be-82b8-7e333129ffe6",
+  "parenttemplatename": "OSP-006-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "65a3ce66-d63d-4b13-81c3-ac88bcd8a022",
+      "content": "<p>It challenges a common assumption about the species under investigation in the research referred to in the text.</p>"
+    },
+    {
+      "id": "c9979039-61a5-4051-bcec-5cd526ea0e91",
+      "content": "<p>It introduces discussion of a specific example that supports the general claim made in the previous sentence.</p>"
+    },
+    {
+      "id": "b15e0c75-fba4-4990-a955-6983f773dc4d",
+      "content": "<p>It suggests that a certain species should be included in additional studies like the one mentioned later in the text.</p>"
+    },
+    {
+      "id": "a6c2e055-2778-447d-8e7e-b79d8ebf6e40",
+      "content": "<p>It provides a definition for an unfamiliar term that is central to the main argument in the text.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

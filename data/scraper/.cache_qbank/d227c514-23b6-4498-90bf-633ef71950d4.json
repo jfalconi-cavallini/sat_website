@@ -1,0 +1,38 @@
+{
+  "vaultid": "bc6fd740-f9d9-4a79-bc2c-2f9b3ea3a060",
+  "keys": [
+    "d49a55a7-388b-4c87-9236-ff99625ebfa4"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most effectively illustrates the claim that Amal imagines the people he sees are carefree even when engaged in work. In the quotation, Amal observes that the flower seller&rsquo;s daughter is &ldquo;flower gathering,&rdquo; or working, as the text indicates. Moreover, Amal notes that the daughter&rsquo;s feet &ldquo;seem so glad&rdquo; and her &ldquo;anklets jingle so merrily,&rdquo; suggesting that Amal believes that the flower seller&rsquo;s daughter is cheerful. </p><p>Choice A is incorrect because the quotation makes no observation about the cheerful mood of the flower seller&rsquo;s daughter. Choice C is incorrect because the quotation discusses how Amal envisions his future, not the feelings of the flower seller&rsquo;s daughter. Choice D is incorrect because the quotation discusses Amal&rsquo;s wishes, not the feelings of the flower seller&rsquo;s daughter. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which quotation from <em>The Post Office </em>most effectively illustrates the claim?</p>",
+  "externalid": "d227c514-23b6-4498-90bf-633ef71950d4",
+  "stimulus": "<p><em>The Post Office </em>is a 1912 play by Rabindranath Tagore, originally written in Bengali. The character Amal is a young boy who imagines that the people he sees passing the window of his home are carefree even when engaged in work or chores, as is evident when he says to the daughter of a flower seller, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "3e4792a5-9658-42ee-84d7-228912f12c73",
+  "parenttemplatename": "OSP-402-LIT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "8630bd76-9ced-4367-bdfb-7e4d11e8fc8d",
+      "content": "<p>&ldquo;I see, you don&rsquo;t wish to stop; I don&rsquo;t care to stay on here either.&rdquo;</p>"
+    },
+    {
+      "id": "d49a55a7-388b-4c87-9236-ff99625ebfa4",
+      "content": "<p>&ldquo;Oh, flower gathering? That is why your feet seem so glad and your anklets jingle so merrily as you walk.&rdquo;</p>"
+    },
+    {
+      "id": "8ad4be81-4046-4016-a21f-d1e452f04607",
+      "content": "<p>&ldquo;I&rsquo;ll pay when I grow up&mdash;before I leave to look for work out on the other side of that stream there.&rdquo;</p>"
+    },
+    {
+      "id": "fd903b57-7bc6-43ce-8449-92e655a7359d",
+      "content": "<p>&ldquo;Wish I could be out too. Then I would pick some flowers for you from the very topmost branches right out of sight.&rdquo;</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

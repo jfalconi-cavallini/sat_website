@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best describes the function of the underlined portion in the text as a whole?</p>",
+  "stimulus": "<p>The following text is adapted from Herman Melville&rsquo;s 1855 novel <em>Israel Potter</em>. Israel is a young man wandering through New England during the late eighteenth century.</p>\n<blockquote>\n<p>He hired himself out for three months; at the end of that time to receive for his wages two hundred acres of land lying in New Hampshire. [...] His employer proving false to the contract in the matter of the land, and there being no law in the country to force him to fulfil it, Israel&mdash;<span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">who, however brave-hearted, and even much of a dare-devil upon a pinch, seems nevertheless to have evinced, throughout many parts of his career, a singular patience and mildness</span>&mdash;was obliged to look round for other means of livelihood than clearing out a farm for himself in the wilderness.</p>\n</blockquote>",
+  "type": "mcq",
+  "keys": [
+    "923d8ee0-8fe7-4551-9a6a-7657037ccd48"
+  ],
+  "answerOptions": [
+    {
+      "id": "4817ccd6-ff8e-4acd-8cda-fdc02c552706",
+      "content": "<p>It implies that Israel treasures a particular characteristic of his personality when that characteristic should usually be regarded as a flaw.</p>"
+    },
+    {
+      "id": "923d8ee0-8fe7-4551-9a6a-7657037ccd48",
+      "content": "<p>It suggests that if not for a certain aspect of his character, Israel might not have been as easily thwarted in his ambition to establish a farm.</p>"
+    },
+    {
+      "id": "93be9a34-6f97-4cb6-951f-dd8c00fa1021",
+      "content": "<p>It shows why Israel would not have been able to undertake the enormous amount of labor necessary to run a farm even if he had owned the necessary property.</p>"
+    },
+    {
+      "id": "f08a8e5c-c57b-44c6-ae25-377da9575f35",
+      "content": "<p>It explains why, when the situation requires it, Israel is able to undertake courageous acts that others would generally avoid.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it best describes the function of the underlined portion in the text as a whole. The text describes the failed attempt of Israel Potter to establish a farm in New England during the late eighteenth century: according to his contract, he was to receive two hundred acres in exchange for three months&rsquo; work, but his employer then refused to fulfill the bargain and Israel had no recourse to law to obtain the land he was owed. Israel was therefore forced to find another means of supporting himself. To explain why Israel was particularly susceptible to his employer&rsquo;s dishonesty, the underlined portion states that though Israel was \"brave-hearted, and even much of a dare-devil upon a pinch,\" he also possessed \"a singular patience and mildness.\" In other words, Israel could be courageous in certain circumstances, but he was usually meek and disinclined to argument, from which it is reasonable to infer that Israel was often taken advantage of. Thus, the underlined portion suggests that if not for a certain aspect of his character, Israel might not have been as easily thwarted in his ambition to establish a farm.</p><p>Choice A is incorrect because although the underlined portion describes aspects of Israel&rsquo;s personality, it does not address how he feels about his own personality. Choice C is incorrect because the underlined portion addresses Israel&rsquo;s occasional courage and frequent meekness but does not address whether he would have the skills and resolve necessary to operate a farm if he owned sufficient property. Choice D is incorrect. Though the underlined portion does indicate that Israel could be courageous in certain circumstances, it does not say that he undertook acts of courage that others avoided, but rather that he was habitually meek. Even if the underlined portion did say that Israel was more courageous than most, this would not explain why he found himself under the circumstances described in the text&mdash;that is, as a consequence of his meek nature, cheated of the property to which he had a right.</p>",
+  "externalid": "71c991c9-64ea-429d-a5f4-bd44dd6d470b",
+  "correct_answer": [
+    "B"
+  ]
+}

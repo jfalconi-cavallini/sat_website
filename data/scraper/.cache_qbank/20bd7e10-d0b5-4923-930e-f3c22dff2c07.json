@@ -1,0 +1,38 @@
+{
+  "vaultid": "99cca300-fd0e-49a0-88d2-f6833ae83ded",
+  "keys": [
+    "30fa8ec9-d592-4eb3-9eaf-1f6be6954ad6"
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents a finding that, if true, would most directly support the researchers&rsquo; hypothesis about the connection between the dusky shark population decline and the eastern oyster population decline. The text indicates that although dusky sharks don&rsquo;t usually eat eastern oysters, they do consume cownose rays, which are the main predators of eastern oysters. An increase in the abundance of cownose rays in the region in response to a decline in the abundance of dusky sharks would directly support the researchers&rsquo; hypothesis: a higher number of cownose rays would consume more eastern oysters, driving down the oyster population. </p><p>Choice A is incorrect because a finding that there&rsquo;s an association between a decline in the regional abundance of some of dusky sharks&rsquo; prey and the regional abundance of dusky sharks wouldn&rsquo;t directly support the researchers&rsquo; hypothesis that a decline in dusky sharks has led to a decline in eastern oysters in the region. Although such a finding might help explain why shark abundance has declined, it would reveal nothing about whether the shark decline is related to the oyster decline.&nbsp;Choice B is incorrect because a finding that eastern oyster abundance tends to be greater when dusky sharks and cownose rays are present than when only dusky sharks are present wouldn&rsquo;t support the researchers&rsquo; hypothesis that a decline in dusky sharks has led to a decline in eastern oysters in the region. The text indicates that the sharks prey on the rays, which are the main predators of the oysters; if oyster abundance is found to be greater when rays are present than when rays are absent, that would suggest that rays aren&rsquo;t keeping oyster abundance down, and thus that a decline in rays&rsquo; predators, which would be expected to lead to an increase in the abundance of rays, wouldn&rsquo;t bring about a decline in oyster abundance as the researchers hypothesize.&nbsp;Choice C is incorrect because a finding that consumption of eastern oysters by cownose rays increased substantially before dusky sharks declined in regional abundance wouldn&rsquo;t support the researchers&rsquo; hypothesis that the decline in dusky sharks has led to a decline in eastern oysters in the region. Such a finding would suggest that some factor other than shark abundance led to an increase in rays&rsquo; consumption of oysters and thus to a decrease in oyster abundance, thereby weakening the researchers&rsquo; hypothesis.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which finding, if true, would most directly support the researchers&rsquo; hypothesis?</p>",
+  "externalid": "20bd7e10-d0b5-4923-930e-f3c22dff2c07",
+  "stimulus": "<p>Researchers hypothesized that a decline in the population of dusky sharks near the mid-Atlantic coast of North America led to a decline in the population of eastern oysters in the region. Dusky sharks do not typically consume eastern oysters but do consume cownose rays, which are the main predators of the oysters.</p>",
+  "templateclusterid": "9b9ad600-baaf-41d6-804f-7f6bc3cb667c",
+  "parenttemplatename": "OSP-300-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "bc31b49d-5b33-4163-9f06-bfc7419edbb7",
+      "content": "<p>Declines in the regional abundance of dusky sharks&rsquo; prey other than cownose rays are associated with regional declines in dusky shark abundance.</p>"
+    },
+    {
+      "id": "92817105-20e0-4397-8dd1-f3c233d46506",
+      "content": "<p>Eastern oyster abundance tends to be greater in areas with both dusky sharks and cownose rays than in areas with only dusky sharks.</p>"
+    },
+    {
+      "id": "79208bdc-85f0-4d5f-a5ed-b68a0040b750",
+      "content": "<p>Consumption of eastern oysters by cownose rays in the region substantially increased before the regional decline in dusky shark abundance began.</p>"
+    },
+    {
+      "id": "30fa8ec9-d592-4eb3-9eaf-1f6be6954ad6",
+      "content": "<p>Cownose rays have increased in regional abundance as dusky sharks have decreased in regional abundance.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

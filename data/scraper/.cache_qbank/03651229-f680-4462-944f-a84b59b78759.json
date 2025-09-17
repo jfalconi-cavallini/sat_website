@@ -1,0 +1,38 @@
+{
+  "vaultid": "47f194ad-2224-40c4-b95c-cc0f6e6173b2",
+  "keys": [
+    "17d079c0-052b-4a15-afa7-30c231e354ea"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is finite and nonfinite verb forms within a sentence. A main clause requires a finite verb to perform the action of the subject (in this case, &ldquo;people in the Americas&rdquo;), and this choice supplies the finite past perfect tense verb &ldquo;have used&rdquo; to indicate what people in the Americas used the gourd for.&nbsp;</p><p>Choice A is incorrect because the nonfinite to-infinitive &ldquo;to use&rdquo; doesn&rsquo;t supply the main clause with a finite verb. Choice C is incorrect because the nonfinite participle &ldquo;having used&rdquo; doesn&rsquo;t supply the main clause with a finite verb. Choice D is incorrect because the nonfinite participle &ldquo;using&rdquo; doesn&rsquo;t supply the main clause with a finite verb. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "03651229-f680-4462-944f-a84b59b78759",
+  "stimulus": "<p>For thousands of years, people in the Americas <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the bottle gourd, a large bitter fruit with a thick rind, to make bottles, other types of containers, and even musical instruments. Oddly, there is no evidence that any type of bottle gourd is native to the Western Hemisphere; either the fruit or its seeds must have somehow been carried from Asia or Africa.</p>",
+  "templateclusterid": "11aafab7-cb50-458b-9d70-45ff10a0767e",
+  "parenttemplatename": "OSP-628-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "0040b7b6-a3ff-41ae-bd2d-75a7ba3bc513",
+      "content": "<p>to use</p>"
+    },
+    {
+      "id": "17d079c0-052b-4a15-afa7-30c231e354ea",
+      "content": "<p>have used</p>"
+    },
+    {
+      "id": "08d6a552-13a7-4496-83de-63c3bc94b724",
+      "content": "<p>having used</p>"
+    },
+    {
+      "id": "e48e646d-183d-42da-93b5-64e5050c3cc2",
+      "content": "<p>using</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

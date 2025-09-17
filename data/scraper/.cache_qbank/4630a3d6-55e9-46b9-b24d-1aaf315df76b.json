@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>With the development of new technologies that use natural resources more efficiently, the overall consumption of those resources might be expected to decrease. Economists have observed that improvements in efficiency often correlate negatively with resource <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> efficiency gains, lowering the cost of use, may increase demand to the extent that resource consumption ultimately rises.</p>",
+  "keys": [
+    "fae5f6c2-9df9-4ae9-8611-a8bdcdb7e6e5"
+  ],
+  "answerOptions": [
+    {
+      "id": "3899fb51-b2ce-4d59-bce2-4f87456966d6",
+      "content": "<p>conservation<span data-ssml-say-as=\"characters\">,</span> though<span data-ssml-say-as=\"characters\">,</span></p>"
+    },
+    {
+      "id": "12a66281-65b2-4d73-9b5f-1ff8ce8a2380",
+      "content": "<p>conservation<span data-ssml-say-as=\"characters\">;</span> though</p>"
+    },
+    {
+      "id": "fae5f6c2-9df9-4ae9-8611-a8bdcdb7e6e5",
+      "content": "<p>conservation<span data-ssml-say-as=\"characters\">,</span> though<span data-ssml-say-as=\"characters\">;</span></p>"
+    },
+    {
+      "id": "6b6826ce-5de1-4d89-8638-e4712fef114b",
+      "content": "<p>conservation<span data-ssml-say-as=\"characters\">,</span> though</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of punctuation within a sentence. This choice correctly uses a comma to separate the supplementary adverb \"though\" from the preceding main clause (\"Economists&hellip;conservation\") and uses a semicolon to join the next main clause (\"efficiency gains&hellip;rises\") to the rest of the sentence. Further, placing the semicolon after \"though\" indicates that the information in the preceding main clause (\"improvements in efficiency often correlate negatively with resource conservation\") is contrary to what might be assumed from the information in the previous sentence (resource consumption would be expected to decrease with the development of new, more efficient technologies).</p><p>Choice A is incorrect because it results in a comma splice. Commas can&rsquo;t be used in this way to punctuate a supplementary word or phrase between two main clauses. Choice B is incorrect because it fails to mark the boundary between the two main clauses (\"Economists...though\" and \"efficiency gains....rises\") with appropriate punctuation. Moreover, placing the semicolon after \"conservation\" illogically indicates that the information in the next clause (gains in efficiency may lead to an increase in resource consumption) is contrary to the information in the previous clause (\"improvements in efficiency often correlate negatively with resource conservation\"). Choice D is incorrect because placing a comma after \"conservation\" illogically indicates that the information in the next clause (gains in efficiency may lead to an increase in resource consumption) is contrary to the information in the previous clause (\"improvements in efficiency often correlate negatively with resource conservation\").</p>",
+  "externalid": "4630a3d6-55e9-46b9-b24d-1aaf315df76b",
+  "correct_answer": [
+    "C"
+  ]
+}

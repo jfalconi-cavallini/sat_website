@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>F&eacute;lix Gonz&aacute;lez-Torres debuted his sculpture <em>&ldquo;Untitled&rdquo; (USA Today)</em> in New York City in 1990. The work consists of piled candy, a material Gonz&aacute;lez-Torres became known for. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> created additional installations using a variety of sweets, like bubblegum, lollipops, and chocolates.</p>",
+  "type": "mcq",
+  "keys": [
+    "8f114605-9ed3-4125-bdde-eaa0157aae2e"
+  ],
+  "answerOptions": [
+    {
+      "id": "ea4f482b-3747-436b-9bbd-d91c0b47c487",
+      "content": "<p>They all</p>"
+    },
+    {
+      "id": "d505e0be-63c3-4e76-8882-65495222a8c8",
+      "content": "<p>Those</p>"
+    },
+    {
+      "id": "c386d9e0-49d1-4831-b23b-2c6f88e50f90",
+      "content": "<p>Both</p>"
+    },
+    {
+      "id": "8f114605-9ed3-4125-bdde-eaa0157aae2e",
+      "content": "<p>He</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is pronoun-antecedent agreement. The singular pronoun \"he\" agrees in number with the singular antecedent \"F&eacute;lix Gonz&aacute;lez-Torres,\" and it clearly indicates that Gonz&aacute;lez-Torres created the additional installations.</p><p>Choice A is incorrect because the plural noun phrase \"they all\" doesn&rsquo;t agree in number with the singular antecedent \"F&eacute;lix Gonz&aacute;lez-Torres,\" and it doesn&rsquo;t clearly indicate that he (Gonz&aacute;lez-Torres) created the additional installations. Choice B is incorrect because the plural pronoun \"those\" doesn&rsquo;t agree in number with the singular antecedent \"F&eacute;lix Gonz&aacute;lez-Torres,\" and it doesn&rsquo;t clearly indicate that he (Gonz&aacute;lez-Torres) created the additional installations. Choice C is incorrect because the plural pronoun \"both\" doesn&rsquo;t agree in number with the singular antecedent \"F&eacute;lix Gonz&aacute;lez-Torres,\" and it doesn&rsquo;t clearly indicate that he (Gonz&aacute;lez-Torres) created the additional installations.</p>",
+  "externalid": "e2571e58-9647-4c76-bee1-1ffb191506d2",
+  "correct_answer": [
+    "D"
+  ]
+}

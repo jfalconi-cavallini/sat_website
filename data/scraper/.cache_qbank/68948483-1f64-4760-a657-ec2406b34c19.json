@@ -1,0 +1,38 @@
+{
+  "vaultid": "11122aa7-4e6d-44e8-bb66-db68df180cd2",
+  "keys": [
+    "bb52f303-111d-41ef-b2f8-52a99c9be9ff"
+  ],
+  "rationale": "<p>Choice C is the best answer because it presents a finding that, if true, would weaken the claim made by people who favor the traditional view of voter behavior. According to the text, people who favor that view believe that voting in an election doesn&rsquo;t change a voter&rsquo;s attitude toward the candidates in that election. If Washington and Mullainathan found that two years after an election, attitudes toward the winning candidate were significantly more polarized among subjects who had voted than among subjects who had been too young to vote, that would suggest that the act of voting did have an effect on the voters&rsquo; attitudes toward the candidates, which would undermine the claim that voting doesn&rsquo;t change voters&rsquo; attitudes. </p><p>Choice A is incorrect because a finding about links between subjects&rsquo; attitudes and general political orientation, regardless of age and ability to vote, wouldn&rsquo;t address the presence or absence of changes in attitudes among those subjects who did actually vote. Therefore, the finding wouldn&rsquo;t have any bearing on the claim that voting in an election doesn&rsquo;t change a voter&rsquo;s attitude toward the candidates in that election. Choice B is incorrect because a finding that positive attitudes toward a winning candidate significantly increased in the two years after the election among subjects who had been too young to vote would involve only people who didn&rsquo;t vote; therefore, the finding wouldn&rsquo;t have any bearing on the claim that when people do vote, the act of voting doesn&rsquo;t change their attitudes toward the candidates. Choice D is incorrect because the finding that subjects in both groups were more likely to have negative attitudes than positive attitudes toward the winning candidate two years after an election would reflect all subjects&rsquo; attitudes at one particular time whether they voted or not, rather than the presence or absence of a change in voters&rsquo; attitudes after voting. Therefore, the finding would neither weaken nor strengthen the claim that voting in an election doesn&rsquo;t change a voter&rsquo;s attitude toward the candidates. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which finding from Washington and Mullainathan&rsquo;s study, if true, would most directly weaken the claim made by people who favor the traditional view of voter behavior?</p>",
+  "externalid": "68948483-1f64-4760-a657-ec2406b34c19",
+  "stimulus": "<p>Political scientists who favor the traditional view of voter behavior claim that voting in an election does not change a voter&rsquo;s attitude toward the candidates in that election. Focusing on each US presidential election from 1976 to 1996, Ebonya Washington and Sendhil Mullainathan tested this claim by distinguishing between subjects who had just become old enough to vote (around half of whom actually voted) and otherwise similar subjects who were slightly too young to vote (and thus none of whom voted). Washington and Mullainathan compared the attitudes of the groups of subjects toward the winning candidate two years after each election.</p>",
+  "templateclusterid": "032f9af1-dc63-42f7-8e4b-5d5432ebf947",
+  "parenttemplatename": "OSP-307-TXT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "a248eb5e-1952-4721-9932-4a25eed57bb4",
+      "content": "<p>Subjects&rsquo; attitudes toward the winning candidate two years after a given election were strongly predicted by subjects&rsquo; general political orientation, regardless of whether subjects were old enough to vote at the time of the election.</p>"
+    },
+    {
+      "id": "39946272-07fb-4bd1-84fa-f9c8f6fcc005",
+      "content": "<p>Subjects who were not old enough to vote in a given election held significantly more positive attitudes towards the winning candidate two years later than they held at the time of the election.</p>"
+    },
+    {
+      "id": "bb52f303-111d-41ef-b2f8-52a99c9be9ff",
+      "content": "<p>Subjects who voted in a given election held significantly more polarized attitudes toward the winning candidate two years later than did subjects who were not old enough to vote in that election.</p>"
+    },
+    {
+      "id": "0607f2ef-9470-4d63-878d-623156e3626e",
+      "content": "<p>Two years after a given election, subjects who voted and subjects who were not old enough to vote were significantly more likely to express negative attitudes than positive attitudes toward the winning candidate in that election.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

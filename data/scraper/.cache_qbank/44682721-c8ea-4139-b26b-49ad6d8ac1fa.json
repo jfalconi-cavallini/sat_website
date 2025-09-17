@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice most effectively uses data from the table to complete the statement?</p>",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Partial List of Candidate Species for De-extinction</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Common name</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Scientific name</th><th scope=\"col\" style=\"text-align: center;vertical-align: bottom;\">Became extinct</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">Huia</th><td><em>Heteralocha acutirostris</em></td><td style=\"text-align: center;\">1907</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Caribbean monk seal</th><td><em>Monachus tropicalis</em></td><td style=\"text-align: center;\">1952</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Passenger pigeon</th><td><em>Ectopistes migratorius</em></td><td style=\"text-align: center;\">1914</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Saber-toothed cat</th><td><em>Smilodon</em></td><td style=\"text-align: center;\">11,000 years before present</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Woolly mammoth</th><td><em>Mammuthus primigenius</em></td><td style=\"text-align: center;\">6,400 years before present</td></tr></tbody></table></figure></p>\n<p>The passage of time is among the many obstacles faced by scientists who are pursuing de-extinction efforts&mdash;that is, efforts to use breeding or a mixture of cloning and genetic engineering to bring back extinct species. Specifically, researchers are concerned that the longer a species has been extinct, the less likely it is that a suitable habitat still exists for that species. Among candidate species for de-extinction, this problem would be especially concerning for the <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "9a209fe4-34b5-4cd3-8042-fdc85cd85677"
+  ],
+  "answerOptions": [
+    {
+      "id": "17db85ed-56cd-40e8-b1a9-a68e331d8ab7",
+      "content": "<p>passenger pigeon<em> </em>(<em>Ectopistes migratorius</em>), which became extinct only a few years after the huia (<em>Heteralocha acutirostris</em>).</p>"
+    },
+    {
+      "id": "9a209fe4-34b5-4cd3-8042-fdc85cd85677",
+      "content": "<p>saber-toothed cat (<em>Smilodon</em>), which became extinct 11,000 years ago.</p>"
+    },
+    {
+      "id": "d8b74b86-d5b1-4754-93f5-4481bc28dd89",
+      "content": "<p>woolly mammoth (<em>Mammuthus primigenius</em>), which became extinct several thousand years before the saber-toothed cat (<em>Smilodon</em>).</p>"
+    },
+    {
+      "id": "e8625790-0da1-458a-b8f6-66b061c0329f",
+      "content": "<p>Caribbean monk seal (<em>Monachus tropicalis</em>), which became extinct in 1952.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it uses data from the table to complete the statement regarding a species for which the problem of finding a suitable habitat would be especially concerning. For each candidate species, the table lists its common name, scientific name, and when the species became extinct. The text explains that scientists pursuing de-extinction for the candidate species also consider the length of time that has passed since the species&rsquo; extinction, noting that the longer the animal has been extinct, the less likely it is that a suitable habitat would exist for the species today. The possibility of not having a suitable habitat would be especially concerning for the candidate species for which the most time has passed since its extinction. According to the table this species would be the saber-toothed cat, which became extinct 11,000 years before present.</p><p>Choice A is incorrect because it compares the time since the extinction of the passenger pigeon to the time since the extinction of the huia instead of citing the species listed in the table that has been extinct the longest (the saber-toothed cat). The text indicates that the longer a species has been extinct, the lower the chances are that a suitable habitat exists for it today. Neither the table nor the text supports the claim that the passenger pigeon is especially vulnerable to this problem. Choice C is incorrect because the text states that the longer a species has been extinct, the less likely it is that there would be a suitable habitat available for the species today. So, the problem would be especially concerning for the saber-toothed cat, which became extinct several thousand years before the woolly mammoth did&mdash;not the other way around. Choice D is incorrect because the text states that the longer a species has been extinct, the lower the chances are that a suitable habitat would be available for that species today. According to the table, the Caribbean monk seal became extinct in 1952, which is the most recent extinction listed for a candidate species in the table.</p>",
+  "externalid": "44682721-c8ea-4139-b26b-49ad6d8ac1fa",
+  "correct_answer": [
+    "B"
+  ]
+}

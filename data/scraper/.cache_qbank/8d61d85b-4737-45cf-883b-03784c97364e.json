@@ -1,0 +1,38 @@
+{
+  "vaultid": "3e18d252-fac7-4bee-972a-2a5dcf3aa20e",
+  "keys": [
+    "104b2d64-c06e-43b2-bacc-901a6525d4f4"
+  ],
+  "rationale": "<p>Choice C is the best answer. The sentence explains an advantage of the Hanke-Henry calendar, noting that it supports more predictable scheduling than does the Gregorian calendar and describing how it does so (by having calendar dates occur on the same day each year). </p><p>Choice A is incorrect. The sentence compares the number of days in the Gregorian and Hanke-Henry calendars; it doesn&rsquo;t explain an advantage of the Hanke-Henry calendar. Choice B is incorrect. While the sentence refers to a possible reason to adopt the Hanke-Henry calendar&mdash;that doing so would help solve a problem with the Gregorian calendar&mdash;it doesn&rsquo;t identify the problem or the solution and thus doesn&rsquo;t explain the advantage of the Hanke-Henry calendar. Choice D is incorrect. The sentence describes the origins of the Hanke-Henry calendar; it doesn&rsquo;t explain an advantage of it. </p>",
+  "origin": "proteus",
+  "stem": "<p>The student wants to explain an advantage of the Hanke-Henry calendar. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "externalid": "8d61d85b-4737-45cf-883b-03784c97364e",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>The calendar used by most of the world (the Gregorian calendar) has 365 days.</li>\n<li>Because 365 days can&rsquo;t be divided evenly by 7 (the number of days in a week), calendar dates fall on a different day of the week each year.</li>\n<li>The Hanke-Henry permanent calendar, developed as an alternative to the Gregorian calendar, has 364 days.</li>\n<li>Because 364 can be divided evenly by 7, calendar dates fall on the same day of the week each year, which supports more predictable scheduling.</li>\n</ul>",
+  "templateclusterid": "d40f711a-323c-42d6-85f4-76f565602bfa",
+  "parenttemplatename": "OSP-742-SYN",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "2b0c0eda-8c81-478c-a20c-67eba6fdfbab",
+      "content": "<p>The Gregorian calendar has 365 days, which is one day longer than the Hanke-Henry permanent calendar.</p>"
+    },
+    {
+      "id": "45877ee0-0e23-40d1-bf0c-425d4c221279",
+      "content": "<p>Adopting the Hanke-Henry permanent calendar would help solve a problem with the Gregorian calendar.</p>"
+    },
+    {
+      "id": "104b2d64-c06e-43b2-bacc-901a6525d4f4",
+      "content": "<p>Designed so calendar dates would occur on the same day of the week each year, the Hanke-Henry calendar supports more predictable scheduling than does the Gregorian calendar.</p>"
+    },
+    {
+      "id": "dbd36cdc-f336-4f8c-a35c-f749fe622ecb",
+      "content": "<p>The Hanke-Henry permanent calendar was developed as an alternative to the Gregorian calendar, which is currently the most-used calendar in the world.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

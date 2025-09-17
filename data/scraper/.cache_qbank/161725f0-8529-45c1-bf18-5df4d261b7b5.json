@@ -1,0 +1,38 @@
+{
+  "vaultid": "05f82afb-da14-4564-bf4d-0d7813b4c94b",
+  "keys": [
+    "d11d1369-413e-4fed-b0ae-cec8106f7264"
+  ],
+  "rationale": "<p>Choice D is the best answer. &ldquo;For instance&rdquo; logically signals that the details in this sentence&mdash;that Mexican conductor Alondra de la Parra and Colombian conductor Lina Gonzalez-Granados took new conducting positions&mdash;are examples supporting the previous claim about the new generation of artists. </p><p>Choice A is incorrect because &ldquo;in addition&rdquo; illogically signals that the details in this sentence about de la Parra and Gonzalez-Granados are merely additional facts related to the previous claim about the new generation of artists. Instead, they are examples supporting that claim. Choice B is incorrect because &ldquo;lastly&rdquo; illogically signals that the details in this sentence about de la Parra and Gonzalez-Granados are the last step or a concluding summary of the previous claim about the new generation of artists. Instead, they are examples supporting that claim. Choice C is incorrect because &ldquo;granted&rdquo; illogically signals that the details in this sentence about de la Parra and Gonzalez-Granados are exceptions to the previous claim about the new generation of artists. Instead, they are examples supporting that claim. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "161725f0-8529-45c1-bf18-5df4d261b7b5",
+  "stimulus": "<p>Historically, most conductors of major orchestras and opera companies have been European men, but a new, more diverse generation of artists is stepping up to the podium. Mexico&rsquo;s Alondra de la Parra took over as conductor for the Queensland Symphony Orchestra in 2017, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> and Colombia&rsquo;s Lina Gonzalez-Granados did the same for the Los Angeles Opera in 2022.</p>",
+  "templateclusterid": "a9f50ae8-6d7a-45af-a1df-4f0c1d167e34",
+  "parenttemplatename": "OSP-263-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "a80bb90a-29e7-4b1d-93b0-077f37692545",
+      "content": "<p>in addition,</p>"
+    },
+    {
+      "id": "7c601bf8-4f6a-49f9-9660-59f8dd18e014",
+      "content": "<p>lastly,</p>"
+    },
+    {
+      "id": "490e9944-79b5-406d-a440-54eeed3d924e",
+      "content": "<p>granted,</p>"
+    },
+    {
+      "id": "d11d1369-413e-4fed-b0ae-cec8106f7264",
+      "content": "<p>for instance,</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

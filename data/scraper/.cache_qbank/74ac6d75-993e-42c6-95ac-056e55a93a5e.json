@@ -1,0 +1,38 @@
+{
+  "vaultid": "e79fa876-c63e-46b3-bb1e-ce87077a7c15",
+  "keys": [
+    "dc7db18f-19ed-451c-911f-ea2ad7c66e74"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most effectively illustrates the claim that Mart&iacute; argues that a society&rsquo;s spiritual well-being depends on the character of its literary culture. In the quotation, Mart&iacute; asserts that poetry is &ldquo;more necessary to a people than industry itself&rdquo; and that it has the power to provide people with &ldquo;faith and vigor.&rdquo; He also adds that literature gives people &ldquo;the desire and strength for life.&rdquo; Therefore, this quotation shows that Mart&iacute; believes that literature is a societal necessity because it uplifts people and nourishes their spiritual well-being. </p><p>Choice B is incorrect. Although this quotation emphasizes the importance of literature, it focuses on how the nature of a society is reflected in that society&rsquo;s literature rather than on literature&rsquo;s value for people&rsquo;s spiritual well-being. Choice C is incorrect. Although this quotation involves an element of spirituality, it doesn&rsquo;t discuss literature. The quotation instead focuses on humanity&rsquo;s actions. Choice D is incorrect because this quotation mainly focuses on the importance of Walt Whitman rather than on the value of literature in general. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which quotation from a translation of &ldquo;The Poet Walt Whitman&rdquo; most effectively illustrates the claim?</p>",
+  "externalid": "74ac6d75-993e-42c6-95ac-056e55a93a5e",
+  "stimulus": "<p>&ldquo;The Poet Walt Whitman&rdquo; is an 1887 essay by Jos&eacute; Mart&iacute;, a Cuban author and political activist, originally written in Spanish. In the essay, Mart&iacute; explores the value of literature, arguing that a society&rsquo;s spiritual well-being depends on the character of its literary culture: <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "68bab97f-073d-4295-9c39-b420417bd5cd",
+  "parenttemplatename": "OSP-411-LIT",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "dc7db18f-19ed-451c-911f-ea2ad7c66e74",
+      "content": "<p>&ldquo;Poetry, which brings together or separates, which fortifies or brings anguish, which shores up or demolishes souls, which gives or robs men of faith and vigor, is more necessary to a people than industry itself, for industry provides them with a means of subsistence, while literature gives them the desire and strength for life.&rdquo;</p>"
+    },
+    {
+      "id": "110e2860-258b-4710-84d0-53debef8ecd7",
+      "content": "<p>&ldquo;Every society brings to literature its own form of expression, and the history of the nations can be told with greater truth by the stages of literature than by chronicles and decades.&rdquo;</p>"
+    },
+    {
+      "id": "71013c7d-f641-491f-a908-6e59ad7b686a",
+      "content": "<p>&ldquo;Where will a race of men go when they have lost the habit of thinking with faith about the scope and meaning of their actions? The best among them, those who consecrate Nature with their sacred desire for the future, will lose, in a sordid and painful annihilation, all stimulus to alleviate the ugliness of humanity.&rdquo;</p>"
+    },
+    {
+      "id": "09cea4fa-d2e8-4a15-a05d-306136f735d2",
+      "content": "<p>&ldquo;Listen to the song of this hardworking and satisfied nation; listen to Walt Whitman. The exercise of himself exalts him to majesty, tolerance exalts him to justice, and order to joy.&rdquo;</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>Tatiana R. Feuerborn and colleagues analyzed the genomes of more than a hundred domesticated dogs from sites in Siberia dating from 11,000 years ago to the present. They found that the dogs constituted a genetically isolated population of Arctic breeds until approximately 2,000 years ago, at which point there was substantial interbreeding with Near Eastern dog breeds. Furthermore, beginning around 2,000 years ago, some sites contain artifacts consistent with a Near East origin, like glass beads, but the people show no evidence of having traveled extensively outside Siberia. From this, Feuerborn and colleagues concluded that around 2,000 years ago <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "7ba1f6ab-e5df-4f8e-81e0-36806645aed1"
+  ],
+  "answerOptions": [
+    {
+      "id": "7ba1f6ab-e5df-4f8e-81e0-36806645aed1",
+      "content": "<p>dogs and artifacts like glass beads began to be transported from the Near East to Siberia.&nbsp;</p>"
+    },
+    {
+      "id": "a705b63f-33ee-4378-b1e1-1b180d38182e",
+      "content": "<p>people from Siberia began to reach the Near East, where they acquired dogs and artifacts such as glass beads.</p>"
+    },
+    {
+      "id": "8367d2c4-3892-4c27-8a56-6e1711081d35",
+      "content": "<p>glass beads and other artifacts from the Near East began to be exchanged for dogs from Siberia.&nbsp;</p>"
+    },
+    {
+      "id": "90bb9dac-3482-4ac7-aa55-f2b8cbbfe804",
+      "content": "<p>dogs from the Near East began to be exchanged for glass beads and other artifacts from Siberia.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it presents the conclusion that most logically follows from the text&rsquo;s discussion of Feuerborn and colleagues&rsquo; findings about sites in Siberia. The text states that genomic analysis of many domesticated dogs from Siberian sites dating from the last 11,000 years revealed that the dogs represented a genetically isolated population of breeds (that is, they didn&rsquo;t reproduce with dogs of any outside breeds) until about 2,000 years ago, when there is evidence that the dogs began interbreeding with breeds from the Near East. The text also indicates that around the same time, the sites began to contain glass beads and other artifacts seeming to be from the Near East, even though there is no evidence that the people of those sites traveled widely outside Siberia. Because there is evidence of Near East dog breeds and Near East artifacts at Siberian sites beginning about 2,000 years ago but no evidence of the people&rsquo;s travel to the Near East around that time, it&rsquo;s reasonable to infer that Feuerborn and colleagues concluded that dogs and artifacts like glass beads were transported to Siberia from the Near East, starting around 2,000 years ago.</p><p>Choice B is incorrect because the text explicitly states that there is no evidence that the people of the Siberian sites 2,000 years ago traveled extensively beyond Siberia, which they would&rsquo;ve had to do to reach the Near East; therefore, it wouldn&rsquo;t make sense to conclude that the presence of Near East dog breeds and artifacts like glass beads suggests that people from Siberia began arriving in the Near East around 2,000 years ago. Choice C is incorrect because the text addresses the presence of Near East dog breeds (and evidence of interbreeding with Siberian dogs) and artifacts like glass beads at Siberian sites starting about 2,000 years ago, suggesting only that the dogs and artifacts started to arrive in Siberia around that time. The text doesn&rsquo;t suggest the purpose of the arrival of the Near East dogs and artifacts or give any indication of Siberian dog breeds being transported elsewhere through trade. Choice D is incorrect because the text addresses the presence of Near East dog breeds and artifacts like glass beads at Siberian sites starting about 2,000 years ago, suggesting only that the dogs and artifacts started to arrive in Siberia around that time; it doesn&rsquo;t suggest the purpose of this arrival and makes no mention of Siberian glass beads or other artifacts of Siberian origin.</p>",
+  "externalid": "c5230ce5-749f-4f41-9ac4-10c8db7858c6",
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>What does the text most strongly suggest about the story of Hans Castorp?</p>",
+  "stimulus": "<p>The following text is from Thomas Mann&rsquo;s <span data-ssml-say-as=\"date\">1924</span> novel <em>The Magic Mountain</em>, translated by John <span data-ssml-sub-alias=\"E\">E.</span> Woods in <span data-ssml-say-as=\"date\">1995</span>.</p>\n<blockquote>\n<p>The story of Hans Castorp that we intend to tell here&mdash;not for his sake (for the reader will come to know him as a perfectly ordinary, if engaging young man), but for the sake of the story itself, which seems to us to be very much worth telling (although in Hans Castorp&rsquo;s favor it should be noted that it is <em>his </em>story, and that not every story happens to everybody)&mdash;is a story that took place long ago, and is, so to speak, covered with the patina of history and must necessarily be told with verbs whose tense is that of the deepest past.</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;<span data-ssml-say-as=\"date\">1995</span> by Alfred <span data-ssml-sub-alias=\"A\">A.</span> Knopf, Inc.</span></p>",
+  "keys": [
+    "ee56ab8c-dfdb-42dc-8ac8-1bef5fb12d10"
+  ],
+  "answerOptions": [
+    {
+      "id": "58664634-5150-4596-9cff-d4075a082586",
+      "content": "<p>Though it is true that stories of even the most uninteresting people are themselves interesting because all people are unique, the reason this story is interesting is nonetheless difficult to understand because of the passage of time.</p>"
+    },
+    {
+      "id": "b6a4117f-b3eb-4bbe-94e8-bf776e62001f",
+      "content": "<p>Even though it is a story of a person of no particular importance, its age and the manner in which it therefore must be told are both indicators that the story itself is important.</p>"
+    },
+    {
+      "id": "6a1cc46d-1f24-4330-99b5-da5c787f7442",
+      "content": "<p>Like all stories about the lives of inconsequential people, this story must necessarily be related in a particular way if the reason the story is consequential is to be made evident to the audience.</p>"
+    },
+    {
+      "id": "ee56ab8c-dfdb-42dc-8ac8-1bef5fb12d10",
+      "content": "<p>It is a remarkable story that happened to an unremarkable person, though one could plausibly argue that because the story is valuable, some of its value accrues to the person at its center.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents a statement about Hans Castorp&rsquo;s story that is suggested by the text. The narrator of the text indicates that the story about Hans Castorp will be told not because there is something particularly notable about him, since he is pleasant but \"perfectly ordinary,\" but because the story itself is remarkable (\"very much worth telling\"). The narrator then notes that there is a benefit in being at the heart of the story&mdash;that it is \"in Hans Castorp&rsquo;s favor\" that the story is his, and maybe uniquely so (\"not every story happens to everybody\"). Thus, the text suggests both that the story that will be told is a remarkable one that happened to an unremarkable person and that it is reasonable to argue that the person at the center of a valuable story takes on some of the story&rsquo;s value.</p><p>Choice A is incorrect. Although the narrator of the text makes the point that \"not every story happens to everybody,\" the narrator doesn&rsquo;t state that stories are interesting simply because the people they are about are unique. Rather, the narrator suggests that one particular story is \"very much worth telling\" on its own and that Hans Castorp benefits from the fact that the story is remarkable and may be unique to him. Further, the narrator never suggests that the story will be hard to understand even though it is old. Choice B is incorrect. Although the narrator of the text suggests that Hans Castorp is of no particular importance, since he is a \"perfectly ordinary\" person, the narrator never reveals what makes the story of Castorp important, just that \"the story itself\" is \"very much worth telling.\" The narrator states that the story \"took place long ago,\" is \"covered with the patina of history,\" and can be told only \"with verbs whose tense is that of the deepest past,\" but the story&rsquo;s age and the way it must be told aren&rsquo;t presented as reasons the story is important; the narrator is simply providing details about how the story will be told. Choice C is incorrect because the narrator of the text doesn&rsquo;t suggest that all stories about people who are \"perfectly ordinary\" (like Hans Castorp) must be told in particular ways to make it clear why those stories are consequential. Further, the narrator suggests that Hans Castorp&rsquo;s story must be told \"with verbs whose tense is that of the deepest past\" because it took place so long ago, not because telling it that way will convey the story&rsquo;s importance.</p>",
+  "externalid": "6960936d-6e14-4293-8e40-181d7e56b513",
+  "correct_answer": [
+    "D"
+  ]
+}

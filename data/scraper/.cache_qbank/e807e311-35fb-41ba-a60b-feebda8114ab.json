@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best describes what is happening in the text?</p>",
+  "stimulus": "<p>The following text is adapted from Ann Petry&rsquo;s 1946 novel <em>The Street</em>. Lutie lives in an apartment in Harlem, New York.</p>\n<blockquote>\n<p>The glow from the sunset was making the street radiant. The street is nice in this light, [Lutie] thought. It was swarming with children who were playing ball and darting back and forth across the sidewalk in complicated games of tag. Girls were skipping double dutch rope, going tirelessly through the exact center of a pair of ropes, jumping first on one foot and then the other.</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;1946 by Ann Petry</span></p>",
+  "type": "mcq",
+  "keys": [
+    "392ea73f-95fd-4412-b52b-89309238e2bb"
+  ],
+  "answerOptions": [
+    {
+      "id": "392ea73f-95fd-4412-b52b-89309238e2bb",
+      "content": "<p>Lutie is observing the appearance of the street at a particular time of day and the events occurring on it.</p>"
+    },
+    {
+      "id": "2d0c434c-ef90-4b1d-a574-6a3cfbc50a8c",
+      "content": "<p>Lutie is annoyed by the noise of children playing games on her street.</p>"
+    },
+    {
+      "id": "5590c57b-8931-44bc-8cfa-936e5bbe525d",
+      "content": "<p>Lutie is puzzled by the rules of certain children&rsquo;s games.</p>"
+    },
+    {
+      "id": "5f4a3ec4-96dd-471a-8598-5703d45ab1f9",
+      "content": "<p>Lutie is spending time alone in her apartment because she doesn&rsquo;t want to interact with her neighbors.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most accurately states what is happening in the text. The narrator notes that Lutie thinks the street looks nice in the light of the sunset. The narrator goes on to describe what Lutie can see in the street: children playing ball or tag and girls skipping rope. Thus, what is happening in the text is that Lutie is observing the appearance of the street at a particular time of day and the events occurring on it.</p><p>Choice B is incorrect. Although Lutie is observing children playing games on her street, the text doesn&rsquo;t suggest that she is annoyed by the noise of the games. Instead, the text says that Lutie thinks the street looks nice in the light of the sunset. Choice C is incorrect. Although Lutie is observing children playing games on her street, the text doesn&rsquo;t suggest that she is puzzled by the rules of the games. Choice D is incorrect because there is no evidence in the text that Lutie doesn&rsquo;t want to interact with her neighbors or that she is in her apartment alone. All the text indicates about Lutie is that she is watching the events on the street and thinks the street looks nice in the light of the sunset.</p>",
+  "externalid": "e807e311-35fb-41ba-a60b-feebda8114ab",
+  "correct_answer": [
+    "A"
+  ]
+}

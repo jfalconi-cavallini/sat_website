@@ -1,0 +1,38 @@
+{
+  "vaultid": "0aa2c4d8-dffc-4980-af72-559ea69184dc",
+  "keys": [
+    "05f1ba00-9134-4e9a-9741-f6cc6f12864f"
+  ],
+  "rationale": "<p>Choice C is the best answer because it reflects how the author of Text 2 would respond to the claims in Text 1. Both texts address skills needed to produce digital art. Text 1 claims that digital art doesn&rsquo;t require the same amount of skill as creating physical art and that &ldquo;the technology is doing most of the work.&rdquo; Text 2 states that digital art requires &ldquo;knowing the fundamentals of art&rdquo; and that many digital artists begin their work on paper and then transfer it to a digital format using &ldquo;sophisticated software&rdquo; and &ldquo;a variety of colors and techniques.&rdquo; Therefore, the author of Text 2 would most likely insist that digital art requires artistic abilities even if it employs less traditional tools. </p><p>Choice A is incorrect because neither text discusses nondigital means of displaying art. Choice B is incorrect because the author of Text 2 doesn&rsquo;t address whether it&rsquo;s harder to use a tablet and stylus than it is to use paint and a brush. Text 2 does argue that digital art requires skills that aren&rsquo;t part of the traditional methods for producing art, but the text doesn&rsquo;t address relative difficulty. Choice D is incorrect because the author of Text 2 states that digital artists still need to know &ldquo;the fundamentals of art&rdquo; and that many digital artists begin their work by drafting on paper before transferring the work to a digital format. </p>",
+  "origin": "proteus",
+  "stem": "<p>Based on the texts, how would the author of Text 2 most likely respond to the claims of the author of Text 1?&nbsp;</p>",
+  "externalid": "6ea6be63-d92d-4ba8-8655-262858f55e62",
+  "stimulus": "<p>&nbsp;</p><p><span aria-level=\"2\" role=\"heading\"><strong>Text 1</strong></span></p>\n<p>Digital art, the use of digital technology to create or display images, isn&rsquo;t really art at all. It doesn&rsquo;t require as much skill as creating physical art. &ldquo;Painting&rdquo; with a tablet and stylus is much easier than using paint and a brush: the technology is doing most of the work.</p>\n<p>&nbsp;</p><p><span aria-level=\"2\" role=\"heading\"><strong>Text 2</strong></span></p>\n<p>The painting programs used to create digital art involve more than just pressing a few buttons. In addition to knowing the fundamentals of art, digital artists need to be familiar with sophisticated software. Many artists will start by drawing an image on paper before transforming the piece to a digital format, where they can apply a variety of colors and techniques that would otherwise require many different traditional tools. </p>",
+  "templateclusterid": "ad04f83d-0100-44aa-928a-fc6934c95bf5",
+  "parenttemplatename": "OSP-012-CTC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "f0076977-6e11-445f-909d-a32a60e7ce96",
+      "content": "<p>By arguing that a piece of art created digitally can still be displayed traditionally</p>"
+    },
+    {
+      "id": "853fcaa7-91b1-410d-a361-000cb3d24016",
+      "content": "<p>By explaining that it&rsquo;s actually much harder to use a tablet and stylus to create art than to use paint and a brush</p>"
+    },
+    {
+      "id": "05f1ba00-9134-4e9a-9741-f6cc6f12864f",
+      "content": "<p>By insisting that digital art requires artistic abilities and skill even if it employs less traditional tools</p>"
+    },
+    {
+      "id": "d0833b56-143d-4c7d-847d-99318cff37ee",
+      "content": "<p>By admitting that most digital artists don&rsquo;t think fundamental drawing skills are important</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>The early British postal system required the cost of mail delivery to be paid upon receipt, a system which encouraged inventive strategies by the intended recipient to avoid payment. To improve this system, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> were proposed in 1837, including the use of a postage stamp, a small receipt pasted to the mail indicating that delivery costs had been paid by the sender.</p>",
+  "type": "mcq",
+  "keys": [
+    "e0649a32-44ef-4ec7-899c-dd269e84f51e"
+  ],
+  "answerOptions": [
+    {
+      "id": "d76bb8ef-19f5-4f81-9636-37af3a742f24",
+      "content": "<p>investigations</p>"
+    },
+    {
+      "id": "6a5935cb-d9b0-45ab-ad42-fbe2e7e505e1",
+      "content": "<p>expansions</p>"
+    },
+    {
+      "id": "e0649a32-44ef-4ec7-899c-dd269e84f51e",
+      "content": "<p>reforms</p>"
+    },
+    {
+      "id": "629e0b05-2469-476c-bf6b-b0f7274068e4",
+      "content": "<p>possessions</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of the early British postal system. In this context, \"reforms\" most nearly means attempts at improving something. The text indicates that the pay-upon-delivery postage method led to fee avoidance on the part of recipients. It then says that action was taken to improve the postal system, giving examples such as the move to having the sender pay and affixing stamps to indicate payment had been received. These represent revisions to the system intended to improve its functioning; therefore, \"reforms\" most logically completes the text.</p><p>Choice A is incorrect. In this context, \"investigations\" most nearly means attempts to understand something. And although it is plausible that an attempt to improve the postal system would involve investigations, nothing in the text provides a logical basis for understanding the example of changes like affixing stamps to letters as an investigation. Choice B is incorrect. In this context, \"expansions\" most nearly means additions to something. Although the text indicates that some new policies were adopted, nothing in the text suggests that the overall number of policies increased, which expansions would seem to entail. Choice D is incorrect. In this context, \"possessions\" most nearly means items of personal property or things that otherwise belong to, or are part of, something. The text provides no logical context for understanding changes like affixing stamps to letters as possessions.</p>",
+  "externalid": "16ffff21-d68d-458f-b3ba-778145a5ffcd",
+  "correct_answer": [
+    "C"
+  ]
+}

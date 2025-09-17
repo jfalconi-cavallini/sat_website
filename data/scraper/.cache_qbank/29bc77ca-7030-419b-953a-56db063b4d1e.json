@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>The liquid metals in Earth&rsquo;s core circulate constantly, and this circulation generates electrical currents that flow between Earth&rsquo;s North and South magnetic poles. These electrical currents, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> create a barrier around Earth that protects us from radiation and charged particles coming from space.</p>",
+  "type": "mcq",
+  "keys": [
+    "a687d31c-8762-4a39-87d9-b0f208e0c765"
+  ],
+  "answerOptions": [
+    {
+      "id": "a687d31c-8762-4a39-87d9-b0f208e0c765",
+      "content": "<p>in turn,</p>"
+    },
+    {
+      "id": "493ca8ac-8921-43b2-9dc3-9a15230ee300",
+      "content": "<p>likewise,</p>"
+    },
+    {
+      "id": "f121c622-8193-4303-a450-09c6ec621ce4",
+      "content": "<p>nevertheless,</p>"
+    },
+    {
+      "id": "df39e045-04a8-43f0-97fd-4f65d0d60249",
+      "content": "<p>in reality,</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. \"In turn\" logically signals that the information in the sentence&mdash;that the electrical currents create a protective barrier around Earth&mdash;is a result or consequence of the previous information about the circulation of liquid metals generating electrical currents that flow between Earth&rsquo;s magnetic poles.</p><p>Choice B is incorrect because \"likewise\" illogically signals that the information in the sentence is similar to the previous information about the circulation of liquid metals generating electrical currents that flow between Earth&rsquo;s magnetic poles. Instead, the new information about the electrical currents is a direct result or consequence of the previous information. Choice C is incorrect because \"nevertheless\" illogically signals that the information in the sentence is true despite the previous information about the circulation of liquid metals generating electrical currents that flow between Earth&rsquo;s magnetic poles. Instead, the new information about the electrical currents is a direct result or consequence of the previous information. Choice D is incorrect because \"in reality\" illogically signals that the information in the sentence contradicts the previous information about the circulation of liquid metals generating electrical currents that flow between Earth&rsquo;s magnetic poles. Instead, the new information about the electrical currents is a direct result or consequence of the previous information.</p>",
+  "externalid": "29bc77ca-7030-419b-953a-56db063b4d1e",
+  "correct_answer": [
+    "A"
+  ]
+}

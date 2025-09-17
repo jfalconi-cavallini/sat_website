@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice best describes the function of the underlined sentence in the text as a whole?</p>",
+  "stimulus": "<p>The Bayeux Tapestry, from eleventh-century France, depicts 75 scenes over 250 feet of fabric. It was likely produced by workers embroidering in sections and then joining the resulting panels together. It&rsquo;s plausible that the workshop that produced the tapestry had never produced one so large, and some researchers claim that a close examination of the joins&mdash;the places where the panels are stitched together&mdash;suggests that the workers developed and refined their joining process over the course of production. <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">For example, the first join the workers completed exhibits a clear misalignment of the borders of the two panels, whereas the later joins are virtually invisible.</span>&nbsp;&nbsp;</p>",
+  "keys": [
+    "f6e5e297-799a-45f1-b4d7-a756c7c76ab1"
+  ],
+  "answerOptions": [
+    {
+      "id": "815ccd4a-b8cf-438b-9ddc-93b3ac9e9874",
+      "content": "<p>It identifies the people and events depicted in the Bayeux Tapestry.</p>"
+    },
+    {
+      "id": "f6e5e297-799a-45f1-b4d7-a756c7c76ab1",
+      "content": "<p>It supports an argument about the workers who produced the Bayeux Tapestry.</p>"
+    },
+    {
+      "id": "a700ae09-ca02-4fd8-9c25-d8b9d4c57e43",
+      "content": "<p>It compares the Bayeux Tapestry with other tapestries from eleventh-century France.</p>"
+    },
+    {
+      "id": "4b29df1f-5ca5-4c2a-9258-3c2d0a3aeb11",
+      "content": "<p>It describes how researchers determined where the Bayeux Tapestry was produced.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most accurately describes the function of the underlined sentence in the text as a whole. The text discusses the Bayeux Tapestry, making the point that the workers who produced the huge tapestry in the eleventh century might not have ever produced a tapestry so large before. The text goes on to suggest that because of this lack of previous experience, the workers developed and refined the process of joining the tapestry&rsquo;s panels over time as they worked. The last sentence of the text then provides an example of an observation that suggests the workers&rsquo; process changed: clear misalignment of the borders of the two panels the workers joined first and virtually invisible joins completed later. Thus, the underlined sentence serves to support an argument about the workers who produced the tapestry.</p><p>Choice A is incorrect because the example given in the last sentence of the text has to do with how the panels of the Bayeux Tapestry were joined by the workers, not with what is depicted in those panels; the text never identifies any people or places depicted in the tapestry. Choice C is incorrect because the last sentence compares how early panels in the Bayeux Tapestry were joined with how later panels in the same tapestry were joined; it doesn&rsquo;t make any comparison between the Bayeux Tapestry and other tapestries from the same time in France. Choice D is incorrect because the last sentence doesn&rsquo;t address the location where the Bayeux Tapestry was created; the first sentence of the text presents it as a given that the tapestry was created in France, but nothing in the text indicates how that origin was determined.</p>",
+  "externalid": "485435e2-da9a-4cd8-a7d5-922ea61cca4e",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>The student wants to specify when al-Biruni published his landmass theory. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+  "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Iranian scholar Abu Rayhan al-Biruni studied Earth&rsquo;s physical features.</li>\n<li>He theorized that a large landmass existed west of Europe and east of Asia.</li>\n<li>Al-Biruni published his landmass theory in 1037 CE.</li>\n</ul>",
+  "type": "mcq",
+  "keys": [
+    "e55d6c43-45cd-4dbc-b36c-803e6f23267e"
+  ],
+  "answerOptions": [
+    {
+      "id": "e55d6c43-45cd-4dbc-b36c-803e6f23267e",
+      "content": "<p>In 1037 CE, al-Biruni published his theory that a large landmass existed west of Europe and east of Asia.</p>"
+    },
+    {
+      "id": "b0c4d050-39fa-4254-9a3a-2a5ba03a9cdb",
+      "content": "<p>Al-Biruni, who studied Earth&rsquo;s physical features, published a theory about a large landmass.&nbsp;</p>"
+    },
+    {
+      "id": "8f64045e-4e2b-4716-961a-6021eac32834",
+      "content": "<p>Al-Biruni was an Iranian scholar who studied Earth&rsquo;s physical features.</p>"
+    },
+    {
+      "id": "03a004fa-44df-485d-a35d-60f8d30f922b",
+      "content": "<p>An Iranian scholar who studied Earth&rsquo;s physical features, al-Biruni theorized that a large landmass existed west of Europe and east of Asia.</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer. The sentence specifies when al-Biruni published his landmass theory, indicating that it was published in the year 1037 CE.</p><p>Choice B is incorrect. While the sentence notes that al-Biruni published a landmass theory, it doesn&rsquo;t specify when the theory was published. Choice C is incorrect. The sentence identifies al-Biruni as a scholar of Earth&rsquo;s physical features; it doesn&rsquo;t specify when he published his landmass theory. Choice D is incorrect. The sentence describes al-Biruni&rsquo;s landmass theory; it doesn&rsquo;t specify when the theory was published.</p>",
+  "externalid": "5a4e75f4-a147-4de8-a439-6025b2d19bb0",
+  "correct_answer": [
+    "A"
+  ]
+}

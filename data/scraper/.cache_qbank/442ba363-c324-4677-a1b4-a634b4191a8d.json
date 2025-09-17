@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>With his room-sized installation <em>Unicorn/My Private Sky</em>, Norwegian artist B&oslash;rre S&aelig;thre succeeds in creating a whimsical yet perplexing experience. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> when visitors set foot inside the fantastically blue room and encounter the life-sized stuffed unicorn preening at the far end of it, they are both dazzled and confused&mdash;as if stepping into a strange and enchanting new world.</p>",
+  "keys": [
+    "6f7ffff0-6be5-48c0-bbee-220d45c2634a"
+  ],
+  "answerOptions": [
+    {
+      "id": "8abbd44f-b631-4fd3-8ed8-2b60aaca52c7",
+      "content": "<p>Second,</p>"
+    },
+    {
+      "id": "1e466846-88c1-4812-b531-482f356489f9",
+      "content": "<p>Instead,</p>"
+    },
+    {
+      "id": "6f7ffff0-6be5-48c0-bbee-220d45c2634a",
+      "content": "<p>Indeed,</p>"
+    },
+    {
+      "id": "910d88b6-df4d-4015-bc4f-9837efc2b19d",
+      "content": "<p>Nevertheless,</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. \"Indeed\" logically signals that the description of the art installation in this sentence&mdash;its blue room and preening unicorn that leave visitors \"dazzled and confused\"&mdash;offers additional emphasis in support of the previous sentence&rsquo;s claim about the installation&rsquo;s \"whimsical yet perplexing experience.\"</p><p>Choice A is incorrect because \"second\" illogically signals that the description in this sentence is a second, separate claim from the previous sentence&rsquo;s claim about the installation&rsquo;s \"whimsical yet perplexing experience.\" Instead, the specific details describing the installation emphasize and support the previous claim. Choice B is incorrect because \"instead\" illogically signals that the description in this sentence is an alternative to the previous sentence&rsquo;s claim about the installation&rsquo;s \"whimsical yet perplexing experience.\" Rather, the specific details describing the installation emphasize and support that claim. Choice D is incorrect because \"nevertheless\" illogically signals that the description in this sentence is true despite the previous sentence&rsquo;s claim about the installation&rsquo;s \"whimsical yet perplexing experience.\" Instead, the specific details describing the installation emphasize and support that claim.</p>",
+  "externalid": "442ba363-c324-4677-a1b4-a634b4191a8d",
+  "correct_answer": [
+    "C"
+  ]
+}

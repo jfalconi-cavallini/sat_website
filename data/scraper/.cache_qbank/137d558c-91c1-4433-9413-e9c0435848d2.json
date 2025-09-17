@@ -1,0 +1,38 @@
+{
+  "vaultid": "9534d8df-af4c-484e-87e3-41378d4c674f",
+  "keys": [
+    "9196dec4-d9d4-4b36-be5b-784ce56090a9"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the use of verbs to express tense. In this choice, the present tense verb &ldquo;experiences&rdquo; is consistent with the other present tense verbs (e.g., &ldquo;connects&rdquo; and &ldquo;prepares&rdquo;) used to describe the events in Truong&rsquo;s novels. Furthermore, it&rsquo;s conventional to use the present tense when discussing a literary work. </p><p>Choice A is incorrect because the past tense verb &ldquo;experienced&rdquo; isn&rsquo;t consistent with the other present tense verbs used to describe the events in Truong&rsquo;s novels. Choice B is incorrect because the past perfect tense verb &ldquo;had experienced&rdquo; isn&rsquo;t consistent with the other present tense verbs used to describe the events in Truong&rsquo;s novels. Choice D is incorrect because the future progressive tense verb &ldquo;will be experiencing&rdquo; isn&rsquo;t consistent with the other present tense verbs used to describe the events in Truong&rsquo;s novels. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "137d558c-91c1-4433-9413-e9c0435848d2",
+  "stimulus": "<p>Food and the sensation of taste are central to Monique Truong&rsquo;s novels. In <em>The Book of Salt</em>, for example, the exiled character of B&igrave;nh connects to his native Saigon through the food he prepares, while in <em>Bitter in the Mouth</em>, the character of Linda <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> a form of synesthesia whereby the words she hears evoke tastes. </p>",
+  "templateclusterid": "2c00238a-7711-4c42-935f-12c143845625",
+  "parenttemplatename": "OSP-694-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "ca8cb8c7-de50-4096-a371-da7bd70abded",
+      "content": "<p>experienced</p>"
+    },
+    {
+      "id": "e8e064b2-2a34-4db1-8134-69e101506333",
+      "content": "<p>had experienced</p>"
+    },
+    {
+      "id": "9196dec4-d9d4-4b36-be5b-784ce56090a9",
+      "content": "<p>experiences</p>"
+    },
+    {
+      "id": "b96e6754-85ef-49dc-9ded-2f987d8509db",
+      "content": "<p>will be experiencing</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

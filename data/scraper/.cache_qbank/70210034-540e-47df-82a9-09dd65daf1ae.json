@@ -1,0 +1,38 @@
+{
+  "vaultid": "54bbd1c2-d1f7-4028-92d2-074411ae6c6f",
+  "keys": [
+    "36aadb98-c1c0-45aa-8086-d9f3d9f5704e"
+  ],
+  "rationale": "<p>Choice B is the best answer because it reflects how the author of Text 2 would most likely respond to Text 1 based on the information provided. Text 1 discusses the discovery of a regeneration-linked gene, EGR, in both three-banded panther worms (which are capable of full regeneration) and humans (who have relatively limited regeneration abilities). Text 1 characterizes this discovery as &ldquo;especially promising&rdquo; and a sign of &ldquo;exciting progress&rdquo; in understanding human regeneration. The author of Text 2, on the other hand, focuses on the fact that the team that reported the EGR finding pointed out that while EGR&rsquo;s function in humans isn&rsquo;t yet known, it&rsquo;s likely very different from its function in panther worms. Therefore, the author of Text 2 would most likely say that Text 1&rsquo;s enthusiasm about the EGR discovery is overly optimistic given Srivastava&rsquo;s team&rsquo;s observations about EGR in humans. </p><p>Choice A is incorrect because the author of Text 2 explains that Srivastava and her team explicitly reported that they haven&rsquo;t yet identified how EGR functions in humans; therefore, the author of Text 2 wouldn&rsquo;t say that Text 1&rsquo;s excitement is reasonable for the stated reason. Instead, the author of Text 2 would likely characterize Text 1&rsquo;s excitement as premature and overly optimistic. Choice C is incorrect because Text 1 does treat Srivastava&rsquo;s team&rsquo;s findings with enthusiasm; it describes the discovery of EGR in both three-banded panther worms and humans as promising and exciting. It would be illogical for the author of Text 2 to say that because most others treat the discovery with enthusiasm, Text 1&rsquo;s enthusiastic characterization of the discovery is unexpected. Choice D is incorrect because Text 1 isn&rsquo;t at all dismissive of Srivastava&rsquo;s team&rsquo;s findings; instead, Text 1 is optimistic about the EGR discovery, characterizing it as promising and exciting. There&rsquo;s nothing in Text 2 to suggest that the author of Text 2 would say that Text 1&rsquo;s praise for the discovery is dismissive, or disdainful.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Based on the texts, what would the author of Text 2 most likely say about Text 1&rsquo;s characterization of the discovery involving EGR?</p>",
+  "externalid": "70210034-540e-47df-82a9-09dd65daf1ae",
+  "stimulus": "<p>&nbsp;</p><p><span aria-level=\"2\" role=\"heading\"><strong>Text 1</strong></span></p>\n<p>Most animals can regenerate some parts of their bodies, such as skin. But when a three-banded panther worm is cut into three pieces, each piece grows into a new worm. Researchers are investigating this feat partly to learn more about humans&rsquo; comparatively limited abilities to regenerate, and they&rsquo;re making exciting progress. An especially promising discovery is that both humans and panther worms have a gene for early growth response (EGR) linked to regeneration.</p>\n\n<p>&nbsp;</p><p><span aria-level=\"2\" role=\"heading\"><strong>Text 2</strong></span></p>\n<p>When Mansi Srivastava and her team reported that panther worms, like humans, possess a gene for EGR, it caused excitement. However, as the team pointed out, the gene likely functions very differently in humans than it does in panther worms. Srivastava has likened EGR to a switch that activates other genes involved in regeneration in panther worms, but how this switch operates in humans remains unclear.</p>",
+  "templateclusterid": "b96feec8-e826-464b-badb-2e105730190d",
+  "parenttemplatename": "OSP-007-CTC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "c0657c51-13df-43b8-a098-e4c908c96015",
+      "content": "<p>It is reasonable given that Srivastava and her team have identified how EGR functions in both humans and panther worms.</p>"
+    },
+    {
+      "id": "36aadb98-c1c0-45aa-8086-d9f3d9f5704e",
+      "content": "<p>It is overly optimistic given additional observations from Srivastava and her team.</p>"
+    },
+    {
+      "id": "8c4955e5-e01b-48c3-9068-967b8e499852",
+      "content": "<p>It is unexpected given that Srivastava and her team&rsquo;s findings were generally met with enthusiasm.</p>"
+    },
+    {
+      "id": "60356f1c-029c-4179-ba43-de2ace59a486",
+      "content": "<p>It is unfairly dismissive given the progress that Srivastava and her team have reported.</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "d62cf830-ecc4-48c2-821d-f26636a9d056",
+  "keys": [
+    "266fae83-f9ac-41a6-9915-caab2a7e55d6"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of how biodiversity loss due to invasive species can be avoided. As used in this context, &ldquo;preventable&rdquo; means able to be stopped or kept from happening. The text indicates that &ldquo;people can take simple steps&rdquo; to avoid bringing possible invasive species into new environments. It presents these steps as an example of how biodiversity loss due to invasive species is preventable. </p><p>Choice B is incorrect because it wouldn&rsquo;t make sense to say that a simple step like washing your shoes after traveling is an example of biodiversity loss due to invasive species being &ldquo;undeniable,&rdquo; or something that can&rsquo;t be proved to be wrong. Although the text may suggest that biodiversity loss due to invasive species is something that really happens, the word that completes the text must make the first sentence into an assertion that is illustrated by the second sentence, and the second sentence illustrates the idea that biodiversity loss due to invasive species is preventable, not undeniable. Choice C is incorrect because it wouldn&rsquo;t make sense to say that a simple step like washing your shoes after traveling is an example of biodiversity loss due to invasive species being &ldquo;common,&rdquo; or something that happens regularly. Additionally, the text doesn&rsquo;t provide any information about how frequently invasive species cause biodiversity loss.&nbsp;Choice D is incorrect because it wouldn&rsquo;t make sense to say that a simple step like washing your shoes after traveling is an example of biodiversity loss due to invasive species being &ldquo;concerning,&rdquo; or something that is troubling or causes worry. Although the text implies that the phenomenon of biodiversity loss due to invasive species is itself a concerning phenomenon, the word that completes the text must make the first sentence into an assertion that is illustrated by the second sentence, and the second sentence illustrates the idea that biodiversity loss due to invasive species is preventable, not concerning. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "38e385c3-7997-49a3-a7be-4b795810f519",
+  "stimulus": "<p>Researchers and conservationists stress that biodiversity loss due to invasive species is <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>. For example, people can take simple steps such as washing their footwear after travel to avoid introducing potentially invasive organisms into new environments.</p>",
+  "templateclusterid": "00ff1620-8df9-40d2-ac56-92dbf8a9a342",
+  "parenttemplatename": "OSP-955-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "266fae83-f9ac-41a6-9915-caab2a7e55d6",
+      "content": "<p>preventable</p>"
+    },
+    {
+      "id": "4e0df63d-331c-4f5c-8a33-14264c7b48f9",
+      "content": "<p>undeniable</p>"
+    },
+    {
+      "id": "3b8c5ff0-a6a6-4f57-9777-ae6cc6d0505c",
+      "content": "<p>common</p>"
+    },
+    {
+      "id": "484d3360-220e-40ea-acd7-97fce74edc8e",
+      "content": "<p>concerning</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

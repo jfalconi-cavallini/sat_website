@@ -1,0 +1,38 @@
+{
+  "vaultid": "9735a314-a512-4eae-af50-936935669396",
+  "keys": [
+    "5309ff79-e524-44de-bdca-b70b63eba260"
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of physicist Joseph Webster&rsquo;s research on gravitational waves. In this context &ldquo;foundational&rdquo; means the basis on which something else develops. The text indicates that Webster&rsquo;s experiments in the 1960s and 1970s were earlier than, and &ldquo;key&rdquo; to, the work of later scientists in the field; thus, Webster&rsquo;s work was foundational to the later scientists&rsquo; experiments and the eventual detection of a gravitational wave in 2015. &nbsp;</p><p>Choice B is incorrect because the text does not suggest that Webster&rsquo;s work was supplementary, or an additional element of an existing, larger project, but rather it was &ldquo;the basis for&rdquo; later experiments. Choice C is incorrect because the text does not assert that Webster&rsquo;s work was repetitive, or involved doing something the same way many times. Rather, the text indicates that Webster&rsquo;s work formed the basis for later investigations in the field of gravitational wave research. &nbsp;Choice D is incorrect because the text does not state that Webster&rsquo;s work was ineffective, or failed to produce the desired outcome. Rather, the text strongly implies that Webster&rsquo;s work was productive and extremely important to later work in the field of gravitational wave research.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "40bb3e5d-a1dd-49ed-a57a-c8772051e9d2",
+  "stimulus": "<p>Physicist Joseph Weber performed <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> work in gravitational wave research in the 1960s and 1970s, conducting key experiments that scientists later used as the basis for their own investigations that led to the first verified detection of a gravitational wave in 2015.</p>",
+  "templateclusterid": "3588ac2e-ee07-46ff-b6eb-8fd6e95c98b2",
+  "parenttemplatename": "OSP-016-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "5309ff79-e524-44de-bdca-b70b63eba260",
+      "content": "<p>foundational</p>"
+    },
+    {
+      "id": "a4d72050-7a61-46b4-845d-b6fe793f0b47",
+      "content": "<p>supplementary</p>"
+    },
+    {
+      "id": "0ac1e107-6108-4fff-bed8-b85d79cfbcfe",
+      "content": "<p>repetitive</p>"
+    },
+    {
+      "id": "dc8f2ede-9cd4-4832-889c-adac8f1ef014",
+      "content": "<p>ineffective</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "7d9eb205-ff97-455f-8e13-786d62871e1a",
+  "keys": [
+    "1de4ac13-b735-4bfa-ad00-99f5ed4c289b"
+  ],
+  "rationale": "<p>Choice D is the best answer because it best describes the overall structure of the text. The speaker begins by stating that he has heard that others are accusing him of seeking to destroy institutions. The speaker then addresses this criticism by stating that he is &ldquo;neither for nor against institutions.&rdquo; Instead, the speaker states that his ultimate goal is to instill &ldquo;the institution of the dear love of comrades&rdquo; everywhere in the country. Therefore, the overall structure of the text is best described as an address of criticism followed by an announcement of a grand ambition. </p><p>Choice A is incorrect. While the speaker does address an opinion of him that he believes to be untrue, he doesn&rsquo;t indicate that this attitude has become increasingly prevalent. The speaker also concludes by explaining his goal for the future rather than his current worldview. Choice B is incorrect because the text doesn&rsquo;t portray the speaker as isolated or regretful, and the speaker gestures toward a hope for societal change but doesn&rsquo;t offer an explicit prediction that it will happen. Choice C is incorrect because the speaker addresses a criticism of him that he believes to be false; he doesn&rsquo;t admit any personal shortcomings. Moreover, the speaker concludes by stating a goal he has rather than showcasing his achievements. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes the overall structure of the text?</p>",
+  "externalid": "adce3048-dd82-4590-b1dd-157f352fe7d3",
+  "stimulus": "<p>The following text is from Walt Whitman&rsquo;s 1860 poem &ldquo;Calamus 24.&rdquo;</p>\n<p style=\"margin-bottom: 0; padding-left: 2em; text-indent: -1em;\">I HEAR it is charged against me that I seek to destroy institutions;</p><p style=\"margin-bottom: 0; padding-left: 2em; text-indent: -1em;\">But really I am neither for nor against institutions</p><p style=\"margin-bottom: 0; padding-left: 2em; text-indent: -1em;\">(What indeed have I in common with them?&mdash;Or what with the destruction of them?),</p><p style=\"margin-bottom: 0; padding-left: 2em; text-indent: -1em;\">Only I will establish in the Mannahatta [Manhattan] and in every city of These States, inland and seaboard,</p><p style=\"margin-bottom: 0; padding-left: 2em; text-indent: -1em;\">And in the fields and woods, and above every keel [ship] little or large, that dents the water,</p><p style=\"margin-bottom: 0; padding-left: 2em; text-indent: -1em;\">Without edifices, or rules, or trustees, or any argument,</p><p style=\"margin-bottom: 0; padding-left: 2em; text-indent: -1em;\">The institution of the dear love of comrades.</p>",
+  "templateclusterid": "edacbd94-3dd5-4c4a-92d2-daa524252c7a",
+  "parenttemplatename": "OSP-017-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "d2a7f520-0787-4524-9796-724d12ad8d50",
+      "content": "<p>The speaker questions an increasingly prevalent attitude, then summarizes his worldview.</p>"
+    },
+    {
+      "id": "9aadfce8-741c-4870-bf0f-bb821280a82b",
+      "content": "<p>The speaker regrets his isolation from others, then predicts a profound change in society.</p>"
+    },
+    {
+      "id": "4982b64f-594b-49bf-80c3-cb3cf798a9db",
+      "content": "<p>The speaker concedes his personal shortcomings, then boasts of his many achievements.</p>"
+    },
+    {
+      "id": "1de4ac13-b735-4bfa-ad00-99f5ed4c289b",
+      "content": "<p>The speaker addresses a criticism leveled against him, then announces a grand ambition of his.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

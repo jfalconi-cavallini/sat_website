@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Working together with the Navajo Nation Department of Water Resources, Dr. Lani Tsinnajinnie analyzed data about snowpack levels in the Chuska Mountains. She found that the snowpack (the amount of snow on the ground) was deepest in early March at lower elevations. At higher elevations, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the snowpack was deepest in mid-March.</p>",
+  "type": "mcq",
+  "keys": [
+    "1a83f721-8835-4a7f-815d-7ca6b4c3b112"
+  ],
+  "answerOptions": [
+    {
+      "id": "221207cf-f783-460f-8e55-ed86165f2f64",
+      "content": "<p>in other words,</p>"
+    },
+    {
+      "id": "d9f4e336-8d7a-411a-aa72-b139ad550073",
+      "content": "<p>for instance,</p>"
+    },
+    {
+      "id": "1a83f721-8835-4a7f-815d-7ca6b4c3b112",
+      "content": "<p>on the other hand,</p>"
+    },
+    {
+      "id": "c040648f-1529-4161-befa-489747b47829",
+      "content": "<p>in summary,</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. \"On the other hand\" logically signals that the information in the sentence&mdash;that the snowpack at higher elevations in the Chuska Mountains was deepest in mid-March&mdash;contrasts with the previous information about the snowpack at lower elevations being deepest in early March.</p><p>Choice A is incorrect because \"in other words\" illogically signals that information in the sentence is merely a paraphrase or restatement of the previous information about the snowpack at lower elevations. Instead, the information about the snowpack at higher elevations contrasts with that information. Choice B is incorrect because \"for instance\" illogically signals that the information in the sentence exemplifies the previous information about the snowpack at lower elevations. Instead, the information about the snowpack at higher elevations contrasts with that information. Choice D is incorrect because \"in summary\" illogically signals that the information in the sentence summarizes the previous information about the snowpack at lower elevations. Instead, the information about the snowpack at higher elevations contrasts with that information.</p>",
+  "externalid": "138f38d9-26dd-40bc-b574-aea013f78b27",
+  "correct_answer": [
+    "C"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "1189d8da-199d-44fb-baad-d650fa059748",
+  "keys": [
+    "e413eead-4a19-44f7-acf7-a5220757224f"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the punctuation of a supplementary element within a sentence. The dash after &ldquo;Ecuador&rdquo; and the closing parenthesis pairs with the dash after &ldquo;territories&rdquo; to separate the supplementary element (&ldquo;New&hellip;Ecuador&rdquo;) from the rest of the sentence. The supplementary element specifies the three South American territories that Sim&oacute;n Bol&iacute;var liberated, and the pair of dashes indicates that this element could be removed without affecting the grammatical coherence of the sentence. </p><p>Choice A is incorrect because it fails to use appropriate punctuation to separate the supplementary element from the rest of the sentence. Furthermore, punctuation isn&rsquo;t needed between &ldquo;Ecuador&rdquo; and the closing parenthesis.&nbsp;Choice B is incorrect because it fails to use appropriate punctuation to separate the supplementary element from the rest of the sentence.&nbsp;Choice C is incorrect because a comma can&rsquo;t be paired with a dash to separate the supplementary element from the rest of the sentence. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "79863ab0-1eb0-4a5f-ada0-744b9137e41b",
+  "stimulus": "<p>In addition to advocating for South America&rsquo;s independence in two political treatises, the <em>Cartagena Manifesto</em> and the <em>Letter from Jamaica,</em> Sim&oacute;n Bol&iacute;var personally led armies against the Spanish, liberating three South American territories&mdash;New Granada (present-day Colombia and Panama), Venezuela, and Quito (present-day <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> from colonial rule.</p>",
+  "templateclusterid": "58dffa2e-6498-4caf-9302-a6f3be2e0b5f",
+  "parenttemplatename": "OSP-796-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "db1d633b-2e55-4482-8698-25e98f342b7e",
+      "content": "<p>Ecuador,)</p>"
+    },
+    {
+      "id": "8b69e4e1-8698-4020-9966-39131df2a000",
+      "content": "<p>Ecuador)</p>"
+    },
+    {
+      "id": "aa70e66b-7b83-4cd6-a4ce-319e508060b3",
+      "content": "<p>Ecuador),</p>"
+    },
+    {
+      "id": "e413eead-4a19-44f7-acf7-a5220757224f",
+      "content": "<p>Ecuador)&mdash;</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "aba64c1d-db1a-4c7a-9faa-848cfd67122d",
+  "keys": [
+    "6f451386-a5b1-4b9a-a9cd-2379fe4ede48"
+  ],
+  "rationale": "<p>Choice D is the best answer. &ldquo;In fact&rdquo; logically signals that the information in this sentence&mdash;that McFerrin finds the research phase of her work to be just as fascinating as travel&mdash;emphasizes and elaborates on the previous sentence&rsquo;s point that McFerrin regards background research as a rewarding activity. </p><p>Choice A is incorrect because &ldquo;by contrast&rdquo; illogically signals that the information in this sentence contrasts with the previous sentence&rsquo;s point about McFerrin&rsquo;s attitude toward background research. Instead, it emphasizes and elaborates on that point. Choice B is incorrect because &ldquo;likewise&rdquo; illogically signals that this sentence merely adds a second, similar point to the previous sentence&rsquo;s point about McFerrin&rsquo;s attitude toward background research. Instead, it emphasizes and elaborates on that point. Choice C is incorrect because &ldquo;besides&rdquo; illogically signals that this sentence provides a separate point in addition to, or apart from, the previous sentence&rsquo;s point about McFerrin&rsquo;s attitude toward background research. Instead, it emphasizes and elaborates on that point.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "4042856b-e301-43f6-8cb7-495dda0e51c4",
+  "stimulus": "<p>Award-winning travel writer Linda Watanabe McFerrin considers the background research she conducts on destinations featured in her travel books to be its own reward. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> McFerrin admits to finding the research phase of her work just as fascinating and engaging as exploring a location in person.  </p>",
+  "templateclusterid": "c6de56aa-bdb7-49e9-ac4f-5b199b62fee6",
+  "parenttemplatename": "OSP-231-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "6dc75e59-d427-47f1-b757-1c72fa9cdbbe",
+      "content": "<p>By contrast,</p>"
+    },
+    {
+      "id": "08075a85-c141-4673-a210-21e913154e82",
+      "content": "<p>Likewise,</p>"
+    },
+    {
+      "id": "492e6988-dcf5-42a9-a085-db53103f4fbd",
+      "content": "<p>Besides,</p>"
+    },
+    {
+      "id": "6f451386-a5b1-4b9a-a9cd-2379fe4ede48",
+      "content": "<p>In fact,</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

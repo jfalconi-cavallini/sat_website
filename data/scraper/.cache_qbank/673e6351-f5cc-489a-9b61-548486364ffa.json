@@ -1,0 +1,38 @@
+{
+  "vaultid": "97da32e0-c2b0-4ab8-aced-884e8a169166",
+  "keys": [
+    "372861ce-9b4f-4863-b754-8c70b33e6067"
+  ],
+  "rationale": "<p>Choice B is the best answer. &ldquo;Next&rdquo; logically signals that the action described in this sentence&mdash;Konkoly recording participants&rsquo; eye movements&mdash;is the next step in Konkoly&rsquo;s experiment. </p><p>Choice A is incorrect because &ldquo;specifically&rdquo; illogically signals that this sentence specifies or elaborates on an aspect of the action described in the previous sentence. Instead, it describes the next step in Konkoly&rsquo;s experiment. Choice C is incorrect because &ldquo;for instance&rdquo; illogically signals that the action described in this sentence is an example of the action described in the previous sentence. Instead, it is the next step in Konkoly&rsquo;s experiment. Choice D is incorrect because &ldquo;in sum&rdquo; illogically signals that this sentence summarizes or concludes the action described in the previous sentence. Instead, it describes the next step in Konkoly&rsquo;s experiment. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "673e6351-f5cc-489a-9b61-548486364ffa",
+  "stimulus": "<p>Neuroscientist Karen Konkoly wanted to determine whether individuals can understand and respond to questions during REM sleep. She first taught volunteers eye movements they would use to respond to basic math problems while asleep (a single left-right eye movement indicated the number one). <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> she attached electrodes to the volunteers&rsquo; faces to record their eye movements during sleep.</p>",
+  "templateclusterid": "9872eb65-2d07-46f0-9a8b-29c4c2b1fe10",
+  "parenttemplatename": "OSP-218-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "29be820b-696c-493f-be80-3c349944bede",
+      "content": "<p>Specifically,</p>"
+    },
+    {
+      "id": "372861ce-9b4f-4863-b754-8c70b33e6067",
+      "content": "<p>Next,</p>"
+    },
+    {
+      "id": "56e90bd6-658b-4d3a-a441-7a5568aa1ce4",
+      "content": "<p>For instance,</p>"
+    },
+    {
+      "id": "02e20c21-c232-4331-a079-138db77d107f",
+      "content": "<p>In sum,&nbsp;</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

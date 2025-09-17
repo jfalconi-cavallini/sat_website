@@ -1,0 +1,38 @@
+{
+  "vaultid": "1c10a1fb-8270-497d-bbae-ad8a4e790ba0",
+  "keys": [
+    "3a413c85-3069-46dd-9dde-7f37e20ee26f"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically and precisely completes the text&rsquo;s discussion of studies of altitude&rsquo;s effect on blood chemistry. In this context, &ldquo;paucity of&rdquo; means lack of. In describing the inspiration behind Al-Sweedan and Alhaj&rsquo;s research, the text uses the word &ldquo;though&rdquo; to suggest a contrasting relationship between two types of studies: those examining the effect on blood chemistry of living at a high altitude and those examining the effect on blood chemistry of living in locations below sea level. This contrasting relationship and the text&rsquo;s use of the word &ldquo;many&rdquo; provide context suggesting that there are few, if any, examples of the second type of study, whereas there are numerous examples of the first type. </p><p>Choice A is incorrect because it wouldn&rsquo;t make sense in context for there to be a &ldquo;quarrel about,&rdquo; or open disagreement about, studies of the effect on blood chemistry of living in locations below sea level. The text&rsquo;s use of the words &ldquo;though&rdquo; and &ldquo;many&rdquo; suggests a contrasting relationship in terms of amount between two types of studies: those examining the effect on blood chemistry of living at a high altitude and those examining the effect on blood chemistry of living in locations below sea level. There&rsquo;s nothing in the text to suggest that the contrast between the two types of studies involves the extent to which researchers broadly agree or disagree about the contents of either type. Choice C is incorrect because it wouldn&rsquo;t make sense in context for there to be a &ldquo;profusion of,&rdquo; or great abundance of, studies of the effect on blood chemistry of living in locations below sea level. The text&rsquo;s use of the words &ldquo;though&rdquo; and &ldquo;many&rdquo; suggests a contrasting relationship in terms of amount between two types of studies: those examining the effect on blood chemistry of living at a high altitude and those examining the effect on blood chemistry of living in locations below sea level. Rather than logically completing this contrast, &ldquo;profusion of&rdquo; would indicate that the two types of studies are similar in terms of amount, with many examples existing of both types. Choice D is incorrect because it wouldn&rsquo;t make sense in context for there to be a &ldquo;verisimilitude in,&rdquo; or appearance of truth in, studies of the effect on blood chemistry of living in locations below sea level. The text&rsquo;s use of the words &ldquo;though&rdquo; and &ldquo;many&rdquo; suggests a contrasting relationship in terms of amount between two types of studies: those examining the effect on blood chemistry of living at a high altitude and those examining the effect on blood chemistry of living in locations below sea level. There&rsquo;s nothing in the text to suggest that the contrast between the two types of studies involves the extent to which either type of study presents an appearance of truth. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "22aee311-bf13-42f1-867e-fbf71ee4ecfd",
+  "stimulus": "<p>New and interesting research conducted by Suleiman A. Al-Sweedan and Moath Alhaj is inspired by their observation that though there have been many studies of the effect of high altitude on blood chemistry, there is a <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> studies of the effect on blood chemistry of living in locations below sea level, such as the California towns of Salton City and Seeley.</p>",
+  "templateclusterid": "4cd66247-291b-48e7-9f2b-8732d7b8204b",
+  "parenttemplatename": "T2013",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "25",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "2883e722-8b00-47c1-a26c-31474f6f1648",
+      "content": "<p>quarrel about</p>"
+    },
+    {
+      "id": "3a413c85-3069-46dd-9dde-7f37e20ee26f",
+      "content": "<p>paucity of</p>"
+    },
+    {
+      "id": "8b8b9f4b-8313-497f-abe0-325f7347b9e8",
+      "content": "<p>profusion of</p>"
+    },
+    {
+      "id": "e33d710f-c13d-4fb0-ad7b-aef1cb170507",
+      "content": "<p>verisimilitude in</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "stimulus": "<p>Researchers have long hypothesized that woolly mammoths were hunted to extinction in North America by humans using spears with grooved tips known as Clovis points. One anthropologist set out to test this hypothesis. Using a mechanical spear-thrower, he launched spears with Clovis points into mounds of clay&mdash;substitutes for the animals&rsquo; large bodies. The projectiles generally penetrated only a few inches into the clay, an amount insufficient to have harmed most woolly mammoths. This led the anthropologist to conclude that hunters using spears with Clovis points likely weren&rsquo;t the principal drivers of the extinction.</p>",
+  "type": "mcq",
+  "keys": [
+    "06585c1a-060c-4f67-96e6-14c06baf3859"
+  ],
+  "answerOptions": [
+    {
+      "id": "31a0c468-dcee-41f6-b54d-f1ba717cc72b",
+      "content": "<p>To argue for the significance of new findings amid an ongoing debate among researchers</p>"
+    },
+    {
+      "id": "9e75e012-c210-452b-942a-4559b08e15f2",
+      "content": "<p>To discuss the advantages and disadvantages of the method used in an experiment</p>"
+    },
+    {
+      "id": "f0263b11-565d-4ac4-b847-54b468170fe1",
+      "content": "<p>To summarize two competing hypotheses and a major finding associated with each one</p>"
+    },
+    {
+      "id": "06585c1a-060c-4f67-96e6-14c06baf3859",
+      "content": "<p>To describe an experiment whose results cast doubt on an established hypothesis</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most accurately states the main purpose of the text, which is to describe an experiment whose results cast doubt on an established hypothesis. The text begins by noting that researchers have long believed that woolly mammoths were hunted to extinction in North America by humans using spears with Clovis points. The text then describes an experiment conducted by an anthropologist to test this hypothesis. According to the text, the results of the experiment led the anthropologist to conclude that hunters using spears with Clovis points likely weren&rsquo;t the primary cause of the extinction. The anthropologist&rsquo;s results cast doubt on the long-held hypothesis presented at the beginning of the text and suggest that woolly mammoths may have become extinct in North America due to some other cause.</p><p>Choice A is incorrect because there&rsquo;s nothing in the text to suggest that researchers have been involved in an ongoing debate. On the contrary, the text suggests that most researchers agree on the cause of the woolly mammoth&rsquo;s extinction in North America. Choice B is incorrect because the text never mentions any advantages or disadvantages of the method used in the experiment, focusing instead on the results achieved using that method. Choice C is incorrect because the text addresses only one hypothesis, that mammoths were hunted to extinction in North America by humans using spears with Clovis points. Rather than present a competing hypothesis, the text explains how one anthropologist designed an experiment to test this long-held hypothesis.</p>",
+  "externalid": "1ac31154-0bb8-4bee-bd86-75ce7ce0ba63",
+  "correct_answer": [
+    "D"
+  ]
+}

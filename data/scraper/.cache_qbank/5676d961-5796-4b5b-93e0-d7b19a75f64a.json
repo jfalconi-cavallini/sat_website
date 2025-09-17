@@ -1,0 +1,38 @@
+{
+  "vaultid": "e4ad3719-9a43-4cf4-8037-1c2d998e67e1",
+  "keys": [
+    "3e2c0bd0-43fe-485f-9e19-e50915591dcb"
+  ],
+  "rationale": "<p>Choice D is the best answer because it presents a statement about Mrs. Ochiltree&rsquo;s acquaintances that is supported by the text. The text indicates that Mrs. Ochiltree makes comments about her acquaintances that are frank, or direct and blunt, and sometimes startling. It also states that because of this behavior, the acquaintances tend to avoid Mrs. Ochiltree. Together, these details suggest that the acquaintances choose not to be around Mrs. Ochiltree because they are offended by the things she has said about them. </p><p>Choice A is incorrect because the text doesn&rsquo;t suggest that Mrs. Ochiltree&rsquo;s acquaintances avoid discussing topics that would upset Mrs. Ochiltree; instead, it states that they avoid being around Mrs. Ochiltree at all. Choice B is incorrect because the text makes it clear that Mrs. Ochiltree knows her acquaintances often avoid her and is pleased about it (she &ldquo;rather exulted in it&rdquo;), not that she wants to spend more time with them. Choice C is incorrect because the text doesn&rsquo;t suggest that Mrs. Ochiltree&rsquo;s acquaintances don&rsquo;t speak with Mrs. Ochiltree because they are too focused on their own concerns, but rather because they don&rsquo;t like the frank comments she makes.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Based on the text, what is true about Mrs. Ochiltree&rsquo;s acquaintances?</p>",
+  "externalid": "5676d961-5796-4b5b-93e0-d7b19a75f64a",
+  "stimulus": "<p>The following text is adapted from Charles W. Chesnutt&rsquo;s 1901 novel <em>The Marrow of Tradition</em>. </p>\n<p style='padding-left:1em'>Mrs. Ochiltree was a woman of strong individuality, whose comments upon her acquaintance[s], present or absent, were marked by a frankness at times no less than startling. This characteristic caused her to be more or less avoided. Mrs. Ochiltree was aware of this sentiment on the part of her acquaintance[s], and rather exulted in it.</p>",
+  "templateclusterid": "a1474287-2a54-4c19-a90a-c838a550263a",
+  "parenttemplatename": "OSP-009-CID",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "5f84b618-0d29-4952-a2b7-77af5fbd93f7",
+      "content": "<p>They try to refrain from discussing topics that would upset Mrs. Ochiltree.&nbsp;</p>"
+    },
+    {
+      "id": "83571b54-817d-4243-9313-6990b7a9a157",
+      "content": "<p>They are unable to spend as much time with Mrs. Ochiltree as she would like.</p>"
+    },
+    {
+      "id": "b34403ec-5f3b-43fe-afb8-74eb6bd11378",
+      "content": "<p>They are too preoccupied with their own concerns to speak with Mrs. Ochiltree.</p>"
+    },
+    {
+      "id": "3e2c0bd0-43fe-485f-9e19-e50915591dcb",
+      "content": "<p>They are likely offended by what Mrs. Ochiltree has said about them.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

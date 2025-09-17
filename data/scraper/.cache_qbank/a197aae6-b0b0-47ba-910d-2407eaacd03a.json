@@ -1,0 +1,38 @@
+{
+  "vaultid": "67a81cb4-81b5-47e7-b3e1-0e767b16d92f",
+  "keys": [
+    "d09c0356-4ba8-4846-996e-661ba1c15b1f"
+  ],
+  "rationale": "<p>Choice C is the best answer because it accurately describes data from the table that support Barrett and Rayfield&rsquo;s suggestion about bite force estimates. According to the text, Barrett and Rayfield believe that estimates of dinosaur bite force may be strongly influenced by the methods used to produce them&mdash;that is, that different methods may produce significantly different results. The table shows that the studies by Bates and Falkingham and by Cost et al. used the same estimation method (muscular and skeletal modeling) and produced similar bite force estimates (approximately 35,000&ndash;57,000 newtons and 35,000&ndash;63,000 newtons, respectively). The study by Meers, however, used body-mass scaling and produced a much higher bite force estimate (183,000&ndash;235,000 newtons), while the study by Gignac and Erickson used tooth-bone interaction analysis and produced a much lower bite force estimate (8,000&ndash;34,000 newtons). The fact that one method produced similar estimates in two different studies and that two different methods used in other studies produced substantially different estimates supports the idea that dinosaur bite force estimates are significantly influenced by the methodology used to produce them. </p><p>Choice A is incorrect because it inaccurately describes data from the table. The table does show that the studies by Meers and by Cost et al. used different estimation methods and produced very different ranges of estimated dinosaur bite force, which would support Barrett and Rayfield&rsquo;s suggestion that different methodologies may produce significantly different estimates. However, the table doesn&rsquo;t show that the study by Meers produced the lowest estimated maximum bite force while the study by Cost et al. produced the highest. In fact, the study by Meers estimated a maximum bite force of approximately 235,000 newtons, which is the highest of all the estimated maximums. Choice B is incorrect. Although the data from Gignac and Ericson&rsquo;s study are accurately described, a single set of findings from one study using only one methodology can&rsquo;t show that different methodologies may produce significantly different dinosaur bite force estimates, as Barrett and Rayfield suggest. Choice D is incorrect. Although the table shows that the maximum bite force estimated by Cost et al. was higher than that estimated by Bates and Falkingham, the difference is relatively small; in fact, both teams estimated a minimum bite force of approximately 35,000 newtons and a maximum bite force close to approximately 60,000 newtons. Because these findings demonstrate that a single methodology (muscular and skeletal modeling) produced similar overall results in two studies, the findings don&rsquo;t support Barrett and Rayfield&rsquo;s suggestion that different methodologies may produce significantly different dinosaur bite force estimates. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes data from the table that support Barrett and Rayfield&rsquo;s suggestion?</p>",
+  "externalid": "a197aae6-b0b0-47ba-910d-2407eaacd03a",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Estimates of Tyrannosaurid Bite Force</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Study</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Year</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Estimation method</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Approximate bite force (newtons)</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">Cost et al.</th><td style=\"text-align: center;\">2019</td><td>muscular and skeletal modeling</td><td>35,000&ndash;63,000</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Gignac and Erickson</th><td style=\"text-align: center;\">2017</td><td>tooth-bone interaction analysis</td><td>8,000&ndash;34,000</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Meers</th><td style=\"text-align: center;\">2002</td><td>body-mass scaling</td><td>183,000&ndash;235,000</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Bates and Falkingham</th><td style=\"text-align: center;\">2012</td><td>muscular and skeletal modeling</td><td>35,000&ndash;57,000</td></tr></tbody></table></figure></p>\n<p>The largest tyrannosaurids&mdash;the family of carnivorous dinosaurs that includes <em>Tarbosaurus</em>, <em>Albertosaurus</em>, and, most famously, <em>Tyrannosaurus</em> <em>rex</em>&mdash;are thought to have had the strongest bites of any land animals in Earth&rsquo;s history. Determining the bite force of extinct animals can be difficult, however, and paleontologists Paul Barrett and Emily Rayfield have suggested that an estimate of dinosaur bite force may be significantly influenced by the methodology used in generating that estimate.</p>",
+  "templateclusterid": "ff02aac9-aaca-4b13-9f2e-2739adf57665",
+  "parenttemplatename": "OSP-525-QUA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "0174b273-972f-42a7-b046-24c668701677",
+      "content": "<p>The study by Meers used body-mass scaling and produced the lowest estimated maximum bite force, while the study by Cost et al. used muscular and skeletal modeling and produced the highest estimated maximum.</p>"
+    },
+    {
+      "id": "222e39f6-9bcd-4397-851a-fde42f72e76f",
+      "content": "<p>In their study, Gignac and Erickson used tooth-bone interaction analysis to produce an estimated bite force range with a minimum of 8,000 newtons and a maximum of 34,000 newtons.</p>"
+    },
+    {
+      "id": "d09c0356-4ba8-4846-996e-661ba1c15b1f",
+      "content": "<p>The bite force estimates produced by Bates and Falkingham and by Cost et al. were similar to each other, while the estimates produced by Meers and by Gignac and Erickson each differed substantially from any other estimate.&nbsp;</p>"
+    },
+    {
+      "id": "236a7810-eb55-47aa-b387-d2fece81f93b",
+      "content": "<p>The estimated maximum bite force produced by Cost et al. exceeded the estimated maximum produced by Bates and Falkingham, even though both groups of researchers used the same method to generate their estimates.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

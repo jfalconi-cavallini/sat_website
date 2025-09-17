@@ -1,0 +1,38 @@
+{
+  "vaultid": "fe7e29db-05c8-44a8-b294-7eb04d3cddfd",
+  "keys": [
+    "e5bb6f6b-ffb2-4112-9571-2c1ac9f5e232"
+  ],
+  "rationale": "<p>Choice C is the best answer because it best describes how the underlined sentence functions in the text as a whole. The first two sentences establish that birds of some species don&rsquo;t raise their own young; instead, they lay their eggs in the nests of birds of other species. The underlined sentence then states that female cuckoo birds engage in this behavior, having been observed specifically laying their eggs in other nests while the other birds are out finding food. According to the text, the cuckoo chicks are then raised by the other birds. Thus, the underlined sentence provides a particular detail about how female cuckoos carry out the behavior of laying eggs for other birds to raise. </p><p>Choice A is incorrect. Rather than mentioning a physical feature of female cuckoos, the underlined sentence introduces a specific behavior of female cuckoos: laying eggs in the nests of birds of other species when the other birds are away. The only reference to physical features is the last sentence&rsquo;s general mention of cuckoo chicks looking different from chicks of other species. Choice B is incorrect because the underlined sentence refers to the nests of birds other than cuckoos and doesn&rsquo;t describe how any nests look, cuckoo or otherwise. Instead, the sentence addresses how female cuckoos use other birds&rsquo; nests. Choice D is incorrect because the underlined sentence describes only female cuckoo behavior (laying eggs in the nests of birds of other species when the other birds are away); it&rsquo;s the last sentence of the text that addresses the other birds&rsquo; reaction, indicating that those birds usually raise the cuckoo chicks once they&rsquo;ve hatched.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes the function of the underlined sentence in the text as a whole?</p>",
+  "externalid": "21e6d1f4-15ed-49a1-87c9-cbcd3f0b78ed",
+  "stimulus": "<p>Some bird species don&rsquo;t raise their own chicks. Instead, adult females lay their eggs in other nests, next to another bird species&rsquo; own eggs. <span role=\"region\" aria-label=\"Referenced Content\"><u>Female cuckoos have been seen quickly laying eggs in the nests of other bird species when those birds are out looking for food.</u></span> After the eggs hatch, the noncuckoo parents will typically raise the cuckoo chicks as if they were their own offspring, even if the cuckoos look very different from the other chicks.</p>",
+  "templateclusterid": "51384c76-2b35-4a7b-a50d-5bdc49f2aeff",
+  "parenttemplatename": "OSP-005-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "3f87a11f-33e7-445f-88c3-34b71ed20db3",
+      "content": "<p>It introduces a physical feature of female cuckoos that is described later in the text.</p>"
+    },
+    {
+      "id": "fedb7cbe-ba84-4bc8-9c76-58bfea690aa5",
+      "content": "<p>It describes the appearance of the cuckoo nests mentioned earlier in the text.</p>"
+    },
+    {
+      "id": "e5bb6f6b-ffb2-4112-9571-2c1ac9f5e232",
+      "content": "<p>It offers a detail about how female cuckoos carry out the behavior discussed in the text.</p>"
+    },
+    {
+      "id": "d654635d-bc33-4d0e-840a-2e9d1199560c",
+      "content": "<p>It explains how other birds react to the female cuckoo behavior discussed in the text.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

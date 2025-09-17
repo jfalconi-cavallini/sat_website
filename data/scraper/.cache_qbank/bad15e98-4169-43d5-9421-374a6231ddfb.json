@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>According to the text, what did the narrator and Mario do while riding in the car?</p>",
+  "stimulus": "<p>The following text is adapted from Sylvia Acevedo&rsquo;s 2018 memoir <em>Path to the Stars: My Journey from Girl Scout to Rocket Scientist. </em>The narrator is traveling by car with her family to Mexico City. Mario and Laura are her brother and sister.</p>\n<blockquote>\n<p>Mario and I played games to see how many different license plates we could spot, and Laura liked to look for children in the back seats of the cars we passed. We were used to the forty-five-minute drive to El Paso and familiar with the six-hour ride to Chihuahua, but I wondered what the long journey to Mexico City would be like.</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;2018 by Sylvia Acevedo</span></p>",
+  "keys": [
+    "8eddf5a8-9c38-45ac-b918-d50058268e78"
+  ],
+  "answerOptions": [
+    {
+      "id": "4bb11c5c-7d2b-43c4-ae0a-499265adebf0",
+      "content": "<p>They read books.&nbsp;</p>"
+    },
+    {
+      "id": "8767bd87-2e95-44a6-8dfb-57b20d1d9c0c",
+      "content": "<p>They sang songs.</p>"
+    },
+    {
+      "id": "3a8b1596-b9fb-4507-beca-b733c6b87c83",
+      "content": "<p>They went to sleep.</p>"
+    },
+    {
+      "id": "8eddf5a8-9c38-45ac-b918-d50058268e78",
+      "content": "<p>They played games.</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most accurately describes what the narrator and Mario did while riding in the car. The text describes a car trip that the narrator is taking with her family. The text states that during the car ride, the narrator and Mario \"played games\" to see how many different license plates they could spot.</p><p>Choice A is incorrect because the text doesn&rsquo;t mention the narrator and Mario reading during the car ride and instead describes them playing games. Choice B is incorrect because the text doesn&rsquo;t mention the narrator and Mario singing songs during the car ride and instead describes them playing games. Choice C is incorrect because the text doesn&rsquo;t mention the narrator and Mario sleeping during the car ride and instead describes them playing games.</p>",
+  "externalid": "bad15e98-4169-43d5-9421-374a6231ddfb",
+  "correct_answer": [
+    "D"
+  ]
+}

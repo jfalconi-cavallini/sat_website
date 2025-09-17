@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Technologies such as microphones and inkjet printers are made using piezoelectric materials, which generate an internal electric field when pressure is applied to them. The toxic nature of some of these materials recently led a team from the University of Sheffield to investigate how <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "4ae568f5-757c-4469-9b1c-e176a25813b0"
+  ],
+  "answerOptions": [
+    {
+      "id": "24985b84-dcd5-42bf-8048-7c0a3f7c6cf5",
+      "content": "<p>could their use be better regulated<span data-ssml-say-as=\"characters\">?</span></p>"
+    },
+    {
+      "id": "4ae568f5-757c-4469-9b1c-e176a25813b0",
+      "content": "<p>their use could be better regulated<span data-ssml-say-as=\"characters\">.</span></p>"
+    },
+    {
+      "id": "8ffe7c2d-12aa-4f1c-a851-37103997e00a",
+      "content": "<p>their use could be better regulated<span data-ssml-say-as=\"characters\">?</span></p>"
+    },
+    {
+      "id": "e8fcf2ac-b067-407c-8603-f8fe4fd9fbcb",
+      "content": "<p>could their use be better regulated<span data-ssml-say-as=\"characters\">.</span></p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is end-of-sentence punctuation. This choice correctly uses a period to punctuate a declarative sentence that asks an indirect question (\"The toxic nature of some of these materials recently led a team from the University of Sheffield to investigate how their use could be better regulated\").</p><p>Choice A is incorrect because the structure requires a period and a declarative clause at the end of the sentence that states what the team investigated, not an interrogative clause that asks a direct question, such as \"how could their use be better regulated?\" Choice C is incorrect because it&rsquo;s unconventional to use a question mark in this way to punctuate a declarative sentence. Choice D is incorrect because the structure requires a declarative clause at the end of the sentence that states what the team investigated, not an interrogative clause that asks a direct question, such as \"how could their use be better regulated?\"</p>",
+  "externalid": "06418ce9-cee6-42af-9e2e-f3c006985aff",
+  "correct_answer": [
+    "B"
+  ]
+}

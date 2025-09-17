@@ -1,0 +1,38 @@
+{
+  "vaultid": "682b5d48-52bc-4fce-9382-0abc578fbf41",
+  "keys": [
+    "edc66f21-0674-4e89-8c83-36d70dee3171"
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of Ward and colleagues&rsquo; findings. As used in this context, &ldquo;innocuous&rdquo; means mild or unharmful. The text describes the vibration and warming that Ward and colleagues used to alleviate itching as &ldquo;harmless applications&rdquo; and goes on to contrast these applications with another stimulus that actually offers more relief even though it seems to be stronger and &ldquo;less benign.&rdquo; This context conveys the idea that vibration and warming were innocuous stimuli.&nbsp;</p><p>Choice A is incorrect because the text focuses on a distinction between harmless stimuli and those that seem to be less benign. Nothing in the text suggests that any of the treatments are &ldquo;deceptive,&rdquo; or misleading; indeed, even the less effective ones are described as offering some relief.&nbsp;Choice C is incorrect because the text focuses on the amount of relief from itching offered by harmless stimuli and those that seem to be less benign. The text doesn&rsquo;t suggest that any of these stimuli are &ldquo;novel,&rdquo; or original and new; heat, vibration, and electricity aren&rsquo;t new inventions. Choice D is incorrect because it wouldn&rsquo;t make sense to describe an application of vibration or warming as &ldquo;impractical,&rdquo; or not suitable for use. The text indicates that these harmless applications are useful in that they offer at least some temporary relief. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "7c59600e-84ce-444a-a00b-274cf3423c3b",
+  "stimulus": "<p>In studying the use of external stimuli to reduce the itching sensation caused by an allergic histamine response, Louise Ward and colleagues found that while harmless applications of vibration or warming can provide a temporary distraction, such <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> stimuli actually offer less relief than a stimulus that seems less benign, like a mild electric shock.</p>",
+  "templateclusterid": "0db59e8b-a820-437e-8cdb-c713bf87b4de",
+  "parenttemplatename": "OSP-957-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "494cac67-d240-49b6-bc31-1ddc3c66e81d",
+      "content": "<p>deceptive</p>"
+    },
+    {
+      "id": "edc66f21-0674-4e89-8c83-36d70dee3171",
+      "content": "<p>innocuous</p>"
+    },
+    {
+      "id": "14c972b4-a823-4c82-9207-5c7a71a2ae77",
+      "content": "<p>novel</p>"
+    },
+    {
+      "id": "10818274-b52c-4141-b6bc-64808c4e1555",
+      "content": "<p>impractical</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

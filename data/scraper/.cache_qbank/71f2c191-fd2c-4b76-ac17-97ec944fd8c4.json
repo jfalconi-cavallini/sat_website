@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>In most deer species, males grow antlers, and females don&rsquo;t. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> reindeer are different. They are the only deer species in which the females grow antlers, too.</p>",
+  "type": "mcq",
+  "keys": [
+    "3eb1f6b3-abdd-4f9c-8ed5-c35bddb14e54"
+  ],
+  "answerOptions": [
+    {
+      "id": "a9560c8c-7d11-4149-93b5-6e016d24ef04",
+      "content": "<p>Similarly,</p>"
+    },
+    {
+      "id": "27128767-b51d-4684-9626-434fe186022e",
+      "content": "<p>Next,</p>"
+    },
+    {
+      "id": "3eb1f6b3-abdd-4f9c-8ed5-c35bddb14e54",
+      "content": "<p>However,</p>"
+    },
+    {
+      "id": "5b4fbd15-d986-48b1-907d-81e47144e9ef",
+      "content": "<p>Thus,</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. \"However\" logically signals that the claim about reindeer in this sentence contrasts with the information about most deer species in the previous sentence.</p><p>Choice A is incorrect because \"similarly\" illogically signals that the claim in this sentence is similar to the previous information about most deer species. Instead, it contrasts with that information. Choice B is incorrect because \"next\" illogically signals that the claim about reindeer in this sentence is the next step in a process. Instead, it contrasts with the previous information about most deer species. Choice D is incorrect because \"thus\" illogically signals that the claim in this sentence results from the previous information about most deer species. Instead, it contrasts with that information.</p>",
+  "externalid": "71f2c191-fd2c-4b76-ac17-97ec944fd8c4",
+  "correct_answer": [
+    "C"
+  ]
+}

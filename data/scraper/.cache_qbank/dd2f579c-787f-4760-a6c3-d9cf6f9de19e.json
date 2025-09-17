@@ -1,0 +1,38 @@
+{
+  "vaultid": "c193b65e-7b9c-490d-a952-d0763df7d858",
+  "keys": [
+    "0e385f0f-986a-4243-aa8e-b2c9d1f5463f"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of aerogels. The text states that aerogels&mdash;highly porous foams&mdash;offer \"excellent insulation\" but typically break down after prolonged exposure to high heat. However, according to the text, Duan and colleagues developed an aerogel that \"contracts rather than expands when heated\" and recovers its original volume after this contraction. Thus, it is logical to conclude that Duan&rsquo;s team&rsquo;s aerogel material will be less prone to the structural weakness that caused earlier aerogels to break down.</p><p>Choice A is incorrect. Although the text indicates that aerogels consist \"mainly of tiny air pockets within a solidified gel,\" it doesn&rsquo;t mention the number or proportion of air pockets to solidified gel in typical aerogels or in the aerogel developed by Duan&rsquo;s team. Choice B is incorrect because the text suggests that the aerogel developed by Duan&rsquo;s team has a higher, not a lower, ability to withstand exposure to intense heat due to its contraction and subsequent recovery. Choice C is incorrect. Although the text discusses temperature tolerances of aerogels and says that they offer \"excellent insulation despite typically being brittle and eventually fracturing,\" it doesn&rsquo;t discuss how different rates of temperature change can affect aerogels.</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "dd2f579c-787f-4760-a6c3-d9cf6f9de19e",
+  "stimulus": "<p>Aerogels are highly porous foams consisting mainly of tiny air pockets within a solidified gel. These lightweight materials are often applied to spacecraft and other equipment required to withstand extreme conditions, as they provide excellent insulation despite typically being brittle and eventually fracturing due to degradation from repeated exposure to high heat. Now, Xiangfeng Duan of the University of California, Los Angeles, and colleagues have developed an aerogel with uniquely flexible properties. Unlike earlier aerogels, Duan&rsquo;s team&rsquo;s material contracts rather than expands when heated and fully recovers after compressing to just 5% of its original volume, suggesting that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "d3da4584-9a31-42dc-bbe2-3b8a5a0ad736",
+  "parenttemplatename": "OSP-060-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "9d0ed868-8d5c-4aeb-9ccf-4067f5c8b703",
+      "content": "<p>the aerogel&rsquo;s remarkable flexibility results from its higher proportion of air pockets to solidified gel as compared to other aerogels.</p>"
+    },
+    {
+      "id": "293ae07e-bd75-428e-8efa-67fb53ec8104",
+      "content": "<p>the aerogel&rsquo;s overall strength is greater than that of other insulators but its ability to withstand exposure to intense heat is lower.</p>"
+    },
+    {
+      "id": "a9a0f9ea-9b18-4a68-8994-6f451f534e3a",
+      "content": "<p>the aerogel will be more effective as an insulator for uses that involve gradual temperature shifts than for those that involve rapid heat increases.</p>"
+    },
+    {
+      "id": "0e385f0f-986a-4243-aa8e-b2c9d1f5463f",
+      "content": "<p>the aerogel will be less prone to the structural weakness that ultimately causes most other aerogels to break down with use.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

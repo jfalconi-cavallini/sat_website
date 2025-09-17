@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Julia Alvarez&rsquo;s 1994 novel <em>In the Time of the Butterflies, </em>a fictionalized account of the lives of the Mirabal <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> can serve as a starting point for those wanting to explore how the rule of dictator Rafael Trujillo<em>&nbsp;</em>has been represented in Dominican American literature.&nbsp;</p>",
+  "type": "mcq",
+  "keys": [
+    "05d06d46-67a3-4490-8f80-8cd99fb9bb8d"
+  ],
+  "answerOptions": [
+    {
+      "id": "040965c9-86c6-4013-9cda-17b54a9505c8",
+      "content": "<p>sisters, and</p>"
+    },
+    {
+      "id": "9bcec556-4110-43e6-8ea1-027be840f3f2",
+      "content": "<p>sisters and</p>"
+    },
+    {
+      "id": "05d06d46-67a3-4490-8f80-8cd99fb9bb8d",
+      "content": "<p>sisters,</p>"
+    },
+    {
+      "id": "5459ed33-c2b9-4ddc-b949-60e3c7131373",
+      "content": "<p>sisters</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the punctuation of a supplementary element within a sentence. The comma after \"sisters\" pairs with the comma after \"<em>Butterflies</em>\" to separate the supplementary element \"a fictionalized account of the lives of the Mirabal sisters\" from the rest of the sentence. This supplementary element functions to describe the novel <em>In the Time of the Butterflies</em>, and the pair of commas indicates that this element could be removed without affecting the grammatical coherence of the sentence.</p><p>Choice A is incorrect because a comma and conjunction can&rsquo;t be used in this way to separate the supplementary element from the rest of the sentence. Choice B is incorrect because it fails to use appropriate punctuation to separate the supplementary element from the rest of the sentence. Choice D is incorrect because it fails to use appropriate punctuation to separate the supplementary element from the rest of the sentence.</p>",
+  "externalid": "2ce12901-ba63-4561-9077-97d4b4b4fc47",
+  "correct_answer": [
+    "C"
+  ]
+}

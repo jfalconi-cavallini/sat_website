@@ -1,0 +1,31 @@
+{
+  "stem": "<p>As used in the text, what does the word &ldquo;soft&rdquo; most nearly mean?</p>",
+  "stimulus": "<p>The following text is adapted from Lewis Carroll&rsquo;s 1871 novel <em>Through the Looking-Glass, and What Alice Found There</em>. Alice, a child, is talking to her cat.</p>\n<blockquote>\n<p>&ldquo;Do you hear the snow against the window-panes, Kitty? How nice and <span role=\"region\" aria-label=\"Referenced Content\"><u>soft</u></span> it sounds! Just as if someone was kissing the window all over outside.&rdquo;</p>\n</blockquote>",
+  "type": "mcq",
+  "keys": [
+    "b2801f09-b8f9-4e48-ba3d-9567fe4cda26"
+  ],
+  "answerOptions": [
+    {
+      "id": "b2801f09-b8f9-4e48-ba3d-9567fe4cda26",
+      "content": "<p>Gentle</p>"
+    },
+    {
+      "id": "ac4a5ecc-7fee-474a-ac87-7435347c1913",
+      "content": "<p>Sensitive</p>"
+    },
+    {
+      "id": "c3717c6a-daa8-4df4-a2c3-ef3e0f032ad3",
+      "content": "<p>Shapeless</p>"
+    },
+    {
+      "id": "92990af6-774e-4cd3-9ed8-573eb4ab1ccd",
+      "content": "<p>Bland</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because as used in the text, \"soft\" most nearly means gentle. The text portrays Alice speaking about the snow falling against the window, describing it as sounding \"nice\" and similar to someone \"kissing the window.\" These details most strongly suggest that Alice thinks the sound made by the snow falling against the window is gentle.</p><p>Choice B is incorrect. Although in some contexts, \"gentle\" can mean sensitive, or caring about others&rsquo; feelings, that isn&rsquo;t the meaning in this context; it doesn&rsquo;t make sense to say that Alice thinks the sound of the snow cares about anything. Choice C is incorrect because the text doesn&rsquo;t suggest that Alice thinks the sound of the snow is shapeless, or lacks a definite shape; she isn&rsquo;t indicating how anything looks or feels but, rather, is describing how \"nice\" and gentle the snow sounds. Choice D is incorrect because the text doesn&rsquo;t suggest that Alice thinks the sound of the snow is bland, or uninteresting; rather, she notices the sound and comments on how \"nice\" it is.</p>",
+  "externalid": "2b0ec1b9-82bf-48d1-9817-b1fc4aaab9b6",
+  "correct_answer": [
+    "A"
+  ]
+}

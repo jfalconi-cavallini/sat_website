@@ -1,0 +1,38 @@
+{
+  "vaultid": "d650f7cb-aef8-43c6-8b21-8c79b3bfee00",
+  "keys": [
+    "7a753ece-b8c9-4e1a-a26b-c295dff7417f"
+  ],
+  "rationale": "<p>Choice A is the best answer. &ldquo;Nevertheless&rdquo; logically signals that the information in this sentence&mdash;that the spacesuits Suttirat Larlarb designed for the film <em>Sunshine</em> were made in standard sizes in a factory&mdash;presents a notable exception to Larlarb&rsquo;s typical approach of custom-fitting garments to actors, which is described in the previous sentence.&nbsp;</p><p>Choice B is incorrect because &ldquo;thus&rdquo; illogically signals that the information in this sentence is a result or consequence of the previous information about Larlarb&rsquo;s typical approach of custom-fitting garments to actors. Instead, it presents a notable exception to Larlarb&rsquo;s typical approach. Choice C is incorrect because &ldquo;likewise&rdquo; illogically signals that the information in this sentence is similar to the previous information about Larlarb&rsquo;s typical approach of custom-fitting garments to actors. Instead, it presents a notable exception to Larlarb&rsquo;s typical approach. Choice D is incorrect because &ldquo;moreover&rdquo; illogically signals that the information in this sentence merely adds to the previous information about Larlarb&rsquo;s typical approach of custom-fitting garments to actors. Instead, it presents a notable exception to Larlarb&rsquo;s typical approach.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "f830b98a-f26c-4665-9abb-e89265908b38",
+  "stimulus": "<p>When designing costumes for film, American artist Suttirat Larlarb typically custom fits the garments to each actor. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> for the film <em>Sunshine</em>, in which astronauts must reignite a dying Sun, she designed a golden spacesuit and had a factory reproduce it in a few standard sizes; lacking a tailor-made quality, the final creations reflected the ungainliness of actual spacesuits.</p>",
+  "templateclusterid": "96a02f32-3225-4fbe-9be7-9790c557a6a7",
+  "parenttemplatename": "OSP-222-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "7a753ece-b8c9-4e1a-a26b-c295dff7417f",
+      "content": "<p>Nevertheless,</p>"
+    },
+    {
+      "id": "fdb5bbeb-4c7b-481c-ae5c-cda4b1152c9f",
+      "content": "<p>Thus,</p>"
+    },
+    {
+      "id": "66aae803-0930-441a-8202-2f5be250b20f",
+      "content": "<p>Likewise,</p>"
+    },
+    {
+      "id": "476a0c87-82d7-4b5e-9d2a-03c5fcf6953b",
+      "content": "<p>Moreover,</p>"
+    }
+  ],
+  "correct_answer": [
+    "A"
+  ]
+}

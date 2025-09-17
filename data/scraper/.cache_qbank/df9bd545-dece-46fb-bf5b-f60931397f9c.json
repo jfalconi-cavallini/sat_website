@@ -1,0 +1,38 @@
+{
+  "vaultid": "1c8e9791-08dd-44a5-8e00-0194ba309275",
+  "keys": [
+    "c3b70aa9-0126-46a6-8e35-12e8ce30aaf1"
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice uses a semicolon to correctly join the first main clause (&ldquo;The Mission&hellip;parks&rdquo;) and the second main clause that begins with &ldquo;it.&rdquo; </p><p>Choice A is incorrect. When coordinating two longer main clauses such as these, it&rsquo;s conventional to use a comma before the coordinating conjunction.&nbsp;Choice B is incorrect because it results in a run-on sentence. The two main clauses are fused without punctuation and/or a conjunction.&nbsp;Choice D is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "df9bd545-dece-46fb-bf5b-f60931397f9c",
+  "stimulus": "<p>The Mission 66 initiative, which was approved by Congress in 1956, represented a major investment in the infrastructure of overburdened national <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> it prioritized physical improvements to the parks&rsquo; roads, utilities, employee housing, and visitor facilities while also establishing educational programming for the public.</p>",
+  "templateclusterid": "dc5aaa47-31d9-4537-b07a-022a4525d6f1",
+  "parenttemplatename": "OSP-672-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "57720961-b3cc-4275-82f6-fe2a29b300da",
+      "content": "<p>parks and</p>"
+    },
+    {
+      "id": "7c2a1eb8-95bc-436a-98a0-5d0690d2575b",
+      "content": "<p>parks</p>"
+    },
+    {
+      "id": "c3b70aa9-0126-46a6-8e35-12e8ce30aaf1",
+      "content": "<p>parks;</p>"
+    },
+    {
+      "id": "07957802-edb9-460e-9b3a-3a9e43169f5f",
+      "content": "<p>parks,</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

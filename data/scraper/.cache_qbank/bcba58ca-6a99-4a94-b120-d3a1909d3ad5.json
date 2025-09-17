@@ -1,0 +1,38 @@
+{
+  "vaultid": "4d2acb3a-046f-43a0-a238-0d8adf9cffe8",
+  "keys": [
+    "9c10ddcd-612f-4a86-8e16-e63b817907fa"
+  ],
+  "rationale": "<p>Choice D is the best answer because it best describes the function of the underlined sentence in the text&rsquo;s overall portrayal of how the women in Ohiyesa&rsquo;s tribe harvested maple syrup. The text states that the women used an axe to strike the maple trees in order to find out which ones would produce sap. The underlined sentence compares the trees to people, with the sap described as the trees&rsquo; &ldquo;life-blood.&rdquo; Some of the trees are ready to give out their sap, while others are unwilling to do so. Using personification, the sentence provides greater detail about the aspect of the maple trees&mdash;their potential to give sap&mdash;that the women are evaluating. </p><p>Choice A is incorrect because the personalities of the women are not discussed in the text. Although the underlined sentence does mention &ldquo;individual characters,&rdquo; this reference is not to the women in the text but rather to the maple trees, which the sentence compares to people with individual character traits. Choice B is incorrect because the underlined sentence focuses on the trees&rsquo; willingness or refusal to yield sap, not on the beneficial relationship between the women and the trees. Additionally, although the text does suggest that the women and their tribe benefit from the maple trees since the trees allow the women to harvest syrup, there is nothing in the text to suggest that the trees benefit from this relationship in turn. Choice C is incorrect because the underlined sentence is comparing maple trees to humans, not addressing the influence of the natural environment on how the actual humans in the text, the women, behave. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best describes the function of the underlined sentence in the text as a whole?</p>",
+  "externalid": "bcba58ca-6a99-4a94-b120-d3a1909d3ad5",
+  "stimulus": "<p>The following text is adapted from <em>Indian Boyhood</em>, a 1902 memoir by Ohiyesa (Charles A. Eastman), a Santee Dakota writer. In the text, Ohiyesa recalls how the women in his tribe harvested maple syrup during his childhood.</p>\n<p style='padding-left: 1em;'>Now the women began to test the trees&mdash;moving leisurely among them, axe in hand, and striking a single quick blow, to see if the sap would appear. <span role=\"region\" aria-label=\"Referenced Content\"><u>The trees, like people, have their individual characters; some were ready to yield up their life-blood, while others were more reluctant.</u></span> Now one of the birchen basins was set under each tree, and a hardwood chip driven deep into the cut which the axe had made. From the corners of this chip&mdash;at first drop by drop, then more freely&mdash;the sap trickled into the little dishes.</p>",
+  "templateclusterid": "41d24e6e-577a-4002-ac33-5fe25e880da2",
+  "parenttemplatename": "OSP-016-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "ef76c1cc-54c4-4bd6-ad9c-9b120043e21f",
+      "content": "<p>It portrays the range of personality traits displayed by the women as they work.</p>"
+    },
+    {
+      "id": "884eddb0-37bd-40e6-8942-26017f823bc9",
+      "content": "<p>It foregrounds the beneficial relationship between humans and maple trees.</p>"
+    },
+    {
+      "id": "7c7e1e45-f7a1-456b-92e6-189a1578d619",
+      "content": "<p>It demonstrates how human behavior can be influenced by the natural environment.</p>"
+    },
+    {
+      "id": "9c10ddcd-612f-4a86-8e16-e63b817907fa",
+      "content": "<p>It elaborates on an aspect of the maple trees that the women evaluate.</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

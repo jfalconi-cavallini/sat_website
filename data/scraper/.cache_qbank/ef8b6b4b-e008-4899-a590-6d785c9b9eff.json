@@ -1,0 +1,38 @@
+{
+  "vaultid": "4c22b4e4-93da-4488-828b-f442e8f1220b",
+  "keys": [
+    "5f35849a-26f9-41bf-8285-51194b685421"
+  ],
+  "rationale": "<p>Choice B is the best answer. The convention being tested is the punctuation of items in a complex series (a series including internal punctuation). The semicolon after &ldquo;nonnative&rdquo; is correctly used to separate the first item (&ldquo;growing diverse plant species, both native and nonnative&rdquo;) and the second item (&ldquo;fostering scientific research&rdquo;) in the series of things that botanical gardens are dedicated to. Further, the comma after &ldquo;species&rdquo; is correctly used to separate the noun phrase &ldquo;diverse plant species&rdquo; and the supplementary phrase &ldquo;both native and nonnative&rdquo; that modifies it. </p><p>Choice A is incorrect because a comma (specifically, the comma after &ldquo;nonnative&rdquo;) can&rsquo;t be used in this way to separate items in a complex series. Choice C is incorrect because a semicolon can&rsquo;t be used in this way to separate the noun phrase &ldquo;diverse plant species&rdquo; and the supplementary phrase &ldquo;both native and nonnative&rdquo; that modifies it. Further, a comma can&rsquo;t be used in this way to separate items in a complex series. Choice D is incorrect because it fails to use appropriate punctuation to separate the noun phrase &ldquo;diverse plant species&rdquo; and the supplementary phrase &ldquo;both native and nonnative&rdquo; that modifies it. Further, a comma can&rsquo;t be used in this way to separate items in a complex series. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "ef8b6b4b-e008-4899-a590-6d785c9b9eff",
+  "stimulus": "<p>The Arctic-Alpine Botanic Garden in Norway and the Jardim Bot&acirc;nico of Rio de Janeiro in Brazil are two of many botanical gardens around the world dedicated to growing diverse plant <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> fostering scientific research; and educating the public about plant conservation.</p>",
+  "templateclusterid": "877ba7e5-036d-49bd-845b-8705f7d76bf3",
+  "parenttemplatename": "OSP-653-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "06af6004-296e-4cf0-b371-af6e7fa41653",
+      "content": "<p>species, both native and nonnative,</p>"
+    },
+    {
+      "id": "5f35849a-26f9-41bf-8285-51194b685421",
+      "content": "<p>species, both native and nonnative;</p>"
+    },
+    {
+      "id": "f4aa91e2-a03a-4ce0-8850-9fea70bb4484",
+      "content": "<p>species; both native and nonnative,</p>"
+    },
+    {
+      "id": "38cc2a95-4ee7-4f7e-b398-047ba0be2062",
+      "content": "<p>species both native and nonnative,</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

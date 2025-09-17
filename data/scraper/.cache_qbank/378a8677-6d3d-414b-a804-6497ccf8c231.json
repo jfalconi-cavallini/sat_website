@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>&ldquo;He was just the man for such a place, and it was just the place for such a man.&rdquo; This line is from Frederick Douglass&rsquo;s autobiography <em>Narrative of the Life of Frederick Douglass</em> (1845). It&rsquo;s an example of antimetabole, a writing technique that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> emphasis by repeating a statement in a reversed order.</p>",
+  "type": "mcq",
+  "keys": [
+    "308b987c-014f-441b-ae92-e53d94f9ab63"
+  ],
+  "answerOptions": [
+    {
+      "id": "51b83d52-55a3-47fe-9baf-8e1d3daae42f",
+      "content": "<p>create</p>"
+    },
+    {
+      "id": "0751eb5d-4ac8-4bd6-8fcc-35ce92b43633",
+      "content": "<p>are creating</p>"
+    },
+    {
+      "id": "ec68c16a-71b5-47ba-90ab-44c7c8086c30",
+      "content": "<p>have created</p>"
+    },
+    {
+      "id": "308b987c-014f-441b-ae92-e53d94f9ab63",
+      "content": "<p>creates</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is subject-verb agreement. The singular verb \"creates\" agrees in number with the singular subject \"technique.\"</p><p>Choice A is incorrect because the plural verb \"create\" doesn&rsquo;t agree in number with the singular subject \"technique.\" Choice B is incorrect because the plural verb \"are creating\" doesn&rsquo;t agree in number with the singular subject \"technique.\" Choice C is incorrect because the plural verb \"have created\" doesn&rsquo;t agree in number with the singular subject \"technique.\"</p>",
+  "externalid": "378a8677-6d3d-414b-a804-6497ccf8c231",
+  "correct_answer": [
+    "D"
+  ]
+}

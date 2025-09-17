@@ -1,0 +1,38 @@
+{
+  "vaultid": "564a19fc-53e8-4513-97d5-ee1ce419e9b0",
+  "keys": [
+    "1a98874b-eba8-47ae-b651-ff434d5bce83"
+  ],
+  "rationale": "<p>Choice B is the best answer because it best states the main purpose of the text. The text begins by briefly stating that San Francisco is known for its murals, then transitions to a discussion of a single collection of murals, which is found on Balmy Alley in the city&rsquo;s Mission District. The text explains that the murals in this area were originally created in the 1970s, then observes that they have changed over time: as some have faded through the decades, others have been painted in their place. The text ends by emphasizing that these murals are significant because they reflect San Francisco&rsquo;s artistic spirit and cultural life. Therefore, the text provides an overview of the history and importance of the Balmy Alley murals. </p><p>Choice A is incorrect. Although it can be inferred from the text that there are murals in other areas of San Francisco besides Balmy Alley, the text doesn&rsquo;t specifically discuss murals in other areas or compare the murals of Balmy Alley to those in other areas. Choice C is incorrect. By observing that some of the murals of Balmy Alley have been replaced due to fading, the text implies that murals can decay, but it never urges readers to protect this specific collection of murals&mdash;or any murals elsewhere in San Francisco, for that matter. Indeed, by describing the ever-changing murals of Balmy Alley as &ldquo;a living showcase of San Francisco&rsquo;s artistic spirit,&rdquo; the text emphasizes the positive aspects of the fact that the original Balmy Alley murals have faded and been replaced with new murals. Choice D is incorrect because the text doesn&rsquo;t describe the rise of mural painting in San Francisco generally or note when this occurred. The only historical development of the 1970s mentioned in the text is the origin of the murals in a specific area of the city: Balmy Alley in the Mission District. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice best states the main purpose of the text?</p>",
+  "externalid": "ba47850b-1535-4452-8168-b466e906582d",
+  "stimulus": "<p>San Francisco is known for the colorful murals painted on many of its buildings. The densest collection of murals is found on Balmy Alley in the Mission District neighborhood. In the 1970s, Latina artists painted vivid scenes of community life on walls along this block. As the original murals have faded, later generations of artists have painted new ones over them. As a result, Balmy Alley has become a living showcase of San Francisco&rsquo;s artistic spirit, with its murals reflecting changes in the cultural life of the city.</p>",
+  "templateclusterid": "9532a96a-8971-4e17-97ae-ec3e9633d379",
+  "parenttemplatename": "OSP-041-TSP",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "7b9bdba4-d3fb-49a7-8d25-e99a8768d378",
+      "content": "<p>To compare the Balmy Alley murals to other murals in San Francisco</p>"
+    },
+    {
+      "id": "1a98874b-eba8-47ae-b651-ff434d5bce83",
+      "content": "<p>To offer an overview of the history and importance of the Balmy Alley murals</p>"
+    },
+    {
+      "id": "0364a4d6-ad0a-4182-9d54-d360ce2a71f8",
+      "content": "<p>To urge people to protect the murals of San Francisco from decay</p>"
+    },
+    {
+      "id": "6b54c638-0c54-44e3-a553-4e78cd8e2333",
+      "content": "<p>To describe the rise of mural painting in San Francisco beginning in the 1970s</p>"
+    }
+  ],
+  "correct_answer": [
+    "B"
+  ]
+}

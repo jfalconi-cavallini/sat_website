@@ -1,0 +1,38 @@
+{
+  "vaultid": "b92f112a-b481-49b9-80ae-32fcb5ddbab9",
+  "keys": [
+    "20207d47-e808-4f26-9ade-7aef27d121d9"
+  ],
+  "rationale": "<p>Choice D is the best answer.&nbsp;The convention being tested is subject&ndash;verb agreement. The singular verb &ldquo;is&rdquo; agrees in number with the singular subject &ldquo;the triangle.&rdquo; </p><p>Choice A is incorrect because the plural verb &ldquo;are&rdquo; doesn&rsquo;t agree in number with the singular subject &ldquo;the triangle.&rdquo; Choice B is incorrect because the plural verb &ldquo;have been&rdquo; doesn&rsquo;t agree in number with the singular subject &ldquo;the triangle.&rdquo; Choice C is incorrect because the plural verb &ldquo;were&rdquo; doesn&rsquo;t agree in number with the singular subject &ldquo;the triangle.&rdquo; </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "eaca3bb7-2f15-424a-8bc5-e6a3c42557a8",
+  "stimulus": "<p>In many of her landscape paintings from the 1970s and 1980s, Lebanese American artist Etel Adnan worked to capture the essence of California&rsquo;s fog-shrouded Mount Tamalpais region through abstraction, using splotches of color to represent the area&rsquo;s features. Interestingly, the triangle representing the mountain itself <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> among the few defined figures in her paintings.</p>",
+  "templateclusterid": "43db6196-9001-4ec0-bd9c-ae8cc3dd9f43",
+  "parenttemplatename": "OSP-622-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "1e000be6-f9f8-4a16-89f4-d53194ffa965",
+      "content": "<p>are</p>"
+    },
+    {
+      "id": "e84c4cf7-b1cb-4cf8-a0e7-410a205efbd0",
+      "content": "<p>have been&nbsp;</p>"
+    },
+    {
+      "id": "0b3b657b-d357-4eed-860a-15a90415721f",
+      "content": "<p>were</p>"
+    },
+    {
+      "id": "20207d47-e808-4f26-9ade-7aef27d121d9",
+      "content": "<p>is</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

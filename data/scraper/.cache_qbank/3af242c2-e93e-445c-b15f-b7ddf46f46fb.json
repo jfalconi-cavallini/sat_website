@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "stimulus": "<p>Following the Mata Ortiz pottery technique, Mexican sculptor Juan Quezada Celado starts by creating the base of the pot with a slab of clay. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> he builds the pot walls by layering coils of clay around the perimeter of the base. Celado then smooths out the pot&rsquo;s walls with a hacksaw blade. At last, the pot is ready to be painted.</p>",
+  "type": "mcq",
+  "keys": [
+    "dd3ea2ed-c4e2-4291-a717-50ad9e4c0e41"
+  ],
+  "answerOptions": [
+    {
+      "id": "ae6a81fd-508e-4c08-8cb0-f0b460dfcb07",
+      "content": "<p>For example,</p>"
+    },
+    {
+      "id": "6149c8cb-f1a8-4104-b809-1de64d0bda5a",
+      "content": "<p>However,</p>"
+    },
+    {
+      "id": "fc4bdfa4-db68-4fe9-9f7f-02a182cfd6a4",
+      "content": "<p>By contrast,</p>"
+    },
+    {
+      "id": "dd3ea2ed-c4e2-4291-a717-50ad9e4c0e41",
+      "content": "<p>Next,</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. \"Next\" logically signals that the information in this sentence&mdash;which explains how Celado builds the pot&rsquo;s walls&mdash;is the next step in Celado&rsquo;s pot creation process. The sentences that follow further signal this information by completing the process.</p><p>Choice A is incorrect because \"for example\" illogically signals that the information about Celado building pot walls in this sentence exemplifies the information in the previous sentence about how Celado&rsquo;s pot creation process begins. Instead, it is the next step in this process. Choice B is incorrect because \"however\" illogically signals that the information in this sentence contrasts with the information in the previous sentence about how Celado&rsquo;s pot creation process begins. Instead, it is the next step in this process. Choice C is incorrect because \"by contrast\" illogically signals that the information in this sentence contrasts with the information in the previous sentence about how Celado&rsquo;s pot creation process begins. Instead, it is the next step in this process.</p>",
+  "externalid": "3af242c2-e93e-445c-b15f-b7ddf46f46fb",
+  "correct_answer": [
+    "D"
+  ]
+}

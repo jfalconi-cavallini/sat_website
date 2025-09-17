@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Art scholars have noted that some colors seem to be more <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> viewers than others. For example, people tend to find paintings featuring blues and greens more appealing than paintings featuring yellows and oranges. &nbsp;</p>",
+  "keys": [
+    "d2a41bb1-481b-4832-aa98-3a5b498bb286"
+  ],
+  "answerOptions": [
+    {
+      "id": "423b23ba-4d3a-479b-8e5c-364b371596eb",
+      "content": "<p>confusing for</p>"
+    },
+    {
+      "id": "d2a41bb1-481b-4832-aa98-3a5b498bb286",
+      "content": "<p>attractive to</p>"
+    },
+    {
+      "id": "910e77c4-63a5-4e9d-94e8-467a1cf57fbb",
+      "content": "<p>corrected by</p>"
+    },
+    {
+      "id": "819d3e40-9c91-4582-8f3b-fac21a56a2e6",
+      "content": "<p>similar to</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it best completes the text&rsquo;s discussion of how viewers respond to colors. The text presents something art scholars have noted and gives the example of people tending to find paintings with blues and greens more appealing than those with yellows and oranges. This context conveys that certain colors are more \"attractive to\" viewers than other colors are.</p><p>Choice A is incorrect because the text indicates only that people tend to find some colors more appealing than others and gives no indication that certain colors are ever \"confusing for,\" or puzzling to, viewers. Choice C is incorrect because the text discusses the relative appeal of certain colors in paintings but gives no indication that any colors would ever be \"corrected by\" viewers, or somehow fixed or improved by them. Choice D is incorrect because it wouldn&rsquo;t make much sense to say that some colors are more \"similar to\" viewers than others, which would suggest that colors and viewers are alike to different degrees. Further, the text primarily emphasizes a difference, not a similarity, in how appealing paintings tend to be based on the colors they contain.</p>",
+  "externalid": "59d4e01c-ca0e-46e7-8e34-fa003898eec8",
+  "correct_answer": [
+    "B"
+  ]
+}

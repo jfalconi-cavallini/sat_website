@@ -1,0 +1,38 @@
+{
+  "vaultid": "a79a266d-042c-4151-901e-4161e0b3b7a5",
+  "keys": [
+    "26e35435-11cf-4c27-a86d-37edf31e8ebc"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most effectively uses data from the table to complete the statement. The table shows that on day 1, the menu for NASA&rsquo;s Gemini missions included sugar cookie cubes for meal B. </p><p>Choice A is incorrect because according to the table, shrimp cocktail was served on day 4, not day 1; moreover, the item was served for meal C, not meal B, as this choice claims. Choice B is incorrect because according to the table, hot cocoa was served on day 3, not on day 1; moreover, the item was served for meal A, not for meal C, as this choice claims. Choice D is incorrect because according to the table, chicken and vegetables were served on day 2, not on day 1; moreover, the item was served for meal B, not for meal A, as this choice claims. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most effectively uses data from the table to complete the statement?</p>",
+  "externalid": "38d454cc-7da0-46c5-8fa3-9f57526c1baa",
+  "stimulus": "<p><figure class=\"table\"><table class=\"gdr\"><caption style=\"caption-side: top;\"><p style=\"text-align: center;\">Sample of Food Items from Gemini Mission Menus</p></caption><thead><tr><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Food item</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Day</th><th scope=\"col\" style=\"text-align: center; vertical-align: bottom;\">Meal</th></tr></thead><tbody><tr><th scope=\"row\" style=\"text-align: left;\">Sugar cookie cubes</th><td style=\"text-align: center;\">1</td><td>B</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Chicken and vegetables</th><td style=\"text-align: center;\">2</td><td>B</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Shrimp cocktail</th><td style=\"text-align: center;\">4</td><td>C</td></tr><tr><th scope=\"row\" style=\"text-align: left;\">Hot cocoa</th><td style=\"text-align: center;\">3</td><td>A</td></tr></tbody></table></figure></p>\n<p>To make sure they got the nutrition they needed while in space, the astronauts of NASA&rsquo;s Gemini missions were given menus for three meals a day (meals A, B, and C) on a four-day rotating schedule. Looking at the sample of food items from these menus, a student notes that on day 1, the menu included <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "ac8afa21-8113-4eda-9e65-b51dcdc9f58f",
+  "parenttemplatename": "OSP-543-QUA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "20d142fd-4df1-4f6f-93c4-53a7a033cb44",
+      "content": "<p>shrimp cocktail for meal B.</p>"
+    },
+    {
+      "id": "c940b612-521b-471e-9de2-81f56be97a8d",
+      "content": "<p>hot cocoa for meal C.</p>"
+    },
+    {
+      "id": "26e35435-11cf-4c27-a86d-37edf31e8ebc",
+      "content": "<p>sugar cookie cubes for meal B.</p>"
+    },
+    {
+      "id": "8146075f-30d0-43a5-9ae0-9d3f3369009e",
+      "content": "<p>chicken and vegetables for meal A.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

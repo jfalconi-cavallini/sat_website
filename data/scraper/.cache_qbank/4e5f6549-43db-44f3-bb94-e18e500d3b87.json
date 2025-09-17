@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>The general store was essential to daily life in the rural United States during the 1800s because it provided the supplies that the people living in nearby communities needed. Also, the store was a <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> of information. People socializing at the general store would share news and help spread it throughout their communities.</p>",
+  "keys": [
+    "3a87b056-b20a-4f4c-a9cb-d175c4a85441"
+  ],
+  "answerOptions": [
+    {
+      "id": "3a87b056-b20a-4f4c-a9cb-d175c4a85441",
+      "content": "<p>source</p>"
+    },
+    {
+      "id": "431d6042-1e70-4dda-93f4-84306d34d148",
+      "content": "<p>rival</p>"
+    },
+    {
+      "id": "31bef792-958b-42ef-b0f9-6e518370516b",
+      "content": "<p>condition</p>"
+    },
+    {
+      "id": "ccf62cb4-954f-4d84-8886-37fdb63f6e67",
+      "content": "<p>waste</p>"
+    }
+  ],
+  "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of the role of the general store in US rural communities during the 1800s. In this context, \"source\" means a place where something originates or is obtained. The text states that people would share news while socializing at the general store. This context supports the idea that the store served as a source of information in rural communities.</p><p>Choice B is incorrect because \"rival\" would mean competitor or opponent. The text doesn&rsquo;t indicate that the general store was a rival of anything. Instead, the text describes the general store as a place that enabled the sharing of information within rural communities. Choice C is incorrect because in this context, \"condition\" would mean state, circumstance, or requirement.  Although the text implies that visiting the store was helpful for acquiring information since people shared news there, it wouldn&rsquo;t make sense to say that the general store was a condition of information. Choice D is incorrect because \"waste\" would mean something that is unused, discarded, or spent unnecessarily, which would not make sense in context. The text describes the general store as an essential part of daily life and a place for socializing and information sharing. The store was therefore a source, not a waste, of information.</p>",
+  "externalid": "4e5f6549-43db-44f3-bb94-e18e500d3b87",
+  "correct_answer": [
+    "A"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>Conventional theories of rhetoric hold that presenting information as coming from credentialed experts increases that information&rsquo;s credibility. When communications researcher Sungkyoung Lee and her colleagues tested messages seeking volunteers for clinical trials, however, they found that participants in their study judged recruitment messages from former trial volunteers as significantly more credible than messages from doctors (i.e., credentialed experts). One reason for this may be that the doctors&rsquo; status as credentialed experts wasn&rsquo;t ignored but rather was outweighed by participants&rsquo; views of the experiential relevance of the two types of messengers; that is, participants may have reacted the way they did because <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "8dcd5a81-7c27-4da6-9e5c-00da76d59543"
+  ],
+  "answerOptions": [
+    {
+      "id": "c2cea047-dde9-41c7-86e3-64f0ee60a1a6",
+      "content": "<p>messages from former trial volunteers depicted clinical trials as being more positive experiences than did messages from doctors.&nbsp;</p>"
+    },
+    {
+      "id": "4be28956-3c49-466a-9df6-70255e2cc2b5",
+      "content": "<p>participants did not have enough experience to evaluate the credibility of the doctors&rsquo; messages but did have enough experience to evaluate the credibility of former trial volunteers&rsquo; messages.&nbsp;</p>"
+    },
+    {
+      "id": "8dcd5a81-7c27-4da6-9e5c-00da76d59543",
+      "content": "<p>the fact that former trial volunteers went through the same experience that participants were contemplating while doctors did not was more important to participants than the doctors&rsquo; status as credentialed experts was.&nbsp;</p>"
+    },
+    {
+      "id": "a1655866-97d1-4e78-b2d3-f533cd97205f",
+      "content": "<p>participants regarded the experiences of both the doctors and former trial volunteers as relevant to the subject of clinical trials but were skeptical of the doctors&rsquo; status as credentialed experts.&nbsp;</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it presents the conclusion that most logically follows from the text&rsquo;s discussion of how participants considered messages from former trial volunteers and doctors. The text first establishes that information coming from credentialed experts typically increases the credibility of that information. However, the text goes on to describe a situation that goes against this expectation: the messages from previous trial volunteers were judged as more credible than the messages from licensed doctors when recruiting clinic trial participants. The text then goes on to speculate as to why this may have been the case, stating that participants likely considered the messages from the former trial volunteers to be more convincing than the messages from the doctors because the former trial volunteers were perceived as having undergone the same experience that the participants were considering. It is reasonable to infer, then, that participants regarded the former trial volunteers&rsquo; direct experience as more important to their decision-making than the doctors&rsquo; status as credentialed experts.</p><p>Choice A is incorrect because the text does not provide any indication as to the content or the tone of the messages provided by either the doctors or the former trial volunteers regarding the clinical trials. Choice B is incorrect. Since the study participants had not themselves participated in the clinical trial, they could not rely on their experience to evaluate the credibility of either the former trial volunteers or the doctors. Choice D is incorrect. While the text does establish that the participants likely considered the messages from both the doctors and the former trial volunteers, it does not suggest that the participants doubted the doctors&rsquo; credentials. Rather, the text speculates that participants may have given the experiences of the former trial volunteers more importance than the doctors&rsquo; credentials when considering the recruitment messages.</p>",
+  "externalid": "f401796e-9a02-41bd-9268-b628f63eeac5",
+  "correct_answer": [
+    "C"
+  ]
+}

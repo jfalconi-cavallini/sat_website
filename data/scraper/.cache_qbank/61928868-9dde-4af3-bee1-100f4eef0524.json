@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Many Samoans enjoy a sport called kilikiti. This bat-and-ball game was derived from <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> kilikiti differs from cricket in a few key ways.</p>",
+  "type": "mcq",
+  "keys": [
+    "946b5fc9-1fe0-4edf-84e0-a7a8d715a5c5"
+  ],
+  "answerOptions": [
+    {
+      "id": "96ec98d1-244a-4aed-8eaf-e92a5519be67",
+      "content": "<p>cricket but:</p>"
+    },
+    {
+      "id": "26bbe65c-523a-4712-a819-b2aa261fac85",
+      "content": "<p>cricket but,</p>"
+    },
+    {
+      "id": "946b5fc9-1fe0-4edf-84e0-a7a8d715a5c5",
+      "content": "<p>cricket, but</p>"
+    },
+    {
+      "id": "fb0849e7-6e45-4c95-8cc8-048181ae97bd",
+      "content": "<p>cricket, but,</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice correctly uses a comma before the coordinating conjunction \"but\" to join the first main clause (\"This bat-and-ball game was derived from cricket\") and the second main clause (\"kilikiti differs from cricket in a few key ways\").</p><p>Choice A is incorrect. When coordinating two main clauses such as these, it&rsquo;s not conventional to use a colon in this way after the coordinating conjunction. Choice B is incorrect. When coordinating two main clauses such as these, it&rsquo;s not conventional to use a comma in this way after the coordinating conjunction. Choice D is incorrect. When coordinating two main clauses such as these, it&rsquo;s not conventional to use a comma in this way after the coordinating conjunction.</p>",
+  "externalid": "61928868-9dde-4af3-bee1-100f4eef0524",
+  "correct_answer": [
+    "C"
+  ]
+}

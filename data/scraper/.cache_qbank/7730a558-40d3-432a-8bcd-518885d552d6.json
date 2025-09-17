@@ -1,0 +1,38 @@
+{
+  "vaultid": "e0edbd05-a5b7-4317-adc7-5092c2756837",
+  "keys": [
+    "b7950907-23f7-4c31-be15-bce27e1f83aa"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is punctuation between a verb and a preposition. When, as in this case, a verb (&ldquo;is added&rdquo;) is immediately followed by a preposition (&ldquo;whenever&rdquo;), no punctuation is needed. </p><p>Choice A is incorrect because no punctuation is needed between the verb and the preposition. Choice B is incorrect because no punctuation is needed between the verb and the preposition. Choice C is incorrect because no punctuation is needed between the verb and the preposition. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "7730a558-40d3-432a-8bcd-518885d552d6",
+  "stimulus": "<p>As British scientist Peter Whibberley has observed, &ldquo;the Earth is not a very good timekeeper.&rdquo; Earth&rsquo;s slightly irregular rotation rate means that measurements of time must be periodically adjusted. Specifically, an extra &ldquo;leap second&rdquo; (the 86,401st second of the day) is <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> time based on the planet&rsquo;s rotation lags a full nine-tenths of a second behind time kept by precise atomic clocks.</p>",
+  "templateclusterid": "f0807e80-7953-4f9a-973d-a30c061585f9",
+  "parenttemplatename": "OSP-706-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "83f5c8cb-62a5-4373-9367-eee76d40f423",
+      "content": "<p>added, whenever</p>"
+    },
+    {
+      "id": "3f5af28d-5cc5-4dec-98ef-a6e7a038ff5a",
+      "content": "<p>added; whenever</p>"
+    },
+    {
+      "id": "7392333e-5469-451d-95c0-2548b8840493",
+      "content": "<p>added. Whenever</p>"
+    },
+    {
+      "id": "b7950907-23f7-4c31-be15-bce27e1f83aa",
+      "content": "<p>added whenever</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

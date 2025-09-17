@@ -1,0 +1,38 @@
+{
+  "vaultid": "4b70fad3-f028-453a-ba89-5e693a9024f4",
+  "keys": [
+    "3a051a2e-8acd-433f-99cb-f448fbf9416d"
+  ],
+  "rationale": "<p>Choice D is the best answer. &ldquo;Similarly&rdquo; logically signals that the information in the sentence&mdash;that Dove situates Beulah&rsquo;s life in the context of the US Civil Rights Movement&mdash;is similar to the previous information about Thomas and the Great Migration. Both sentences support the first sentence&rsquo;s claim that Dove portrays her characters in the context of broader historical narratives.&nbsp;</p><p>Choice A is incorrect because &ldquo;specifically&rdquo; illogically signals that the information about Beulah in this sentence provides specific details elaborating on the previous information about Thomas. Instead, it&rsquo;s similar to the previous information about Thomas. Choice B is incorrect because &ldquo;thus&rdquo; illogically signals that the information about Beulah in this sentence is a result or consequence of the previous information about Thomas. Instead, it&rsquo;s similar to the previous information about Thomas. Choice C is incorrect because &ldquo;regardless&rdquo; illogically signals that the information about Beulah in this sentence is true despite the previous information about Thomas. Instead, it&rsquo;s similar to the previous information about Thomas. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+  "externalid": "bcd3e56f-c9a6-4627-a402-65710bf36530",
+  "stimulus": "<p>In her poetry collection <em>Thomas and Beulah</em>, Rita Dove interweaves the titular characters&rsquo; personal stories with broader historical narratives. She places Thomas&rsquo;s journey from the American South to the Midwest in the early 1900s within the larger context of the Great Migration. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Dove sets events from Beulah&rsquo;s personal life against the backdrop of the US Civil Rights Movement.</p>",
+  "templateclusterid": "f6f56604-7e8b-41bb-8255-48c44a9ebad4",
+  "parenttemplatename": "OSP-223-TRA",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "cecbcd77-ff1f-4d55-860e-1152b00fc7d4",
+      "content": "<p>Specifically,</p>"
+    },
+    {
+      "id": "2eac6534-2aaa-4aff-acc6-9be9a2435d60",
+      "content": "<p>Thus,</p>"
+    },
+    {
+      "id": "9ae874c2-8064-4af3-9c59-8dd4a4a43664",
+      "content": "<p>Regardless,</p>"
+    },
+    {
+      "id": "3a051a2e-8acd-433f-99cb-f448fbf9416d",
+      "content": "<p>Similarly,</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

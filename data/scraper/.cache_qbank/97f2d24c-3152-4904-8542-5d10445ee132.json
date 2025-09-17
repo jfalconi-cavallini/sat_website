@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>Wanting to celebrate the 100th anniversary of the Alaska Purchase, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> up with a motto that best captured the state&rsquo;s unique character. The commission selected &ldquo;North to the Future,&rdquo; submitted by Juneau journalist Richard Peter, as its winning entry.</p>",
+  "keys": [
+    "1f60d157-c5c3-4170-b241-7a67b597acb8"
+  ],
+  "answerOptions": [
+    {
+      "id": "5d2592eb-4a2c-4e73-8a11-87d9d8c11e5a",
+      "content": "<p>a contest sponsored by the Alaska Centennial Commission would award $300 to an individual who came</p>"
+    },
+    {
+      "id": "674171a0-9f43-4a82-ae4d-94af0416d7ec",
+      "content": "<p>an award of $300 would go to an individual in a contest sponsored by the Alaska Centennial Commission for coming</p>"
+    },
+    {
+      "id": "81105d96-1acb-43fd-a84e-36698f1fa65a",
+      "content": "<p>$300 would be awarded to an individual by the Alaska Centennial Commission in a contest for coming</p>"
+    },
+    {
+      "id": "1f60d157-c5c3-4170-b241-7a67b597acb8",
+      "content": "<p>the Alaska Centennial Commission sponsored a contest that would award $300 to an individual who came</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is subject-modifier placement. This choice makes the noun phrase \"the Alaska Centennial Commission\" the subject of the sentence and places it immediately after the modifying phrase \"wanting&hellip;Purchase.\" In doing so, this choice clearly establishes that the Alaska Centennial Commission&mdash;and not another noun in the sentence&mdash;wanted to celebrate the 100th anniversary of the Alaska Purchase.</p><p>Choice A is incorrect because it results in a dangling modifier. The placement of the noun phrase \"a contest\" immediately after the modifying phrase illogically suggests that the contest wanted to celebrate the 100th anniversary of the Alaska Purchase. Choice B is incorrect because it results in a dangling modifier. The placement of the noun phrase \"an award of $300\" immediately after the modifying phrase illogically suggests that the award of $300 wanted to celebrate the 100th anniversary of the Alaska Purchase. Choice C is incorrect because it results in a dangling modifier. The placement of the noun phrase \"$300\" immediately after the modifying phrase illogically suggests that the $300 wanted to celebrate the 100th anniversary of the Alaska Purchase.</p>",
+  "externalid": "97f2d24c-3152-4904-8542-5d10445ee132",
+  "correct_answer": [
+    "D"
+  ]
+}

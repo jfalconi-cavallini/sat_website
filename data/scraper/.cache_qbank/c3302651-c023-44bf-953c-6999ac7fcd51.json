@@ -1,0 +1,38 @@
+{
+  "vaultid": "44b2ea80-78fa-480d-8a0e-f562236f7932",
+  "keys": [
+    "c24e7af8-d274-4bbc-b08d-41aa813ff5ef"
+  ],
+  "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of accelerated flowering in <em>A. thaliana</em> plants. The text indicates that <em>A. thaliana</em> plants show accelerated flowering at high temperatures. To investigate the mechanism for this accelerated flowering, biologists replaced the ELF3 protein in one group of <em>A. thaliana</em> plants with a similar protein found in another plant species that doesn&rsquo;t show accelerated flowering. The team then compared these modified plants to <em>A. thaliana</em> plants that retained their original ELF3 protein. The text states that the two samples of plants showed no difference in flowering at 22&deg; Celsius, but at 27&deg; Celsius the unaltered plants with ELF3 showed accelerated flowering while the plants without ELF3 didn&rsquo;t. If accelerated flowering at the higher temperature occurred in the <em>A. thaliana</em> plants with ELF3 but not in the plants without the protein, then ELF3 likely enables <em>A. thaliana</em> to respond to increased temperatures. </p><p>Choice A is incorrect because the text doesn&rsquo;t mention whether any plants other than <em>A. thaliana</em> and stiff brome show temperature-sensitive flowering, so there is no support for the idea that this type of flowering is unique to <em>A. thaliana</em>. Choice B is incorrect because the text discusses the effects of ELF3 and not the production of it. There&rsquo;s nothing in the text to suggest that the amount of ELF3 in <em>A. thaliana</em>&nbsp;varies with temperature. Choice D is incorrect. While the text states that there was no difference in the flowering of modified and unmodified <em>A. thaliana</em> plants at 22&deg; Celsius, there&rsquo;s no suggestion that <em>A. thaliana</em> only begins to flower at 22&deg; Celsius; the text doesn&rsquo;t mention a specific temperature threshold required for <em>A. thaliana </em>flowering. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "externalid": "c3302651-c023-44bf-953c-6999ac7fcd51",
+  "stimulus": "<p>A team of biologists led by Jae-Hoon Jung, Antonio D. Barbosa, and Stephanie Hutin investigated the mechanism that allows <em>Arabidopsis thaliana</em> (thale cress) plants to accelerate flowering at high temperatures. They replaced the protein ELF3 in the plants with a similar protein found in another species (stiff brome) that, unlike <em>A. thaliana</em>, displays no acceleration in flowering with increased temperature. A comparison of unmodified <em>A. thaliana</em> plants with the altered plants showed no difference in flowering at 22&deg; Celsius, but at 27&deg; Celsius, the unmodified plants exhibited accelerated flowering while the altered ones did not, which suggests that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "templateclusterid": "6fd67e95-7ebb-4f94-b397-c3d9a78c4732",
+  "parenttemplatename": "OSP-009-INF",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "5583c367-4907-4254-9567-fc107e6175ad",
+      "content": "<p>temperature-sensitive accelerated flowering is unique to <em>A. thaliana</em>.</p>"
+    },
+    {
+      "id": "9e1022a1-c2f0-4797-bf21-70e4c89a3f84",
+      "content": "<p><em>A. thaliana&nbsp;</em>increases ELF3 production as temperatures rise.</p>"
+    },
+    {
+      "id": "c24e7af8-d274-4bbc-b08d-41aa813ff5ef",
+      "content": "<p>ELF3 enables <em>A. thaliana&nbsp;</em>to respond to increased temperatures.</p>"
+    },
+    {
+      "id": "1614f08f-ac56-4d17-9a1d-bf2ab2541a2b",
+      "content": "<p>temperatures of at least 22&deg; Celsius are required for <em>A. thaliana</em> to flower.</p>"
+    }
+  ],
+  "correct_answer": [
+    "C"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Based on the text, what would have been the most likely consequence if New had not begun using sewing machines?</p>",
+  "stimulus": "<p>When fashion designer Lloyd Henri Kiva New opened his store in Scottsdale, Arizona, in 1945, he quickly became known for creating delicately crafted leather goods, like belts and hats. He was perhaps most renowned for his colorful handbags, which he made by hand using a long and painstaking process. As he gained more customers, New began using sewing machines and other tools to help him produce bags more efficiently, though he continued to handcraft the crucial details that made each bag unique.</p>",
+  "type": "mcq",
+  "keys": [
+    "8da267a0-fa35-4d36-9565-d4bc21afbf11"
+  ],
+  "answerOptions": [
+    {
+      "id": "a38b8575-1f8e-48b2-bc3b-bd4a067ec606",
+      "content": "<p>He would have been unable to ensure that each bag included unique, handcrafted details.</p>"
+    },
+    {
+      "id": "8da267a0-fa35-4d36-9565-d4bc21afbf11",
+      "content": "<p>He would have struggled to meet the increasing demand for his bags.</p>"
+    },
+    {
+      "id": "e18a49a9-7b2c-4df7-92c5-31ffb959c0a5",
+      "content": "<p>He would have had to individually design each bag he produced.</p>"
+    },
+    {
+      "id": "8abe584e-fdae-4dff-bfc4-42dce75a44ba",
+      "content": "<p>He would not have been able to generate as much interest in his bags.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it presents the most likely consequence if New had not begun using sewing machines. The text states that New gained new customers and that sewing machines allowed him to make bags more efficiently, or in less time than he could when sewing by hand. It&rsquo;s reasonable to conclude that if New hadn&rsquo;t reduced the time it took to make each bag by starting to use sewing machines, it would have been hard for him to keep up with the increased demand.</p><p>Choice A is incorrect because the text indicates that New added unique, handcrafted details to his bags before he started using sewing machines and continued to do so after he started using them. Choice C is incorrect because the text doesn&rsquo;t suggest that individually designing each bag would have been a consequence of not using sewing machines, since New was already designing unique details for each bag before he started using sewing machines and continued to do so after he started using them. Choice D is incorrect because the text indicates that people were already interested in New&rsquo;s bags before he started using sewing machines. Rather than allowing New to generate more interest in his bags, sewing machines helped New keep up with the interest that had already grown.</p>",
+  "externalid": "0a755181-a4cc-4396-b977-da1608faf80f",
+  "correct_answer": [
+    "B"
+  ]
+}

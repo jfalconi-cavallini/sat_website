@@ -1,0 +1,38 @@
+{
+  "vaultid": "05af8b9d-adde-445a-8b58-edbc0d94ded1",
+  "keys": [
+    "5b592df3-daf8-48de-b005-cbded88d4d88"
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the sounds made by g&uuml;iros. In this context, &ldquo;variable&rdquo; means able to change. The text begins by explaining that g&uuml;iros are instruments made out of hollowed gourds with ridges cut into their sides and that players scrape the ridges with wooden sticks to produce sounds. The text goes on to say that g&uuml;iros&rsquo; sounds can change depending on gourd thickness, the distance between ridges, and the types of strokes the player uses, thus supporting the idea that the sounds created by these instruments are variable. </p><p>Choice A is incorrect because &ldquo;overlooked&rdquo; means not being seen or noticed, and there is nothing in the text to suggest that the sounds produced by g&uuml;iros are overlooked or not noticed. Choice B is incorrect because in this context, &ldquo;powerful&rdquo; would mean having a great ability to produce an effect. While it&rsquo;s possible that the sounds produced by g&uuml;iros have a strong effect on listeners, the text doesn&rsquo;t discuss this aspect of their sounds. Choice C is incorrect because &ldquo;routine&rdquo; means usual and unvarying, and there is nothing in the text to suggest that the sounds produced by g&uuml;iros are unvarying. In fact, the text describes how the sounds produced by g&uuml;iros can differ based on several factors.&nbsp;</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "externalid": "2085ab1c-d19c-4090-ba16-7c45610503e7",
+  "stimulus": "<p>The g&uuml;iro, a musical instrument traditionally made from a dried and hollowed gourd, is thought to have originated with the Ta&iacute;no people of Puerto Rico. Players use a wooden stick to scrape along ridges cut into the side of the gourd, creating sounds that are highly <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>: the sounds produced by g&uuml;iros can differ based on the distance between the ridges, the types of strokes the player uses, and the thickness of the gourd.</p>",
+  "templateclusterid": "36b681e9-a791-4269-9e2e-1924cdd38628",
+  "parenttemplatename": "OSP-026-WIC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "690f1ed8-88e8-438c-b03c-815dd6867799",
+      "content": "<p>overlooked</p>"
+    },
+    {
+      "id": "f311667d-a37f-473c-b18b-7da75b28a11e",
+      "content": "<p>powerful</p>"
+    },
+    {
+      "id": "6a15daad-e62b-45cc-9194-33321c860f47",
+      "content": "<p>routine</p>"
+    },
+    {
+      "id": "5b592df3-daf8-48de-b005-cbded88d4d88",
+      "content": "<p>variable</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "579398b6-6c72-4f65-9e0d-068a1c4a084b",
+  "keys": [
+    "45b26647-1122-4479-a814-549a8862c003"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is the use of verbs to express tense in a sentence. In this choice, the past progressive tense verb &ldquo;was studying&rdquo; is consistent with the other past tense verbs (e.g., &ldquo;made&rdquo; and &ldquo;collected&rdquo;) used to describe Buratti&rsquo;s discovery. Further, the past progressive tense correctly indicates that an ongoing action in the past was occurring (she was studying) at the same time that another event occurred in the past (she made an interesting discovery).&nbsp;</p><p>Choice A is incorrect because the present tense verb &ldquo;studies&rdquo; isn&rsquo;t consistent with the past tense verbs used to describe Buratti&rsquo;s discovery. Choice B is incorrect because the present perfect progressive tense verb &ldquo;has been studying&rdquo; isn&rsquo;t consistent with the past tense verbs used to describe Buratti&rsquo;s discovery. Choice C is incorrect because the future tense verb &ldquo;will study&rdquo; isn&rsquo;t consistent with the past tense verbs used to describe Buratti&rsquo;s discovery. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "e7180d76-2567-4835-bcce-ca963a7dadf9",
+  "stimulus": "<p>Bonnie Buratti of NASA&rsquo;s Jet Propulsion Laboratory <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> data about Saturn&rsquo;s rings collected by the <em>Cassini </em>spacecraft when she made an interesting discovery: the tiny moons embedded between and within Saturn&rsquo;s rings are shaped by the buildup of ring material on the moons&rsquo; surfaces. </p>",
+  "templateclusterid": "b41aabbb-a5c7-48a6-b433-38258dc4ff7c",
+  "parenttemplatename": "OSP-625-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "e69f1cd9-244e-4e45-b033-fcd4dd94cf4d",
+      "content": "<p>studies&nbsp;</p>"
+    },
+    {
+      "id": "364ecc4f-fd3d-4767-b70a-75698d3c3526",
+      "content": "<p>has been studying</p>"
+    },
+    {
+      "id": "1866dbc8-9e93-415b-80e1-9a97c0bd6bb3",
+      "content": "<p>will study</p>"
+    },
+    {
+      "id": "45b26647-1122-4479-a814-549a8862c003",
+      "content": "<p>was studying</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

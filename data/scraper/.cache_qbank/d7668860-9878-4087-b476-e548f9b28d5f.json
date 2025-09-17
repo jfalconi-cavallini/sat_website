@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>The creation of Lotte Reiniger&rsquo;s 1926 animated film <em>The Adventures of Prince Achmed</em> was <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> process. Over the course of three years, Reiniger and her collaborators painstakingly made more than 250,000 individual images of hand-cut paper silhouettes and repeatedly had to invent entirely new methods and tools to create the special effects Reiniger envisioned.</p>",
+  "keys": [
+    "06cb84ce-e4ea-40b9-b05d-fab997afb3a0"
+  ],
+  "answerOptions": [
+    {
+      "id": "853aa74d-3938-4f39-859e-aa546835af0b",
+      "content": "<p>a haphazard</p>"
+    },
+    {
+      "id": "3a6cc567-a316-48c4-be35-1359bf350c46",
+      "content": "<p>a contentious</p>"
+    },
+    {
+      "id": "9172ede5-4a76-44ea-aee8-2fb25e1ff0ba",
+      "content": "<p>an ineffectual</p>"
+    },
+    {
+      "id": "06cb84ce-e4ea-40b9-b05d-fab997afb3a0",
+      "content": "<p>an arduous</p>"
+    }
+  ],
+  "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the creation of <em>The Adventures of Prince Achmed.</em> In this context, \"arduous\" means that the process is marked by great labor or effort. According to the text, the creation of the 1926 animated film <em>The Adventures of Prince Achmed</em> took three years and was a painstaking process. Since the process was so long and required great efforts by Lotte Reiniger and her team, the creation of the film was therefore an arduous process.</p><p>Choice A is incorrect because the text doesn&rsquo;t indicate that the creation of Reiniger&rsquo;s film was \"a haphazard,\" or disorganized, process. In fact, the text suggests that the creation process was quite meticulous and the team worked hard together to produce the envisioned effects. Choice B is incorrect. While the text does suggest that the creation of Reiniger&rsquo;s film was a long and difficult process, it doesn&rsquo;t suggest that the process was \"a contentious\" one, or one causing controversy or argument. The text suggests that the team worked together to produce the envisioned effects. Choice C is incorrect because rather than describing the process of creating the film as \"ineffectual,\" or not having the effect it was intended to have, the text describes the process as ultimately successful despite the difficulty it involved.</p>",
+  "externalid": "d7668860-9878-4087-b476-e548f9b28d5f",
+  "correct_answer": [
+    "D"
+  ]
+}

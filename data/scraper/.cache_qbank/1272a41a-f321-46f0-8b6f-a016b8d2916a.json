@@ -1,0 +1,38 @@
+{
+  "vaultid": "4488c946-2780-4796-acee-fda2ad02fea9",
+  "keys": [
+    "897e8b81-a3fb-40b0-8b9d-2b4a1525e4ae"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is punctuation use between sentences. In this choice, the period after &ldquo;walls&rdquo; is used correctly to mark the boundary between the first sentence (&ldquo;In...walls&rdquo;) and the second sentence (&ldquo;With&hellip;techniques&rdquo;), which starts with a supplementary phrase. </p><p>Choice A is incorrect because it results in a comma splice. A comma can&rsquo;t be used in this way to mark the boundary between sentences. Choice B is incorrect because it results in a run-on sentence. The sentences (&ldquo;In...walls&rdquo; and &ldquo;with...paintings&rdquo;) are fused without punctuation and/or a conjunction. Choice C is incorrect. Without a comma preceding it, the conjunction &ldquo;so&rdquo; can&rsquo;t be used in this way to join sentences. </p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "1272a41a-f321-46f0-8b6f-a016b8d2916a",
+  "stimulus": "<p>In 2010, archaeologist Noel Hidalgo Tan was visiting the twelfth-century temple of Angkor Wat in Cambodia when he noticed markings of red paint on the temple <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the help of digital imaging techniques, he discovered the markings to be part of an elaborate mural containing over 200 paintings. &nbsp;&nbsp;</p>",
+  "templateclusterid": "c38d7865-ed27-4117-8fa0-9174b6cf2e55",
+  "parenttemplatename": "OSP-601-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "06f1695c-acbf-4749-8893-db604c46cc42",
+      "content": "<p>walls, with</p>"
+    },
+    {
+      "id": "67420edf-0f5f-4534-bfd4-0e2b45caa290",
+      "content": "<p>walls with&nbsp;</p>"
+    },
+    {
+      "id": "7529df6d-c399-40dc-b2cc-62d7ee186a16",
+      "content": "<p>walls so with&nbsp;</p>"
+    },
+    {
+      "id": "897e8b81-a3fb-40b0-8b9d-2b4a1525e4ae",
+      "content": "<p>walls. With</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}

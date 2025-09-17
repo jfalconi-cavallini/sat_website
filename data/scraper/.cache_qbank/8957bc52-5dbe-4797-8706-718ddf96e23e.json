@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>Latro, the main character of Gene Wolfe&rsquo;s novel <em>Soldier of the Mist</em>, is a man in ancient Greece. He completely loses his memory whenever he sleeps. So, before sleeping, Latro records the important experiences of each day on a scroll, carefully choosing which ones to <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>.</p>",
+  "type": "mcq",
+  "keys": [
+    "f97ece12-28ec-43fa-88d5-578b5bf57c92"
+  ],
+  "answerOptions": [
+    {
+      "id": "b7d00104-2467-400b-9ff0-b13758f5b2b5",
+      "content": "<p>suspect</p>"
+    },
+    {
+      "id": "f97ece12-28ec-43fa-88d5-578b5bf57c92",
+      "content": "<p>preserve</p>"
+    },
+    {
+      "id": "8e38f352-48f0-40e7-9110-5f30f61f0894",
+      "content": "<p>suggest</p>"
+    },
+    {
+      "id": "d0a05eda-2b82-44a6-91c5-e10c9877621f",
+      "content": "<p>imagine</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text about Latro, the main character in Gene Wolfe&rsquo;s novel <em>Soldier of the Mist</em>. In this context, \"preserve\" means save or keep from destruction or loss. The text describes Latro as a character who loses his memory whenever he sleeps. The text goes on to explain that before going to sleep, Latro records his most important memories to prevent him from forgetting, or losing, them. The context therefore supports the idea that Latro records his most important experiences in an effort to save, or preserve, his memory of them from loss.</p><p>Choice A is incorrect because \"suspect\" would mean mistrust, which wouldn&rsquo;t make sense in this context. The text emphasizes that in writing down his experiences, Latro carefully chooses those which are most important to him and thus worth remembering later, not that he is mistrustful or has reason to doubt the experiences he records. Choice C is incorrect because in this context, \"suggest\" would mean propose for consideration. The text emphasizes the fact that Latro actually records those experiences that he has decided are most important to him, not that he merely proposes which experiences to consider for inclusion in his scroll. Choice D is incorrect because in this context, \"imagine\" would either mean form a mental image of or fabricate, neither of which would logically complete the text. Although it&rsquo;s possible that reviewing records from previous days might enable Latro to reconstruct mental images of what has happened to him in the past, the text emphasizes the fact that Latro carefully selects and writes down his experiences so he will remember them in the future, not so that he can form mental pictures of them as he writes them down. In a similar vein, the text emphasizes that Latro is recording experiences that have actually happened to him, not that he&rsquo;s fabricating the experiences he records.</p>",
+  "externalid": "8957bc52-5dbe-4797-8706-718ddf96e23e",
+  "correct_answer": [
+    "B"
+  ]
+}

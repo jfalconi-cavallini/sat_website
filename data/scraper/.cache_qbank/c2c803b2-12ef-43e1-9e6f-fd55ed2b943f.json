@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+  "stimulus": "<p>In 1891, design artist William Morris cofounded the Kelmscott Press, which printed editions of books using preindustrial methods. Historians argue that Morris&rsquo;s repudiation of industrialization is <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the Kelmscott editions&rsquo; use of handmade materials and intricate ornamentation reminiscent of medieval manuscripts: these meticulously handcrafted elements exemplify the artistry involved.</p>",
+  "type": "mcq",
+  "keys": [
+    "f9664c27-7583-431f-8d28-5cb1e77977b5"
+  ],
+  "answerOptions": [
+    {
+      "id": "62574f9d-7873-4bd4-8467-9c205d65c9f2",
+      "content": "<p>insensible to</p>"
+    },
+    {
+      "id": "f9664c27-7583-431f-8d28-5cb1e77977b5",
+      "content": "<p>manifest in</p>"
+    },
+    {
+      "id": "af559717-00fe-42d9-9ed1-a4933d486bcf",
+      "content": "<p>scrutinized by</p>"
+    },
+    {
+      "id": "9dfc4692-f8eb-4c66-bc00-9b9388213c9c",
+      "content": "<p>complicated by</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of the Kelmscott Press&rsquo;s books. In this context, \"manifest in\" means evident or apparent from. The text states that the Kelmscott Press, which was cofounded by William Morris, produced its books using preindustrial methods. The text notes the similarity between those methods, which include the use of handmade materials and intricate ornamentation, and methods used in the creation of medieval manuscripts. This context suggests that Morris&rsquo;s repudiation of industrialization is apparent from, or manifest in, the methods and materials his company employed.</p><p>Choice A is incorrect because there is nothing in the text to suggest that Morris&rsquo;s repudiation of industrialization is \"insensible to,\" or unaware of or lacking perception of, the use of handmade materials and intricate ornamentation in the production of the Kelmscott editions. Instead, the text suggests that the methods and materials used to produce the Kelmscott editions are evidence of Morris&rsquo;s repudiation of industrialization. Choice C is incorrect because it would not make sense to say that Morris&rsquo;s repudiation of industrialization was \"scrutinized by,\" or examined closely by, the Kelmscott editions&rsquo; use of handmade materials and intricate ornamentation. Although creating the Kelmscott editions may have involved examining the books closely, the text does not mention this aspect of Morris&rsquo;s work, and in any case, the action of using certain materials to create those editions cannot scrutinize Morris&rsquo;s attitude toward industrialization. Choice D is incorrect because the text gives no indication that Morris&rsquo;s repudiation of industrialization is \"complicated by,\" or made more complex or difficult by, the Kelmscott Press&rsquo;s use of preindustrial methods and handcrafted elements to produce books. Instead, the text presents those methods as exemplifying Morris&rsquo;s repudiation of industrialization.</p>",
+  "externalid": "c2c803b2-12ef-43e1-9e6f-fd55ed2b943f",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which quotation from &ldquo;The Mountain&rdquo; most effectively illustrates the claim?</p>",
+  "stimulus": "<p>&ldquo;The Mountain&rdquo; is a 1914 poem by Robert Frost. In the poem, the speaker visits a town next to a mountain. The speaker claims to feel protected by the mountain, saying <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "88269161-89fb-4105-a7af-b9023b08cdff"
+  ],
+  "answerOptions": [
+    {
+      "id": "d7537a0b-6a47-4f4a-a521-39d61962da32",
+      "content": "<p>&ldquo;A dry ravine emerged under boughs / Into the pasture.&rdquo;</p>"
+    },
+    {
+      "id": "85cdc3fe-a818-4826-b1f6-488ff8c949e7",
+      "content": "<p>&ldquo;The mountain stood there to be pointed at.&rdquo;</p>"
+    },
+    {
+      "id": "88269161-89fb-4105-a7af-b9023b08cdff",
+      "content": "<p>&ldquo;I felt it like a wall / Behind which I was sheltered from a wind.&rdquo;</p>"
+    },
+    {
+      "id": "3ec775c7-2ea0-4d82-8d63-142a76df3727",
+      "content": "<p>&ldquo;I crossed the river and swung round the mountain.&rdquo;</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer because it most effectively uses a quotation from \"The Mountain\" to illustrate the claim that the speaker feels protected by the mountain. In the quotation, the speaker recounts that the mountain felt like a wall that offers shelter from the wind. That the speaker felt sheltered by the mountain suggests that it offered the speaker a sense of being protected.</p><p>Choice A is incorrect because this quotation doesn&rsquo;t express the speaker&rsquo;s feeling of being protected by the mountain. Instead, it notes that the speaker has seen a dry ravine and a pasture. Choice B is incorrect because this quotation doesn&rsquo;t express the speaker&rsquo;s feeling of being protected by the mountain. Instead, it simply states that there is a mountain, which is meant to be viewed. Choice D is incorrect because this quotation doesn&rsquo;t express the speaker&rsquo;s feeling of being protected by the mountain. Instead, it indicates that the speaker has gone around the mountain.</p>",
+  "externalid": "e24d7288-d58e-49e9-92dc-1ba13221b2e3",
+  "correct_answer": [
+    "C"
+  ]
+}

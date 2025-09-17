@@ -1,0 +1,31 @@
+{
+  "type": "mcq",
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>An analysis by Alain Elayi and colleagues of coins minted in Sidon in the fifth and fourth centuries BCE reveals a change in their composition over time: while a coin from circa 450 BCE contains about 98% silver and 1% copper, a coin from 367 BCE (the end of Ba&rsquo;al&scaron;illem II&rsquo;s reign) contains 74.2% silver and 24.7% copper, giving it a relatively yellowish appearance that traders would have noticed. Because coins with a silver content below 80% were widely considered unsuitable for trade, Elayi <span data-ssml-sub-alias=\"et al\">et al.</span> speculate that a crisis in confidence in the currency occurred in Sidon around 367 BCE, which was likely relieved&mdash;despite Sidon&rsquo;s persistent oppressive financial obligations&mdash;as a result of Ba&rsquo;al&scaron;illem II&rsquo;s successor Abd&rsquo;a&scaron;tart I&rsquo;s decision to <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "keys": [
+    "567431d0-568a-4bc9-b12b-be4f8e5411e1"
+  ],
+  "answerOptions": [
+    {
+      "id": "d5a670c2-140d-47e0-b232-b5cff793359c",
+      "content": "<p>proclaim that the percentage of silver in coins suitable for trade would be raised to a threshold higher than 80%.</p>"
+    },
+    {
+      "id": "567431d0-568a-4bc9-b12b-be4f8e5411e1",
+      "content": "<p>keep the amount of silver in Sidonian coins consistent with that in coins minted in 367 BCE but decrease their weight.</p>"
+    },
+    {
+      "id": "3a5144da-50a4-42d8-8c2f-bd508bb2ef6c",
+      "content": "<p>begin minting heavier coins with a proportion of silver to copper similar to that in coins minted in 367 BCE.</p>"
+    },
+    {
+      "id": "d62f1442-b89b-470e-81dd-948a75c8bb5d",
+      "content": "<p>fund the mining of some copper deposits that were not available to Ba&rsquo;al&scaron;illem II.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of Sidonian coins. As the text explains, researchers determined that Sidonian coins were made of silver and copper and that from 450 BCE to 367 BCE, the percentage of silver in each coin decreased from 98% to 74.2% while the percentage of copper increased from 1% to 24.7%. The text indicates that because the coins containing less than 80% silver weren&rsquo;t considered suitable for trade (suggesting that copper was less valuable than silver) and looked different from coins containing more silver, the researchers suspect there was a serious loss in confidence in the currency in Sidon in 367 BCE when the copper content was high. It&rsquo;s reasonable to assume that it wasn&rsquo;t possible to boost confidence simply by devoting a greater amount of valuable silver to the currency, since Sidon was under significant and ongoing financial pressure; however, keeping the total amount of silver the same and reducing the amount of copper in the coins would have resulted in smaller coins with a higher percentage of silver. Therefore, it makes sense to suggest that Abd&rsquo;a&scaron;tart I (the ruler after 367 BCE) likely restored confidence in the currency by deciding to keep the amount of silver in Sidonian coins consistent with that in coins minted in 367 BCE but to decrease the coins&rsquo; weight.</p><p>Choice A is incorrect because the text conveys that a crisis in confidence in the currency of Sidon likely occurred around 367 BCE because the percentage of silver in coins had fallen below 80% (presumably because Sidon&rsquo;s financial pressures meant that less silver was available for currency), making the coins unsuitable for trade. Thus, announcing that the threshold for the percentage of silver in coins would be raised&mdash;that is, that coins would need to contain even more than 80% silver to be suitable for trade&mdash;likely would have worsened the crisis rather than relieved it. Choice C is incorrect because the text strongly suggests that a crisis in confidence in the currency of Sidon was caused by the proportion of silver to copper in the coins in 367 BCE, with 74.2% being too little silver for the coins to be considered suitable for trade; therefore, it&rsquo;s unlikely that minting coins with a similar proportion of silver to copper (that is, still around 74.2% silver) would have restored confidence, even if the coins were heavier. Choice D is incorrect because the text gives no indication that funding the mining of more copper would have relieved a crisis in confidence in the currency of Sidon. The text establishes that Sidonian coins that visibly contained copper weren&rsquo;t considered suitable for trade, so Abd&rsquo;a&scaron;tart I wouldn&rsquo;t have wanted to add even more copper to them, and it&rsquo;s unclear how else copper mining would affect views of the currency.</p>",
+  "externalid": "9bb3aeda-b4bd-4869-bd8c-ab833eb9d544",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice most logically completes the text?</p>",
+  "stimulus": "<p>A main goal of the Association for the Advancement of Creative Musicians (AACM), an arts organization founded in 1965, is to advance new works by Black musicians. The AACM achieves this goal in part by focusing on young artists. By having established musicians and composers serve as mentors, the AACM gives young artists the benefits of expert technical training and creative guidance. Numerous organizations offer similar kinds of support to new generations of painters, writers, and other artists, suggesting that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+  "type": "mcq",
+  "keys": [
+    "a5358c26-cf0d-4b7b-b3ac-9424bee92f6b"
+  ],
+  "answerOptions": [
+    {
+      "id": "74431b44-74c4-46c2-b9ef-10987860e5c6",
+      "content": "<p>artists of all ages benefit more from technical training than from creative guidance.</p>"
+    },
+    {
+      "id": "a5358c26-cf0d-4b7b-b3ac-9424bee92f6b",
+      "content": "<p>many arts organizations recognize the importance of providing opportunities for young artists to learn from experienced mentors.</p>"
+    },
+    {
+      "id": "05760f5d-d593-4490-837a-8515a1d2d059",
+      "content": "<p>most established artists could become even better artists by serving as mentors.</p>"
+    },
+    {
+      "id": "223589f0-46cd-4a9e-96e9-ab7f408e70f8",
+      "content": "<p>finding a mentor is more important for musicians than it is for painters, writers, and other types of artists.</p>"
+    }
+  ],
+  "rationale": "<p>Choice B is the best answer because it presents the conclusion that most logically follows from the text&rsquo;s discussion of the relationship between the AACM&rsquo;s use of mentors to support young Black musicians and similar support that other organizations offer their young artists. According to the text, in service of AACM&rsquo;s goal to support new works by Black musicians, AACM mentors provide beneficial training and guidance to young artists. The text goes on to say that many other art organizations support new artists in similar ways, suggesting that these organizations recognize the importance of providing opportunities for young artists to learn from mentors who are established in their field.</p><p>Choice A is incorrect because the text gives no indication that technical training is more beneficial than creative guidance. The text states that AACM mentors offer both technical training and creative guidance to young artists and that other arts organizations offer similar kinds of support; however, nothing in the text suggests that young artists, or artists of any age, benefit more from technical training. Choice C is incorrect because the text is mainly concerned with the fact that established artists are mentoring young artists through AACM and other arts organizations. The text states that young musicians benefit from AACM mentors but does not address what mentors gain from the relationship, so there is no reason to conclude that most established artists could improve as artists by serving as mentors. Choice D is incorrect. Although the text indicates that mentors are beneficial to young musicians and that young people pursuing other kinds of art (including painting and writing) can also find mentors through arts organizations, the text gives no indication that mentors are more important for musicians than for other types of artists.</p>",
+  "externalid": "59206731-46c7-4374-a20e-ef25e0ff20cc",
+  "correct_answer": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "stimulus": "<p>In her 1983 book <em>The Managed Heart: Commercialization of Human Feeling</em>, sociologist Arlie Russell Hochschild first explored at length her conception of a &ldquo;sociology of emotions&rdquo;&mdash;the idea that the various cultural and ideological frameworks a person has internalized (class, gender, political affiliation, etc.) <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> each emotional reaction that person has within a situation.</p>",
+  "type": "mcq",
+  "keys": [
+    "1a13357c-5be3-48e9-98e2-01c498e97fb8"
+  ],
+  "answerOptions": [
+    {
+      "id": "7fd297f0-2874-4b2f-b32b-9703eac2e1c2",
+      "content": "<p>underlies</p>"
+    },
+    {
+      "id": "1f835d67-72d3-4910-a90d-a5a508aaec46",
+      "content": "<p>is underlying</p>"
+    },
+    {
+      "id": "1a13357c-5be3-48e9-98e2-01c498e97fb8",
+      "content": "<p>underlie</p>"
+    },
+    {
+      "id": "7954a44b-0293-45d2-a52f-64154abebafc",
+      "content": "<p>has been underlying</p>"
+    }
+  ],
+  "rationale": "<p>Choice C is the best answer. The convention being tested is subject-verb agreement. The plural verb \"underlie\" agrees in number with the plural subject \"frameworks.\"</p><p>Choice A is incorrect because the singular verb \"underlies\" doesn&rsquo;t agree in number with the plural subject \"frameworks.\" Choice B is incorrect because the singular verb \"is underlying\" doesn&rsquo;t agree in number with the plural subject \"frameworks.\" Choice D is incorrect because the singular verb \"has been underlying\" doesn&rsquo;t agree in number with the plural subject \"frameworks.\"</p>",
+  "externalid": "cb2be4fe-d06f-40eb-aca3-805b00f0841d",
+  "correct_answer": [
+    "C"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "vaultid": "83d3740d-7e4b-4cfc-84c5-8e0a882e55ee",
+  "keys": [
+    "0f68a668-0a85-4c2b-83fc-144e1a42bd76"
+  ],
+  "rationale": "<p>Choice D is the best answer. The convention being tested is subject-verb agreement. The singular verb \"was\" agrees in number with the singular subject \"amplifying.\" Gerunds such as \"amplifying\" are always singular.</p><p>Choice A is incorrect because the plural verb \"were\" doesn&rsquo;t agree in number with the singular subject \"amplifying.\" Choice B is incorrect because the plural verb \"have been\" doesn&rsquo;t agree in number with the singular subject \"amplifying.\" Choice C is incorrect because the plural verb \"are\" doesn&rsquo;t agree in number with the singular subject \"amplifying.\"</p>",
+  "origin": "proteus",
+  "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+  "externalid": "2b30643e-3d33-441c-afc0-d5c81606dcd3",
+  "stimulus": "<p>During the American Civil War, Thomas Morris Chester braved the front lines as a war correspondent for the <em>Philadelphia Press</em>. Amplifying the voices and experiences of Black soldiers <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> of particular importance to Chester, who later became an activist and lawyer during the postwar Reconstruction period.</p>",
+  "templateclusterid": "6a92d55c-b7f6-4108-9251-0cc3bf0f5f95",
+  "parenttemplatename": "OSP-767-SEC",
+  "parenttemplateid": "",
+  "type": "mcq",
+  "position": "0",
+  "templateclustername": "",
+  "answerOptions": [
+    {
+      "id": "15feae6d-5e5c-4bba-94fb-8025e819bc20",
+      "content": "<p>were</p>"
+    },
+    {
+      "id": "79f241b8-c42c-4fc1-a428-8d08efdf33b3",
+      "content": "<p>have been</p>"
+    },
+    {
+      "id": "bf8c83b6-1284-43c3-8721-4e0a5fe9190e",
+      "content": "<p>are</p>"
+    },
+    {
+      "id": "0f68a668-0a85-4c2b-83fc-144e1a42bd76",
+      "content": "<p>was</p>"
+    }
+  ],
+  "correct_answer": [
+    "D"
+  ]
+}
