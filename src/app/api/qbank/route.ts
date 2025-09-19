@@ -2,8 +2,8 @@ import { NextRequest, NextResponse } from 'next/server';
 import { loadEnglishRaw } from '@/lib/english';
 import { loadMathRaw } from '@/lib/math';
 
-// Define the question type based on your Question interface
-type Question = {
+// Define types to match your actual data structure
+type BaseQuestion = {
   id: string;
   __source?: string;
   domain_desc?: string;
@@ -12,7 +12,6 @@ type Question = {
   stimulus_html?: string;
   stem?: string;
   stimulus?: string;
-  choices?: { key: string; text: string; correct?: boolean }[];
   correct_letters?: string | string[];
   answer?: string;
   difficulty?: string;
@@ -20,6 +19,18 @@ type Question = {
   media?: unknown;
   rationale_html?: string;
   rationale?: string;
+};
+
+type MathRow = BaseQuestion & {
+  choices?: { key: string; text?: string; correct?: boolean }[];
+};
+
+type EnglishRow = BaseQuestion & {
+  choices?: { key: string; text: string; correct?: boolean }[];
+};
+
+type Question = BaseQuestion & {
+  choices?: { key: string; text: string; correct?: boolean }[];
 };
 
 export async function GET(request: NextRequest) {
@@ -32,10 +43,15 @@ export async function GET(request: NextRequest) {
     // Load English questions if requested
     if (subjects.includes('english')) {
       try {
-        const englishRows = await loadEnglishRaw();
-        const englishWithSource = englishRows.map((row: Question) => ({
+        const englishRows = await loadEnglishRaw() as EnglishRow[];
+        const englishWithSource: Question[] = englishRows.map((row: EnglishRow) => ({
           ...row,
-          __source: 'English'
+          __source: 'English',
+          // Ensure choices have required text field
+          choices: row.choices?.map(choice => ({
+            ...choice,
+            text: choice.text || choice.key || '' // Fallback to key or empty string
+          }))
         }));
         allRows.push(...englishWithSource);
       } catch (error) {
@@ -46,10 +62,15 @@ export async function GET(request: NextRequest) {
     // Load Math questions if requested
     if (subjects.includes('math')) {
       try {
-        const mathRows = await loadMathRaw();
-        const mathWithSource = mathRows.map((row: Question) => ({
+        const mathRows = await loadMathRaw() as MathRow[];
+        const mathWithSource: Question[] = mathRows.map((row: MathRow) => ({
           ...row,
-          __source: 'Math'
+          __source: 'Math',
+          // Ensure choices have required text field
+          choices: row.choices?.map(choice => ({
+            ...choice,
+            text: choice.text || choice.key || '' // Fallback to key or empty string
+          }))
         }));
         allRows.push(...mathWithSource);
       } catch (error) {
