@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 
 // In-memory storage (resets on server restart - for development only)
-const leaderboardData: Record<string, any[]> = {};
+const leaderboardData: Record<string, LeaderboardEntry[]> = {};
 
 type LeaderboardEntry = {
   displayName: string;

@@ -197,7 +197,8 @@ function MiniQuestionViewer({
     return q.correct_letters || q.answer || '';
   };
 
-  const isCorrect = submitted && userAnswer === getCorrectAnswer(question);
+  // Check if answer is correct - used for styling
+  const answerIsCorrect = submitted && userAnswer === getCorrectAnswer(question);
 
   return (
     <div className="space-y-6" onKeyDown={handleKeyPress} tabIndex={-1}>
@@ -269,7 +270,7 @@ function MiniQuestionViewer({
                   <span className="flex-1 text-white">
                     {choice.text || choice.html || choice.key}
                   </span>
-                  {submitted && isThisCorrect && <span className="text-emerald-400 ml-2">✓</span>}
+                  {submitted && answerIsCorrect && <span className="text-emerald-400 ml-2">✓</span>}
                   {submitted && isWrong && <span className="text-red-400 ml-2">✗</span>}
                 </label>
               );

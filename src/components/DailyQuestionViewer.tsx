@@ -473,7 +473,6 @@ export default function DailyQuestionViewer({
   onNavigate,
   onSubmit,
   isSubmitted,
-  result,
 }: {
   rows: Question[];
   currentIndex: number;
