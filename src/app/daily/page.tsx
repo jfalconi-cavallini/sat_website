@@ -344,7 +344,7 @@ export default function DailyPage() {
   const [apiError, setApiError] = useState<string | null>(null);
   const [useQuestionViewer] = useState(false); // Set to false for now to use mini viewer
 
-  const timerRef = useRef<NodeJS.Timeout>();
+  const timerRef = useRef<NodeJS.Timeout | undefined>(undefined);
   const dateKey = getTodayKey();
 
   const handleSubmit = React.useCallback(() => {
