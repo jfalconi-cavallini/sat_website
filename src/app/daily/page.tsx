@@ -2,7 +2,8 @@
 
 import React, { useState, useEffect, useRef } from "react";
 
-// Types
+// =================== Types ===================
+
 type DailyState = {
   rows: Question[];
   answers: Record<string, string>;
@@ -24,25 +25,6 @@ type LeaderboardEntry = {
   createdAt: string;
 };
 
-type Question = {
-  id: string;
-  __source?: string;
-  domain_desc?: string;
-  skill_desc?: string;
-  stem_html?: string;
-  stimulus_html?: string;
-  stem?: string;
-  stimulus?: string;
-  choices?: { key: string; text?: string; html?: string; correct?: boolean }[];
-  correct_letters?: string | string[];
-  answer?: string;
-  difficulty?: "E" | "M" | "H" | string;
-  type?: string;
-  media?: unknown;
-  rationale_html?: string;
-  rationale?: string;
-};
-
 type Choice = {
   key: string;
   text?: string;
@@ -50,7 +32,38 @@ type Choice = {
   correct?: boolean;
 };
 
-// Utilities
+type Question = {
+  id: string;
+  __source?: "English" | "Math" | string;
+  domain_desc?: string;
+  skill_desc?: string;
+  stem_html?: string;
+  stimulus_html?: string;
+  stem?: string;
+  stimulus?: string;
+  choices?: Choice[];
+  correct_letters?: string | string[];
+  answer?: string;
+  difficulty?: "E" | "M" | "H" | string;
+  type?: string; // "mcq" | "spr" | etc.
+  media?: unknown;
+  rationale_html?: string;
+  rationale?: string;
+};
+
+// Minimal row shape used by inferSubject (so we avoid `any`)
+type InferSubjectRow = {
+  __source?: string;
+  domain_desc?: string;
+  domain?: string;
+  stem_html?: string;
+  stem?: string;
+  stimulus_html?: string;
+  stimulus?: string;
+};
+
+// =================== Utilities ===================
+
 function getTodayKey(): string {
   return new Date().toISOString().split("T")[0];
 }
@@ -127,7 +140,7 @@ function validateDisplayName(name: string): string | null {
 function loadDailyState(dateKey: string): DailyState | null {
   try {
     const stored = localStorage.getItem(`daily-${dateKey}`);
-    return stored ? JSON.parse(stored) : null;
+    return stored ? (JSON.parse(stored) as DailyState) : null;
   } catch {
     return null;
   }
@@ -141,39 +154,45 @@ function saveDailyState(dateKey: string, state: DailyState): void {
   }
 }
 
-function inferSubject(row: any): 'English' | 'Math' {
+// Heuristic subject inference (no `any`)
+function inferSubject(row: InferSubjectRow): "English" | "Math" {
   // Prefer explicit field if present
-  if (row.__source === 'English' || row.__source === 'Math') return row.__source;
+  if (row.__source === "English" || row.__source === "Math") return row.__source;
 
   // Heuristics: SAT ELA domains → English
   const englishDomains = [
-    'Information and Ideas',
-    'Craft and Structure',
-    'Central Ideas and Details',
-    'Words in Context',
-    'Command of Evidence',
-    'Expression of Ideas',
-    'Standard English Conventions',
-    'Text Structure',
-    'Text Structure & Purpose'
+    "Information and Ideas",
+    "Craft and Structure",
+    "Central Ideas and Details",
+    "Words in Context",
+    "Command of Evidence",
+    "Expression of Ideas",
+    "Standard English Conventions",
+    "Text Structure",
+    "Text Structure & Purpose",
   ];
-  const domain = (row.domain_desc || row.domain || '').toString();
-  if (englishDomains.some(d => domain.includes(d))) return 'English';
+  const domain = (row.domain_desc || row.domain || "").toString();
+  if (englishDomains.some((d) => domain.includes(d))) return "English";
 
   // Math keyword hints in text/HTML → Math
-  const blob = (
-    row.stem_html || row.stem || row.stimulus_html || row.stimulus || ''
-  ).toString().toLowerCase();
+  const blob = (row.stem_html || row.stem || row.stimulus_html || row.stimulus || "")
+    .toString()
+    .toLowerCase();
 
-  if (/\b(quadratic|linear|function|equation|graph|slope|system|ratio|percent|mean|median|mode|probability|geometry|triangle|circle)\b/.test(blob)) {
-    return 'Math';
+  if (
+    /\b(quadratic|linear|function|equation|graph|slope|system|ratio|percent|mean|median|mode|probability|geometry|triangle|circle)\b/.test(
+      blob
+    )
+  ) {
+    return "Math";
   }
 
   // Default to English if unsure
-  return 'English';
+  return "English";
 }
 
-// Mini inline question viewer fallback
+// =================== Mini inline question viewer ===================
+
 function MiniQuestionViewer({
   rows,
   currentIndex,
@@ -202,10 +221,10 @@ function MiniQuestionViewer({
   const userAnswer = answers[questionId] || "";
   const isFlagged = flags[questionId] || false;
 
-  const handleKeyPress = (e: React.KeyboardEvent) => {
+  const handleKeyPress = (e: React.KeyboardEvent<HTMLDivElement>) => {
     if (submitted) return;
     if (e.key >= "1" && e.key <= "4" && question.choices) {
-      const choiceIndex = parseInt(e.key) - 1;
+      const choiceIndex = parseInt(e.key, 10) - 1;
       if (question.choices[choiceIndex]) {
         onAnswer(questionId, question.choices[choiceIndex].key);
       }
@@ -227,11 +246,9 @@ function MiniQuestionViewer({
 
         <div className="relative z-10">
           <div className="flex items-center justify-between mb-6">
-            <div className="flex items-center gap-3">
-              <div className="text-slate-400 text-sm flex items-center gap-2">
-                <div className="w-2 h-2 bg-cyan-400 rounded-full animate-pulse"></div>
-                {question.__source || "Question"} • {question.domain_desc || "General"} • {question.skill_desc || "Skills"}
-              </div>
+            <div className="text-slate-400 text-sm flex items-center gap-2">
+              <div className="w-2 h-2 bg-cyan-400 rounded-full animate-pulse"></div>
+              {question.__source || "Question"} • {question.domain_desc || "General"} • {question.skill_desc || "Skills"}
             </div>
             <button
               onClick={() => onFlag(questionId)}
@@ -357,7 +374,7 @@ function MiniQuestionViewer({
           {!submitted && (
             <div className="mt-8 bg-slate-800/40 backdrop-blur-sm rounded-xl border border-slate-700/30 p-6 relative overflow-hidden">
               <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-indigo-400 via-purple-500 to-pink-400"></div>
-              
+
               <div className="relative z-10">
                 <div className="mb-4 text-sm text-slate-400 text-center font-medium">
                   <span className="bg-gradient-to-r from-cyan-400 to-blue-400 bg-clip-text text-transparent">Question Navigator</span> • Click to jump to any question
@@ -456,7 +473,9 @@ function MiniQuestionViewer({
         </button>
 
         <div className="flex items-center gap-4">
-          <div className="text-slate-400 text-sm font-medium">Question {currentIndex + 1} of {rows.length}</div>
+          <div className="text-slate-400 text-sm font-medium">
+            Question {currentQuestionIndex + 1} of {rows.length}
+          </div>
           <button
             onClick={onSubmit}
             disabled={submitted}
@@ -488,7 +507,11 @@ export default function DailyPage() {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [isLoading, setIsLoading] = useState(true);
   const [showProfile, setShowProfile] = useState(false);
-  const [profileData, setProfileData] = useState<{ displayName: string; grade: "9" | "10" | "11" | "12" | "Other"; district: string }>({
+  const [profileData, setProfileData] = useState<{
+    displayName: string;
+    grade: "9" | "10" | "11" | "12" | "Other";
+    district: string;
+  }>({
     displayName: "",
     grade: "11",
     district: "",
@@ -508,7 +531,9 @@ export default function DailyPage() {
     let correct = 0;
     state.rows.forEach((row) => {
       const userAnswer = state.answers[row.id] || "";
-      const correctAnswer = Array.isArray(row.correct_letters) ? row.correct_letters[0] : row.correct_letters || row.answer || "";
+      const correctAnswer = Array.isArray(row.correct_letters)
+        ? row.correct_letters[0]
+        : row.correct_letters || row.answer || "";
       if (userAnswer === correctAnswer) correct++;
     });
 
@@ -553,7 +578,7 @@ export default function DailyPage() {
 
   const fetchLeaderboards = React.useCallback(async () => {
     try {
-      const tabs = ["All", "9", "10", "11", "12"];
+      const tabs = ["All", "9", "10", "11", "12"] as const;
       const boards: Record<string, LeaderboardEntry[]> = {};
 
       for (const tab of tabs) {
@@ -565,6 +590,8 @@ export default function DailyPage() {
       }
       setLeaderboards(boards);
     } catch (error) {
+      // network or parse error; keep silent but visible in console
+      // eslint-disable-next-line no-console
       console.warn("Failed to fetch leaderboards:", error);
     }
   }, [dateKey]);
@@ -577,7 +604,7 @@ export default function DailyPage() {
     }
     if (!state?.result) return;
 
-    const profile = {
+    const profile: NonNullable<DailyState["profile"]> = {
       displayName: profileData.displayName.trim(),
       grade: profileData.grade,
       district: profileData.district.trim() || undefined,
@@ -603,6 +630,7 @@ export default function DailyPage() {
         }),
       });
     } catch (error) {
+      // eslint-disable-next-line no-console
       console.warn("Failed to submit to leaderboard:", error);
     }
 
@@ -632,13 +660,14 @@ export default function DailyPage() {
         } else {
           throw new Error(`API returned ${response.status}: ${response.statusText}`);
         }
-        
+
         // Normalize missing __source so pickDailyQuestions can balance subjects
-        questionPool = questionPool.map(q => ({
+        questionPool = questionPool.map((q) => ({
           ...q,
-          __source: q.__source || inferSubject(q),
+          __source: (q.__source as "English" | "Math" | undefined) ?? inferSubject(q),
         }));
       } catch (error) {
+        // eslint-disable-next-line no-console
         console.error("Failed to fetch questions:", error);
         setApiError("Unable to load questions. Please check that your question bank files are properly set up.");
         setIsLoading(false);
@@ -677,7 +706,7 @@ export default function DailyPage() {
       setIsLoading(false);
     }
 
-    initializeDaily();
+    void initializeDaily();
   }, [dateKey]);
 
   // Timer logic
@@ -728,7 +757,7 @@ export default function DailyPage() {
   // Load leaderboards on mount if already submitted
   useEffect(() => {
     if (state?.submitted && !showProfile) {
-      fetchLeaderboards();
+      void fetchLeaderboards();
     }
   }, [state?.submitted, showProfile, fetchLeaderboards]);
 
@@ -779,7 +808,9 @@ export default function DailyPage() {
 
             {!state.submitted && (
               <div className="flex items-center gap-4">
-                <div className="text-slate-300">Question {currentQuestionIndex + 1} of {state.rows.length}</div>
+                <div className="text-slate-300">
+                  Question {currentQuestionIndex + 1} of {state.rows.length}
+                </div>
                 <div className="flex items-center gap-2 px-4 py-2 bg-slate-800/50 rounded-xl border border-slate-600/50">
                   <span className="text-2xl">⏱️</span>
                   <span className="text-white font-mono text-lg">{formatTime(state.remainingSeconds)}</span>
@@ -791,7 +822,11 @@ export default function DailyPage() {
       </div>
 
       <div className="max-w-4xl mx-auto px-4 py-8">
-        {apiError && <div className="mb-6 p-4 bg-amber-500/10 border border-amber-500/20 rounded-xl text-amber-200">{apiError}</div>}
+        {apiError && (
+          <div className="mb-6 p-4 bg-amber-500/10 border border-amber-500/20 rounded-xl text-amber-200">
+            {apiError}
+          </div>
+        )}
 
         {/* Quiz Interface */}
         {!state.submitted ? (
@@ -906,7 +941,12 @@ export default function DailyPage() {
                     <label className="block text-slate-300 text-sm mb-2">Grade</label>
                     <select
                       value={profileData.grade}
-                      onChange={(e) => setProfileData((prev) => ({ ...prev, grade: e.target.value as "9" | "10" | "11" | "12" | "Other" }))}
+                      onChange={(e) =>
+                        setProfileData((prev) => ({
+                          ...prev,
+                          grade: e.target.value as "9" | "10" | "11" | "12" | "Other",
+                        }))
+                      }
                       className="w-full p-3 bg-slate-800/50 border border-slate-600/50 rounded-xl text-white focus:border-indigo-400 focus:outline-none"
                     >
                       <option value="9">9th Grade</option>
@@ -930,10 +970,16 @@ export default function DailyPage() {
                 </div>
                 {profileError && <div className="mt-3 text-red-400 text-sm">{profileError}</div>}
                 <div className="mt-6 flex gap-3">
-                  <button onClick={handleProfileSubmit} className="px-6 py-3 bg-indigo-600 hover:bg-indigo-500 text-white rounded-xl border border-indigo-500 transition-all hover:scale-105">
+                  <button
+                    onClick={handleProfileSubmit}
+                    className="px-6 py-3 bg-indigo-600 hover:bg-indigo-500 text-white rounded-xl border border-indigo-500 transition-all hover:scale-105"
+                  >
                     Save & View Leaderboard
                   </button>
-                  <button onClick={() => setShowProfile(false)} className="px-6 py-3 bg-slate-700/50 hover:bg-slate-600/50 text-slate-300 rounded-xl border border-slate-600/50 transition-all">
+                  <button
+                    onClick={() => setShowProfile(false)}
+                    className="px-6 py-3 bg-slate-700/50 hover:bg-slate-600/50 text-slate-300 rounded-xl border border-slate-600/50 transition-all"
+                  >
                     Skip
                   </button>
                 </div>
@@ -952,7 +998,9 @@ export default function DailyPage() {
                       key={tab}
                       onClick={() => setLeaderboardTab(tab)}
                       className={`px-4 py-2 rounded-xl text-sm font-medium whitespace-nowrap transition-all ${
-                        leaderboardTab === tab ? "bg-indigo-600 text-white border border-indigo-500" : "bg-slate-700/50 text-slate-300 border border-slate-600/50 hover:bg-slate-600/50"
+                        leaderboardTab === tab
+                          ? "bg-indigo-600 text-white border border-indigo-500"
+                          : "bg-slate-700/50 text-slate-300 border border-slate-600/50 hover:bg-slate-600/50"
                       }`}
                     >
                       {tab === "All" ? "All Grades" : `${tab}th Grade`}
@@ -977,7 +1025,10 @@ export default function DailyPage() {
                       {(leaderboards[leaderboardTab] || []).slice(0, 20).map((entry, index) => {
                         const isCurrentUser = state.profile && entry.displayName === state.profile.displayName;
                         return (
-                          <tr key={`${entry.displayName}-${entry.createdAt}`} className={`border-b border-slate-800/50 ${isCurrentUser ? "bg-indigo-500/10" : ""}`}>
+                          <tr
+                            key={`${entry.displayName}-${entry.createdAt}`}
+                            className={`border-b border-slate-800/50 ${isCurrentUser ? "bg-indigo-500/10" : ""}`}
+                          >
                             <td className="py-3 text-slate-300">{index + 1}</td>
                             <td className="py-3">
                               <span className={`font-medium ${isCurrentUser ? "text-indigo-300" : "text-slate-200"}`}>
@@ -1013,7 +1064,9 @@ export default function DailyPage() {
             {!showProfile && Object.keys(leaderboards).length === 0 && (
               <div className="bg-slate-900/50 backdrop-blur-sm rounded-2xl border border-slate-700/50 p-8 text-center">
                 <h3 className="text-xl font-semibold text-white mb-2">Leaderboards Coming Soon</h3>
-                <p className="text-slate-400">We&apos;re working on connecting to our leaderboard service. Your results are saved locally!</p>
+                <p className="text-slate-400">
+                  We&apos;re working on connecting to our leaderboard service. Your results are saved locally!
+                </p>
                 {state.result && (
                   <div className="mt-4 inline-flex items-center gap-4 px-6 py-3 bg-slate-800/50 rounded-xl">
                     <span className="text-slate-300">Your Score:</span>
