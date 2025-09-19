@@ -50,6 +50,13 @@ type Question = {
   rationale?: string;
 };
 
+type Choice = {
+  key: string;
+  text?: string;
+  html?: string;
+  correct?: boolean;
+};
+
 // Utilities
 function getTodayKey(): string {
   return new Date().toISOString().split('T')[0];
@@ -61,41 +68,7 @@ function mulberry32(seed: number) {
     t = Math.imul(t ^ t >>> 15, t | 1);
     t ^= t + Math.imul(t ^ t >>> 7, t | 61);
     return ((t ^ t >>> 14) >>> 0) / 4294967296;
-  const handleSubmit = React.useCallback(() => {
-    if (!state || state.submitted) return;
-
-    // Calculate score
-    let correct = 0;
-    state.rows.forEach(row => {
-      const userAnswer = state.answers[row.id] || '';
-      const correctAnswer = Array.isArray(row.correct_letters) 
-        ? row.correct_letters[0] 
-        : row.correct_letters || row.answer || '';
-      
-      if (userAnswer === correctAnswer) correct++;
-    });
-
-    const elapsedSeconds = 720 - state.remainingSeconds;
-    const result = {
-      score: correct,
-      percent: Math.round((correct / state.rows.length) * 100),
-      elapsedSeconds
-    };
-
-    const updatedState = {
-      ...state,
-      submitted: true,
-      result
-    };
-
-    setState(updatedState);
-    saveDailyState(dateKey, updatedState);
-    
-    // Show profile form if not already filled
-    if (!updatedState.profile) {
-      setShowProfile(true);
-    }
-  }, [state, dateKey]);
+  };
 }
 
 function seededPick<T>(seedStr: string, arr: T[], k: number): T[] {
@@ -242,7 +215,7 @@ function MiniQuestionViewer({
                 : 'bg-slate-700/50 text-slate-400 border border-slate-600/50 hover:bg-slate-600/50'
             }`}
           >
-            {isFlagged ? '🚩 Flagged' : '🏳️ Flag'}
+            {isFlagged ? 'Flagged' : 'Flag'}
           </button>
         </div>
         
@@ -265,7 +238,7 @@ function MiniQuestionViewer({
           />
         ) : question.choices ? (
           <div className="space-y-3">
-            {question.choices.map((choice: any, index: number) => {
+            {question.choices.map((choice: Choice) => {
               const isSelected = userAnswer === choice.key;
               const isThisCorrect = submitted && choice.key === getCorrectAnswer(question);
               const isWrong = submitted && isSelected && !isThisCorrect;
@@ -368,9 +341,144 @@ export default function DailyPage() {
   const [leaderboards, setLeaderboards] = useState<Record<string, LeaderboardEntry[]>>({});
   const [leaderboardTab, setLeaderboardTab] = useState('All');
   const [apiError, setApiError] = useState<string | null>(null);
+  const [useQuestionViewer] = useState(false); // Set to false for now to use mini viewer
 
   const timerRef = useRef<NodeJS.Timeout>();
   const dateKey = getTodayKey();
+
+  const handleSubmit = React.useCallback(() => {
+    if (!state || state.submitted) return;
+
+    // Calculate score
+    let correct = 0;
+    state.rows.forEach(row => {
+      const userAnswer = state.answers[row.id] || '';
+      const correctAnswer = Array.isArray(row.correct_letters) 
+        ? row.correct_letters[0] 
+        : row.correct_letters || row.answer || '';
+      
+      if (userAnswer === correctAnswer) correct++;
+    });
+
+    const elapsedSeconds = 720 - state.remainingSeconds;
+    const resultData = {
+      score: correct,
+      percent: Math.round((correct / state.rows.length) * 100),
+      elapsedSeconds
+    };
+
+    const updatedState = {
+      ...state,
+      submitted: true,
+      result: resultData
+    };
+
+    setState(updatedState);
+    saveDailyState(dateKey, updatedState);
+    
+    // Show profile form if not already filled
+    if (!updatedState.profile) {
+      setShowProfile(true);
+    }
+  }, [state, dateKey]);
+
+  const handleAnswer = (questionId: string, answer: string) => {
+    if (!state || state.submitted) return;
+    
+    const updatedState = {
+      ...state,
+      answers: { ...state.answers, [questionId]: answer }
+    };
+    setState(updatedState);
+    saveDailyState(dateKey, updatedState);
+  };
+
+  const handleFlag = (questionId: string) => {
+    if (!state || state.submitted) return;
+    
+    const updatedState = {
+      ...state,
+      flags: { ...state.flags, [questionId]: !state.flags[questionId] }
+    };
+    setState(updatedState);
+    saveDailyState(dateKey, updatedState);
+  };
+
+  const handleNavigate = (direction: 'prev' | 'next') => {
+    if (!state) return;
+    
+    if (direction === 'prev' && currentQuestionIndex > 0) {
+      setCurrentQuestionIndex(currentQuestionIndex - 1);
+    } else if (direction === 'next' && currentQuestionIndex < state.rows.length - 1) {
+      setCurrentQuestionIndex(currentQuestionIndex + 1);
+    }
+  };
+
+  const fetchLeaderboards = React.useCallback(async () => {
+    try {
+      const tabs = ['All', '9', '10', '11', '12'];
+      const boards: Record<string, LeaderboardEntry[]> = {};
+      
+      for (const tab of tabs) {
+        const url = tab === 'All' 
+          ? `/api/leaderboard?date=${dateKey}`
+          : `/api/leaderboard?date=${dateKey}&grade=${tab}`;
+        
+        const response = await fetch(url);
+        if (response.ok) {
+          boards[tab] = await response.json() as LeaderboardEntry[];
+        }
+      }
+      
+      setLeaderboards(boards);
+    } catch (error) {
+      console.warn('Failed to fetch leaderboards:', error);
+    }
+  }, [dateKey]);
+
+  const handleProfileSubmit = async () => {
+    const nameError = validateDisplayName(profileData.displayName);
+    if (nameError) {
+      setProfileError(nameError);
+      return;
+    }
+
+    if (!state?.result) return;
+
+    const profile = {
+      displayName: profileData.displayName.trim(),
+      grade: profileData.grade,
+      district: profileData.district.trim() || undefined
+    };
+
+    // Update local state
+    const updatedState = { ...state, profile };
+    setState(updatedState);
+    saveDailyState(dateKey, updatedState);
+
+    // Submit to leaderboard
+    try {
+      await fetch('/api/leaderboard', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          date: dateKey,
+          displayName: profile.displayName,
+          grade: profile.grade,
+          district: profile.district,
+          score: state.result.score,
+          percent: state.result.percent,
+          elapsedSeconds: state.result.elapsedSeconds,
+          createdAt: new Date().toISOString()
+        })
+      });
+    } catch (error) {
+      console.warn('Failed to submit to leaderboard:', error);
+    }
+
+    setShowProfile(false);
+    await fetchLeaderboards();
+  };
 
   // Initialize or load state
   useEffect(() => {
@@ -473,153 +581,20 @@ export default function DailyPage() {
     return () => {
       if (timerRef.current) clearInterval(timerRef.current);
     };
-  }, [state?.submitted, state?.remainingSeconds, dateKey]);
-
-  // Handlers
-  const handleAnswer = (questionId: string, answer: string) => {
-    if (!state || state.submitted) return;
-    
-    const updatedState = {
-      ...state,
-      answers: { ...state.answers, [questionId]: answer }
-    };
-    setState(updatedState);
-    saveDailyState(dateKey, updatedState);
-  };
-
-  const handleFlag = (questionId: string) => {
-    if (!state || state.submitted) return;
-    
-    const updatedState = {
-      ...state,
-      flags: { ...state.flags, [questionId]: !state.flags[questionId] }
-    };
-    setState(updatedState);
-    saveDailyState(dateKey, updatedState);
-  };
-
-  const handleNavigate = (direction: 'prev' | 'next') => {
-    if (!state) return;
-    
-    if (direction === 'prev' && currentQuestionIndex > 0) {
-      setCurrentQuestionIndex(currentQuestionIndex - 1);
-    } else if (direction === 'next' && currentQuestionIndex < state.rows.length - 1) {
-      setCurrentQuestionIndex(currentQuestionIndex + 1);
-    }
-  };
-    if (!state || state.submitted) return;
-
-    // Calculate score
-    let correct = 0;
-    state.rows.forEach(row => {
-      const userAnswer = state.answers[row.id] || '';
-      const correctAnswer = Array.isArray(row.correct_letters) 
-        ? row.correct_letters[0] 
-        : row.correct_letters || row.answer || '';
-      
-      if (userAnswer === correctAnswer) correct++;
-    });
-
-    const elapsedSeconds = 720 - state.remainingSeconds;
-    const result = {
-      score: correct,
-      percent: Math.round((correct / state.rows.length) * 100),
-      elapsedSeconds
-    };
-
-    const updatedState = {
-      ...state,
-      submitted: true,
-      result
-    };
-
-    setState(updatedState);
-    saveDailyState(dateKey, updatedState);
-    
-    // Show profile form if not already filled
-    if (!updatedState.profile) {
-      setShowProfile(true);
-    }
-  }, [state, dateKey]);
-
-  const handleProfileSubmit = async () => {
-    const nameError = validateDisplayName(profileData.displayName);
-    if (nameError) {
-      setProfileError(nameError);
-      return;
-    }
-
-    if (!state?.result) return;
-
-    const profile = {
-      displayName: profileData.displayName.trim(),
-      grade: profileData.grade,
-      district: profileData.district.trim() || undefined
-    };
-
-    // Update local state
-    const updatedState = { ...state, profile };
-    setState(updatedState);
-    saveDailyState(dateKey, updatedState);
-
-    // Submit to leaderboard
-    try {
-      await fetch('/api/leaderboard', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          date: dateKey,
-          displayName: profile.displayName,
-          grade: profile.grade,
-          district: profile.district,
-          score: state.result.score,
-          percent: state.result.percent,
-          elapsedSeconds: state.result.elapsedSeconds,
-          createdAt: new Date().toISOString()
-        })
-      });
-    } catch (error) {
-      console.warn('Failed to submit to leaderboard:', error);
-    }
-
-    setShowProfile(false);
-    await fetchLeaderboards();
-  };
-
-  const fetchLeaderboards = React.useCallback(async () => {
-    try {
-      const tabs = ['All', '9', '10', '11', '12'];
-      const boards: Record<string, LeaderboardEntry[]> = {};
-      
-      for (const tab of tabs) {
-        const url = tab === 'All' 
-          ? `/api/leaderboard?date=${dateKey}`
-          : `/api/leaderboard?date=${dateKey}&grade=${tab}`;
-        
-        const response = await fetch(url);
-        if (response.ok) {
-          boards[tab] = await response.json() as LeaderboardEntry[];
-        }
-      }
-      
-      setLeaderboards(boards);
-    } catch (error) {
-      console.warn('Failed to fetch leaderboards:', error);
-    }
-  }, [dateKey]);
+  }, [state?.submitted, state?.remainingSeconds, dateKey, handleSubmit]);
 
   // Load leaderboards on mount if already submitted
   useEffect(() => {
     if (state?.submitted && !showProfile) {
       fetchLeaderboards();
     }
-  }, [state?.submitted, showProfile, dateKey]);
+  }, [state?.submitted, showProfile, fetchLeaderboards]);
 
   if (isLoading) {
     return (
       <div className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900 flex items-center justify-center">
         <div className="text-center">
-          <div className="text-white text-xl mb-4">Loading today's Daily SAT...</div>
+          <div className="text-white text-xl mb-4">Loading today&apos;s Daily SAT...</div>
           <div className="text-slate-400">Fetching questions from your question bank</div>
         </div>
       </div>
@@ -815,7 +790,7 @@ export default function DailyPage() {
                     <label className="block text-slate-300 text-sm mb-2">Grade</label>
                     <select
                       value={profileData.grade}
-                      onChange={(e) => setProfileData(prev => ({ ...prev, grade: e.target.value as any }))}
+                      onChange={(e) => setProfileData(prev => ({ ...prev, grade: e.target.value as "9"|"10"|"11"|"12"|"Other" }))}
                       className="w-full p-3 bg-slate-800/50 border border-slate-600/50 rounded-xl text-white focus:border-indigo-400 focus:outline-none"
                     >
                       <option value="9">9th Grade</option>
@@ -957,7 +932,7 @@ export default function DailyPage() {
               <h3 className="text-xl font-semibold text-white mb-2">See You Tomorrow!</h3>
               <p className="text-slate-400">
                 Come back tomorrow for a new set of 10 questions. Each day features a unique deterministic mix 
-                of Math and English problems that's the same for all students worldwide.
+                of Math and English problems that&apos;s the same for all students worldwide.
               </p>
               <p className="text-slate-500 text-sm mt-2">
                 Quiz resets daily at midnight UTC
