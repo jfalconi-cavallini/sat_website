@@ -552,12 +552,18 @@ export default function DailyPage() {
     initializeDaily();
   }, [dateKey]);
 
-  // Timer logic - properly memoized to avoid dependency issues
+  // Timer logic - use a ref to track current state to avoid stale closures
+  const stateRef = useRef<DailyState | null>(null);
+  stateRef.current = state;
+
   useEffect(() => {
     if (!state || state.submitted || state.remainingSeconds <= 0) return;
 
     const tick = () => {
       if (document.hidden) return; // Pause when tab not visible
+
+      const currentState = stateRef.current;
+      if (!currentState || currentState.submitted) return;
 
       setState(prevState => {
         if (!prevState || prevState.submitted) return prevState;
@@ -569,7 +575,6 @@ export default function DailyPage() {
         
         // Auto-submit when timer reaches 0
         if (newSeconds <= 0) {
-          // Use a ref to the latest handleSubmit to avoid stale closure
           setTimeout(() => {
             handleSubmit();
           }, 100);

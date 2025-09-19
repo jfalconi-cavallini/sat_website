@@ -75,8 +75,8 @@ function validateDate(dateStr: string): boolean {
   return date >= oneYearAgo && date <= tomorrow;
 }
 
-function getClientIP(request: NextRequest): string {
-  const headersList = headers();
+async function getClientIP(request: NextRequest): Promise<string> {
+  const headersList = await headers();
   // Check various headers for real IP (common in production deployments)
   return (
     headersList.get('x-forwarded-for')?.split(',')[0]?.trim() ||
@@ -111,7 +111,7 @@ function checkRateLimit(ip: string): { allowed: boolean; resetTime?: number } {
 export async function POST(request: NextRequest) {
   try {
     // Security: Rate limiting
-    const clientIP = getClientIP(request);
+    const clientIP = await getClientIP(request);
     const rateLimitResult = checkRateLimit(clientIP);
     
     if (!rateLimitResult.allowed) {
