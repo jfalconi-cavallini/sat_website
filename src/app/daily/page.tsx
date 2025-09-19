@@ -286,7 +286,7 @@ function MiniQuestionViewer({
             <h4 className="text-slate-300 font-medium mb-2">Explanation:</h4>
             <div 
               className="text-slate-300 text-sm"
-              dangerouslySetInnerHTML={{ __html: question.rationale_html || question.rationale }}
+              dangerouslySetInnerHTML={{ __html: question.rationale_html || question.rationale || '' }}
             />
           </div>
         )}
