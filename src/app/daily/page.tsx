@@ -1,13 +1,6 @@
 "use client";
 
-import React, { useState, useEffect, useRef, Suspense } from 'react';
-
-// Lazy import DailyQuestionViewer with fallback
-const DailyQuestionViewer = React.lazy(() => 
-  import('@/components/DailyQuestionViewer').catch(() => ({
-    default: () => null // Fallback if component doesn't exist
-  }))
-);
+import React, { useState, useEffect, useRef } from 'react';
 
 // Types
 type DailyState = {
@@ -342,7 +335,6 @@ export default function DailyPage() {
   const [leaderboards, setLeaderboards] = useState<Record<string, LeaderboardEntry[]>>({});
   const [leaderboardTab, setLeaderboardTab] = useState('All');
   const [apiError, setApiError] = useState<string | null>(null);
-  const [useQuestionViewer] = useState(false); // Set to false for now to use mini viewer
 
   const timerRef = useRef<NodeJS.Timeout | undefined>(undefined);
   const dateKey = getTodayKey();
@@ -688,38 +680,17 @@ export default function DailyPage() {
               </p>
             </div>
 
-            {useQuestionViewer ? (
-              <Suspense fallback={
-                <div className="bg-slate-900/50 backdrop-blur-sm rounded-2xl border border-slate-700/50 p-8 text-center">
-                  <div className="text-slate-400">Loading question viewer...</div>
-                </div>
-              }>
-                <DailyQuestionViewer
-                  rows={state.rows}
-                  currentIndex={currentQuestionIndex}
-                  answers={state.answers}
-                  flags={state.flags}
-                  onAnswerSelect={handleAnswer}
-                  onFlag={handleFlag}
-                  onNavigate={handleNavigate}
-                  onSubmit={handleSubmit}
-                  isSubmitted={state.submitted}
-                  result={state.result}
-                />
-              </Suspense>
-            ) : (
-              <MiniQuestionViewer
-                rows={state.rows}
-                currentIndex={currentQuestionIndex}
-                answers={state.answers}
-                flags={state.flags}
-                onAnswer={handleAnswer}
-                onFlag={handleFlag}
-                onNavigate={handleNavigate}
-                onSubmit={handleSubmit}
-                submitted={false}
-              />
-            )}
+            <MiniQuestionViewer
+              rows={state.rows}
+              currentIndex={currentQuestionIndex}
+              answers={state.answers}
+              flags={state.flags}
+              onAnswer={handleAnswer}
+              onFlag={handleFlag}
+              onNavigate={handleNavigate}
+              onSubmit={handleSubmit}
+              submitted={false}
+            />
           </div>
         ) : (
           /* Results and Leaderboard */
