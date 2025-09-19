@@ -77,14 +77,27 @@ function validateDate(dateStr: string): boolean {
 
 async function getClientIP(request: NextRequest): Promise<string> {
   const headersList = await headers();
+  
   // Check various headers for real IP (common in production deployments)
-  return (
-    headersList.get('x-forwarded-for')?.split(',')[0]?.trim() ||
-    headersList.get('x-real-ip') ||
-    headersList.get('cf-connecting-ip') || // Cloudflare
-    request.ip ||
-    'unknown'
-  );
+  const forwardedFor = headersList.get('x-forwarded-for');
+  if (forwardedFor) {
+    return forwardedFor.split(',')[0].trim();
+  }
+  
+  const realIP = headersList.get('x-real-ip');
+  if (realIP) return realIP;
+  
+  const cfIP = headersList.get('cf-connecting-ip'); // Cloudflare
+  if (cfIP) return cfIP;
+  
+  // Fallback: try to get IP from URL or connection
+  try {
+    const url = new URL(request.url);
+    // In some environments, the IP might be available differently
+    return 'unknown';
+  } catch {
+    return 'unknown';
+  }
 }
 
 function checkRateLimit(ip: string): { allowed: boolean; resetTime?: number } {

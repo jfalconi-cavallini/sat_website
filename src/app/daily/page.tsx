@@ -552,18 +552,30 @@ export default function DailyPage() {
     initializeDaily();
   }, [dateKey]);
 
-  // Timer logic - use a ref to track current state to avoid stale closures
-  const stateRef = useRef<DailyState | null>(null);
-  stateRef.current = state;
-
+  // Timer logic - ESLint disable needed here because we intentionally don't want
+  // to restart the timer every time state changes - only when specific fields change
   useEffect(() => {
-    if (!state || state.submitted || state.remainingSeconds <= 0) return;
+    // If no state or quiz is already submitted, don't start timer
+    if (!state || state.submitted) {
+      if (timerRef.current) {
+        clearInterval(timerRef.current);
+        timerRef.current = undefined;
+      }
+      return;
+    }
+
+    // If time is already up, don't start timer
+    if (state.remainingSeconds <= 0) {
+      if (timerRef.current) {
+        clearInterval(timerRef.current);
+        timerRef.current = undefined;
+      }
+      handleSubmit();
+      return;
+    }
 
     const tick = () => {
       if (document.hidden) return; // Pause when tab not visible
-
-      const currentState = stateRef.current;
-      if (!currentState || currentState.submitted) return;
 
       setState(prevState => {
         if (!prevState || prevState.submitted) return prevState;
@@ -585,9 +597,14 @@ export default function DailyPage() {
     };
 
     timerRef.current = setInterval(tick, 1000);
+    
     return () => {
-      if (timerRef.current) clearInterval(timerRef.current);
+      if (timerRef.current) {
+        clearInterval(timerRef.current);
+        timerRef.current = undefined;
+      }
     };
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [state?.submitted, state?.remainingSeconds, dateKey, handleSubmit]);
 
   // Load leaderboards on mount if already submitted
