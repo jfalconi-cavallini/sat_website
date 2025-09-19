@@ -75,7 +75,6 @@ export interface StoredProgress {
 
 /** Pick any HTML/Math-ish field if present */
 function pickHtmlLike(c: Choice | string): string | undefined {
-  // If someone passed raw string
   if (typeof c === "string") return c;
   return (
     (typeof c?.html === "string" && c.html) ||
@@ -139,7 +138,8 @@ function formatWordedMath(raw?: string): string {
 function renderChoiceContent(c: Choice | string) {
   const htmlish = pickHtmlLike(c);
   const obj = typeof c === "string" ? undefined : c;
-  const text = obj?.text ?? obj?.label ?? obj?.value ?? obj?.alttext ?? (typeof c === "string" ? c : "");
+  const text =
+    obj?.text ?? obj?.label ?? obj?.value ?? obj?.alttext ?? (typeof c === "string" ? c : "");
 
   if (htmlish) {
     return (
@@ -180,7 +180,7 @@ function svgFromMedia(q: Question): string | undefined {
 const norm = (v: unknown) => String(v ?? "").trim().toLowerCase();
 
 /* ---------------------------------------
-   Question Card (WHITE "paper")
+   Question Card (WHITE "paper" on dark shell)
 ----------------------------------------*/
 
 function QuestionCard({
@@ -247,14 +247,30 @@ function QuestionCard({
         color: "text-red-700 bg-red-100 border-red-200",
       };
     return {
-        text: "Unknown",
-        color: "text-zinc-600 bg-zinc-100 border-zinc-200",
-      };
+      text: "Unknown",
+      color: "text-zinc-600 bg-zinc-100 border-zinc-200",
+    };
   };
   const difficultyInfo = getDifficultyDisplay(difficulty);
 
+  // Keyboard quick-select for MCQs (1–4)
+  const onKeyDown = (e: React.KeyboardEvent<HTMLDivElement>) => {
+    if (isSPR || isAnswered || !Array.isArray(choices)) return;
+    if (e.key >= "1" && e.key <= "4") {
+      const idx = parseInt(e.key, 10) - 1;
+      if (choices[idx]) {
+        const k = choices[idx].key ?? String.fromCharCode(65 + idx);
+        onAnswerSelect(k);
+      }
+    }
+  };
+
   return (
-    <div className="rounded-2xl border border-slate-200 bg-white p-6 shadow-xl text-zinc-900">
+    <div
+      className="rounded-2xl border border-slate-200 bg-white p-6 shadow-xl text-zinc-900"
+      tabIndex={0}
+      onKeyDown={onKeyDown}
+    >
       {/* Header */}
       <div className="mb-6 flex items-center justify-between">
         <div className="flex flex-wrap items-center gap-3 text-sm text-zinc-600">
@@ -314,12 +330,18 @@ function QuestionCard({
 
       {/* Question content */}
       <div className="mb-6 space-y-4">
-        {htmlBlock(stimulus_html)}
-        {!stimulus_html && fallbackSvg && htmlBlock(fallbackSvg, "question-figure")}
-        {!stimulus_html && stimulus && <p>{stimulus}</p>}
+        {htmlBlock(stimulus_html, "question-html")}
+        {/* Responsive fallback SVG graph */}
+        {!stimulus_html && fallbackSvg && (
+          <div
+            className="question-figure"
+            dangerouslySetInnerHTML={{ __html: fallbackSvg }}
+          />
+        )}
+        {!stimulus_html && stimulus && <p className="question-html">{stimulus}</p>}
 
         {htmlBlock(stem_html, "question-stem font-medium text-lg")}
-        {!stem_html && stem && <p className="font-medium text-lg">{stem}</p>}
+        {!stem_html && stem && <p className="question-stem font-medium text-lg">{stem}</p>}
       </div>
 
       {/* ======= ANSWER UI ======= */}
@@ -333,11 +355,7 @@ function QuestionCard({
               value={selectedAnswer ?? ""}
               onChange={(e) => !isAnswered && onAnswerSelect(e.target.value)}
               onKeyDown={(e) => {
-                if (
-                  !isAnswered &&
-                  e.key === "Enter" &&
-                  (selectedAnswer ?? "").trim()
-                ) {
+                if (!isAnswered && e.key === "Enter" && (selectedAnswer ?? "").trim()) {
                   onAnswerSubmit((selectedAnswer ?? "").trim());
                 }
               }}
@@ -351,9 +369,7 @@ function QuestionCard({
             />
             {!isAnswered && (
               <button
-                onClick={() =>
-                  onAnswerSubmit((selectedAnswer ?? "").trim())
-                }
+                onClick={() => onAnswerSubmit((selectedAnswer ?? "").trim())}
                 disabled={!((selectedAnswer ?? "").trim())}
                 className="px-6 py-3 bg-blue-600 text-white rounded-xl disabled:opacity-50 hover:bg-blue-500 transition-all font-semibold"
               >
@@ -367,17 +383,14 @@ function QuestionCard({
               <div className="text-sm space-y-1">
                 <div className="flex items-center gap-2">
                   <span className="text-zinc-600">Correct Answer:</span>
-                  <span className="font-bold text-green-700">
-                    {correctAnswer}
-                  </span>
+                  <span className="font-bold text-green-700">{correctAnswer}</span>
                 </div>
                 {questionProgress?.selectedAnswer && (
                   <div className="flex items-center gap-2">
                     <span className="text-zinc-600">Your Answer:</span>
                     <span
                       className={`font-bold ${
-                        norm(questionProgress.selectedAnswer) ===
-                        norm(correctAnswer)
+                        norm(questionProgress.selectedAnswer) === norm(correctAnswer)
                           ? "text-green-700"
                           : "text-red-700"
                       }`}
@@ -495,9 +508,7 @@ function QuestionCard({
 
           {showExplanation && (
             <div className="mt-3 rounded-xl border border-zinc-200 bg-zinc-50 p-4">
-              {rationale_html
-                ? htmlBlock(rationale_html)
-                : <p className="text-zinc-700">{rationale}</p>}
+              {rationale_html ? htmlBlock(rationale_html) : <p className="text-zinc-700">{rationale}</p>}
             </div>
           )}
         </div>
@@ -655,19 +666,22 @@ export default function QuestionViewer({
 
   if (!filteredRows || filteredRows.length === 0) {
     return (
-      <div className="rounded-2xl border border-white/10 bg-white/5 p-8 text-white/70 backdrop-blur-sm">
-        <div className="text-center">
-          <div className="text-6xl mb-4 opacity-50">📚</div>
-          <h3 className="text-xl font-semibold text-white mb-2">
-            No questions found
-          </h3>
-          <p>
-            No questions match your current filters for {subject}
-            {domain ? ` • ${domain}` : ""}
-            {skill ? ` • ${skill}` : ""}
-            {difficulty ? ` • ${difficulty}` : ""}
-            {status ? ` • ${status}` : ""}.
-          </p>
+      <div className="min-h-screen bg-[#0b1020] text-white">
+        <div className="fixed inset-0 -z-10">
+          <div className="absolute inset-0 bg-[radial-gradient(900px_400px_at_20%_-10%,rgba(99,102,241,0.25),transparent_60%),radial-gradient(700px_300px_at_80%_-10%,rgba(34,197,94,0.18),transparent_60%)]" />
+        </div>
+        <div className="mx-auto max-w-4xl px-6 py-16">
+          <div className="rounded-2xl border border-white/10 bg-white/5 p-8 text-white/70 backdrop-blur-sm text-center">
+            <div className="text-6xl mb-4 opacity-50">📚</div>
+            <h3 className="text-xl font-semibold text-white mb-2">No questions found</h3>
+            <p>
+              No questions match your current filters for {subject}
+              {domain ? ` • ${domain}` : ""}
+              {skill ? ` • ${skill}` : ""}
+              {difficulty ? ` • ${difficulty}` : ""}
+              {status ? ` • ${status}` : ""}.
+            </p>
+          </div>
         </div>
       </div>
     );
@@ -783,7 +797,7 @@ export default function QuestionViewer({
         </div>
       </div>
 
-      {/* Dark theme styles for navigator/buttons */}
+      {/* Dark theme styles + graph/HTML fixes */}
       <style jsx>{`
         .qn-nav {
           display: flex;
@@ -864,6 +878,30 @@ export default function QuestionViewer({
           background: rgba(255, 255, 255, 0.1);
           border-color: rgba(255, 255, 255, 0.3);
           color: #fff;
+        }
+        /* Make any HTML (including MathJax-y snippets) inherit dark shell colors */
+        :global(.question-html) {
+          color: inherit;
+        }
+        :global(.question-html img),
+        :global(.question-html svg) {
+          max-width: 100%;
+          height: auto;
+        }
+        /* For fallback graphs injected via media SVG */
+        :global(.question-figure) {
+          display: block;
+          width: 100%;
+          overflow-x: auto;
+          background: #fff;
+          border: 1px solid rgba(0,0,0,0.08);
+          border-radius: 12px;
+          padding: 12px;
+        }
+        :global(.question-figure svg) {
+          display: block;
+          width: 100%;
+          height: auto;
         }
       `}</style>
     </div>
