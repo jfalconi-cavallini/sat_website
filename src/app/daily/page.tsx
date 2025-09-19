@@ -330,7 +330,7 @@ export default function DailyPage() {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [isLoading, setIsLoading] = useState(true);
   const [showProfile, setShowProfile] = useState(false);
-  const [profileData, setProfileData] = useState({ displayName: '', grade: '11' as const, district: '' });
+  const [profileData, setProfileData] = useState<{ displayName: string; grade: "9"|"10"|"11"|"12"|"Other"; district: string }>({ displayName: '', grade: '11', district: '' });
   const [profileError, setProfileError] = useState('');
   const [leaderboards, setLeaderboards] = useState<Record<string, LeaderboardEntry[]>>({});
   const [leaderboardTab, setLeaderboardTab] = useState('All');
