@@ -81,8 +81,7 @@ function seededPick<T>(seedStr: string, arr: T[], k: number): T[] {
   if (!arr.length) return [];
   const seed = seedStr.split("").reduce((acc, char) => acc + char.charCodeAt(0), 0);
   const rng = mulberry32(seed);
-  const shuffled = [...arr].sort(() => rng() - 0.5);
-  return shuffled.slice(0, Math.min(k, shuffled.length));
+  return [...arr].sort(() => rng() - 0.5).slice(0, Math.min(k, arr.length));
 }
 
 // Enhanced function to pick balanced daily questions with progressive difficulty
@@ -124,16 +123,10 @@ function formatTime(seconds: number): string {
 
 function validateDisplayName(name: string): string | null {
   const trimmed = name.trim();
-  if (trimmed.length < 2 || trimmed.length > 20) {
-    return "Name must be 2-20 characters";
-  }
-  if (!/^[a-zA-Z0-9\s]+$/.test(trimmed)) {
-    return "Only letters, numbers, and spaces allowed";
-  }
+  if (trimmed.length < 2 || trimmed.length > 20) return "Name must be 2-20 characters";
+  if (!/^[a-zA-Z0-9\s]+$/.test(trimmed)) return "Only letters, numbers, and spaces allowed";
   const denylist = ["badword", "test"];
-  if (denylist.some((word) => trimmed.toLowerCase().includes(word))) {
-    return "Please choose a different name";
-  }
+  if (denylist.some((word) => trimmed.toLowerCase().includes(word))) return "Please choose a different name";
   return null;
 }
 
@@ -150,16 +143,14 @@ function saveDailyState(dateKey: string, state: DailyState): void {
   try {
     localStorage.setItem(`daily-${dateKey}`, JSON.stringify(state));
   } catch {
-    // localStorage unavailable
+    // ignore
   }
 }
 
 // Heuristic subject inference (no `any`)
 function inferSubject(row: InferSubjectRow): "English" | "Math" {
-  // Prefer explicit field if present
   if (row.__source === "English" || row.__source === "Math") return row.__source;
 
-  // Heuristics: SAT ELA domains → English
   const englishDomains = [
     "Information and Ideas",
     "Craft and Structure",
@@ -174,7 +165,6 @@ function inferSubject(row: InferSubjectRow): "English" | "Math" {
   const domain = (row.domain_desc || row.domain || "").toString();
   if (englishDomains.some((d) => domain.includes(d))) return "English";
 
-  // Math keyword hints in text/HTML → Math
   const blob = (row.stem_html || row.stem || row.stimulus_html || row.stimulus || "")
     .toString()
     .toLowerCase();
@@ -187,7 +177,6 @@ function inferSubject(row: InferSubjectRow): "English" | "Math" {
     return "Math";
   }
 
-  // Default to English if unsure
   return "English";
 }
 
@@ -474,7 +463,8 @@ function MiniQuestionViewer({
 
         <div className="flex items-center gap-4">
           <div className="text-slate-400 text-sm font-medium">
-            Question {currentQuestionIndex + 1} of {rows.length}
+            {/* FIXED: use currentIndex (prop) instead of currentQuestionIndex */}
+            Question {currentIndex + 1} of {rows.length}
           </div>
           <button
             onClick={onSubmit}
@@ -590,8 +580,6 @@ export default function DailyPage() {
       }
       setLeaderboards(boards);
     } catch (error) {
-      // network or parse error; keep silent but visible in console
-      // eslint-disable-next-line no-console
       console.warn("Failed to fetch leaderboards:", error);
     }
   }, [dateKey]);
@@ -630,7 +618,6 @@ export default function DailyPage() {
         }),
       });
     } catch (error) {
-      // eslint-disable-next-line no-console
       console.warn("Failed to submit to leaderboard:", error);
     }
 
@@ -667,7 +654,6 @@ export default function DailyPage() {
           __source: (q.__source as "English" | "Math" | undefined) ?? inferSubject(q),
         }));
       } catch (error) {
-        // eslint-disable-next-line no-console
         console.error("Failed to fetch questions:", error);
         setApiError("Unable to load questions. Please check that your question bank files are properly set up.");
         setIsLoading(false);
@@ -751,7 +737,6 @@ export default function DailyPage() {
         timerRef.current = null;
       }
     };
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [state?.submitted, state?.remainingSeconds, dateKey, handleSubmit]);
 
   // Load leaderboards on mount if already submitted
