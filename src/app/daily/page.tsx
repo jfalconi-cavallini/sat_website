@@ -11,7 +11,7 @@ const DailyQuestionViewer = React.lazy(() =>
 
 // Types
 type DailyState = {
-  rows: any[];
+  rows: Question[];
   answers: Record<string, string>;
   flags: Record<string, boolean>;
   startedAt: number;
@@ -31,6 +31,25 @@ type LeaderboardEntry = {
   createdAt: string;
 };
 
+type Question = {
+  id: string;
+  __source?: string;
+  domain_desc?: string;
+  skill_desc?: string;
+  stem_html?: string;
+  stimulus_html?: string;
+  stem?: string;
+  stimulus?: string;
+  choices?: { key: string; text: string; correct?: boolean }[];
+  correct_letters?: string | string[];
+  answer?: string;
+  difficulty?: string;
+  type?: string;
+  media?: unknown;
+  rationale_html?: string;
+  rationale?: string;
+};
+
 // Utilities
 function getTodayKey(): string {
   return new Date().toISOString().split('T')[0];
@@ -42,7 +61,41 @@ function mulberry32(seed: number) {
     t = Math.imul(t ^ t >>> 15, t | 1);
     t ^= t + Math.imul(t ^ t >>> 7, t | 61);
     return ((t ^ t >>> 14) >>> 0) / 4294967296;
-  };
+  const handleSubmit = React.useCallback(() => {
+    if (!state || state.submitted) return;
+
+    // Calculate score
+    let correct = 0;
+    state.rows.forEach(row => {
+      const userAnswer = state.answers[row.id] || '';
+      const correctAnswer = Array.isArray(row.correct_letters) 
+        ? row.correct_letters[0] 
+        : row.correct_letters || row.answer || '';
+      
+      if (userAnswer === correctAnswer) correct++;
+    });
+
+    const elapsedSeconds = 720 - state.remainingSeconds;
+    const result = {
+      score: correct,
+      percent: Math.round((correct / state.rows.length) * 100),
+      elapsedSeconds
+    };
+
+    const updatedState = {
+      ...state,
+      submitted: true,
+      result
+    };
+
+    setState(updatedState);
+    saveDailyState(dateKey, updatedState);
+    
+    // Show profile form if not already filled
+    if (!updatedState.profile) {
+      setShowProfile(true);
+    }
+  }, [state, dateKey]);
 }
 
 function seededPick<T>(seedStr: string, arr: T[], k: number): T[] {
@@ -54,7 +107,7 @@ function seededPick<T>(seedStr: string, arr: T[], k: number): T[] {
 }
 
 // Enhanced function to pick balanced daily questions with progressive difficulty
-function pickDailyQuestions(seedStr: string, allRows: any[]): any[] {
+function pickDailyQuestions(seedStr: string, allRows: Question[]): Question[] {
   if (!allRows.length) return [];
   
   // Separate by subject
@@ -62,7 +115,7 @@ function pickDailyQuestions(seedStr: string, allRows: any[]): any[] {
   const mathRows = allRows.filter(row => row.__source === 'Math');
   
   // Function to sort by difficulty (E=Easy, M=Medium, H=Hard)
-  const sortByDifficulty = (rows: any[]) => {
+  const sortByDifficulty = (rows: Question[]) => {
     const easy = rows.filter(r => r.difficulty === 'E');
     const medium = rows.filter(r => r.difficulty === 'M');
     const hard = rows.filter(r => r.difficulty === 'H');
@@ -78,7 +131,7 @@ function pickDailyQuestions(seedStr: string, allRows: any[]): any[] {
   const selectedMath = seededPick(seedStr + '-math', mathSorted, 5);
   
   // Interleave English and Math for variety, maintaining difficulty progression
-  const dailyQuestions: any[] = [];
+  const dailyQuestions: Question[] = [];
   const maxLength = Math.max(selectedEnglish.length, selectedMath.length);
   
   for (let i = 0; i < maxLength; i++) {
@@ -137,10 +190,9 @@ function MiniQuestionViewer({
   onFlag, 
   onNavigate,
   onSubmit,
-  submitted,
-  result
+  submitted
 }: {
-  rows: any[];
+  rows: Question[];
   currentIndex: number;
   answers: Record<string, string>;
   flags: Record<string, boolean>;
@@ -149,7 +201,6 @@ function MiniQuestionViewer({
   onNavigate: (direction: 'prev' | 'next') => void;
   onSubmit: () => void;
   submitted: boolean;
-  result?: { score: number; percent: number; elapsedSeconds: number };
 }) {
   const question = rows[currentIndex];
   if (!question) return null;
@@ -168,7 +219,7 @@ function MiniQuestionViewer({
     }
   };
 
-  const getCorrectAnswer = (q: any) => {
+  const getCorrectAnswer = (q: Question) => {
     if (Array.isArray(q.correct_letters)) return q.correct_letters[0];
     return q.correct_letters || q.answer || '';
   };
@@ -311,7 +362,6 @@ export default function DailyPage() {
   const [state, setState] = useState<DailyState | null>(null);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [isLoading, setIsLoading] = useState(true);
-  const [useQuestionViewer, setUseQuestionViewer] = useState(true);
   const [showProfile, setShowProfile] = useState(false);
   const [profileData, setProfileData] = useState({ displayName: '', grade: '11' as const, district: '' });
   const [profileError, setProfileError] = useState('');
@@ -339,11 +389,11 @@ export default function DailyPage() {
       }
 
       // Fetch question pool from actual JSON files
-      let questionPool: any[] = [];
+      let questionPool: Question[] = [];
       try {
         const response = await fetch('/api/qbank?subjects=english,math');
         if (response.ok) {
-          questionPool = await response.json();
+          questionPool = await response.json() as Question[];
           if (!questionPool.length) {
             throw new Error('No questions returned from API');
           }
@@ -410,7 +460,9 @@ export default function DailyPage() {
         
         // Auto-submit when timer reaches 0
         if (newSeconds <= 0) {
-          setTimeout(() => handleSubmit(), 100);
+          setTimeout(() => {
+            handleSubmit();
+          }, 100);
         }
         
         return updatedState;
@@ -455,8 +507,6 @@ export default function DailyPage() {
       setCurrentQuestionIndex(currentQuestionIndex + 1);
     }
   };
-
-  const handleSubmit = () => {
     if (!state || state.submitted) return;
 
     // Calculate score
@@ -490,7 +540,7 @@ export default function DailyPage() {
     if (!updatedState.profile) {
       setShowProfile(true);
     }
-  };
+  }, [state, dateKey]);
 
   const handleProfileSubmit = async () => {
     const nameError = validateDisplayName(profileData.displayName);
@@ -536,7 +586,7 @@ export default function DailyPage() {
     await fetchLeaderboards();
   };
 
-  const fetchLeaderboards = async () => {
+  const fetchLeaderboards = React.useCallback(async () => {
     try {
       const tabs = ['All', '9', '10', '11', '12'];
       const boards: Record<string, LeaderboardEntry[]> = {};
@@ -548,7 +598,7 @@ export default function DailyPage() {
         
         const response = await fetch(url);
         if (response.ok) {
-          boards[tab] = await response.json();
+          boards[tab] = await response.json() as LeaderboardEntry[];
         }
       }
       
@@ -556,7 +606,7 @@ export default function DailyPage() {
     } catch (error) {
       console.warn('Failed to fetch leaderboards:', error);
     }
-  };
+  }, [dateKey]);
 
   // Load leaderboards on mount if already submitted
   useEffect(() => {
@@ -890,7 +940,7 @@ export default function DailyPage() {
               <div className="bg-slate-900/50 backdrop-blur-sm rounded-2xl border border-slate-700/50 p-8 text-center">
                 <h3 className="text-xl font-semibold text-white mb-2">Leaderboards Coming Soon</h3>
                 <p className="text-slate-400">
-                  We're working on connecting to our leaderboard service. Your results are saved locally!
+                  We&apos;re working on connecting to our leaderboard service. Your results are saved locally!
                 </p>
                 {state.result && (
                   <div className="mt-4 inline-flex items-center gap-4 px-6 py-3 bg-slate-800/50 rounded-xl">
