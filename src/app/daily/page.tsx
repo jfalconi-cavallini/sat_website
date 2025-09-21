@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect, useRef } from "react";
 
-// =================== Types ===================
+/* =================== Types =================== */
 
 type DailyState = {
   rows: Question[];
@@ -12,7 +12,11 @@ type DailyState = {
   remainingSeconds: number;
   submitted: boolean;
   result?: { score: number; percent: number; elapsedSeconds: number };
-  profile?: { displayName: string; grade: "9" | "10" | "11" | "12" | "Other"; district?: string };
+  profile?: {
+    displayName: string;
+    grade: "9" | "10" | "11" | "12" | "Other";
+    district?: string;
+  };
 };
 
 type LeaderboardEntry = {
@@ -45,13 +49,13 @@ type Question = {
   correct_letters?: string | string[];
   answer?: string;
   difficulty?: "E" | "M" | "H" | string;
-  type?: string; // "mcq" | "spr" | etc.
+  type?: string; // "mcq" | "spr"
   media?: unknown;
   rationale_html?: string;
   rationale?: string;
 };
 
-// Minimal row shape used by inferSubject (so we avoid `any`)
+// Minimal row shape used by inferSubject
 type InferSubjectRow = {
   __source?: string;
   domain_desc?: string;
@@ -62,7 +66,7 @@ type InferSubjectRow = {
   stimulus?: string;
 };
 
-// =================== Utilities ===================
+/* =================== Utilities =================== */
 
 function getTodayKey(): string {
   return new Date().toISOString().split("T")[0];
@@ -84,10 +88,68 @@ function seededPick<T>(seedStr: string, arr: T[], k: number): T[] {
   return [...arr].sort(() => rng() - 0.5).slice(0, Math.min(k, arr.length));
 }
 
-// Enhanced function to pick balanced daily questions with progressive difficulty
+/** Worded math → HTML (keeps your dark theme text) */
+function formatWordedMathHTML(raw?: string): string {
+  if (!raw) return "";
+  let t = raw.trim();
+
+  // Normalize dashes; fix "- 24" -> "-24"
+  t = t.replace(/[–—]/g, "-").replace(/(^|[\s(])-\s+(?=\d|[a-zA-Z])/g, "$1-");
+
+  // Verbal → symbols
+  t = t
+    .replace(/\bequals\b/gi, "=")
+    .replace(/\bminus\b/gi, "−")
+    .replace(/\bplus\b/gi, "+")
+    .replace(/\btimes\b/gi, "×")
+    .replace(/\bmultiplied by\b/gi, "×")
+    .replace(/\bdivided by\b/gi, "÷")
+    .replace(/StartFraction/gi, "(")
+    .replace(/EndFraction/gi, ")")
+    .replace(/Over/gi, ")/(")
+    .replace(/left parenthesis/gi, "(")
+    .replace(/right parenthesis/gi, ")");
+
+  // Negative/positive phrases
+  t = t.replace(/\bnegative\s+(\d+(?:\.\d+)?(?:\s*\/\s*\d+(?:\.\d+)?)?)/gi, "−$1");
+  t = t.replace(/\bpositive\s+(\d+(?:\.\d+)?(?:\s*\/\s*\d+(?:\.\d+)?)?)/gi, "$1");
+  t = t.replace(/\bnegative\s+([a-zA-Z](?:\s*\^\s*\d+)?)/gi, "−$1");
+  t = t.replace(/\bpositive\s+([a-zA-Z](?:\s*\^\s*\d+)?)/gi, "$1");
+
+  // Remove weird spacing around parentheses & inside simple ( x ) → (x)
+  t = t.replace(/([A-Za-z])\s*\(\s*/g, "$1(").replace(/\s*\)\s*/g, ")");
+
+  // Collapse "2 x" → "2x"
+  t = t.replace(/(\d+)\s*([a-zA-Z])/g, "$1$2");
+
+  // Exponents: caret and “Superscript x”
+  t = t.replace(/\^\s*([A-Za-z0-9()+\-]+)/g, (_, p1) => `<sup>${p1}</sup>`);
+  t = t.replace(/\bSuperscript\s*([A-Za-z0-9()+\-]+)\b/gi, (_m, p1) => `<sup>${p1}</sup>`);
+
+  // "x squared/cubed" and "to the power of n"
+  t = t.replace(/\b([a-zA-Z])\s*squared\b/gi, "$1<sup>2</sup>");
+  t = t.replace(/\b([a-zA-Z])\s*cubed\b/gi, "$1<sup>3</sup>");
+  t = t.replace(/\bto the power of\s*2\b/gi, "<sup>2</sup>");
+  t = t.replace(/\bto the power of\s*3\b/gi, "<sup>3</sup>");
+
+  // Thin spacing around operators (including minus→true minus)
+  t = t.replace(/-/g, "−").replace(/\s*([=+−×÷])\s*/g, " $1 ");
+
+  // Trim multiple spaces
+  t = t.replace(/\s{2,}/g, " ").trim();
+
+  return t;
+}
+
+/** Use HTML if provided, otherwise worded-math → HTML */
+function renderPlainOrHtml(html?: string, text?: string) {
+  const asHtml = html ?? formatWordedMathHTML(text ?? "");
+  return <span className="relative z-10" dangerouslySetInnerHTML={{ __html: asHtml }} />;
+}
+
+// Balanced daily questions
 function pickDailyQuestions(seedStr: string, allRows: Question[]): Question[] {
   if (!allRows.length) return [];
-
   const englishRows = allRows.filter((row) => row.__source === "English");
   const mathRows = allRows.filter((row) => row.__source === "Math");
 
@@ -98,21 +160,16 @@ function pickDailyQuestions(seedStr: string, allRows: Question[]): Question[] {
     return [...easy, ...medium, ...hard];
   };
 
-  const englishSorted = sortByDifficulty(englishRows);
-  const mathSorted = sortByDifficulty(mathRows);
+  const selectedEnglish = seededPick(seedStr + "-english", sortByDifficulty(englishRows), 5);
+  const selectedMath = seededPick(seedStr + "-math", sortByDifficulty(mathRows), 5);
 
-  const selectedEnglish = seededPick(seedStr + "-english", englishSorted, 5);
-  const selectedMath = seededPick(seedStr + "-math", mathSorted, 5);
-
-  // Interleave
-  const dailyQuestions: Question[] = [];
-  const maxLength = Math.max(selectedEnglish.length, selectedMath.length);
-  for (let i = 0; i < maxLength; i++) {
-    if (i < selectedEnglish.length) dailyQuestions.push(selectedEnglish[i]);
-    if (i < selectedMath.length) dailyQuestions.push(selectedMath[i]);
+  const daily: Question[] = [];
+  const maxLen = Math.max(selectedEnglish.length, selectedMath.length);
+  for (let i = 0; i < maxLen; i++) {
+    if (i < selectedEnglish.length) daily.push(selectedEnglish[i]);
+    if (i < selectedMath.length) daily.push(selectedMath[i]);
   }
-
-  return dailyQuestions.slice(0, 10);
+  return daily.slice(0, 10);
 }
 
 function formatTime(seconds: number): string {
@@ -126,7 +183,7 @@ function validateDisplayName(name: string): string | null {
   if (trimmed.length < 2 || trimmed.length > 20) return "Name must be 2-20 characters";
   if (!/^[a-zA-Z0-9\s]+$/.test(trimmed)) return "Only letters, numbers, and spaces allowed";
   const denylist = ["badword", "test"];
-  if (denylist.some((word) => trimmed.toLowerCase().includes(word))) return "Please choose a different name";
+  if (denylist.some((w) => trimmed.toLowerCase().includes(w))) return "Please choose a different name";
   return null;
 }
 
@@ -147,7 +204,7 @@ function saveDailyState(dateKey: string, state: DailyState): void {
   }
 }
 
-// Heuristic subject inference (no `any`)
+// Heuristic subject inference
 function inferSubject(row: InferSubjectRow): "English" | "Math" {
   if (row.__source === "English" || row.__source === "Math") return row.__source;
 
@@ -169,18 +226,13 @@ function inferSubject(row: InferSubjectRow): "English" | "Math" {
     .toString()
     .toLowerCase();
 
-  if (
-    /\b(quadratic|linear|function|equation|graph|slope|system|ratio|percent|mean|median|mode|probability|geometry|triangle|circle)\b/.test(
-      blob
-    )
-  ) {
+  if (/\b(quadratic|linear|function|equation|graph|slope|system|ratio|percent|mean|median|mode|probability|geometry|triangle|circle)\b/.test(blob)) {
     return "Math";
   }
-
   return "English";
 }
 
-// =================== Mini inline question viewer ===================
+/* =================== Mini inline question viewer =================== */
 
 function MiniQuestionViewer({
   rows,
@@ -213,10 +265,8 @@ function MiniQuestionViewer({
   const handleKeyPress = (e: React.KeyboardEvent<HTMLDivElement>) => {
     if (submitted) return;
     if (e.key >= "1" && e.key <= "4" && question.choices) {
-      const choiceIndex = parseInt(e.key, 10) - 1;
-      if (question.choices[choiceIndex]) {
-        onAnswer(questionId, question.choices[choiceIndex].key);
-      }
+      const idx = parseInt(e.key, 10) - 1;
+      if (question.choices[idx]) onAnswer(questionId, question.choices[idx].key);
     }
   };
 
@@ -231,12 +281,12 @@ function MiniQuestionViewer({
     <div className="space-y-6" onKeyDown={handleKeyPress} tabIndex={-1}>
       {/* Question Content */}
       <div className="bg-slate-900/70 backdrop-blur-xl rounded-2xl border border-slate-700/50 shadow-2xl p-6 relative overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-r from-blue-500/5 via-purple-500/5 to-cyan-500/5 rounded-2xl"></div>
+        <div className="absolute inset-0 bg-gradient-to-r from-blue-500/5 via-purple-500/5 to-cyan-500/5 rounded-2xl" />
 
         <div className="relative z-10">
           <div className="flex items-center justify-between mb-6">
             <div className="text-slate-400 text-sm flex items-center gap-2">
-              <div className="w-2 h-2 bg-cyan-400 rounded-full animate-pulse"></div>
+              <div className="w-2 h-2 bg-cyan-400 rounded-full animate-pulse" />
               {question.__source || "Question"} • {question.domain_desc || "General"} • {question.skill_desc || "Skills"}
             </div>
             <button
@@ -251,15 +301,15 @@ function MiniQuestionViewer({
             </button>
           </div>
 
-          {/* Question content */}
+          {/* Stimulus + Stem */}
           <div className="space-y-6 mb-8">
             {(question.stimulus_html || question.stimulus) && (
               <div className="bg-slate-800/40 backdrop-blur-sm rounded-xl border border-slate-700/30 p-6 relative overflow-hidden">
-                <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-blue-400 via-purple-500 to-cyan-400"></div>
+                <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-blue-400 via-purple-500 to-cyan-400" />
                 <div
                   className="text-slate-200 text-base leading-relaxed relative z-10"
                   dangerouslySetInnerHTML={{
-                    __html: question.stimulus_html || question.stimulus || "",
+                    __html: question.stimulus_html ?? formatWordedMathHTML(question.stimulus),
                   }}
                 />
               </div>
@@ -268,7 +318,7 @@ function MiniQuestionViewer({
             <div
               className="text-white text-lg leading-relaxed font-medium"
               dangerouslySetInnerHTML={{
-                __html: question.stem_html || question.stem || "No question content",
+                __html: question.stem_html ?? formatWordedMathHTML(question.stem || "No question content"),
               }}
             />
           </div>
@@ -284,11 +334,11 @@ function MiniQuestionViewer({
                 className="w-full p-4 bg-slate-800/50 backdrop-blur-sm border border-slate-600/50 rounded-xl text-white placeholder-slate-400 focus:border-cyan-400 focus:outline-none focus:ring-2 focus:ring-cyan-400/20 disabled:opacity-50 disabled:bg-slate-800/30 transition-all"
                 placeholder="Type your answer..."
               />
-              <div className="absolute inset-0 bg-gradient-to-r from-transparent via-cyan-400/10 to-transparent opacity-0 focus-within:opacity-100 transition-opacity pointer-events-none rounded-xl"></div>
+              <div className="absolute inset-0 bg-gradient-to-r from-transparent via-cyan-400/10 to-transparent opacity-0 focus-within:opacity-100 transition-opacity pointer-events-none rounded-xl" />
             </div>
           ) : question.choices ? (
             <div className="space-y-4">
-              {question.choices.map((choice: Choice) => {
+              {question.choices.map((choice) => {
                 const isSelected = userAnswer === choice.key;
                 const isThisCorrect = submitted && choice.key === getCorrectAnswer(question);
                 const isWrong = submitted && isSelected && !isThisCorrect;
@@ -304,7 +354,7 @@ function MiniQuestionViewer({
                       ${submitted ? "cursor-default" : ""}
                     `}
                   >
-                    <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none"></div>
+                    <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none" />
 
                     <input
                       type="radio"
@@ -315,6 +365,7 @@ function MiniQuestionViewer({
                       disabled={submitted}
                       className="sr-only"
                     />
+
                     <div
                       className={`w-10 h-10 rounded-full border-2 flex items-center justify-center mr-4 text-sm font-bold relative z-10 ${
                         isThisCorrect
@@ -327,27 +378,19 @@ function MiniQuestionViewer({
                       }`}
                     >
                       {choice.key}
-                      {isThisCorrect && <div className="absolute inset-0 bg-emerald-400/20 rounded-full animate-pulse"></div>}
-                      {isWrong && <div className="absolute inset-0 bg-red-400/20 rounded-full animate-pulse"></div>}
+                      {isThisCorrect && <div className="absolute inset-0 bg-emerald-400/20 rounded-full animate-pulse" />}
+                      {isWrong && <div className="absolute inset-0 bg-red-400/20 rounded-full animate-pulse" />}
                     </div>
 
-                    {/* Choice text: prefer HTML if present */}
-                    {choice.html ? (
-                      <span
-                        className={`flex-1 relative z-10 ${
-                          isThisCorrect ? "text-emerald-200" : isWrong ? "text-red-200" : isSelected ? "text-cyan-200" : "text-slate-200"
-                        }`}
-                        dangerouslySetInnerHTML={{ __html: choice.html }}
-                      />
-                    ) : (
-                      <span
-                        className={`flex-1 relative z-10 ${
-                          isThisCorrect ? "text-emerald-200" : isWrong ? "text-red-200" : isSelected ? "text-cyan-200" : "text-slate-200"
-                        }`}
-                      >
-                        {choice.text ?? choice.key}
-                      </span>
-                    )}
+                    {/* Choice content: HTML or formatted text → HTML */}
+                    <span
+                      className={`flex-1 relative z-10 ${
+                        isThisCorrect ? "text-emerald-200" : isWrong ? "text-red-200" : isSelected ? "text-cyan-200" : "text-slate-200"
+                      }`}
+                      dangerouslySetInnerHTML={{
+                        __html: choice.html ?? formatWordedMathHTML(choice.text ?? choice.key),
+                      }}
+                    />
 
                     {submitted && answerIsCorrect && <span className="text-emerald-400 ml-2 text-lg">✓</span>}
                     {submitted && isWrong && <span className="text-red-400 ml-2 text-lg">✗</span>}
@@ -359,21 +402,23 @@ function MiniQuestionViewer({
             <div className="text-slate-400 italic text-center py-8">No answer options available</div>
           )}
 
-          {/* Question Navigator (visible during quiz) */}
+          {/* Navigator (quiz mode only) */}
           {!submitted && (
             <div className="mt-8 bg-slate-800/40 backdrop-blur-sm rounded-xl border border-slate-700/30 p-6 relative overflow-hidden">
-              <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-indigo-400 via-purple-500 to-pink-400"></div>
-
+              <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-indigo-400 via-purple-500 to-pink-400" />
               <div className="relative z-10">
                 <div className="mb-4 text-sm text-slate-400 text-center font-medium">
-                  <span className="bg-gradient-to-r from-cyan-400 to-blue-400 bg-clip-text text-transparent">Question Navigator</span> • Click to jump to any question
+                  <span className="bg-gradient-to-r from-cyan-400 to-blue-400 bg-clip-text text-transparent">
+                    Question Navigator
+                  </span>{" "}
+                  • Click to jump to any question
                 </div>
 
                 <div className="flex flex-wrap gap-3 justify-center">
                   {rows.map((_, index) => {
                     const isActive = index === currentIndex;
                     const hasAnswer = answers[rows[index].id];
-                    const isFlagged = flags[rows[index].id];
+                    const isFlaggedTile = flags[rows[index].id];
 
                     return (
                       <button
@@ -392,15 +437,17 @@ function MiniQuestionViewer({
                               ? "bg-gradient-to-r from-cyan-600 to-blue-600 border-cyan-500 text-white scale-110 shadow-lg shadow-cyan-500/30"
                               : hasAnswer
                               ? "bg-gradient-to-r from-emerald-600/20 to-green-600/20 border-emerald-500/50 text-emerald-300 hover:bg-emerald-600/30 shadow-lg shadow-emerald-500/10"
-                              : isFlagged
+                              : isFlaggedTile
                               ? "bg-gradient-to-r from-amber-600/20 to-orange-600/20 border-amber-500/50 text-amber-300 hover:bg-amber-600/30 shadow-lg shadow-amber-500/10"
                               : "bg-slate-800/50 border-slate-700/50 text-slate-400 hover:bg-slate-700/50 hover:border-slate-600/50 hover:text-slate-300"
                           }
                         `}
                       >
-                        {isActive && <div className="absolute inset-0 bg-gradient-to-r from-cyan-400/20 to-blue-400/20 rounded-xl animate-pulse"></div>}
+                        {isActive && (
+                          <div className="absolute inset-0 bg-gradient-to-r from-cyan-400/20 to-blue-400/20 rounded-xl animate-pulse" />
+                        )}
                         <span className="relative z-10">{index + 1}</span>
-                        {isFlagged && !isActive && (
+                        {isFlaggedTile && !isActive && (
                           <div className="absolute -top-1 -right-1 w-4 h-4 bg-gradient-to-r from-amber-500 to-orange-500 rounded-full text-[8px] text-white flex items-center justify-center font-black shadow-lg">
                             !
                           </div>
@@ -412,21 +459,21 @@ function MiniQuestionViewer({
 
                 <div className="mt-4 flex justify-center gap-8 text-xs text-slate-500">
                   <div className="flex items-center gap-2">
-                    <div className="w-3 h-3 bg-blue-600 rounded"></div>
+                    <div className="w-3 h-3 bg-blue-600 rounded" />
                     <span>Current</span>
                   </div>
                   <div className="flex items-center gap-2">
-                    <div className="w-3 h-3 bg-emerald-600/40 border border-emerald-500/50 rounded"></div>
+                    <div className="w-3 h-3 bg-emerald-600/40 border border-emerald-500/50 rounded" />
                     <span>Answered</span>
                   </div>
                   <div className="flex items-center gap-2">
                     <div className="w-3 h-3 bg-amber-600/40 border border-amber-500/50 rounded relative">
-                      <div className="absolute -top-0.5 -right-0.5 w-2 h-2 bg-gradient-to-r from-amber-500 to-orange-500 rounded-full"></div>
+                      <div className="absolute -top-0.5 -right-0.5 w-2 h-2 bg-gradient-to-r from-amber-500 to-orange-500 rounded-full" />
                     </div>
                     <span>Flagged</span>
                   </div>
                   <div className="flex items-center gap-2">
-                    <div className="w-3 h-3 bg-slate-800/50 border border-slate-700/50 rounded"></div>
+                    <div className="w-3 h-3 bg-slate-800/50 border border-slate-700/50 rounded" />
                     <span>Unanswered</span>
                   </div>
                 </div>
@@ -437,14 +484,16 @@ function MiniQuestionViewer({
           {/* Explanation */}
           {submitted && (question.rationale_html || question.rationale) && (
             <div className="mt-8 p-6 bg-slate-800/40 backdrop-blur-sm rounded-xl border border-slate-700/30 relative overflow-hidden">
-              <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-purple-400 to-pink-400"></div>
+              <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-purple-400 to-pink-400" />
               <h4 className="text-purple-300 font-semibold mb-3 flex items-center gap-2">
-                <div className="w-2 h-2 bg-purple-400 rounded-full"></div>
+                <div className="w-2 h-2 bg-purple-400 rounded-full" />
                 Explanation:
               </h4>
               <div
                 className="text-slate-300 text-sm leading-relaxed relative z-10"
-                dangerouslySetInnerHTML={{ __html: question.rationale_html || question.rationale || "" }}
+                dangerouslySetInnerHTML={{
+                  __html: question.rationale_html ?? formatWordedMathHTML(question.rationale),
+                }}
               />
             </div>
           )}
@@ -463,7 +512,6 @@ function MiniQuestionViewer({
 
         <div className="flex items-center gap-4">
           <div className="text-slate-400 text-sm font-medium">
-            {/* FIXED: use currentIndex (prop) instead of currentQuestionIndex */}
             Question {currentIndex + 1} of {rows.length}
           </div>
           <button
@@ -483,14 +531,14 @@ function MiniQuestionViewer({
             Next →
           </button>
         ) : (
-          <div className="w-[100px]"></div>
+          <div className="w-[100px]" />
         )}
       </div>
     </div>
   );
 }
 
-// =================== Page ===================
+/* =================== Page =================== */
 
 export default function DailyPage() {
   const [state, setState] = useState<DailyState | null>(null);
@@ -517,7 +565,6 @@ export default function DailyPage() {
   const handleSubmit = React.useCallback(() => {
     if (!state || state.submitted) return;
 
-    // Calculate score
     let correct = 0;
     state.rows.forEach((row) => {
       const userAnswer = state.answers[row.id] || "";
@@ -572,7 +619,8 @@ export default function DailyPage() {
       const boards: Record<string, LeaderboardEntry[]> = {};
 
       for (const tab of tabs) {
-        const url = tab === "All" ? `/api/leaderboard?date=${dateKey}` : `/api/leaderboard?date=${dateKey}&grade=${tab}`;
+        const url =
+          tab === "All" ? `/api/leaderboard?date=${dateKey}` : `/api/leaderboard?date=${dateKey}&grade=${tab}`;
         const response = await fetch(url);
         if (response.ok) {
           boards[tab] = (await response.json()) as LeaderboardEntry[];
@@ -648,7 +696,7 @@ export default function DailyPage() {
           throw new Error(`API returned ${response.status}: ${response.statusText}`);
         }
 
-        // Normalize missing __source so pickDailyQuestions can balance subjects
+        // Ensure __source for balancing
         questionPool = questionPool.map((q) => ({
           ...q,
           __source: (q.__source as "English" | "Math" | undefined) ?? inferSubject(q),
@@ -787,7 +835,12 @@ export default function DailyPage() {
                 Daily SAT
               </h1>
               <p className="text-slate-400 text-sm">
-                {new Date().toLocaleDateString("en-US", { weekday: "long", year: "numeric", month: "long", day: "numeric" })}
+                {new Date().toLocaleDateString("en-US", {
+                  weekday: "long",
+                  year: "numeric",
+                  month: "long",
+                  day: "numeric",
+                })}
               </p>
             </div>
 
@@ -832,7 +885,7 @@ export default function DailyPage() {
             />
           </div>
         ) : (
-          /* Results and Leaderboard */
+          /* Results + Leaderboard */
           <div className="space-y-8">
             {/* Results Card */}
             <div className="bg-slate-900/50 backdrop-blur-sm rounded-2xl border border-slate-700/50 p-8 text-center">
@@ -976,7 +1029,6 @@ export default function DailyPage() {
               <div className="bg-slate-900/50 backdrop-blur-sm rounded-2xl border border-slate-700/50 p-6">
                 <h3 className="text-xl font-semibold text-white mb-4">Leaderboards</h3>
 
-                {/* Tabs */}
                 <div className="flex gap-2 mb-6 overflow-x-auto">
                   {["All", "9", "10", "11", "12"].map((tab) => (
                     <button
@@ -993,7 +1045,6 @@ export default function DailyPage() {
                   ))}
                 </div>
 
-                {/* Leaderboard Table */}
                 <div className="overflow-x-auto">
                   <table className="w-full text-sm">
                     <thead>
@@ -1042,25 +1093,6 @@ export default function DailyPage() {
                     </tbody>
                   </table>
                 </div>
-              </div>
-            )}
-
-            {/* Fallback if API unavailable */}
-            {!showProfile && Object.keys(leaderboards).length === 0 && (
-              <div className="bg-slate-900/50 backdrop-blur-sm rounded-2xl border border-slate-700/50 p-8 text-center">
-                <h3 className="text-xl font-semibold text-white mb-2">Leaderboards Coming Soon</h3>
-                <p className="text-slate-400">
-                  We&apos;re working on connecting to our leaderboard service. Your results are saved locally!
-                </p>
-                {state.result && (
-                  <div className="mt-4 inline-flex items-center gap-4 px-6 py-3 bg-slate-800/50 rounded-xl">
-                    <span className="text-slate-300">Your Score:</span>
-                    <span className="text-indigo-400 font-semibold">
-                      {state.result.score}/10 ({state.result.percent}%)
-                    </span>
-                    <span className="text-slate-400">in {formatTime(state.result.elapsedSeconds)}</span>
-                  </div>
-                )}
               </div>
             )}
 
