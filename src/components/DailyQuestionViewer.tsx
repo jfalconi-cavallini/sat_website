@@ -2,10 +2,6 @@
 
 import * as React from "react";
 
-/* =======================================
-   Domain types (adapted for Daily SAT)
-======================================= */
-
 type DifficultyCode = "E" | "M" | "H" | (string & {});
 type QuestionType = "mcq" | "spr" | (string & {});
 
@@ -57,9 +53,6 @@ export interface Question {
   rationale?: string;
 }
 
-/* ---------------------------------------
-   Helpers for rendering math/choices
-----------------------------------------*/
 
 /** Pick any HTML/Math-ish field if present */
 function pickHtmlLike(c: Choice | string): string | undefined {
@@ -139,9 +132,6 @@ function renderChoiceContent(c: Choice | string) {
   return <span>{formatWordedMath(String(text ?? ""))}</span>;
 }
 
-/* ---------------------------------------
-   Shared small utilities
-----------------------------------------*/
 
 /** Safely render HTML fragments (stimulus/stem/rationale) */
 function htmlBlock(html?: string, cls = "question-html") {
@@ -165,10 +155,6 @@ function svgFromMedia(q: Question): string | undefined {
 
 /** simple normalization for answer comparison */
 const norm = (v: unknown) => String(v ?? "").trim().toLowerCase();
-
-/* ---------------------------------------
-   Daily Question Card (WHITE "paper")
-----------------------------------------*/
 
 function DailyQuestionCard({
   q,
@@ -232,16 +218,16 @@ function DailyQuestionCard({
         color: "text-red-700 bg-red-100 border-red-200",
       };
     return {
-        text: "Unknown",
-        color: "text-zinc-600 bg-zinc-100 border-zinc-200",
-      };
+      text: "Unknown",
+      color: "text-zinc-600 bg-zinc-100 border-zinc-200",
+    };
   };
   const difficultyInfo = getDifficultyDisplay(difficulty);
 
   // Handle keyboard navigation for MCQ
   const handleKeyPress = (e: React.KeyboardEvent) => {
     if (isSubmitted || isSPR) return;
-    
+
     if (e.key >= '1' && e.key <= '4' && choices) {
       const choiceIndex = parseInt(e.key) - 1;
       if (choices[choiceIndex]) {
@@ -252,7 +238,7 @@ function DailyQuestionCard({
   };
 
   return (
-    <div 
+    <div
       className="rounded-2xl border border-slate-200 bg-white p-6 shadow-xl text-zinc-900"
       onKeyDown={handleKeyPress}
       tabIndex={0}
@@ -281,11 +267,10 @@ function DailyQuestionCard({
           {/* Show result only after submission */}
           {isSubmitted && userAnswer && (
             <div
-              className={`px-3 py-1 rounded-full text-xs font-medium border ${
-                isCorrect
+              className={`px-3 py-1 rounded-full text-xs font-medium border ${isCorrect
                   ? "text-green-700 bg-green-100 border-green-200"
                   : "text-red-700 bg-red-100 border-red-200"
-              }`}
+                }`}
             >
               {isCorrect ? "✓ Correct" : "✗ Incorrect"}
             </div>
@@ -293,11 +278,10 @@ function DailyQuestionCard({
 
           <button
             onClick={onFlag}
-            className={`px-4 py-2 rounded-lg text-xs font-medium transition-colors border ${
-              isFlagged
+            className={`px-4 py-2 rounded-lg text-xs font-medium transition-colors border ${isFlagged
                 ? "bg-amber-100 text-amber-700 border-amber-200 hover:bg-amber-200"
                 : "bg-white text-zinc-700 border-zinc-300 hover:bg-zinc-50"
-            }`}
+              }`}
             title={isFlagged ? "Remove flag" : "Flag for review"}
           >
             {isFlagged ? "🚩 Flagged" : "🏳️ Flag"}
@@ -326,11 +310,10 @@ function DailyQuestionCard({
             onChange={(e) => !isSubmitted && onAnswerSelect(e.target.value)}
             disabled={isSubmitted}
             placeholder="Type your answer…"
-            className={`w-full rounded-xl border px-4 py-3 outline-none transition ${
-              isSubmitted
+            className={`w-full rounded-xl border px-4 py-3 outline-none transition ${isSubmitted
                 ? "border-zinc-200 bg-zinc-50 text-zinc-500"
                 : "border-zinc-300 bg-white text-zinc-900 focus:border-blue-400"
-            }`}
+              }`}
           />
 
           {/* Show results only after submission */}
@@ -347,11 +330,10 @@ function DailyQuestionCard({
                   <div className="flex items-center gap-2">
                     <span className="text-zinc-600">Your Answer:</span>
                     <span
-                      className={`font-bold ${
-                        norm(userAnswer) === norm(correctAnswer)
+                      className={`font-bold ${norm(userAnswer) === norm(correctAnswer)
                           ? "text-green-700"
                           : "text-red-700"
-                      }`}
+                        }`}
                     >
                       {userAnswer}
                     </span>
@@ -378,30 +360,28 @@ function DailyQuestionCard({
                   <button
                     onClick={() => !isSubmitted && onAnswerSelect(choiceKey)}
                     disabled={isSubmitted}
-                    className={`w-full text-left rounded-xl border p-4 transition-all duration-200 ${
-                      isChoiceCorrect
+                    className={`w-full text-left rounded-xl border p-4 transition-all duration-200 ${isChoiceCorrect
                         ? "border-green-500/50 bg-green-100 text-green-800"
                         : isChoiceIncorrect
-                        ? "border-red-500/50 bg-red-100 text-red-800"
-                        : isSelected
-                        ? "border-blue-500/50 bg-blue-50 text-blue-800"
-                        : isSubmitted
-                        ? "border-zinc-200 bg-zinc-50 text-zinc-500"
-                        : "border-zinc-300 bg-white text-zinc-800 hover:border-blue-300 hover:bg-blue-50"
-                    } ${isSubmitted ? "cursor-not-allowed" : "cursor-pointer hover:scale-[1.02]"}`}
+                          ? "border-red-500/50 bg-red-100 text-red-800"
+                          : isSelected
+                            ? "border-blue-500/50 bg-blue-50 text-blue-800"
+                            : isSubmitted
+                              ? "border-zinc-200 bg-zinc-50 text-zinc-500"
+                              : "border-zinc-300 bg-white text-zinc-800 hover:border-blue-300 hover:bg-blue-50"
+                      } ${isSubmitted ? "cursor-not-allowed" : "cursor-pointer hover:scale-[1.02]"}`}
                   >
                     <span
-                      className={`mr-3 font-bold text-base ${
-                        isChoiceCorrect
+                      className={`mr-3 font-bold text-base ${isChoiceCorrect
                           ? "text-green-800"
                           : isChoiceIncorrect
-                          ? "text-red-800"
-                          : isSelected
-                          ? "text-blue-800"
-                          : isSubmitted
-                          ? "text-zinc-500"
-                          : "text-zinc-700"
-                      }`}
+                            ? "text-red-800"
+                            : isSelected
+                              ? "text-blue-800"
+                              : isSubmitted
+                                ? "text-zinc-500"
+                                : "text-zinc-700"
+                        }`}
                     >
                       {choiceKey}.
                       {isChoiceCorrect && " ✓"}
@@ -428,11 +408,10 @@ function DailyQuestionCard({
                   <div className="flex items-center gap-2">
                     <span className="text-zinc-600">Your Answer:</span>
                     <span
-                      className={`font-bold ${
-                        userAnswer === mcqCorrect
+                      className={`font-bold ${userAnswer === mcqCorrect
                           ? "text-green-700"
                           : "text-red-700"
-                      }`}
+                        }`}
                     >
                       {userAnswer}
                     </span>
@@ -498,11 +477,20 @@ export default function DailyQuestionViewer({
     if (isSPR) {
       return String(q.answer ?? "");
     } else {
-      return Array.isArray(q.correct_letters) 
-        ? q.correct_letters[0] 
+      return Array.isArray(q.correct_letters)
+        ? q.correct_letters[0]
         : String(q.correct_letters ?? "");
     }
   };
+
+  // Dispatch event for ChatBot context
+  React.useEffect(() => {
+    if (question) {
+      window.dispatchEvent(
+        new CustomEvent("sat-question-change", { detail: question })
+      );
+    }
+  }, [question]);
 
   const correctAnswer = getCorrectAnswer(question);
   const userAnswer = isSubmitted ? selectedAnswer : undefined;
@@ -531,12 +519,12 @@ export default function DailyQuestionViewer({
         >
           ← Previous
         </button>
-        
+
         <div className="flex items-center gap-4">
           <div className="text-slate-400 text-sm">
             Question {currentIndex + 1} of {rows.length}
           </div>
-          
+
           {/* Submit Quiz button - always available during quiz */}
           {!isSubmitted && (
             <button
@@ -547,7 +535,7 @@ export default function DailyQuestionViewer({
             </button>
           )}
         </div>
-        
+
         {currentIndex < rows.length - 1 ? (
           <button
             onClick={() => onNavigate('next')}
@@ -571,7 +559,7 @@ export default function DailyQuestionViewer({
               const isActive = index === currentIndex;
               const hasAnswer = answers[rows[index].id];
               const isFlagged = flags[rows[index].id];
-              
+
               return (
                 <button
                   key={index}
@@ -584,13 +572,13 @@ export default function DailyQuestionViewer({
                   }}
                   className={`
                     w-12 h-12 rounded-xl border transition-all text-sm font-medium
-                    ${isActive 
-                      ? 'bg-indigo-600 border-indigo-500 text-white scale-110' 
+                    ${isActive
+                      ? 'bg-indigo-600 border-indigo-500 text-white scale-110'
                       : hasAnswer
-                      ? 'bg-emerald-600/20 border-emerald-500/50 text-emerald-300'
-                      : isFlagged
-                      ? 'bg-amber-600/20 border-amber-500/50 text-amber-300'
-                      : 'bg-slate-700/50 border-slate-600/50 text-slate-300 hover:bg-slate-600/50'
+                        ? 'bg-emerald-600/20 border-emerald-500/50 text-emerald-300'
+                        : isFlagged
+                          ? 'bg-amber-600/20 border-amber-500/50 text-amber-300'
+                          : 'bg-slate-700/50 border-slate-600/50 text-slate-300 hover:bg-slate-600/50'
                     }
                   `}
                 >
