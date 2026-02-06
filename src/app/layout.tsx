@@ -1,6 +1,7 @@
 import "./globals.css";
 import type { Metadata } from "next";
 import NavBar from "@/components/NavBar";
+import ChatWidget from "@/components/ChatWidget";
 
 export const metadata: Metadata = {
   title: "AIPrep — SAT Practice",
@@ -13,6 +14,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="flex min-h-screen flex-col bg-slate-950 text-zinc-100 antialiased">
         <NavBar />
         <main className="flex-1">{children}</main>
+        <ChatWidget />
       </body>
     </html>
   );
