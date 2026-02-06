@@ -10,10 +10,6 @@ import {
   type QuestionStatus,
 } from "@/lib/progress";
 
-/* =======================================
-   Domain types (can be moved to '@/types')
-======================================= */
-
 type DifficultyCode = "E" | "M" | "H" | (string & {});
 type QuestionType = "mcq" | "spr" | (string & {});
 
@@ -68,10 +64,6 @@ export interface StoredProgress {
   status: "unanswered" | "correct" | "incorrect" | "flagged";
   selectedAnswer?: string;
 }
-
-/* ---------------------------------------
-   Helpers for rendering math/choices
-----------------------------------------*/
 
 /** Pick any HTML/Math-ish field if present */
 function pickHtmlLike(c: Choice | string): string | undefined {
@@ -152,9 +144,6 @@ function renderChoiceContent(c: Choice | string) {
   return <span>{formatWordedMath(String(text ?? ""))}</span>;
 }
 
-/* ---------------------------------------
-   Shared small utilities
-----------------------------------------*/
 
 /** Safely render HTML fragments (stimulus/stem/rationale) — inherits parent color */
 function htmlBlock(html?: string, cls = "question-html") {
@@ -179,9 +168,6 @@ function svgFromMedia(q: Question): string | undefined {
 /** simple normalization for answer comparison */
 const norm = (v: unknown) => String(v ?? "").trim().toLowerCase();
 
-/* ---------------------------------------
-   Question Card (WHITE "paper" on dark shell)
-----------------------------------------*/
 
 function QuestionCard({
   q,
@@ -294,33 +280,31 @@ function QuestionCard({
           {questionProgress?.status &&
             questionProgress.status !== "unanswered" && (
               <div
-                className={`px-3 py-1 rounded-full text-xs font-medium border ${
-                  questionProgress.status === "correct"
+                className={`px-3 py-1 rounded-full text-xs font-medium border ${questionProgress.status === "correct"
                     ? "text-green-700 bg-green-100 border-green-200"
                     : questionProgress.status === "incorrect"
-                    ? "text-red-700 bg-red-100 border-red-200"
-                    : questionProgress.status === "flagged"
-                    ? "text-amber-700 bg-amber-100 border-amber-200"
-                    : "text-zinc-600 bg-zinc-100 border-zinc-200"
-                }`}
+                      ? "text-red-700 bg-red-100 border-red-200"
+                      : questionProgress.status === "flagged"
+                        ? "text-amber-700 bg-amber-100 border-amber-200"
+                        : "text-zinc-600 bg-zinc-100 border-zinc-200"
+                  }`}
               >
                 {questionProgress.status === "correct"
                   ? "✓ Correct"
                   : questionProgress.status === "incorrect"
-                  ? "✗ Incorrect"
-                  : questionProgress.status === "flagged"
-                  ? "🚩 Flagged"
-                  : "Answered"}
+                    ? "✗ Incorrect"
+                    : questionProgress.status === "flagged"
+                      ? "🚩 Flagged"
+                      : "Answered"}
               </div>
             )}
 
           <button
             onClick={onToggleFlag}
-            className={`px-4 py-2 rounded-lg text-xs font-medium transition-colors border ${
-              isFlagged
+            className={`px-4 py-2 rounded-lg text-xs font-medium transition-colors border ${isFlagged
                 ? "bg-amber-100 text-amber-700 border-amber-200 hover:bg-amber-200"
                 : "bg-white text-zinc-700 border-zinc-300 hover:bg-zinc-50"
-            }`}
+              }`}
             title={isFlagged ? "Remove flag" : "Flag for review"}
           >
             {isFlagged ? "🚩 Flagged" : "🏳️ Flag"}
@@ -361,11 +345,10 @@ function QuestionCard({
               }}
               disabled={isAnswered}
               placeholder="Type your answer…"
-              className={`w-full rounded-xl border px-4 py-3 outline-none transition ${
-                isAnswered
+              className={`w-full rounded-xl border px-4 py-3 outline-none transition ${isAnswered
                   ? "border-zinc-200 bg-zinc-50 text-zinc-500"
                   : "border-zinc-300 bg-white text-zinc-900 focus:border-blue-400"
-              }`}
+                }`}
             />
             {!isAnswered && (
               <button
@@ -389,11 +372,10 @@ function QuestionCard({
                   <div className="flex items-center gap-2">
                     <span className="text-zinc-600">Your Answer:</span>
                     <span
-                      className={`font-bold ${
-                        norm(questionProgress.selectedAnswer) === norm(correctAnswer)
+                      className={`font-bold ${norm(questionProgress.selectedAnswer) === norm(correctAnswer)
                           ? "text-green-700"
                           : "text-red-700"
-                      }`}
+                        }`}
                     >
                       {questionProgress.selectedAnswer}
                     </span>
@@ -420,30 +402,28 @@ function QuestionCard({
                   <button
                     onClick={() => !isAnswered && onAnswerSelect(choiceKey)}
                     disabled={isAnswered}
-                    className={`w-full text-left rounded-xl border p-4 transition-all duration-200 ${
-                      isCorrect
+                    className={`w-full text-left rounded-xl border p-4 transition-all duration-200 ${isCorrect
                         ? "border-green-500/50 bg-green-100 text-green-800"
                         : isIncorrect
-                        ? "border-red-500/50 bg-red-100 text-red-800"
-                        : isSelected
-                        ? "border-blue-500/50 bg-blue-50 text-blue-800"
-                        : isAnswered
-                        ? "border-zinc-200 bg-zinc-50 text-zinc-500"
-                        : "border-zinc-300 bg-white text-zinc-800 hover:border-blue-300 hover:bg-blue-50"
-                    } ${isAnswered ? "cursor-not-allowed" : "cursor-pointer hover:scale-[1.02]"}`}
+                          ? "border-red-500/50 bg-red-100 text-red-800"
+                          : isSelected
+                            ? "border-blue-500/50 bg-blue-50 text-blue-800"
+                            : isAnswered
+                              ? "border-zinc-200 bg-zinc-50 text-zinc-500"
+                              : "border-zinc-300 bg-white text-zinc-800 hover:border-blue-300 hover:bg-blue-50"
+                      } ${isAnswered ? "cursor-not-allowed" : "cursor-pointer hover:scale-[1.02]"}`}
                   >
                     <span
-                      className={`mr-3 font-bold text-base ${
-                        isCorrect
+                      className={`mr-3 font-bold text-base ${isCorrect
                           ? "text-green-800"
                           : isIncorrect
-                          ? "text-red-800"
-                          : isSelected
-                          ? "text-blue-800"
-                          : isAnswered
-                          ? "text-zinc-500"
-                          : "text-zinc-700"
-                      }`}
+                            ? "text-red-800"
+                            : isSelected
+                              ? "text-blue-800"
+                              : isAnswered
+                                ? "text-zinc-500"
+                                : "text-zinc-700"
+                        }`}
                     >
                       {choiceKey}.
                       {isCorrect && " ✓"}
@@ -480,11 +460,10 @@ function QuestionCard({
                   <div className="flex items-center gap-2">
                     <span className="text-zinc-600">Your Answer:</span>
                     <span
-                      className={`font-bold ${
-                        questionProgress.selectedAnswer === mcqCorrect
+                      className={`font-bold ${questionProgress.selectedAnswer === mcqCorrect
                           ? "text-green-700"
                           : "text-red-700"
-                      }`}
+                        }`}
                     >
                       {questionProgress.selectedAnswer}
                     </span>
@@ -517,11 +496,6 @@ function QuestionCard({
   );
 }
 
-/* ---------------------------------------
-   Viewer (dark page chrome)
-----------------------------------------*/
-
-// Fisher–Yates shuffle
 function shuffle<T>(arr: T[]) {
   const a = arr.slice();
   for (let i = a.length - 1; i > 0; i--) {
@@ -664,6 +638,15 @@ export default function QuestionViewer({
     });
   }, [idxInOrder, order]);
 
+  // Dispatch event for ChatBot context
+  React.useEffect(() => {
+    if (activeRow) {
+      window.dispatchEvent(
+        new CustomEvent("sat-question-change", { detail: activeRow })
+      );
+    }
+  }, [activeRow]);
+
   if (!filteredRows || filteredRows.length === 0) {
     return (
       <div className="min-h-screen bg-[#0b1020] text-white">
@@ -699,10 +682,10 @@ export default function QuestionViewer({
     activeType === "spr"
       ? String(activeRow?.answer ?? "")
       : String(
-          Array.isArray(activeRow?.correct_letters)
-            ? activeRow.correct_letters[0]
-            : activeRow?.correct_letters ?? ""
-        );
+        Array.isArray(activeRow?.correct_letters)
+          ? activeRow.correct_letters[0]
+          : activeRow?.correct_letters ?? ""
+      );
 
   return (
     <div className="min-h-screen bg-[#0b1020] text-white">
@@ -774,19 +757,17 @@ export default function QuestionViewer({
                     ref={isActive ? activeRef : undefined}
                     onClick={() => setIndex(n)}
                     onKeyDown={(e) => keyGo(e, n)}
-                    className={`qn-tile ${isActive ? "qn-tile--active" : ""} ${
-                      progress?.status === "correct"
+                    className={`qn-tile ${isActive ? "qn-tile--active" : ""} ${progress?.status === "correct"
                         ? "qn-tile--correct"
                         : progress?.status === "incorrect"
-                        ? "qn-tile--incorrect"
-                        : progress?.status === "flagged"
-                        ? "qn-tile--flagged"
-                        : ""
-                    }`}
+                          ? "qn-tile--incorrect"
+                          : progress?.status === "flagged"
+                            ? "qn-tile--flagged"
+                            : ""
+                      }`}
                     aria-current={isActive ? "true" : "false"}
-                    aria-label={`Go to question ${n}${
-                      progress?.status ? ` (${progress.status})` : ""
-                    }`}
+                    aria-label={`Go to question ${n}${progress?.status ? ` (${progress.status})` : ""
+                      }`}
                   >
                     {n}
                   </button>
