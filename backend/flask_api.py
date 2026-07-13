@@ -8,13 +8,29 @@ from chatbot import SATChatbot
 load_dotenv()
 
 # ---- Config ----
-CSV_PATH = os.getenv("SATBOT_CSV", "/Users/emmabrugman/my-projects/SAT_chat_bot/data/data_cleaned.csv")
+# No hardcoded personal-machine default: this must be set per-environment.
+# NOTE: SATChatbot expects a `choices` column shaped like
+#   [{'letter': 'A', 'text': '...'}]
+# The repo's own data/math_qa_normalized.csv and data/english_qa_normalized.csv
+# store choices as a pipe-delimited string ("A. ... | B. ... | C. ...") instead,
+# so pointing SATBOT_CSV at them will run without crashing but will silently
+# treat every multiple-choice question as free-response. Bridging that format
+# gap is a real data-adapter task, tracked separately — not fixed by this change.
+CSV_PATH = os.getenv("SATBOT_CSV")
 MODEL_NAME = os.getenv("SAT_BOT_MODEL", "gpt-4o-mini")
 # Comma-separated list of allowed origins for CORS
 ALLOWED_ORIGINS = os.getenv(
     "SATBOT_CORS",
     "http://localhost:3000,http://localhost:5173,http://127.0.0.1:3000"
 ).split(",")
+
+if not CSV_PATH:
+    raise RuntimeError(
+        "SATBOT_CSV is not set. Copy backend/.env.example to backend/.env and "
+        "point SATBOT_CSV at a dataset shaped for SATChatbot (see chatbot.py's "
+        "`needed` columns) — the repo's data/*.csv files are not yet compatible; "
+        "see the note above CSV_PATH."
+    )
 
 app = Flask(__name__)
 CORS(app, resources={

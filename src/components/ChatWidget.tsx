@@ -8,6 +8,10 @@ import rehypeKatex from "rehype-katex";
 import "katex/dist/katex.min.css";
 import ChatQuestionCard, { type QuestionData } from "./ChatQuestionCard";
 
+// Configurable so the widget can point at any environment's backend instance
+// (local dev, staging, prod) instead of a hardcoded host/port.
+const CHATBOT_URL = process.env.NEXT_PUBLIC_CHATBOT_URL || "http://localhost:5050/chat";
+
 type Message = {
   id: string;
   role: "user" | "bot";
@@ -62,8 +66,7 @@ export default function ChatWidget() {
     setIsLoading(true);
 
     try {
-      // UPDATED PORT TO 5051
-      const res = await fetch("http://localhost:5051/chat", {
+      const res = await fetch(CHATBOT_URL, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
