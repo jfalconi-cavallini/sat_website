@@ -1,13 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { headers } from 'next/headers';
-
-// SECURITY WARNING: In-memory storage is NOT production ready
-// For production, use: PostgreSQL, MongoDB, or Redis with proper persistence
-// This resets on every server restart and doesn't scale across multiple instances
-const leaderboardData: Record<string, LeaderboardEntry[]> = {};
-
-// Rate limiting storage (in production, use Redis or database)
-const rateLimitStore: Map<string, { count: number; resetTime: number }> = new Map();
+import { Ratelimit } from '@upstash/ratelimit';
+import { redis } from '@/lib/redis';
 
 type LeaderboardEntry = {
   displayName: string;
@@ -19,11 +13,35 @@ type LeaderboardEntry = {
   createdAt: string;
 };
 
-// Security: Rate limiting configuration
-const RATE_LIMIT = {
-  windowMs: 15 * 60 * 1000, // 15 minutes
-  maxRequests: 5, // Max 5 submissions per 15 minutes per IP
-};
+// Security: rate limiting - 5 submissions per 15 minutes per IP.
+// Backed by Upstash Redis so it actually holds across serverless instances,
+// unlike the in-memory Map this replaced (self-flagged as "NOT production
+// ready" in the code it came from - each Vercel function instance has its
+// own memory, so that limit was trivially bypassed by hitting a different
+// instance).
+const ratelimit = new Ratelimit({
+  redis,
+  limiter: Ratelimit.slidingWindow(5, '15 m'),
+  prefix: 'leaderboard-ratelimit',
+});
+
+const MAX_ENTRIES_PER_DAY = 1000;
+
+function leaderboardKey(date: string): string {
+  return `leaderboard:${date}`;
+}
+
+async function getEntries(date: string): Promise<LeaderboardEntry[]> {
+  const entries = await redis.get<LeaderboardEntry[]>(leaderboardKey(date));
+  return entries ?? [];
+}
+
+async function setEntries(date: string, entries: LeaderboardEntry[]): Promise<void> {
+  // Leaderboard data has no fixed end date the way a session token would,
+  // but a ~400 day TTL keeps years of abandoned daily-challenge keys from
+  // accumulating forever.
+  await redis.set(leaderboardKey(date), entries, { ex: 60 * 60 * 24 * 400 });
+}
 
 // Security: Enhanced input validation
 function sanitizeString(input: string, maxLength: number): string {
@@ -43,7 +61,7 @@ function validateDisplayName(name: string): string | null {
   if (!/^[a-zA-Z0-9\s]+$/.test(sanitized)) {
     return "Only letters, numbers, and spaces allowed";
   }
-  
+
   // Enhanced profanity/abuse detection (add more as needed)
   const blockedWords = [
     'admin', 'test', 'null', 'undefined', 'script', 'alert',
@@ -63,36 +81,36 @@ function validateGrade(grade: string): grade is "9" | "10" | "11" | "12" | "Othe
 function validateDate(dateStr: string): boolean {
   const dateRegex = /^\d{4}-\d{2}-\d{2}$/;
   if (!dateRegex.test(dateStr)) return false;
-  
+
   const date = new Date(dateStr + 'T00:00:00.000Z');
   if (!(date instanceof Date) || isNaN(date.getTime())) return false;
-  
+
   // Security: Only allow dates within reasonable range (last year to next day)
   const now = new Date();
   const oneYearAgo = new Date(now.getFullYear() - 1, now.getMonth(), now.getDate());
   const tomorrow = new Date(now.getTime() + 24 * 60 * 60 * 1000);
-  
+
   return date >= oneYearAgo && date <= tomorrow;
 }
 
 async function getClientIP(request: NextRequest): Promise<string> {
   const headersList = await headers();
-  
+
   // Check various headers for real IP (common in production deployments)
   const forwardedFor = headersList.get('x-forwarded-for');
   if (forwardedFor) {
     return forwardedFor.split(',')[0].trim();
   }
-  
+
   const realIP = headersList.get('x-real-ip');
   if (realIP) return realIP;
-  
+
   const cfIP = headersList.get('cf-connecting-ip'); // Cloudflare
   if (cfIP) return cfIP;
-  
+
   // Fallback: try to get IP from URL or connection
   try {
-    const url = new URL(request.url);
+    new URL(request.url);
     // In some environments, the IP might be available differently
     return 'unknown';
   } catch {
@@ -100,47 +118,26 @@ async function getClientIP(request: NextRequest): Promise<string> {
   }
 }
 
-function checkRateLimit(ip: string): { allowed: boolean; resetTime?: number } {
-  const now = Date.now();
-  const record = rateLimitStore.get(ip);
-  
-  if (!record || now > record.resetTime) {
-    // Reset or create new record
-    rateLimitStore.set(ip, {
-      count: 1,
-      resetTime: now + RATE_LIMIT.windowMs
-    });
-    return { allowed: true };
-  }
-  
-  if (record.count >= RATE_LIMIT.maxRequests) {
-    return { allowed: false, resetTime: record.resetTime };
-  }
-  
-  record.count++;
-  return { allowed: true };
-}
-
 export async function POST(request: NextRequest) {
   try {
     // Security: Rate limiting
     const clientIP = await getClientIP(request);
-    const rateLimitResult = checkRateLimit(clientIP);
-    
-    if (!rateLimitResult.allowed) {
-      const resetInMinutes = Math.ceil(((rateLimitResult.resetTime || 0) - Date.now()) / 60000);
+    const rateLimitResult = await ratelimit.limit(clientIP);
+
+    if (!rateLimitResult.success) {
+      const resetInMinutes = Math.max(1, Math.ceil((rateLimitResult.reset - Date.now()) / 60000));
       return NextResponse.json(
-        { 
+        {
           error: 'Rate limit exceeded',
           message: `Too many submissions. Try again in ${resetInMinutes} minutes.`,
           retryAfter: resetInMinutes * 60 // seconds
         },
-        { 
+        {
           status: 429,
           headers: {
             'Retry-After': String(resetInMinutes * 60),
-            'X-RateLimit-Limit': String(RATE_LIMIT.maxRequests),
-            'X-RateLimit-Remaining': '0',
+            'X-RateLimit-Limit': String(rateLimitResult.limit),
+            'X-RateLimit-Remaining': String(Math.max(0, rateLimitResult.remaining)),
           }
         }
       );
@@ -163,7 +160,7 @@ export async function POST(request: NextRequest) {
         { status: 400 }
       );
     }
-    
+
     const {
       date,
       displayName,
@@ -176,11 +173,11 @@ export async function POST(request: NextRequest) {
     } = body;
 
     // Validate required fields with type checking
-    if (typeof date !== 'string' || 
-        typeof displayName !== 'string' || 
-        typeof grade !== 'string' || 
-        typeof score !== 'number' || 
-        typeof percent !== 'number' || 
+    if (typeof date !== 'string' ||
+        typeof displayName !== 'string' ||
+        typeof grade !== 'string' ||
+        typeof score !== 'number' ||
+        typeof percent !== 'number' ||
         typeof elapsedSeconds !== 'number') {
       return NextResponse.json(
         { error: 'Invalid field types in request' },
@@ -282,19 +279,15 @@ export async function POST(request: NextRequest) {
       createdAt: validatedCreatedAt
     };
 
-    // Initialize date array if doesn't exist
-    if (!leaderboardData[date]) {
-      leaderboardData[date] = [];
-    }
+    const entries = await getEntries(date);
 
     // Security: Prevent duplicate entries and limit entries per date
-    const existingIndex = leaderboardData[date].findIndex(
-      (existing: LeaderboardEntry) => existing.displayName.toLowerCase() === entry.displayName.toLowerCase()
+    const existingIndex = entries.findIndex(
+      (existing) => existing.displayName.toLowerCase() === entry.displayName.toLowerCase()
     );
 
     // Security: Limit total entries per day to prevent DoS
-    const MAX_ENTRIES_PER_DAY = 1000;
-    if (leaderboardData[date].length >= MAX_ENTRIES_PER_DAY && existingIndex === -1) {
+    if (entries.length >= MAX_ENTRIES_PER_DAY && existingIndex === -1) {
       return NextResponse.json(
         { error: 'Daily leaderboard is full. Try again tomorrow.' },
         { status: 429 }
@@ -303,16 +296,17 @@ export async function POST(request: NextRequest) {
 
     if (existingIndex >= 0) {
       // Update existing entry only if new score is better, or if same score but faster time
-      const existing = leaderboardData[date][existingIndex];
-      const shouldUpdate = entry.score > existing.score || 
+      const existing = entries[existingIndex];
+      const shouldUpdate = entry.score > existing.score ||
         (entry.score === existing.score && entry.elapsedSeconds < existing.elapsedSeconds);
-      
+
       if (shouldUpdate) {
-        leaderboardData[date][existingIndex] = entry;
+        entries[existingIndex] = entry;
+        await setEntries(date, entries);
       }
     } else {
-      // Add new entry
-      leaderboardData[date].push(entry);
+      entries.push(entry);
+      await setEntries(date, entries);
     }
 
     return NextResponse.json({ success: true });
@@ -341,7 +335,7 @@ export async function GET(request: NextRequest) {
     }
 
     // Get entries for the date
-    let entries = leaderboardData[date] || [];
+    let entries = await getEntries(date);
 
     // Filter by grade if specified
     if (grade) {
@@ -351,21 +345,21 @@ export async function GET(request: NextRequest) {
           { status: 400 }
         );
       }
-      entries = entries.filter((entry: LeaderboardEntry) => entry.grade === grade);
+      entries = entries.filter((entry) => entry.grade === grade);
     }
 
     // Sort entries: score descending, then elapsed time ascending, then created time ascending
-    entries.sort((a: LeaderboardEntry, b: LeaderboardEntry) => {
+    entries.sort((a, b) => {
       // First by score (higher is better)
       if (a.score !== b.score) {
         return b.score - a.score;
       }
-      
+
       // Then by elapsed time (lower is better) - for 10/10 ties
       if (a.elapsedSeconds !== b.elapsedSeconds) {
         return a.elapsedSeconds - b.elapsedSeconds;
       }
-      
+
       // Finally by creation time (earlier is better for complete ties)
       return new Date(a.createdAt).getTime() - new Date(b.createdAt).getTime();
     });

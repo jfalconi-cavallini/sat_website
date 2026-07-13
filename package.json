@@ -12,6 +12,8 @@
     "test:watch": "vitest"
   },
   "dependencies": {
+    "@upstash/ratelimit": "^2.0.8",
+    "@upstash/redis": "^1.38.0",
     "katex": "^0.16.28",
     "lucide-react": "^0.544.0",
     "next": "^15.5.12",
