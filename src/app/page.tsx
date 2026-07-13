@@ -1,19 +1,40 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import Link from "next/link";
-import { Brain, Zap, BookOpen, Calculator, Timer, TrendingUp, Sparkles, ChevronRight } from "lucide-react";
+import { Brain, Zap, BookOpen, Calculator, Timer, TrendingUp, Sparkles, ChevronRight, Gift } from "lucide-react";
 
 type Particle = { left: string; top: string; delay: string; duration: string };
 
 export default function HomePage() {
-  const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
   const [particles, setParticles] = useState<Particle[]>([]);
+  const glowRef = useRef<HTMLDivElement>(null);
 
+  // Track the cursor via a ref + rAF instead of React state, so the hero
+  // doesn't re-render on every mousemove pixel — only the CSS custom
+  // properties driving the glow's position are touched, at most once per frame.
   useEffect(() => {
-    const handleMouseMove = (e: MouseEvent) => setMousePosition({ x: e.clientX, y: e.clientY });
+    let frame = 0;
+    let pendingX = 0;
+    let pendingY = 0;
+
+    const applyPosition = () => {
+      frame = 0;
+      glowRef.current?.style.setProperty("--mx", `${pendingX}px`);
+      glowRef.current?.style.setProperty("--my", `${pendingY}px`);
+    };
+
+    const handleMouseMove = (e: MouseEvent) => {
+      pendingX = e.clientX;
+      pendingY = e.clientY;
+      if (!frame) frame = requestAnimationFrame(applyPosition);
+    };
+
     window.addEventListener("mousemove", handleMouseMove);
-    return () => window.removeEventListener("mousemove", handleMouseMove);
+    return () => {
+      window.removeEventListener("mousemove", handleMouseMove);
+      if (frame) cancelAnimationFrame(frame);
+    };
   }, []);
 
   // Generate particle positions once on the client to avoid SSR hydration mismatches
@@ -37,9 +58,11 @@ export default function HomePage() {
       <div className="pointer-events-none fixed inset-0 -z-10">
         <div className="absolute inset-0 bg-gradient-to-br from-indigo-900/20 via-purple-900/20 to-cyan-900/20" />
         <div
+          ref={glowRef}
           className="absolute inset-0 opacity-30"
           style={{
-            background: `radial-gradient(600px circle at ${mousePosition.x}px ${mousePosition.y}px, rgba(59,130,246,.15), transparent 40%)`,
+            background:
+              "radial-gradient(600px circle at var(--mx, 50%) var(--my, 50%), rgba(59,130,246,.15), transparent 40%)",
           }}
         />
         {/* Floating particles (client-only, stable values) */}
@@ -101,10 +124,10 @@ export default function HomePage() {
               border="border-purple-500/30"
             />
             <HighlightBubble
-              icon={<TrendingUp className="w-6 h-6 text-green-400" />}
-              title="Score Boost"
-              subtitle="+200 Points"
-              description="Average improvement with consistent practice"
+              icon={<Gift className="w-6 h-6 text-green-400" />}
+              title="Always Free"
+              subtitle="No Login Required"
+              description="Full question bank and daily challenges, no account or paywall, ever"
               gradient="from-green-500/20 to-cyan-500/20"
               border="border-green-500/30"
             />
@@ -123,7 +146,7 @@ export default function HomePage() {
           </div>
 
           <p className="text-sm text-slate-400">
-            Join over <span className="text-blue-400 font-semibold">50,000+</span> students already improving their scores
+            <span className="text-blue-400 font-semibold">100% free.</span> No login, no signup, no email required — just practice.
           </p>
         </div>
       </section>
@@ -192,8 +215,8 @@ export default function HomePage() {
             <div className="flex gap-8 text-sm text-slate-400">
               <Link href="/tests" className="hover:text-blue-400 transition-colors">Practice Tests</Link>
               <Link href="/questions" className="hover:text-blue-400 transition-colors">Question Banks</Link>
+              <Link href="/daily" className="hover:text-blue-400 transition-colors">Daily SAT</Link>
               <Link href="/tutor" className="hover:text-blue-400 transition-colors">AI Tutor</Link>
-              <Link href="/analytics" className="hover:text-blue-400 transition-colors">Analytics</Link>
             </div>
             <p className="text-sm text-slate-500">© 2025 AIPrep. All rights reserved.</p>
           </div>

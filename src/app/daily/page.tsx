@@ -32,6 +32,7 @@ type LeaderboardEntry = {
 type Choice = {
   key: string;
   text?: string;
+  text_html?: string; // actual field name used by the normalized dataset
   html?: string;
   correct?: boolean;
 };
@@ -172,6 +173,9 @@ function pickDailyQuestions(seedStr: string, allRows: Question[]): Question[] {
   return daily.slice(0, 10);
 }
 
+/** Normalize an answer before comparing (matches QuestionViewer's grading behavior) */
+const norm = (v: unknown) => String(v ?? "").trim().toLowerCase();
+
 function formatTime(seconds: number): string {
   const mins = Math.floor(seconds / 60);
   const secs = seconds % 60;
@@ -275,7 +279,7 @@ function MiniQuestionViewer({
     return q.correct_letters || q.answer || "";
   };
 
-  const answerIsCorrect = submitted && userAnswer === getCorrectAnswer(question);
+  const answerIsCorrect = submitted && norm(userAnswer) === norm(getCorrectAnswer(question));
 
   return (
     <div className="space-y-6" onKeyDown={handleKeyPress} tabIndex={-1}>
@@ -388,7 +392,7 @@ function MiniQuestionViewer({
                         isThisCorrect ? "text-emerald-200" : isWrong ? "text-red-200" : isSelected ? "text-cyan-200" : "text-slate-200"
                       }`}
                       dangerouslySetInnerHTML={{
-                        __html: choice.html ?? formatWordedMathHTML(choice.text ?? choice.key),
+                        __html: choice.text_html ?? choice.html ?? formatWordedMathHTML(choice.text ?? choice.key),
                       }}
                     />
 
@@ -571,7 +575,7 @@ export default function DailyPage() {
       const correctAnswer = Array.isArray(row.correct_letters)
         ? row.correct_letters[0]
         : row.correct_letters || row.answer || "";
-      if (userAnswer === correctAnswer) correct++;
+      if (norm(userAnswer) === norm(correctAnswer)) correct++;
     });
 
     const elapsedSeconds = 720 - state.remainingSeconds;
@@ -618,14 +622,16 @@ export default function DailyPage() {
       const tabs = ["All", "9", "10", "11", "12"] as const;
       const boards: Record<string, LeaderboardEntry[]> = {};
 
-      for (const tab of tabs) {
-        const url =
-          tab === "All" ? `/api/leaderboard?date=${dateKey}` : `/api/leaderboard?date=${dateKey}&grade=${tab}`;
-        const response = await fetch(url);
-        if (response.ok) {
-          boards[tab] = (await response.json()) as LeaderboardEntry[];
-        }
-      }
+      await Promise.all(
+        tabs.map(async (tab) => {
+          const url =
+            tab === "All" ? `/api/leaderboard?date=${dateKey}` : `/api/leaderboard?date=${dateKey}&grade=${tab}`;
+          const response = await fetch(url);
+          if (response.ok) {
+            boards[tab] = (await response.json()) as LeaderboardEntry[];
+          }
+        })
+      );
       setLeaderboards(boards);
     } catch (error) {
       console.warn("Failed to fetch leaderboards:", error);
@@ -929,7 +935,7 @@ export default function DailyPage() {
                       const correctAnswer = Array.isArray(row.correct_letters)
                         ? row.correct_letters[0]
                         : row.correct_letters || row.answer || "—";
-                      const isCorrect = userAnswer === correctAnswer;
+                      const isCorrect = norm(userAnswer) === norm(correctAnswer);
 
                       return (
                         <tr key={row.id} className="border-b border-slate-800/50">

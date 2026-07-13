@@ -20,6 +20,7 @@ type QuestionType = "mcq" | "spr" | (string & {});
 export interface Choice {
   key?: string;
   // Possible HTML-ish fields coming from various sources
+  text_html?: string; // actual field name used by the normalized dataset
   html?: string;
   choice_html?: string;
   math?: string;
@@ -77,6 +78,7 @@ export interface StoredProgress {
 function pickHtmlLike(c: Choice | string): string | undefined {
   if (typeof c === "string") return c;
   return (
+    (typeof c?.text_html === "string" && c.text_html) ||
     (typeof c?.html === "string" && c.html) ||
     (typeof c?.choice_html === "string" && c.choice_html) ||
     (typeof c?.math === "string" && c.math) ||
