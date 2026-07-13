@@ -2,18 +2,16 @@
 
 import { useState } from "react";
 import { ChevronDown, ChevronUp } from "lucide-react";
-import ReactMarkdown from "react-markdown";
-import remarkMath from "remark-math";
-import rehypeKatex from "rehype-katex";
-import "katex/dist/katex.min.css";
+import { formatWordedMath, normalizeMathML, renderChoiceContent, type HtmlLikeChoice } from "@/lib/question-render";
 
-// Re-using types partially from QuestionViewer, but keeping it standalone for simplicity
-export type ChatChoice = {
-    key?: string;
-    letter?: string;
-    text?: string;
-    html?: string;
-};
+// Re-using types partially from QuestionViewer, but keeping it standalone for simplicity.
+// NOTE: this is the same shape the dataset uses elsewhere in the app — choices
+// carry their real content in `text_html` (MathML), not `text`/`html`. Stored
+// question content renders as native MathML via the shared question-render
+// helpers, same as the question bank and daily challenge; KaTeX (used
+// elsewhere in this chat widget) stays reserved for the bot's own freely
+// generated prose, which is the content it actually applies to.
+export type ChatChoice = HtmlLikeChoice & { letter?: string };
 
 export type QuestionData = {
     id: string;
@@ -31,18 +29,22 @@ export default function ChatQuestionCard({ question }: { question: QuestionData 
     const [showHint, setShowHint] = useState(false);
     const [showSolution, setShowSolution] = useState(false);
 
-    // Normalize data
-    const stem = question.stem || question.stem_html || "";
-    const rationale = question.rationale || question.rationale_html || "";
+    // Prefer real MathML over the worded-text fallback, same priority as the
+    // rest of the app.
+    const stemHtml = question.stem_html
+        ? normalizeMathML(question.stem_html)
+        : formatWordedMath(question.stem || "No question content");
+    const rationaleHtml = question.rationale_html
+        ? normalizeMathML(question.rationale_html)
+        : formatWordedMath(question.rationale || "");
 
-    // Parse choices
-    let parsedChoices: { key: string; text: string }[] = [];
-    if (Array.isArray(question.choices)) {
-        parsedChoices = question.choices.map((c: ChatChoice, i: number) => ({
+    // Parse choices, assigning a display key when the source data doesn't provide one
+    const parsedChoices: { key: string; choice: ChatChoice }[] = Array.isArray(question.choices)
+        ? question.choices.map((c, i) => ({
             key: c.key || c.letter || String.fromCharCode(65 + i),
-            text: c.text || c.html || "",
-        }));
-    }
+            choice: c,
+        }))
+        : [];
 
     // Correct Answer
     const correct = Array.isArray(question.correct_letters)
@@ -55,35 +57,30 @@ export default function ChatQuestionCard({ question }: { question: QuestionData 
     return (
         <div className="mt-2 w-full max-w-sm rounded-xl border border-slate-700 bg-slate-800 p-4 text-slate-200">
             {/* Question Stem */}
-            <div className="mb-4 text-sm prose prose-invert prose-p:my-1">
-                <ReactMarkdown remarkPlugins={[remarkMath]} rehypePlugins={[rehypeKatex]}>
-                    {stem}
-                </ReactMarkdown>
-            </div>
+            <div
+                className="question-html mb-4 text-sm"
+                dangerouslySetInnerHTML={{ __html: stemHtml }}
+            />
 
             {/* Choices */}
             <div className="space-y-2">
                 {parsedChoices.length > 0 ? (
-                    parsedChoices.map((c) => (
+                    parsedChoices.map(({ key, choice }) => (
                         <button
-                            key={c.key}
-                            onClick={() => setSelected(c.key)}
+                            key={key}
+                            onClick={() => setSelected(key)}
                             disabled={!!selected}
-                            className={`flex w-full items-center gap-3 rounded-lg border px-3 py-2 text-left text-sm transition-all ${selected === c.key
-                                ? c.key === correct
+                            className={`flex w-full items-center gap-3 rounded-lg border px-3 py-2 text-left text-sm transition-all ${selected === key
+                                ? key === correct
                                     ? "border-green-500/50 bg-green-500/10 text-green-300"
                                     : "border-red-500/50 bg-red-500/10 text-red-300"
-                                : selected && c.key === correct // Show correct answer if missed
+                                : selected && key === correct // Show correct answer if missed
                                     ? "border-green-500/50 bg-green-500/10 text-green-300"
                                     : "border-slate-600 bg-slate-700/50 hover:bg-slate-700 hover:border-slate-500"
                                 }`}
                         >
-                            <span className="font-bold">{c.key}.</span>
-                            <div className="prose prose-invert prose-sm">
-                                <ReactMarkdown remarkPlugins={[remarkMath]} rehypePlugins={[rehypeKatex]}>
-                                    {c.text}
-                                </ReactMarkdown>
-                            </div>
+                            <span className="font-bold">{key}.</span>
+                            <span className="question-html text-sm">{renderChoiceContent(choice)}</span>
                         </button>
                     ))
                 ) : (
@@ -128,11 +125,14 @@ export default function ChatQuestionCard({ question }: { question: QuestionData 
             </div>
 
             {showSolution && (
-                <div className="rounded-b-lg bg-slate-700/30 px-3 py-2 text-xs text-slate-300 prose prose-invert prose-sm max-w-none">
+                <div className="rounded-b-lg bg-slate-700/30 px-3 py-2 text-xs text-slate-300">
                     <div className="font-bold mb-1 text-emerald-400">Answer: {correct}</div>
-                    <ReactMarkdown remarkPlugins={[remarkMath]} rehypePlugins={[rehypeKatex]}>
-                        {rationale || "No explanation available."}
-                    </ReactMarkdown>
+                    <div
+                        className="question-html"
+                        dangerouslySetInnerHTML={{
+                            __html: rationaleHtml || "No explanation available.",
+                        }}
+                    />
                 </div>
             )}
         </div>

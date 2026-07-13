@@ -9,30 +9,17 @@ import {
   getAllProgress,
   type QuestionStatus,
 } from "@/lib/progress";
+import {
+  norm,
+  htmlBlock,
+  renderChoiceContent,
+  type HtmlLikeChoice,
+} from "@/lib/question-render";
 
 type DifficultyCode = "E" | "M" | "H" | (string & {});
 type QuestionType = "mcq" | "spr" | (string & {});
 
-export interface Choice {
-  key?: string;
-  // Possible HTML-ish fields coming from various sources
-  text_html?: string; // actual field name used by the normalized dataset
-  html?: string;
-  choice_html?: string;
-  math?: string;
-  mathml?: string;
-  latex?: string;
-  // Text fallbacks
-  text?: string;
-  label?: string;
-  value?: string;
-  alttext?: string;
-}
-
-export interface MediaItem {
-  tag?: string;
-  svg?: string;
-}
+export type Choice = HtmlLikeChoice;
 
 export interface Question {
   id: string;
@@ -45,9 +32,6 @@ export interface Question {
   stem_html?: string;
   stimulus?: string;
   stem?: string;
-
-  // Media
-  media?: { stimulus?: MediaItem[] };
 
   // MCQ / SPR payloads
   choices?: Choice[];
@@ -65,111 +49,6 @@ export interface StoredProgress {
   status: "unanswered" | "correct" | "incorrect" | "flagged";
   selectedAnswer?: string;
 }
-
-/** Pick any HTML/Math-ish field if present */
-function pickHtmlLike(c: Choice | string): string | undefined {
-  if (typeof c === "string") return c;
-  return (
-    (typeof c?.text_html === "string" && c.text_html) ||
-    (typeof c?.html === "string" && c.html) ||
-    (typeof c?.choice_html === "string" && c.choice_html) ||
-    (typeof c?.math === "string" && c.math) ||
-    (typeof c?.mathml === "string" && c.mathml) ||
-    (typeof c?.latex === "string" && c.latex) ||
-    undefined
-  );
-}
-
-/** Convert verbose/worded math AND normalize negatives */
-function formatWordedMath(raw?: string): string {
-  if (!raw) return "";
-  let t = raw.trim();
-
-  // normalize dashes to hyphen, then fix "- 24" -> "-24"
-  t = t.replace(/[–—]/g, "-").replace(/^\s*-\s+(?=\d|[a-zA-Z])/i, "-");
-
-  // "negative ___" / "positive ___" (numbers, fractions, variables)
-  t = t.replace(
-    /\bnegative\s+(-?\d+(?:\.\d+)?(?:\s*\/\s*\d+(?:\.\d+)?)?)(?=\b|$)/gi,
-    "−$1"
-  );
-  t = t.replace(
-    /\bpositive\s+(-?\d+(?:\.\d+)?(?:\s*\/\s*\d+(?:\.\d+)?)?)(?=\b|$)/gi,
-    "$1"
-  );
-  t = t.replace(/\bnegative\s+([a-zA-Z](?:\s*\^\s*\d+)?)(?=\b|$)/gi, "−$1");
-  t = t.replace(/\bpositive\s+([a-zA-Z](?:\s*\^\s*\d+)?)(?=\b|$)/gi, "$1");
-
-  // Basic verbal -> symbol
-  t = t
-    .replace(/StartFraction/gi, "(")
-    .replace(/EndFraction/gi, ")")
-    .replace(/Over/gi, ")/(")
-    .replace(/left parenthesis/gi, "(")
-    .replace(/right parenthesis/gi, ")")
-    .replace(/\bequals\b/gi, "=")
-    .replace(/\bminus\b/gi, "−")
-    .replace(/\bplus\b/gi, "+")
-    .replace(/\btimes\b/gi, "×")
-    .replace(/\bmultiplied by\b/gi, "×")
-    .replace(/\bdivided by\b/gi, "÷");
-
-  // "2 x" -> "2x"
-  t = t.replace(/(\d+)\s*([a-zA-Z])/g, "$1$2");
-
-  // Powers
-  t = t.replace(/\b([a-zA-Z])\s*squared\b/gi, "$1²");
-  t = t.replace(/\b([a-zA-Z])\s*cubed\b/gi, "$1³");
-  t = t.replace(/\bto the power of\s*2\b/gi, "²");
-  t = t.replace(/\bto the power of\s*3\b/gi, "³");
-
-  // Final spacing & true minus
-  t = t.replace(/-/g, "−").replace(/\s*([=+\-×÷])\s*/g, " $1 ");
-  return t.replace(/\s{2,}/g, " ").trim();
-}
-
-/** Render a choice that may be HTML/Math or plain worded text */
-function renderChoiceContent(c: Choice | string) {
-  const htmlish = pickHtmlLike(c);
-  const obj = typeof c === "string" ? undefined : c;
-  const text =
-    obj?.text ?? obj?.label ?? obj?.value ?? obj?.alttext ?? (typeof c === "string" ? c : "");
-
-  if (htmlish) {
-    return (
-      <div
-        className="question-html"
-        dangerouslySetInnerHTML={{ __html: htmlish }}
-      />
-    );
-  }
-  return <span>{formatWordedMath(String(text ?? ""))}</span>;
-}
-
-
-/** Safely render HTML fragments (stimulus/stem/rationale) — inherits parent color */
-function htmlBlock(html?: string, cls = "question-html") {
-  if (!html) return null;
-  return (
-    <div
-      suppressHydrationWarning
-      className={`${cls} space-y-2 leading-6`}
-      dangerouslySetInnerHTML={{ __html: html }}
-    />
-  );
-}
-
-/** If stimulus_html is empty but an SVG is present in media, render it */
-function svgFromMedia(q: Question): string | undefined {
-  const list = q?.media?.stimulus;
-  if (!Array.isArray(list)) return;
-  const hit = list.find((m) => m?.tag === "svg" && typeof m.svg === "string");
-  return hit?.svg;
-}
-
-/** simple normalization for answer comparison */
-const norm = (v: unknown) => String(v ?? "").trim().toLowerCase();
-
 
 function QuestionCard({
   q,
@@ -203,7 +82,6 @@ function QuestionCard({
   } = q;
 
   const isSPR = String(type || "").toLowerCase() === "spr";
-  const fallbackSvg = !stimulus_html ? svgFromMedia(q) : undefined;
 
   const isAnswered =
     questionProgress?.status === "correct" ||
@@ -317,13 +195,6 @@ function QuestionCard({
       {/* Question content */}
       <div className="mb-6 space-y-4">
         {htmlBlock(stimulus_html, "question-html")}
-        {/* Responsive fallback SVG graph */}
-        {!stimulus_html && fallbackSvg && (
-          <div
-            className="question-figure"
-            dangerouslySetInnerHTML={{ __html: fallbackSvg }}
-          />
-        )}
         {!stimulus_html && stimulus && <p className="question-html">{stimulus}</p>}
 
         {htmlBlock(stem_html, "question-stem font-medium text-lg")}
@@ -862,30 +733,9 @@ export default function QuestionViewer({
           border-color: rgba(255, 255, 255, 0.3);
           color: #fff;
         }
-        /* Make any HTML (including MathJax-y snippets) inherit dark shell colors */
-        :global(.question-html) {
-          color: inherit;
-        }
-        :global(.question-html img),
-        :global(.question-html svg) {
-          max-width: 100%;
-          height: auto;
-        }
-        /* For fallback graphs injected via media SVG */
-        :global(.question-figure) {
-          display: block;
-          width: 100%;
-          overflow-x: auto;
-          background: #fff;
-          border: 1px solid rgba(0,0,0,0.08);
-          border-radius: 12px;
-          padding: 12px;
-        }
-        :global(.question-figure svg) {
-          display: block;
-          width: 100%;
-          height: auto;
-        }
+        /* .question-html color-inherit, svg framing, and img sizing now live
+           in globals.css so they apply on every page that uses this class,
+           not just wherever QuestionViewer happens to be mounted. */
       `}</style>
     </div>
   );

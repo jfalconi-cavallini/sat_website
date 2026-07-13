@@ -50,16 +50,23 @@ body {
 /* ============================================================
    Question rendering helpers
 ============================================================ */
-.question-html { overflow-wrap:anywhere; word-break:break-word; line-height:1.6; }
+.question-html { overflow-wrap:anywhere; word-break:break-word; line-height:1.6; color:inherit; }
 .question-html math { font-size:1rem; line-height:1.5; }
-.question-html img,
-.question-figure img,
-.question-figure svg,
-.question-img {
-  max-width:100%; height:auto; display:block; margin:.5rem 0;
+.question-html img { max-width:100%; height:auto; display:block; margin:.5rem 0; }
+.question-html figure { margin:.5rem 0; }
+/* Graphs are inline <svg> straight from the data pipeline (matplotlib
+   exports, black-on-transparent) — frame them in a light card regardless of
+   the surrounding theme so they stay legible. */
+.question-html svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: .5rem 0;
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 12px;
+  padding: 12px;
 }
-.question-html figure, .question-figure figure { margin:.5rem 0; }
-.question-figure svg { width:100%; height:auto; }
 
 /* ============================================================
    Hero background & noise overlay

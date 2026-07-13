@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useState, useEffect, useRef } from "react";
+import { formatWordedMath, normalizeMathML, renderChoiceContent, norm } from "@/lib/question-render";
 
 /* =================== Types =================== */
 
@@ -89,65 +90,6 @@ function seededPick<T>(seedStr: string, arr: T[], k: number): T[] {
   return [...arr].sort(() => rng() - 0.5).slice(0, Math.min(k, arr.length));
 }
 
-/** Worded math → HTML (keeps your dark theme text) */
-function formatWordedMathHTML(raw?: string): string {
-  if (!raw) return "";
-  let t = raw.trim();
-
-  // Normalize dashes; fix "- 24" -> "-24"
-  t = t.replace(/[–—]/g, "-").replace(/(^|[\s(])-\s+(?=\d|[a-zA-Z])/g, "$1-");
-
-  // Verbal → symbols
-  t = t
-    .replace(/\bequals\b/gi, "=")
-    .replace(/\bminus\b/gi, "−")
-    .replace(/\bplus\b/gi, "+")
-    .replace(/\btimes\b/gi, "×")
-    .replace(/\bmultiplied by\b/gi, "×")
-    .replace(/\bdivided by\b/gi, "÷")
-    .replace(/StartFraction/gi, "(")
-    .replace(/EndFraction/gi, ")")
-    .replace(/Over/gi, ")/(")
-    .replace(/left parenthesis/gi, "(")
-    .replace(/right parenthesis/gi, ")");
-
-  // Negative/positive phrases
-  t = t.replace(/\bnegative\s+(\d+(?:\.\d+)?(?:\s*\/\s*\d+(?:\.\d+)?)?)/gi, "−$1");
-  t = t.replace(/\bpositive\s+(\d+(?:\.\d+)?(?:\s*\/\s*\d+(?:\.\d+)?)?)/gi, "$1");
-  t = t.replace(/\bnegative\s+([a-zA-Z](?:\s*\^\s*\d+)?)/gi, "−$1");
-  t = t.replace(/\bpositive\s+([a-zA-Z](?:\s*\^\s*\d+)?)/gi, "$1");
-
-  // Remove weird spacing around parentheses & inside simple ( x ) → (x)
-  t = t.replace(/([A-Za-z])\s*\(\s*/g, "$1(").replace(/\s*\)\s*/g, ")");
-
-  // Collapse "2 x" → "2x"
-  t = t.replace(/(\d+)\s*([a-zA-Z])/g, "$1$2");
-
-  // Exponents: caret and “Superscript x”
-  t = t.replace(/\^\s*([A-Za-z0-9()+\-]+)/g, (_, p1) => `<sup>${p1}</sup>`);
-  t = t.replace(/\bSuperscript\s*([A-Za-z0-9()+\-]+)\b/gi, (_m, p1) => `<sup>${p1}</sup>`);
-
-  // "x squared/cubed" and "to the power of n"
-  t = t.replace(/\b([a-zA-Z])\s*squared\b/gi, "$1<sup>2</sup>");
-  t = t.replace(/\b([a-zA-Z])\s*cubed\b/gi, "$1<sup>3</sup>");
-  t = t.replace(/\bto the power of\s*2\b/gi, "<sup>2</sup>");
-  t = t.replace(/\bto the power of\s*3\b/gi, "<sup>3</sup>");
-
-  // Thin spacing around operators (including minus→true minus)
-  t = t.replace(/-/g, "−").replace(/\s*([=+−×÷])\s*/g, " $1 ");
-
-  // Trim multiple spaces
-  t = t.replace(/\s{2,}/g, " ").trim();
-
-  return t;
-}
-
-/** Use HTML if provided, otherwise worded-math → HTML */
-function renderPlainOrHtml(html?: string, text?: string) {
-  const asHtml = html ?? formatWordedMathHTML(text ?? "");
-  return <span className="relative z-10" dangerouslySetInnerHTML={{ __html: asHtml }} />;
-}
-
 // Balanced daily questions
 function pickDailyQuestions(seedStr: string, allRows: Question[]): Question[] {
   if (!allRows.length) return [];
@@ -172,9 +114,6 @@ function pickDailyQuestions(seedStr: string, allRows: Question[]): Question[] {
   }
   return daily.slice(0, 10);
 }
-
-/** Normalize an answer before comparing (matches QuestionViewer's grading behavior) */
-const norm = (v: unknown) => String(v ?? "").trim().toLowerCase();
 
 function formatTime(seconds: number): string {
   const mins = Math.floor(seconds / 60);
@@ -313,7 +252,9 @@ function MiniQuestionViewer({
                 <div
                   className="text-slate-200 text-base leading-relaxed relative z-10"
                   dangerouslySetInnerHTML={{
-                    __html: question.stimulus_html ?? formatWordedMathHTML(question.stimulus),
+                    __html: question.stimulus_html
+                      ? normalizeMathML(question.stimulus_html)
+                      : formatWordedMath(question.stimulus),
                   }}
                 />
               </div>
@@ -322,7 +263,9 @@ function MiniQuestionViewer({
             <div
               className="text-white text-lg leading-relaxed font-medium"
               dangerouslySetInnerHTML={{
-                __html: question.stem_html ?? formatWordedMathHTML(question.stem || "No question content"),
+                __html: question.stem_html
+                  ? normalizeMathML(question.stem_html)
+                  : formatWordedMath(question.stem || "No question content"),
               }}
             />
           </div>
@@ -386,15 +329,14 @@ function MiniQuestionViewer({
                       {isWrong && <div className="absolute inset-0 bg-red-400/20 rounded-full animate-pulse" />}
                     </div>
 
-                    {/* Choice content: HTML or formatted text → HTML */}
+                    {/* Choice content: real MathML (preferred) or worded-text fallback */}
                     <span
                       className={`flex-1 relative z-10 ${
                         isThisCorrect ? "text-emerald-200" : isWrong ? "text-red-200" : isSelected ? "text-cyan-200" : "text-slate-200"
                       }`}
-                      dangerouslySetInnerHTML={{
-                        __html: choice.text_html ?? choice.html ?? formatWordedMathHTML(choice.text ?? choice.key),
-                      }}
-                    />
+                    >
+                      {renderChoiceContent(choice)}
+                    </span>
 
                     {submitted && answerIsCorrect && <span className="text-emerald-400 ml-2 text-lg">✓</span>}
                     {submitted && isWrong && <span className="text-red-400 ml-2 text-lg">✗</span>}
@@ -496,7 +438,9 @@ function MiniQuestionViewer({
               <div
                 className="text-slate-300 text-sm leading-relaxed relative z-10"
                 dangerouslySetInnerHTML={{
-                  __html: question.rationale_html ?? formatWordedMathHTML(question.rationale),
+                  __html: question.rationale_html
+                    ? normalizeMathML(question.rationale_html)
+                    : formatWordedMath(question.rationale),
                 }}
               />
             </div>
