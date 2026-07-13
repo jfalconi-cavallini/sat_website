@@ -9,10 +9,14 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "katex": "^0.16.28",
     "lucide-react": "^0.544.0",
-    "next": "15.5.2",
+    "next": "^15.5.12",
     "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "react-dom": "19.1.0",
+    "react-markdown": "^10.1.0",
+    "rehype-katex": "^7.0.1",
+    "remark-math": "^6.0.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
