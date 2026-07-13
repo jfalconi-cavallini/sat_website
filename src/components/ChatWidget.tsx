@@ -6,13 +6,13 @@ import ReactMarkdown from "react-markdown";
 import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
 import "katex/dist/katex.min.css";
-import ChatQuestionCard from "./ChatQuestionCard";
+import ChatQuestionCard, { type QuestionData } from "./ChatQuestionCard";
 
 type Message = {
   id: string;
   role: "user" | "bot";
   text: string;
-  question?: any;
+  question?: QuestionData;
 };
 
 export default function ChatWidget() {

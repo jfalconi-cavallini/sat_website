@@ -8,11 +8,18 @@ import rehypeKatex from "rehype-katex";
 import "katex/dist/katex.min.css";
 
 // Re-using types partially from QuestionViewer, but keeping it standalone for simplicity
-type QuestionData = {
+export type ChatChoice = {
+    key?: string;
+    letter?: string;
+    text?: string;
+    html?: string;
+};
+
+export type QuestionData = {
     id: string;
     stem?: string;
     stem_html?: string;
-    choices?: any;
+    choices?: ChatChoice[];
     correct_letters?: string | string[];
     answer?: string;
     rationale?: string;
@@ -31,7 +38,7 @@ export default function ChatQuestionCard({ question }: { question: QuestionData 
     // Parse choices
     let parsedChoices: { key: string; text: string }[] = [];
     if (Array.isArray(question.choices)) {
-        parsedChoices = question.choices.map((c: any, i: number) => ({
+        parsedChoices = question.choices.map((c: ChatChoice, i: number) => ({
             key: c.key || c.letter || String.fromCharCode(65 + i),
             text: c.text || c.html || "",
         }));
