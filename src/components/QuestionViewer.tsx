@@ -10,7 +10,7 @@ import {
   type QuestionStatus,
 } from "@/lib/progress";
 import {
-  norm,
+  isCorrectAnswer,
   htmlBlock,
   renderChoiceContent,
   type HtmlLikeChoice,
@@ -245,7 +245,7 @@ function QuestionCard({
                   <div className="flex items-center gap-2">
                     <span className="text-zinc-600">Your Answer:</span>
                     <span
-                      className={`font-bold ${norm(questionProgress.selectedAnswer) === norm(correctAnswer)
+                      className={`font-bold ${isCorrectAnswer(questionProgress.selectedAnswer, correctAnswer)
                           ? "text-green-700"
                           : "text-red-700"
                         }`}
@@ -475,7 +475,7 @@ export default function QuestionViewer({
     selectedAnswer: string,
     correctAnswer: string
   ) => {
-    const isCorrect = norm(selectedAnswer) === norm(correctAnswer);
+    const isCorrect = isCorrectAnswer(selectedAnswer, correctAnswer);
     const st: QuestionStatus = isCorrect ? "correct" : "incorrect";
     saveQuestionProgress(questionId, st, selectedAnswer);
 

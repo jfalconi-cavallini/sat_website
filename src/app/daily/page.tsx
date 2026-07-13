@@ -1,7 +1,8 @@
 "use client";
 
 import React, { useState, useEffect, useRef } from "react";
-import { formatWordedMath, normalizeMathML, renderChoiceContent, norm } from "@/lib/question-render";
+import { formatWordedMath, normalizeMathML, renderChoiceContent, isCorrectAnswer } from "@/lib/question-render";
+import { getTodayKey } from "@/lib/daily-selection";
 
 /* =================== Types =================== */
 
@@ -57,63 +58,7 @@ type Question = {
   rationale?: string;
 };
 
-// Minimal row shape used by inferSubject
-type InferSubjectRow = {
-  __source?: string;
-  domain_desc?: string;
-  domain?: string;
-  stem_html?: string;
-  stem?: string;
-  stimulus_html?: string;
-  stimulus?: string;
-};
-
 /* =================== Utilities =================== */
-
-function getTodayKey(): string {
-  return new Date().toISOString().split("T")[0];
-}
-
-function mulberry32(seed: number) {
-  return function () {
-    let t = (seed += 0x6d2b79f5);
-    t = Math.imul(t ^ (t >>> 15), t | 1);
-    t ^= t + Math.imul(t ^ (t >>> 7), t | 61);
-    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
-  };
-}
-
-function seededPick<T>(seedStr: string, arr: T[], k: number): T[] {
-  if (!arr.length) return [];
-  const seed = seedStr.split("").reduce((acc, char) => acc + char.charCodeAt(0), 0);
-  const rng = mulberry32(seed);
-  return [...arr].sort(() => rng() - 0.5).slice(0, Math.min(k, arr.length));
-}
-
-// Balanced daily questions
-function pickDailyQuestions(seedStr: string, allRows: Question[]): Question[] {
-  if (!allRows.length) return [];
-  const englishRows = allRows.filter((row) => row.__source === "English");
-  const mathRows = allRows.filter((row) => row.__source === "Math");
-
-  const sortByDifficulty = (rows: Question[]) => {
-    const easy = rows.filter((r) => r.difficulty === "E");
-    const medium = rows.filter((r) => r.difficulty === "M");
-    const hard = rows.filter((r) => r.difficulty === "H");
-    return [...easy, ...medium, ...hard];
-  };
-
-  const selectedEnglish = seededPick(seedStr + "-english", sortByDifficulty(englishRows), 5);
-  const selectedMath = seededPick(seedStr + "-math", sortByDifficulty(mathRows), 5);
-
-  const daily: Question[] = [];
-  const maxLen = Math.max(selectedEnglish.length, selectedMath.length);
-  for (let i = 0; i < maxLen; i++) {
-    if (i < selectedEnglish.length) daily.push(selectedEnglish[i]);
-    if (i < selectedMath.length) daily.push(selectedMath[i]);
-  }
-  return daily.slice(0, 10);
-}
 
 function formatTime(seconds: number): string {
   const mins = Math.floor(seconds / 60);
@@ -145,34 +90,6 @@ function saveDailyState(dateKey: string, state: DailyState): void {
   } catch {
     // ignore
   }
-}
-
-// Heuristic subject inference
-function inferSubject(row: InferSubjectRow): "English" | "Math" {
-  if (row.__source === "English" || row.__source === "Math") return row.__source;
-
-  const englishDomains = [
-    "Information and Ideas",
-    "Craft and Structure",
-    "Central Ideas and Details",
-    "Words in Context",
-    "Command of Evidence",
-    "Expression of Ideas",
-    "Standard English Conventions",
-    "Text Structure",
-    "Text Structure & Purpose",
-  ];
-  const domain = (row.domain_desc || row.domain || "").toString();
-  if (englishDomains.some((d) => domain.includes(d))) return "English";
-
-  const blob = (row.stem_html || row.stem || row.stimulus_html || row.stimulus || "")
-    .toString()
-    .toLowerCase();
-
-  if (/\b(quadratic|linear|function|equation|graph|slope|system|ratio|percent|mean|median|mode|probability|geometry|triangle|circle)\b/.test(blob)) {
-    return "Math";
-  }
-  return "English";
 }
 
 /* =================== Mini inline question viewer =================== */
@@ -218,7 +135,7 @@ function MiniQuestionViewer({
     return q.correct_letters || q.answer || "";
   };
 
-  const answerIsCorrect = submitted && norm(userAnswer) === norm(getCorrectAnswer(question));
+  const answerIsCorrect = submitted && isCorrectAnswer(userAnswer, getCorrectAnswer(question));
 
   return (
     <div className="space-y-6" onKeyDown={handleKeyPress} tabIndex={-1}>
@@ -519,7 +436,7 @@ export default function DailyPage() {
       const correctAnswer = Array.isArray(row.correct_letters)
         ? row.correct_letters[0]
         : row.correct_letters || row.answer || "";
-      if (norm(userAnswer) === norm(correctAnswer)) correct++;
+      if (isCorrectAnswer(userAnswer, correctAnswer)) correct++;
     });
 
     const elapsedSeconds = 720 - state.remainingSeconds;
@@ -636,42 +553,24 @@ export default function DailyPage() {
         return;
       }
 
-      let questionPool: Question[] = [];
+      let dailyQuestions: Question[] = [];
       try {
-        const response = await fetch("/api/qbank?subjects=english,math");
-        if (response.ok) {
-          questionPool = (await response.json()) as Question[];
-          if (!questionPool.length) throw new Error("No questions returned from API");
-        } else {
-          throw new Error(`API returned ${response.status}: ${response.statusText}`);
+        // The server computes today's seeded 10-question selection directly -
+        // we no longer fetch the entire question bank just to throw away
+        // everything except 10 questions client-side.
+        const response = await fetch("/api/daily");
+        if (!response.ok) {
+          const body = await response.json().catch(() => null);
+          throw new Error(body?.error || `API returned ${response.status}: ${response.statusText}`);
         }
-
-        // Ensure __source for balancing
-        questionPool = questionPool.map((q) => ({
-          ...q,
-          __source: (q.__source as "English" | "Math" | undefined) ?? inferSubject(q),
-        }));
+        const data = (await response.json()) as { date: string; questions: Question[] };
+        dailyQuestions = data.questions;
+        if (dailyQuestions.length < 10) throw new Error("Incomplete daily selection returned from API");
       } catch (error) {
-        console.error("Failed to fetch questions:", error);
-        setApiError("Unable to load questions. Please check that your question bank files are properly set up.");
-        setIsLoading(false);
-        return;
-      }
-
-      const englishCount = questionPool.filter((q) => q.__source === "English").length;
-      const mathCount = questionPool.filter((q) => q.__source === "Math").length;
-
-      if (englishCount < 5 || mathCount < 5) {
+        console.error("Failed to fetch today's Daily SAT:", error);
         setApiError(
-          `Insufficient questions available. Need at least 5 English and 5 Math questions. Found: ${englishCount} English, ${mathCount} Math.`
+          error instanceof Error ? error.message : "Unable to load today's Daily SAT. Please try again shortly."
         );
-        setIsLoading(false);
-        return;
-      }
-
-      const dailyQuestions = pickDailyQuestions(dateKey, questionPool);
-      if (dailyQuestions.length < 10) {
-        setApiError("Unable to generate a complete daily quiz. Please ensure your question bank has sufficient variety.");
         setIsLoading(false);
         return;
       }
@@ -879,7 +778,7 @@ export default function DailyPage() {
                       const correctAnswer = Array.isArray(row.correct_letters)
                         ? row.correct_letters[0]
                         : row.correct_letters || row.answer || "—";
-                      const isCorrect = norm(userAnswer) === norm(correctAnswer);
+                      const isCorrect = isCorrectAnswer(userAnswer, correctAnswer);
 
                       return (
                         <tr key={row.id} className="border-b border-slate-800/50">

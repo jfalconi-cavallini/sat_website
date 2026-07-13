@@ -37,6 +37,19 @@ export type HtmlLikeChoice = {
 /** Normalize an answer before comparing (trim + lowercase). */
 export const norm = (v: unknown) => String(v ?? "").trim().toLowerCase();
 
+/**
+ * Grade a submitted answer against the correct answer (MCQ letter or SPR
+ * free-response text), normalizing both sides first. Previously this
+ * comparison was inlined separately in QuestionViewer and the Daily
+ * Challenge, and the daily challenge's copies weren't normalized at all -
+ * the same typed answer could be graded correct in practice and incorrect
+ * in the graded, leaderboard-feeding daily quiz. One function now, used
+ * everywhere a submission is graded.
+ */
+export function isCorrectAnswer(submitted: unknown, correct: unknown): boolean {
+  return norm(submitted) === norm(correct);
+}
+
 /** Pick any HTML/Math-ish field if present, preferring the dataset's real text_html field. */
 export function pickHtmlLike(c: HtmlLikeChoice | string): string | undefined {
   if (typeof c === "string") return c;
