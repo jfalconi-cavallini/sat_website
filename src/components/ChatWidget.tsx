@@ -6,18 +6,17 @@ import ReactMarkdown from "react-markdown";
 import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
 import "katex/dist/katex.min.css";
-import ChatQuestionCard, { type QuestionData } from "./ChatQuestionCard";
-
-// Configurable so the widget can point at any environment's backend instance
-// (local dev, staging, prod) instead of a hardcoded host/port.
-const CHATBOT_URL = process.env.NEXT_PUBLIC_CHATBOT_URL || "http://localhost:5050/chat";
 
 type Message = {
   id: string;
   role: "user" | "bot";
   text: string;
-  question?: QuestionData;
 };
+
+// Just enough of the active question's shape to ground the tutor's answer -
+// the server looks up the real question by this id from its own cached
+// dataset rather than trusting any other client-supplied question content.
+type ActiveQuestion = { id?: string };
 
 export default function ChatWidget() {
   const [isOpen, setIsOpen] = useState(false);
@@ -26,12 +25,12 @@ export default function ChatWidget() {
   ]);
   const [inputValue, setInputValue] = useState("");
   const [isLoading, setIsLoading] = useState(false);
-  const [currentQuestion, setCurrentQuestion] = useState<unknown>(null);
+  const [currentQuestion, setCurrentQuestion] = useState<ActiveQuestion | null>(null);
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     const handleQuestionChange = (e: Event) => {
-      const customEvent = e as CustomEvent;
+      const customEvent = e as CustomEvent<ActiveQuestion>;
       setCurrentQuestion(customEvent.detail);
     };
 
@@ -58,46 +57,50 @@ export default function ChatWidget() {
       role: "user",
       text: inputValue.trim(),
     };
+    const historyForRequest = messages.map((m) => ({ role: m.role, text: m.text }));
+    const botMsgId = (Date.now() + 1).toString();
 
-    const newHistory = [...messages, userMsg];
-
-    setMessages((prev) => [...prev, userMsg]);
+    setMessages((prev) => [...prev, userMsg, { id: botMsgId, role: "bot", text: "" }]);
     setInputValue("");
     setIsLoading(true);
 
+    const setBotText = (text: string) =>
+      setMessages((prev) => prev.map((m) => (m.id === botMsgId ? { ...m, text } : m)));
+
     try {
-      const res = await fetch(CHATBOT_URL, {
+      const res = await fetch("/api/tutor", {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           message: userMsg.text,
-          history: messages,
-          context: currentQuestion // include active question data
+          history: historyForRequest,
+          contextQuestionId: currentQuestion?.id,
         }),
       });
 
-      if (!res.ok) {
-        throw new Error("Failed to fetch response");
+      if (!res.ok || !res.body) {
+        const errBody = await res.json().catch(() => null);
+        throw new Error(errBody?.error || "Failed to fetch response");
       }
 
-      const data = await res.json();
-      const botMsg: Message = {
-        id: (Date.now() + 1).toString(),
-        role: "bot",
-        text: data.response || "Sorry, I couldn't understand that.",
-        question: data.question // Store optional question payload
-      };
-      setMessages((prev) => [...prev, botMsg]);
+      const reader = res.body.getReader();
+      const decoder = new TextDecoder();
+      let accumulated = "";
+
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        const chunk = decoder.decode(value, { stream: true });
+        if (!chunk) continue;
+        if (isLoading) setIsLoading(false);
+        accumulated += chunk;
+        setBotText(accumulated);
+      }
+
+      if (!accumulated) setBotText("Sorry, I couldn't come up with a response. Please try again.");
     } catch (error) {
       console.error("Chat error:", error);
-      const errorMsg: Message = {
-        id: (Date.now() + 1).toString(),
-        role: "bot",
-        text: "Sorry, I'm having trouble connecting to the server. Please try again later.",
-      };
-      setMessages((prev) => [...prev, errorMsg]);
+      setBotText(error instanceof Error ? error.message : "Sorry, I'm having trouble responding right now.");
     } finally {
       setIsLoading(false);
     }
@@ -135,28 +138,23 @@ export default function ChatWidget() {
                     : "bg-slate-800 text-slate-200 rounded-bl-none prose-headings:text-slate-200 prose-strong:text-slate-200"
                     }`}
                 >
-                  <ReactMarkdown
-                    remarkPlugins={[remarkMath]}
-                    rehypePlugins={[rehypeKatex]}
-                    components={{
-                      p: ({ node, ...props }) => <p className="mb-2 last:mb-0" {...props} />,
-                      a: ({ node, ...props }) => <a className="text-blue-400 hover:text-blue-300 underline" target="_blank" rel="noopener noreferrer" {...props} />,
-                    }}
-                  >
-                    {msg.text}
-                  </ReactMarkdown>
-                  {/* Interactive Question Card */}
-                  {msg.question && <ChatQuestionCard question={msg.question} />}
+                  {msg.role === "bot" && !msg.text && isLoading ? (
+                    <Loader2 className="w-4 h-4 animate-spin text-slate-400" />
+                  ) : (
+                    <ReactMarkdown
+                      remarkPlugins={[remarkMath]}
+                      rehypePlugins={[rehypeKatex]}
+                      components={{
+                        p: ({ node, ...props }) => <p className="mb-2 last:mb-0" {...props} />,
+                        a: ({ node, ...props }) => <a className="text-blue-400 hover:text-blue-300 underline" target="_blank" rel="noopener noreferrer" {...props} />,
+                      }}
+                    >
+                      {msg.text}
+                    </ReactMarkdown>
+                  )}
                 </div>
               </div>
             ))}
-            {isLoading && (
-              <div className="flex justify-start">
-                <div className="bg-slate-800 p-3 rounded-lg rounded-bl-none">
-                  <Loader2 className="w-4 h-4 animate-spin text-slate-400" />
-                </div>
-              </div>
-            )}
             <div ref={messagesEndRef} />
           </div>
 
